@@ -59,7 +59,9 @@ lins-ancient-civilization-hypotheses/
 │   ├── api.zh.md             # 开放接口设计 v0（中文）
 │   ├── openapi.v0.yaml       # OpenAPI 草稿（资料库 + 审议）
 │   ├── decisions.md          # Dated project decisions (EN)
-│   └── decisions.zh.md       # 项目决策记录（中文）
+│   ├── decisions.zh.md       # 项目决策记录（中文）
+│   ├── entry-depth.md        # Fact-library depth standard (EN)
+│   └── entry-depth.zh.md     # 事实库条目深度标准（中文）
 ├── data/civilizations/       # 事实库条目（含种子空壳、_template.md）
 ├── sources/                  # 来源登记（含 _template.md）
 ├── hypotheses/               # 假说板（含 _template.md）— 标注 HYPOTHESIS
@@ -69,9 +71,10 @@ lins-ancient-civilization-hypotheses/
 
 模板已明确标为模板；**不会**预填虚构案例。
 
-**种子空壳（2026-10-11）：** `data/civilizations/` 下已有九个 draft 文明脚手架（两河、古埃及、印度河、中国青铜时代总览、三星堆、奥尔梅克、早期玛雅、安第斯早期总览、爱琴）。在真实出处登记前 `sources: []`——尚非已发布事实库条目。有日期的拍板见 [`docs/decisions.zh.md`](docs/decisions.zh.md)。
+**资料库状态（2026-10-11）：** `data/civilizations/` 下已有九个文明条目。两河（`civ-mesopotamia`）为深度试点，状态 **`fact-library`**（新加厚模板）；其余仍为 **`library-seed`**，待同等加厚。深度标准：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md)。有日期的拍板见 [`docs/decisions.zh.md`](docs/decisions.zh.md)。
 
-- **决策记录** — 有日期的范围选择（席位、云端先规范、种子区域）：[`docs/decisions.zh.md`](docs/decisions.zh.md) · [English](docs/decisions.md)
+- **条目深度** — 必填栏目、来源下限、状态阶梯：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md) · [English](docs/entry-depth.md)
+- **决策记录** — 有日期的范围选择（席位、云端先规范、种子区域、加厚种子）：[`docs/decisions.zh.md`](docs/decisions.zh.md) · [English](docs/decisions.md)
 - **架构** — 分层、实体、不变量、存储路径：[`docs/architecture.zh.md`](docs/architecture.zh.md) · [English](docs/architecture.md)
 - **审议圆桌** — 条目固化前的多透镜审核；对话式面向未来窗口：[`docs/council.zh.md`](docs/council.zh.md) · [English](docs/council.md) · 会话见 [`deliberations/`](deliberations/)
 - **视角透镜（仅引用）** — AI 思维技能，非真人背书：[FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)

@@ -87,3 +87,9 @@
 **决定：** 爱琴填实之后，将 `civ-olmec` 与 `civ-early-maya` 由 draft 空壳升为 `library-seed`，作为第一批九个文明空壳的末对中美洲条目。本提交起，**全部九条**首批种子（`civ-mesopotamia`、`civ-ancient-egypt`、`civ-indus-valley`、`civ-china-bronze`、`civ-sanxingdui`、`civ-andes`、`civ-aegean`、`civ-olmec`、`civ-early-maya`）均为 `library-seed`。
 
 **说明：** 奥尔梅克——登记 Pool 2007（剑桥；南韦拉克鲁斯–塔巴斯科形成期；约 3500 年前兴起 / 约千年繁荣；纪念性石雕框架）、Diehl 2004（泰晤士与哈德逊通论；圣洛伦佐 / 拉文塔 / 域外 / 后奥尔梅克目录；书名「最早」仅为出版定位）、Coe & Diehl 1980（圣洛伦佐发掘报告，P 档）、Grove 编 1987（《古代查尔卡钦戈》，高地奥尔梅克风格中心，P 档）、Nichols & Pool 2012（牛津中美洲考古手册取向）。早期玛雅——登记 Sharer & Traxler 2006（第 6 版长时段手册；本条止于早古典）、Estrada-Belli 2011（前古典仪式与权力；纳克贝 / 埃尔米拉多尔 / 西瓦尔；古典期约公元 3 世纪开启）、Inomata 等 2013 *Science*（塞瓦尔约公元前 1000–700 年广场–金字塔 / E 组；区域互动 vs 拉文塔单向扩散）。「母文化 vs 姊妹文化 / 奥尔梅克→玛雅扩散」留在 Notes。古典玛雅「崩溃」明确不在 `civ-early-maya` 范围。`related_ids` 交叉保留并加争议标注。不伪造文物图、不编造页码。
+
+### D-2026-10-11-11 — 将现有种子加厚为丰富事实条目
+
+**决定：** 升级文明事实库的**深度**。过薄的一段式种子没有意义。采用 [`data/civilizations/_template.md`](../data/civilizations/_template.md) 加厚栏目，以及双语深度标准 [`entry-depth.zh.md`](entry-depth.zh.md) / [`entry-depth.md`](entry-depth.md)。
+
+**说明：** 大型文明总览向可持久库状态加厚时，目标约 8–15+ 条已登记来源；每一主要栏目须引用；正文优先中英双语；禁止注水与不可核验「色彩」。状态阶梯：`draft` → `library-seed` → `library-seed-rich` → `fact-library`。试点：按新模板重写 `civ-mesopotamia` 并大幅增加真实来源（2026-10-11）。其他种子在同等加厚前仍为 `library-seed`。正直优先于速度。

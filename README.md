@@ -59,7 +59,9 @@ lins-ancient-civilization-hypotheses/
 │   ├── api.zh.md             # 开放接口设计 v0（中文）
 │   ├── openapi.v0.yaml       # OpenAPI stub (library + deliberations)
 │   ├── decisions.md          # Dated project decisions (EN)
-│   └── decisions.zh.md       # 项目决策记录（中文）
+│   ├── decisions.zh.md       # 项目决策记录（中文）
+│   ├── entry-depth.md        # Fact-library depth standard (EN)
+│   └── entry-depth.zh.md     # 事实库条目深度标准（中文）
 ├── data/civilizations/       # Fact-library entries (+ seed shells, _template.md)
 ├── sources/                  # Source registry (+ _template.md)
 ├── hypotheses/               # Hypothesis board (+ _template.md) — labeled HYPOTHESIS
@@ -69,9 +71,10 @@ lins-ancient-civilization-hypotheses/
 
 Templates are marked clearly; they are **not** filled with invented case studies.
 
-**Seed shells (2026-10-11):** nine draft civilization scaffolds exist under `data/civilizations/` (Mesopotamia, Ancient Egypt, Indus Valley, China Bronze Age overview, Sanxingdui, Olmec, Early Maya, Andean early overview, Aegean). `sources: []` until real citations are registered — not published fact-library entries yet. Dated choices: [`docs/decisions.md`](docs/decisions.md).
+**Library status (2026-10-11):** nine civilization entries exist under `data/civilizations/`. Mesopotamia (`civ-mesopotamia`) is the depth pilot at **`fact-library`** under the enriched template; the others remain **`library-seed`** pending the same enrichment. Depth rules: [`docs/entry-depth.md`](docs/entry-depth.md). Dated choices: [`docs/decisions.md`](docs/decisions.md).
 
-- **Decisions** — dated scope choices (seats, cloud spec-first, seed regions): [`docs/decisions.md`](docs/decisions.md) · [中文](docs/decisions.zh.md)
+- **Entry depth** — required sections, source minimums, status ladder: [`docs/entry-depth.md`](docs/entry-depth.md) · [中文](docs/entry-depth.zh.md)
+- **Decisions** — dated scope choices (seats, cloud spec-first, seed regions, deepen seeds): [`docs/decisions.md`](docs/decisions.md) · [中文](docs/decisions.zh.md)
 - **Architecture** — layers, entities, invariants, storage path: [`docs/architecture.md`](docs/architecture.md) · [中文](docs/architecture.zh.md)
 - **Deliberation Council** — multi-lens audit before entries harden; conversational FUTURE_WINDOW: [`docs/council.md`](docs/council.md) · [中文](docs/council.zh.md) · sessions in [`deliberations/`](deliberations/)
 - **Perspective lenses (by reference)** — AI thinking skills, not real-person endorsement: [FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)
