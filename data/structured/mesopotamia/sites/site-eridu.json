@@ -1,0 +1,31 @@
+{
+  "id": "site-eridu",
+  "entity": "site",
+  "names": {
+    "zh": "埃利都（阿布沙赫赖因）",
+    "en": "Eridu (Abu Shahrain)",
+    "native": null
+  },
+  "kind_note": "deep Ubaid-related sequence; Iraqi excavations 1946–1949",
+  "region": "Southern Mesopotamia / southern Iraq",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "南部关键早期遗址；伊拉克古迹局 1946–1949 年发掘，Safar、Mustafa 与 Lloyd 1981 年正式报告公布欧贝德相关深地层序等。",
+    "en": "Key southern early site; Iraqi excavations 1946–1949 published in Safar, Mustafa & Lloyd 1981, documenting the deep Ubaid-related sequence and later levels."
+  },
+  "sources": [
+    "src-mesopotamia-safar-lloyd-mustafa-eridu-1981",
+    "src-mesopotamia-crawford-sumerian-world-2013"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site in density pass; coords omitted."
+  }
+}

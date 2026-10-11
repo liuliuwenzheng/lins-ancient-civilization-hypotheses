@@ -1,0 +1,43 @@
+{
+  "id": "asm-girsu-tello-french-campaigns",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吉尔苏／特罗法军战役出土组合（Parrot 1948 综述）",
+    "en": "Girsu/Tello French-campaign find classes (Parrot 1948 synthesis)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-lagash-girsu"
+  ],
+  "period_ids": [
+    "period-early-dynastic",
+    "period-akkad",
+    "period-ur-iii"
+  ],
+  "summary": {
+    "zh": "Parrot 对 1877–1933 年特罗战役史与已刊发现类别的综合；具体雕像/铭文应回查原报告与馆藏，本记录不编造 AO 号。",
+    "en": "Parrot’s synthesis of 1877–1933 Tello campaign history and published find classes; specific statues/inscriptions must be rechecked in original reports and museum catalogs — no invented AO numbers."
+  },
+  "sources": [
+    "src-mesopotamia-parrot-tello-1948"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/tellovingtcampag00parr",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage class via secondary synthesis of primary campaigns."
+  }
+}

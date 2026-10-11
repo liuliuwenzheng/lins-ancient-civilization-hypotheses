@@ -1,0 +1,42 @@
+{
+  "id": "asm-kish-a-cemetery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "基什 A 墓地发掘组合（Mackay 1925）",
+    "en": "Kish A Cemetery excavated assemblage (Mackay 1925)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-kish"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Mackay《A 墓地》报告的墓葬、陶器、工具、饰物与圆柱印章等组合；不编造墓号以外的虚构清册。",
+    "en": "Cemetery assemblage (graves, pottery, tools, ornaments, cylinder seals) as published in Mackay 1925; no invented catalogue beyond the report."
+  },
+  "sources": [
+    "src-mesopotamia-mackay-kish-a-cemetery-1925",
+    "src-mesopotamia-moorey-kish-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.biodiversitylibrary.org/bibliography/7197",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level from Mackay Part I."
+  }
+}

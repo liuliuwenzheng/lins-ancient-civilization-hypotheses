@@ -1,0 +1,31 @@
+{
+  "id": "site-shuruppak-fara",
+  "entity": "site",
+  "names": {
+    "zh": "舒鲁帕克（法拉）",
+    "en": "Shuruppak (Fara)",
+    "native": null
+  },
+  "kind_note": "Early Dynastic city; early excavations reconstructed by Martin 1988",
+  "region": "Southern Mesopotamia (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "早王朝城市舒鲁帕克（法拉）；早期发掘材料经 Martin 1988 强二手重建；本条不把重建当作未发表田野笔记的替代。",
+    "en": "Early Dynastic city of Shuruppak (Fara); early excavation materials reconstructed in Martin 1988 (strong secondary); not a substitute for unpublished field books."
+  },
+  "sources": [
+    "src-mesopotamia-martin-fara-1988",
+    "src-mesopotamia-crawford-sumerian-world-2013"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site; coords omitted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-tell-al-ubaid",
+  "entity": "site",
+  "names": {
+    "zh": "乌贝德丘（Tell al-Ubaid）",
+    "en": "Tell al-Ubaid (Al-‘Ubaid)",
+    "native": null
+  },
+  "kind_note": "type-name site for Ubaid; temple and cemetery near Ur",
+  "region": "Southern Mesopotamia near Ur (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "欧贝德文化名称来源遗址之一；Hall 1919 与 Woolley 1922–3 季发掘，收入《乌尔发掘》第 I 卷（1927）。",
+    "en": "Name-giving site for the Ubaid tradition; Hall 1919 and Woolley 1922–3 seasons published as Ur Excavations I (1927)."
+  },
+  "sources": [
+    "src-mesopotamia-hall-woolley-alubaid-1927",
+    "src-mesopotamia-woolley-ur-iv-1955"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site; coords omitted."
+  }
+}

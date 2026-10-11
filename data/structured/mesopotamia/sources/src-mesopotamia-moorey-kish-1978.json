@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-moorey-kish-1978",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Moorey, P. R. S. 1978. Kish Excavations, 1923–1933: With a Microfiche Catalogue of the Objects in Oxford Excavated by the Oxford–Field Museum, Chicago, Expedition to Kish in Iraq, 1923–1933. Oxford: Clarendon Press for the Visitors of the Ashmolean Museum.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Strong secondary retrospective report and object catalogue for the Oxford–Field Museum Kish expedition (1923–1933), reconstructing contexts from surviving records after incomplete original publication. ISBN 0-19-813191-7. No free stable full-text URL asserted here.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-moorey-kish-1978.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry; bibliographic details verified via public catalogs 2026-10-11."
+  }
+}

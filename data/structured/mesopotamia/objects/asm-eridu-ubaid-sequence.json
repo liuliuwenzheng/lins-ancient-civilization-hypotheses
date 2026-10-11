@@ -1,0 +1,41 @@
+{
+  "id": "asm-eridu-ubaid-sequence",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃利都欧贝德相关层序组合（Safar et al. 1981）",
+    "en": "Eridu Ubaid-related sequence assemblage (Safar et al. 1981)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-eridu"
+  ],
+  "period_ids": [
+    "period-ubaid"
+  ],
+  "summary": {
+    "zh": "Safar、Mustafa 与 Lloyd 1981 年报告中的欧贝德相关深地层序与建筑/器物组合（组合级）。",
+    "en": "Deep Ubaid-related stratigraphic sequence and associated architecture/objects as published in Safar, Mustafa & Lloyd 1981 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-safar-lloyd-mustafa-eridu-1981"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level from Eridu final report."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-tell-asmar-palace-temple",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿斯马尔 Gimilsin 神庙与统治者宫殿组合（OIP 43）",
+    "en": "Tell Asmar Gimilsin Temple & Palace of the Rulers assemblage (OIP 43)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar"
+  ],
+  "period_ids": [
+    "period-akkad",
+    "period-ur-iii"
+  ],
+  "summary": {
+    "zh": "OIP 43 公布的埃什努那 Gimilsin（舒辛）神庙与统治者宫殿建筑—铭文组合；具体年代标签以报告为准并与现代综合对照。",
+    "en": "Gimilsin (Shu-Sin) Temple and Palace of the Rulers architectural–inscriptional assemblage as published in OIP 43; period labels follow the report and need modern cross-check."
+  },
+  "sources": [
+    "src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/publications/gimilsin-temple-and-palace-rulers-tell-asmar",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level; no fake inventory numbers."
+  }
+}

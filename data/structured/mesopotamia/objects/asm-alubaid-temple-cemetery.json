@@ -1,0 +1,42 @@
+{
+  "id": "asm-alubaid-temple-cemetery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌贝德丘神庙与墓地组合（Hall & Woolley 1927）",
+    "en": "Tell al-Ubaid temple & cemetery assemblage (Hall & Woolley 1927)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-al-ubaid"
+  ],
+  "period_ids": [
+    "period-ubaid",
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "《乌尔发掘》第 I 卷公布的 al-‘Ubaid 神庙与墓地材料（组合级）。",
+    "en": "Temple and cemetery materials from al-‘Ubaid as published in Ur Excavations I (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-hall-woolley-alubaid-1927"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.penn.museum/research/publications/publication/1024",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level from UE I."
+  }
+}

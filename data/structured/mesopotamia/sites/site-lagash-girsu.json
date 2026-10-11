@@ -2,22 +2,23 @@
   "id": "site-lagash-girsu",
   "entity": "site",
   "names": {
-    "zh": "拉格什／吉尔苏",
-    "en": "Lagash / Girsu",
+    "zh": "吉尔苏（特罗／Telloh）",
+    "en": "Girsu (Tello / Telloh)",
     "native": null
   },
-  "kind_note": "named-center-orientation-only — no find inventory until site reports registered",
-  "region": "Southern Mesopotamia (orientation via atlas/handbook)",
+  "kind_note": "excavated city of the Lagash state; French campaigns 1877–1933",
+  "region": "Southern Mesopotamia / Lagash region (Iraq)",
   "civilization_ids": [
     "civ-mesopotamia"
   ],
   "summary": {
-    "zh": "通论/地图集中常见南部中心地名；本条未登记该遗址发掘专报，故不编造出土清单。",
-    "en": "Southern center frequently named in surveys; oriented via Roaf atlas and Crawford handbook; no invented find lists."
+    "zh": "拉格什城邦的重要城市吉尔苏（现代特罗/Telloh）；法国队 1877–1933 年约二十次发掘战役，Parrot 1948 为其强二手综合。Tell al-Hiba（拉格什本城）另立条目。",
+    "en": "Major city of the Lagash state (modern Tello/Telloh); some twenty French campaigns 1877–1933 are synthesized in Parrot 1948. Tell al-Hiba (Lagash city proper) is a separate site record."
   },
   "sources": [
-    "src-mesopotamia-roaf-1990",
-    "src-mesopotamia-crawford-sumerian-world-2013"
+    "src-mesopotamia-parrot-tello-1948",
+    "src-mesopotamia-crawford-sumerian-world-2013",
+    "src-mesopotamia-roaf-1990"
   ],
   "coordinates": null,
   "editorial": {
@@ -26,6 +27,6 @@
       "sources/src-mesopotamia-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § other southern centers — orientation only."
+    "notes": "Renamed focus to Girsu/Tello with Parrot; was orientation-only Lagash/Girsu bundle."
   }
 }

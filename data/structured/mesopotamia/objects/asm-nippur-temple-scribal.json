@@ -1,0 +1,39 @@
+{
+  "id": "asm-nippur-temple-scribal",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "尼普尔神庙区与书吏区发掘组合（OIP 78）",
+    "en": "Nippur temple & scribal-quarter excavated assemblage (OIP 78)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-nippur"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "OIP 78 报告的恩利尔神庙区、书吏区与探方出土建筑与器物组合；不编造馆藏号。",
+    "en": "Architectural and object assemblage from the Temple of Enlil, Scribal Quarter, and soundings as published in OIP 78; no invented museum numbers."
+  },
+  "sources": [
+    "src-mesopotamia-mccown-haines-nippur-oip78-1967"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://oi-idb-static.uchicago.edu/multimedia/469/oip78.pdf",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level metadata from OIP 78."
+  }
+}

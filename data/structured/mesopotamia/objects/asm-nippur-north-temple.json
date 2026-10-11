@@ -1,0 +1,41 @@
+{
+  "id": "asm-nippur-north-temple",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "尼普尔北神庙早王朝组合（OIP 97）",
+    "en": "Nippur North Temple Early Dynastic assemblage (OIP 97)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-nippur"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "OIP 97 报告的北神庙与 Sounding E 建筑、器物、墓葬与铭文材料（组合级）。",
+    "en": "North Temple and Sounding E architecture, objects, burials, and inscriptions as published in OIP 97 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/research/publications/oip/nippur-volume-2-north-temple-and-sounding-e-excavations-joint-expedition",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level metadata from OIP 97."
+  }
+}

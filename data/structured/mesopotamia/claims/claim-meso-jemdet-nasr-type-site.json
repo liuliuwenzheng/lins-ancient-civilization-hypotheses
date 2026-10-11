@@ -1,0 +1,34 @@
+{
+  "id": "claim-meso-jemdet-nasr-type-site",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "杰姆代特奈斯尔遗址的 1920 年代发掘材料经 Matthews 2002 正式出版；该地名亦用作晚乌鲁克之后过渡阶段的器物组合/期名。",
+    "en": "Materials from the 1920s excavations at Jemdet Nasr were finally published by Matthews 2002; the site-name also labels a post–Late Uruk transitional assemblage/period."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-jemdet-nasr"
+  ],
+  "period_ids": [
+    "period-jemdet-nasr"
+  ],
+  "object_ids": [
+    "asm-jemdet-nasr-period-assemblage"
+  ],
+  "sources": [
+    "src-mesopotamia-matthews-jemdet-nasr-2002",
+    "src-mesopotamia-nissen-damerow-englund-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Fact about publication and period naming practice."
+  }
+}

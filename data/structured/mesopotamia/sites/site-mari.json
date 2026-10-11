@@ -1,0 +1,31 @@
+{
+  "id": "site-mari",
+  "entity": "site",
+  "names": {
+    "zh": "马里（哈里里丘）",
+    "en": "Mari (Tell Hariri)",
+    "native": null
+  },
+  "kind_note": "Middle Euphrates urban center; French Mission archéologique de Mari",
+  "region": "Middle Euphrates / eastern Syria",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "中幼发拉底城市马里；法国马里考古团；Parrot《伊什塔尔神庙》（1956）为本库已登记的 P 档神庙专报（宫殿档案卷另册）。",
+    "en": "Middle Euphrates city of Mari; French Mission archéologique de Mari; Parrot’s Temple of Ishtar (1956) is the registered primary temple volume (palace-archive volumes are separate)."
+  },
+  "sources": [
+    "src-mesopotamia-parrot-mari-ishtar-1956",
+    "src-mesopotamia-roaf-1990"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site; palace archives not claimed from this single volume."
+  }
+}

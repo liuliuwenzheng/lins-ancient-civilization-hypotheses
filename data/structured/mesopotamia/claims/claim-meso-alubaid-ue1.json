@@ -1,0 +1,34 @@
+{
+  "id": "claim-meso-alubaid-ue1",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hall 与 Woolley《乌尔发掘》第 I 卷（1927）报告 al-‘Ubaid 的神庙与墓地等工作。",
+    "en": "Hall & Woolley’s Ur Excavations I (1927) reports temple and cemetery work at al-‘Ubaid."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-al-ubaid"
+  ],
+  "period_ids": [
+    "period-ubaid",
+    "period-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-alubaid-temple-cemetery"
+  ],
+  "sources": [
+    "src-mesopotamia-hall-woolley-alubaid-1927"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Fact about UE I scope."
+  }
+}

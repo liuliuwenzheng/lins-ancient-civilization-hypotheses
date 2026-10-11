@@ -6,18 +6,19 @@
     "en": "Nippur",
     "native": null
   },
-  "kind_note": "named-center-orientation-only — no find inventory until site reports registered",
-  "region": "Southern Mesopotamia (orientation via atlas/handbook)",
+  "kind_note": "excavated urban/religious center; Joint Expedition OI–Penn/ASOR",
+  "region": "Southern Mesopotamia / central Babylonia (Iraq)",
   "civilization_ids": [
     "civ-mesopotamia"
   ],
   "summary": {
-    "zh": "通论/地图集中常见南部中心地名；本条未登记该遗址发掘专报，故不编造出土清单。",
-    "en": "Southern center frequently named in surveys; oriented via Roaf atlas and Crawford handbook; no invented find lists."
+    "zh": "美国宾大与芝加哥东方研究所（及 ASOR）联合发掘的宗教中心；OIP 78/97 正式报告涵盖恩利尔神庙区、书吏区与北神庙等。",
+    "en": "Religious center excavated by Joint Expeditions (Penn–OI / ASOR–OI); OIP 78 and 97 final reports cover the Temple of Enlil/Scribal Quarter and the North Temple/Sounding E."
   },
   "sources": [
-    "src-mesopotamia-roaf-1990",
-    "src-mesopotamia-crawford-sumerian-world-2013"
+    "src-mesopotamia-mccown-haines-nippur-oip78-1967",
+    "src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978",
+    "src-mesopotamia-roaf-1990"
   ],
   "coordinates": null,
   "editorial": {
@@ -26,6 +27,6 @@
       "sources/src-mesopotamia-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § other southern centers — orientation only."
+    "notes": "Upgraded from orientation-only in density pass; coords omitted (not asserted from checked pages)."
   }
 }

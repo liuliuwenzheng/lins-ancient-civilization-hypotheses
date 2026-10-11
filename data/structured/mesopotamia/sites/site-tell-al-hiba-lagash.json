@@ -1,0 +1,32 @@
+{
+  "id": "site-tell-al-hiba-lagash",
+  "entity": "site",
+  "names": {
+    "zh": "希巴丘（拉格什本城）",
+    "en": "Tell al-Hiba (Lagash)",
+    "native": null
+  },
+  "kind_note": "city of Lagash proper; distinct from Girsu/Tello",
+  "region": "Southern Mesopotamia / Lagash region (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "古代拉格什本城（Tell al-Hiba），与吉尔苏（特罗）为同一城邦网络中的不同遗址；本条以手册/地图集定位，并与 Parrot 对拉格什地区的战役史叙述对照；不编造未登记专报的出土清单。",
+    "en": "City of Lagash proper (Tell al-Hiba), distinct from Girsu/Tello within the Lagash polity network; oriented via handbook/atlas and Parrot’s regional campaign history; no invented find lists beyond registered reports."
+  },
+  "sources": [
+    "src-mesopotamia-parrot-tello-1948",
+    "src-mesopotamia-crawford-sumerian-world-2013",
+    "src-mesopotamia-roaf-1990"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site separate from Girsu/Tello; modern Penn–Cambridge LAP reports not yet registered as src-* in this pass."
+  }
+}

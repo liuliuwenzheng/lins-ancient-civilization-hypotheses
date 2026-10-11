@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-girsu-french-campaigns",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "法国队于 1877–1933 年在特罗（吉尔苏）进行约二十次发掘战役；Parrot 1948 年专著综合其战役史与已刊发现。",
+    "en": "French teams conducted about twenty excavation campaigns at Tello (Girsu) between 1877 and 1933; Parrot 1948 synthesizes campaign history and published finds."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-lagash-girsu"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-girsu-tello-french-campaigns"
+  ],
+  "sources": [
+    "src-mesopotamia-parrot-tello-1948"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Fact about excavation history as synthesized by Parrot."
+  }
+}

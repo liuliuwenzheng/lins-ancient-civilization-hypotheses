@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-habuba-planned-town",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Strommenger 1980 介绍德国东方学会在哈布巴卡比拉发掘的第四千纪规划城镇及其南部/乌鲁克相关物质文化。",
+    "en": "Strommenger 1980 presents the Deutsche Orient-Gesellschaft excavation of a fourth-millennium planned town at Habuba Kabira with southern/Uruk-related material culture."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-habuba-kabira"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "object_ids": [
+    "asm-habuba-kabira-uruk-related"
+  ],
+  "sources": [
+    "src-mesopotamia-strommenger-habuba-kabira-1980"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Fact about excavated town as presented by Strommenger; not an endorsement of expansion models."
+  }
+}

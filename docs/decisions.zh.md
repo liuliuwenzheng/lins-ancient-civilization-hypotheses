@@ -163,3 +163,21 @@
 - 种子定义：`tools/pack_seeds/*.json`；写入器：`tools/write_packs_from_seeds.py`。
 - `tools/export_check.py` 对全部 9 包通过出处闸门。API 冒烟：`GET /api/v1/civilizations` 返回 9 条。
 - Markdown 仍是编辑真源；结构化 JSON 是经闸门的服务形态。
+
+### D-2026-10-11-21 — 两河档案密度加深（遗址 + 一手来源）
+
+**决定：** 按主人优先项，先加深两河试点档案密度：登记可核验的遗址级发掘/调查报告（P）与强二手（S），扩展结构化遗址/器物组合/主张，并同步 `civ-mesopotamia.md` 关键遗址与来源栏。
+
+**本轮新增（均经 WebSearch/目录页核验书目；access_date 2026-10-11；不编造页码/坐标/伪造图）：**
+
+主要 **P** 档：
+- Nippur OIP 78（McCown & Haines 1967）、OIP 97（McCown, Haines & Biggs 1978）
+- Tell Asmar OIP 43（Frankfort, Lloyd & Jacobsen 1940）；Khafajah OIP 53（Delougaz 1940）；OIC 13 首季初步报告（1932）
+- Jemdet Nasr Matthews 2002；Kish Mackay 1925；Eridu Safar, Mustafa & Lloyd 1981；al-‘Ubaid Hall & Woolley 1927；Mari Ishtar Parrot 1956；Abu Salabikh ASE 1 Postgate 1983
+
+主要 **S** 档：Parrot Tello 1948；Moorey Kish 1978；Martin Fara 1988；Adams Diyala 1965；Strommenger Habuba Kabira 1980
+
+**结构化结果（mesopotamia 包）：** 来源 15→31；遗址 7→17；器物组合 4→16；主张 10→23；`tools/export_check.py` 全仓通过。
+
+**说明：** 吉尔苏（特罗）与希巴丘（拉格什本城）分列；Habuba 记为已发掘的乌鲁克相关城镇事实，Algaze 扩张模型仍为假说。完整性优先于速度。
+

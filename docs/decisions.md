@@ -163,3 +163,18 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 - Seed definitions: `tools/pack_seeds/*.json`; writer: `tools/write_packs_from_seeds.py`.
 - `tools/export_check.py` passes citation fail-closed for all 9 packs. API smoke: `GET /api/v1/civilizations` returns 9.
 - Markdown remains editorial source of truth; structured JSON is the gated serveable form.
+
+### D-2026-10-11-21 — Mesopotamia archive density (sites + primary sources)
+
+**Decision:** Per owner priority, deepen the Mesopotamia pilot: register verifiable site-level excavation/survey reports (P) and strong secondaries (S); expand structured sites/assemblages/claims; sync `civ-mesopotamia.md` Key sites and Sources.
+
+**This pass (bibliographic details verified via WebSearch/catalog pages; access_date 2026-10-11; no invented page numbers/coordinates/forged images):**
+
+Major **P**: Nippur OIP 78/97; Tell Asmar OIP 43; Khafajah OIP 53; OIC 13; Matthews Jemdet Nasr 2002; Mackay Kish 1925; Safar et al. Eridu 1981; Hall & Woolley al-‘Ubaid 1927; Parrot Mari Ishtar 1956; Postgate Abu Salabikh ASE 1 1983.
+
+Major **S**: Parrot Tello 1948; Moorey Kish 1978; Martin Fara 1988; Adams Diyala 1965; Strommenger Habuba Kabira 1980.
+
+**Structured pack:** sources 15→31; sites 7→17; objects 4→16; claims 10→23; `tools/export_check.py` passes all packs.
+
+**Notes:** Girsu/Tello vs Tell al-Hiba kept distinct; Habuba recorded as excavated Uruk-related town fact; Algaze expansion remains hypothesis. Integrity over speed.
+

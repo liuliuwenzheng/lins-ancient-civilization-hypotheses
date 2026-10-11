@@ -1,0 +1,31 @@
+{
+  "id": "site-habuba-kabira",
+  "entity": "site",
+  "names": {
+    "zh": "哈布巴卡比拉",
+    "en": "Habuba Kabira",
+    "native": null
+  },
+  "kind_note": "4th-millennium planned town on Syrian Euphrates; DOG excavations",
+  "region": "Syrian Euphrates (Upper Mesopotamia / Syria)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "叙利亚幼发拉底河畔第四千纪规划城镇；德国东方学会发掘；Strommenger 1980 介绍发掘成果与南部/乌鲁克相关物质文化。解释性「乌鲁克扩张」模型见假说栏。",
+    "en": "Fourth-millennium planned town on the Syrian Euphrates excavated by the Deutsche Orient-Gesellschaft; Strommenger 1980 presents results and southern/Uruk-related material culture. Interpretive ‘Uruk expansion’ model remains a hypothesis claim."
+  },
+  "sources": [
+    "src-mesopotamia-strommenger-habuba-kabira-1980",
+    "src-mesopotamia-algaze-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site outside southern alluvium but sourced for Uruk-related contact; coords omitted."
+  }
+}

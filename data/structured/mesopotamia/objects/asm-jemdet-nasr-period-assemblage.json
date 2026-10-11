@@ -1,0 +1,45 @@
+{
+  "id": "asm-jemdet-nasr-period-assemblage",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "杰姆代特奈斯尔期类型学组合（Matthews 2002）",
+    "en": "Jemdet Nasr period type assemblage (Matthews 2002)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-jemdet-nasr"
+  ],
+  "period_ids": [
+    "period-jemdet-nasr"
+  ],
+  "summary": {
+    "zh": "1920年代出土、经 Matthews 2002 正式出版的彩陶、风格化圆柱印章与早期泥板等相关组合（组合级；泥板细节另引 CDLI）。",
+    "en": "Painted pottery, stylised cylinder seals, and early tablets among materials from the 1920s excavations published in Matthews 2002 (assemblage-level; cite CDLI for specific tablets)."
+  },
+  "sources": [
+    "src-mesopotamia-matthews-jemdet-nasr-2002",
+    "src-mesopotamia-nissen-damerow-englund-1993",
+    "src-mesopotamia-cdli"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.bisi.ac.uk/publication/secrets-of-the-dark-mound-jemdet-nasr-1926-1928/",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [
+    "media-cdli-catalog"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Type-assemblage metadata; no invented P-numbers."
+  }
+}

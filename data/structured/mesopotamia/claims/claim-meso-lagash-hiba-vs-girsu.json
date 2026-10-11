@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-lagash-hiba-vs-girsu",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉格什本城（Tell al-Hiba）与吉尔苏（特罗）是拉格什城邦网络中的不同遗址，不应在档案中混为同一点。",
+    "en": "Lagash city proper (Tell al-Hiba) and Girsu (Tello) are distinct sites within the Lagash polity network and must not be collapsed into one locus in the archive."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-al-hiba-lagash",
+    "site-lagash-girsu"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-parrot-tello-1948",
+    "src-mesopotamia-roaf-1990",
+    "src-mesopotamia-crawford-sumerian-world-2013"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Fact about site distinction as oriented in registered surveys/syntheses."
+  }
+}

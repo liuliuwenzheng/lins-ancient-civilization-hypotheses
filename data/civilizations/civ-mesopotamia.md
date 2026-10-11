@@ -12,23 +12,39 @@ summary: |
   低地两河（幼发拉底–底格里斯冲积平原）是早期城市、文字行政与国家社会的核心考古—历史研究区；本条以南部苏美尔/乌鲁克为中心，按新深度模板分栏综述，主张均挂已登记来源。
   Lowland Mesopotamia (Tigris–Euphrates alluvium) is a core region for early cities, administrative writing, and state societies; this entry centers southern Sumer/Uruk developments under the enriched template, with every major claim tied to registered sources.
 sources:
-  - src-mesopotamia-pollock-1999
-  - src-mesopotamia-algaze-2008
-  - src-mesopotamia-postgate-1992
-  - src-mesopotamia-crawford-sumerian-world-2013
-  - src-mesopotamia-woolley-ur-iv-1955
-  - src-mesopotamia-nissen-1988
-  - src-mesopotamia-van-de-mieroop-2015
-  - src-mesopotamia-liverani-uruk-2006
-  - src-mesopotamia-potts-1997
   - src-mesopotamia-adams-1981
-  - src-mesopotamia-nissen-damerow-englund-1993
-  - src-mesopotamia-roaf-1990
-  - src-mesopotamia-finkbeiner-uruk-auwe4-1991
-  - src-mesopotamia-collon-1987
+  - src-mesopotamia-adams-diyala-1965
+  - src-mesopotamia-algaze-2008
   - src-mesopotamia-cdli
+  - src-mesopotamia-collon-1987
+  - src-mesopotamia-crawford-sumerian-world-2013
+  - src-mesopotamia-delougaz-khafajah-oip53-1940
+  - src-mesopotamia-finkbeiner-uruk-auwe4-1991
+  - src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940
+  - src-mesopotamia-frankfort-oic13-1932
+  - src-mesopotamia-hall-woolley-alubaid-1927
+  - src-mesopotamia-liverani-uruk-2006
+  - src-mesopotamia-mackay-kish-a-cemetery-1925
+  - src-mesopotamia-martin-fara-1988
+  - src-mesopotamia-matthews-jemdet-nasr-2002
+  - src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978
+  - src-mesopotamia-mccown-haines-nippur-oip78-1967
+  - src-mesopotamia-moorey-kish-1978
+  - src-mesopotamia-nissen-1988
+  - src-mesopotamia-nissen-damerow-englund-1993
+  - src-mesopotamia-parrot-mari-ishtar-1956
+  - src-mesopotamia-parrot-tello-1948
+  - src-mesopotamia-pollock-1999
+  - src-mesopotamia-postgate-1992
+  - src-mesopotamia-postgate-abu-salabikh-1983
+  - src-mesopotamia-potts-1997
+  - src-mesopotamia-roaf-1990
+  - src-mesopotamia-safar-lloyd-mustafa-eridu-1981
+  - src-mesopotamia-strommenger-habuba-kabira-1980
+  - src-mesopotamia-van-de-mieroop-2015
+  - src-mesopotamia-woolley-ur-iv-1955
 related_ids: ["civ-ancient-egypt", "civ-indus-valley", "civ-aegean"]
-notes: "fact-library pilot after 2026-10-11 depth upgrade. Scope stops short of a full Kassite–Neo-Assyrian–Neo-Babylonian political narrative. Absolute end-dates such as conventional 539 BCE are NOT asserted as this entry’s terminus. Algaze’s Uruk-expansion model and Liverani’s ‘first city’ framing are labeled as scholarly models where contested. No invented page numbers."
+notes: "fact-library + 2026-10-11 density pass (D-2026-10-11-21): more P/S site reports and structured sites. Scope still stops short of full Kassite–Neo-Assyrian–Neo-Babylonian narrative. Algaze Uruk-expansion and Liverani first-city framing remain scholarly models/hypotheses. No invented page numbers, coordinates, or forged images."
 ---
 
 # 两河 / Mesopotamia
@@ -72,15 +88,39 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 
 ## Key sites
 
-- **乌鲁克 / Uruk (Warka)** — 南部早期城市化与原始楔形文字行政的关键巨型遗址；德国考古队长期发掘，并有 AUWE 系列正式报告（含 Finkbeiner 对 1982–1984 年地表调查的 Endberichte）[`src-mesopotamia-finkbeiner-uruk-auwe4-1991`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`]。Liverani 以乌鲁克期为南部城市与国家起源的历史分析对象 [`src-mesopotamia-liverani-uruk-2006`]。
-- **乌尔 / Ur** — 大英博物馆与宾夕法尼亚大学博物馆联合远征；Woolley《乌尔发掘》第 IV 卷报告乌尔第三王朝之前的遗址层位与器物 [`src-mesopotamia-woolley-ur-iv-1955`]。
-- **区域洪泛平原聚落系统** — Adams《城市心脏地带》基于幼发拉底中部洪泛平原地表调查，重建多千年聚落与土地利用格局（非单一「都城传记」）[`src-mesopotamia-adams-1981`]。
-- **其他常在通论中出现的南部中心**（尼普尔 Nippur、拉格什/吉尔苏 Lagash/Girsu、基什 Kish、杰姆代特奈斯尔 Jemdet Nasr 等）——Roaf 地图集与 Crawford 手册提供地名与专题入口；本条在未登记各遗址发掘专报前，不编造具体「出土清单」[`src-mesopotamia-roaf-1990`][`src-mesopotamia-crawford-sumerian-world-2013`]。
+- **乌鲁克 / Uruk (Warka)** — 南部早期城市化与原始楔形文字行政的关键巨型遗址；德国考古队长期发掘，AUWE 正式报告含 Finkbeiner 1982–1984 地表调查 [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`]。
+- **乌尔 / Ur** — 英—美联合远征；Woolley《乌尔发掘》IV 报告乌尔三朝之前层位与器物 [`src-mesopotamia-woolley-ur-iv-1955`]。
+- **乌贝德丘 / Tell al-Ubaid** — 欧贝德名称来源遗址之一；Hall & Woolley《乌尔发掘》I（1927）报告神庙与墓地 [`src-mesopotamia-hall-woolley-alubaid-1927`]。
+- **埃利都 / Eridu (Abu Shahrain)** — 伊拉克 1946–1949 年发掘；Safar、Mustafa & Lloyd 1981 正式报告欧贝德相关深地层序 [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`]。
+- **尼普尔 / Nippur** — 宾大–东方研究所 / ASOR–OI 联合发掘；OIP 78（恩利尔神庙与书吏区）、OIP 97（北神庙）[`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`]。
+- **基什 / Kish** — 牛津–菲尔德博物馆远征；Mackay 1925《A 墓地》P 档；Moorey 1978 强二手重建 [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`]。
+- **杰姆代特奈斯尔 / Jemdet Nasr** — 期名类型学遗址；Matthews 2002 正式出版 1920 年代可及出土材料 [`src-mesopotamia-matthews-jemdet-nasr-2002`]。
+- **吉尔苏（特罗）/ Girsu (Tello)** — 拉格什城邦要城；法国 1877–1933 约二十次战役，Parrot 1948 综合 [`src-mesopotamia-parrot-tello-1948`]。
+- **希巴丘（拉格什本城）/ Tell al-Hiba (Lagash)** — 与吉尔苏不同点；手册/地图集定位，不与特罗混为一谈 [`src-mesopotamia-parrot-tello-1948`][`src-mesopotamia-roaf-1990`][`src-mesopotamia-crawford-sumerian-world-2013`]。
+- **阿斯马尔丘（埃什努那）/ Tell Asmar (Eshnunna)** — 迪亚拉；OIP 43 Gimilsin 神庙与统治者宫殿；OIC 13 首季初步报告 [`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-frankfort-oic13-1932`]。
+- **哈法杰 / Khafajah** — 迪亚拉早王朝神庙椭圆；Delougaz OIP 53 [`src-mesopotamia-delougaz-khafajah-oip53-1940`]。
+- **阿布萨拉比赫 / Abu Salabikh** — 早王朝聚落；Postgate ASE 1 西丘地表清理 [`src-mesopotamia-postgate-abu-salabikh-1983`]。
+- **舒鲁帕克（法拉）/ Shuruppak (Fara)** — Martin 1988 基于早期发掘的强二手重建 [`src-mesopotamia-martin-fara-1988`]。
+- **马里 / Mari (Tell Hariri)** — 中幼发拉底；Parrot《伊什塔尔神庙》1956（宫殿档案卷另册）[`src-mesopotamia-parrot-mari-ishtar-1956`]。
+- **哈布巴卡比拉 / Habuba Kabira** — 叙利亚幼发拉底第四千纪规划城镇；Strommenger 1980；与南部/乌鲁克物质文化相关，扩张模型仍属假说 [`src-mesopotamia-strommenger-habuba-kabira-1980`][`src-mesopotamia-algaze-2008`]。
+- **区域调查区** — 幼发拉底中部洪泛平原：Adams 1981；迪亚拉平原：Adams 1965 [`src-mesopotamia-adams-1981`][`src-mesopotamia-adams-diyala-1965`]。
 
-- **Uruk (Warka)** — key southern mega-site for early urbanization and proto-cuneiform administration; long-running German excavations with AUWE final reports, including Finkbeiner’s 1982–1984 surface survey [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`].
-- **Ur** — Joint Expedition (British Museum + University of Pennsylvania Museum); Woolley *Ur Excavations* IV covers pre–Ur III periods and finds [`src-mesopotamia-woolley-ur-iv-1955`].
-- **Regional floodplain settlement systems** — Adams’s *Heartland of Cities* reconstructs multi-millennial settlement and land use from central Euphrates surveys (not a single-capital biography) [`src-mesopotamia-adams-1981`].
-- **Other southern centers frequently named in surveys** (Nippur, Lagash/Girsu, Kish, Jemdet Nasr, etc.) — oriented via Roaf’s atlas and Crawford’s handbook; no invented find lists until site-specific reports are registered [`src-mesopotamia-roaf-1990`][`src-mesopotamia-crawford-sumerian-world-2013`].
+- **Uruk (Warka)** — southern mega-site; AUWE reports incl. Finkbeiner survey [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`].
+- **Ur** — Joint Expedition; Woolley *UE* IV pre–Ur III [`src-mesopotamia-woolley-ur-iv-1955`].
+- **Tell al-Ubaid** — Ubaid name-site; Hall & Woolley *UE* I (1927) [`src-mesopotamia-hall-woolley-alubaid-1927`].
+- **Eridu** — Iraqi 1946–1949; Safar, Mustafa & Lloyd 1981 Ubaid-related deep sequence [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`].
+- **Nippur** — Joint Expeditions; OIP 78 / OIP 97 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`].
+- **Kish** — Oxford–Field Museum; Mackay 1925 (P); Moorey 1978 (S) [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`].
+- **Jemdet Nasr** — period type-site; Matthews 2002 final publication of accessible 1920s finds [`src-mesopotamia-matthews-jemdet-nasr-2002`].
+- **Girsu (Tello)** — Lagash-state city; French campaigns 1877–1933; Parrot 1948 synthesis [`src-mesopotamia-parrot-tello-1948`].
+- **Tell al-Hiba (Lagash)** — city proper, distinct from Girsu [`src-mesopotamia-parrot-tello-1948`][`src-mesopotamia-roaf-1990`][`src-mesopotamia-crawford-sumerian-world-2013`].
+- **Tell Asmar (Eshnunna)** — Diyala; OIP 43; OIC 13 [`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-frankfort-oic13-1932`].
+- **Khafajah** — Temple Oval; Delougaz OIP 53 [`src-mesopotamia-delougaz-khafajah-oip53-1940`].
+- **Abu Salabikh** — ASE 1 West Mound clearance [`src-mesopotamia-postgate-abu-salabikh-1983`].
+- **Shuruppak (Fara)** — Martin 1988 reconstruction (S) [`src-mesopotamia-martin-fara-1988`].
+- **Mari** — Parrot *Temple of Ishtar* 1956 [`src-mesopotamia-parrot-mari-ishtar-1956`].
+- **Habuba Kabira** — DOG planned town; Strommenger 1980; Uruk-related material culture; expansion model remains hypothesis [`src-mesopotamia-strommenger-habuba-kabira-1980`][`src-mesopotamia-algaze-2008`].
+- **Survey zones** — central Euphrates: Adams 1981; Diyala plains: Adams 1965 [`src-mesopotamia-adams-1981`][`src-mesopotamia-adams-diyala-1965`].
 
 ## Urbanism, architecture & institutions
 
@@ -108,6 +148,15 @@ Southern Mesopotamian economies rest on alluvial agriculture and water managemen
 - **乌鲁克地表调查材料** — Finkbeiner AUWE 4 公布 1982–1984 年调查结果，属德国乌鲁克正式报告序列 [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]。
 - **物质基础通论** — Potts 从资源、技术与第三千纪证据讨论南部物质文化基础设施 [`src-mesopotamia-potts-1997`]。
 - **手册专题** — Crawford《苏美尔世界》各章覆盖陶瓷、建筑、艺术等专题入口 [`src-mesopotamia-crawford-sumerian-world-2013`]。
+- **尼普尔神庙/书吏区与北神庙组合** — OIP 78 / OIP 97 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`]。
+- **迪亚拉神庙—宫殿建筑** — Tell Asmar OIP 43；Khafajah 神庙椭圆 OIP 53 [`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-delougaz-khafajah-oip53-1940`]。
+- **基什 A 墓地组合** — Mackay 1925；Moorey 1978 重建 [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`]。
+- **杰姆代特奈斯尔期组合** — Matthews 2002（彩陶、印章、早期泥板等，泥板细目另引 CDLI）[`src-mesopotamia-matthews-jemdet-nasr-2002`][`src-mesopotamia-cdli`]。
+- **吉尔苏／特罗战役发现类别** — Parrot 1948 综述（不编造 AO 号）[`src-mesopotamia-parrot-tello-1948`]。
+- **埃利都欧贝德层序 / al-‘Ubaid 神庙墓地** — Safar et al. 1981；Hall & Woolley 1927 [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`][`src-mesopotamia-hall-woolley-alubaid-1927`]。
+- **马里伊什塔尔神庙组合** — Parrot 1956 [`src-mesopotamia-parrot-mari-ishtar-1956`]。
+- **阿布萨拉比赫西丘清理组合** — Postgate 1983 [`src-mesopotamia-postgate-abu-salabikh-1983`]。
+- **哈布巴卡比拉乌鲁克相关城镇组合** — Strommenger 1980 [`src-mesopotamia-strommenger-habuba-kabira-1980`]。
 
 本条不上传或复述无馆藏号的「文物故事图」；对象级引用应指向发掘报告、博物馆目录或 CDLI 文物页。
 
@@ -117,38 +166,63 @@ Southern Mesopotamian economies rest on alluvial agriculture and water managemen
 - **Uruk survey assemblage** — Finkbeiner AUWE 4 (1982–1984 survey) [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`].
 - **Material foundations** — Potts on resources, technology, and 3rd-millennium evidence [`src-mesopotamia-potts-1997`].
 - **Handbook chapters** — Crawford *Sumerian World* for ceramics, architecture, art entry points [`src-mesopotamia-crawford-sumerian-world-2013`].
+- **Nippur temple/scribal & North Temple assemblages** — OIP 78 / OIP 97 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`].
+- **Diyala temple–palace architecture** — Tell Asmar OIP 43; Khafajah Temple Oval OIP 53 [`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-delougaz-khafajah-oip53-1940`].
+- **Kish A Cemetery assemblage** — Mackay 1925; Moorey 1978 [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`].
+- **Jemdet Nasr period assemblage** — Matthews 2002 (cite CDLI for specific tablets) [`src-mesopotamia-matthews-jemdet-nasr-2002`][`src-mesopotamia-cdli`].
+- **Girsu/Tello campaign find classes** — Parrot 1948 (no invented AO numbers) [`src-mesopotamia-parrot-tello-1948`].
+- **Eridu Ubaid sequence / al-‘Ubaid temple–cemetery** — Safar et al. 1981; Hall & Woolley 1927 [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`][`src-mesopotamia-hall-woolley-alubaid-1927`].
+- **Mari Temple of Ishtar assemblage** — Parrot 1956 [`src-mesopotamia-parrot-mari-ishtar-1956`].
+- **Abu Salabikh West Mound clearance** — Postgate 1983 [`src-mesopotamia-postgate-abu-salabikh-1983`].
+- **Habuba Kabira Uruk-related town assemblage** — Strommenger 1980 [`src-mesopotamia-strommenger-habuba-kabira-1980`].
 
 No forged artifact imagery; object-level claims should point to excavation reports, museum catalogs, or CDLI artifact pages.
 
 ## External contacts
 
-第四千纪「乌鲁克扩张 / Uruk expansion」是讨论南部两河与周边地区物质文化联系的重要学术模型：Algaze 将其放在早期城市景观与区域互动框架中论述 [`src-mesopotamia-algaze-2008`]。Liverani 亦讨论中心—边缘议题 [`src-mesopotamia-liverani-uruk-2006`]。该模型在学界有支持与修订/批评；**本条将其标记为学术模型，而非已证实的单向殖民叙事**。与埃及、印度河等宏观区域的具体贸易路线或「殖民地」主张，须等待登记专门出处后再写入事实栏；目前 `related_ids` 仅为地理/年代交叉，不构成已证明的接触清单 [`src-mesopotamia-pollock-1999`][`src-mesopotamia-roaf-1990`]。
+第四千纪「乌鲁克扩张 / Uruk expansion」是讨论南部两河与周边地区物质文化联系的重要学术模型：Algaze 将其放在早期城市景观与区域互动框架中论述 [`src-mesopotamia-algaze-2008`]。Liverani 亦讨论中心—边缘议题 [`src-mesopotamia-liverani-uruk-2006`]。Habuba Kabira 等点的发掘表明存在南部/乌鲁克相关物质文化的规划城镇，但**不等同于已证实的单向殖民叙事** [`src-mesopotamia-strommenger-habuba-kabira-1980`]。该模型在学界有支持与修订/批评；**本条仍将其标记为学术模型**。与埃及、印度河等宏观区域的具体贸易路线或「殖民地」主张，须等待登记专门出处后再写入事实栏；目前 `related_ids` 仅为地理/年代交叉，不构成已证明的接触清单 [`src-mesopotamia-pollock-1999`][`src-mesopotamia-roaf-1990`]。
 
-The 4th-millennium **Uruk expansion** is a major scholarly model for southern Mesopotamian interaction with surrounding regions; Algaze frames it within early urban landscape and regional interaction [`src-mesopotamia-algaze-2008`]. Liverani likewise discusses center–periphery themes [`src-mesopotamia-liverani-uruk-2006`]. The model has support and revision/critique in the literature; **this entry labels it a scholarly model, not a proven one-way colonial narrative**. Specific trade-route or “colony” claims involving Egypt, the Indus, or other macro-regions require dedicated registered sources before entering fact columns; current `related_ids` are geographic/chronological cross-links only [`src-mesopotamia-pollock-1999`][`src-mesopotamia-roaf-1990`].
+The 4th-millennium **Uruk expansion** is a major scholarly model for southern Mesopotamian interaction with surrounding regions; Algaze frames it within early urban landscape and regional interaction [`src-mesopotamia-algaze-2008`]. Liverani likewise discusses center–periphery themes [`src-mesopotamia-liverani-uruk-2006`]. Excavated towns such as Habuba Kabira show southern/Uruk-related material culture in planned settlements, which is **not** treated here as proof of a one-way colonial narrative [`src-mesopotamia-strommenger-habuba-kabira-1980`]. The model has support and revision/critique; **this entry still labels it a scholarly model**. Specific trade-route or “colony” claims involving Egypt, the Indus, or other macro-regions require dedicated registered sources before entering fact columns; current `related_ids` are geographic/chronological cross-links only [`src-mesopotamia-pollock-1999`][`src-mesopotamia-roaf-1990`].
 
 ## Research history
 
-现代两河考古的关键线索包括：乌尔的英—美联合发掘及其正式报告（Woolley）[`src-mesopotamia-woolley-ur-iv-1955`]；乌鲁克-瓦尔卡的德国长期工作与 AUWE 报告序列（含 Finkbeiner 调查卷）[`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]；Adams 等对伊拉克南部的区域地表调查与聚落体系综合 [`src-mesopotamia-adams-1981`]；柏林等地对乌鲁克古朴泥板的整理与 Englund 等对原始楔形文字的研究，并与 CDLI 数字目录衔接 [`src-mesopotamia-nissen-damerow-englund-1993`][`src-mesopotamia-cdli`]。综合层则有 Nissen、Pollock、Postgate、Potts、Algaze、Liverani、Van De Mieroop 与 Crawford 手册等 [`src-mesopotamia-nissen-1988`][`src-mesopotamia-pollock-1999`][`src-mesopotamia-postgate-1992`][`src-mesopotamia-potts-1997`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`][`src-mesopotamia-van-de-mieroop-2015`][`src-mesopotamia-crawford-sumerian-world-2013`]。Roaf 地图集为公众与教学向的地理定向 [`src-mesopotamia-roaf-1990`]。
+现代两河考古的关键线索包括：乌尔的英—美联合发掘及其正式报告（Woolley）[`src-mesopotamia-woolley-ur-iv-1955`]；乌鲁克-瓦尔卡的德国长期工作与 AUWE 报告序列（含 Finkbeiner 调查卷）[`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]；Adams 等对伊拉克南部的区域地表调查与聚落体系综合 [`src-mesopotamia-adams-1981`]；柏林等地对乌鲁克古朴泥板的整理与 Englund 等对原始楔形文字的研究，并与 CDLI 数字目录衔接 [`src-mesopotamia-nissen-damerow-englund-1993`][`src-mesopotamia-cdli`]。综合层则有 Nissen、Pollock、Postgate、Potts、Algaze、Liverani、Van De Mieroop 与 Crawford 手册等 [`src-mesopotamia-nissen-1988`][`src-mesopotamia-pollock-1999`][`src-mesopotamia-postgate-1992`][`src-mesopotamia-potts-1997`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`][`src-mesopotamia-van-de-mieroop-2015`][`src-mesopotamia-crawford-sumerian-world-2013`]。Roaf 地图集为公众与教学向的地理定向 [`src-mesopotamia-roaf-1990`]。密度补强（2026-10-11）另登记：尼普尔 OIP 78/97 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`]；迪亚拉 OIP 43/53 与 OIC 13 [`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-delougaz-khafajah-oip53-1940`][`src-mesopotamia-frankfort-oic13-1932`]；基什 Mackay/Moorey [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`]；Jemdet Nasr Matthews 2002 [`src-mesopotamia-matthews-jemdet-nasr-2002`]；Tello Parrot 1948 [`src-mesopotamia-parrot-tello-1948`]；Eridu Safar et al. 1981 与 al-‘Ubaid Hall & Woolley 1927 [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`][`src-mesopotamia-hall-woolley-alubaid-1927`]；Mari Ishtar Parrot 1956 [`src-mesopotamia-parrot-mari-ishtar-1956`]；Abu Salabikh Postgate 1983 [`src-mesopotamia-postgate-abu-salabikh-1983`]；Fara Martin 1988 [`src-mesopotamia-martin-fara-1988`]；Habuba Kabira Strommenger 1980 [`src-mesopotamia-strommenger-habuba-kabira-1980`]；Diyala 调查 Adams 1965 [`src-mesopotamia-adams-diyala-1965`]。
 
-Modern research pillars include the Joint Expedition to Ur and its final reports (Woolley) [`src-mesopotamia-woolley-ur-iv-1955`]; long-term German work at Uruk-Warka and the AUWE series (including Finkbeiner’s survey volume) [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]; Adams’s regional surface surveys and settlement synthesis [`src-mesopotamia-adams-1981`]; archaic Uruk tablet projects linked to Englund and to CDLI [`src-mesopotamia-nissen-damerow-englund-1993`][`src-mesopotamia-cdli`]. Syntheses include Nissen, Pollock, Postgate, Potts, Algaze, Liverani, Van De Mieroop, and Crawford’s handbook [`src-mesopotamia-nissen-1988`][`src-mesopotamia-pollock-1999`][`src-mesopotamia-postgate-1992`][`src-mesopotamia-potts-1997`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`][`src-mesopotamia-van-de-mieroop-2015`][`src-mesopotamia-crawford-sumerian-world-2013`]. Roaf’s atlas remains a public/teaching geographic orientation [`src-mesopotamia-roaf-1990`].
+Modern research pillars include the Joint Expedition to Ur and its final reports (Woolley) [`src-mesopotamia-woolley-ur-iv-1955`]; long-term German work at Uruk-Warka and the AUWE series (including Finkbeiner’s survey volume) [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]; Adams’s regional surface surveys and settlement synthesis [`src-mesopotamia-adams-1981`]; archaic Uruk tablet projects linked to Englund and to CDLI [`src-mesopotamia-nissen-damerow-englund-1993`][`src-mesopotamia-cdli`]. Syntheses include Nissen, Pollock, Postgate, Potts, Algaze, Liverani, Van De Mieroop, and Crawford’s handbook [`src-mesopotamia-nissen-1988`][`src-mesopotamia-pollock-1999`][`src-mesopotamia-postgate-1992`][`src-mesopotamia-potts-1997`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`][`src-mesopotamia-van-de-mieroop-2015`][`src-mesopotamia-crawford-sumerian-world-2013`]. Roaf’s atlas remains a public/teaching geographic orientation [`src-mesopotamia-roaf-1990`]. Density pass (2026-10-11) also registers Nippur OIP 78/97; Diyala OIP 43/53 and OIC 13; Kish Mackay/Moorey; Jemdet Nasr Matthews 2002; Tello Parrot 1948; Eridu Safar et al. 1981 and al-‘Ubaid Hall & Woolley 1927; Mari Ishtar Parrot 1956; Abu Salabikh Postgate 1983; Fara Martin 1988; Habuba Kabira Strommenger 1980; Diyala survey Adams 1965 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`][`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-delougaz-khafajah-oip53-1940`][`src-mesopotamia-frankfort-oic13-1932`][`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`][`src-mesopotamia-matthews-jemdet-nasr-2002`][`src-mesopotamia-parrot-tello-1948`][`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`][`src-mesopotamia-hall-woolley-alubaid-1927`][`src-mesopotamia-parrot-mari-ishtar-1956`][`src-mesopotamia-postgate-abu-salabikh-1983`][`src-mesopotamia-martin-fara-1988`][`src-mesopotamia-strommenger-habuba-kabira-1980`][`src-mesopotamia-adams-diyala-1965`].
 
 ## Sources
 
-- `src-mesopotamia-pollock-1999` — secondary monograph; early urban/state synthesis (~5000–2100 BCE framing) (tier S)
-- `src-mesopotamia-algaze-2008` — secondary monograph; Uruk-era urban landscape / expansion model (tier S)
-- `src-mesopotamia-postgate-1992` — secondary monograph; society and economy (tier S)
-- `src-mesopotamia-crawford-sumerian-world-2013` — secondary edited handbook (tier S)
-- `src-mesopotamia-woolley-ur-iv-1955` — primary excavation report, Ur early periods (tier P)
-- `src-mesopotamia-nissen-1988` — secondary long-run Near Eastern early history / periodization (tier S)
-- `src-mesopotamia-van-de-mieroop-2015` — secondary textbook survey of Ancient Near East political history (tier S)
-- `src-mesopotamia-liverani-uruk-2006` — secondary analysis of Uruk urban/state origins (tier S)
-- `src-mesopotamia-potts-1997` — secondary material/environmental foundations (tier S)
-- `src-mesopotamia-adams-1981` — survey synthesis; settlement & irrigation landscapes (tier S)
-- `src-mesopotamia-nissen-damerow-englund-1993` — secondary synthesis of proto-cuneiform administration (tier S)
-- `src-mesopotamia-roaf-1990` — tertiary cultural atlas / maps (tier T)
-- `src-mesopotamia-finkbeiner-uruk-auwe4-1991` — primary Uruk-Warka survey report, AUWE 4 (tier P)
-- `src-mesopotamia-collon-1987` — secondary museum survey of cylinder seals (tier S)
-- `src-mesopotamia-cdli` — primary digital catalog of cuneiform artifacts (tier P)
+- `src-mesopotamia-adams-1981` — monograph; Adams, Robert McC. 1981. Heartland of Cities: Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates. Chic... (tier S)
+- `src-mesopotamia-adams-diyala-1965` — monograph; Adams, Robert McC. 1965. Land Behind Baghdad: A History of Settlement on the Diyala Plains. Chicago: University of Chicago Press. (tier S)
+- `src-mesopotamia-algaze-2008` — monograph; Algaze, Guillermo. 2008. Ancient Mesopotamia at the Dawn of Civilization: The Evolution of an Urban Landscape. Chicago; London: Universit... (tier S)
+- `src-mesopotamia-cdli` — digital-corpus; Cuneiform Digital Library Initiative (CDLI). Ongoing. Open catalog of cuneiform artifacts (including proto-cuneiform / archaic texts), wi... (tier P)
+- `src-mesopotamia-collon-1987` — monograph; Collon, Dominique. 1987. First Impressions: Cylinder Seals in the Ancient Near East. London: British Museum Publications. ISBN 0-7141-112... (tier S)
+- `src-mesopotamia-crawford-sumerian-world-2013` — monograph; Crawford, Harriet E. W., ed. 2013. The Sumerian World. London; New York: Routledge. ISBN 978-0-415-56967-5 (hardback); ebook DOI 10.4324/... (tier S)
+- `src-mesopotamia-delougaz-khafajah-oip53-1940` — excavation-report; Delougaz, Pinhas, with a chapter by Thorkild Jacobsen. 1940. The Temple Oval at Khafajah. Oriental Institute Publications 53. Chicago: Un... (tier P)
+- `src-mesopotamia-finkbeiner-uruk-auwe4-1991` — excavation-report; Finkbeiner, Uwe. 1991. Uruk: Kampagne 35–37, 1982–1984. Die archäologische Oberflächenuntersuchung (Survey). Ausgrabungen in Uruk-Warka: ... (tier P)
+- `src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940` — excavation-report; Frankfort, Henri, Seton Lloyd, and Thorkild Jacobsen, with a chapter by Günter Martiny. 1940. The Gimilsin Temple and the Palace of the R... (tier P)
+- `src-mesopotamia-frankfort-oic13-1932` — excavation-report; Frankfort, Henri, Thorkild Jacobsen, and Conrad Preusser. 1932. Tell Asmar and Khafaje: The First Season’s Work in Eshnunna, 1930/31. Ori... (tier P)
+- `src-mesopotamia-hall-woolley-alubaid-1927` — excavation-report; Hall, H. R., and C. Leonard Woolley, with chapters by C. J. Gadd and Sir Arthur Keith. 1927. Ur Excavations. Volume I: Al-‘Ubaid. A Repor... (tier P)
+- `src-mesopotamia-liverani-uruk-2006` — monograph; Liverani, Mario. 2006. Uruk: The First City. Edited and translated by Zainab Bahrani and Marc Van De Mieroop. London; Oakville: Equinox P... (tier S)
+- `src-mesopotamia-mackay-kish-a-cemetery-1925` — excavation-report; Mackay, Ernest, with a preface by Stephen Langdon. 1925. Report on the Excavation of the “A” Cemetery at Kish, Mesopotamia. Part I. Field... (tier P)
+- `src-mesopotamia-martin-fara-1988` — monograph; Martin, Harriet P. 1988. Fara: A Reconstruction of the Ancient Mesopotamian City of Shuruppak. Birmingham: Chris Martin. (tier S)
+- `src-mesopotamia-matthews-jemdet-nasr-2002` — excavation-report; Matthews, Roger. 2002. Secrets of the Dark Mound: Jemdet Nasr 1926–1928. Iraq Archaeological Reports 6. Warminster: British School of Arc... (tier P)
+- `src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978` — excavation-report; McCown, Donald E., Richard C. Haines, and Robert D. Biggs, assisted by Elizabeth F. Carter. 1978. Nippur II: The North Temple and Soundin... (tier P)
+- `src-mesopotamia-mccown-haines-nippur-oip78-1967` — excavation-report; McCown, Donald E., and Richard C. Haines, assisted by Donald P. Hansen. 1967. Nippur I: Temple of Enlil, Scribal Quarter, and Soundings. ... (tier P)
+- `src-mesopotamia-moorey-kish-1978` — monograph; Moorey, P. R. S. 1978. Kish Excavations, 1923–1933: With a Microfiche Catalogue of the Objects in Oxford Excavated by the Oxford–Field Mu... (tier S)
+- `src-mesopotamia-nissen-1988` — monograph; Nissen, Hans J. 1988. The Early History of the Ancient Near East, 9000–2000 B.C. Translated by Elizabeth Lutzeier with Kenneth J. Northco... (tier S)
+- `src-mesopotamia-nissen-damerow-englund-1993` — monograph; Nissen, Hans J.; Damerow, Peter; Englund, Robert K. 1993. Archaic Bookkeeping: Early Writing and Techniques of Economic Administration in... (tier S)
+- `src-mesopotamia-parrot-mari-ishtar-1956` — excavation-report; Parrot, André. 1956. Mission archéologique de Mari. Tome I: Le temple d’Ishtar. Bibliothèque archéologique et historique 65. Paris: Paul ... (tier P)
+- `src-mesopotamia-parrot-tello-1948` — monograph; Parrot, André. 1948. Tello: vingt campagnes de fouilles (1877–1933). Paris: Albin Michel. (tier S)
+- `src-mesopotamia-pollock-1999` — monograph; Pollock, Susan. 1999. Ancient Mesopotamia: The Eden That Never Was. Case Studies in Early Societies. Cambridge: Cambridge University Pres... (tier S)
+- `src-mesopotamia-postgate-1992` — monograph; Postgate, J. N. 1992. Early Mesopotamia: Society and Economy at the Dawn of History. London; New York: Routledge. Paperback reprint ISBN ... (tier S)
+- `src-mesopotamia-postgate-abu-salabikh-1983` — excavation-report; Postgate, J. N., with contributions by E. McAdam, J. Eidem, and J. Crowfoot Payne. 1983. Abu Salabikh Excavations. Volume 1: The West Mou... (tier P)
+- `src-mesopotamia-potts-1997` — monograph; Potts, D. T. 1997. Mesopotamian Civilization: The Material Foundations. Ithaca, N.Y.: Cornell University Press. ISBN 0-8014-3339-8 / 978-... (tier S)
+- `src-mesopotamia-roaf-1990` — atlas; Roaf, Michael. 1990. Cultural Atlas of Mesopotamia and the Ancient Near East. New York: Facts on File. ISBN 0-8160-2218-6. 238 pp. (tier T)
+- `src-mesopotamia-safar-lloyd-mustafa-eridu-1981` — excavation-report; Safar, Fuad, Mohammad Ali Mustafa, and Seton Lloyd. 1981. Eridu. Baghdad: State Organization of Antiquities and Heritage, Ministry of Cul... (tier P)
+- `src-mesopotamia-strommenger-habuba-kabira-1980` — monograph; Strommenger, Eva. 1980. Habuba Kabira: eine Stadt vor 5000 Jahren. Ausgrabungen der Deutschen Orient-Gesellschaft am Euphrat in Habuba Ka... (tier S)
+- `src-mesopotamia-van-de-mieroop-2015` — monograph; Van De Mieroop, Marc. 2015. A History of the Ancient Near East, ca. 3000–323 BC. 3rd ed. Wiley-Blackwell (Blackwell History of the Ancien... (tier S)
+- `src-mesopotamia-woolley-ur-iv-1955` — excavation-report; Woolley, Leonard. 1955. Ur Excavations. Volume IV: The Early Periods. A Report on the Sites and Objects Prior in Date to the Third Dynast... (tier P)
 
 ## Related civilizations
 

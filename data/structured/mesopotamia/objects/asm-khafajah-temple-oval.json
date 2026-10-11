@@ -1,0 +1,41 @@
+{
+  "id": "asm-khafajah-temple-oval",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈法杰神庙椭圆建筑组合（OIP 53）",
+    "en": "Khafajah Temple Oval architectural assemblage (OIP 53)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-khafajah"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Delougaz OIP 53 报告的早王朝神庙椭圆建筑与相关发现（组合级）。",
+    "en": "Early Dynastic Temple Oval architecture and associated finds as published in Delougaz OIP 53 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-delougaz-khafajah-oip53-1940"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level metadata from OIP 53."
+  }
+}

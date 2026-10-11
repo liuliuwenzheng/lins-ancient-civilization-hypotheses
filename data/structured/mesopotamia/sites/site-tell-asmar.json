@@ -1,0 +1,32 @@
+{
+  "id": "site-tell-asmar",
+  "entity": "site",
+  "names": {
+    "zh": "阿斯马尔丘（埃什努那）",
+    "en": "Tell Asmar (Eshnunna)",
+    "native": null
+  },
+  "kind_note": "Diyala urban center; OI Iraq Expedition",
+  "region": "Diyala region / northern Babylonia (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "迪亚拉地区城市埃什努那（Tell Asmar）；东方研究所伊拉克远征；OIP 43 正式报告 Gimilsin 神庙与统治者宫殿，OIC 13 为首季初步报告。",
+    "en": "Diyala-region city of Eshnunna (Tell Asmar); Oriental Institute Iraq Expedition; OIP 43 final report on the Gimilsin Temple and Palace of the Rulers; OIC 13 first-season preliminary."
+  },
+  "sources": [
+    "src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940",
+    "src-mesopotamia-frankfort-oic13-1932",
+    "src-mesopotamia-adams-diyala-1965"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site; coords omitted."
+  }
+}

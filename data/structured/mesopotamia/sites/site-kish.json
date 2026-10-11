@@ -6,18 +6,19 @@
     "en": "Kish",
     "native": null
   },
-  "kind_note": "named-center-orientation-only — no find inventory until site reports registered",
-  "region": "Southern Mesopotamia (orientation via atlas/handbook)",
+  "kind_note": "excavated multi-mound urban complex; Oxford–Field Museum expedition",
+  "region": "Southern Mesopotamia / northern Babylonia (Iraq)",
   "civilization_ids": [
     "civ-mesopotamia"
   ],
   "summary": {
-    "zh": "通论/地图集中常见南部中心地名；本条未登记该遗址发掘专报，故不编造出土清单。",
-    "en": "Southern center frequently named in surveys; oriented via Roaf atlas and Crawford handbook; no invented find lists."
+    "zh": "牛津–菲尔德博物馆联合远征（1923–1933）发掘的多丘城市综合体；Mackay《A 墓地》为 P 档专报，Moorey 1978 为基于残存记录的强二手重建。",
+    "en": "Multi-mound urban complex excavated by the Oxford–Field Museum expedition (1923–1933); Mackay’s A Cemetery report is primary; Moorey 1978 is a strong secondary reconstruction from surviving records."
   },
   "sources": [
-    "src-mesopotamia-roaf-1990",
-    "src-mesopotamia-crawford-sumerian-world-2013"
+    "src-mesopotamia-mackay-kish-a-cemetery-1925",
+    "src-mesopotamia-moorey-kish-1978",
+    "src-mesopotamia-roaf-1990"
   ],
   "coordinates": null,
   "editorial": {
@@ -26,6 +27,6 @@
       "sources/src-mesopotamia-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § other southern centers — orientation only."
+    "notes": "Upgraded from orientation-only; no invented find inventory numbers."
   }
 }

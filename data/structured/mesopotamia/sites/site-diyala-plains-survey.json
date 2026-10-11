@@ -1,0 +1,31 @@
+{
+  "id": "site-diyala-plains-survey",
+  "entity": "site",
+  "names": {
+    "zh": "迪亚拉平原（区域调查区）",
+    "en": "Diyala plains (regional survey zone)",
+    "native": null
+  },
+  "kind_note": "survey-region — Diyala Basin settlement history",
+  "region": "Diyala plains east of Baghdad (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "Adams《巴格达背后的土地》综合迪亚拉平原聚落史地表调查，与阿斯马尔/哈法杰等发掘点互补。",
+    "en": "Adams’s Land Behind Baghdad synthesizes Diyala plains settlement history from survey, complementary to excavated sites such as Tell Asmar and Khafajah."
+  },
+  "sources": [
+    "src-mesopotamia-adams-diyala-1965",
+    "src-mesopotamia-adams-1981"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New survey-region site; coords omitted."
+  }
+}

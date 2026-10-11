@@ -1,0 +1,31 @@
+{
+  "id": "site-abu-salabikh",
+  "entity": "site",
+  "names": {
+    "zh": "阿布萨拉比赫",
+    "en": "Abu Salabikh",
+    "native": null
+  },
+  "kind_note": "Early Dynastic settlement; BSAI excavations",
+  "region": "Southern Mesopotamia (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "早王朝南部聚落；英国伊拉克考古学校发掘；Postgate《阿布萨拉比赫发掘》第 1 卷公布西丘地表清理。",
+    "en": "Early Dynastic southern settlement; British School of Archaeology in Iraq excavations; Postgate Abu Salabikh Excavations vol. 1 publishes West Mound surface clearance."
+  },
+  "sources": [
+    "src-mesopotamia-postgate-abu-salabikh-1983",
+    "src-mesopotamia-postgate-1992"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site; later ASE volumes not yet registered."
+  }
+}

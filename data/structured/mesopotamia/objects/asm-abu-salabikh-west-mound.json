@@ -1,0 +1,41 @@
+{
+  "id": "asm-abu-salabikh-west-mound",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿布萨拉比赫西丘地表清理组合（Postgate 1983）",
+    "en": "Abu Salabikh West Mound surface-clearance assemblage (Postgate 1983)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-abu-salabikh"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "ASE 第 1 卷西丘地表清理所记录的建筑与器物组合（组合级）。",
+    "en": "Architecture and finds recorded in West Mound surface clearance as published in ASE vol. 1 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-postgate-abu-salabikh-1983"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.bisi.ac.uk/publication/the-west-mound-surface-clearance/",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level from ASE 1."
+  }
+}

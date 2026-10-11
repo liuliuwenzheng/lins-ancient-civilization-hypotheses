@@ -1,0 +1,41 @@
+{
+  "id": "asm-habuba-kabira-uruk-related",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈布巴卡比拉乌鲁克相关城镇组合（Strommenger 1980）",
+    "en": "Habuba Kabira Uruk-related town assemblage (Strommenger 1980)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-habuba-kabira"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "summary": {
+    "zh": "DOG 发掘的规划城镇与南部/乌鲁克相关物质文化组合（Strommenger 介绍）；解释性扩张模型另见假说主张。",
+    "en": "Planned-town architecture and southern/Uruk-related material culture from DOG excavations as presented by Strommenger; interpretive expansion model is a separate hypothesis claim."
+  },
+  "sources": [
+    "src-mesopotamia-strommenger-habuba-kabira-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level; no forged images."
+  }
+}

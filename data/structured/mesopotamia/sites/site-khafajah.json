@@ -1,0 +1,32 @@
+{
+  "id": "site-khafajah",
+  "entity": "site",
+  "names": {
+    "zh": "哈法杰（Khafajah）",
+    "en": "Khafajah (Khafaje)",
+    "native": null
+  },
+  "kind_note": "Diyala Early Dynastic temple architecture; Temple Oval",
+  "region": "Diyala region (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "迪亚拉早王朝神庙建筑要地；Delougaz《哈法杰神庙椭圆》（OIP 53）为正式报告；首季亦见 OIC 13。",
+    "en": "Diyala Early Dynastic temple architecture; Delougaz’s Temple Oval at Khafajah (OIP 53) is the final report; first season also in OIC 13."
+  },
+  "sources": [
+    "src-mesopotamia-delougaz-khafajah-oip53-1940",
+    "src-mesopotamia-frankfort-oic13-1932",
+    "src-mesopotamia-adams-diyala-1965"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "New site; coords omitted."
+  }
+}

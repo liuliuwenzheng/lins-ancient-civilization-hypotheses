@@ -6,17 +6,18 @@
     "en": "Jemdet Nasr",
     "native": null
   },
-  "kind_note": "named-center-orientation-only — no find inventory until site reports registered",
-  "region": "Southern Mesopotamia (orientation via atlas/handbook)",
+  "kind_note": "type-site for Jemdet Nasr period assemblage; 1920s excavations republished",
+  "region": "Southern Mesopotamia (Iraq)",
   "civilization_ids": [
     "civ-mesopotamia"
   ],
   "summary": {
-    "zh": "通论/地图集中常见南部中心地名；本条未登记该遗址发掘专报，故不编造出土清单。",
-    "en": "Southern center frequently named in surveys; oriented via Roaf atlas and Crawford handbook; no invented find lists."
+    "zh": "1920年代菲尔德–牛津发掘遗址；遗址名成为杰姆代特奈斯尔期器物组合的类型学名称；Matthews 2002 为可及材料的正式出版。",
+    "en": "Site of 1920s Field Museum–Oxford excavations; the site-name labels the Jemdet Nasr period assemblage; Matthews 2002 is the final publication of accessible excavated materials."
   },
   "sources": [
-    "src-mesopotamia-roaf-1990",
+    "src-mesopotamia-matthews-jemdet-nasr-2002",
+    "src-mesopotamia-nissen-damerow-englund-1993",
     "src-mesopotamia-crawford-sumerian-world-2013"
   ],
   "coordinates": null,
@@ -26,6 +27,6 @@
       "sources/src-mesopotamia-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § other southern centers — orientation only."
+    "notes": "Upgraded from orientation-only with Matthews 2002 P report."
   }
 }

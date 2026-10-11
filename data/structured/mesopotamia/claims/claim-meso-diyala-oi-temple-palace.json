@@ -1,0 +1,37 @@
+{
+  "id": "claim-meso-diyala-oi-temple-palace",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "东方研究所伊拉克远征在迪亚拉的 Tell Asmar 与 Khafajah 等地发掘，并以 OIP 43（Gimilsin 神庙与统治者宫殿）与 OIP 53（神庙椭圆）等正式报告刊布。",
+    "en": "The Oriental Institute Iraq Expedition excavated Diyala sites including Tell Asmar and Khafajah, publishing final reports such as OIP 43 (Gimilsin Temple and Palace of the Rulers) and OIP 53 (Temple Oval)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar",
+    "site-khafajah"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-tell-asmar-palace-temple",
+    "asm-khafajah-temple-oval"
+  ],
+  "sources": [
+    "src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940",
+    "src-mesopotamia-delougaz-khafajah-oip53-1940",
+    "src-mesopotamia-frankfort-oic13-1932"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Fact about published Diyala excavation reports."
+  }
+}

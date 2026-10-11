@@ -12,11 +12,12 @@
     "civ-mesopotamia"
   ],
   "summary": {
-    "zh": "大英博物馆与宾夕法尼亚大学博物馆联合远征；Woolley《乌尔发掘》第 IV 卷报告乌尔第三王朝之前的遗址层位与器物。",
-    "en": "Joint Expedition (British Museum + University of Pennsylvania Museum); Woolley Ur Excavations IV covers pre–Ur III periods and finds."
+    "zh": "大英博物馆与宾夕法尼亚大学博物馆联合远征；Woolley《乌尔发掘》第 IV 卷报告乌尔第三王朝之前的遗址层位与器物；邻近 al-‘Ubaid 见 Hall & Woolley 1927。",
+    "en": "Joint Expedition (British Museum + University of Pennsylvania Museum); Woolley Ur Excavations IV covers pre–Ur III periods and finds; nearby al-‘Ubaid treated in Hall & Woolley 1927."
   },
   "sources": [
-    "src-mesopotamia-woolley-ur-iv-1955"
+    "src-mesopotamia-woolley-ur-iv-1955",
+    "src-mesopotamia-hall-woolley-alubaid-1927"
   ],
   "coordinates": null,
   "editorial": {

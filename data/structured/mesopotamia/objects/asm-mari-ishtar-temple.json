@@ -1,0 +1,39 @@
+{
+  "id": "asm-mari-ishtar-temple",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "马里伊什塔尔神庙发掘组合（Parrot 1956）",
+    "en": "Mari Temple of Ishtar excavated assemblage (Parrot 1956)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-mari"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Parrot《伊什塔尔神庙》报告的神庙建筑与出土组合；宫殿泥板档案不在本组合声明范围内。",
+    "en": "Temple architecture and finds as published in Parrot’s Temple of Ishtar volume; palace tablet archives are out of scope for this assemblage record."
+  },
+  "sources": [
+    "src-mesopotamia-parrot-mari-ishtar-1956"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Assemblage-level; palace archives not claimed."
+  }
+}
