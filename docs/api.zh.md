@@ -33,7 +33,7 @@ OpenAPI 草稿：[`openapi.v0.yaml`](openapi.v0.yaml) · 架构：[`architecture
 | `time_span` / 时间筛选 | **何时** | `time_from`、`time_to`（日后规范化 BCE/CE）；v0 可对 `time_span` 文本做尽力匹配 |
 | `kind` | **认识角色** | `fact` \| `hypothesis` \| `reconstruction` \| `source` |
 | `source_tier` | **所引来源强度** | `P` \| `S` \| `T` \| `U` |
-| `status` | **生命周期** | 文明：`fact-library`；假说：`open`\|`challenged`\|`retired`；还原：`draft`\|`review`\|`archived` |
+| `status` | **生命周期** | 文明：`draft`\|`fact-library`；假说：`open`\|`challenged`\|`retired`；还原：`draft`\|`review`\|`archived` |
 
 调用方可自由组合，例如「东亚 × 事实」「与某 civ 相关的开放假说」「tier=P 的来源」。
 
@@ -324,4 +324,4 @@ WebSocket 等价语义：`WS /deliberations/{id}/ws`，双向低延迟。流式�
 - 按 slug 缓存 FHLS 技能正文；勿每轮拉整仓目录。  
 - 限制创建会话的速率；资料库 GET 保持便宜、可缓存。
 
-主机偏好属产品拍板（自建云函数 / 现成 LLM 网关 / 先只规范后实现）。本草稿不选定其一。
+**决定（2026-10-11）：** 云端主机路径为 **先规范、后实现（spec-first）**——继续完善本节与 [`openapi.v0.yaml`](openapi.v0.yaml)；**暂不**上线实时审议服务。见 [`decisions.zh.md`](decisions.zh.md)。v0 默认席位已在 [`council.zh.md`](council.zh.md) 确认。

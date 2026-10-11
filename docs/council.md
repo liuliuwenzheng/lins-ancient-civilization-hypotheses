@@ -56,6 +56,8 @@ Seven diverse lenses that **already exist** in FHLS-perspectives. Adjust per ses
 | 6 | `qianxuesen-perspective` | Systems structure; feedback and open loops |
 | 7 | `mozi-perspective` | Utility and consequential check — what good does this claim do if wrong? |
 
+**v0 seats confirmed (2026-10-11):** the seven seats above are the default Council lineup; see [`decisions.md`](decisions.md). **Cloud deliberation implementation is deferred** until after the API/OpenAPI spec is settled (spec-first) — design only in [`api.md` §9](api.md#9-deliberation-council-cloud-first).
+
 **Not in catalog yet:** Aristotle (`aristotle-perspective` or similar). Optional later via Nuwa distillation into FHLS-perspectives — **do not invent** a full perspective file in this repo.
 
 Browse all available slugs: [FHLS-perspectives CATALOG](https://github.com/liuliuwenzheng/FHLS-perspectives/blob/main/CATALOG.md).

@@ -56,6 +56,8 @@
 | 6 | `qianxuesen-perspective` | 系统结构、反馈与开环 |
 | 7 | `mozi-perspective` | 功用与后果检验——若判错，这主张带来什么 |
 
+**v0 席位已确认（2026-10-11）：** 上表七席为默认圆桌阵容；见 [`decisions.zh.md`](decisions.zh.md)。**云端审议实现延后**，待 API/OpenAPI 规范敲定后再做（先规范、后实现）——设计见 [`api.zh.md` §9](api.zh.md#9-审议圆桌云端优先)。
+
 **目录中尚无：** 亚里士多德（如 `aristotle-perspective`）。日后可用女娲（Nuwa）蒸馏进 FHLS-perspectives——**不要**在本仓捏造完整视角文件。
 
 全部可用 slug 见：[FHLS-perspectives CATALOG](https://github.com/liuliuwenzheng/FHLS-perspectives/blob/main/CATALOG.md)。

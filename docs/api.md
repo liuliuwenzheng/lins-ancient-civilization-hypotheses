@@ -33,7 +33,7 @@ Do **not** smash region + era + epistemic kind into one fake label (the “唐�
 | `time_span` / time filters | **When** | query params such as `time_from`, `time_to` (BCE/CE normalized later) or substring match on `time_span` in v0 |
 | `kind` | **Epistemic role** | `fact` \| `hypothesis` \| `reconstruction` \| `source` |
 | `source_tier` | **Evidence strength of linked sources** | `P` \| `S` \| `T` \| `U` |
-| `status` | **Lifecycle** | civ: `fact-library`; hyp: `open`\|`challenged`\|`retired`; rec: `draft`\|`review`\|`archived` |
+| `status` | **Lifecycle** | civ: `draft`\|`fact-library`; hyp: `open`\|`challenged`\|`retired`; rec: `draft`\|`review`\|`archived` |
 
 Callers combine axes freely, e.g. “East Asia × fact”, “open hypotheses mentioning civ-…”, “sources tier=P”.
 
@@ -324,4 +324,4 @@ Deliberation APIs **must not**:
 - Cache FHLS skill text by slug; do not re-fetch the whole catalog per turn.  
 - Rate-limit session creates; library GETs stay cheap and cacheable.
 
-Host preference is a product decision (self-hosted cloud function vs managed LLM gateway vs spec-first). This stub does not pick one.
+**Decision (2026-10-11):** cloud host path is **spec-first** — refine this section and [`openapi.v0.yaml`](openapi.v0.yaml); do **not** implement a live deliberation service yet. See [`decisions.md`](decisions.md). Default v0 seats are confirmed in [`council.md`](council.md).

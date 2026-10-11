@@ -1,0 +1,53 @@
+# 项目决策记录
+
+[English](decisions.md) | 中文
+
+> 有日期的范围约束。在已实现且通过出处闸门的 API 出现之前，本仓 Markdown 仍为真源。
+
+相关：[圆桌](council.zh.md) · [接口](api.zh.md) · [架构](architecture.zh.md)
+
+---
+
+## 2026-10-11
+
+### D-2026-10-11-1 — 默认圆桌席位（v0）确认
+
+**决定：** 维持 [`council.zh.md`](council.zh.md) 已列的七席 FHLS-perspectives：
+
+1. `deming-perspective`
+2. `steve-jobs-perspective`
+3. `elon-musk-perspective`
+4. `darwin-perspective`
+5. `descartes-perspective`
+6. `qianxuesen-perspective`
+7. `mozi-perspective`
+
+**说明：** 透镜是 AI 思维工具（`perspective: true`，`person_endorsement: false`）。亚里士多德在 FHLS 目录有真实条目之前**不入席**——勿在本仓捏造视角文件。
+
+### D-2026-10-11-2 — 云端审议：先只规范，后实现
+
+**决定：** 云端审议主机 = **先规范、后实现（spec-first）**。继续完善 [`api.zh.md` §9](api.zh.md#9-审议圆桌云端优先) / [`openapi.v0.yaml`](openapi.v0.yaml) 设计；**暂不**上线实时云端服务。
+
+**说明：** 将来实现时优先云端（SSE/WebSocket、席位并行）。已发布会话仍以 `deliberations/` 下 git Markdown 落盘。
+
+### D-2026-10-11-3 — 第一批事实库种子区域（仅空壳）
+
+**决定：** 在 `data/civilizations/` 为下列 id 开脚手架文件——**仅结构与占位**。不编造事实、不伪造来源、不上假文物图。
+
+| Id | 名称（中 / 英） |
+|----|-----------------|
+| `civ-mesopotamia` | 两河 / Mesopotamia |
+| `civ-ancient-egypt` | 古埃及 / Ancient Egypt |
+| `civ-indus-valley` | 印度河 / Indus Valley |
+| `civ-china-bronze` | 中国青铜时代（总览壳） / China Bronze Age (overview shell) |
+| `civ-sanxingdui` | 三星堆 / Sanxingdui |
+| `civ-olmec` | 奥尔梅克 / Olmec |
+| `civ-early-maya` | 早期玛雅 / Early Maya |
+| `civ-andes` | 安第斯早期文明（总览壳） / Andean early civilizations (overview shell) |
+| `civ-aegean` | 爱琴 / Aegean |
+
+**说明：** 空壳上的 `time_span` 为学界常用近似区间，并标明「发布前须引用」。在真实 `src-*` 登记前 `sources: []`。在出处到位前状态保持 `draft`。
+
+### D-2026-10-11-4 — 现阶段以 Markdown 为真源
+
+**决定：** 在实现带出处失败即关闭的导出/API 之前，git 中的 Markdown 模板与条目是**唯一**对外资料库接口。禁止静默双写。

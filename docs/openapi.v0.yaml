@@ -486,7 +486,7 @@ components:
           enum: [fact]
         status:
           type: string
-          enum: [fact-library]
+          enum: [draft, fact-library]
         names:
           type: object
           properties:
