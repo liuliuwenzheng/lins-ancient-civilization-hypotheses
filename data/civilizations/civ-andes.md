@@ -9,10 +9,11 @@ region: "South America / Andes"
 time_span: "ca. 3000–200 BCE overview shell spanning multiple Andean traditions (approximate; cite before publish)"
 status: draft
 summary: |
-  Shell pending sources. Do not treat as a published fact-library entry.
-sources: []       # TODO: register real src-* ids before any fact claims
+  Shell pending fuller sources. Do not treat as a published fact-library entry.
+sources:
+  - src-andes-shady-haas-creamer-caral-2001
 related_ids: []
-notes: "SEED SHELL — do not treat as published fact library until sources registered."
+notes: "SEED SHELL — still draft. One chronologic pointer registered (Caral); full overview not expanded in this pass."
 ---
 
 # 安第斯早期文明（总览壳） / Andean early civilizations (overview shell)
@@ -21,15 +22,13 @@ notes: "SEED SHELL — do not treat as published fact library until sources regi
 
 ## Summary
 
-Shell pending sources. Replace this section with sourced text only; leave no stub claims in a published fact-library state.
+Shell pending fuller sources. Replace this section with a sourced overview later; leave no stub claims in a published fact-library state.
+
+**Chronologic pointer only (not a full regional summary):** Radiocarbon work published in *Science* (2001) dates the preceramic site of Caral in Peru’s Supe Valley and supports treating Caral / the Norte Chico complex among the earliest known urban complexes in the Americas [`src-andes-shady-haas-creamer-caral-2001`]. This is **not** a claim of global primacy versus Old World urban traditions.
 
 ## Sources
 
-<!-- TODO: list registry ids with short gloss after creating sources/*.md entries, e.g.:
-- `src-…` — excavation report (tier P)
--->
-
-*(empty — citation gate: no sources → no fact claims)*
+- `src-andes-shady-haas-creamer-caral-2001` — peer-reviewed article; Caral radiocarbon dating (tier S)
 
 ## Related civilizations
 
@@ -37,6 +36,6 @@ Shell pending sources. Replace this section with sourced text only; leave no stu
 
 ## Notes
 
-SEED SHELL — do not treat as published fact library until sources registered.
+SEED SHELL — do not treat as published fact library until a fuller sourced overview exists.
 
-Approximate `time_span` above is a conventional scholarly range label only; **cite before publish**.
+Approximate shell `time_span` remains a conventional label pending multi-tradition citations. Caral note above is the only cited claim in this file for now.

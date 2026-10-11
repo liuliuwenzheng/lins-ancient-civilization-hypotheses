@@ -51,3 +51,9 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 ### D-2026-10-11-4 — Markdown remains source of truth (for now)
 
 **Decision:** Git-backed Markdown templates and entries are the **only** public library interface until a citation-fail-closed export/API is implemented. No silent dual store.
+
+### D-2026-10-11-5 — Fill order starts with Mesopotamia + Egypt
+
+**Decision:** Fact-library filling begins with the earliest Near Eastern / Nile shells: `civ-mesopotamia` (Sumer/Uruk-centered overview) and `civ-ancient-egypt` (Predynastic → Early Dynastic overview), before other seed regions.
+
+**Notes:** Integrity gate remains: every factual claim needs a registered `src-*`. Andes receives only an optional Caral chronologic pointer when solidly cited; no full Andes expansion in this pass. Status may move from `draft` to `library-seed` only with ≥2 solid sources and a fully cited summary.
