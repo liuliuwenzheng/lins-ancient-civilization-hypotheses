@@ -1,0 +1,44 @@
+{
+  "id": "asm-china-erlitou-palace-rammed-earth",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "二里头宫殿区夯土基址（组合级）",
+    "en": "Erlitou palace-zone rammed-earth foundations (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou"
+  ],
+  "period_ids": [
+    "period-china-erlitou"
+  ],
+  "summary": {
+    "zh": "宫殿区多座夯土基址与宫城道路；2014 报告系统公布——不编造未核对基址编号清单以外的叙事。",
+    "en": "Multiple rammed-earth foundations and palace-city roads; 2014 report—no invented foundation inventories beyond report scope."
+  },
+  "sources": [
+    "src-china-erlitou-1999-2006-2014",
+    "src-china-erlitou-1959-1978-1999",
+    "src-china-underhill-companion-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

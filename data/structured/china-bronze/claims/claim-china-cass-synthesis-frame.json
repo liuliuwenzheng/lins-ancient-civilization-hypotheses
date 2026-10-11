@@ -1,0 +1,27 @@
+{
+  "id": "claim-china-cass-synthesis-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《中国考古学·夏商卷》（2003）提供二里头—二里岗—殷墟及同期区域文化的权威二手综合框架。",
+    "en": "Chinese Archaeology: Xia–Shang Volume (2003) supplies an authoritative secondary frame for Erlitou–Erligang–Yinxu and coeval regional cultures."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-china-cass-xia-shang-2003"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

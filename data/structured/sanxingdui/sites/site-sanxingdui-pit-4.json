@@ -1,31 +1,33 @@
 {
   "id": "site-sanxingdui-pit-4",
   "names": {
-    "zh": "四号祭祀坑",
-    "en": "Sacrificial Pit 4",
+    "zh": "三星堆四号坑",
+    "en": "Sanxingdui Pit 4",
     "native": null
   },
-  "kind_note": "AMS dates 1260–924 cal BC",
-  "region": "Sanxingdui sacrificial area, Guanghan",
+  "kind_note": "Post-2020 pit with published AMS dates",
+  "region": "Guanghan, Sichuan, China",
   "civilization_ids": [
     "civ-sanxingdui"
   ],
   "summary": {
-    "zh": "Wu et al. 2021：六样 AMS 1260–924 cal BC；平面近方形边长约 2.9 m，最深约 1.6 m。",
-    "en": "Wu et al. 2021: six AMS dates 1260–924 cal BC; roughly square ~2.9 m side, deepest ~1.6 m."
+    "zh": "四号坑 AMS：1260–924 cal BC（Wu et al. 2021）；坑绝对年代整体仍有争议。",
+    "en": "Pit 4 AMS 1260–924 cal BC (Wu et al. 2021); overall pit absolute chronology still debated."
   },
   "sources": [
     "src-sanxingdui-wu-ran-lei-2021",
-    "src-sanxingdui-li-qiu-guo-li-2022"
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-zhao-nsr-2021"
   ],
   "coordinates": null,
   "entity": "site",
   "editorial": {
     "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

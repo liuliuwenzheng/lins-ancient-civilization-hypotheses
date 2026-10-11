@@ -1,0 +1,33 @@
+{
+  "id": "claim-sxd-single-ceremony-all-pits",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "所有祭祀坑均为同一场礼仪事件的产物，与分期/测年差异及新坑资料相冲突的风险高，属假说。",
+    "en": "Treating all sacrificial pits as products of one single ceremony conflicts with phasing/dating diversity and new-pit data—hypothesis only."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2",
+    "site-sanxingdui-pits-3-8"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-wu-ran-lei-2021"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  },
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+}

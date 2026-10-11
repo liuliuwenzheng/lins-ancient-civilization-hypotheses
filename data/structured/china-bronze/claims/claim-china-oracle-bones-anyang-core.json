@@ -1,0 +1,36 @@
+{
+  "id": "claim-china-oracle-bones-anyang-core",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "可系统释读的晚商甲骨文传统以安阳殷墟为考古核心出土地。",
+    "en": "The systematically readable late Shang oracle-bone tradition is archaeologically centered on Anyang/Yinxu."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-anyang-yinxu",
+    "site-yinxu-xiaotun"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "object_ids": [
+    "asm-china-oracle-bones"
+  ],
+  "sources": [
+    "src-china-keightley-oracle-bones-1978",
+    "src-china-yinxu-1958-1961-1987",
+    "src-china-li-chi-anyang-1977"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

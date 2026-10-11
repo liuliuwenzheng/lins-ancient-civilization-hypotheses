@@ -1,0 +1,43 @@
+{
+  "id": "asm-china-zhengzhou-city-walls",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "郑州商城城垣遗存（组合级）",
+    "en": "Zhengzhou Shang City wall remains (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-zhengzhou-erligang"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "summary": {
+    "zh": "郑州商城夯土城垣等遗存；细节以 2001 报告为准，不编造周长数字。",
+    "en": "Rammed-earth city walls etc.; details per 2001 report—no invented circuit lengths."
+  },
+  "sources": [
+    "src-china-zhengzhou-shangcheng-2001",
+    "src-china-zhengzhou-erligang-1959"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

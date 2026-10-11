@@ -1,0 +1,33 @@
+{
+  "id": "claim-sxd-local-bronze-style",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "祭祀坑青铜雕像/面具/神树等构成鲜明地方礼仪美术传统，与中原礼器组合并置但不等同。",
+    "en": "Pit bronzes (figures/masks/trees) form a distinctive local ritual art tradition juxtaposed with—but not identical to—Central Plains vessel sets."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sxd-bronze-figures-masks"
+  ],
+  "sources": [
+    "src-sanxingdui-xu-bronze-2001",
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-ge-linduff-1990"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

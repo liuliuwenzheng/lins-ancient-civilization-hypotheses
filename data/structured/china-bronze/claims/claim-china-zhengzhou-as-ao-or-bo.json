@@ -1,0 +1,34 @@
+{
+  "id": "claim-china-zhengzhou-as-ao-or-bo",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "郑州商城对应仲丁隞都或其他具体文献王都的指认，属于历史地理假说，非发掘事实本身。",
+    "en": "Identifying Zhengzhou Shang City with Zhong Ding’s Ao capital or another specific textual royal seat is historical-geography hypothesis, not excavation fact per se."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-zhengzhou-erligang"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-zhengzhou-shangcheng-2001",
+    "src-china-cass-xia-shang-2003",
+    "src-china-liu-chen-archaeology-2012"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  },
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+}

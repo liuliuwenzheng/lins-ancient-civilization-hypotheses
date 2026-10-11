@@ -1,0 +1,32 @@
+{
+  "id": "claim-china-zhengzhou-erligang-sequence",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "郑州二里岗发掘确立二里岗文化序列；2001《郑州商城》系统整理 1953–1985 商城资料。",
+    "en": "Zhengzhou Erligang excavations defined the Erligang sequence; 2001 Zhengzhou Shang City report synthesizes 1953–1985 city data."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-zhengzhou-erligang"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-zhengzhou-erligang-1959",
+    "src-china-zhengzhou-shangcheng-2001"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "period-china-yanshi-early-shang",
+  "entity": "period",
+  "names": {
+    "zh": "偃师商城早商文化分期窗",
+    "en": "Yanshi Shang City early Shang cultural phasing window"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "time": {
+    "label": "Early Shang horizons as phased in Yanshi Shang City Vol. 1 (2013)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Site-report phasing; keep distinct from Erlitou culture phases; absolute bands follow CASS/Campbell—not unique dogma"
+  },
+  "summary": {
+    "zh": "偃师商城报告分期窗；与二里头文化分期分列。",
+    "en": "Yanshi Shang City report phasing window; kept distinct from Erlitou culture phases."
+  },
+  "sources": [
+    "src-china-yanshi-shangcheng-vol1-2013",
+    "src-china-cass-xia-shang-2003",
+    "src-china-campbell-bronze-age-2014"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

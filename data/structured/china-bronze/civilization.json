@@ -6,27 +6,41 @@
     "en": "China Bronze Age (Central Plains overview)",
     "native": "Erlitou / Shang–Zhou bronze traditions"
   },
-  "region": "East Asia / China — Central Plains (Yellow River middle–lower reaches) focus",
-  "time_span": "Erlitou–Erligang early-state window ~1900/1800–1250 BCE; Late Shang ~1250–1046 BCE (Liu & Chen 2012); XSZCP bands contested",
+  "region": "East Asia / China — Central Plains (Yellow River middle–lower reaches) focus; Middle Yangzi (Panlongcheng) and related centers included as peers",
+  "time_span": "Erlitou–Erligang early-state window ~1900/1800–1250 BCE; Late Shang ~1250–1046 BCE (Liu & Chen 2012); XSZCP bands contested; site reports refine local sequences",
   "summary": {
-    "zh": "中原学术常规框架下的中国青铜时代：二里头、二里岗、殷墟安阳与商–周青铜礼器传统；夏史实性不写成定论；与三星堆分条。",
-    "en": "Central Plains scholarly conventional frame for China’s Bronze Age (Erlitou / Erligang / Anyang–Yinxu and Shang–Zhou ritual bronzes); Xia historicity not asserted as settled fact; Sanxingdui kept separate."
+    "zh": "中原学术常规框架下的中国青铜时代档案包：二里头、偃师商城、郑州、洹北、小双桥、殷墟、盘龙城、垣曲等遗址级报告已入库；夏史实性不写成定论；与三星堆分条。",
+    "en": "Central Plains Bronze Age archive pack: Erlitou, Yanshi Shang City, Zhengzhou, Huanbei, Xiaoshuangqiao, Yinxu, Panlongcheng, Yuanqu site-level reports registered; Xia historicity not settled fact; Sanxingdui kept separate."
   },
   "sources": [
-    "src-china-thorp-erlitou-xia-1991",
-    "src-china-liu-chen-state-formation-2003",
-    "src-china-flad-chen-ancient-central-china-2013",
     "src-china-bagley-shang-ritual-bronzes-1987",
-    "src-china-liu-chen-archaeology-2012",
     "src-china-campbell-bronze-age-2014",
-    "src-china-keightley-oracle-bones-1978",
+    "src-china-cass-xia-shang-2003",
     "src-china-chang-shang-civilization-1980",
-    "src-china-thorp-early-bronze-age-2006",
+    "src-china-erlitou-1959-1978-1999",
+    "src-china-erlitou-1999-2006-2014",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-huanbei-palace-1-2003",
+    "src-china-huanbei-palace-2-2010",
+    "src-china-keightley-oracle-bones-1978",
     "src-china-li-chi-anyang-1977",
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-liu-chen-state-formation-2003",
     "src-china-loewe-shaughnessy-cambridge-1999",
+    "src-china-panlongcheng-2001",
+    "src-china-rawson-mysteries-1996",
+    "src-china-thorp-early-bronze-age-2006",
+    "src-china-thorp-erlitou-xia-1991",
     "src-china-underhill-companion-2013",
+    "src-china-unesco-yinxu-2006",
+    "src-china-xiaoshuangqiao-2012",
     "src-china-xszcp-jianben-2000",
-    "src-china-rawson-mysteries-1996"
+    "src-china-yanshi-shangcheng-vol1-2013",
+    "src-china-yinxu-1958-1961-1987",
+    "src-china-yuanqu-shangcheng-1996",
+    "src-china-yuanqu-shangcheng-vol2-2014",
+    "src-china-zhengzhou-erligang-1959",
+    "src-china-zhengzhou-shangcheng-2001"
   ],
   "related_ids": [
     "civ-sanxingdui",
@@ -36,38 +50,80 @@
   "entity": "civilization",
   "kind": "fact",
   "site_ids": [
+    "site-anyang-yinxu",
     "site-erlitou",
-    "site-zhengzhou-erligang",
+    "site-erlitou-workshop-enclosure",
+    "site-huanbei",
     "site-huanbei-xiaoshuangqiao",
-    "site-anyang-yinxu"
+    "site-panlongcheng",
+    "site-xiaoshuangqiao",
+    "site-yanshi-shangcheng",
+    "site-yinxu-xiaotun",
+    "site-yinxu-xibeigang",
+    "site-yuanqu-shangcheng",
+    "site-zhengzhou-erligang"
   ],
   "period_ids": [
-    "period-china-erlitou",
-    "period-china-erligang",
-    "period-china-xiaoshuangqiao-huanbei",
     "period-china-anyang-late-shang",
-    "period-china-liu-chen-resource-window"
+    "period-china-erligang",
+    "period-china-erlitou",
+    "period-china-liu-chen-resource-window",
+    "period-china-panlongcheng-early-shang",
+    "period-china-xiaoshuangqiao-huanbei",
+    "period-china-yanshi-early-shang"
   ],
   "claim_ids": [
+    "claim-china-cass-synthesis-frame",
     "claim-china-central-plains-frame",
-    "claim-china-oracle-bones-readable",
+    "claim-china-erlitou-equals-xia-capital",
+    "claim-china-erlitou-foundry-documented",
+    "claim-china-erlitou-palace-city-documented",
+    "claim-china-huanbei-as-hedanjia-capital",
+    "claim-china-huanbei-palace-1-2",
     "claim-china-metal-salt-procurement",
+    "claim-china-middle-yangzi-erligang-related",
     "claim-china-multicentric",
+    "claim-china-oracle-bones-anyang-core",
+    "claim-china-oracle-bones-readable",
+    "claim-china-panlongcheng-as-shang-outpost",
+    "claim-china-panlongcheng-palace-city",
     "claim-china-xia-historicity",
-    "claim-china-xszcp-bands"
+    "claim-china-xiaoshuangqiao-report",
+    "claim-china-xszcp-bands",
+    "claim-china-yanshi-as-western-bo",
+    "claim-china-yanshi-distinct-from-erlitou",
+    "claim-china-yinxu-1958-1961-report",
+    "claim-china-yinxu-unesco-2006",
+    "claim-china-yuanqu-walled-center",
+    "claim-china-zhengzhou-as-ao-or-bo",
+    "claim-china-zhengzhou-erligang-sequence"
   ],
   "object_ids": [
-    "asm-china-ritual-bronzes",
+    "asm-china-erlitou-bronze-foundry",
+    "asm-china-erlitou-palace-rammed-earth",
+    "asm-china-erlitou-prestige-jades",
+    "asm-china-erlitou-turquoise-workshop",
+    "asm-china-huanbei-palace-foundations",
     "asm-china-oracle-bones",
-    "asm-china-erlitou-prestige-jades"
+    "asm-china-panlongcheng-bronzes",
+    "asm-china-panlongcheng-palace",
+    "asm-china-ritual-bronzes",
+    "asm-china-xiaoshuangqiao-ritual",
+    "asm-china-yanshi-walls-gates",
+    "asm-china-yinxu-sacrificial-pits",
+    "asm-china-yinxu-workshops",
+    "asm-china-yuanqu-walls",
+    "asm-china-zhengzhou-city-walls",
+    "asm-china-zhengzhou-erligang-ceramics"
   ],
   "markdown_path": "data/civilizations/civ-china-bronze.md",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

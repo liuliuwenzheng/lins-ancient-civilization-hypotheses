@@ -1,5 +1,5 @@
 ---
-# fact-library: deep enrichment matching Mesopotamia/Egypt/Andes/Indus (2026-10-11)
+# fact-library + archive density D-2026-10-11-25 (sites + primary sources)
 id: civ-sanxingdui
 names:
   zh: "三星堆"
@@ -26,8 +26,22 @@ sources:
   - src-sanxingdui-zhao-nsr-2021
   - src-china-flad-chen-ancient-central-china-2013
   - src-china-rawson-mysteries-1996
+  - src-sanxingdui-pit1-brief-1987
+  - src-sanxingdui-pit2-brief-1989
+  - src-sanxingdui-graham-hanchow-1934
+  - src-sanxingdui-east-wall-2016-brief-2024
+  - src-jinsha-meiyuan-brief-2004
+  - src-jinsha-sacrifice-zone-2022
+  - src-jinsha-ziliaoji-1-2013
+  - src-jinsha-kaogu-faxian-2006
+  - src-sanxingdui-chen-xiandan-1990
+  - src-sanxingdui-ma-yueliangwan-1993
+  - src-china-cass-xia-shang-2003
+  - src-china-campbell-bronze-age-2014
+  - src-china-liu-chen-archaeology-2012
+  - src-china-bagley-shang-ritual-bronzes-1987
 related_ids: ["civ-china-bronze"]
-notes: "fact-library after 2026-10-11 depth upgrade matching Mesopotamia/Egypt/Andes/Indus. Sanxingdui ≠ asserted Shang kingdom. Pit absolute chronologies long debated — disputed endpoints in Notes. UNESCO listing is Tentative only. ‘Ancient Shu State’ is a nomination title, not a polity verdict. No forged artefact images; no invented page numbers."
+notes: "fact-library + archive density D-2026-10-11-25 (sites + primary sources). Sanxingdui ≠ asserted Shang kingdom (hypothesis claims only). Pit absolute chronologies long debated. UNESCO listing is Tentative only. ‘Ancient Shu State’ / Jinsha relocation = nomination or hypothesis wording. No forged artefact images; no invented page numbers/coordinates."
 ---
 
 # 三星堆 / Sanxingdui
@@ -79,6 +93,21 @@ Sun Hua’s culture phases and pit burial dates are related but distinct problem
 - **Pits 3–8 (from 2020)** — Li et al. (2022) and Zhao (2021) mark the research-history node; full object tallies await formal Chinese reports — none invented here [`src-sanxingdui-li-qiu-guo-li-2022`][`src-sanxingdui-zhao-nsr-2021`].
 - **Pit 4** — Wu et al. (2021) AMS/Bayesian dates; roughly square ~2.9 m side, deepest ~1.6 m [`src-sanxingdui-wu-ran-lei-2021`].
 - **Jinsha (comparative)** — Flad (2012, 2018) juxtaposes Jinsha with Sanxingdui on valuables and urbanism; UNESCO tentative list groups them — **juxtaposition ≠ proven simple capital relocation** [`src-sanxingdui-flad-valuable-objects-2012`][`src-sanxingdui-flad-urbanism-2018`][`src-sanxingdui-unesco-tentative-2013`].
+
+
+### Density pass D-2026-10-11-25 — site-level primary anchors
+
+- **一、二号坑加深 / Pits 1–2 deepened** — 《文物》1987/1989 简报 + 1999《三星堆祭祀坑》正式报告 [`src-sanxingdui-pit1-brief-1987`][`src-sanxingdui-pit2-brief-1989`][`src-sanxingdui-sichuan-jisikeng-1999`]。
+- **月亮湾早期发掘 / Yueliangwan early digs** — Graham 1934 Hanchow 初步报告；马继贤 1993 追记 1963 发掘 [`src-sanxingdui-graham-hanchow-1934`][`src-sanxingdui-ma-yueliangwan-1993`]。
+- **东城墙 / East City Wall** — 《四川文物》2024 年 2016 年度发掘简报 [`src-sanxingdui-east-wall-2016-brief-2024`]。
+- **金沙祭祀区 / Jinsha sacrificial zone** — 梅苑 2004《文物》简报；《资料集（一）》2013；《祭祀区发掘报告》2022 五卷 [`src-jinsha-meiyuan-brief-2004`][`src-jinsha-ziliaoji-1-2013`][`src-jinsha-sacrifice-zone-2022`]。
+- **分期概述 / Phasing overview** — 陈显丹 1990；Sun Hua 2003 [`src-sanxingdui-chen-xiandan-1990`][`src-sanxingdui-sun-hua-cultures-2003`]。
+
+- **Pits 1–2 deepened** — Wenwu 1987/1989 briefs + 1999 monograph [`src-sanxingdui-pit1-brief-1987`][`src-sanxingdui-pit2-brief-1989`][`src-sanxingdui-sichuan-jisikeng-1999`].
+- **Yueliangwan early digs** — Graham 1934 Hanchow preliminary report; Ma 1993 memoir of 1963 dig [`src-sanxingdui-graham-hanchow-1934`][`src-sanxingdui-ma-yueliangwan-1993`].
+- **East City Wall** — 2016 season brief in *Sichuan Cultural Relics* 2024 [`src-sanxingdui-east-wall-2016-brief-2024`].
+- **Jinsha sacrificial zone** — Meiyuan 2004 Wenwu brief; Materials Vol. 1 2013; Sacrificial-zone report 2022 (5 vols.) [`src-jinsha-meiyuan-brief-2004`][`src-jinsha-ziliaoji-1-2013`][`src-jinsha-sacrifice-zone-2022`].
+- **Phasing overview** — Chen Xiandan 1990; Sun Hua 2003 [`src-sanxingdui-chen-xiandan-1990`][`src-sanxingdui-sun-hua-cultures-2003`].
 
 ## Urbanism, architecture & institutions
 
@@ -146,6 +175,19 @@ Jade finds in the late 1920s and Graham’s 1934 excavation open the modern fiel
 - `src-sanxingdui-zhao-nsr-2021` — secondary NSR research highlight on new Shu discoveries (tier S)
 - `src-china-flad-chen-ancient-central-china-2013` — secondary Yangzi regional synthesis incl. Chengdu Plain (tier S)
 - `src-china-rawson-mysteries-1996` — secondary museum catalogue; Zhao Dianzeng Sanxingdui pits essay (tier S)
+
+
+- `src-sanxingdui-pit1-brief-1987` — primary excavation brief; Pit 1, Wenwu 1987 (tier P)
+- `src-sanxingdui-pit2-brief-1989` — primary excavation brief; Pit 2, Wenwu 1989 (tier P)
+- `src-sanxingdui-graham-hanchow-1934` — primary preliminary report; 1934 Yueliangwan/Hanchow dig (tier P)
+- `src-sanxingdui-east-wall-2016-brief-2024` — primary excavation brief; East City Wall 2016 (tier P)
+- `src-jinsha-meiyuan-brief-2004` — primary excavation brief; Jinsha Meiyuan Phase 1 (tier P)
+- `src-jinsha-sacrifice-zone-2022` — primary excavation report; Jinsha sacrificial zone, 5 vols. (tier P)
+- `src-jinsha-ziliaoji-1-2013` — primary materials volume; Jinsha 1999–2003 (tier P)
+- `src-jinsha-kaogu-faxian-2006` — secondary/popular Jinsha synthesis (tier S)
+- `src-sanxingdui-chen-xiandan-1990` — secondary overview/phasing (tier S)
+- `src-sanxingdui-ma-yueliangwan-1993` — secondary memoir of 1963 Yueliangwan dig (tier S)
+- `src-china-cass-xia-shang-2003` — secondary CASS Xia–Shang synthesis (shared context; tier S)
 
 ## Related civilizations
 

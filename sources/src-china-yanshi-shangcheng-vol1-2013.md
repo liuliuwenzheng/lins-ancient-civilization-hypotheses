@@ -1,0 +1,23 @@
+---
+id: src-china-yanshi-shangcheng-vol1-2013
+type: excavation-report
+citation: "Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2013. 偃师商城（第1卷）（上下册） [Yanshi Shang City, Vol. 1] (2 vols.). Beijing: Kexue Chubanshe (科学出版社). ISBN 9787030386991."
+url: "https://book.douban.com/subject/25754533/"
+access_date: "2026-10-11"
+reliability_tier: P
+notes: "Primary report covering 1983–2008 survey/excavation outside the palace city (walls, gates, buildings, tombs, storage, workshops, Shang cultural phasing). Distinct from Erlitou typesite. Tier P."
+---
+
+# Source: `src-china-yanshi-shangcheng-vol1-2013`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2013. 偃师商城（第1卷）（上下册） [Yanshi Shang City, Vol. 1] (2 vols.). Beijing: Kexue Chubanshe (科学出版社). ISBN 9787030386991. |
+| URL | https://book.douban.com/subject/25754533/ |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Primary report covering 1983–2008 survey/excavation outside the palace city (walls, gates, buildings, tombs, storage, workshops, Shang cultural phasing). Distinct from Erlitou typesite. Tier P.

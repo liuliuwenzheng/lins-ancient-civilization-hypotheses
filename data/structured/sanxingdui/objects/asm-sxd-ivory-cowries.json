@@ -1,9 +1,10 @@
 {
   "id": "asm-sxd-ivory-cowries",
+  "entity": "object",
   "object_kind": "assemblage",
   "names": {
-    "zh": "象牙与海贝坑藏（组合级）",
-    "en": "Ivory and cowrie pit deposits (assemblage-level)"
+    "zh": "三星堆象牙与海贝（组合级）",
+    "en": "Sanxingdui ivory and cowries (assemblage-level)"
   },
   "civilization_ids": [
     "civ-sanxingdui"
@@ -15,11 +16,12 @@
     "period-sxd-pits-1986-excavator"
   ],
   "summary": {
-    "zh": "坑藏常见门类；提示区域/远程物资流通可能性，机制不定单一模型。",
-    "en": "Common pit classes; suggest regional/long-distance material flows without fixing one mechanism."
+    "zh": "坑内象牙、海贝等；流通机制不定于单一模型。",
+    "en": "Ivory and cowries in pits; procurement mechanism not fixed to one model."
   },
   "sources": [
     "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-sichuan-jisikeng-1999",
     "src-sanxingdui-flad-valuable-objects-2012"
   ],
   "rights": {
@@ -27,16 +29,16 @@
     "license": null,
     "attribution": null,
     "upstream_url": null,
-    "notes": "No forged images."
+    "notes": "No forged artifact images."
   },
   "media_ids": [],
-  "entity": "object",
   "editorial": {
     "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

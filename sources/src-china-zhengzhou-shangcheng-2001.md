@@ -1,0 +1,23 @@
+---
+id: src-china-zhengzhou-shangcheng-2001
+type: excavation-report
+citation: "Henan Provincial Institute of Cultural Relics and Archaeology (河南省文物考古研究所), ed. 2001. 郑州商城：1953–1985年考古发掘报告 [Zhengzhou Shang City: Archaeological Excavation Report, 1953–1985] (3 vols.). Beijing: Wenwu Chubanshe. ISBN 9787501012893 (ISBN-10 7-5010-1289-X)."
+url: ""
+access_date: "2026-10-11"
+reliability_tier: P
+notes: "Primary three-volume report synthesizing Zhengzhou Shang City excavations 1953–1985 (incl. Erligang horizons). Earlier 《郑州二里岗》1959 is separate. Tier P."
+---
+
+# Source: `src-china-zhengzhou-shangcheng-2001`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Henan Provincial Institute of Cultural Relics and Archaeology (河南省文物考古研究所), ed. 2001. 郑州商城：1953–1985年考古发掘报告 [Zhengzhou Shang City: Archaeological Excavation Report, 1953–1985] (3 vols.). Beijing: Wenwu Chubanshe. ISBN 9787501012893 (ISBN-10 7-5010-1289-X). |
+| URL | — |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Primary three-volume report synthesizing Zhengzhou Shang City excavations 1953–1985 (incl. Erligang horizons). Earlier 《郑州二里岗》1959 is separate. Tier P.

@@ -1,0 +1,42 @@
+{
+  "id": "asm-china-xiaoshuangqiao-ritual",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "小双桥祭祀类遗存（组合级）",
+    "en": "Xiaoshuangqiao ritual deposits (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xiaoshuangqiao"
+  ],
+  "period_ids": [
+    "period-china-xiaoshuangqiao-huanbei"
+  ],
+  "summary": {
+    "zh": "1990–2000 发掘所见祭祀相关遗存；2012 报告。",
+    "en": "Ritual-related deposits from 1990–2000 seasons; 2012 report."
+  },
+  "sources": [
+    "src-china-xiaoshuangqiao-2012"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

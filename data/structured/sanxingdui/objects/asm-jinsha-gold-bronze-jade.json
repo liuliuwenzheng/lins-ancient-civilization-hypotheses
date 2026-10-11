@@ -1,0 +1,46 @@
+{
+  "id": "asm-jinsha-gold-bronze-jade",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金沙金/铜/玉礼仪物品（组合级）",
+    "en": "Jinsha gold/bronze/jade ritual objects (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-meiyuan",
+    "site-jinsha-comparative"
+  ],
+  "period_ids": [
+    "period-sxd-working-scheme-new-pits"
+  ],
+  "summary": {
+    "zh": "梅苑等地金器、铜器、玉器；以 2004/2013/2022 正式文献为准，不编造件数。",
+    "en": "Gold, bronze, jade at Meiyuan and related loci; per 2004/2013/2022 publications—no invented tallies."
+  },
+  "sources": [
+    "src-jinsha-meiyuan-brief-2004",
+    "src-jinsha-ziliaoji-1-2013",
+    "src-jinsha-sacrifice-zone-2022",
+    "src-sanxingdui-flad-valuable-objects-2012"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

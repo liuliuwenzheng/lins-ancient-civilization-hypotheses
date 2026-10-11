@@ -1,0 +1,46 @@
+{
+  "id": "asm-sxd-jade-stone",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三星堆玉石器（组合级）",
+    "en": "Sanxingdui jades and stone objects (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2",
+    "site-yueliangwan"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator",
+    "period-sxd-occupation-span"
+  ],
+  "summary": {
+    "zh": "坑内与月亮湾早期发现的玉石礼器；部分与中原风格对照≠文化等同。",
+    "en": "Jade/stone ritual objects from pits and early Yueliangwan finds; Central Plains comparison ≠ cultural equation."
+  },
+  "sources": [
+    "src-sanxingdui-sichuan-jisikeng-1999",
+    "src-sanxingdui-graham-hanchow-1934",
+    "src-sanxingdui-bagley-1988"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

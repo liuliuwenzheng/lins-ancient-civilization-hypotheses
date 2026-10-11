@@ -1,0 +1,33 @@
+{
+  "id": "claim-sxd-maritime-cowrie-trade-route",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "坑内海贝证明单一固定「南海朝贡/贸易路线」的模型，证据不足，属假说。",
+    "en": "Cowries proving one fixed South China Sea tribute/trade route is underdetermined—hypothesis."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sxd-ivory-cowries"
+  ],
+  "sources": [
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-flad-valuable-objects-2012"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  },
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+}

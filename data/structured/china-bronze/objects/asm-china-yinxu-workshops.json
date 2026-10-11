@@ -1,0 +1,43 @@
+{
+  "id": "asm-china-yinxu-workshops",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "殷墟铸铜/制骨作坊遗存（组合级）",
+    "en": "Yinxu bronze/bone workshop remains (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-anyang-yinxu"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "1958–1961 报告含苗圃北地等作坊类地点；手工业证据类型。",
+    "en": "1958–1961 report includes workshop loci (e.g. Miaopu North); craft evidence types."
+  },
+  "sources": [
+    "src-china-yinxu-1958-1961-1987",
+    "src-china-liu-chen-archaeology-2012"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

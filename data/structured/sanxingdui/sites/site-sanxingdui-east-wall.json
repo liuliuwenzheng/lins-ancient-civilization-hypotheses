@@ -1,0 +1,33 @@
+{
+  "id": "site-sanxingdui-east-wall",
+  "names": {
+    "zh": "三星堆东城墙（发掘段）",
+    "en": "Sanxingdui East City Wall (excavated section)",
+    "native": null
+  },
+  "kind_note": "City-wall trenches reported in 2016 season brief (2024)",
+  "region": "Guanghan, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "2016–2017 东城墙发掘简报（2024）：主城墙与副城墙剖面；始建期陈述属报告分期框架。",
+    "en": "2016–2017 East Wall brief (2024): main and secondary wall sections; construction-phase statements follow the brief’s periodization frame."
+  },
+  "sources": [
+    "src-sanxingdui-east-wall-2016-brief-2024",
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-chen-xiandan-1990"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

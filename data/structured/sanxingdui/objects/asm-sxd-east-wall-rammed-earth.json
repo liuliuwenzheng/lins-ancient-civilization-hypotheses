@@ -1,0 +1,42 @@
+{
+  "id": "asm-sxd-east-wall-rammed-earth",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三星堆东城墙夯土（发掘段）",
+    "en": "Sanxingdui East Wall rammed earth (excavated section)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-east-wall"
+  ],
+  "period_ids": [
+    "period-sxd-culture-phases-sun"
+  ],
+  "summary": {
+    "zh": "2016 东城墙发掘所见主/副城墙夯土剖面；始建绝对年仍依报告分期框架。",
+    "en": "Main/secondary rammed-earth wall sections from 2016 East Wall trenches; absolute start follows brief’s phasing frame."
+  },
+  "sources": [
+    "src-sanxingdui-east-wall-2016-brief-2024"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-china-erlitou-palace-city-documented",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "二里头 1999–2006 报告公布宫城、道路网与宫殿区夯土建筑等大型工程遗迹。",
+    "en": "Erlitou 1999–2006 report documents palace city, road network, and palace-zone rammed-earth buildings."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou"
+  ],
+  "period_ids": [
+    "period-china-erlitou"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-erlitou-1999-2006-2014",
+    "src-china-erlitou-1959-1978-1999"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

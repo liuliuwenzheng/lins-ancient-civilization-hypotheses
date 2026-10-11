@@ -1,5 +1,5 @@
 ---
-# fact-library: deep enrichment matching Mesopotamia/Egypt/Andes/Indus (2026-10-11)
+# fact-library + archive density D-2026-10-11-25 (sites + primary sources)
 id: civ-china-bronze
 names:
   zh: "中国青铜时代（中原总览）"
@@ -26,8 +26,22 @@ sources:
   - src-china-underhill-companion-2013
   - src-china-xszcp-jianben-2000
   - src-china-rawson-mysteries-1996
+  - src-china-erlitou-1959-1978-1999
+  - src-china-erlitou-1999-2006-2014
+  - src-china-yanshi-shangcheng-vol1-2013
+  - src-china-zhengzhou-shangcheng-2001
+  - src-china-zhengzhou-erligang-1959
+  - src-china-panlongcheng-2001
+  - src-china-yinxu-1958-1961-1987
+  - src-china-xiaoshuangqiao-2012
+  - src-china-huanbei-palace-1-2003
+  - src-china-huanbei-palace-2-2010
+  - src-china-yuanqu-shangcheng-1996
+  - src-china-yuanqu-shangcheng-vol2-2014
+  - src-china-cass-xia-shang-2003
+  - src-china-unesco-yinxu-2006
 related_ids: ["civ-sanxingdui", "civ-aegean", "civ-indus-valley"]
-notes: "fact-library after 2026-10-11 depth upgrade matching Mesopotamia/Egypt/Andes/Indus. Xia historicity = open debate (Notes only; Thorp 1991 minimal definition). Central Plains bronze frame ≠ Sanxingdui polity identity. XSZCP absolute bands = contested national project scheme. Multi-centred metallurgy/urbanism = research implication from regional literature, not ‘one kingdom’ claim. No invented page numbers; no forged images."
+notes: "fact-library + archive density D-2026-10-11-25 (sites + primary sources). Xia historicity = open debate (Notes + hypothesis claims; Thorp 1991 minimal definition). Central Plains bronze frame ≠ Sanxingdui polity identity. XSZCP absolute bands = contested scheme. No invented page numbers/coordinates; no forged images."
 ---
 
 # 中国青铜时代（中原总览） / China Bronze Age (Central Plains overview)
@@ -70,16 +84,39 @@ The table aligns **conventional archaeological period names** with registered se
 ## Key sites
 
 - **二里头 / Erlitou（河南偃师）** — 中原早期青铜时代关键类型遗址；Thorp（1991）综述已发表的布局、建筑、墓葬、礼器青铜与玉器等材料，并主张不预设夏史实的最小考古定义 [`src-china-thorp-erlitou-xia-1991`]。Xu Hong（Underhill 2013）专章讨论二里头文化的都城布局、青铜生产、墓葬与礼仪 [`src-china-underhill-companion-2013`]。Liu & Chen（2012）将其置于中原早期国家形成叙事的核心节点之一 [`src-china-liu-chen-archaeology-2012`]。
-- **郑州商城及相关二里岗中心 / Zhengzhou and Erligang centers** — Campbell「二里岗期」与 Liu & Chen「二里头与二里岗」框架下的早期都会/中心；具体城墙长度、宫殿基址清单须待登记各遗址正式报告后再写入，本条不编造 [`src-china-campbell-bronze-age-2014`][`src-china-liu-chen-archaeology-2012`]。
+- **郑州商城及相关二里岗中心 / Zhengzhou and Erligang centers** — Campbell「二里岗期」与 Liu & Chen「二里头与二里岗」框架下的早期都会/中心；城垣与分期细节以《郑州二里岗》1959 与《郑州商城》2001 为准，本条不编造未核对周长数字 [`src-china-zhengzhou-erligang-1959`][`src-china-zhengzhou-shangcheng-2001`][`src-china-campbell-bronze-age-2014`]。
 - **小双桥、洹北商城 / Xiaoshuangqiao, Huanbei** — Campbell 专章所标的二里岗—安阳过渡期重要地点 [`src-china-campbell-bronze-age-2014`]。
 - **殷墟 / 安阳 / Yinxu, Anyang（河南）** — 晚商都城考古区；甲骨文、王陵区与铸铜手工业等证据类型的核心出土地。Li Chi（1977）记述现代科学发掘开创史；Liu & Chen（2012）晚商专章、Campbell 安阳期章、Chang（1980）与 Thorp（2006）通论提供综合入口 [`src-china-li-chi-anyang-1977`][`src-china-liu-chen-archaeology-2012`][`src-china-campbell-bronze-age-2014`][`src-china-chang-shang-civilization-1980`][`src-china-thorp-early-bronze-age-2006`]。
 - **长江流域区域中心（对照）** — Flad & Chen（2013）讨论成都平原、三峡与湖北等地；三星堆细节见 `civ-sanxingdui` [`src-china-flad-chen-ancient-central-china-2013`]。
 
 - **Erlitou (Yanshi, Henan)** — key Central Plains Early Bronze Age typesite; Thorp (1991) reviews layout, architecture, burials, prestige bronzes and jades under a minimal definition that does not assume Xia historicity [`src-china-thorp-erlitou-xia-1991`]. Xu Hong (Underhill 2013) surveys capital layout, bronze production, burials, and ritual [`src-china-underhill-companion-2013`]. Liu & Chen (2012) place it among core early-state nodes [`src-china-liu-chen-archaeology-2012`].
-- **Zhengzhou / Erligang centers** — early metropolitan horizons under Campbell’s Erligang chapter and Liu & Chen’s Erlitou–Erligang frame; wall lengths and palace inventories await registered site reports — no invented find lists [`src-china-campbell-bronze-age-2014`][`src-china-liu-chen-archaeology-2012`].
+- **Zhengzhou / Erligang centers** — early metropolitan horizons under Campbell’s Erligang chapter and Liu & Chen’s Erlitou–Erligang frame; wall and phasing details follow Erligang 1959 and Zhengzhou Shang City 2001 — no invented circuit lengths [`src-china-zhengzhou-erligang-1959`][`src-china-zhengzhou-shangcheng-2001`][`src-china-campbell-bronze-age-2014`].
 - **Xiaoshuangqiao, Huanbei** — transitional locales in Campbell’s dedicated chapter [`src-china-campbell-bronze-age-2014`].
 - **Yinxu / Anyang (Henan)** — Late Shang capital zone; core for oracle bones, royal cemeteries, and bronze workshops. Li Chi (1977) narrates excavation history; Liu & Chen (2012), Campbell (2014), Chang (1980), and Thorp (2006) orient synthesis [`src-china-li-chi-anyang-1977`][`src-china-liu-chen-archaeology-2012`][`src-china-campbell-bronze-age-2014`][`src-china-chang-shang-civilization-1980`][`src-china-thorp-early-bronze-age-2006`].
 - **Yangzi regional centers (comparative)** — Flad & Chen (2013) on Chengdu Plain, Three Gorges, Hubei; Sanxingdui detail in `civ-sanxingdui` [`src-china-flad-chen-ancient-central-china-2013`].
+
+
+### Density pass D-2026-10-11-25 — site-level primary anchors
+
+- **二里头加深 / Erlitou deepened** — 《偃师二里头 1959–1978》（1999）与《二里头：1999–2006》（2014，五卷）正式报告：宫城、道路、围垣作坊区、铸铜与绿松石器作坊等 [`src-china-erlitou-1959-1978-1999`][`src-china-erlitou-1999-2006-2014`]。
+- **偃师商城 / Yanshi Shang City** — 《偃师商城》第1卷（2013）：宫城以外 1983–2008 城墙、城门、墓葬、作坊；与二里头分列 [`src-china-yanshi-shangcheng-vol1-2013`]。
+- **郑州商城 / Zhengzhou Shang City** — 《郑州二里岗》（1959）与《郑州商城 1953–1985》（2001，三卷）[`src-china-zhengzhou-erligang-1959`][`src-china-zhengzhou-shangcheng-2001`]。
+- **小双桥 / Xiaoshuangqiao** — 《郑州小双桥 1990–2000》（2012）[`src-china-xiaoshuangqiao-2012`]。
+- **洹北商城 / Huanbei** — 《考古》2003/2010 一、二号宫殿基址简报；与殷墟晚商区分列 [`src-china-huanbei-palace-1-2003`][`src-china-huanbei-palace-2-2010`]。
+- **殷墟加深 / Yinxu deepened** — 《殷墟发掘报告 1958–1961》（1987）；教科文 2006 世界遗产 WHC 1114 [`src-china-yinxu-1958-1961-1987`][`src-china-unesco-yinxu-2006`]。
+- **盘龙城 / Panlongcheng** — 《盘龙城 1963–1994》（2001）：长江中游早商相关宫城 [`src-china-panlongcheng-2001`]。
+- **垣曲商城 / Yuanqu Shang City** — 1996 勘察报告与 2014 第二卷发掘报告 [`src-china-yuanqu-shangcheng-1996`][`src-china-yuanqu-shangcheng-vol2-2014`]。
+- **综合 / Synthesis** — 《中国考古学·夏商卷》（2003）[`src-china-cass-xia-shang-2003`]。
+
+- **Erlitou deepened** — 1959–1978 report (1999) and Erlitou 1999–2006 (2014, 5 vols.): palace city, roads, enclosed workshops, bronze/turquoise craft [`src-china-erlitou-1959-1978-1999`][`src-china-erlitou-1999-2006-2014`].
+- **Yanshi Shang City** — Vol. 1 (2013): walls/gates/tombs/workshops outside palace city; distinct from Erlitou [`src-china-yanshi-shangcheng-vol1-2013`].
+- **Zhengzhou Shang City** — Erligang 1959 + Zhengzhou Shang City 1953–1985 (2001) [`src-china-zhengzhou-erligang-1959`][`src-china-zhengzhou-shangcheng-2001`].
+- **Xiaoshuangqiao** — 1990–2000 report (2012) [`src-china-xiaoshuangqiao-2012`].
+- **Huanbei** — Kaogu 2003/2010 palace foundation briefs; distinct from Late Shang Yinxu [`src-china-huanbei-palace-1-2003`][`src-china-huanbei-palace-2-2010`].
+- **Yinxu deepened** — Yinxu 1958–1961 report (1987); UNESCO 2006 WHC 1114 [`src-china-yinxu-1958-1961-1987`][`src-china-unesco-yinxu-2006`].
+- **Panlongcheng** — 1963–1994 report (2001): Middle Yangzi early Shang–related palace city [`src-china-panlongcheng-2001`].
+- **Yuanqu Shang City** — 1996 survey + 2014 Vol. 2 excavation report [`src-china-yuanqu-shangcheng-1996`][`src-china-yuanqu-shangcheng-vol2-2014`].
+- **Synthesis** — CASS *Chinese Archaeology: Xia–Shang Volume* (2003) [`src-china-cass-xia-shang-2003`].
 
 ## Urbanism, architecture & institutions
 
@@ -145,6 +182,22 @@ Modern research pillars include pioneering Anyang excavation narratives (Li Chi 
 - `src-china-underhill-companion-2013` — secondary companion; Xu Hong Erlitou Culture ch. (tier S)
 - `src-china-xszcp-jianben-2000` — secondary/project brief; contested absolute chronology scheme (tier S)
 - `src-china-rawson-mysteries-1996` — secondary museum catalogue; early dynastic discoveries (tier S)
+
+
+- `src-china-erlitou-1959-1978-1999` — primary excavation report; Erlitou 1959–1978 (tier P)
+- `src-china-erlitou-1999-2006-2014` — primary excavation report; Erlitou 1999–2006, 5 vols. (tier P)
+- `src-china-yanshi-shangcheng-vol1-2013` — primary excavation report; Yanshi Shang City Vol. 1 (tier P)
+- `src-china-zhengzhou-shangcheng-2001` — primary excavation report; Zhengzhou Shang City 1953–1985 (tier P)
+- `src-china-zhengzhou-erligang-1959` — primary excavation report; Zhengzhou Erligang (tier P)
+- `src-china-panlongcheng-2001` — primary excavation report; Panlongcheng 1963–1994 (tier P)
+- `src-china-yinxu-1958-1961-1987` — primary excavation report; Yinxu 1958–1961 (tier P)
+- `src-china-xiaoshuangqiao-2012` — primary excavation report; Xiaoshuangqiao 1990–2000 (tier P)
+- `src-china-huanbei-palace-1-2003` — primary excavation brief; Huanbei Palace Foundation 1 (tier P)
+- `src-china-huanbei-palace-2-2010` — primary excavation brief; Huanbei Palace Foundation 2 (tier P)
+- `src-china-yuanqu-shangcheng-1996` — primary survey report; Yuanqu Shang City (1) (tier P)
+- `src-china-yuanqu-shangcheng-vol2-2014` — primary excavation report; Yuanqu Shang City (2) (tier P)
+- `src-china-cass-xia-shang-2003` — secondary CASS synthesis; Xia–Shang archaeology (tier S)
+- `src-china-unesco-yinxu-2006` — UNESCO WH listing Yin Xu 2006 (tier T)
 
 ## Related civilizations
 

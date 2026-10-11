@@ -1,0 +1,33 @@
+{
+  "id": "site-chengdu-plain-shu-cluster",
+  "names": {
+    "zh": "古蜀考古遗址群（预备名单并置指针）",
+    "en": "Ancient Shu archaeological cluster (tentative-list pointer)",
+    "native": null
+  },
+  "kind_note": "UNESCO tentative-list grouping pointer (Sanxingdui + Jinsha + boat coffins)",
+  "region": "Chengdu Plain, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "教科文预备名单将三星堆、金沙与成都船棺墓群并置；预备名单≠已列入世界遗产，「古蜀国」为申报标题。",
+    "en": "UNESCO Tentative List groups Sanxingdui, Jinsha, and Chengdu boat-coffin tombs; tentative ≠ inscribed; ‘Ancient Shu State’ is nomination wording."
+  },
+  "sources": [
+    "src-sanxingdui-unesco-tentative-2013",
+    "src-jinsha-sacrifice-zone-2022",
+    "src-sanxingdui-flad-urbanism-2018"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

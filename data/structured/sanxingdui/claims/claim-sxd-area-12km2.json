@@ -1,0 +1,29 @@
+{
+  "id": "claim-sxd-area-12km2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Li et al. 2022 陈述三星堆遗址面积约 12 平方公里。",
+    "en": "Li et al. 2022 state the Sanxingdui site covers about 12 km²."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

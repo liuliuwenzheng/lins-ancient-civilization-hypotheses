@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-yinxu-1958-1961-report",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《殷墟发掘报告 1958–1961》（1987）公布安阳工作队在 13 处地点的田野资料。",
+    "en": "Yinxu Excavation Report 1958–1961 (1987) publishes CASS Anyang Team work at 13 loci."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-anyang-yinxu"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-yinxu-1958-1961-1987"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

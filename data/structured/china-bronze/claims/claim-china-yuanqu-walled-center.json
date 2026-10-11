@@ -1,0 +1,32 @@
+{
+  "id": "claim-china-yuanqu-walled-center",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "垣曲商城为晋南早商城址，有 1996 勘察报告与 2014 第二卷发掘报告。",
+    "en": "Yuanqu Shang City is an early Shang walled center in southern Shanxi with 1996 survey and 2014 Vol. 2 excavation reports."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yuanqu-shangcheng"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-yuanqu-shangcheng-1996",
+    "src-china-yuanqu-shangcheng-vol2-2014"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

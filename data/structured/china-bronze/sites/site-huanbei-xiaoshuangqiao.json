@@ -1,30 +1,34 @@
 {
   "id": "site-huanbei-xiaoshuangqiao",
   "names": {
-    "zh": "洹北商城与小双桥",
-    "en": "Huanbei and Xiaoshuangqiao",
+    "zh": "洹北商城与小双桥（总览指针）",
+    "en": "Huanbei and Xiaoshuangqiao (overview pointer)",
     "native": null
   },
-  "kind_note": "Transitional locales Erligang–Anyang",
+  "kind_note": "Transitional Erligang–Anyang overview; prefer split site records",
   "region": "Henan, China",
   "civilization_ids": [
     "civ-china-bronze"
   ],
   "summary": {
-    "zh": "Campbell 专章所标二里岗—安阳过渡期重要地点。",
-    "en": "Transitional locales in Campbell’s dedicated chapter between Erligang and Anyang."
+    "zh": "过渡期总览指针；细节见分列的洹北、小双桥遗址记录。",
+    "en": "Overview pointer for transitional horizon; see split Huanbei and Xiaoshuangqiao site records."
   },
   "sources": [
-    "src-china-campbell-bronze-age-2014"
+    "src-china-campbell-bronze-age-2014",
+    "src-china-xiaoshuangqiao-2012",
+    "src-china-huanbei-palace-1-2003",
+    "src-china-huanbei-palace-2-2010"
   ],
   "coordinates": null,
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

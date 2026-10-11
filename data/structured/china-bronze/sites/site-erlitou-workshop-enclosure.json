@@ -1,0 +1,33 @@
+{
+  "id": "site-erlitou-workshop-enclosure",
+  "names": {
+    "zh": "二里头围垣作坊区（遗址内指针）",
+    "en": "Erlitou enclosed workshop zone (intra-site pointer)",
+    "native": null
+  },
+  "kind_note": "Enclosed craft zone within Erlitou (bronze foundry / turquoise etc.)",
+  "region": "Yanshi, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "二里头遗址内围垣作坊区指针；2014 报告记述铸铜作坊与绿松石器作坊等相关遗存——不作「夏官营」类编造命名。",
+    "en": "Pointer to Erlitou enclosed workshop zone; 2014 report documents bronze foundry and turquoise-related craft remains—no invented palace-workshop names."
+  },
+  "sources": [
+    "src-china-erlitou-1999-2006-2014",
+    "src-china-erlitou-1959-1978-1999",
+    "src-china-underhill-companion-2013"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

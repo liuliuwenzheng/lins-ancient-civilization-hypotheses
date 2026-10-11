@@ -245,3 +245,25 @@ Major **S**: Feldman 1985 (Donnan ed.); Fung 1988 (Keatinge ed.); Chu 2006 *Bole
 - README “Why not Wikipedia” + “Try the API / UI” (honest, not fluff)
 
 **Notes:** Inspiration pointer (public compilation): https://x.com/Jaden_riku/status/2108876904002670873 — credit Graham’s essay; do not paste copyrighted text wholesale. Parallel densify work may continue on `data/structured/*`; this decision does not invent archaeology.
+
+### D-2026-10-11-25 — China Bronze + Sanxingdui archive density (sites + primary sources)
+
+**Decision:** Per owner priority (Mesopotamia D-21 / Egypt D-22 / Indus D-23 / Andes D-24 pattern), deepen **both** china-bronze and sanxingdui structured packs: register verifiable site-level excavation reports/briefs (P) and strong secondaries (S), expand sites/objects/claims, and sync `civ-china-bronze.md` / `civ-sanxingdui.md`.
+
+**This pass (bibliographic details verified via WebSearch/catalog pages; access_date 2026-10-11; no invented page numbers/coordinates/forged images):**
+
+Major **P** (China Bronze): Erlitou 1959–1978 (1999); Erlitou 1999–2006 (2014, 5 vols.); Yanshi Shang City Vol. 1 (2013); Zhengzhou Erligang (1959); Zhengzhou Shang City 1953–1985 (2001); Xiaoshuangqiao 1990–2000 (2012); Huanbei Palace Foundations 1–2 briefs (*Kaogu* 2003/2010); Yinxu 1958–1961 (1987); Panlongcheng 1963–1994 (2001); Yuanqu Shang City (1) 1996 / (2) 2014.
+
+**S/T** (China Bronze): CASS *Chinese Archaeology: Xia–Shang Volume* 2003; UNESCO Yin Xu 2006 (WHC 1114).
+
+Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 1999 monograph); Graham 1934 Hanchow/Yueliangwan preliminary report; East City Wall 2016 brief (*Sichuan Cultural Relics* 2024); Jinsha Meiyuan 2004 brief; Jinsha Materials Vol. 1 2013; Jinsha sacrificial-zone report 2022 (5 vols.).
+
+**S** (Sanxingdui): Chen Xiandan 1990; Ma Jixian 1993 Yueliangwan memoir; Jinsha 2006 popular synthesis (orientation only).
+
+**Structured packs:**
+- **china-bronze:** sources 14→28; sites 4→12; objects 3→16; claims 6→24; periods 5→7; media 0→1
+- **sanxingdui:** sources 14→28; sites 4→10; objects 3→16; claims 6→23; periods 5→7; media 1→1
+- `tools/export_check.py` passes all packs.
+
+**Notes:** Xia historicity, Erlitou=Xia capital, Zhengzhou/Yanshi/Huanbei textual royal-seat IDs, Panlongcheng as Shang outpost, Sanxingdui=Shang polity, Sanxingdui→Jinsha simple relocation, and fully formed “Ancient Shu State” kept as hypotheses. Integrity over speed.
+

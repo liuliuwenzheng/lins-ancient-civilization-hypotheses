@@ -1,0 +1,29 @@
+{
+  "id": "claim-jinsha-meiyuan-2004-brief",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "金沙梅苑地点有 2004《文物》一期发掘简报。",
+    "en": "Jinsha Meiyuan locus has a 2004 Wenwu Phase-1 excavation brief."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-meiyuan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jinsha-meiyuan-brief-2004"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

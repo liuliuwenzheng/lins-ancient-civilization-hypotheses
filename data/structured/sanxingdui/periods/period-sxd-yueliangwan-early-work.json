@@ -1,0 +1,34 @@
+{
+  "id": "period-sxd-yueliangwan-early-work",
+  "entity": "period",
+  "names": {
+    "zh": "月亮湾早期发掘工作窗（1934/1963）",
+    "en": "Yueliangwan early excavation window (1934/1963)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "time": {
+    "label": "Research-history window: Graham 1934; 1963 dig (Ma 1993 memoir)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Research-history pointer, not a ceramic phase label"
+  },
+  "summary": {
+    "zh": "研究史工作窗，不是陶系分期标签。",
+    "en": "Research-history working window, not a ceramic phase label."
+  },
+  "sources": [
+    "src-sanxingdui-graham-hanchow-1934",
+    "src-sanxingdui-ma-yueliangwan-1993"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

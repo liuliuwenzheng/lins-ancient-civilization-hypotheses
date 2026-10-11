@@ -1,41 +1,45 @@
 {
   "id": "asm-china-oracle-bones",
+  "entity": "object",
   "object_kind": "assemblage",
   "names": {
-    "zh": "晚商甲骨文（组合级）",
+    "zh": "晚商甲骨（组合级）",
     "en": "Late Shang oracle bones (assemblage-level)"
   },
   "civilization_ids": [
     "civ-china-bronze"
   ],
   "site_ids": [
-    "site-anyang-yinxu"
+    "site-anyang-yinxu",
+    "site-yinxu-xiaotun"
   ],
   "period_ids": [
     "period-china-anyang-late-shang"
   ],
   "summary": {
-    "zh": "武丁至帝辛约八九位商王时期；约十万片卜骨/卜甲残片；可系统释读的早期中国书写传统。",
-    "en": "Roughly eight or nine kings Wu Ding to Di Xin; ~100,000 scapula/plastron fragments; systematically readable early Chinese writing."
+    "zh": "武丁至帝辛时期卜辞；Keightley 1978 方法论入口；出土地以殷墟为核心。",
+    "en": "Divination texts Wu Ding–Di Xin; Keightley 1978 methodology; Yinxu core."
   },
   "sources": [
-    "src-china-keightley-oracle-bones-1978"
+    "src-china-keightley-oracle-bones-1978",
+    "src-china-li-chi-anyang-1977",
+    "src-china-yinxu-1958-1961-1987"
   ],
   "rights": {
     "status": "outbound-link-only",
     "license": null,
     "attribution": null,
     "upstream_url": null,
-    "notes": "No forged images."
+    "notes": "No forged artifact images."
   },
   "media_ids": [],
-  "entity": "object",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

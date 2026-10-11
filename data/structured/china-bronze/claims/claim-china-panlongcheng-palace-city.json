@@ -1,0 +1,33 @@
+{
+  "id": "claim-china-panlongcheng-palace-city",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "盘龙城为长江中游早商相关宫城：近方形城垣与城内大型宫殿基址，见 2001 报告。",
+    "en": "Panlongcheng is a Middle Yangzi early Shang–related palace city with near-square walls and large palace foundations (2001 report)."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-panlongcheng"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "object_ids": [
+    "asm-china-panlongcheng-palace"
+  ],
+  "sources": [
+    "src-china-panlongcheng-2001"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-east-wall-date-equals-erlitou",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "东城墙始建精确等同二里头晚期或某一绝对日历年，仍依赖分期框架，属可修订假说。",
+    "en": "Equating East Wall construction precisely with late Erlitou or a single calendar year remains framework-dependent and revisable."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-east-wall"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-east-wall-2016-brief-2024",
+    "src-sanxingdui-sun-hua-cultures-2003"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  },
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+}

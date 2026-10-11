@@ -1,0 +1,44 @@
+{
+  "id": "asm-jinsha-sacrifice-zone-deposits",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金沙祭祀区多期埋藏（组合级）",
+    "en": "Jinsha sacrificial-zone multi-period deposits"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-meiyuan",
+    "site-jinsha-comparative"
+  ],
+  "period_ids": [
+    "period-sxd-working-scheme-new-pits"
+  ],
+  "summary": {
+    "zh": "2022 五卷报告系统整理祭祀区多期遗存；具体期段数以报告为准。",
+    "en": "2022 five-volume report synthesizes multi-period sacrificial-zone deposits; phase counts per report."
+  },
+  "sources": [
+    "src-jinsha-sacrifice-zone-2022",
+    "src-jinsha-ziliaoji-1-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

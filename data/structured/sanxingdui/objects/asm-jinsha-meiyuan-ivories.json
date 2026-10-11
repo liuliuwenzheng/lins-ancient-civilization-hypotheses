@@ -1,0 +1,44 @@
+{
+  "id": "asm-jinsha-meiyuan-ivories",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金沙梅苑象牙堆积（组合级）",
+    "en": "Jinsha Meiyuan ivory deposits (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-meiyuan",
+    "site-jinsha-comparative"
+  ],
+  "period_ids": [
+    "period-sxd-working-scheme-new-pits"
+  ],
+  "summary": {
+    "zh": "梅苑地点象牙堆积坑等；2004 简报与 2022 祭祀区报告。",
+    "en": "Ivory deposit pits at Meiyuan; 2004 brief and 2022 sacrificial-zone report."
+  },
+  "sources": [
+    "src-jinsha-meiyuan-brief-2004",
+    "src-jinsha-sacrifice-zone-2022"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

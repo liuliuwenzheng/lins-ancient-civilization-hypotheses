@@ -1,0 +1,35 @@
+{
+  "id": "claim-china-yanshi-distinct-from-erlitou",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "偃师商城与二里头是分列城址/类型遗址；2013 偃师商城报告覆盖宫城以外 1983–2008 资料。",
+    "en": "Yanshi Shang City is a distinct walled site from Erlitou; 2013 report covers 1983–2008 data outside the palace city."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yanshi-shangcheng",
+    "site-erlitou"
+  ],
+  "period_ids": [
+    "period-china-erligang",
+    "period-china-erlitou"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-yanshi-shangcheng-vol1-2013",
+    "src-china-erlitou-1999-2006-2014",
+    "src-china-cass-xia-shang-2003"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

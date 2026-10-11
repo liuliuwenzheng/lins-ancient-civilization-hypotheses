@@ -1,9 +1,10 @@
 {
   "id": "asm-china-erlitou-prestige-jades",
+  "entity": "object",
   "object_kind": "assemblage",
   "names": {
-    "zh": "二里头声望玉器与礼器（组合级）",
-    "en": "Erlitou prestige jades and ritual objects (assemblage-level)"
+    "zh": "二里头声望玉器（组合级）",
+    "en": "Erlitou prestige jades (assemblage-level)"
   },
   "civilization_ids": [
     "civ-china-bronze"
@@ -15,11 +16,13 @@
     "period-china-erlitou"
   ],
   "summary": {
-    "zh": "二里头墓葬/礼仪语境中的玉礼器与声望物品；最小考古定义。",
-    "en": "Prestige jades and ritual objects in Erlitou burial/ritual contexts under minimal archaeological definition."
+    "zh": "二里头墓葬/礼仪语境玉器；Thorp 1991 与 1999/2014 报告取向。",
+    "en": "Jades in Erlitou burial/ritual contexts; Thorp 1991 and 1999/2014 reports."
   },
   "sources": [
     "src-china-thorp-erlitou-xia-1991",
+    "src-china-erlitou-1959-1978-1999",
+    "src-china-erlitou-1999-2006-2014",
     "src-china-underhill-companion-2013"
   ],
   "rights": {
@@ -27,16 +30,16 @@
     "license": null,
     "attribution": null,
     "upstream_url": null,
-    "notes": "No forged images."
+    "notes": "No forged artifact images."
   },
   "media_ids": [],
-  "entity": "object",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

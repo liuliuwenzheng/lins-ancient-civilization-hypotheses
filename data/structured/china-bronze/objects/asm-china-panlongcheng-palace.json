@@ -1,0 +1,42 @@
+{
+  "id": "asm-china-panlongcheng-palace",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "盘龙城宫殿基址（组合级）",
+    "en": "Panlongcheng palace foundations (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-panlongcheng"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "summary": {
+    "zh": "宫城内南北轴线上大型宫殿基址；2001 报告。",
+    "en": "Large palace foundations on N–S axis inside palace city; 2001 report."
+  },
+  "sources": [
+    "src-china-panlongcheng-2001"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-china-erlitou-bronze-foundry",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "二里头铸铜作坊遗存（组合级）",
+    "en": "Erlitou bronze-foundry remains (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou",
+    "site-erlitou-workshop-enclosure"
+  ],
+  "period_ids": [
+    "period-china-erlitou"
+  ],
+  "summary": {
+    "zh": "围垣作坊区内大型青铜冶铸作坊相关遗存（陶范等）；见 2014 报告。",
+    "en": "Bronze foundry-related remains (incl. molds) in enclosed workshop zone; 2014 report."
+  },
+  "sources": [
+    "src-china-erlitou-1999-2006-2014",
+    "src-china-liu-chen-state-formation-2003"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

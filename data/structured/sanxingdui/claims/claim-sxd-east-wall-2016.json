@@ -1,0 +1,29 @@
+{
+  "id": "claim-sxd-east-wall-2016",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "2016–2017 东城墙发掘简报（2024）公布主城墙与副城墙剖面等遗存。",
+    "en": "The 2016–2017 East City Wall brief (2024) publishes main and secondary wall sections."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-east-wall"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-east-wall-2016-brief-2024"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

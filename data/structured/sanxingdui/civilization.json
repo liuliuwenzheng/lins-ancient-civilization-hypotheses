@@ -6,27 +6,41 @@
     "en": "Sanxingdui",
     "native": "三星堆 / Sanxingdui (Guanghan, Sichuan)"
   },
-  "region": "East Asia / Southwest China — Sichuan Basin, Chengdu Plain; western Guanghan (~40 km NE of Chengdu)",
-  "time_span": "Site occupation c. 2700–1000 BC (Li et al. 2022); Pit 4 radiocarbon 1260–924 cal BC; pit absolute chronology long debated",
+  "region": "East Asia / Southwest China — Sichuan Basin, Chengdu Plain; western Guanghan (~40 km NE of Chengdu); Jinsha comparative",
+  "time_span": "Site occupation c. 2700–1000 BC (Li et al. 2022); Pit 4 radiocarbon 1260–924 cal BC; pit absolute chronology long debated; Jinsha sacrificial zone multi-period (2022 report)",
   "summary": {
-    "zh": "四川广汉三星堆青铜时代遗址；1986 一、二号坑与 2020 起新坑；与中原商王国是否同一政体属开放研究。",
-    "en": "Sanxingdui Bronze Age site in Guanghan, Sichuan; 1986 Pits 1–2 and post-2020 pits; relationship to Shang kingdom remains open research."
+    "zh": "四川广汉三星堆青铜时代遗址档案包：1986 坑简报与 1999 报告、东城墙、月亮湾早期发掘、金沙祭祀区正式报告已入库；与中原商王国是否同一政体属开放研究。",
+    "en": "Sanxingdui Bronze Age archive pack: 1986 pit briefs + 1999 monograph, East Wall, early Yueliangwan digs, Jinsha sacrificial-zone formal reports registered; relationship to Shang kingdom remains open research."
   },
   "sources": [
-    "src-sanxingdui-sichuan-jisikeng-1999",
-    "src-sanxingdui-ge-linduff-1990",
+    "src-china-bagley-shang-ritual-bronzes-1987",
+    "src-china-campbell-bronze-age-2014",
+    "src-china-cass-xia-shang-2003",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-rawson-mysteries-1996",
+    "src-jinsha-kaogu-faxian-2006",
+    "src-jinsha-meiyuan-brief-2004",
+    "src-jinsha-sacrifice-zone-2022",
+    "src-jinsha-ziliaoji-1-2013",
     "src-sanxingdui-bagley-1988",
-    "src-sanxingdui-li-qiu-guo-li-2022",
     "src-sanxingdui-bagley-ancient-sichuan-2001",
-    "src-sanxingdui-xu-bronze-2001",
+    "src-sanxingdui-chen-xiandan-1990",
+    "src-sanxingdui-east-wall-2016-brief-2024",
     "src-sanxingdui-flad-urbanism-2018",
     "src-sanxingdui-flad-valuable-objects-2012",
+    "src-sanxingdui-ge-linduff-1990",
+    "src-sanxingdui-graham-hanchow-1934",
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-ma-yueliangwan-1993",
+    "src-sanxingdui-pit1-brief-1987",
+    "src-sanxingdui-pit2-brief-1989",
+    "src-sanxingdui-sichuan-jisikeng-1999",
     "src-sanxingdui-sun-hua-cultures-2003",
-    "src-sanxingdui-wu-ran-lei-2021",
     "src-sanxingdui-unesco-tentative-2013",
-    "src-sanxingdui-zhao-nsr-2021",
-    "src-china-flad-chen-ancient-central-china-2013",
-    "src-china-rawson-mysteries-1996"
+    "src-sanxingdui-wu-ran-lei-2021",
+    "src-sanxingdui-xu-bronze-2001",
+    "src-sanxingdui-zhao-nsr-2021"
   ],
   "related_ids": [
     "civ-china-bronze"
@@ -34,38 +48,77 @@
   "entity": "civilization",
   "kind": "fact",
   "site_ids": [
+    "site-chengdu-plain-shu-cluster",
+    "site-jinsha-comparative",
+    "site-jinsha-meiyuan",
     "site-sanxingdui",
-    "site-sanxingdui-pits-1-2",
+    "site-sanxingdui-east-wall",
     "site-sanxingdui-pit-4",
-    "site-jinsha-comparative"
+    "site-sanxingdui-pits-1-2",
+    "site-sanxingdui-pits-3-8",
+    "site-sanxingdui-settlement-core",
+    "site-yueliangwan"
   ],
   "period_ids": [
-    "period-sxd-occupation-span",
     "period-sxd-culture-phases-sun",
-    "period-sxd-pits-1986-excavator",
+    "period-sxd-jinsha-sacrifice-span",
+    "period-sxd-occupation-span",
     "period-sxd-pit4-radiocarbon",
-    "period-sxd-working-scheme-new-pits"
+    "period-sxd-pits-1986-excavator",
+    "period-sxd-working-scheme-new-pits",
+    "period-sxd-yueliangwan-early-work"
   ],
   "claim_ids": [
-    "claim-sxd-site-basics",
+    "claim-jinsha-meiyuan-2004-brief",
+    "claim-jinsha-sacrifice-report-2022",
+    "claim-jinsha-ziliaoji-2013",
+    "claim-sxd-ancient-shu-title",
+    "claim-sxd-area-12km2",
+    "claim-sxd-burn-before-burial-pit1",
+    "claim-sxd-capital-moved-to-jinsha",
+    "claim-sxd-chen-1990-phasing",
+    "claim-sxd-east-wall-2016",
+    "claim-sxd-east-wall-date-equals-erlitou",
+    "claim-sxd-graham-1934-first-dig",
+    "claim-sxd-is-ancient-shu-state",
+    "claim-sxd-local-bronze-style",
+    "claim-sxd-maritime-cowrie-trade-route",
     "claim-sxd-no-oracle-archive",
-    "claim-sxd-pit4-dates",
     "claim-sxd-not-same-shang-polity",
+    "claim-sxd-occupation-2700-1000",
     "claim-sxd-pit-chronology-debated",
-    "claim-sxd-ancient-shu-title"
+    "claim-sxd-pit1-2-primary-reports",
+    "claim-sxd-pit4-ams-range",
+    "claim-sxd-pit4-dates",
+    "claim-sxd-single-ceremony-all-pits",
+    "claim-sxd-site-basics"
   ],
   "object_ids": [
+    "asm-jinsha-gold-bronze-jade",
+    "asm-jinsha-meiyuan-ivories",
+    "asm-jinsha-sacrifice-zone-deposits",
+    "asm-jinsha-stone-bi-zhang-workshop",
     "asm-sxd-bronze-figures-masks",
+    "asm-sxd-bronze-trees",
+    "asm-sxd-burned-bones-in-pit1",
+    "asm-sxd-east-wall-rammed-earth",
     "asm-sxd-gold-staff-sheathing",
-    "asm-sxd-ivory-cowries"
+    "asm-sxd-graham-1934-jades",
+    "asm-sxd-ivory-cowries",
+    "asm-sxd-jade-stone",
+    "asm-sxd-pit3-8-new-finds",
+    "asm-sxd-pit4-dated-fill",
+    "asm-sxd-pottery-phasing",
+    "asm-sxd-shang-style-vessels-in-pits"
   ],
   "markdown_path": "data/civilizations/civ-sanxingdui.md",
   "editorial": {
     "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-occupation-2700-1000",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Li et al. 2022 给出遗址占用约公元前 2700–1000 年的跨度陈述。",
+    "en": "Li et al. 2022 state a site occupation span of c. 2700–1000 BC."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

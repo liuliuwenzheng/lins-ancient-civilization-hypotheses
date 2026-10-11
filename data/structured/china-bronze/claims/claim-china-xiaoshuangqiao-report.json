@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-xiaoshuangqiao-report",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "小双桥有 2012 正式发掘报告（1990–2000），与洹北分列登记。",
+    "en": "Xiaoshuangqiao has a 2012 formal excavation report (1990–2000 seasons), registered separately from Huanbei."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xiaoshuangqiao"
+  ],
+  "period_ids": [
+    "period-china-xiaoshuangqiao-huanbei"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-xiaoshuangqiao-2012"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

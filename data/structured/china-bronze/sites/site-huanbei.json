@@ -1,0 +1,35 @@
+{
+  "id": "site-huanbei",
+  "names": {
+    "zh": "洹北商城",
+    "en": "Huanbei Shang City",
+    "native": "洹北商城"
+  },
+  "kind_note": "Middle Shang walled city north of the Huan River; palace foundations",
+  "region": "Anyang, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "洹河北岸中商城址；《考古》2003/2010 一、二号宫殿基址发掘简报。与殷墟晚商区相邻但分期不同。",
+    "en": "Middle Shang city north of the Huan River; Kaogu 2003/2010 briefs on Palace Foundations 1–2. Adjacent to Late Shang Yinxu but distinct periodization."
+  },
+  "sources": [
+    "src-china-huanbei-palace-1-2003",
+    "src-china-huanbei-palace-2-2010",
+    "src-china-campbell-bronze-age-2014",
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-cass-xia-shang-2003"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

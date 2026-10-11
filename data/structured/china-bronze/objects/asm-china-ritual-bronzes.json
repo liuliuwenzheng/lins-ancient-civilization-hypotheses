@@ -1,5 +1,6 @@
 {
   "id": "asm-china-ritual-bronzes",
+  "entity": "object",
   "object_kind": "assemblage",
   "names": {
     "zh": "商–周礼器青铜（组合级）",
@@ -10,36 +11,41 @@
   ],
   "site_ids": [
     "site-anyang-yinxu",
-    "site-erlitou"
+    "site-zhengzhou-erligang",
+    "site-erlitou",
+    "site-panlongcheng"
   ],
   "period_ids": [
     "period-china-anyang-late-shang",
-    "period-china-erlitou",
-    "period-china-erligang"
+    "period-china-erligang",
+    "period-china-erlitou"
   ],
   "summary": {
-    "zh": "鼎、簋等容器与兵器、乐器；Bagley 1987 Sackler 专书为英语标准入口。",
-    "en": "Vessels (ding, gui, etc.), weapons, and bells; Bagley 1987 Sackler volume is the standard English entry."
+    "zh": "鼎、簋等容器与兵器、乐器；Bagley 1987 与各地正式报告为入口。",
+    "en": "Vessels, weapons, bells; Bagley 1987 and site reports orient the class."
   },
   "sources": [
     "src-china-bagley-shang-ritual-bronzes-1987",
-    "src-china-loewe-shaughnessy-cambridge-1999"
+    "src-china-loewe-shaughnessy-cambridge-1999",
+    "src-china-zhengzhou-shangcheng-2001",
+    "src-china-panlongcheng-2001",
+    "src-china-yinxu-1958-1961-1987"
   ],
   "rights": {
     "status": "outbound-link-only",
     "license": null,
     "attribution": null,
     "upstream_url": null,
-    "notes": "No forged bronze images."
+    "notes": "No forged artifact images."
   },
   "media_ids": [],
-  "entity": "object",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

@@ -1,0 +1,35 @@
+{
+  "id": "site-yinxu-xibeigang",
+  "names": {
+    "zh": "殷墟西北冈（王陵区指针）",
+    "en": "Yinxu Xibeigang (royal cemetery zone pointer)",
+    "native": "西北冈"
+  },
+  "kind_note": "Late Shang royal cemetery / sacrificial zone pointer within Yinxu",
+  "region": "Anyang, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "王陵与祭祀坑区指针；教科文名录亦强调宫殿—宗庙区与王陵区。具体坑号以正式报告为准。",
+    "en": "Royal tombs and sacrificial-pit zone pointer; UNESCO listing stresses palace–ancestral and royal tomb areas. Pit numbers require formal reports."
+  },
+  "sources": [
+    "src-china-unesco-yinxu-2006",
+    "src-china-yinxu-1958-1961-1987",
+    "src-china-chang-shang-civilization-1980",
+    "src-china-thorp-early-bronze-age-2006",
+    "src-china-cass-xia-shang-2003"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

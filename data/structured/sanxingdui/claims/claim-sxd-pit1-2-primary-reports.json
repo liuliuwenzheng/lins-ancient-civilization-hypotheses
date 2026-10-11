@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-pit1-2-primary-reports",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "一、二号坑有《文物》1987/1989 发掘简报与 1999《三星堆祭祀坑》正式报告。",
+    "en": "Pits 1–2 have Wenwu 1987/1989 excavation briefs and the 1999 Sanxingdui sacrificial pits monograph."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-pit1-brief-1987",
+    "src-sanxingdui-pit2-brief-1989",
+    "src-sanxingdui-sichuan-jisikeng-1999"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

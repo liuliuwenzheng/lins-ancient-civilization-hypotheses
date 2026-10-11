@@ -1,0 +1,44 @@
+{
+  "id": "asm-sxd-burned-bones-in-pit1",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "一号坑烧骨与焚烧痕迹器物（组合级）",
+    "en": "Pit 1 burned bones and fire-altered objects"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator"
+  ],
+  "summary": {
+    "zh": "Bagley 1988：器物有焚烧痕迹；坑壁未见火烧，火焚在入坑前。",
+    "en": "Bagley 1988: objects show burning; pit walls unburned, so burning preceded deposition."
+  },
+  "sources": [
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-pit1-brief-1987",
+    "src-sanxingdui-sichuan-jisikeng-1999"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

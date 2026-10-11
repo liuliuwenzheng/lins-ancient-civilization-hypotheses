@@ -1,0 +1,33 @@
+{
+  "id": "site-jinsha-meiyuan",
+  "names": {
+    "zh": "金沙梅苑祭祀地点",
+    "en": "Jinsha Meiyuan sacrificial locus",
+    "native": "梅苑"
+  },
+  "kind_note": "Primary Jinsha sacrificial locus within Zone I",
+  "region": "Chengdu, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "金沙Ⅰ区梅苑：2004《文物》一期简报；2022 祭祀区五卷报告系统整理。",
+    "en": "Jinsha Zone I Meiyuan: 2004 Wenwu Phase-1 brief; 2022 five-volume sacrificial-zone report."
+  },
+  "sources": [
+    "src-jinsha-meiyuan-brief-2004",
+    "src-jinsha-sacrifice-zone-2022",
+    "src-jinsha-ziliaoji-1-2013"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

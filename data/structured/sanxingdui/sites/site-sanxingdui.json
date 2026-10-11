@@ -1,32 +1,36 @@
 {
   "id": "site-sanxingdui",
   "names": {
-    "zh": "三星堆遗址",
+    "zh": "三星堆遗址本体",
     "en": "Sanxingdui site",
     "native": "三星堆"
   },
-  "kind_note": "Large center ~12 km²; settlement/walls and sacrificial area",
-  "region": "Guanghan, Sichuan, China (~40 km NE of Chengdu)",
+  "kind_note": "Large Chengdu Plain Bronze Age center (~12 km²)",
+  "region": "Guanghan, Sichuan, China",
   "civilization_ids": [
     "civ-sanxingdui"
   ],
   "summary": {
-    "zh": "约 12 km² 大型中心；含城墙/聚落与祭祀区等遗存类型。",
-    "en": "Large center (~12 km²) with settlement/walls and sacrificial-area remains."
+    "zh": "约 12 km² 大型中心；1934 月亮湾/Hanchow 首掘；1986 祭祀坑；2016 东城墙简报。",
+    "en": "Large center (~12 km²); 1934 Yueliangwan/Hanchow first dig; 1986 sacrificial pits; 2016 East Wall brief."
   },
   "sources": [
     "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-graham-hanchow-1934",
+    "src-sanxingdui-east-wall-2016-brief-2024",
     "src-sanxingdui-ge-linduff-1990",
-    "src-sanxingdui-bagley-1988"
+    "src-sanxingdui-chen-xiandan-1990",
+    "src-sanxingdui-unesco-tentative-2013"
   ],
   "coordinates": null,
   "entity": "site",
   "editorial": {
     "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

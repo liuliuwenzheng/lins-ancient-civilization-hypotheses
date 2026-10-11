@@ -1,0 +1,33 @@
+{
+  "id": "site-sanxingdui-pits-3-8",
+  "names": {
+    "zh": "三星堆三至八号坑（2020 起）",
+    "en": "Sanxingdui Pits 3–8 (from 2020)",
+    "native": null
+  },
+  "kind_note": "Renewed sacrificial-area pits; tallies await full formal reports",
+  "region": "Guanghan, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "2020 起新发现坑组；Li et al. 2022 / Zhao 2021 为研究史节点；定量总账不以新闻稿编造。",
+    "en": "New pit group from 2020; Li et al. 2022 / Zhao 2021 mark research history; no invented object tallies from news copy."
+  },
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-zhao-nsr-2021",
+    "src-sanxingdui-wu-ran-lei-2021"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

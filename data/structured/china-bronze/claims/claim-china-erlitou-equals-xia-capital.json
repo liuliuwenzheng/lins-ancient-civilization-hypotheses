@@ -1,0 +1,34 @@
+{
+  "id": "claim-china-erlitou-equals-xia-capital",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将二里头直接等同于文献「夏都」或夏王朝政治中心，仍属有争议假说。",
+    "en": "Equating Erlitou directly with a textual Xia capital or Xia dynastic center remains a contested hypothesis."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou"
+  ],
+  "period_ids": [
+    "period-china-erlitou"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-thorp-erlitou-xia-1991",
+    "src-china-xszcp-jianben-2000",
+    "src-china-cass-xia-shang-2003"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  },
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+}

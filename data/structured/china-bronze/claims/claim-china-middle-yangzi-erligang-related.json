@@ -1,0 +1,33 @@
+{
+  "id": "claim-china-middle-yangzi-erligang-related",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "盘龙城等长江中游遗址呈现与二里岗/早商中原传统相关的青铜与城址要素（区域中心，非自动「商郡」）。",
+    "en": "Middle Yangzi sites such as Panlongcheng show Erligang/early Shang–related bronze and urban elements (regional centers, not automatic ‘Shang prefectures’)."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-panlongcheng"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-panlongcheng-2001",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-liu-chen-archaeology-2012"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-sxd-pit4-dated-fill",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "四号坑测年相关堆积（组合级）",
+    "en": "Pit 4 dated fill assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pit-4"
+  ],
+  "period_ids": [
+    "period-sxd-pit4-radiocarbon"
+  ],
+  "summary": {
+    "zh": "四号坑堆积提供 AMS 样品；日期 1260–924 cal BC。",
+    "en": "Pit 4 fills yielded AMS samples dated 1260–924 cal BC."
+  },
+  "sources": [
+    "src-sanxingdui-wu-ran-lei-2021",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

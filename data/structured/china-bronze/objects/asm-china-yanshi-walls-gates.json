@@ -1,0 +1,42 @@
+{
+  "id": "asm-china-yanshi-walls-gates",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "偃师商城城墙与城门（组合级）",
+    "en": "Yanshi Shang City walls and gates (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yanshi-shangcheng"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "summary": {
+    "zh": "大城城墙勘探解剖与城门发掘；2013 第1卷。",
+    "en": "Outer-city wall trenching and gate excavations; 2013 Vol. 1."
+  },
+  "sources": [
+    "src-china-yanshi-shangcheng-vol1-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

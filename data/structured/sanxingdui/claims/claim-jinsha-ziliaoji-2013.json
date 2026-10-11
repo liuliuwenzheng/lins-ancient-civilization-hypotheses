@@ -1,0 +1,29 @@
+{
+  "id": "claim-jinsha-ziliaoji-2013",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《金沙遗址考古发掘资料集（一）》（2013）汇集 1999–2003 发掘资料。",
+    "en": "Jinsha Excavation Materials Vol. 1 (2013) compiles 1999–2003 excavation data."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-comparative"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jinsha-ziliaoji-1-2013"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

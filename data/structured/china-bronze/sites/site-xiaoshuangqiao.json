@@ -1,0 +1,33 @@
+{
+  "id": "site-xiaoshuangqiao",
+  "names": {
+    "zh": "郑州小双桥",
+    "en": "Zhengzhou Xiaoshuangqiao",
+    "native": "小双桥"
+  },
+  "kind_note": "Shang site; Erligang–Anyang transitional ritual deposits",
+  "region": "Zhengzhou, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "商代遗址；2012 正式报告公布 1990–2000 勘探发掘与祭祀类遗存。与洹北分列。",
+    "en": "Shang site; 2012 report publishes 1990–2000 survey/excavation and ritual deposits. Kept distinct from Huanbei."
+  },
+  "sources": [
+    "src-china-xiaoshuangqiao-2012",
+    "src-china-campbell-bronze-age-2014",
+    "src-china-cass-xia-shang-2003"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

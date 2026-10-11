@@ -1,0 +1,43 @@
+{
+  "id": "asm-sxd-pit3-8-new-finds",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三至八号坑新出礼仪器物（组合级，待全报）",
+    "en": "Pits 3–8 new ritual finds (assemblage; full tallies pending)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-3-8"
+  ],
+  "period_ids": [
+    "period-sxd-working-scheme-new-pits"
+  ],
+  "summary": {
+    "zh": "2020 后新坑出土金面具等礼仪器物已见研究史报道；完整器物账以正式中文报告为准。",
+    "en": "Post-2020 pits yielded ritual finds (e.g. gold masks) noted in research-history pieces; full tallies await formal Chinese reports."
+  },
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-zhao-nsr-2021"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

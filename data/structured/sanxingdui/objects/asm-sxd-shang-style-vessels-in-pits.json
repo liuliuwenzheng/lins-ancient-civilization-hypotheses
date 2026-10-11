@@ -1,0 +1,43 @@
+{
+  "id": "asm-sxd-shang-style-vessels-in-pits",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "坑内中原式铜容器（少量，组合级）",
+    "en": "Shang-style bronze vessels in pits (minor component)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator"
+  ],
+  "summary": {
+    "zh": "Bagley 1988：坑内有少量熟悉的商式铜容器/玉器，同时大量器物地方特色鲜明。",
+    "en": "Bagley 1988: a few familiar Shang-type bronzes/jades beside many local unprecedented forms."
+  },
+  "sources": [
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-sichuan-jisikeng-1999"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

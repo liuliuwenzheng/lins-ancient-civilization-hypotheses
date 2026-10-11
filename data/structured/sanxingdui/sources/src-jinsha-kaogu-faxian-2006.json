@@ -1,0 +1,17 @@
+{
+  "id": "src-jinsha-kaogu-faxian-2006",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Chengdu Institute of Cultural Relics and Archaeology (related project team). 2006. 金沙考古发现：走进古蜀都邑金沙村 [Jinsha Archaeological Discoveries: Entering the Ancient Shu Capital Village of Jinsha]. (Popular/synthesis project volume—use for orientation; prefer 2004 brief / 2013 materials / 2022 report for primary claims.)",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary/popular synthesis of early Jinsha discoveries. Prefer registered P reports for fact claims. ‘Ancient Shu capital’ wording = project framing, not polity verdict. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-jinsha-kaogu-faxian-2006.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

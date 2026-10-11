@@ -1,0 +1,45 @@
+{
+  "id": "asm-china-yinxu-sacrificial-pits",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "殷墟祭祀坑（组合级）",
+    "en": "Yinxu sacrificial pits (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-anyang-yinxu",
+    "site-yinxu-xibeigang"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "王陵区及相关地点祭祀坑是晚商礼仪证据类型；具体坑号以报告为准。",
+    "en": "Sacrificial pits in royal cemetery and related loci; pit IDs require reports."
+  },
+  "sources": [
+    "src-china-yinxu-1958-1961-1987",
+    "src-china-unesco-yinxu-2006",
+    "src-china-chang-shang-civilization-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

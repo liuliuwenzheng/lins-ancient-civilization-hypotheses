@@ -1,0 +1,30 @@
+{
+  "id": "claim-sxd-chen-1990-phasing",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "陈显丹 1990 文提供三星堆早期发掘概况与初步分期的重要二手入口。",
+    "en": "Chen Xiandan 1990 supplies an important secondary overview of early Sanxingdui seasons and preliminary phasing."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-chen-xiandan-1990",
+    "src-sanxingdui-sun-hua-cultures-2003"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

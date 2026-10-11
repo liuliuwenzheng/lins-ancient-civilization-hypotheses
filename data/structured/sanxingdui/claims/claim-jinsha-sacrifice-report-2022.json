@@ -1,0 +1,30 @@
+{
+  "id": "claim-jinsha-sacrifice-report-2022",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《金沙遗址——祭祀区发掘报告》（2022，五卷）为金沙祭祀区正式田野报告。",
+    "en": "Jinsha Site: Excavation Report on the Sacrificial Zone (2022, 5 vols.) is the formal field report for the Jinsha sacrificial zone."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-comparative",
+    "site-jinsha-meiyuan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jinsha-sacrifice-zone-2022"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

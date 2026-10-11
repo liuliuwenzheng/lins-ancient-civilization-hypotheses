@@ -11,25 +11,27 @@
     "civ-china-bronze"
   ],
   "summary": {
-    "zh": "晚商都城考古区；甲骨文、王陵与铸铜手工业核心出土地。",
-    "en": "Late Shang capital zone; core for oracle bones, royal cemeteries, and bronze workshops."
+    "zh": "晚商都城考古区；1987《殷墟发掘报告1958–1961》与教科文 2006 列入世界遗产（WHC 1114）。",
+    "en": "Late Shang capital zone; 1987 Yinxu 1958–1961 report; UNESCO inscribed 2006 (WHC 1114)."
   },
   "sources": [
+    "src-china-yinxu-1958-1961-1987",
     "src-china-li-chi-anyang-1977",
+    "src-china-keightley-oracle-bones-1978",
     "src-china-liu-chen-archaeology-2012",
     "src-china-campbell-bronze-age-2014",
-    "src-china-chang-shang-civilization-1980",
-    "src-china-thorp-early-bronze-age-2006",
-    "src-china-keightley-oracle-bones-1978"
+    "src-china-unesco-yinxu-2006",
+    "src-china-cass-xia-shang-2003"
   ],
   "coordinates": null,
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

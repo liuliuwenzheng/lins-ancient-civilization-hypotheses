@@ -1,0 +1,34 @@
+{
+  "id": "claim-china-panlongcheng-as-shang-outpost",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "盘龙城为商王国南方军事/殖民前哨的单一模型，属解释性假说（亦可为地方政权或互动节点）。",
+    "en": "A single model of Panlongcheng as a Shang military/colonial outpost is interpretive hypothesis (local polity or interaction node also debated)."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-panlongcheng"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-panlongcheng-2001",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-liu-chen-archaeology-2012"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  },
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+}

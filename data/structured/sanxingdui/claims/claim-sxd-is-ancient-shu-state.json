@@ -1,0 +1,32 @@
+{
+  "id": "claim-sxd-is-ancient-shu-state",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将三星堆直接等同于文献「古蜀国」完备国家实体，超出预备名单标题与现有文字证据。",
+    "en": "Equating Sanxingdui directly with a fully formed textual ‘Ancient Shu State’ exceeds tentative-list wording and available writing evidence."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-unesco-tentative-2013",
+    "src-sanxingdui-chen-xiandan-1990",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  },
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+}

@@ -5,16 +5,20 @@
     "en": "Jinsha (comparative)",
     "native": "金沙"
   },
-  "kind_note": "Later Chengdu Plain center juxtaposed with Sanxingdui",
-  "region": "Chengdu Plain, Sichuan",
+  "kind_note": "Later Chengdu Plain ritual–political center; primary reports now registered",
+  "region": "Chengdu Plain, Sichuan, China",
   "civilization_ids": [
     "civ-sanxingdui"
   ],
   "summary": {
-    "zh": "Flad 将金沙与三星堆并置讨论贵重物品与城市技术；并置≠已证明简单迁都。",
-    "en": "Flad juxtaposes Jinsha with Sanxingdui on valuables and urbanism; juxtaposition ≠ proven simple capital relocation."
+    "zh": "金沙梅苑简报（2004）、资料集（2013）、祭祀区正式报告（2022）；与三星堆并置≠已证简单迁都。",
+    "en": "Meiyuan brief (2004), materials vol. (2013), sacrificial-zone report (2022); juxtaposition with Sanxingdui ≠ proven simple capital relocation."
   },
   "sources": [
+    "src-jinsha-meiyuan-brief-2004",
+    "src-jinsha-ziliaoji-1-2013",
+    "src-jinsha-sacrifice-zone-2022",
+    "src-jinsha-kaogu-faxian-2006",
     "src-sanxingdui-flad-valuable-objects-2012",
     "src-sanxingdui-flad-urbanism-2018",
     "src-sanxingdui-unesco-tentative-2013"
@@ -23,10 +27,11 @@
   "entity": "site",
   "editorial": {
     "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

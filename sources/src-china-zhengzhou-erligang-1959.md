@@ -1,0 +1,23 @@
+---
+id: src-china-zhengzhou-erligang-1959
+type: excavation-report
+citation: "Henan Provincial Cultural Bureau Cultural Relics Work Team (河南省文化局文物工作队), ed. 1959. 郑州二里岗 [Zhengzhou Erligang]. 中国田野考古报告集·考古学专刊丁种第七号. Beijing: Kexue Chubanshe (科学出版社). (Pre-ISBN; unified book number often cited as 11031·27.)"
+url: ""
+access_date: "2026-10-11"
+reliability_tier: P
+notes: "Primary early report on Erligang-area excavations that defined the Erligang cultural sequence; later subsumed/extended by Zhengzhou Shang City 2001. Tier P."
+---
+
+# Source: `src-china-zhengzhou-erligang-1959`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Henan Provincial Cultural Bureau Cultural Relics Work Team (河南省文化局文物工作队), ed. 1959. 郑州二里岗 [Zhengzhou Erligang]. 中国田野考古报告集·考古学专刊丁种第七号. Beijing: Kexue Chubanshe (科学出版社). (Pre-ISBN; unified book number often cited as 11031·27.) |
+| URL | — |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Primary early report on Erligang-area excavations that defined the Erligang cultural sequence; later subsumed/extended by Zhengzhou Shang City 2001. Tier P.

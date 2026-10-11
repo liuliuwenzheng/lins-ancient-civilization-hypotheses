@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-graham-1934-first-dig",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Graham 1934《Hanchow 发掘初步报告》记录月亮湾/广汉地点的首次科学发掘。",
+    "en": "Graham 1934 ‘Hanchow’ preliminary report records the first scientific excavation at the Yueliangwan/Guanghan locus."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-yueliangwan",
+    "site-sanxingdui"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-graham-hanchow-1934",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

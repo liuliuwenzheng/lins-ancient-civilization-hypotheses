@@ -1,0 +1,42 @@
+{
+  "id": "asm-jinsha-stone-bi-zhang-workshop",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金沙石璧石璋半成品区（组合级）",
+    "en": "Jinsha unfinished stone bi/zhang working area"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-meiyuan"
+  ],
+  "period_ids": [
+    "period-sxd-working-scheme-new-pits"
+  ],
+  "summary": {
+    "zh": "梅苑简报记述石璧、石璋半成品分布区。",
+    "en": "Meiyuan brief records a zone of unfinished stone bi and zhang."
+  },
+  "sources": [
+    "src-jinsha-meiyuan-brief-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

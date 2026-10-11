@@ -1,21 +1,23 @@
 {
   "id": "site-sanxingdui-pits-1-2",
   "names": {
-    "zh": "1986 一、二号祭祀坑",
-    "en": "1986 Sacrificial Pits 1–2",
+    "zh": "三星堆一、二号祭祀坑",
+    "en": "Sanxingdui Sacrificial Pits 1–2",
     "native": null
   },
-  "kind_note": "Primary 1999 monograph; Bagley 1988 English summary",
-  "region": "Sanxingdui sacrificial area, Guanghan",
+  "kind_note": "1986 sacrificial pits; formal 1999 monograph + Wenwu briefs",
+  "region": "Guanghan, Sichuan, China",
   "civilization_ids": [
     "civ-sanxingdui"
   ],
   "summary": {
-    "zh": "正式报告四川省文物考古研究所 1999；一号坑约 4.6×3.5×1.6 m；两坑青铜金玉象牙等九百余件。",
-    "en": "Primary monograph Sichuan 1999; Pit 1 ~4.6×3.5×1.6 m; >900 bronze/gold/jade/ivory artefacts from the two pits."
+    "zh": "1986 发掘；《文物》1987/1989 简报与 1999《三星堆祭祀坑》正式报告。",
+    "en": "Excavated 1986; Wenwu 1987/1989 briefs and 1999 Sanxingdui sacrificial pits monograph."
   },
   "sources": [
     "src-sanxingdui-sichuan-jisikeng-1999",
+    "src-sanxingdui-pit1-brief-1987",
+    "src-sanxingdui-pit2-brief-1989",
     "src-sanxingdui-bagley-1988",
     "src-sanxingdui-li-qiu-guo-li-2022"
   ],
@@ -23,10 +25,11 @@
   "entity": "site",
   "editorial": {
     "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

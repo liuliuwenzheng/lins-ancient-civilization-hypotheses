@@ -1,0 +1,17 @@
+{
+  "id": "src-china-yuanqu-shangcheng-1996",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Archaeology Department, National Museum of Chinese History; Shanxi Provincial Institute of Archaeology; Yuanqu County Museum (中国历史博物馆考古部、山西省考古研究所、垣曲县博物馆), eds. 1996. 垣曲商城（一）：1985～1986年度勘察报告 [Yuanqu Shang City (1): Survey Report, 1985–1986]. Beijing: Kexue Chubanshe. ISBN 9787030046734 (ISBN-10 7-03-004673-0).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary survey/early excavation report for Yuanqu Shang City (Shanxi): early Shang walled center on the middle Yellow River. Tier P.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-yuanqu-shangcheng-1996.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-east-wall-2016-brief-2024",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Wang Rui, Xiang Hong, Ran Honglin & Lei Yu (四川省文物考古研究院). 2024. 四川广汉市三星堆遗址东城墙2016年度发掘简报 [2016 excavation brief on the East City Wall of Sanxingdui, Guanghan, Sichuan]. 四川文物 [Sichuan Cultural Relics] 2024(2).",
+  "url": "https://www.sckg.com/wenku/3071.html",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary brief on 2016–2017 East City Wall trenches: main/secondary wall sections; construction phase stated as late Sanxingdui Phase III (Erlitou late–early Shang frame in the brief)—absolute equation remains interpretive. Tier P.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-east-wall-2016-brief-2024.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}
