@@ -1,0 +1,43 @@
+{
+  "id": "asm-ganweriwala-surface",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "甘韦里瓦拉地表调查材料",
+    "en": "Ganweriwala surface-survey assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-ganweriwala"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Mughal 乔利斯坦调查记录的地表哈拉帕材料与双丘布局；面积为调查估计。无本条所编造的探方出土清单。",
+    "en": "Surface Harappan materials and twin-mound layout recorded in Mughal’s Cholistan survey; size is a survey estimate. No invented trench inventory in this archive seed."
+  },
+  "sources": [
+    "src-indus-mughal-cholistan-1982",
+    "src-indus-mughal-cholistan-1997",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://rafiquemughal.com/publications/",
+    "notes": "Survey metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

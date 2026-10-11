@@ -1,0 +1,44 @@
+{
+  "id": "asm-rakhigarhi-cemetery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉希加里哈拉帕墓地组合",
+    "en": "Rakhigarhi Harappan cemetery assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rakhigarhi"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Shinde 等 2018 报告的 2013–2016 墓地发掘与生物考古材料；Nath 草稿亦含有限墓地样本。墓地证据≠整站「都城」定论。",
+    "en": "Cemetery excavations and bioarchaeological inventory from Shinde et al. 2018 (2013–2016 seasons); Nath draft also notes limited cemetery sample. Cemetery evidence ≠ whole-site “capital” verdict."
+  },
+  "sources": [
+    "src-indus-shinde-rakhigarhi-plos-2018",
+    "src-indus-nath-rakhigarhi-draft"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://doi.org/10.1371/journal.pone.0192299",
+    "notes": "Metadata only; no forged burial images."
+  },
+  "media_ids": [
+    "media-shinde-rakhigarhi-plos"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

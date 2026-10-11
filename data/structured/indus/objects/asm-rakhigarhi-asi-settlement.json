@@ -1,0 +1,43 @@
+{
+  "id": "asm-rakhigarhi-asi-settlement",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉希加里 ASI 聚落发掘组合（Nath 草稿）",
+    "en": "Rakhigarhi ASI settlement assemblage (Nath draft)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rakhigarhi"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Nath 草稿报告中的道路、排水、储水与聚落建筑等 1997–2000 季结果；草稿状态须在引用时标明。",
+    "en": "Roads, drainage, water storage, and settlement architecture from Nath’s draft report on 1997–2000 ASI seasons; draft status must be noted when citing."
+  },
+  "sources": [
+    "src-indus-nath-rakhigarhi-draft",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.rarebooksocietyofindia.org/book_archive/196174216674_10153813006761675.pdf",
+    "notes": "Metadata only; draft report."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "media-shinde-rakhigarhi-plos",
+  "entity": "media",
+  "title": {
+    "zh": "Shinde 等拉希加里墓地 PLOS ONE 2018 开放获取入口",
+    "en": "Shinde et al. Rakhigarhi cemetery PLOS ONE 2018 open-access entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://doi.org/10.1371/journal.pone.0192299",
+  "local_path": null,
+  "object_ids": [
+    "asm-rakhigarhi-cemetery"
+  ],
+  "sources": [
+    "src-indus-shinde-rakhigarhi-plos-2018"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "PLOS ONE open-access article",
+    "upstream_url": "https://doi.org/10.1371/journal.pone.0192299",
+    "notes": "Outbound article only. No forged burial images uploaded here."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

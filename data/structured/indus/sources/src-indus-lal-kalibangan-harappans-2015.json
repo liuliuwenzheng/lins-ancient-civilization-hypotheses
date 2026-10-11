@@ -1,0 +1,18 @@
+{
+  "id": "src-indus-lal-kalibangan-harappans-2015",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Lal, B. B., Jagat Pati Joshi, Madhu Bala, A. K. Sharma, and K. S. Ramachandran. 2015–2020. Excavations at Kalibangan: The Harappans (1960–69). Memoirs of the Archaeological Survey of India, No. 110. 2 parts (Part I 2015; Part II 2020). New Delhi: Archaeological Survey of India.",
+  "url": "https://asi.nic.in/pdf/Excavation-at-Kalibangan-Part-II-min-1-compressed_compressed.pdf",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary ASI memoir (MASI 110) on Mature Harappan Period II at Kalibangan. Part I (2015) and Part II (2020) cover settlement stratigraphy/structures (KLB-1/2/3), pottery, inscribed material, crafts, and cemetery/burials. Bibliographic details verified via ASI PDF front matter and catalog listings 2026-10-11. No invented page numbers or burial counts.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-climate-deurbanization",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将晚全新世干旱化/洪水减弱单一决定论地解释为印度河去城市化主因，属多因学术模型中的争议读法；Giosan 等亦拒斥单因决定论。",
+    "en": "Treating late-Holocene aridification / declining floods as the single deterministic cause of Indus deurbanization is a contested reading within multi-causal models; Giosan et al. also reject single-cause determinism."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-indus-localization",
+    "period-indus-giosan-bp-window"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-indus-giosan-pnas-2012",
+    "src-indus-kenoyer-1991"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

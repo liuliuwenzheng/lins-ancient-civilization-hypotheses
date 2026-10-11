@@ -1,31 +1,31 @@
 {
   "id": "site-lothal",
+  "entity": "site",
   "names": {
     "zh": "洛塔尔",
     "en": "Lothal",
     "native": null
   },
-  "kind_note": "ASI memoir site; warehouse sealings and large basin",
+  "kind_note": "Gujarat Harappan port/town; Rao ASI memoir 1979",
   "region": "Gujarat, India",
   "civilization_ids": [
     "civ-indus-valley"
   ],
   "summary": {
-    "zh": "Rao 1979 ASI 专报（1955–62）；仓库封泥与大型水池——「船坞」标签属发掘者解释。",
-    "en": "Rao 1979 ASI memoir (1955–62); warehouse sealings and large basin — “dock” label is excavator interpretation."
+    "zh": "古吉拉特哈拉帕聚落；Rao 1979 ASI 专报（1955–62）；仓库封泥与大型水池为关键证据——「船坞」标签属发掘者诠释，见假说栏。",
+    "en": "Gujarat Harappan settlement; Rao 1979 ASI memoir (1955–62); warehouse sealings and large basin — “dockyard” label is excavator interpretation (hypothesis claim)."
   },
   "sources": [
     "src-indus-rao-lothal-1979",
     "src-indus-kenoyer-1991"
   ],
   "coordinates": null,
-  "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-*"
+      "sources/src-indus-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

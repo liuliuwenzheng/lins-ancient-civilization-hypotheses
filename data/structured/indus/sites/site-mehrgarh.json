@@ -1,0 +1,31 @@
+{
+  "id": "site-mehrgarh",
+  "entity": "site",
+  "names": {
+    "zh": "梅赫尔格尔",
+    "en": "Mehrgarh",
+    "native": null
+  },
+  "kind_note": "Neolithic–Chalcolithic precursor sequence; Jarrige Mission field reports",
+  "region": "Kachi District, Balochistan, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "俾路支卡奇平原新石器—铜石并用序列关键遗址；法国考古团 1974–1985 季田野报告合集（Jarrige 等 1995）。为早期食物生产/区域化时代框架提供基础，并非「成熟哈拉帕都城」。",
+    "en": "Key Neolithic–Chalcolithic sequence site on the Kachi plain; French Mission 1974–1985 seasons collected in Jarrige et al. 1995. Foundations Early Food Producing / Regionalization frames — not a Mature Harappan capital."
+  },
+  "sources": [
+    "src-indus-jarrige-mehrgarh-1995",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "src-indus-nath-rakhigarhi-draft",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Nath, Amarendra. [circulated draft, c. 2014]. Excavations at Rakhigarhi [1997–98 to 1999–2000]. Draft excavation report prepared for the Archaeological Survey of India (Report Writing Unit). Circulated digital draft (Rare Book Society of India archive copy).",
+  "url": "https://www.rarebooksocietyofindia.org/book_archive/196174216674_10153813006761675.pdf",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Excavator draft report on ASI seasons 1997–98 to 1999–2000 at Rakhigarhi (Haryana). Covers site environment, cultural stratigraphy, structures, burials (limited cemetery sample), ceramics, and small finds. Status = circulated draft (not a finished ASI memoir number) — use for documented field results, not as a sealed final monograph. Cross-check cemetery detail with Shinde et al. 2018. No invented settlement-size figures beyond survey estimates already cited via Kenoyer.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-kalibangan-mature-memoir",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lal 等《Excavations at Kalibangan: The Harappans》(MASI 110, 2015/2020) 正式报告成熟期聚落与墓地材料。",
+    "en": "Lal et al. Excavations at Kalibangan: The Harappans (MASI 110, 2015/2020) formally reports Mature Harappan settlement and cemetery materials."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kalibangan"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-kalibangan-mature-settlement"
+  ],
+  "sources": [
+    "src-indus-lal-kalibangan-harappans-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

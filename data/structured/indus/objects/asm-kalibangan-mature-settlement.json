@@ -1,0 +1,42 @@
+{
+  "id": "asm-kalibangan-mature-settlement",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡利班甘成熟期聚落与墓地组合",
+    "en": "Kalibangan Mature Harappan settlement and cemetery assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kalibangan"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "MASI 110 报告的成熟期城堡/下城层位、器物与墓地材料；「火坛」等功能标签若出现于二手叙述，须回报告核对，本条不作定论性功能命名。",
+    "en": "Mature Harappan citadel/lower-town strata, finds, and cemetery materials in MASI 110. Speculative functional labels (e.g. “fire altars” in secondary talk) must be checked against the memoir — not adopted as verdicts here."
+  },
+  "sources": [
+    "src-indus-lal-kalibangan-harappans-2015",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://asi.nic.in/pdf/Excavation-at-Kalibangan-Part-II-min-1-compressed_compressed.pdf",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

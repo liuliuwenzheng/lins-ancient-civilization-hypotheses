@@ -1,79 +1,125 @@
 {
   "id": "civ-indus-valley",
+  "entity": "civilization",
+  "kind": "fact",
   "status": "fact-library",
   "names": {
     "zh": "印度河",
     "en": "Indus Valley",
     "native": "Harappa / Indus Tradition"
   },
-  "region": "South Asia / NW South Asia — Indus and Ghaggar-Hakra basins (Pakistan and northwest India)",
+  "region": "South Asia / NW South Asia — Indus and Ghaggar-Hakra basins (Pakistan and northwest India); Balochistan piedmont (Mehrgarh)",
   "time_span": "Early Food Producing ~6500–5000 BCE; Regionalization ~5000–2600 BCE; Integration / Mature Harappan ~2600–1900 BCE; Localization ~1900–1300 BCE (Kenoyer 1991)",
   "summary": {
-    "zh": "南亚西北部印度河传统（Harappan）早期城市社会；主张均挂已登记来源；文字未破译为研究现况。",
-    "en": "Indus Tradition / Harappan urban society of NW South Asia; every major claim tied to registered sources; undeciphered script recorded as research status."
+    "zh": "南亚西北部印度河传统（Harappan）早期城市社会；档案包含遗址级发掘报告与调查文献；主张均挂已登记来源；文字未破译为研究现况。",
+    "en": "Indus Tradition / Harappan urban society of NW South Asia; archive pack includes site-level excavation reports and survey literature; every major claim tied to registered sources; undeciphered script recorded as research status."
   },
   "sources": [
+    "src-indus-bisht-dholavira-2015",
+    "src-indus-casal-amri-1964",
+    "src-indus-giosan-pnas-2012",
+    "src-indus-jarrige-mehrgarh-1995",
+    "src-indus-joshi-surkotada-1990",
     "src-indus-kenoyer-1991",
-    "src-indus-wright-2010",
+    "src-indus-kenoyer-1998",
     "src-indus-kenoyer-cambridge-2014",
-    "src-indus-possehl-2002",
+    "src-indus-khan-kot-diji-1965",
+    "src-indus-lal-kalibangan-early-2003",
+    "src-indus-lal-kalibangan-harappans-2015",
+    "src-indus-mackay-1938",
+    "src-indus-mackay-chanhu-daro-1943",
     "src-indus-marshall-1931",
     "src-indus-meadow-harappa-1991",
-    "src-indus-kenoyer-1998",
-    "src-indus-mackay-1938",
-    "src-indus-vats-1940",
+    "src-indus-mughal-cholistan-1982",
+    "src-indus-mughal-cholistan-1997",
+    "src-indus-nath-rakhigarhi-draft",
     "src-indus-parpola-1994",
-    "src-indus-giosan-pnas-2012",
+    "src-indus-possehl-2002",
     "src-indus-rao-lothal-1979",
     "src-indus-ratnagar-2004",
+    "src-indus-shinde-rakhigarhi-plos-2018",
+    "src-indus-unesco-dholavira-2021",
     "src-indus-unesco-moenjodaro-1980",
-    "src-indus-wheeler-1968"
+    "src-indus-vats-1940",
+    "src-indus-wheeler-1968",
+    "src-indus-wright-2010"
   ],
   "related_ids": [
     "civ-mesopotamia",
     "civ-ancient-egypt",
     "civ-aegean"
   ],
-  "entity": "civilization",
-  "kind": "fact",
   "site_ids": [
-    "site-mohenjo-daro",
-    "site-harappa",
+    "site-amri",
+    "site-chanhu-daro",
     "site-dholavira",
-    "site-lothal",
+    "site-ganweriwala",
+    "site-harappa",
     "site-kalibangan",
-    "site-rakhigarhi"
+    "site-kot-diji",
+    "site-lothal",
+    "site-mehrgarh",
+    "site-mohenjo-daro",
+    "site-rakhigarhi",
+    "site-surkotada"
   ],
   "period_ids": [
     "period-indus-early-food-producing",
-    "period-indus-regionalization",
+    "period-indus-giosan-bp-window",
     "period-indus-integration",
     "period-indus-localization",
-    "period-indus-giosan-bp-window"
+    "period-indus-regionalization"
   ],
   "claim_ids": [
-    "claim-indus-kenoyer-eras",
-    "claim-indus-script-undeciphered",
-    "claim-indus-urban-water",
-    "claim-indus-ghaggar-monsoon-fed",
-    "claim-indus-meluhha-contact",
+    "claim-indus-bisht-dholavira",
+    "claim-indus-casal-amri",
+    "claim-indus-climate-deurbanization",
     "claim-indus-empire-vs-network",
+    "claim-indus-ghaggar-monsoon-fed",
+    "claim-indus-jarrige-mehrgarh",
+    "claim-indus-joshi-surkotada",
+    "claim-indus-kalibangan-early-memoir",
+    "claim-indus-kalibangan-mature-memoir",
+    "claim-indus-kenoyer-eras",
+    "claim-indus-khan-kot-diji",
+    "claim-indus-kot-diji-conquest",
     "claim-indus-lothal-dock",
-    "claim-indus-parpola-decipherment"
+    "claim-indus-mackay-chanhu-daro",
+    "claim-indus-meluhha-contact",
+    "claim-indus-mughal-ganweriwala-survey",
+    "claim-indus-nath-rakhigarhi",
+    "claim-indus-parpola-decipherment",
+    "claim-indus-rakhigarhi-eastern-capital",
+    "claim-indus-script-undeciphered",
+    "claim-indus-shinde-rakhigarhi-cemetery",
+    "claim-indus-unesco-dholavira-2021",
+    "claim-indus-urban-water"
   ],
   "object_ids": [
-    "asm-indus-steatite-seals",
+    "asm-amri-sequence",
+    "asm-chanhu-daro-craft",
+    "asm-dholavira-citadel-reservoirs",
+    "asm-dholavira-large-script-signs",
+    "asm-ganweriwala-surface",
     "asm-indus-cubical-weights",
     "asm-indus-great-bath-wells-drains",
-    "asm-indus-lothal-warehouse-basin"
+    "asm-indus-lothal-warehouse-basin",
+    "asm-indus-steatite-seals",
+    "asm-kalibangan-mature-settlement",
+    "asm-kalibangan-plowed-field",
+    "asm-kot-diji-early-harappan",
+    "asm-mehrgarh-neolithic",
+    "asm-rakhigarhi-asi-settlement",
+    "asm-rakhigarhi-cemetery",
+    "asm-surkotada-fortified"
   ],
   "markdown_path": "data/civilizations/civ-indus-valley.md",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-*"
+      "sources/src-indus-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-23. Derived only from civ MD + registered sources. No new archaeological inventions; contested items labeled hypothesis."
   }
 }

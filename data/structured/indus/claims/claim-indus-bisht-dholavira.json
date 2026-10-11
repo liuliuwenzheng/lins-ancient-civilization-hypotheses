@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-bisht-dholavira",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bisht《Excavations at Dholavira》(2015 ASI 草稿) 报告 1989–2005 共十四季发掘，记录城堡/中城/下城、城墙、水库与大号文字符号等。",
+    "en": "Bisht’s Excavations at Dholavira (2015 ASI draft) reports fourteen seasons (1989–2005), documenting citadel/middle/lower town, fortifications, reservoirs, and large script signs."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-dholavira"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-dholavira-citadel-reservoirs",
+    "asm-dholavira-large-script-signs"
+  ],
+  "sources": [
+    "src-indus-bisht-dholavira-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

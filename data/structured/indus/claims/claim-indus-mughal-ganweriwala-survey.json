@@ -1,0 +1,35 @@
+{
+  "id": "claim-indus-mughal-ganweriwala-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mughal 乔利斯坦调查（1982 专章；1997 专著）将甘韦里瓦拉记为哈克拉流域大型哈拉帕地表遗址；Kenoyer 引调查面积约 81.5 ha——属调查估计。",
+    "en": "Mughal’s Cholistan survey (1982 chapter; 1997 monograph) records Ganweriwala as a large Hakra-valley Harappan surface site; Kenoyer cites ~81.5 ha — a survey estimate."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-ganweriwala"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-ganweriwala-surface"
+  ],
+  "sources": [
+    "src-indus-mughal-cholistan-1982",
+    "src-indus-mughal-cholistan-1997",
+    "src-indus-kenoyer-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

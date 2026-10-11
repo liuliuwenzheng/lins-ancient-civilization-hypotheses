@@ -1,0 +1,31 @@
+{
+  "id": "site-amri",
+  "entity": "site",
+  "names": {
+    "zh": "阿姆里",
+    "en": "Amri",
+    "native": null
+  },
+  "kind_note": "Pre-/Early Harappan sequence site; Casal 1964",
+  "region": "Dadu District, Sindh, Pakistan (right bank of Indus)",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "信德阿姆里遗址；Majumdar 早先识别前哈拉帕因素；Casal 1964《阿姆里发掘》正式报告层位序列。",
+    "en": "Amri (Sindh): Majumdar earlier flagged pre-Harappan material; Casal 1964 Fouilles d’Amri is the full excavation report of the sequence."
+  },
+  "sources": [
+    "src-indus-casal-amri-1964",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-dholavira-large-script-signs",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "陀罗维拉大号文字符号组合",
+    "en": "Dholavira large Indus-script sign assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-dholavira"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Bisht 报告记载北门一带大号印度河文字符号（含约十字符号铭文等）；文字仍未破译——符号存在是事实，读法是假说。",
+    "en": "Bisht report documents large Indus-script signs (including a ~ten-sign inscription near the north gate). Script remains undeciphered — existence is fact; readings are hypotheses."
+  },
+  "sources": [
+    "src-indus-bisht-dholavira-2015",
+    "src-indus-parpola-1994"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://asi.nic.in/pdf/dholavira_excavation_report_cover.pdf",
+    "notes": "Metadata only; no forged sign images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,9 +1,14 @@
-# 结构化档案包 — 印度河
+# 印度河结构化包
 
-[English](README.md) | 中文
+`civ-indus-valley` 的只读档案实体。
 
-仅派生自 `data/civilizations/civ-indus-valley.md` 与已登记来源。无新考古发明。不伪造文物图。
+计数（D-2026-10-11-23 密度加深）：
+- 来源: 28
+- 遗址: 12
+- 分期: 5
+- 器物组合: 16
+- 主张: 23
+- 媒体: 5
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Markdown 编辑真源：`data/civilizations/civ-indus-valley.md`。
+服务前运行 `tools/export_check.py`。

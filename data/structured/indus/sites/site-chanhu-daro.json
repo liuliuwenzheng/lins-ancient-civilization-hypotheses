@@ -1,0 +1,31 @@
+{
+  "id": "site-chanhu-daro",
+  "entity": "site",
+  "names": {
+    "zh": "昌胡-达罗",
+    "en": "Chanhu-daro",
+    "native": null
+  },
+  "kind_note": "Sind craft-production town; Mackay 1935–36",
+  "region": "Sindh, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "信德哈拉帕聚落；Mackay 1935–36 发掘、1943 年美国东方学会报告；以珠作/金属等手工业著称；上层有朱卡尔文化层。",
+    "en": "Sindh Harappan settlement; Mackay 1935–36 excavation published 1943 (AOS); noted for bead/metal craft production; later Jhukar occupation in upper levels."
+  },
+  "sources": [
+    "src-indus-mackay-chanhu-daro-1943",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

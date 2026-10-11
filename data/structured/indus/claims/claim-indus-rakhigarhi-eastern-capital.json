@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-rakhigarhi-eastern-capital",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将拉希加里称为哈拉帕文明「东部行省都城/最大城」等政治等级标签，超出已登记发掘报告的可直接核验范围，属开放诠释。",
+    "en": "Labeling Rakhigarhi an “eastern provincial capital” or “largest city” as a political-rank verdict goes beyond what registered excavation reports directly verify — open interpretation."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rakhigarhi"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-indus-nath-rakhigarhi-draft",
+    "src-indus-kenoyer-1991",
+    "src-indus-possehl-2002"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

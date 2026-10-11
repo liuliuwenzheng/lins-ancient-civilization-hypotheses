@@ -1,9 +1,14 @@
-# Structured archive pack — Indus Valley
+# Indus Valley structured pack
 
-English | [中文](README.zh.md)
+Read-only archive entities for `civ-indus-valley`.
 
-Machine-readable records derived **only** from `data/civilizations/civ-indus-valley.md` and registered sources listed there. No new archaeological claims. No forged artifact images.
+Counts (D-2026-10-11-23 density pass):
+- sources: 28
+- sites: 12
+- periods: 5
+- objects: 16
+- claims: 23
+- media: 5
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Markdown editorial source: `data/civilizations/civ-indus-valley.md`.
+Run `tools/export_check.py` before serving.

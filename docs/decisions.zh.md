@@ -197,3 +197,28 @@
 
 **说明：** 孟斐斯仍为通论级政治中心取向（精确落点=假说）；巴拉斯前王朝墓地不与晚期 Deir el-Ballas 宫殿混同；不编造吉萨劳工人数；萨卡拉第一王朝大墓与阿拜多斯王陵分列。完整性优先于速度。
 
+### D-2026-10-11-23 — 印度河档案密度加深（遗址 + 一手来源）
+
+**决定：** 按主人优先项（对齐两河 D-21 / 埃及 D-22），加深印度河结构化包：登记可核验的遗址级发掘/调查报告（P/S），并同步 `civ-indus-valley.md` 关键遗址与来源栏。
+
+**本轮新增（均经 WebSearch/目录页核验书目；access_date 2026-10-11；不编造页码/坐标/伪造图）：**
+
+主要 **P** 档：
+- Bisht《Excavations at Dholavira》2015（ASI **草稿**/网站发布；注明在出版中）
+- Lal 等卡利班甘早期 MASI 98（2003）；Lal 等成熟期 MASI 110（2015/2020）
+- Mackay《Chanhu-daro Excavations, 1935–36》1943（美国东方学会）
+- Khan「Excavations at Kot Diji」，《巴基斯坦考古学》第 2 期（1965）
+- Casal《Fouilles d’Amri》1964
+- Joshi《Excavations at Surkotada》MASI 87（1990）
+- Nath《Excavations at Rakhigarhi》（1997–2000 季；ASI **草稿**）
+- Shinde 等拉希加里墓地 *PLoS ONE* 2018（DOI 10.1371/journal.pone.0192299）
+- Jarrige 等编《Mehrgarh: Field Reports 1974–1985》1995
+
+主要 **S** 档：Mughal 1982 乔利斯坦专章（Possehl 编）；Mughal《Ancient Cholistan》1997（甘韦里瓦拉 / 哈克拉调查）。
+
+**T** 档：教科文陀罗维拉名录 2021（WHC 1645）。
+
+**结构化结果（indus 包）：** 来源 15→28；遗址 6→12；器物组合 4→16；主张 8→23；媒体 2→5；`tools/export_check.py` 全仓通过。
+
+**说明：** Bisht/Nath 按草稿引用；甘韦里瓦拉仍为调查遗址（不编造探方清单）；拉希加里「东部都城」、科特迪吉征服/大火、洛塔尔船坞、气候单因、帝国 vs 网络一律留在假说栏。完整性优先于速度。
+

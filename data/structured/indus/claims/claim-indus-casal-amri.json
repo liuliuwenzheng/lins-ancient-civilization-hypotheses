@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-casal-amri",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Casal《Fouilles d’Amri》(1964) 正式报告阿姆里层位序列，巩固印度河河谷前/早期哈拉帕研究基础。",
+    "en": "Casal’s Fouilles d’Amri (1964) formally reports the Amri stratified sequence, consolidating pre-/Early Harappan research in the Indus valley."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-amri"
+  ],
+  "period_ids": [
+    "period-indus-regionalization"
+  ],
+  "object_ids": [
+    "asm-amri-sequence"
+  ],
+  "sources": [
+    "src-indus-casal-amri-1964"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

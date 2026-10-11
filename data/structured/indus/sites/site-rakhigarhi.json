@@ -1,30 +1,32 @@
 {
   "id": "site-rakhigarhi",
+  "entity": "site",
   "names": {
     "zh": "拉希加里",
     "en": "Rakhigarhi",
     "native": null
   },
-  "kind_note": ">50 ha survey estimate (via Kenoyer citing Mughal)",
-  "region": "Haryana, India",
+  "kind_note": "Eastern mega-site; ASI Nath seasons + Shinde cemetery project",
+  "region": "Ghaggar-Hakra / Sarasvati plain, Haryana, India",
   "civilization_ids": [
     "civ-indus-valley"
   ],
   "summary": {
-    "zh": "与摩亨佐-达罗、哈拉帕并列的 >50 ha 级聚落（约 80 ha 调查估计）。",
-    "en": "Listed among >50 ha centers (~80 ha survey estimate)."
+    "zh": "东部巨型遗址之一；Nath ASI 1997–2000 季草稿报告；Shinde 等 2013–2016 墓地发掘（PLOS ONE 2018）。面积多为调查估计（经 Kenoyer/Mughal 综述）。",
+    "en": "Eastern mega-site: Nath ASI draft report for 1997–2000 seasons; Shinde et al. 2013–2016 cemetery work (PLOS ONE 2018). Size figures are survey estimates (via Kenoyer/Mughal)."
   },
   "sources": [
+    "src-indus-nath-rakhigarhi-draft",
+    "src-indus-shinde-rakhigarhi-plos-2018",
     "src-indus-kenoyer-1991"
   ],
   "coordinates": null,
-  "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-*"
+      "sources/src-indus-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

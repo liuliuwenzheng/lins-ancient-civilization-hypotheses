@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-joshi-surkotada",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Joshi《Excavations at Surkotada》(MASI 87, 1990) 正式报告 1971–72 苏尔科塔达发掘与卡奇勘查。",
+    "en": "Joshi’s Excavations at Surkotada (MASI 87, 1990) formally reports the 1971–72 excavations and related Kutch exploration."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-surkotada"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-surkotada-fortified"
+  ],
+  "sources": [
+    "src-indus-joshi-surkotada-1990"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

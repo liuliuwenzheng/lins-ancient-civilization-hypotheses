@@ -1,0 +1,32 @@
+{
+  "id": "site-ganweriwala",
+  "entity": "site",
+  "names": {
+    "zh": "甘韦里瓦拉",
+    "en": "Ganweriwala",
+    "native": null
+  },
+  "kind_note": "Cholistan mega-site known mainly from surface survey (Mughal)",
+  "region": "Cholistan / Hakra valley, Punjab, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "哈克拉干河流域巨型聚落；主要依据 Mughal 乔利斯坦调查（表面材料）；Kenoyer 引调查面积约 81.5 ha。本条不编造出土清单——大规模系统发掘报告尚缺。",
+    "en": "Hakra-valley mega-settlement known chiefly from Mughal’s Cholistan survey (surface materials); Kenoyer cites ~81.5 ha survey estimate. No invented excavation inventory — large-scale published excavation report not yet the basis of this seed."
+  },
+  "sources": [
+    "src-indus-mughal-cholistan-1982",
+    "src-indus-mughal-cholistan-1997",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,30 +1,32 @@
 {
   "id": "site-kalibangan",
+  "entity": "site",
   "names": {
     "zh": "卡利班甘",
     "en": "Kalibangan",
     "native": null
   },
-  "kind_note": "Regional center; plowed-field grid cited via Kenoyer",
-  "region": "Rajasthan, India",
+  "kind_note": "Ghaggar-Hakra Harappan town; Early + Mature ASI memoirs",
+  "region": "Ghaggar valley, Rajasthan, India",
   "civilization_ids": [
     "civ-indus-valley"
   ],
   "summary": {
-    "zh": "第二层级中心；Kenoyer 综述引犁耕田垄遗迹。",
-    "en": "Second-tier center; Kenoyer survey cites plowed-field grid evidence."
+    "zh": "加加尔河岸哈拉帕城镇；Lal 等 ASI 专报分早期（MASI 98）与成熟期（MASI 110）两卷；含犁耕田垄与城堡/下城分区。",
+    "en": "Harappan town on the Ghaggar: ASI memoirs cover Early Harappan (MASI 98) and Mature Harappan (MASI 110); plowed-field grid and citadel/lower-town partition documented."
   },
   "sources": [
+    "src-indus-lal-kalibangan-early-2003",
+    "src-indus-lal-kalibangan-harappans-2015",
     "src-indus-kenoyer-1991"
   ],
   "coordinates": null,
-  "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-*"
+      "sources/src-indus-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

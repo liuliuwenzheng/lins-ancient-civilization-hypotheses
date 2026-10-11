@@ -1,0 +1,31 @@
+{
+  "id": "site-surkotada",
+  "entity": "site",
+  "names": {
+    "zh": "苏尔科塔达",
+    "en": "Surkotada",
+    "native": null
+  },
+  "kind_note": "Fortified Kutch Harappan settlement; Joshi 1990",
+  "region": "Kutch, Gujarat, India",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "卡奇设防哈拉帕聚落；Joshi ASI 专报（MASI 87，1971–72 季）。单丘亦可有内部划分（Kenoyer 综述取向）。",
+    "en": "Fortified Harappan settlement in Kutch; Joshi ASI memoir MASI 87 (1971–72). Single-mound sites may still be internally partitioned (Kenoyer survey orientation)."
+  },
+  "sources": [
+    "src-indus-joshi-surkotada-1990",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

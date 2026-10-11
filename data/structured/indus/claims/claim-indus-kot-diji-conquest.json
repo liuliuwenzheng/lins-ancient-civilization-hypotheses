@@ -1,0 +1,36 @@
+{
+  "id": "claim-indus-kot-diji-conquest",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "科特迪吉早期层与成熟哈拉帕层之间的「征服/大火终结」叙事属历史诠释层，不作本条制度或族群更替定论。",
+    "en": "“Conquest/conflagration ending” narratives between Kot Dijian and Mature Harappan levels are historical interpretive layers — not institutional or ethnic-replacement verdicts here."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kot-diji"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-kot-diji-early-harappan"
+  ],
+  "sources": [
+    "src-indus-khan-kot-diji-1965",
+    "src-indus-kenoyer-1991",
+    "src-indus-wheeler-1968"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

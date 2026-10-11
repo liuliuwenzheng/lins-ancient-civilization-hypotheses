@@ -1,0 +1,32 @@
+{
+  "id": "media-unesco-dholavira",
+  "entity": "media",
+  "title": {
+    "zh": "教科文「陀罗维拉：哈拉帕城市」名录页",
+    "en": "UNESCO “Dholavira: a Harappan City” listing page"
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/1645/",
+  "local_path": null,
+  "object_ids": [
+    "asm-dholavira-citadel-reservoirs"
+  ],
+  "sources": [
+    "src-indus-unesco-dholavira-2021"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/1645/",
+    "notes": "Heritage listing page only; OUV text ≠ excavation verdict."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

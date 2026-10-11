@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-shinde-rakhigarhi-cemetery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Shinde 等 (PLOS ONE 2018) 报告拉希加里墓地 2013–2016 考古与生物考古研究结果。",
+    "en": "Shinde et al. (PLOS ONE 2018) report archaeological and anthropological results from the Rakhigarhi cemetery excavations of 2013–2016."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rakhigarhi"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-rakhigarhi-cemetery"
+  ],
+  "sources": [
+    "src-indus-shinde-rakhigarhi-plos-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

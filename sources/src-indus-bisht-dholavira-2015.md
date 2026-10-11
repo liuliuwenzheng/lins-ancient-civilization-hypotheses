@@ -1,0 +1,23 @@
+---
+id: src-indus-bisht-dholavira-2015
+type: excavation-report
+citation: "Bisht, R. S. 2015. Excavations at Dholavira (1989–90 to 2004–2005). Draft excavation report posted by the Archaeological Survey of India (ASI) for contributor comment; noted by ASI as under publication. New Delhi: Archaeological Survey of India."
+url: "https://asi.nic.in/pdf/dholavira_excavation_report_cover.pdf"
+access_date: "2026-10-11"
+reliability_tier: P
+notes: "Primary ASI excavator report (draft/website release) for fourteen seasons at Dholavira (Khadir Island, Kachchh). Documents cultural stages, planned citadel/middle/lower town, fortifications, reservoirs, and large Indus-script signs. ASI cover states draft was posted for comments and is under publication — treat absolute wording/page cites cautiously; pair with Kenoyer 1991 / UNESCO listing for orientation. No invented page numbers."
+---
+
+# Source: `src-indus-bisht-dholavira-2015`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Bisht, R. S. 2015. Excavations at Dholavira (1989–90 to 2004–2005). Draft excavation report posted by the Archaeological Survey of India (ASI) for contributor comment; noted by ASI as under publication. New Delhi: Archaeological Survey of India. |
+| URL | https://asi.nic.in/pdf/dholavira_excavation_report_cover.pdf |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Primary ASI excavator report (draft/website release) for fourteen seasons at Dholavira (Khadir Island, Kachchh). Documents cultural stages, planned citadel/middle/lower town, fortifications, reservoirs, and large Indus-script signs. ASI cover states draft was posted for comments and is under publication — treat absolute wording/page cites cautiously; pair with Kenoyer 1991 / UNESCO listing for orientation. No invented page numbers.

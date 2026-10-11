@@ -190,3 +190,28 @@ Major **P**: Petrie & Quibell *Naqada and Ballas* 1896; Petrie *Abydos* I 1902; 
 
 **Notes:** Memphis remains handbook-level political-center orientation (precision pinpoint = hypothesis); Ballas Predynastic cemeteries not conflated with later Deir el-Ballas palace; Giza workforce counts not invented; Saqqara First Dynasty tombs kept distinct from Abydos royal tombs. Integrity over speed.
 
+### D-2026-10-11-23 — Indus Valley archive density (sites + primary sources)
+
+**Decision:** Per owner priority (Mesopotamia D-21 / Egypt D-22 pattern), deepen the Indus structured pack: register verifiable site-level excavation/survey reports (P/S) and sync `civ-indus-valley.md` Key sites / Sources.
+
+**This pass (bibliographic details verified via WebSearch/catalog pages; access_date 2026-10-11; no invented page numbers/coordinates/forged images):**
+
+Major **P**:
+- Bisht *Excavations at Dholavira* 2015 (ASI **draft**/website release; under publication)
+- Lal et al. Kalibangan Early Harappans MASI 98 (2003); Lal et al. Kalibangan Harappans MASI 110 (2015/2020)
+- Mackay *Chanhu-daro Excavations, 1935–36* 1943 (AOS)
+- Khan “Excavations at Kot Diji,” *Pakistan Archaeology* 2 (1965)
+- Casal *Fouilles d’Amri* 1964
+- Joshi *Excavations at Surkotada* MASI 87 (1990)
+- Nath *Excavations at Rakhigarhi* (1997–2000 seasons; ASI **draft**)
+- Shinde et al. Rakhigarhi cemetery *PLoS ONE* 2018 (DOI 10.1371/journal.pone.0192299)
+- Jarrige et al., eds., *Mehrgarh: Field Reports 1974–1985* 1995
+
+Major **S**: Mughal “Recent Archaeological Research in the Cholistan Desert” in Possehl 1982; Mughal *Ancient Cholistan* 1997 (Ganweriwala / Hakra survey).
+
+**T**: UNESCO Dholavira listing 2021 (WHC 1645).
+
+**Structured pack:** sources 15→28; sites 6→12; objects 4→16; claims 8→23; media 2→5; `tools/export_check.py` passes all packs.
+
+**Notes:** Bisht/Nath cited as drafts; Ganweriwala remains survey-only (no invented trench inventory); Rakhigarhi “eastern capital,” Kot Diji conquest/conflagration, Lothal dock, climate single-cause, empire-vs-network kept as hypotheses. Integrity over speed.
+

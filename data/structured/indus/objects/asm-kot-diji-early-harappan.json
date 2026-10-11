@@ -1,0 +1,42 @@
+{
+  "id": "asm-kot-diji-early-harappan",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "科特迪吉早期层位与设防组合",
+    "en": "Kot Diji Early Harappan levels and fortification assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kot-diji"
+  ],
+  "period_ids": [
+    "period-indus-regionalization"
+  ],
+  "summary": {
+    "zh": "Khan 1965 报告区分的科特迪吉（早期）层位、陶器与泥砖/石砌设防；上层为成熟哈拉帕。早期「被征服/大火」叙事属历史诠释，不作事实定论。",
+    "en": "Kot Dijian (Early) levels, pottery, and mud-brick/stone fortification as distinguished in Khan 1965; Mature Harappan above. Early “conquest/conflagration” narratives are historical interpretation, not fact verdicts here."
+  },
+  "sources": [
+    "src-indus-khan-kot-diji-1965",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/stream/in.ernet.dli.2015.532513/2015.532513.pakistan-archaeology_djvu.txt",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

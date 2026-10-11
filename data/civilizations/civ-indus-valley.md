@@ -27,8 +27,21 @@ sources:
   - src-indus-ratnagar-2004
   - src-indus-unesco-moenjodaro-1980
   - src-indus-wheeler-1968
+  - src-indus-bisht-dholavira-2015
+  - src-indus-lal-kalibangan-early-2003
+  - src-indus-lal-kalibangan-harappans-2015
+  - src-indus-mackay-chanhu-daro-1943
+  - src-indus-khan-kot-diji-1965
+  - src-indus-casal-amri-1964
+  - src-indus-joshi-surkotada-1990
+  - src-indus-nath-rakhigarhi-draft
+  - src-indus-shinde-rakhigarhi-plos-2018
+  - src-indus-jarrige-mehrgarh-1995
+  - src-indus-mughal-cholistan-1982
+  - src-indus-mughal-cholistan-1997
+  - src-indus-unesco-dholavira-2021
 related_ids: ["civ-mesopotamia", "civ-ancient-egypt", "civ-aegean"]
-notes: "fact-library after 2026-10-11 depth upgrade matching Mesopotamia/Egypt/Andes. Script undeciphered = research-status fact (no generally accepted bilingual decipherment). Empire vs city-network / state vs other political forms = open debate (Notes). Ghaggar-Hakra ‘Sarasvati’ glacier-fed hypothesis rejected by Giosan et al. 2012 for Holocene — monsoon-fed rivers. Lothal ‘dock’ = excavator interpretation, contested. Climate–deurbanization = multi-causal scholarly model. No invented page numbers; no forged images."
+notes: "fact-library; archive density pass D-2026-10-11-23 (Mesopotamia D-21 / Egypt D-22 pattern). Script undeciphered = research-status fact. Empire vs city-network / Rakhigarhi “capital” / Kot Diji conquest / Lothal dock / climate single-cause = open debate (Notes/hypotheses). Ghaggar-Hakra Holocene monsoon-fed (Giosan). Bisht Dholavira & Nath Rakhigarhi = ASI drafts — cite as drafts. No invented page numbers/coordinates; no forged images."
 ---
 
 # 印度河 / Indus Valley
@@ -73,19 +86,34 @@ Kenoyer notes overlapping older labels; Shaffer’s Tradition–Era–Phase sche
 
 ## Key sites
 
-- **摩亨佐-达罗 / Mohenjo-daro（信德）** — 南部核心巨型遗址；Marshall 1931 报告 1922–1927 官方发掘；Mackay 1938 报告 1927–1931 续掘（井、排水、印章、街区）[`src-indus-marshall-1931`][`src-indus-mackay-1938`]。早期面积估计约 83 ha（Fentress）；地表与周边居住区研究将可居住范围估至约 125 ha，甚至更高（Jansen 等，经 Kenoyer 综述）[`src-indus-kenoyer-1991`]。1980 年以「Archaeological Ruins at Moenjodaro」列入教科文世界遗产（**遗产命名 ≠ 考古定论**）[`src-indus-unesco-moenjodaro-1980`]。
-- **哈拉帕 / Harappa（旁遮普）** — 北部核心巨型遗址；Vats 1940 报告 1920–21 至 1933–34 早期发掘；Meadow 编 1991 卷汇总 Dales/Kenoyer 等 1986–1990 现代多学科季 [`src-indus-vats-1940`][`src-indus-meadow-harappa-1991`]。Kenoyer 综述引 Dales & Kenoyer 估计遗址约 150 ha [`src-indus-kenoyer-1991`]。
-- **甘韦里瓦拉 / Ganweriwala、拉希加里 / Rakhigarhi** — Kenoyer 将二者与摩亨佐-达罗、哈拉帕并列为 >50 ha 级最大聚落（Ganweriwala 约 81.5 ha；Rakhigarhi 约 80 ha，citing Mughal）——面积为调查估计，本条不另编造出土清单 [`src-indus-kenoyer-1991`]。
-- **第二层级区域中心（约 10–50 ha，Kenoyer 综述）** — 如陀罗维拉 / Dholavira、朱代尔乔-达罗 / Judeirjo-daro、卡利班甘 / Kalibangan 等；建筑以泥砖为主，烧砖多用于排水；陀罗维拉在石材可得处有所变通 [`src-indus-kenoyer-1991`]。
-- **第三、四层级与专业点** — 约 5–10 ha：阿姆里 / Amri、洛塔尔 / Lothal、昌胡-达罗 / Chanhu-daro、罗吉迪 / Rojdi 等；约 1–5 ha：阿拉丁诺 / Allahdino、科特迪吉 / Kot Diji、苏尔科塔达 / Surkotada、瑙沙罗 / Nausharo 等 [`src-indus-kenoyer-1991`]。洛塔尔：Rao 1979 ASI 专报（1955–62）；仓库封泥与大型水池为关键证据类型——「船坞」标签见 Notes [`src-indus-rao-lothal-1979`][`src-indus-kenoyer-1991`]。昌胡-达罗以印章、长玛瑙珠、铜器等精英手工业著称（Mackay 等，经 Kenoyer）[`src-indus-kenoyer-1991`]。
-- **聚落数量与空间范围（二手估计）** — Possehl 统计约 976 处聚落；空间范围估计约 680,000–800,000 km²（Kenoyer / Possehl）——**数量与面积随发现更新，引用为已登记综述中的估计** [`src-indus-kenoyer-1991`][`src-indus-possehl-2002`]。
+- **摩亨佐-达罗 / Mohenjo-daro（信德）** — 南部核心巨型遗址；Marshall 1931 报告 1922–1927 官方发掘；Mackay 1938 报告 1927–1931 续掘 [`src-indus-marshall-1931`][`src-indus-mackay-1938`]。1980 年教科文世界遗产登录（**遗产命名 ≠ 考古定论**）[`src-indus-unesco-moenjodaro-1980`]。
+- **哈拉帕 / Harappa（旁遮普）** — 北部核心巨型遗址；Vats 1940；Meadow 编 1991（1986–1990 HARP）[`src-indus-vats-1940`][`src-indus-meadow-harappa-1991`]。
+- **甘韦里瓦拉 / Ganweriwala（乔利斯坦 / 哈克拉）** — 主要以 Mughal 地表调查闻名；Kenoyer 引调查面积约 81.5 ha——**调查估计，非探方出土清单** [`src-indus-mughal-cholistan-1982`][`src-indus-mughal-cholistan-1997`][`src-indus-kenoyer-1991`]。
+- **拉希加里 / Rakhigarhi（哈里亚纳）** — 东部巨型遗址；Nath ASI 1997–2000 季**草稿**报告；Shinde 等 2013–2016 墓地（PLOS ONE 2018）。「东部都城」标签见 Notes [`src-indus-nath-rakhigarhi-draft`][`src-indus-shinde-rakhigarhi-plos-2018`][`src-indus-kenoyer-1991`]。
+- **陀罗维拉 / Dholavira（卡奇）** — Bisht ASI 1989–2005 十四季，2015 **草稿**报告：城堡/中城/下城、水库、大号文字符号；2021 教科文登录 [`src-indus-bisht-dholavira-2015`][`src-indus-unesco-dholavira-2021`][`src-indus-kenoyer-1991`]。
+- **卡利班甘 / Kalibangan（拉贾斯坦）** — Lal 等 MASI 98（早期，含犁耕田垄）与 MASI 110（成熟期聚落/墓地）[`src-indus-lal-kalibangan-early-2003`][`src-indus-lal-kalibangan-harappans-2015`]。
+- **洛塔尔 / Lothal（古吉拉特）** — Rao 1979 ASI 专报；仓库封泥与大型水池——「船坞」见 Notes [`src-indus-rao-lothal-1979`][`src-indus-kenoyer-1991`]。
+- **昌胡-达罗 / Chanhu-daro（信德）** — Mackay 1935–36 / 1943 AOS 报告；珠作/金属手工业；朱卡尔上层 [`src-indus-mackay-chanhu-daro-1943`][`src-indus-kenoyer-1991`]。
+- **科特迪吉 / Kot Diji（信德）** — Khan 1965：早期科特迪吉层在成熟哈拉帕层之下；类型学关键 [`src-indus-khan-kot-diji-1965`][`src-indus-kenoyer-1991`]。
+- **阿姆里 / Amri（信德）** — Casal 1964《阿姆里发掘》正式层位报告 [`src-indus-casal-amri-1964`][`src-indus-kenoyer-1991`]。
+- **苏尔科塔达 / Surkotada（卡奇）** — Joshi MASI 87（1971–72）设防聚落 [`src-indus-joshi-surkotada-1990`][`src-indus-kenoyer-1991`]。
+- **梅赫尔格尔 / Mehrgarh（俾路支卡奇）** — Jarrige 等 1995 田野报告合集：新石器至印度河相关序列；支撑早期食物生产框架，**不是**成熟哈拉帕都城 [`src-indus-jarrige-mehrgarh-1995`][`src-indus-kenoyer-1991`]。
+- **聚落数量与空间范围（二手估计）** — Possehl 约 976 处；空间范围约 680,000–800,000 km²（Kenoyer / Possehl）——随发现更新 [`src-indus-kenoyer-1991`][`src-indus-possehl-2002`]。
 
-- **Mohenjo-daro (Sindh)** — southern mega-site; Marshall 1931 (1922–1927); Mackay 1938 (1927–1931) [`src-indus-marshall-1931`][`src-indus-mackay-1938`]. Size estimates rose from ~83 ha (Fentress) toward ~125 ha+ with lower-town surveys (via Kenoyer) [`src-indus-kenoyer-1991`]. UNESCO inscription 1980 (**heritage title ≠ archaeological verdict**) [`src-indus-unesco-moenjodaro-1980`].
-- **Harappa (Punjab)** — northern mega-site; Vats 1940; Meadow ed. 1991 (1986–1990 HARP seasons) [`src-indus-vats-1940`][`src-indus-meadow-harappa-1991`]. ~150 ha estimate via Dales & Kenoyer in Kenoyer 1991 [`src-indus-kenoyer-1991`].
-- **Ganweriwala, Rakhigarhi** — listed with Mohenjo-daro and Harappa among >50 ha centers (~81.5 / ~80 ha survey estimates) [`src-indus-kenoyer-1991`].
-- **Second-tier regional centers (~10–50 ha)** — e.g. Dholavira, Judeirjo-daro, Kalibangan [`src-indus-kenoyer-1991`].
-- **Third/fourth-tier and specialist sites** — Amri, Lothal, Chanhu-daro, Rojdi; Allahdino, Kot Diji, Surkotada, Nausharo, etc. [`src-indus-kenoyer-1991`]. Lothal: Rao 1979 ASI memoir; warehouse sealings and large basin — “dock” label in Notes [`src-indus-rao-lothal-1979`][`src-indus-kenoyer-1991`].
-- **Settlement counts / extent (secondary estimates)** — ~976 settlements (Possehl); ~680,000–800,000 km² extent estimates — cited as registered survey figures, subject to update [`src-indus-kenoyer-1991`][`src-indus-possehl-2002`].
+- **Mohenjo-daro (Sindh)** — southern mega-site; Marshall 1931; Mackay 1938; UNESCO 1980 (**heritage title ≠ archaeological verdict**) [`src-indus-marshall-1931`][`src-indus-mackay-1938`][`src-indus-unesco-moenjodaro-1980`].
+- **Harappa (Punjab)** — northern mega-site; Vats 1940; Meadow ed. 1991 [`src-indus-vats-1940`][`src-indus-meadow-harappa-1991`].
+- **Ganweriwala (Cholistan / Hakra)** — known chiefly from Mughal surface survey; ~81.5 ha via Kenoyer — **survey estimate, not an excavation inventory** [`src-indus-mughal-cholistan-1982`][`src-indus-mughal-cholistan-1997`][`src-indus-kenoyer-1991`].
+- **Rakhigarhi (Haryana)** — eastern mega-site; Nath ASI **draft** (1997–2000); Shinde et al. cemetery 2013–2016 (PLOS ONE 2018). “Eastern capital” label → Notes [`src-indus-nath-rakhigarhi-draft`][`src-indus-shinde-rakhigarhi-plos-2018`][`src-indus-kenoyer-1991`].
+- **Dholavira (Kutch)** — Bisht ASI 1989–2005, 2015 **draft** report (citadel/middle/lower town, reservoirs, large script signs); UNESCO 2021 [`src-indus-bisht-dholavira-2015`][`src-indus-unesco-dholavira-2021`][`src-indus-kenoyer-1991`].
+- **Kalibangan (Rajasthan)** — Lal et al. MASI 98 (Early, plowed field) and MASI 110 (Mature settlement/cemetery) [`src-indus-lal-kalibangan-early-2003`][`src-indus-lal-kalibangan-harappans-2015`].
+- **Lothal (Gujarat)** — Rao 1979; warehouse sealings and large basin — “dock” in Notes [`src-indus-rao-lothal-1979`][`src-indus-kenoyer-1991`].
+- **Chanhu-daro (Sindh)** — Mackay 1943; bead/metal crafts; Jhukar upper levels [`src-indus-mackay-chanhu-daro-1943`][`src-indus-kenoyer-1991`].
+- **Kot Diji (Sindh)** — Khan 1965 Early (Kot Dijian) beneath Mature; type-site [`src-indus-khan-kot-diji-1965`][`src-indus-kenoyer-1991`].
+- **Amri (Sindh)** — Casal 1964 full sequence report [`src-indus-casal-amri-1964`][`src-indus-kenoyer-1991`].
+- **Surkotada (Kutch)** — Joshi MASI 87 fortified settlement [`src-indus-joshi-surkotada-1990`][`src-indus-kenoyer-1991`].
+- **Mehrgarh (Kachi, Balochistan)** — Jarrige et al. 1995 field reports: Neolithic→Indus-related sequence; supports Early Food Producing framing — **not** a Mature Harappan capital [`src-indus-jarrige-mehrgarh-1995`][`src-indus-kenoyer-1991`].
+- **Settlement counts / extent (secondary estimates)** — ~976 settlements (Possehl); ~680,000–800,000 km² — subject to update [`src-indus-kenoyer-1991`][`src-indus-possehl-2002`].
+
 
 ## Urbanism, architecture & institutions
 
@@ -155,9 +183,9 @@ On whether external trade “made” urbanism: Kenoyer argues Gulf/Mesopotamian 
 
 ## Research history
 
-认识轨迹大致包括：1920 年代 Marshall 主导的摩亨佐-达罗发掘与 1931 年三卷本官方报告 [`src-indus-marshall-1931`]；Mackay 对摩亨佐-达罗的续掘与 1938 年报告 [`src-indus-mackay-1938`]；Vats 对哈拉帕的早期系统报告（1940）[`src-indus-vats-1940`]；Wheeler 等剑桥通论对「城堡 / 祭司—国王 / 入侵终结」等叙事的定型与传播（1968 第三版仍影响大众）[`src-indus-wheeler-1968`]；Rao 洛塔尔发掘与 ASI 专报 [`src-indus-rao-lothal-1979`]；1980 年代起 Dales/Kenoyer/Meadow/Wright 等哈拉帕现代多学科项目 [`src-indus-meadow-harappa-1991`][`src-indus-wright-2010`]；Kenoyer 1991 长文与 1998 通论、Possehl 2002 综合、Kenoyer 2014 手册专章 [`src-indus-kenoyer-1991`][`src-indus-kenoyer-1998`][`src-indus-possehl-2002`][`src-indus-kenoyer-cambridge-2014`]；Parpola 印章语料与文字研究 [`src-indus-parpola-1994`]；Ratnagar 青铜时代贸易综合 [`src-indus-ratnagar-2004`]；Giosan 等 2012 河流地貌与气候论文 [`src-indus-giosan-pnas-2012`]；以及摩亨佐-达罗 1980 年世界遗产登录 [`src-indus-unesco-moenjodaro-1980`]。早期「近东扩散」模型已被区域互动与本土发展框架大幅取代 [`src-indus-kenoyer-1991`]。
+认识轨迹大致包括：1920 年代 Marshall 主导的摩亨佐-达罗发掘与 1931 年三卷本官方报告 [`src-indus-marshall-1931`]；Mackay 对摩亨佐-达罗的续掘与 1938 年报告 [`src-indus-mackay-1938`]；Vats 对哈拉帕的早期系统报告（1940）[`src-indus-vats-1940`]；Wheeler 等剑桥通论对「城堡 / 祭司—国王 / 入侵终结」等叙事的定型与传播（1968 第三版仍影响大众）[`src-indus-wheeler-1968`]；Rao 洛塔尔发掘与 ASI 专报 [`src-indus-rao-lothal-1979`]；1980 年代起 Dales/Kenoyer/Meadow/Wright 等哈拉帕现代多学科项目 [`src-indus-meadow-harappa-1991`][`src-indus-wright-2010`]；Kenoyer 1991 长文与 1998 通论、Possehl 2002 综合、Kenoyer 2014 手册专章 [`src-indus-kenoyer-1991`][`src-indus-kenoyer-1998`][`src-indus-possehl-2002`][`src-indus-kenoyer-cambridge-2014`]；Parpola 印章语料与文字研究 [`src-indus-parpola-1994`]；Ratnagar 青铜时代贸易综合 [`src-indus-ratnagar-2004`]；Giosan 等 2012 河流地貌与气候论文 [`src-indus-giosan-pnas-2012`]；以及摩亨佐-达罗 1980 / 陀罗维拉 2021 年世界遗产登录 [`src-indus-unesco-moenjodaro-1980`][`src-indus-unesco-dholavira-2021`]；遗址级加深文献包括 Bisht 陀罗维拉草稿、Lal 等卡利班甘 MASI、Mackay 昌胡-达罗、Khan 科特迪吉、Casal 阿姆里、Joshi 苏尔科塔达、Nath/Shinde 拉希加里、Jarrige 梅赫尔格尔、Mughal 乔利斯坦调查 [`src-indus-bisht-dholavira-2015`][`src-indus-lal-kalibangan-early-2003`][`src-indus-lal-kalibangan-harappans-2015`][`src-indus-mackay-chanhu-daro-1943`][`src-indus-khan-kot-diji-1965`][`src-indus-casal-amri-1964`][`src-indus-joshi-surkotada-1990`][`src-indus-nath-rakhigarhi-draft`][`src-indus-shinde-rakhigarhi-plos-2018`][`src-indus-jarrige-mehrgarh-1995`][`src-indus-mughal-cholistan-1997`]。早期「近东扩散」模型已被区域互动与本土发展框架大幅取代 [`src-indus-kenoyer-1991`]。
 
-Research arcs include Marshall’s 1920s Mohenjo-daro campaign and 1931 official volumes [`src-indus-marshall-1931`]; Mackay’s continuation and 1938 report [`src-indus-mackay-1938`]; Vats’s Harappa monograph [`src-indus-vats-1940`]; Wheeler’s influential Cambridge synthesis (citadel / priest-king / invasion-end narratives) [`src-indus-wheeler-1968`]; Rao’s Lothal excavations [`src-indus-rao-lothal-1979`]; modern Harappa Project multidisciplinary seasons from the mid-1980s [`src-indus-meadow-harappa-1991`][`src-indus-wright-2010`]; Kenoyer 1991/1998, Possehl 2002, and Kenoyer 2014 handbook synthesis [`src-indus-kenoyer-1991`][`src-indus-kenoyer-1998`][`src-indus-possehl-2002`][`src-indus-kenoyer-cambridge-2014`]; Parpola’s seal corpus and script studies [`src-indus-parpola-1994`]; Ratnagar’s Bronze Age trade synthesis [`src-indus-ratnagar-2004`]; Giosan et al. 2012 fluvial-climate work [`src-indus-giosan-pnas-2012`]; and UNESCO listing of Moenjodaro in 1980 [`src-indus-unesco-moenjodaro-1980`]. Early Near Eastern diffusion models have largely yielded to regional interaction and indigenous-development frames [`src-indus-kenoyer-1991`].
+Research arcs include Marshall’s 1920s Mohenjo-daro campaign and 1931 official volumes [`src-indus-marshall-1931`]; Mackay’s continuation and 1938 report [`src-indus-mackay-1938`]; Vats’s Harappa monograph [`src-indus-vats-1940`]; Wheeler’s influential Cambridge synthesis (citadel / priest-king / invasion-end narratives) [`src-indus-wheeler-1968`]; Rao’s Lothal excavations [`src-indus-rao-lothal-1979`]; modern Harappa Project multidisciplinary seasons from the mid-1980s [`src-indus-meadow-harappa-1991`][`src-indus-wright-2010`]; Kenoyer 1991/1998, Possehl 2002, and Kenoyer 2014 handbook synthesis [`src-indus-kenoyer-1991`][`src-indus-kenoyer-1998`][`src-indus-possehl-2002`][`src-indus-kenoyer-cambridge-2014`]; Parpola’s seal corpus and script studies [`src-indus-parpola-1994`]; Ratnagar’s Bronze Age trade synthesis [`src-indus-ratnagar-2004`]; Giosan et al. 2012 fluvial-climate work [`src-indus-giosan-pnas-2012`]; UNESCO listings of Moenjodaro (1980) and Dholavira (2021) [`src-indus-unesco-moenjodaro-1980`][`src-indus-unesco-dholavira-2021`]; site-level density sources include Bisht’s Dholavira draft, Lal et al. Kalibangan MASI volumes, Mackay Chanhu-daro, Khan Kot Diji, Casal Amri, Joshi Surkotada, Nath/Shinde Rakhigarhi, Jarrige Mehrgarh, and Mughal Cholistan survey [`src-indus-bisht-dholavira-2015`][`src-indus-lal-kalibangan-early-2003`][`src-indus-lal-kalibangan-harappans-2015`][`src-indus-mackay-chanhu-daro-1943`][`src-indus-khan-kot-diji-1965`][`src-indus-casal-amri-1964`][`src-indus-joshi-surkotada-1990`][`src-indus-nath-rakhigarhi-draft`][`src-indus-shinde-rakhigarhi-plos-2018`][`src-indus-jarrige-mehrgarh-1995`][`src-indus-mughal-cholistan-1997`]. Early Near Eastern diffusion models have largely yielded to regional interaction and indigenous-development frames [`src-indus-kenoyer-1991`].
 
 ## Sources
 
@@ -176,6 +204,20 @@ Research arcs include Marshall’s 1920s Mohenjo-daro campaign and 1931 official
 - `src-indus-ratnagar-2004` — secondary trade monograph; Euphrates–Indus Bronze Age encounters (tier S)
 - `src-indus-unesco-moenjodaro-1980` — tertiary UNESCO listing; Moenjodaro 1980 (tier T)
 - `src-indus-wheeler-1968` — secondary classic synthesis; research-history foil (tier S; partly superseded)
+- `src-indus-bisht-dholavira-2015` — primary ASI excavator **draft** report; Dholavira 1989–2005 (tier P; draft)
+- `src-indus-lal-kalibangan-early-2003` — primary ASI memoir MASI 98; Kalibangan Early Harappans (tier P)
+- `src-indus-lal-kalibangan-harappans-2015` — primary ASI memoir MASI 110; Kalibangan Mature Harappans (tier P)
+- `src-indus-mackay-chanhu-daro-1943` — primary excavation report; Chanhu-daro 1935–36 (tier P)
+- `src-indus-khan-kot-diji-1965` — primary report; Kot Diji in *Pakistan Archaeology* 2 (tier P)
+- `src-indus-casal-amri-1964` — primary excavation report; *Fouilles d’Amri* (tier P)
+- `src-indus-joshi-surkotada-1990` — primary ASI memoir MASI 87; Surkotada 1971–72 (tier P)
+- `src-indus-nath-rakhigarhi-draft` — primary ASI excavator **draft**; Rakhigarhi 1997–2000 (tier P; draft)
+- `src-indus-shinde-rakhigarhi-plos-2018` — primary peer-reviewed cemetery study; PLOS ONE 2018 (tier P)
+- `src-indus-jarrige-mehrgarh-1995` — primary edited field reports; Mehrgarh 1974–1985 (tier P)
+- `src-indus-mughal-cholistan-1982` — secondary survey chapter; Cholistan / Ganweriwala (tier S)
+- `src-indus-mughal-cholistan-1997` — secondary survey monograph; *Ancient Cholistan* (tier S)
+- `src-indus-unesco-dholavira-2021` — tertiary UNESCO listing; Dholavira 2021 (tier T)
+
 
 ## Related civilizations
 
@@ -190,6 +232,10 @@ Research arcs include Marshall’s 1920s Mohenjo-daro campaign and 1931 official
 - **Ghaggar-Hakra / “Sarasvati”:** Giosan et al. 2012 reject a large Holocene glacier-fed Himalayan river across the Ghaggar-Hakra interfluve; Holocene channels there were monsoon-fed. Mythic-literary identifications are not archaeological proofs [`src-indus-giosan-pnas-2012`].
 - **Lothal basin:** Rao’s “dockyard” identification is excavator interpretation; alternative reservoir readings exist in secondary debate — cite architecture, not settled function [`src-indus-rao-lothal-1979`][`src-indus-kenoyer-1991`].
 - **Climate and “collapse”:** Late aridification and fluvial quiescence are linked by Giosan et al. to agricultural vulnerability and eastward settlement shift; authors reject single-cause determinism. Prefer “transformation / Localization Era” over invasion-destruction narratives from older literature [`src-indus-giosan-pnas-2012`][`src-indus-kenoyer-1991`][`src-indus-wheeler-1968`].
+- **ASI drafts:** Bisht Dholavira 2015 and Nath Rakhigarhi (1997–2000 seasons) are circulated drafts / website releases — cite as drafts, not sealed memoir numbers [`src-indus-bisht-dholavira-2015`][`src-indus-nath-rakhigarhi-draft`].
+- **Rakhigarhi rank:** “Eastern capital / largest city” political-rank labels are hypotheses beyond what excavation reports alone settle [`src-indus-nath-rakhigarhi-draft`][`src-indus-kenoyer-1991`].
+- **Kot Diji transition:** Conquest/conflagration-ending narratives between Kot Dijian and Mature levels are interpretive — not ethnic-replacement verdicts [`src-indus-khan-kot-diji-1965`][`src-indus-wheeler-1968`].
+- **Ganweriwala:** Surface-survey site; size estimates are survey estimates; no invented trench inventory here [`src-indus-mughal-cholistan-1982`][`src-indus-mughal-cholistan-1997`].
 - **Terminology:** “Indus Valley Civilization,” “Harappan Civilization,” and “Indus Tradition” overlap; this entry follows Kenoyer’s Tradition / Integration Era framing without declaring one name exclusive.
 - **Chronology caution:** Marshall/Mackay/Vats absolute dates are historical; prefer Kenoyer 1991 / Wright 2010 / Giosan 2012 for ranges used here.
 - No invented page numbers; quantitative survey/tablet/weight statistics require table-level follow-up before tighter figures.

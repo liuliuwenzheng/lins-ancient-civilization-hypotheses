@@ -1,5 +1,6 @@
 {
   "id": "site-harappa",
+  "entity": "site",
   "names": {
     "zh": "哈拉帕",
     "en": "Harappa",
@@ -11,8 +12,8 @@
     "civ-indus-valley"
   ],
   "summary": {
-    "zh": "北部核心巨型遗址；Vats 1940 与 Meadow 编 1991 现代多学科季；约 150 ha 估计（经 Kenoyer）。",
-    "en": "Northern mega-site; Vats 1940 and Meadow ed. 1991; ~150 ha estimate via Kenoyer."
+    "zh": "北部核心巨型遗址；Vats 1940 早期报告与 Meadow 编 1991 现代多学科季；约 150 ha 估计（经 Kenoyer）。",
+    "en": "Northern mega-site; Vats 1940 and Meadow ed. 1991 HARP seasons; ~150 ha estimate via Kenoyer."
   },
   "sources": [
     "src-indus-vats-1940",
@@ -20,13 +21,12 @@
     "src-indus-kenoyer-1991"
   ],
   "coordinates": null,
-  "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-*"
+      "sources/src-indus-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

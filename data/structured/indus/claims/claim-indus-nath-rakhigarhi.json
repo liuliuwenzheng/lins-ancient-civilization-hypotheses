@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-nath-rakhigarhi",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Nath《Excavations at Rakhigarhi》(1997–2000 季 ASI 草稿) 记录聚落层位、建筑与有限墓地样本；须标明草稿状态。",
+    "en": "Nath’s Excavations at Rakhigarhi (ASI draft for 1997–2000 seasons) records settlement strata, architecture, and a limited cemetery sample; draft status must be noted."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rakhigarhi"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-rakhigarhi-asi-settlement"
+  ],
+  "sources": [
+    "src-indus-nath-rakhigarhi-draft"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

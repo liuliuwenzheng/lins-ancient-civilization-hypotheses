@@ -1,0 +1,44 @@
+{
+  "id": "asm-chanhu-daro-craft",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "昌胡-达罗珠作与金属手工业组合",
+    "en": "Chanhu-daro bead and metal craft assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-chanhu-daro"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Mackay 1943 报告中的珠作、铜器等手工业证据；「东方谢菲尔德」为历史宣传用语，不作现代经济史定论。",
+    "en": "Bead-working and copper/metal craft evidence as published in Mackay 1943; “Sheffield of the East” is historical publicity, not a modern economic verdict."
+  },
+  "sources": [
+    "src-indus-mackay-chanhu-daro-1943",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/in.ernet.dli.2015.105167",
+    "notes": "Metadata only; no forged craft images."
+  },
+  "media_ids": [
+    "media-mackay-chanhu-daro-archive"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

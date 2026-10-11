@@ -1,0 +1,44 @@
+{
+  "id": "asm-dholavira-citadel-reservoirs",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "陀罗维拉城堡—水库—城墙组合（Bisht）",
+    "en": "Dholavira citadel–reservoir–fortification assemblage (Bisht)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-dholavira"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Bisht 报告所记城堡/中城/下城、多重城墙与水库—排水系统等城市规划要素组合；功能标签保持发掘报告用语，不作过度诠释。",
+    "en": "Citadel/middle/lower town, multi-circuit fortifications, and reservoir–drainage urban planning as published in Bisht’s Dholavira report; functional labels follow excavator wording without over-interpretation."
+  },
+  "sources": [
+    "src-indus-bisht-dholavira-2015",
+    "src-indus-unesco-dholavira-2021"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://asi.nic.in/pdf/dholavira_excavation_report_cover.pdf",
+    "notes": "Metadata class only; no forged binaries."
+  },
+  "media_ids": [
+    "media-unesco-dholavira"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

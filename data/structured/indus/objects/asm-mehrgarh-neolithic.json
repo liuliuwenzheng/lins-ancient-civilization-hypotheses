@@ -1,0 +1,43 @@
+{
+  "id": "asm-mehrgarh-neolithic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "梅赫尔格尔新石器—铜石并用序列组合",
+    "en": "Mehrgarh Neolithic–Chalcolithic sequence assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mehrgarh"
+  ],
+  "period_ids": [
+    "period-indus-early-food-producing",
+    "period-indus-regionalization"
+  ],
+  "summary": {
+    "zh": "Jarrige 等 1995 田野报告合集中的新石器至印度河相关层位与生计/工艺证据；支撑早期食物生产时代框架。",
+    "en": "Neolithic through Indus-related levels and subsistence/craft evidence in Jarrige et al. 1995 field reports; supports Early Food Producing Era framing."
+  },
+  "sources": [
+    "src-indus-jarrige-mehrgarh-1995",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.sudoc.fr/185264719",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

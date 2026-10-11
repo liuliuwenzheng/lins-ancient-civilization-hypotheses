@@ -1,0 +1,18 @@
+{
+  "id": "src-indus-mughal-cholistan-1997",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Mughal, Mohammad Rafique. 1997. Ancient Cholistan: Archaeology and Architecture. Lahore: Ferozsons (Pvt.) Ltd.",
+  "url": "https://rafiquemughal.com/publications/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Strong secondary/survey synthesis of Cholistan (Hakra) archaeological survey and related architecture. Key published orientation for Ganweriwala and Hakra-valley site distributions stemming from Mughal’s 1970s survey. Survey size estimates are survey estimates — not excavated inventories. Bibliographic details verified via publisher/CV listings 2026-10-11.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

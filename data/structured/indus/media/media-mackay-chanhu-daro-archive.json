@@ -1,0 +1,32 @@
+{
+  "id": "media-mackay-chanhu-daro-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Mackay《昌胡-达罗发掘》Internet Archive 数字化入口",
+    "en": "Mackay Chanhu-daro Excavations Internet Archive digitization entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/in.ernet.dli.2015.105167",
+  "local_path": null,
+  "object_ids": [
+    "asm-chanhu-daro-craft"
+  ],
+  "sources": [
+    "src-indus-mackay-chanhu-daro-1943"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive / Digital Library of India digitization",
+    "upstream_url": "https://archive.org/details/in.ernet.dli.2015.105167",
+    "notes": "Outbound document digitization only. No forged artifact images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

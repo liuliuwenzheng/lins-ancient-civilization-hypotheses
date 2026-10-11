@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-kalibangan-early-memoir",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lal 等《Excavations at Kalibangan: The Early Harappans》(MASI 98, 2003) 正式报告 1960–1969 早期哈拉帕层，含犁耕田垄讨论。",
+    "en": "Lal et al. Excavations at Kalibangan: The Early Harappans (MASI 98, 2003) formally reports 1960–1969 Early Harappan levels, including the plowed-field discussion."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kalibangan"
+  ],
+  "period_ids": [
+    "period-indus-regionalization"
+  ],
+  "object_ids": [
+    "asm-kalibangan-plowed-field"
+  ],
+  "sources": [
+    "src-indus-lal-kalibangan-early-2003"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

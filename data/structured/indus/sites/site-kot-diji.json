@@ -1,0 +1,31 @@
+{
+  "id": "site-kot-diji",
+  "entity": "site",
+  "names": {
+    "zh": "科特迪吉",
+    "en": "Kot Diji",
+    "native": null
+  },
+  "kind_note": "Early Harappan type-site beneath Mature levels; Khan 1965",
+  "region": "Khairpur District, Sindh, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "印度河河谷早期哈拉帕（科特迪吉文化）典型遗址；F. A. Khan 1957–58 发掘，1965 年《巴基斯坦考古学》发表；成熟哈拉帕层叠压其上。",
+    "en": "Early Harappan (Kot Dijian) type-site in the Indus valley; F. A. Khan 1957–58 excavations published in Pakistan Archaeology 1965; Mature Harappan levels overlie earlier deposits."
+  },
+  "sources": [
+    "src-indus-khan-kot-diji-1965",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

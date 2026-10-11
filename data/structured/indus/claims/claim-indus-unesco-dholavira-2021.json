@@ -1,0 +1,29 @@
+{
+  "id": "claim-indus-unesco-dholavira-2021",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "陀罗维拉于 2021 年以「Dholavira: a Harappan City」列入教科文世界遗产名录（名录 1645）；遗产命名≠考古定论。",
+    "en": "Dholavira was inscribed on the UNESCO World Heritage List in 2021 as “Dholavira: a Harappan City” (no. 1645); heritage title ≠ archaeological verdict."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-dholavira"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-indus-unesco-dholavira-2021"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

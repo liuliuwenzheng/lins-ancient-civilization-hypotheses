@@ -1,0 +1,18 @@
+{
+  "id": "src-indus-unesco-dholavira-2021",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. “Dholavira: a Harappan City.” World Heritage List, site no. 1645. Inscribed 2021 (cultural; criteria iii, iv). India, Gujarat, Kachchh District.",
+  "url": "https://whc.unesco.org/en/list/1645/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "T",
+  "notes": "Tertiary heritage listing page (accessed 2026-10-11). Documents 2021 inscription of Dholavira. Heritage OUV text is NOT an archaeological verdict — use for research-history / conservation orientation only. Pair with Bisht 2015 draft report and Kenoyer 1991 for substance.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

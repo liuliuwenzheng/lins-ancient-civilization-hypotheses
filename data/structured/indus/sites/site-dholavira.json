@@ -1,30 +1,32 @@
 {
   "id": "site-dholavira",
+  "entity": "site",
   "names": {
     "zh": "陀罗维拉",
     "en": "Dholavira",
     "native": null
   },
-  "kind_note": "Second-tier regional center (~10–50 ha)",
-  "region": "Kutch, India",
+  "kind_note": "Major Harappan city in Kutch; Bisht ASI seasons 1989–2005; UNESCO 2021",
+  "region": "Khadir Island, Kachchh (Kutch), Gujarat, India",
   "civilization_ids": [
     "civ-indus-valley"
   ],
   "summary": {
-    "zh": "Kenoyer 综述中的第二层级区域中心；泥砖为主，石材可得处有变通。",
-    "en": "Second-tier regional center in Kenoyer’s survey; mud-brick architecture with stone where available."
+    "zh": "卡奇卡迪尔岛大型哈拉帕城市；Bisht ASI 十四季发掘报告（2015 草稿）记录城堡/中城/下城、城墙、水库与大号文字符号；2021 年教科文登录（遗产命名≠考古定论）。",
+    "en": "Large Harappan city on Khadir Island (Kutch): Bisht ASI draft report (2015) documents citadel/middle/lower town, fortifications, reservoirs, and large script signs; UNESCO inscribed 2021 (heritage title ≠ archaeological verdict)."
   },
   "sources": [
+    "src-indus-bisht-dholavira-2015",
+    "src-indus-unesco-dholavira-2021",
     "src-indus-kenoyer-1991"
   ],
   "coordinates": null,
-  "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-*"
+      "sources/src-indus-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

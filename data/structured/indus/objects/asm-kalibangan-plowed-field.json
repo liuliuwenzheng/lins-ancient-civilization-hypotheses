@@ -1,0 +1,42 @@
+{
+  "id": "asm-kalibangan-plowed-field",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡利班甘早期犁耕田垄",
+    "en": "Kalibangan Early Harappan plowed-field grid"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kalibangan"
+  ],
+  "period_ids": [
+    "period-indus-regionalization"
+  ],
+  "summary": {
+    "zh": "Lal 等 MASI 98 报告中的早期哈拉帕农业田垄遗迹；为犁耕/畜力牵引提供物质线索（Kenoyer 综述亦引）。",
+    "en": "Early Harappan agricultural field grid as reported in Lal et al. MASI 98; material evidence for plow/traction farming (also cited in Kenoyer’s survey)."
+  },
+  "sources": [
+    "src-indus-lal-kalibangan-early-2003",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.vedamsbooks.com/books/excavations_at_kalibangan_the_early_harappans_1960_1969",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

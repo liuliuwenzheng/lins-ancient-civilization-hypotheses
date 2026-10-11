@@ -1,33 +1,33 @@
 {
   "id": "site-mohenjo-daro",
+  "entity": "site",
   "names": {
     "zh": "摩亨佐-达罗",
     "en": "Mohenjo-daro",
-    "native": null
+    "native": "Moenjodaro (UNESCO spelling)"
   },
-  "kind_note": "Southern mega-site; Marshall 1931 / Mackay 1938",
+  "kind_note": "Southern mega-site; Marshall 1931 / Mackay 1938; UNESCO 1980",
   "region": "Sindh, Pakistan",
   "civilization_ids": [
     "civ-indus-valley"
   ],
   "summary": {
-    "zh": "南部核心巨型遗址；Marshall 1931（1922–1927）与 Mackay 1938（1927–1931）；1980 年世界遗产登录。",
-    "en": "Southern mega-site; Marshall 1931 and Mackay 1938; UNESCO inscription 1980."
+    "zh": "南部核心巨型遗址；Marshall 1931 与 Mackay 1938 官方/续掘报告；1980 教科文登录（遗产命名≠考古定论）。",
+    "en": "Southern mega-site; Marshall 1931 and Mackay 1938 reports; UNESCO inscribed 1980 (heritage title ≠ archaeological verdict)."
   },
   "sources": [
     "src-indus-marshall-1931",
     "src-indus-mackay-1938",
-    "src-indus-kenoyer-1991",
-    "src-indus-unesco-moenjodaro-1980"
+    "src-indus-unesco-moenjodaro-1980",
+    "src-indus-kenoyer-1991"
   ],
   "coordinates": null,
-  "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-*"
+      "sources/src-indus-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }
