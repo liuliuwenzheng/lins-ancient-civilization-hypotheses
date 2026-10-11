@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-pool-tres-zapotes-c14",
+  "entity": "source",
+  "type": "article",
+  "citation": "Pool, Christopher A., and colleagues. Radiocarbon and ceramic-chronology studies for Tres Zapotes Formative sequences (see Pool ed. 2003 settlement volume already registered; supplemental C14 discussions in later articles).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary chronology pointer for Tres Zapotes absolute dating. Prefer Pool 2003 for settlement facts; keep absolute bands revisable.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-pool-tres-zapotes-c14.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

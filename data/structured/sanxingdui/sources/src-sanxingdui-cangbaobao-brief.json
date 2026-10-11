@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-cangbaobao-brief",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sichuan Provincial Cultural Relics units. Published materials on the Cangbaobao (仓包包) sacrificial/deposit locus associated with the Sanxingdui site cluster.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Cangbaobao deposit locus registered from published field literature. No forged artefact images; assemblage metadata only.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-cangbaobao-brief.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

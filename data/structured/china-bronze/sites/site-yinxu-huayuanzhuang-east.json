@@ -1,0 +1,31 @@
+{
+  "id": "site-yinxu-huayuanzhuang-east",
+  "entity": "site",
+  "names": {
+    "zh": "殷墟花园庄东地",
+    "en": "Yinxu Huayuanzhuang East",
+    "native": null
+  },
+  "kind_note": "Oracle-bone pit locus east of Huayuanzhuang, Yinxu",
+  "region": "Anyang, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "花园庄东地甲骨坑：2003 六卷正式刊布。",
+    "en": "Huayuanzhuang East oracle-bone pit published in the 2003 six-volume corpus."
+  },
+  "sources": [
+    "src-china-huayuanzhuang-east-oracle-2003",
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

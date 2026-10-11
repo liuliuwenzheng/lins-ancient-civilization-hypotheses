@@ -337,3 +337,29 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Shortughaï “colony,” Balakot Gulf-trade node, Casma/Norte Chico “earliest” rankings, and maritime-foundations stay in the hypothesis column; Casma and Chicama/Asia sites are **comparative baselines**, not merged into one Norte Chico polity; no invented coordinates/catalog numbers/forged images; README counts defer to `export_check`.
 
+### D-2026-10-11-30 — China Bronze + Sanxingdui + Aegean + Olmec + Early Maya second archive density pass
+
+**Decision:** After the first density passes (D-25 / D-27), deepen the remaining five structured packs again with **site-level primary / strong secondary** sources only: verified excavation reports and stable URLs; expand sites, assemblages, and claims; contested items → hypothesis column; sync each `civ-*.md` Key sites & Sources; full-repo `export_check` must pass. Integrity over speed. This completes density pass 2 across all nine packs.
+
+**Major new P (and necessary S) this round:**
+
+**China Bronze:** Fu Hao tomb 1980; Taosi 1978–1985 (2015) + 1999–2001 (2025); Xingan Dayangzhou 1997; Wucheng 2005; Fengxi 1962; Huayuanzhuang East oracle bones 2003; Tonglüshan 1999; Houma foundry 1993; Shaughnessy 1991 (S).
+
+**Sanxingdui:** Baodun 2009–2010 brief; Jiang Zhanghua 2022 (S); Shi’erqiao / Renshengcun / Qingguanshan / Cangbaobao / Jinsha Lanyuan field-literature pointers; Flad & Chen 2013 Chengdu Plain framing (pack-local).
+
+**Aegean:** Pendlebury 1939; Cadogan 1976; Driessen & Macdonald 1997; Hawes Gournia 1908; Cummer & Schofield Keos III 1984; Palaikastro BSA series; Marinatos Thera seasons; Taylour 1983; Hope Simpson 1981; Wiener chronology pointer (S).
+
+**Olmec:** Cascajal Science 2006 + Mora-Marín 2020; Teopantecuanitlán; Manatí 1988 prelim; San Andrés / Llano del Jícaro / Arroyo Pesquero (provenience caveat) / El Remolino / Ojochi.
+
+**Early Maya:** Forsyth Nakbe 1993; Estrada-Belli Cival 2006; Willey Belize Valley 1965; Kosakowsky Cuello 2003; Cerros / Lamanai / Yaxuná FAMSI 1988 / Holmul; Hansen et al. Mirador–Calakmul LiDAR 2022.
+
+**Structured results (`export_check`):**
+- **china-bronze:** sources 28→38; sites 12→20; objects 16→24; claims 24→34
+- **sanxingdui:** sources 28→38; sites 10→18; objects 16→23; claims 23→31
+- **aegean:** sources 28→38; sites 14→23; objects 16→24; claims 24→32
+- **olmec:** sources 28→38; sites 12→19; objects 16→24; claims 24→31
+- **early-maya:** sources 28→38; sites 14→22; objects 16→24; claims 26→33
+- Full-repo gate passes.
+
+**Notes:** Taosi=Yao capital, Xingan=Shang vassal capital, Qingguanshan=royal palace, Baodun linear ancestor-state, Theran eruption as sole LM IB cause, single high/low calendar year, Cascajal “oldest writing” without caveat, Arroyo Pesquero as closed excavated assemblage, Mirador “first state,” and full Middle Preclassic divine kingship stay hypotheses. No invented coordinates/catalog numbers/forged images; README counts defer to `export_check`.
+

@@ -1,0 +1,31 @@
+{
+  "id": "site-xingan-dayangzhou",
+  "entity": "site",
+  "names": {
+    "zh": "新干大洋洲",
+    "en": "Xingan Dayangzhou",
+    "native": null
+  },
+  "kind_note": "Shang-period elite tomb, Gan River basin",
+  "region": "Xingan, Jiangxi, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "新干大洋洲商代大墓：1997 正式报告公布的青铜器、玉器与陶瓷组合。",
+    "en": "Shang-period elite tomb at Dayangzhou published in the 1997 report (bronzes, jades, ceramics)."
+  },
+  "sources": [
+    "src-china-xingan-dayangzhou-1997",
+    "src-china-flad-chen-ancient-central-china-2013"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

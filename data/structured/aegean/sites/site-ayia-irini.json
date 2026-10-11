@@ -1,0 +1,31 @@
+{
+  "id": "site-ayia-irini",
+  "entity": "site",
+  "names": {
+    "zh": "阿伊亚·伊里尼（凯阿）",
+    "en": "Ayia Irini (Keos)",
+    "native": null
+  },
+  "kind_note": "Bronze Age harbor town, Keos/Kea",
+  "region": "Kea (Keos), Cyclades, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "阿伊亚·伊里尼：凯阿岛青铜时代港口城镇；Cummer & Schofield《Keos》III 公布 A 宅。",
+    "en": "Ayia Irini Bronze Age town on Keos; House A in Cummer & Schofield Keos III."
+  },
+  "sources": [
+    "src-aegean-cummer-schofield-ayia-irini-1984",
+    "src-aegean-broodbank-cyclades-2000"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

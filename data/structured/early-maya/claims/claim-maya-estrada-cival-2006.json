@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-estrada-cival-2006",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Estrada-Belli 2006 讨论西瓦尔前古典统治者意识形态与玉米神等相关图像/仪式材料。",
+    "en": "Estrada-Belli 2006 discusses Preclassic rulership ideology and maize-god related imagery/ritual at Cival."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cival"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cival-ideology-estrada"
+  ],
+  "sources": [
+    "src-maya-estrada-belli-cival-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

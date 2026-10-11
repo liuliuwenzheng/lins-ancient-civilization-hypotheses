@@ -1,0 +1,31 @@
+{
+  "id": "site-palaikastro",
+  "entity": "site",
+  "names": {
+    "zh": "帕莱卡斯特罗",
+    "en": "Palaikastro",
+    "native": null
+  },
+  "kind_note": "Minoan town, east Crete (BSA excavations)",
+  "region": "East Crete, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "帕莱卡斯特罗：不列颠雅典学院发掘的东克里特米诺斯城镇。",
+    "en": "Palaikastro Minoan town excavated by the British School at Athens."
+  },
+  "sources": [
+    "src-aegean-macgillivray-sackett-driesen-palaikastro",
+    "src-aegean-driessen-macdonald-troubled-island-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

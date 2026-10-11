@@ -1,0 +1,42 @@
+{
+  "id": "asm-wucheng-settlement",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吴城城址器物与陶文组合",
+    "en": "Wucheng settlement ceramics and signs assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-wucheng"
+  ],
+  "period_ids": [
+    "period-china-erligang",
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "吴城报告公布的城址遗迹、陶瓷与陶器刻划符号类别。",
+    "en": "Walled-settlement features, ceramics, and pottery signs as published in the Wucheng report."
+  },
+  "sources": [
+    "src-china-wucheng-1973-2002-2005"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Wucheng 2005",
+    "upstream_url": "https://book.douban.com/subject/1686314/",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

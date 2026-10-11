@@ -1,0 +1,31 @@
+{
+  "id": "site-bajio-san-lorenzo",
+  "entity": "site",
+  "names": {
+    "zh": "巴希奥（圣洛伦佐区）",
+    "en": "El Bajío (San Lorenzo zone)",
+    "native": null
+  },
+  "kind_note": "San Lorenzo-region locality in settlement surveys",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "巴希奥：圣洛伦佐聚落调查中的地点单元。",
+    "en": "El Bajío locality unit in San Lorenzo settlement surveys."
+  },
+  "sources": [
+    "src-olmec-cyphers-san-lorenzo-settlement-2002",
+    "src-olmec-symonds-cyphers-settlement"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

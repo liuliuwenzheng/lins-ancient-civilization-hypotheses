@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-ayia-irini-house-a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cummer & Schofield《Keos》III（1984）正式公布阿伊亚·伊里尼 A 宅。",
+    "en": "Cummer & Schofield Keos III (1984) formally publish House A at Ayia Irini."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-ayia-irini"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-ayia-irini-house-a"
+  ],
+  "sources": [
+    "src-aegean-cummer-schofield-ayia-irini-1984"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

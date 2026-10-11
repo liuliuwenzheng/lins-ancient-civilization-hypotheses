@@ -1,0 +1,43 @@
+{
+  "id": "asm-nakbe-ceramics-forsyth",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳克贝陶器序列组合",
+    "en": "Nakbe ceramic sequence assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-nakbe"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "Forsyth 1993 公布的纳克贝 Ox/Kan/Uuc 陶器复合体。",
+    "en": "Nakbe Ox/Kan/Uuc ceramic complexes as published by Forsyth 1993."
+  },
+  "sources": [
+    "src-maya-forsyth-nakbe-ceramics-1993",
+    "src-maya-hansen-nakbe-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Forsyth 1993",
+    "upstream_url": "https://doi.org/10.1017/S0956536100000766",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

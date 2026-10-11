@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-garber-blackman-eddy-deepened",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Garber, James F., et al. Blackman Eddy, Belize, Preclassic architectural sequence reports (deepened pointer alongside already-registered src-maya-garber-blackman-eddy).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Pack-local deepened pointer for Blackman Eddy Preclassic platforms/architecture already oriented in first density pass.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-garber-blackman-eddy-deepened.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

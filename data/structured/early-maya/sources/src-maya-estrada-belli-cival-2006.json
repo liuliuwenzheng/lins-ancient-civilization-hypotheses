@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-estrada-belli-cival-2006",
+  "entity": "source",
+  "type": "article",
+  "citation": "Estrada-Belli, Francisco. 2006. “Lightning Sky, Rain, and the Maize God: The Ideology of Preclassic Maya Rulers at Cival, Peten, Guatemala.” Ancient Mesoamerica 17(1): 57–78. DOI 10.1017/S0956536106060068.",
+  "url": "https://doi.org/10.1017/S0956536106060068",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Peer-reviewed discussion of Preclassic rulership ideology at Cival. DOI verified 2026-10-11. Divine-kingship completeness claims stay hypothesis hygiene.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-estrada-belli-cival-2006.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

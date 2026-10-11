@@ -1,0 +1,42 @@
+{
+  "id": "asm-ayia-irini-house-a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿伊亚·伊里尼 A 宅组合",
+    "en": "Ayia Irini House A assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-ayia-irini"
+  ],
+  "period_ids": [
+    "period-aegean-middle-bronze",
+    "period-aegean-neopalatial"
+  ],
+  "summary": {
+    "zh": "Cummer & Schofield《Keos》III 公布的 A 宅建筑与器物类别。",
+    "en": "House A architecture and finds as published in Keos III."
+  },
+  "sources": [
+    "src-aegean-cummer-schofield-ayia-irini-1984"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cummer & Schofield 1984",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

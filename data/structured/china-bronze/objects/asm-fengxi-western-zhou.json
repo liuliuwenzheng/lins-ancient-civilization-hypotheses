@@ -1,0 +1,42 @@
+{
+  "id": "asm-fengxi-western-zhou",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "沣西周居址与墓葬组合",
+    "en": "Fengxi Western Zhou settlement and cemetery assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-fengxi-zhangjiapo"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "沣西报告公布的西周居址、墓葬与车马坑相关遗存类别。",
+    "en": "Western Zhou settlement, cemetery, and chariot-pit related find classes as published in Fengxi 1962."
+  },
+  "sources": [
+    "src-china-fengxi-1962",
+    "src-china-shaughnessy-sources-western-zhou-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Fengxi 1962",
+    "upstream_url": "https://publications.asia.si.edu/jades/bibliography.php",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

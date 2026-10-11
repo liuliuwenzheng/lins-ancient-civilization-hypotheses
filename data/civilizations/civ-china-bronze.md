@@ -41,7 +41,7 @@ sources:
   - src-china-cass-xia-shang-2003
   - src-china-unesco-yinxu-2006
 related_ids: ["civ-sanxingdui", "civ-aegean", "civ-indus-valley"]
-notes: "fact-library + archive density D-2026-10-11-25 (sites + primary sources). Xia historicity = open debate (Notes + hypothesis claims; Thorp 1991 minimal definition). Central Plains bronze frame ≠ Sanxingdui polity identity. XSZCP absolute bands = contested scheme. No invented page numbers/coordinates; no forged images."
+notes: "second density D-2026-10-11-30; fact-library + archive density D-2026-10-11-25 (sites + primary sources). Xia historicity = open debate (Notes + hypothesis claims; Thorp 1991 minimal definition). Central Plains bronze frame ≠ Sanxingdui polity identity. XSZCP absolute bands = contested scheme. No invented page numbers/coordinates; no forged images."
 ---
 
 # 中国青铜时代（中原总览） / China Bronze Age (Central Plains overview)
@@ -166,6 +166,22 @@ Campbell (2014) situates Central Plains metropolises in interaction zones from t
 
 Modern research pillars include pioneering Anyang excavation narratives (Li Chi 1977) [`src-china-li-chi-anyang-1977`]; ongoing Erlitou work with English syntheses by Thorp and Xu Hong [`src-china-thorp-erlitou-xia-1991`][`src-china-underhill-companion-2013`]; Bagley’s Shang bronze and Shang archaeology syntheses [`src-china-bagley-shang-ritual-bronzes-1987`][`src-china-loewe-shaughnessy-cambridge-1999`]; Keightley’s oracle-bone methodology [`src-china-keightley-oracle-bones-1978`]; Chang (1980) and Thorp (2006) Shang surveys [`src-china-chang-shang-civilization-1980`][`src-china-thorp-early-bronze-age-2006`]; Liu & Chen’s state-formation and long-run archaeology (2003, 2012) [`src-china-liu-chen-state-formation-2003`][`src-china-liu-chen-archaeology-2012`]; Campbell’s second-millennium urban synthesis (2014) [`src-china-campbell-bronze-age-2014`]; the national Xia–Shang–Zhou Chronology Project brief (2000; contested — Notes) [`src-china-xszcp-jianben-2000`]; Yangzi regional synthesis (Flad & Chen 2013) and early-dynasty exhibition cataloguing (Rawson 1996) [`src-china-flad-chen-ancient-central-china-2013`][`src-china-rawson-mysteries-1996`].
 
+### Density pass D-2026-10-11-30 — second archive deepen
+
+第二轮密度加深（D-2026-10-11-30）另登记：妇好墓 1980；陶寺 1978–1985/1999–2001；新干大洋洲 1997；吴城 2005；沣西 1962；花园庄东地甲骨 2003；铜绿山 1999；侯马铸铜 1993；Shaughnessy 1991（S）。
+
+Second density pass (D-2026-10-11-30) also registers: Fu Hao tomb 1980; Taosi 1978–1985/1999–2001; Xingan Dayangzhou 1997; Wucheng 2005; Fengxi 1962; Huayuanzhuang East oracle bones 2003; Tonglüshan 1999; Houma foundry 1993; Shaughnessy 1991 (S).
+
+- **妇好墓 / Fu Hao (M5)** — 1980 正式报告 [`src-china-fuhao-tomb-1980`]
+- **陶寺 / Taosi** — 2015 与 2025 正式报告；「尧都」见假说 [`src-china-taosi-1978-1985-2015`][`src-china-taosi-1999-2001-2025`]
+- **新干大洋洲 / Xingan Dayangzhou** — 1997 报告；非自动「商方国都邑」[`src-china-xingan-dayangzhou-1997`]
+- **吴城 / Wucheng** — 2005 十次发掘报告 [`src-china-wucheng-1973-2002-2005`]
+- **沣西张家坡·客省庄 / Fengxi** — 1962 报告 [`src-china-fengxi-1962`]
+- **花园庄东地 / Huayuanzhuang East** — 2003 六卷甲骨 [`src-china-huayuanzhuang-east-oracle-2003`]
+- **铜绿山 / Tonglüshan** — 1999 矿冶报告 [`src-china-tonglushan-1999`]
+- **侯马铸铜 / Houma foundry** — 1993 报告（东周工业对照）[`src-china-houma-foundry-1993`]
+
+
 ## Sources
 
 - `src-china-thorp-erlitou-xia-1991` — secondary peer-reviewed article; Erlitou “minimal” definition; Xia historicity not assumed (tier S)
@@ -198,6 +214,19 @@ Modern research pillars include pioneering Anyang excavation narratives (Li Chi 
 - `src-china-yuanqu-shangcheng-vol2-2014` — primary excavation report; Yuanqu Shang City (2) (tier P)
 - `src-china-cass-xia-shang-2003` — secondary CASS synthesis; Xia–Shang archaeology (tier S)
 - `src-china-unesco-yinxu-2006` — UNESCO WH listing Yin Xu 2006 (tier T)
+
+
+- `src-china-fuhao-tomb-1980` — primary; Fu Hao tomb M5 (tier P)
+- `src-china-taosi-1978-1985-2015` — primary; Taosi 1978–1985 (tier P)
+- `src-china-taosi-1999-2001-2025` — primary; Taosi 1999–2001 (tier P)
+- `src-china-xingan-dayangzhou-1997` — primary; Xingan Shang tomb (tier P)
+- `src-china-wucheng-1973-2002-2005` — primary; Wucheng 1973–2002 (tier P)
+- `src-china-fengxi-1962` — primary; Fengxi 1955–1957 (tier P)
+- `src-china-huayuanzhuang-east-oracle-2003` — primary; Huayuanzhuang East oracle bones (tier P)
+- `src-china-tonglushan-1999` — primary; Tonglüshan mining–smelting (tier P)
+- `src-china-houma-foundry-1993` — primary; Houma foundries (tier P)
+- `src-china-shaughnessy-sources-western-zhou-1991` — secondary; Western Zhou inscriptions (tier S)
+
 
 ## Related civilizations
 

@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-cascajal-science-2006",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rodríguez et al. 2006《Science》报告卡斯卡哈尔石碑铭文（约62符号）及其奥尔梅克风格分析。",
+    "en": "Rodríguez et al. 2006 Science report the Cascajal Block inscription (~62 signs) and Olmec-style analyses."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-cascajal"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cascajal-block"
+  ],
+  "sources": [
+    "src-olmec-rodriguez-cascajal-science-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

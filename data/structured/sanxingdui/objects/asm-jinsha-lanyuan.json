@@ -1,0 +1,42 @@
+{
+  "id": "asm-jinsha-lanyuan",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金沙兰苑地点组合",
+    "en": "Jinsha Lanyuan locus assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-lanyuan"
+  ],
+  "period_ids": [
+    "period-sxd-jinsha-sacrifice-span"
+  ],
+  "summary": {
+    "zh": "兰苑等金沙地点与祭祀区报告对照的遗存类别。",
+    "en": "Lanyuan and related Jinsha find classes paired with sacrifice-zone publications."
+  },
+  "sources": [
+    "src-jinsha-lanyuan-brief",
+    "src-jinsha-sacrifice-zone-2022"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Jinsha reports",
+    "upstream_url": "https://www.wenwu.com/newsinfo/5974656.html",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

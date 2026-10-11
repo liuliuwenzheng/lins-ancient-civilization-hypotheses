@@ -1,0 +1,31 @@
+{
+  "id": "site-midea",
+  "entity": "site",
+  "names": {
+    "zh": "米德亚",
+    "en": "Midea",
+    "native": null
+  },
+  "kind_note": "Mycenaean citadel, Argolid",
+  "region": "Argolid, Peloponnese, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "米德亚：阿尔戈利斯迈锡尼要塞；Hope Simpson 等名录中的大陆据点。",
+    "en": "Midea Mycenaean citadel in the Argolid; mainland node in Hope Simpson gazetteer."
+  },
+  "sources": [
+    "src-aegean-hope-simpson-mycenaean-greece-1981",
+    "src-aegean-taylour-mycenaeans-1983"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-llano-del-jicaro",
+  "entity": "site",
+  "names": {
+    "zh": "利亚诺·德尔·希卡罗",
+    "en": "Llano del Jícaro",
+    "native": null
+  },
+  "kind_note": "Monument workshop locale, San Lorenzo region",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "利亚诺·德尔·希卡罗：圣洛伦佐地区石雕作坊地点。",
+    "en": "Llano del Jícaro sculptural workshop locale in the San Lorenzo region."
+  },
+  "sources": [
+    "src-olmec-llano-del-jicaro",
+    "src-olmec-cyphers-escultura-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "site-vasiliki",
+  "entity": "site",
+  "names": {
+    "zh": "瓦西iliki",
+    "en": "Vasiliki",
+    "native": null
+  },
+  "kind_note": "Early Minoan site on the Hierapetra isthmus",
+  "region": "East Crete, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "瓦西iliki：与古尔尼亚同卷报告的早期米诺斯遗址。",
+    "en": "Vasiliki Early Minoan site published with Gournia in Hawes 1908."
+  },
+  "sources": [
+    "src-aegean-hawes-gournia-1908"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

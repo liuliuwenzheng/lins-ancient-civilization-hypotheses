@@ -1,0 +1,31 @@
+{
+  "id": "site-qingguanshan",
+  "entity": "site",
+  "names": {
+    "zh": "青关山",
+    "en": "Qingguanshan",
+    "native": null
+  },
+  "kind_note": "Architectural locus inside Sanxingdui site",
+  "region": "Guanghan, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "青关山：三星堆遗址内建筑基址；「宫殿」功能标签见假说栏。",
+    "en": "Qingguanshan architectural locus within Sanxingdui; palace-function labels stay hypotheses."
+  },
+  "sources": [
+    "src-sanxingdui-qingguanshan-brief",
+    "src-sanxingdui-flad-urbanism-2018"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

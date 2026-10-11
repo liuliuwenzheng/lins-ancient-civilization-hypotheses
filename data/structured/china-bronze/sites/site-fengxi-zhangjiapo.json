@@ -1,0 +1,31 @@
+{
+  "id": "site-fengxi-zhangjiapo",
+  "entity": "site",
+  "names": {
+    "zh": "沣西张家坡/客省庄",
+    "en": "Fengxi (Zhangjiapo / Kexingzhuang)",
+    "native": null
+  },
+  "kind_note": "Western Zhou Fengjing-area settlement and cemeteries",
+  "region": "Chang’an / Xi’an, Shaanxi, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "沣西1955–1957报告所载客省庄、张家坡西周居址与墓葬（丰京区域基础材料）。",
+    "en": "Western Zhou settlement and cemeteries at Kexingzhuang/Zhangjiapo as published in the 1962 Fengxi report (Fengjing area)."
+  },
+  "sources": [
+    "src-china-fengxi-1962",
+    "src-china-shaughnessy-sources-western-zhou-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "asm-orchomenos-mycenaean",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "奥尔霍迈诺斯迈锡尼组合",
+    "en": "Orchomenos Mycenaean assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-orchomenos"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "贝奥提亚奥尔霍迈诺斯迈锡尼中心的名录级遗存取向。",
+    "en": "Orchomenos Mycenaean center as oriented in mainland gazetteers."
+  },
+  "sources": [
+    "src-aegean-hope-simpson-mycenaean-greece-1981"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hope Simpson 1981",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

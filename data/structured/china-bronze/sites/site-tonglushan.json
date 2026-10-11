@@ -1,0 +1,31 @@
+{
+  "id": "site-tonglushan",
+  "entity": "site",
+  "names": {
+    "zh": "铜绿山",
+    "en": "Tonglüshan",
+    "native": null
+  },
+  "kind_note": "Ancient copper mining–smelting complex, Daye",
+  "region": "Daye, Huangshi, Hubei, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "大冶铜绿山古矿冶遗址：1999 报告所载矿井、巷道与冶炼遗存。",
+    "en": "Ancient copper mining and smelting remains at Tonglüshan as published in the 1999 report."
+  },
+  "sources": [
+    "src-china-tonglushan-1999",
+    "src-china-liu-chen-state-formation-2003"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

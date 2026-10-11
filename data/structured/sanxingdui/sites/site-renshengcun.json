@@ -1,0 +1,31 @@
+{
+  "id": "site-renshengcun",
+  "entity": "site",
+  "names": {
+    "zh": "仁胜村墓地",
+    "en": "Renshengcun cemetery",
+    "native": null
+  },
+  "kind_note": "Cemetery locus near Sanxingdui",
+  "region": "Guanghan, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "仁胜村：三星堆附近墓地对照点；以已刊简报为准。",
+    "en": "Renshengcun cemetery peer near Sanxingdui; published briefs only."
+  },
+  "sources": [
+    "src-sanxingdui-renshengcun-cemetery-brief",
+    "src-sanxingdui-sichuan-jisikeng-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

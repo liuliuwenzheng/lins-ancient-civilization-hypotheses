@@ -1,0 +1,42 @@
+{
+  "id": "asm-lamanai-preclassic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉马奈前古典层组合",
+    "en": "Lamanai Preclassic-level assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-lamanai"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic",
+    "period-maya-early-classic-onset"
+  ],
+  "summary": {
+    "zh": "拉马奈前古典/早古典层遗存类别（本包不含崩溃议题）。",
+    "en": "Lamanai Preclassic/Early Classic level remains (collapse out of pack scope)."
+  },
+  "sources": [
+    "src-maya-pendergast-lamanai"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pendergast ROM reports",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "asm-cerros-late-preclassic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "塞罗斯晚前古典组合",
+    "en": "Cerros Late Preclassic assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cerros"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "塞罗斯晚前古典建筑与面具/仪式项目相关遗存类别。",
+    "en": "Cerros Late Preclassic architecture and masking/ritual-related remains."
+  },
+  "sources": [
+    "src-maya-freidel-cerros-1986"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Freidel Cerros project",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

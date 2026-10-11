@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-pendlebury-crete-1939",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Pendlebury, J. D. S. 1939. The Archaeology of Crete: An Introduction. London: Methuen & Co.",
+  "url": "https://archive.org/details/in.ernet.dli.2015.529784",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Classic English-language introduction synthesizing Cretan Bronze Age sites and periods. Digitized on Internet Archive (accessed 2026-10-11). Historical S; cross-check absolute chronology with Warren & Hankey / Manning.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-pendlebury-crete-1939.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

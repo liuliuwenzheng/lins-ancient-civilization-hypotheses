@@ -1,0 +1,41 @@
+{
+  "id": "asm-vasiliki-em",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦西iliki早期米诺斯组合",
+    "en": "Vasiliki Early Minoan assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-vasiliki"
+  ],
+  "period_ids": [
+    "period-aegean-early-bronze"
+  ],
+  "summary": {
+    "zh": "与古尔尼亚同卷公布的瓦西iliki早期米诺斯器物类别。",
+    "en": "Early Minoan find classes at Vasiliki as published with Gournia."
+  },
+  "sources": [
+    "src-aegean-hawes-gournia-1908"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hawes 1908",
+    "upstream_url": "https://www.penn.museum/research/publications/publication/1025",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

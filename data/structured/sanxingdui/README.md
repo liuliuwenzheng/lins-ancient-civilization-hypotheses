@@ -1,9 +1,16 @@
-# Structured archive pack — Sanxingdui
+# Structured pack — Sanxingdui / Ancient Shu archaeology
 
-English | [中文](README.zh.md)
+[中文](README.zh.md) | English
 
-Machine-readable records derived **only** from `data/civilizations/civ-sanxingdui.md` and registered sources listed there. No new archaeological claims. No forged artifact images.
+Read-only archive entities for `civ-sanxingdui`.
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Counts (second density pass D-2026-10-11-30; `export_check` is authoritative):
+- sources: 38
+- sites: 18
+- periods: 7
+- objects: 23
+- claims: 31
+- media: 1
+
+Markdown editorial source: `data/civilizations/civ-sanxingdui.md`.
+Run `tools/export_check.py` before serving.

@@ -1,0 +1,42 @@
+{
+  "id": "asm-xingan-bronzes-jades",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "新干大洋洲青铜玉器组合",
+    "en": "Xingan Dayangzhou bronze and jade assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xingan-dayangzhou"
+  ],
+  "period_ids": [
+    "period-china-erligang",
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "1997 报告公布的大洋洲青铜礼乐器、兵器与玉器类别。",
+    "en": "Bronze ritual/weapon and jade find classes as published in the 1997 Xingan report."
+  },
+  "sources": [
+    "src-china-xingan-dayangzhou-1997"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Xingan 1997",
+    "upstream_url": "https://www.dushu.com/book/10282480/",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -41,7 +41,7 @@ sources:
   - src-olmec-milbrath-sculptural-chronology-1979
   - src-olmec-cyphers-bellas-teorias
 related_ids: ["civ-early-maya"]
-notes: "fact-library; density D-2026-10-11-27 archive deepen. Mother culture / empire / unidirectional pottery export / fully deciphered writing = hypotheses. Diehl title primacy not fact. Epi-Olmec oriented via Tres Zapotes Late Formative. No invented page numbers/coords/forged images."
+notes: "second density D-2026-10-11-30; fact-library; density D-2026-10-11-27 archive deepen. Mother culture / empire / unidirectional pottery export / fully deciphered writing = hypotheses. Diehl title primacy not fact. Epi-Olmec oriented via Tres Zapotes Late Formative. No invented page numbers/coords/forged images."
 ---
 
 # 奥尔梅克 / Olmec
@@ -148,6 +148,20 @@ Formative Mesoamerica shows interaction between the Gulf heartland and highland/
 
 Modern research pillars include Stirling-era Gulf exploration; Smithsonian La Venta reports [`src-olmec-drucker-la-venta-1952`][`src-olmec-drucker-heizer-squier-1959`]; Yale San Lorenzo [`src-olmec-coe-diehl-san-lorenzo-1980`]; Cyphers’s UNAM work [`src-olmec-cyphers-escultura-2004`]; Grove’s Chalcatzingo [`src-olmec-grove-chalcatzingo-1987`]; and syntheses by Pool, Diehl, Clark & Pye, Benson & de la Fuente, Taube, and Blomster et al. [`src-olmec-pool-2007`][`src-olmec-diehl-2004`][`src-olmec-clark-pye-nga-2000`][`src-olmec-benson-fuente-1996`][`src-olmec-taube-doaks-2004`][`src-olmec-blomster-neff-glascock-2005`]. Radiocarbon established Formative antiquity against older debates that placed Olmec after Classic Maya [`src-olmec-pool-2007`][`src-olmec-drucker-heizer-squier-1959`].
 
+### Density pass D-2026-10-11-30 — second archive deepen
+
+第二轮（D-2026-10-11-30）另登记：Cascajal Science 2006 + Mora-Marín 2020；Teopantecuanitlán；Manatí 1988 初报；San Andrés 卫星；Llano del Jícaro；Arroyo Pesquero（语境警示）；El Remolino；Ojochi 相。
+
+Second density (D-2026-10-11-30) also registers: Cascajal Science 2006 + Mora-Marín 2020; Teopantecuanitlán; Manatí 1988 prelim; San Andrés satellite; Llano del Jícaro; Arroyo Pesquero (provenience caveat); El Remolino; Ojochi phase.
+
+- **卡斯卡哈尔 / Cascajal** — 铭文报告；「最早文字」假说 [`src-olmec-rodriguez-cascajal-science-2006`]
+- **特奥潘特夸尼特兰 / Teopantecuanitlán** — 下沉庭院 [`src-olmec-martinez-donjuan-teopantecuanitlan`]
+- **马纳蒂 1988** — 初报 [`src-olmec-ortiz-rodriguez-manati-1988`]
+- **圣安德烈斯 / San Andrés** — 拉本塔卫星 [`src-olmec-san-andres-la-venta-satellite`]
+- **希卡罗作坊 / Llano del Jícaro** — 石雕生产点 [`src-olmec-llano-del-jicaro`]
+- **阿royo 佩斯克罗** — 绿石发现地（非控制发掘警示）[`src-olmec-arroyo-pesquero`]
+
+
 ## Sources
 
 - `src-olmec-pool-2007` — secondary monograph; Veracruz–Tabasco Formative Olmec (tier S)
@@ -181,6 +195,16 @@ Modern research pillars include Stirling-era Gulf exploration; Smithsonian La Ve
 - `src-olmec-benson-neighbors-1981` — S; Dumbarton Oaks memorial essays
 - `src-olmec-milbrath-sculptural-chronology-1979` — S; sculptural chronology
 - `src-olmec-cyphers-bellas-teorias` — S; Early Preclassic controversies
+
+
+- `src-olmec-rodriguez-cascajal-science-2006` — secondary/peer-reviewed; Cascajal Block (tier S)
+- `src-olmec-mora-marin-cascajal-2020` — secondary; Cascajal imaging (tier S)
+- `src-olmec-martinez-donjuan-teopantecuanitlan` — primary field literature; Teopantecuanitlán (tier P)
+- `src-olmec-ortiz-rodriguez-manati-1988` — primary prelim; Manatí 1988 (tier P)
+- `src-olmec-san-andres-la-venta-satellite` — secondary; La Venta satellites (tier S)
+- `src-olmec-llano-del-jicaro` — secondary/project; workshop locale (tier S)
+- `src-olmec-arroyo-pesquero` — secondary; greenstone finds with provenience caveats (tier S)
+
 
 ## Related civilizations
 

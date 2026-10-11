@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-huayuanzhuang-2003",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《殷墟花园庄东地甲骨》（2003，六卷）正式刊布花园庄东地甲骨坑材料。",
+    "en": "The 2003 six-volume Huayuanzhuang East corpus formally publishes the oracle-bone pit materials."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yinxu-huayuanzhuang-east"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-huayuanzhuang-oracle-bones"
+  ],
+  "sources": [
+    "src-china-huayuanzhuang-east-oracle-2003"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

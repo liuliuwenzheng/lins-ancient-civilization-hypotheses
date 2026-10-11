@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-forsyth-nakbe-1993",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Forsyth 1993《Ancient Mesoamerica》公布纳克贝陶器序列（Ox、Kan、Uuc 复合体）。",
+    "en": "Forsyth 1993 Ancient Mesoamerica publishes the Nakbe ceramic sequence (Ox, Kan, Uuc complexes)."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-nakbe"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-nakbe-ceramics-forsyth"
+  ],
+  "sources": [
+    "src-maya-forsyth-nakbe-ceramics-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

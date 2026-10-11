@@ -1,0 +1,42 @@
+{
+  "id": "asm-manati-1988-offerings",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "马纳蒂1988季祭品组合",
+    "en": "El Manatí 1988 season offerings assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-el-manati"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "summary": {
+    "zh": "1988 季初步报告所载橡胶、木雕等祭品类别。",
+    "en": "Rubber, wood, and related offering classes as in the 1988 preliminary report."
+  },
+  "sources": [
+    "src-olmec-ortiz-rodriguez-manati-1988",
+    "src-olmec-ortiz-rodriguez-manati-am"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Ortiz & Rodríguez 1988",
+    "upstream_url": "https://revistas.inah.gob.mx/index.php/arqueologia/en/article/view/13492",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

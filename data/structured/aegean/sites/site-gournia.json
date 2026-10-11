@@ -1,0 +1,31 @@
+{
+  "id": "site-gournia",
+  "entity": "site",
+  "names": {
+    "zh": "古尔尼亚",
+    "en": "Gournia",
+    "native": null
+  },
+  "kind_note": "Minoan town on the Isthmus of Hierapetra, Crete",
+  "region": "East Crete, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "古尔尼亚：Boyd Hawes 1901–1904 发掘；1908 正式报告。",
+    "en": "Gournia Minoan town; Boyd Hawes 1901–1904; 1908 primary publication."
+  },
+  "sources": [
+    "src-aegean-hawes-gournia-1908",
+    "src-aegean-pendlebury-crete-1939"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-xingan-1997",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《新干商代大墓》（1997）正式报告江西新干大洋洲商代高等级墓葬出土青铜器、玉器与陶瓷。",
+    "en": "The 1997 Xingan Shang tomb report publishes bronzes, jades, and ceramics from Dayangzhou, Jiangxi."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xingan-dayangzhou"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-xingan-bronzes-jades"
+  ],
+  "sources": [
+    "src-china-xingan-dayangzhou-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

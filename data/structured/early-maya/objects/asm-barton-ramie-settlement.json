@@ -1,0 +1,42 @@
+{
+  "id": "asm-barton-ramie-settlement",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "巴顿拉米聚落组合",
+    "en": "Barton Ramie settlement assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-barton-ramie"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "Willey 等 1965 伯利兹河谷报告中的巴顿拉米聚落与陶器类别。",
+    "en": "Barton Ramie settlement and ceramic classes in Willey et al. 1965."
+  },
+  "sources": [
+    "src-maya-willey-belize-valley-1965"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Willey et al. 1965",
+    "upstream_url": "https://peabody.harvard.edu/publication/prehistoric-maya-settlements-belize-valley",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

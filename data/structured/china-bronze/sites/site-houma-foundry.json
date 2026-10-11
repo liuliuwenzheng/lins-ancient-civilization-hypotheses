@@ -1,0 +1,31 @@
+{
+  "id": "site-houma-foundry",
+  "entity": "site",
+  "names": {
+    "zh": "侯马铸铜遗址",
+    "en": "Houma bronze foundry sites",
+    "native": null
+  },
+  "kind_note": "Eastern Zhou bronze foundry complex",
+  "region": "Houma, Shanxi, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "侯马铸铜遗址：1993 两卷报告所载东周铸铜作坊遗存（青铜工业延续对照）。",
+    "en": "Eastern Zhou bronze foundry remains published in the 1993 Houma report (industrial continuity baseline)."
+  },
+  "sources": [
+    "src-china-houma-foundry-1993",
+    "src-china-bagley-shang-ritual-bronzes-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

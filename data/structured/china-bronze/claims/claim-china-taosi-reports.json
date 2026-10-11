@@ -1,0 +1,32 @@
+{
+  "id": "claim-china-taosi-reports",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《襄汾陶寺》1978–1985（2015）与1999–2001（2025）正式报告公布陶寺墓地、城墙及相关遗存。",
+    "en": "The Xiangfen Taosi 1978–1985 (2015) and 1999–2001 (2025) reports publish cemetery, city-wall, and related remains."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-taosi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-taosi-cemetery-city"
+  ],
+  "sources": [
+    "src-china-taosi-1978-1985-2015",
+    "src-china-taosi-1999-2001-2025"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

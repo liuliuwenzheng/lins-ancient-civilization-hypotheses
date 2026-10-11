@@ -1,0 +1,31 @@
+{
+  "id": "site-naranjo-belize",
+  "entity": "site",
+  "names": {
+    "zh": "纳兰霍（伯利兹）",
+    "en": "Naranjo (Belize)",
+    "native": null
+  },
+  "kind_note": "Belize Valley Preclassic/early center (not Peten Naranjo)",
+  "region": "Belize Valley, Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "伯利兹纳兰霍：河谷早期中心对照点（勿与佩滕纳兰霍混淆）。",
+    "en": "Belize Valley Naranjo early center peer (not Peten Naranjo)."
+  },
+  "sources": [
+    "src-maya-willey-belize-valley-1965",
+    "src-maya-healy-cahal-pech"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

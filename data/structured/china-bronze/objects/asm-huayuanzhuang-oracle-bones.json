@@ -1,0 +1,42 @@
+{
+  "id": "asm-huayuanzhuang-oracle-bones",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "花园庄东地甲骨组合",
+    "en": "Huayuanzhuang East oracle-bone assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yinxu-huayuanzhuang-east"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "2003 六卷刊布的花园庄东地甲骨坑材料类别。",
+    "en": "Oracle-bone pit materials as published in the 2003 Huayuanzhuang East corpus."
+  },
+  "sources": [
+    "src-china-huayuanzhuang-east-oracle-2003",
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Huayuanzhuang East 2003",
+    "upstream_url": "http://www.silkroads.org.cn/portal.php?aid=62529&mod=view",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

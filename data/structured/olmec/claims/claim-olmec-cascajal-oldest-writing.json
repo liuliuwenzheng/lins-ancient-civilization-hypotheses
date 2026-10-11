@@ -1,0 +1,33 @@
+{
+  "id": "claim-olmec-cascajal-oldest-writing",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将卡斯卡哈尔石碑简单定为「新大陆最早文字」且年代无争议，忽略其非原生层位语境——仍属假说。",
+    "en": "Calling the Cascajal Block simply the ‘oldest New World writing’ with unproblematic dating ignores its lack of primary stratigraphic context — remains a hypothesis."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-cascajal"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cascajal-block"
+  ],
+  "sources": [
+    "src-olmec-rodriguez-cascajal-science-2006",
+    "src-olmec-mora-marin-cascajal-2020",
+    "src-olmec-pool-2007"
+  ],
+  "disclaimer": "Hypothesis / contested primacy claim — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

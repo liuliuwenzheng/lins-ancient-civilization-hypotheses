@@ -1,0 +1,41 @@
+{
+  "id": "asm-cangbaobao-deposit",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "仓包包埋藏组合",
+    "en": "Cangbaobao deposit assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-cangbaobao"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator"
+  ],
+  "summary": {
+    "zh": "仓包包祭祀/埋藏点已刊器物类别。",
+    "en": "Deposit/sacrificial find classes as published for Cangbaobao."
+  },
+  "sources": [
+    "src-sanxingdui-cangbaobao-brief"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cangbaobao briefs",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

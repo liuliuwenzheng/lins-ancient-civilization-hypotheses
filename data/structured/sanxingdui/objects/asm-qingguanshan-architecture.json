@@ -1,0 +1,41 @@
+{
+  "id": "asm-qingguanshan-architecture",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "青关山建筑组合",
+    "en": "Qingguanshan architectural assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-qingguanshan"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "summary": {
+    "zh": "青关山建筑基址相关遗存；宫殿定性见假说。",
+    "en": "Architectural remains at Qingguanshan; palace identification stays hypothesis."
+  },
+  "sources": [
+    "src-sanxingdui-qingguanshan-brief"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Qingguanshan briefs",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

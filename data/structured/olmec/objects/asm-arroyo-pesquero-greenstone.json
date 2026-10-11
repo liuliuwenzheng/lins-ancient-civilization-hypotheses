@@ -1,0 +1,42 @@
+{
+  "id": "asm-arroyo-pesquero-greenstone",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "佩斯克罗绿石组合",
+    "en": "Arroyo Pesquero greenstone assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-arroyo-pesquero"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "绿石面具/斧等发现类别；Provenience 控制有限。",
+    "en": "Greenstone mask/celt find classes; limited provenience control."
+  },
+  "sources": [
+    "src-olmec-arroyo-pesquero",
+    "src-olmec-taube-doaks-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Collection histories / Taube DOAKS",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

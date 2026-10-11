@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-pendergast-lamanai",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Pendergast, David M. Lamanai, Belize, excavation reports (Royal Ontario Museum project): Preclassic through later occupations; use Preclassic levels only for this early-Maya pack.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "ROM Lamanai project reports. Scope for this pack = Preclassic/Early Classic onset only; Classic collapse out of scope.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-pendergast-lamanai.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

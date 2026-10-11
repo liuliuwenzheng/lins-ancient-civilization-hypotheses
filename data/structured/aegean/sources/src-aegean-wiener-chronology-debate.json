@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-wiener-chronology-debate",
+  "entity": "source",
+  "type": "article",
+  "citation": "Wiener, Malcolm H. (various). Peer-reviewed essays on Aegean absolute chronology and the Theran eruption debate (e.g., in Aegean Dendrochronology / Egypt and the Levant forums).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Pointer to Wiener’s chronology contributions. High vs low Aegean absolute chronology remains contested — keep eruption absolute dates in hypothesis/notes hygiene.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-wiener-chronology-debate.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-cangbaobao",
+  "entity": "site",
+  "names": {
+    "zh": "仓包包",
+    "en": "Cangbaobao",
+    "native": null
+  },
+  "kind_note": "Sacrificial/deposit locus in Sanxingdui cluster",
+  "region": "Guanghan, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "仓包包：三星堆遗址群祭祀/埋藏点；以已刊材料为准。",
+    "en": "Cangbaobao sacrificial/deposit locus in the Sanxingdui cluster."
+  },
+  "sources": [
+    "src-sanxingdui-cangbaobao-brief",
+    "src-sanxingdui-sichuan-jisikeng-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

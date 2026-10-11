@@ -1,0 +1,31 @@
+{
+  "id": "site-lamanai",
+  "entity": "site",
+  "names": {
+    "zh": "拉马奈",
+    "en": "Lamanai",
+    "native": null
+  },
+  "kind_note": "Long-occupied Belize center (Preclassic levels for this pack)",
+  "region": "Orange Walk, Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "拉马奈：Pendergast ROM 项目；本包仅用前古典/早古典层。",
+    "en": "Lamanai ROM project; this pack uses Preclassic/Early Classic levels only."
+  },
+  "sources": [
+    "src-maya-pendergast-lamanai",
+    "src-maya-sharer-traxler-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

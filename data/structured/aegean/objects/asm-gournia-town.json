@@ -1,0 +1,42 @@
+{
+  "id": "asm-gournia-town",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "古尔尼亚城镇组合",
+    "en": "Gournia town assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-gournia"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial",
+    "period-aegean-middle-bronze"
+  ],
+  "summary": {
+    "zh": "Hawes 1908 公布的古尔尼亚城镇建筑与器物类别。",
+    "en": "Town architecture and find classes as published in Hawes 1908."
+  },
+  "sources": [
+    "src-aegean-hawes-gournia-1908"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hawes 1908 Gournia",
+    "upstream_url": "https://www.penn.museum/research/publications/publication/1025",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

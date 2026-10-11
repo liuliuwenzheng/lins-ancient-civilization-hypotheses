@@ -1,0 +1,42 @@
+{
+  "id": "asm-tonglushan-mining-smelting",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "铜绿山矿冶组合",
+    "en": "Tonglüshan mining–smelting assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-tonglushan"
+  ],
+  "period_ids": [
+    "period-china-liu-chen-resource-window"
+  ],
+  "summary": {
+    "zh": "铜绿山报告公布的古矿井、巷道与冶炼相关遗存类别。",
+    "en": "Ancient shafts, galleries, and smelting-related remains as published in Tonglüshan 1999."
+  },
+  "sources": [
+    "src-china-tonglushan-1999",
+    "src-china-liu-chen-state-formation-2003"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Tonglüshan 1999",
+    "upstream_url": "https://archaeology.pku.edu.cn/info/1030/3482.htm",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

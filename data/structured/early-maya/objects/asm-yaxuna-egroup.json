@@ -1,0 +1,42 @@
+{
+  "id": "asm-yaxuna-egroup",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "亚舒纳 E 组组合",
+    "en": "Yaxuná E-Group assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-yaxuna"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "亚舒纳前古典 E 组及相关建筑材料。",
+    "en": "Yaxuná Preclassic E-Group and related architectural materials."
+  },
+  "sources": [
+    "src-maya-ringle-yaxuna"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Freidel 1988 FAMSI",
+    "upstream_url": "https://www.famsi.org/research/freidel/1988Freidel.pdf",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

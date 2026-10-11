@@ -1,11 +1,16 @@
-# Structured archive pack — olmec
+# Structured pack — Olmec
 
-English | [中文](README.zh.md)
+[中文](README.zh.md) | English
 
-Derived only from civilizations MD + registered sources. No inventions. No forged images.
+Read-only archive entities for `civ-olmec`.
 
-**Density D-2026-10-11-27:** sources 28 · sites 12 · periods 4 · objects 16 · claims 24 · media 4 (outbound).
+Counts (second density pass D-2026-10-11-30; `export_check` is authoritative):
+- sources: 38
+- sites: 19
+- periods: 4
+- objects: 24
+- claims: 31
+- media: 4
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Markdown editorial source: `data/civilizations/civ-olmec.md`.
+Run `tools/export_check.py` before serving.

@@ -1,0 +1,41 @@
+{
+  "id": "asm-baodun-walls",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "宝墩城墙与聚落组合",
+    "en": "Baodun walls and settlement assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-baodun"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "summary": {
+    "zh": "宝墩简报公布的城墙与聚落相关遗存类别。",
+    "en": "Wall and settlement-related find classes as published in the Baodun brief."
+  },
+  "sources": [
+    "src-sanxingdui-baodun-brief-2009"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Baodun brief 2009–2010",
+    "upstream_url": "http://kaogu.cssn.cn/xsqy/zdkt/201405/t20140512_5948953.shtml",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

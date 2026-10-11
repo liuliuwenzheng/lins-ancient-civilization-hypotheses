@@ -1,0 +1,31 @@
+{
+  "id": "site-wucheng",
+  "entity": "site",
+  "names": {
+    "zh": "吴城",
+    "en": "Wucheng",
+    "native": null
+  },
+  "kind_note": "Shang-period walled settlement, Zhangshu",
+  "region": "Zhangshu, Jiangxi, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "樟树吴城商代城址：1973–2002 十次发掘正式报告。",
+    "en": "Shang-period walled settlement at Wucheng; ten campaigns published 2005."
+  },
+  "sources": [
+    "src-china-wucheng-1973-2002-2005",
+    "src-china-xingan-dayangzhou-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-thera-akrotiri-marinatos",
+  "entity": "site",
+  "names": {
+    "zh": "锡拉阿克罗蒂里（Marinatos 季）",
+    "en": "Akrotiri, Thera (Marinatos seasons)",
+    "native": null
+  },
+  "kind_note": "Akrotiri excavation seasons under Marinatos",
+  "region": "Santorini (Thera), Cyclades, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "阿克罗蒂里：Marinatos《Excavations at Thera》季报所载早期揭露；与 Doumas 综合对照。",
+    "en": "Akrotiri early exposures in Marinatos Thera season reports; cross-check Doumas synthesis."
+  },
+  "sources": [
+    "src-aegean-marinatos-thera-excavations",
+    "src-aegean-doumas-thera-1983"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

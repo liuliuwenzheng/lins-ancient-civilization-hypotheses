@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-shierqiao-timber",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《成都考古发现》系列简报公布十二桥等成都平原青铜时代木构建筑遗存。",
+    "en": "Chengdu Archaeological Discoveries briefs publish Shi’erqiao and related Bronze Age timber architecture on the Chengdu Plain."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-shierqiao"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-shierqiao-timber"
+  ],
+  "sources": [
+    "src-sanxingdui-shierqiao-chengdu-discoveries"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

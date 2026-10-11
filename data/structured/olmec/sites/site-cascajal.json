@@ -1,0 +1,31 @@
+{
+  "id": "site-cascajal",
+  "entity": "site",
+  "names": {
+    "zh": "卡斯卡哈尔",
+    "en": "Cascajal",
+    "native": null
+  },
+  "kind_note": "Find locality of Cascajal Block (San Lorenzo region)",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "卡斯卡哈尔石碑出土地点（圣洛伦佐地区）；层位语境存争议。",
+    "en": "Cascajal Block find locality near San Lorenzo; stratigraphic context contested."
+  },
+  "sources": [
+    "src-olmec-rodriguez-cascajal-science-2006",
+    "src-olmec-mora-marin-cascajal-2020"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

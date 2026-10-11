@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-willey-belize-1965",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Willey 等 1965 皮博迪专著正式报告伯利兹河谷史前玛雅聚落（含巴顿拉米）。",
+    "en": "Willey et al. 1965 Peabody memoir formally reports prehistoric Maya settlements in the Belize Valley (including Barton Ramie)."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-barton-ramie"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-barton-ramie-settlement"
+  ],
+  "sources": [
+    "src-maya-willey-belize-valley-1965"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

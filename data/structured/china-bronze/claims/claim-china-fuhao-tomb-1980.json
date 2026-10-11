@@ -1,0 +1,33 @@
+{
+  "id": "claim-china-fuhao-tomb-1980",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "中国社会科学院考古研究所1980年正式出版《殷墟妇好墓》，报告安阳殷墟妇好墓（M5）发掘与随葬组合。",
+    "en": "CASS published the 1980 primary report Tomb of Lady Hao at Yinxu for Anyang tomb M5 and its burial assemblage."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yinxu-fuhao"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "object_ids": [
+    "asm-fuhao-tomb-inventory"
+  ],
+  "sources": [
+    "src-china-fuhao-tomb-1980"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-hawes-gournia-1908",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Boyd Hawes 等 1908 年正式出版古尔尼亚、瓦西iliki 及耶拉佩特拉地峡相关史前遗址发掘报告。",
+    "en": "Boyd Hawes et al. 1908 formally published excavations at Gournia, Vasiliki, and related prehistoric sites on the Hierapetra isthmus."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-gournia",
+    "site-vasiliki"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-gournia-town",
+    "asm-vasiliki-em"
+  ],
+  "sources": [
+    "src-aegean-hawes-gournia-1908"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

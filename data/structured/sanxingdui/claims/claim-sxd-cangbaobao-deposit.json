@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-cangbaobao-deposit",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "已刊田野文献记录仓包包作为三星堆遗址群祭祀/埋藏点之一。",
+    "en": "Published field literature records Cangbaobao as a sacrificial/deposit locus in the Sanxingdui cluster."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-cangbaobao"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cangbaobao-deposit"
+  ],
+  "sources": [
+    "src-sanxingdui-cangbaobao-brief"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

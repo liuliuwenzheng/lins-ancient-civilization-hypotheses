@@ -1,0 +1,30 @@
+{
+  "id": "claim-maya-kosakowsky-cuello-2003",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kosakowsky 2003 回顾/推进 Cuello 陶器研究，对照 Hammond 1991 正式报告。",
+    "en": "Kosakowsky 2003 reviews/advances Cuello ceramic research alongside Hammond 1991."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cuello"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-kosakowsky-cuello-ceramics-2003",
+    "src-maya-hammond-cuello-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

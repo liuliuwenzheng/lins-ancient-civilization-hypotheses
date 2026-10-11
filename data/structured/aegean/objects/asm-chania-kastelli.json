@@ -1,0 +1,42 @@
+{
+  "id": "asm-chania-kastelli",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "干尼亚卡斯特利组合",
+    "en": "Chania Kastelli assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-chania-kastelli"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial",
+    "period-aegean-final-palatial"
+  ],
+  "summary": {
+    "zh": "西克里特港口城镇在新宫殿危机讨论中的遗存参照。",
+    "en": "West Cretan harbor-town remains referenced in Neopalatial crisis discussions."
+  },
+  "sources": [
+    "src-aegean-driessen-macdonald-troubled-island-1997"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Driessen & Macdonald 1997",
+    "upstream_url": "https://isdistribution.com/work/the-troubled-island/",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

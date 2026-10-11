@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-cummer-schofield-ayia-irini-1984",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Cummer, W. Willson, and Elizabeth Schofield. 1984. Keos III: Ayia Irini: House A. Mainz: Philipp von Zabern (for the University of Cincinnati).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Keos series volume publishing House A at Ayia Irini (important Cycladic–Minoan interaction node). Bibliographic registration 2026-10-11; no invented room inventories.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-cummer-schofield-ayia-irini-1984.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

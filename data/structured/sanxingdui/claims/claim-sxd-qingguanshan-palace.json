@@ -1,0 +1,32 @@
+{
+  "id": "claim-sxd-qingguanshan-palace",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将青关山简单定为「古蜀王宫殿」仍属功能诠释，需更多建筑学与出土情境约束。",
+    "en": "Calling Qingguanshan simply the ‘ancient Shu royal palace’ remains a functional interpretation needing tighter architectural and contextual constraints."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-qingguanshan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-qingguanshan-architecture"
+  ],
+  "sources": [
+    "src-sanxingdui-qingguanshan-brief",
+    "src-sanxingdui-flad-urbanism-2018"
+  ],
+  "disclaimer": "Hypothesis / scholarly model — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

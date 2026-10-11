@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-flad-chen-chengdu-plain-chapters",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Flad, Rowan K., and Pochan Chen. 2013. Ancient Central China: Centers and Peripheries along the Yangzi River. Cambridge: Cambridge University Press. ISBN 9780521899000.",
+  "url": "https://doi.org/10.1017/CBO9781139007740",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Pack-local registration of Flad & Chen 2013 Chengdu Plain framing so Sanxingdui claims can cite a pack-resident source. Prefer site briefs for locus-level facts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-flad-chen-chengdu-plain-chapters.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

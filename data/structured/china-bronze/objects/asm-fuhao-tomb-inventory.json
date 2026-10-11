@@ -1,0 +1,41 @@
+{
+  "id": "asm-fuhao-tomb-inventory",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "妇好墓随葬组合",
+    "en": "Fu Hao tomb burial assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yinxu-fuhao"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "1980 报告公布的妇好墓青铜礼器、玉器与兵器等随葬类别；不编造单件馆藏号。",
+    "en": "Burial find classes (bronzes, jades, weapons) as published in the 1980 Fu Hao report; no invented catalog numbers."
+  },
+  "sources": [
+    "src-china-fuhao-tomb-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "CASS Fu Hao 1980",
+    "upstream_url": "http://www.silkroads.org.cn/portal.php?aid=61096&mod=view",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

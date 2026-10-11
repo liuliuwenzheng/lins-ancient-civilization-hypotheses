@@ -1,0 +1,42 @@
+{
+  "id": "asm-midea-citadel",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "米德亚要塞组合",
+    "en": "Midea citadel assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-midea"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "米德亚迈锡尼要塞在名录/通论中的遗存类别取向。",
+    "en": "Midea citadel remains as oriented in gazetteer/survey literature."
+  },
+  "sources": [
+    "src-aegean-hope-simpson-mycenaean-greece-1981",
+    "src-aegean-taylour-mycenaeans-1983"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hope Simpson 1981",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

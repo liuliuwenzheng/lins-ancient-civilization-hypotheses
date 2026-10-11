@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-arroyo-pesquero-controlled",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将阿royo 佩斯克罗绿石组合当作严格发掘出土的地层闭合组合，证据不足（多为非控制发现）。",
+    "en": "Treating the Arroyo Pesquero greenstone corpus as a stratigraphically closed excavated assemblage overreaches (mostly uncontrolled finds)."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-arroyo-pesquero"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-arroyo-pesquero-greenstone"
+  ],
+  "sources": [
+    "src-olmec-arroyo-pesquero",
+    "src-olmec-taube-doaks-2004"
+  ],
+  "disclaimer": "Hypothesis / provenience caution — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

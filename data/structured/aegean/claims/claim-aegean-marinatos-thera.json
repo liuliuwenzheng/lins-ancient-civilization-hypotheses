@@ -1,0 +1,32 @@
+{
+  "id": "claim-aegean-marinatos-thera",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Marinatos《Excavations at Thera》季报记录阿克罗蒂里早期田野揭露。",
+    "en": "Marinatos’s Excavations at Thera season reports record early field exposures at Akrotiri."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-thera-akrotiri-marinatos",
+    "site-akrotiri"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-thera-marinatos-seasons"
+  ],
+  "sources": [
+    "src-aegean-marinatos-thera-excavations"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

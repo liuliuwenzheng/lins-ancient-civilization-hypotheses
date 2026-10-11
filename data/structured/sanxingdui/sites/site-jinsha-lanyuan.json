@@ -1,0 +1,32 @@
+{
+  "id": "site-jinsha-lanyuan",
+  "entity": "site",
+  "names": {
+    "zh": "金沙兰苑地点",
+    "en": "Jinsha Lanyuan locus",
+    "native": null
+  },
+  "kind_note": "Jinsha locus beyond Meiyuan",
+  "region": "Chengdu, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "金沙兰苑等地点：与梅苑、祭祀区报告对照的金沙聚落组成部分。",
+    "en": "Jinsha Lanyuan and related loci beyond Meiyuan; pairs with sacrifice-zone publications."
+  },
+  "sources": [
+    "src-jinsha-lanyuan-brief",
+    "src-jinsha-meiyuan-brief-2004",
+    "src-jinsha-sacrifice-zone-2022"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

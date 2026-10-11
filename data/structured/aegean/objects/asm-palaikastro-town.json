@@ -1,0 +1,42 @@
+{
+  "id": "asm-palaikastro-town",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "帕莱卡斯特罗城镇组合",
+    "en": "Palaikastro town assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-palaikastro"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial",
+    "period-aegean-final-palatial"
+  ],
+  "summary": {
+    "zh": "BSA 帕莱卡斯特罗发掘系列公布的城镇遗存类别。",
+    "en": "Town remains as published in the BSA Palaikastro memoir series."
+  },
+  "sources": [
+    "src-aegean-macgillivray-sackett-driesen-palaikastro"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "BSA Palaikastro memoirs",
+    "upstream_url": "https://www.bsa.ac.uk/",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

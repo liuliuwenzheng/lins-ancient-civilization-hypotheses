@@ -1,0 +1,34 @@
+{
+  "id": "claim-china-xingan-as-shang-kingdom",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将新干大洋洲简单定为中原商王国直接统治下的「方国都邑」，证据不足；宜保持区域青铜传统对照。",
+    "en": "Treating Xingan Dayangzhou simply as a Shang-kingdom vassal capital under direct Central Plains rule overreaches; keep it as a regional bronze-tradition peer."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xingan-dayangzhou",
+    "site-wucheng"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-xingan-bronzes-jades"
+  ],
+  "sources": [
+    "src-china-xingan-dayangzhou-1997",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-wucheng-1973-2002-2005"
+  ],
+  "disclaimer": "Hypothesis / scholarly model — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

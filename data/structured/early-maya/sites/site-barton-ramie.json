@@ -1,0 +1,31 @@
+{
+  "id": "site-barton-ramie",
+  "entity": "site",
+  "names": {
+    "zh": "巴顿拉米",
+    "en": "Barton Ramie",
+    "native": null
+  },
+  "kind_note": "Belize Valley settlement locus (Willey et al. 1965)",
+  "region": "Belize Valley, Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "巴顿拉米：Willey 等 1965 伯利兹河谷聚落考古核心地点之一。",
+    "en": "Barton Ramie settlement locus in Willey et al. 1965 Belize Valley memoir."
+  },
+  "sources": [
+    "src-maya-willey-belize-valley-1965",
+    "src-maya-ashmore-lowland-settlement-1981"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

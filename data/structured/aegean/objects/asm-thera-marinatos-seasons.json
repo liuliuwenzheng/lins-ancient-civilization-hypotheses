@@ -1,0 +1,42 @@
+{
+  "id": "asm-thera-marinatos-seasons",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "锡拉 Marinatos 季发掘组合",
+    "en": "Thera Marinatos season assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-thera-akrotiri-marinatos"
+  ],
+  "period_ids": [
+    "period-aegean-lm-ia-thera"
+  ],
+  "summary": {
+    "zh": "Marinatos 季报所载阿克罗蒂里早期揭露类别；与 Doumas 综合对照。",
+    "en": "Early Akrotiri exposures as recorded in Marinatos season reports; cross-check Doumas."
+  },
+  "sources": [
+    "src-aegean-marinatos-thera-excavations",
+    "src-aegean-doumas-thera-1983"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Marinatos Thera I–VII",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

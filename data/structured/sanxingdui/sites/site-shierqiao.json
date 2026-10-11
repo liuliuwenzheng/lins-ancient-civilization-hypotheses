@@ -1,0 +1,31 @@
+{
+  "id": "site-shierqiao",
+  "entity": "site",
+  "names": {
+    "zh": "十二桥",
+    "en": "Shi’erqiao",
+    "native": null
+  },
+  "kind_note": "Chengdu Plain Bronze Age wooden-architecture locus",
+  "region": "Chengdu, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "十二桥：成都平原青铜时代木构建筑遗存；见《成都考古发现》系列简报。",
+    "en": "Shi’erqiao Bronze Age wooden-architecture locus; Chengdu Archaeological Discoveries briefs."
+  },
+  "sources": [
+    "src-sanxingdui-shierqiao-chengdu-discoveries",
+    "src-jinsha-sacrifice-zone-2022"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

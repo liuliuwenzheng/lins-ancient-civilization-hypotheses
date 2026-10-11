@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-high-vs-low-chronology",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "爱琴绝对年代「高/低年代」方案（含喷发日历年）仍未共识；本库不把单一日历年写成定论。",
+    "en": "Aegean absolute ‘high/low’ chronology schemes (including eruption calendar years) lack consensus; this library does not treat a single calendar year as settled fact."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-akrotiri"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-warren-hankey-1989",
+    "src-aegean-manning-science-2006",
+    "src-aegean-wiener-chronology-debate"
+  ],
+  "disclaimer": "Hypothesis / chronological model debate — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

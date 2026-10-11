@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-manati-1988",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Ortiz & Rodríguez 1988《Arqueología》初步报告马纳蒂项目1988季工作。",
+    "en": "Ortiz & Rodríguez 1988 Arqueología preliminary report covers the 1988 Manatí project season."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-el-manati"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-manati-1988-offerings"
+  ],
+  "sources": [
+    "src-olmec-ortiz-rodriguez-manati-1988"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

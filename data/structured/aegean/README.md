@@ -1,11 +1,16 @@
-# Structured archive pack — aegean
+# Structured pack — Aegean Bronze Age
 
-English | [中文](README.zh.md)
+[中文](README.zh.md) | English
 
-Derived only from civilizations MD + registered sources. No inventions. No forged images.
+Read-only archive entities for `civ-aegean`.
 
-**Density D-2026-10-11-27:** sources 28 · sites 14 · periods 7 · objects 16 · claims 24 · media 4 (outbound).
+Counts (second density pass D-2026-10-11-30; `export_check` is authoritative):
+- sources: 38
+- sites: 23
+- periods: 7
+- objects: 24
+- claims: 32
+- media: 4
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Markdown editorial source: `data/civilizations/civ-aegean.md`.
+Run `tools/export_check.py` before serving.

@@ -1,0 +1,31 @@
+{
+  "id": "site-orchomenos",
+  "entity": "site",
+  "names": {
+    "zh": "奥尔霍迈诺斯",
+    "en": "Orchomenos",
+    "native": null
+  },
+  "kind_note": "Mycenaean center, Boeotia",
+  "region": "Boeotia, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "奥尔霍迈诺斯：贝奥提亚迈锡尼中心；与格拉斯（Gla）同区对照。",
+    "en": "Orchomenos Mycenaean center in Boeotia; regional peer to Gla."
+  },
+  "sources": [
+    "src-aegean-hope-simpson-mycenaean-greece-1981",
+    "src-aegean-iakovidis-gla-ii-1998"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

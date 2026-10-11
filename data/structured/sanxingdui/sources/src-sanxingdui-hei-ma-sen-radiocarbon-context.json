@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-hei-ma-sen-radiocarbon-context",
+  "entity": "source",
+  "type": "article",
+  "citation": "Wu Xiaohong; Ran Honglin; Lei Yu (and related teams). Peer-reviewed radiocarbon studies of Sanxingdui sacrificial pits (see also already-registered Wu–Ran–Lei 2021 Pit 4 study); absolute endpoints remain model-dependent.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary radiocarbon synthesis pointer reinforcing that pit absolute chronologies are research positions. Prefer citing the registered Pit 4 paper for specific ranges.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-hei-ma-sen-radiocarbon-context.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

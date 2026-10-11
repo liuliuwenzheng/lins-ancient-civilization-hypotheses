@@ -1,0 +1,31 @@
+{
+  "id": "site-ojochi",
+  "entity": "site",
+  "names": {
+    "zh": "奥霍奇",
+    "en": "Ojochi",
+    "native": null
+  },
+  "kind_note": "Early Formative ceramic-phase type context (San Lorenzo region sequences)",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "奥霍奇：圣洛伦佐地区早期成形期陶器序列相关类型语境（Coe & Diehl 等）。",
+    "en": "Ojochi Early Formative ceramic-phase context in San Lorenzo sequences (Coe & Diehl et al.)."
+  },
+  "sources": [
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-arnold-san-lorenzo-ceramics"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

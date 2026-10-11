@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-yaxuna-1988",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Freidel 1988 FAMSI 季报等记录亚舒纳田野工作，含前古典 E 组相关建筑。",
+    "en": "Freidel’s 1988 FAMSI season report and related Yaxuná project literature record Preclassic E-Group related architecture."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-yaxuna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-yaxuna-egroup"
+  ],
+  "sources": [
+    "src-maya-ringle-yaxuna"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

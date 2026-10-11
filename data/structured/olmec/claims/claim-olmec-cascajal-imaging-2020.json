@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-cascajal-imaging-2020",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mora-Marín 2020《Ancient Mesoamerica》对卡斯卡哈尔石碑做数字成像与考古计量分析。",
+    "en": "Mora-Marín 2020 Ancient Mesoamerica presents digital imaging and archaeometric analysis of the Cascajal Block."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-cascajal"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cascajal-block"
+  ],
+  "sources": [
+    "src-olmec-mora-marin-cascajal-2020"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

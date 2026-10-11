@@ -1,0 +1,41 @@
+{
+  "id": "asm-houma-foundry-molds",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "侯马铸铜陶范组合",
+    "en": "Houma foundry mold assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-houma-foundry"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "侯马报告公布的铸铜作坊陶范与相关铸造遗存类别（东周工业对照）。",
+    "en": "Foundry molds and related casting remains as published in Houma 1993 (Eastern Zhou industrial baseline)."
+  },
+  "sources": [
+    "src-china-houma-foundry-1993"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Houma 1993",
+    "upstream_url": "http://www.silkroads.org.cn/portal.php?aid=60382&mod=view",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

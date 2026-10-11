@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-qingguanshan-brief",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sichuan Provincial Institute of Cultural Relics and Archaeology (四川省文物考古研究院). Published excavation briefs on the Qingguanshan (青关山) architectural locus within the Sanxingdui site (palace/elite architecture debates).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Qingguanshan is a published Sanxingdui architectural locus. Function labels (palace vs other elite architecture) remain interpretive — keep contested readings as hypotheses.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-qingguanshan-brief.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

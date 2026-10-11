@@ -1,0 +1,33 @@
+{
+  "id": "claim-china-taosi-yao-capital",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将陶寺简单等同于文献「尧都」或夏早期王都，仍属可争议的历史—考古对接模型，不是本库定论。",
+    "en": "Equating Taosi simply with textual ‘Yao’s capital’ or an early Xia royal seat remains a contested historical–archaeological mapping, not library fact."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-taosi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-taosi-cemetery-city"
+  ],
+  "sources": [
+    "src-china-taosi-1978-1985-2015",
+    "src-china-taosi-1999-2001-2025",
+    "src-china-liu-chen-archaeology-2012"
+  ],
+  "disclaimer": "Hypothesis / scholarly model — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

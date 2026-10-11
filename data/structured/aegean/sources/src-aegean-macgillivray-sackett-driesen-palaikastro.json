@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-macgillivray-sackett-driesen-palaikastro",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "MacGillivray, J. A.; Sackett, L. H.; Driessen, Jan; et al. BSA Palaikastro excavation memoirs / supplementary volumes (late 1980s–2000s) publishing the Minoan town of Palaikastro, east Crete.",
+  "url": "https://www.bsa.ac.uk/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "British School at Athens Palaikastro publication series (multiple volumes). Use specific memoir numbers when expanding object catalogs; registered here as the primary publication stream for the site.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-macgillivray-sackett-driesen-palaikastro.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-estrada-belli-holmul",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Estrada-Belli, Francisco. Holmul Archaeological Project reports and related publications on Holmul and Cival (Peten) Preclassic centers.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Holmul/Cival project publication stream. Pair with Estrada-Belli 2011 monograph and 2006 Cival article already registered/added.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-estrada-belli-holmul.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

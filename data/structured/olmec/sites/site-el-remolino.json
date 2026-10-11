@@ -1,0 +1,31 @@
+{
+  "id": "site-el-remolino",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔·雷莫利诺",
+    "en": "El Remolino",
+    "native": null
+  },
+  "kind_note": "San Lorenzo-region secondary center / hinterland site",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "埃尔·雷莫利诺：圣洛伦佐地区次级中心/腹地遗址（聚落考古文献）。",
+    "en": "El Remolino secondary center/hinterland site in San Lorenzo settlement studies."
+  },
+  "sources": [
+    "src-olmec-cyphers-san-lorenzo-settlement-2002",
+    "src-olmec-symonds-cyphers-settlement"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

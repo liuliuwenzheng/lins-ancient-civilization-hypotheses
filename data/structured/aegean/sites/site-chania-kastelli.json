@@ -1,0 +1,31 @@
+{
+  "id": "site-chania-kastelli",
+  "entity": "site",
+  "names": {
+    "zh": "干尼亚卡斯特利（古库多尼亚）",
+    "en": "Chania Kastelli (Kydonia)",
+    "native": null
+  },
+  "kind_note": "Minoan/Mycenaean harbor town, west Crete",
+  "region": "Chania, west Crete, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "干尼亚卡斯特利：西克里特港口城镇（古库多尼亚）；新宫殿/后宫殿讨论见 Troubled Island 等。",
+    "en": "Chania Kastelli harbor town (ancient Kydonia); Neopalatial/postpalatial debates in Troubled Island et al."
+  },
+  "sources": [
+    "src-aegean-driessen-macdonald-troubled-island-1997",
+    "src-aegean-cadogan-palaces-1976"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-martinez-donjuan-teopantecuanitlan",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Martínez Donjuán, Guadalupe. 1986–1990s field reports and syntheses on Teopantecuanitlán (Guerrero), including the sunken patio and carved travertine monuments (INAH / state archaeology publications).",
+  "url": "https://lugares.inah.gob.mx/en/node/4467",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary field literature stream for Teopantecuanitlán. INAH site page verified 2026-10-11. Exact memoir pagination to be locked when a single definitive volume is cited for object catalogs.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-martinez-donjuan-teopantecuanitlan.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

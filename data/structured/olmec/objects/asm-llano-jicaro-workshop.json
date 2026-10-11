@@ -1,0 +1,43 @@
+{
+  "id": "asm-llano-jicaro-workshop",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "希卡罗石雕作坊组合",
+    "en": "Llano del Jícaro workshop assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-llano-del-jicaro"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative",
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "圣洛伦佐地区石碑/头像生产相关作坊遗存类别。",
+    "en": "Workshop remains related to monument/head production in the San Lorenzo region."
+  },
+  "sources": [
+    "src-olmec-llano-del-jicaro",
+    "src-olmec-cyphers-escultura-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cyphers project literature",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

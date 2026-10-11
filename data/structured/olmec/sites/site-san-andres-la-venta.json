@@ -1,0 +1,31 @@
+{
+  "id": "site-san-andres-la-venta",
+  "entity": "site",
+  "names": {
+    "zh": "圣安德烈斯（拉本塔卫星）",
+    "en": "San Andrés (La Venta satellite)",
+    "native": null
+  },
+  "kind_note": "Satellite settlement near La Venta",
+  "region": "Tabasco, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "圣安德烈斯：拉本塔腹地/卫星聚落研究点。",
+    "en": "San Andrés satellite/hinterland settlement near La Venta."
+  },
+  "sources": [
+    "src-olmec-san-andres-la-venta-satellite",
+    "src-olmec-rust-sharer-la-venta-1988"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

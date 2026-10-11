@@ -1,0 +1,32 @@
+{
+  "id": "claim-aegean-eruption-caused-lm-ib-collapse",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将锡拉喷发简单定为 LM IB 全面崩溃的唯一或主因，仍属可争议模型（Troubled Island 亦强调多因与区域差异）。",
+    "en": "Treating the Theran eruption as the sole or primary cause of a blanket LM IB collapse remains contested (Troubled Island itself stresses multicausality and regional difference)."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-akrotiri",
+    "site-palaikastro"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-driessen-macdonald-troubled-island-1997",
+    "src-aegean-manning-science-2006",
+    "src-aegean-wiener-chronology-debate"
+  ],
+  "disclaimer": "Hypothesis / scholarly model — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

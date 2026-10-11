@@ -1,0 +1,30 @@
+{
+  "id": "claim-maya-hansen-lidar-2022",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hansen 等 2022《Ancient Mesoamerica》介绍米拉多尔—卡拉克穆尔岩溶盆地 LiDAR 分析对早期玛雅社会经济组织的新视角。",
+    "en": "Hansen et al. 2022 Ancient Mesoamerica introduce LiDAR analyses in the Mirador–Calakmul karst basin for early Maya socioeconomic organization."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-el-mirador",
+    "site-nakbe"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-hansen-mirador-lidar-2022"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

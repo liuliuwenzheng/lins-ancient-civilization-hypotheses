@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-llano-del-jicaro",
+  "entity": "source",
+  "type": "article",
+  "citation": "Cyphers, Ann, and collaborators. Studies of the Llano del Jícaro monument workshop / related San Lorenzo-region sculptural production locales (UNAM project literature).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary/project literature on Llano del Jícaro as a sculptural workshop locale in the San Lorenzo region. Metadata only; no forged monument photos.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-llano-del-jicaro.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-taosi",
+  "entity": "site",
+  "names": {
+    "zh": "陶寺",
+    "en": "Taosi",
+    "native": null
+  },
+  "kind_note": "Late Longshan / early Bronze Age mega-site, Xiangfen",
+  "region": "Xiangfen, Linfen, Shanxi, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "襄汾陶寺：1978–1985 与 1999–2001 正式报告所载的大型城址—墓地综合遗址；与「尧都」等名号的等同见假说栏。",
+    "en": "Xiangfen Taosi mega-site with city and cemetery remains as published in 1978–1985 and 1999–2001 reports; Yao-capital equations stay hypotheses."
+  },
+  "sources": [
+    "src-china-taosi-1978-1985-2015",
+    "src-china-taosi-1999-2001-2025",
+    "src-china-liu-chen-archaeology-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

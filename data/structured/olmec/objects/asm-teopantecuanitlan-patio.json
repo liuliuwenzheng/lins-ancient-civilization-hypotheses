@@ -1,0 +1,41 @@
+{
+  "id": "asm-teopantecuanitlan-patio",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特奥潘特夸尼特兰下沉庭院组合",
+    "en": "Teopantecuanitlán sunken patio assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-teopantecuanitlan"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "下沉庭院与石灰华纪念碑相关遗存类别。",
+    "en": "Sunken patio and travertine monument related remains."
+  },
+  "sources": [
+    "src-olmec-martinez-donjuan-teopantecuanitlan"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Martínez Donjuán / INAH",
+    "upstream_url": "https://lugares.inah.gob.mx/en/node/4467",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

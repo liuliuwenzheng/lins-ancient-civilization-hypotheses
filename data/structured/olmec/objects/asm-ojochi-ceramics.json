@@ -1,0 +1,41 @@
+{
+  "id": "asm-ojochi-ceramics",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "奥霍奇陶器组合",
+    "en": "Ojochi ceramic assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-ojochi"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "summary": {
+    "zh": "圣洛伦佐早期成形期奥霍奇相陶器类别（Coe & Diehl）。",
+    "en": "Ojochi-phase Early Formative ceramics as defined in Coe & Diehl San Lorenzo."
+  },
+  "sources": [
+    "src-olmec-coe-diehl-san-lorenzo-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Coe & Diehl 1980",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

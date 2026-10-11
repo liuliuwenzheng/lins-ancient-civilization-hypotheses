@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-wucheng-2005",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《吴城：1973–2002年考古发掘报告》（2005）正式公布樟树吴城商代城址十次发掘资料。",
+    "en": "The 2005 Wucheng report formally publishes ten excavation campaigns at the Shang-period walled site."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-wucheng"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-wucheng-settlement"
+  ],
+  "sources": [
+    "src-china-wucheng-1973-2002-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

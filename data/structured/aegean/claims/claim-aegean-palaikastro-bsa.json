@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-palaikastro-bsa",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "不列颠雅典学院帕莱卡斯特罗发掘系列正式公布东克里特米诺斯城镇材料。",
+    "en": "The BSA Palaikastro memoir series formally publishes the east Cretan Minoan town."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-palaikastro"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-palaikastro-town"
+  ],
+  "sources": [
+    "src-aegean-macgillivray-sackett-driesen-palaikastro"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

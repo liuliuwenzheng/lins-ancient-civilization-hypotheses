@@ -1,0 +1,43 @@
+{
+  "id": "asm-cival-ideology-estrada",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "西瓦尔前古典统治者意识形态材料",
+    "en": "Cival Preclassic rulership ideology materials"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cival"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "Estrada-Belli 2006 讨论的西瓦尔前古典仪式—权力相关材料类别。",
+    "en": "Cival Preclassic ritual–power related materials as discussed by Estrada-Belli 2006."
+  },
+  "sources": [
+    "src-maya-estrada-belli-cival-2006",
+    "src-maya-estrada-belli-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Estrada-Belli 2006",
+    "upstream_url": "https://doi.org/10.1017/S0956536106060068",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

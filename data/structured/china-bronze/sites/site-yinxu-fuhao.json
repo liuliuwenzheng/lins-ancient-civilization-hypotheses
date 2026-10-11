@@ -1,0 +1,31 @@
+{
+  "id": "site-yinxu-fuhao",
+  "entity": "site",
+  "names": {
+    "zh": "殷墟妇好墓（M5）",
+    "en": "Yinxu Tomb of Fu Hao (M5)",
+    "native": null
+  },
+  "kind_note": "Late Shang elite tomb within Yinxu; Fu Hao 1980 report",
+  "region": "Anyang, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "殷墟妇好墓正式报告所载的晚商高等级墓葬（M5）。",
+    "en": "Late Shang high-status tomb (M5) as published in the 1980 Fu Hao report."
+  },
+  "sources": [
+    "src-china-fuhao-tomb-1980",
+    "src-china-li-chi-anyang-1977"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

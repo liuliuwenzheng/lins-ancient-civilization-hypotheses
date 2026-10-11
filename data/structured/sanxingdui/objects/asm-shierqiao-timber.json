@@ -1,0 +1,41 @@
+{
+  "id": "asm-shierqiao-timber",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "十二桥木构建筑组合",
+    "en": "Shi’erqiao timber architecture assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-shierqiao"
+  ],
+  "period_ids": [
+    "period-sxd-jinsha-sacrifice-span"
+  ],
+  "summary": {
+    "zh": "十二桥简报所载木构建筑遗存类别。",
+    "en": "Timber architecture find classes as published for Shi’erqiao."
+  },
+  "sources": [
+    "src-sanxingdui-shierqiao-chengdu-discoveries"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Chengdu Archaeological Discoveries",
+    "upstream_url": "https://www.dushu.com/book/11138546/",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

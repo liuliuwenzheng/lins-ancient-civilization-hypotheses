@@ -1,0 +1,43 @@
+{
+  "id": "asm-cascajal-block",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡斯卡哈尔石碑铭文组合",
+    "en": "Cascajal Block inscription assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-cascajal"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative",
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "卡斯卡哈尔石碑62符号铭文；年代与出土层位仍有争议。",
+    "en": "Cascajal Block 62-sign inscription; dating and find context remain contested."
+  },
+  "sources": [
+    "src-olmec-rodriguez-cascajal-science-2006",
+    "src-olmec-mora-marin-cascajal-2020"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Rodríguez et al. 2006 Science",
+    "upstream_url": "https://doi.org/10.1126/science.1131492",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

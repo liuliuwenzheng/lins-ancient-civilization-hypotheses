@@ -1,0 +1,17 @@
+{
+  "id": "src-china-shaughnessy-sources-western-zhou-1991",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Shaughnessy, Edward L. 1991. Sources of Western Zhou History: Inscribed Bronze Vessels. Berkeley: University of California Press. ISBN 9780520070288.",
+  "url": "https://www.ucpress.edu/book/9780520070288/sources-of-western-zhou-history",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Standard English-language secondary guide to Western Zhou bronze inscriptions as historical sources. Publisher page verified 2026-10-11. Complements Fengxi archaeological report; does not replace site reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-shaughnessy-sources-western-zhou-1991.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

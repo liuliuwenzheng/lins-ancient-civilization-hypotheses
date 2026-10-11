@@ -1,0 +1,33 @@
+{
+  "id": "claim-sxd-jinsha-lanyuan",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "金沙兰苑等地点与梅苑、祭祀区报告一并构成金沙遗址群已刊发掘单元。",
+    "en": "Jinsha Lanyuan and related loci, with Meiyuan and the sacrifice-zone report, form published excavation units of the Jinsha cluster."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-lanyuan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-jinsha-lanyuan"
+  ],
+  "sources": [
+    "src-jinsha-lanyuan-brief",
+    "src-jinsha-meiyuan-brief-2004",
+    "src-jinsha-sacrifice-zone-2022"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

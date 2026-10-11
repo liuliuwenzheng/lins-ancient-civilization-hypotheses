@@ -41,7 +41,7 @@ sources:
   - src-aegean-davis-pylos-regional-1998
   - src-aegean-palaima-pylos-tablets-orient
 related_ids: ["civ-mesopotamia", "civ-ancient-egypt"]
-notes: "fact-library; density D-2026-10-11-27 archive deepen (sites + P sources). Linear A undeciphered = research-status fact. High/low chronology, thalassocracy, Homeric equations = hypotheses. Evans restorations require modern cross-check. No invented page numbers/coords/forged images."
+notes: "second density D-2026-10-11-30; fact-library; density D-2026-10-11-27 archive deepen (sites + P sources). Linear A undeciphered = research-status fact. High/low chronology, thalassocracy, Homeric equations = hypotheses. Evans restorations require modern cross-check. No invented page numbers/coords/forged images."
 ---
 
 # 爱琴 / Aegean
@@ -157,6 +157,20 @@ Dickinson (1994) treats foreign contact / Near Eastern exchange as a thematic do
 
 Modern research pillars include Evans at Knossos [`src-aegean-evans-palace-of-minos-1921`]; Wace at Mycenae [`src-aegean-wace-mycenae-1949`]; Blegen at Pylos [`src-aegean-blegen-rawson-pylos-1966`]; Marinatos/Doumas at Akrotiri [`src-aegean-doumas-thera-1983`]; Linear B decipherment and philology [`src-aegean-ventris-chadwick-1956`][`src-aegean-chadwick-1976`]; Renfrew’s third-millennium process archaeology [`src-aegean-renfrew-1972`]; Broodbank’s Early Cyclades [`src-aegean-broodbank-cyclades-2000`]; and syntheses by Dickinson, Shelmerdine, Cline, Warren & Hankey, and Manning et al. [`src-aegean-dickinson-1994`][`src-aegean-shelmerdine-companion-2008`][`src-aegean-cline-oxford-handbook-2010`][`src-aegean-warren-hankey-1989`][`src-aegean-manning-science-2006`].
 
+### Density pass D-2026-10-11-30 — second archive deepen
+
+第二轮（D-2026-10-11-30）另登记：Pendlebury 1939；Cadogan 1976；Driessen & Macdonald 1997；Hawes Gournia 1908；Cummer & Schofield Ayia Irini 1984；Palaikastro BSA 系列；Marinatos Thera 季报；Taylour 1983；Hope Simpson 1981。
+
+Second density (D-2026-10-11-30) also registers: Pendlebury 1939; Cadogan 1976; Driessen & Macdonald 1997; Hawes Gournia 1908; Cummer & Schofield Ayia Irini 1984; Palaikastro BSA series; Marinatos Thera seasons; Taylour 1983; Hope Simpson 1981.
+
+- **古尔尼亚·瓦西iliki / Gournia·Vasiliki** — Hawes 1908 [`src-aegean-hawes-gournia-1908`]
+- **阿伊亚·伊里尼 / Ayia Irini** — Keos III House A [`src-aegean-cummer-schofield-ayia-irini-1984`]
+- **帕莱卡斯特罗 / Palaikastro** — BSA memoirs [`src-aegean-macgillivray-sackett-driesen-palaikastro`]
+- **阿克罗蒂里 Marinatos 季** — Thera I–VII [`src-aegean-marinatos-thera-excavations`]
+- **米德亚·阿西尼·奥尔霍迈诺斯** — mainland gazetteer peers [`src-aegean-hope-simpson-mycenaean-greece-1981`]
+- **干尼亚卡斯特利** — Troubled Island frame [`src-aegean-driessen-macdonald-troubled-island-1997`]
+
+
 ## Sources
 
 - `src-aegean-shelmerdine-companion-2008` — secondary handbook; c. 3000–1100 BCE; Crete / mainland / islands (tier S)
@@ -190,6 +204,19 @@ Modern research pillars include Evans at Knossos [`src-aegean-evans-palace-of-mi
 - `src-aegean-hood-archaeology-crete-1971` — S; Minoan Crete overview
 - `src-aegean-davis-pylos-regional-1998` — S; Sandy Pylos / PRAP
 - `src-aegean-palaima-pylos-tablets-orient` — S; Linear B admin pointer
+
+
+- `src-aegean-pendlebury-crete-1939` — secondary; Archaeology of Crete (tier S)
+- `src-aegean-cadogan-palaces-1976` — secondary; Palaces of Minoan Crete (tier S)
+- `src-aegean-driessen-macdonald-troubled-island-1997` — secondary; Troubled Island (tier S)
+- `src-aegean-hawes-gournia-1908` — primary; Gournia/Vasiliki (tier P)
+- `src-aegean-cummer-schofield-ayia-irini-1984` — primary; Keos III House A (tier P)
+- `src-aegean-macgillivray-sackett-driesen-palaikastro` — primary; Palaikastro BSA series (tier P)
+- `src-aegean-marinatos-thera-excavations` — primary; Thera season reports (tier P)
+- `src-aegean-taylour-mycenaeans-1983` — secondary; Mycenaeans (tier S)
+- `src-aegean-hope-simpson-mycenaean-greece-1981` — secondary; Mycenaean Greece gazetteer (tier S)
+- `src-aegean-wiener-chronology-debate` — secondary; chronology debate pointer (tier S)
+
 
 ## Related civilizations
 

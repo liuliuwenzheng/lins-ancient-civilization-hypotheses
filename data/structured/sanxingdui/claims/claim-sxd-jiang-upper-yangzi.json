@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-jiang-upper-yangzi",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "江章华《长江上游先秦考古研究》（2022）汇集含成都平原早期城址/宝墩文化在内的上游先秦考古论文。",
+    "en": "Jiang Zhanghua 2022 collects Pre-Qin upper Yangzi studies including Chengdu Plain early walled sites / Baodun culture."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-baodun",
+    "site-mangcheng-baodun-peer",
+    "site-pimadu-baodun-peer"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-jiang-upper-yangzi-2022"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-marinatos-thera-excavations",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Marinatos, Spyridon. 1968–1976. Excavations at Thera I–VII (season reports). Athens: Archaeological Society at Athens / related official series.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary season reports of Marinatos’s Akrotiri (Thera) excavations preceding Doumas’s later synthesis. Historical P; pottery/architecture absolute dating still tied to eruption chronology debate.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-marinatos-thera-excavations.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

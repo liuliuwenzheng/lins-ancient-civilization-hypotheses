@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-fengxi-1962",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《沣西发掘报告》（1962）公布1955–1957年客省庄、张家坡西周居址与墓葬材料（丰京区域）。",
+    "en": "The 1962 Fengxi report publishes 1955–1957 Western Zhou settlement and cemetery materials at Kexingzhuang/Zhangjiapo (Fengjing area)."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-fengxi-zhangjiapo"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-fengxi-western-zhou"
+  ],
+  "sources": [
+    "src-china-fengxi-1962"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

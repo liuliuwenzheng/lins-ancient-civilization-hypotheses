@@ -1,0 +1,43 @@
+{
+  "id": "asm-baodun-peer-walls",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "宝墩文化对照城址组合",
+    "en": "Baodun-culture peer walled-site assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-mangcheng-baodun-peer",
+    "site-pimadu-baodun-peer"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "summary": {
+    "zh": "芒城、郫县古城等宝墩文化城址对照的城墙/聚落类别（综述框架）。",
+    "en": "Wall/settlement classes for Mangcheng/Pixian peers under Baodun-culture synthesis framing."
+  },
+  "sources": [
+    "src-sanxingdui-jiang-upper-yangzi-2022",
+    "src-sanxingdui-flad-chen-chengdu-plain-chapters"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Jiang 2022 / Flad & Chen 2013",
+    "upstream_url": "https://doi.org/10.1017/CBO9781139007740",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -391,3 +391,51 @@
 
 **说明：** 肖图盖「殖民点」、巴拉科特湾区贸易节点、卡斯马/北奇科「最早」排名、海洋奠基模型等留在假说栏；卡斯马与奇卡马/亚洲等为**比较基线**，不并入单一北奇科政体；不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
 
+### D-2026-10-11-30 — 中国青铜 + 三星堆 + 爱琴 + 奥尔梅克 + 早期玛雅第二轮档案密度加深
+
+**决定：** 在第一轮（D-25 / D-27）之后，对剩余五包再做一轮**遗址级一手/强二手**加深：只登记可核验发掘报告与稳定 URL；扩展遗址、器物组合、事实主张；争议进假说栏；同步各 `civ-*.md` 的 Key sites 与 Sources；全仓 `export_check` 必须通过。完整性优先于速度。至此九包第二轮密度加深完成。
+
+**本轮主要新增 P（及必要 S）：**
+
+**中国青铜：**
+- 《殷墟妇好墓》1980（文物出版社）
+- 《襄汾陶寺——1978～1985年发掘报告》2015；《襄汾陶寺——1999～2001年考古发掘报告》2025
+- 《新干商代大墓》1997；《吴城：1973～2002年考古发掘报告》2005
+- 《沣西发掘报告》1962；《殷墟花园庄东地甲骨》2003
+- 《铜绿山古矿冶遗址》1999；《侯马铸铜遗址》1993
+- Shaughnessy《Sources of Western Zhou History》1991（S）
+
+**三星堆：**
+- 宝墩 2009–2010 调查试掘简报（成都考古发现 2009）
+- 江章华《长江上游先秦考古研究》2022（S）
+- 十二桥 / 仁胜村 / 青关山 / 仓包包 / 金沙兰苑田野文献指针
+- Flad & Chen 2013 成都平原框架（包内复用）
+
+**爱琴：**
+- Pendlebury《Archaeology of Crete》1939（Archive）
+- Cadogan《Palaces of Minoan Crete》1976；Driessen & Macdonald《Troubled Island》1997
+- Hawes《Gournia…》1908；Cummer & Schofield《Keos》III 1984
+- Palaikastro BSA 系列；Marinatos《Excavations at Thera》季报
+- Taylour 1983；Hope Simpson 1981；Wiener 年代学指针（S）
+
+**奥尔梅克：**
+- Rodríguez et al. Cascajal《Science》2006；Mora-Marín 2020《Ancient Mesoamerica》
+- Martínez Donjuán Teopantecuanitlán；Ortiz & Rodríguez Manatí 1988 初报
+- San Andrés / Llano del Jícaro / Arroyo Pesquero（语境警示）/ El Remolino / Ojochi
+
+**早期玛雅：**
+- Forsyth Nakbe ceramics 1993；Estrada-Belli Cival 2006
+- Willey et al. Belize Valley 1965；Kosakowsky Cuello 2003
+- Cerros / Lamanai / Yaxuná FAMSI 1988 / Holmul 项目文献
+- Hansen et al. Mirador–Calakmul LiDAR 2022
+
+**结构化结果（以 `export_check` 为准）：**
+- **china-bronze：** 来源 28→38；遗址 12→20；器物组合 16→24；主张 24→34
+- **sanxingdui：** 来源 28→38；遗址 10→18；器物组合 16→23；主张 23→31
+- **aegean：** 来源 28→38；遗址 14→23；器物组合 16→24；主张 24→32
+- **olmec：** 来源 28→38；遗址 12→19；器物组合 16→24；主张 24→31
+- **early-maya：** 来源 28→38；遗址 14→22；器物组合 16→24；主张 26→33
+- 全仓闸门通过。
+
+**说明：** 陶寺=尧都、新干=商方国都邑、青关山=王宫、宝墩直线前身国家、锡拉喷发=LM IB 唯一主因、高/低年代单一日历、Cascajal「最早文字」无争议、Arroyo Pesquero 当作层位闭合组合、米拉多尔「首个国家」、中前古典完备神王等一律假说栏。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
+

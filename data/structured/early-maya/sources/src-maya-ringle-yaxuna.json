@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-ringle-yaxuna",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Freidel, David; Suhler, Charles; et al. / Yaxuná Archaeological Survey reports (FAMSI and project reports), including 1988 Freidel field season report.",
+  "url": "https://www.famsi.org/research/freidel/1988Freidel.pdf",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Yaxuná (Yucatán) project reports documenting Preclassic E-Group and related architecture. FAMSI 1988 report PDF verified 2026-10-11.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-ringle-yaxuna.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

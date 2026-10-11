@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-willey-belize-valley-1965",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Willey, Gordon R.; Bullard, William R., Jr.; Glass, John B.; Gifford, James C. 1965. Prehistoric Maya Settlements in the Belize Valley. Papers of the Peabody Museum of Archaeology and Ethnology, Harvard University, Vol. 54. Cambridge, MA: Peabody Museum.",
+  "url": "https://peabody.harvard.edu/publication/prehistoric-maya-settlements-belize-valley",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Foundational Peabody memoir for Belize Valley settlement archaeology (includes Barton Ramie). Peabody publication page verified 2026-10-11.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-willey-belize-valley-1965.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

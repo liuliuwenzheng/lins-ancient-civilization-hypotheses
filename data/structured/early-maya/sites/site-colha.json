@@ -1,0 +1,31 @@
+{
+  "id": "site-colha",
+  "entity": "site",
+  "names": {
+    "zh": "科尔哈",
+    "en": "Colha",
+    "native": null
+  },
+  "kind_note": "Northern Belize lithic production center (Preclassic industries)",
+  "region": "Northern Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "科尔哈：北伯利兹石器生产中心；前古典工业为事实栏焦点。",
+    "en": "Colha northern Belize lithic production center; Preclassic industries in fact column."
+  },
+  "sources": [
+    "src-maya-ashmore-lowland-settlement-1981",
+    "src-maya-sharer-traxler-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-pimadu-baodun-peer",
+  "entity": "site",
+  "names": {
+    "zh": "郫县古城（宝墩文化对照）",
+    "en": "Pimadu / Pixian ancient city (Baodun peer)",
+    "native": null
+  },
+  "kind_note": "Chengdu Plain Baodun-culture walled peer",
+  "region": "Pidu, Chengdu, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "郫县古城：宝墩文化城址对照；细节以田野简报/江章华综述为准。",
+    "en": "Pixian ancient city Baodun-culture peer; details per field briefs / Jiang synthesis."
+  },
+  "sources": [
+    "src-sanxingdui-jiang-upper-yangzi-2022",
+    "src-sanxingdui-flad-chen-chengdu-plain-chapters"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

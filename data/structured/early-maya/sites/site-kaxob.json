@@ -1,0 +1,31 @@
+{
+  "id": "site-kaxob",
+  "entity": "site",
+  "names": {
+    "zh": "卡肖布",
+    "en": "K’axob",
+    "native": null
+  },
+  "kind_note": "Belize farming community with deep Preclassic sequence",
+  "region": "Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "卡肖布：具深厚前古典序列的农业社区（McAnany 等框架）。",
+    "en": "K’axob farming community with deep Preclassic sequence (McAnany frame)."
+  },
+  "sources": [
+    "src-maya-mcanany-living-ancestors-1995",
+    "src-maya-hammond-cuello-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

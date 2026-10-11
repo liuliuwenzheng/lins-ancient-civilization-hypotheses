@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-houma-1993",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《侯马铸铜遗址》（1993）报告山西侯马东周铸铜作坊遗存。",
+    "en": "The 1993 Houma report documents Eastern Zhou bronze foundry remains in Shanxi."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-houma-foundry"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-houma-foundry-molds"
+  ],
+  "sources": [
+    "src-china-houma-foundry-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

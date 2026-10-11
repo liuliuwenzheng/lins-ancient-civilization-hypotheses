@@ -20,9 +20,15 @@
     "src-maya-cohre-or-md-andrews-uaxactun",
     "src-maya-demarest-2004",
     "src-maya-estrada-belli-2011",
+    "src-maya-estrada-belli-cival-2006",
+    "src-maya-estrada-belli-holmul",
+    "src-maya-forsyth-nakbe-ceramics-1993",
+    "src-maya-freidel-cerros-1986",
     "src-maya-freidel-schele-forest-kings",
     "src-maya-garber-blackman-eddy",
+    "src-maya-garber-blackman-eddy-deepened",
     "src-maya-hammond-cuello-1991",
+    "src-maya-hansen-mirador-lidar-2022",
     "src-maya-hansen-nakbe-1998",
     "src-maya-hansen-tigre-mirador",
     "src-maya-healy-cahal-pech",
@@ -31,13 +37,17 @@
     "src-maya-inomata-ceibal-science-2013",
     "src-maya-inomata-middle-preclassic-platforms",
     "src-maya-inomata-pnas-ceibal-2015",
+    "src-maya-kosakowsky-cuello-ceramics-2003",
     "src-maya-laporte-fialko-mundo-perdido-1995",
     "src-maya-matheny-tigre-mirador-1990",
     "src-maya-mcanany-living-ancestors-1995",
+    "src-maya-pendergast-lamanai",
     "src-maya-ricketson-uaxactun",
+    "src-maya-ringle-yaxuna",
     "src-maya-saturno-stuart-beltran-2006",
     "src-maya-sharer-traxler-2006",
     "src-maya-smith-uaxactun",
+    "src-maya-willey-belize-valley-1965",
     "src-maya-willey-seibal-1975",
     "src-mesoamerica-nichols-pool-handbook-2012",
     "src-olmec-pool-2007"
@@ -49,19 +59,27 @@
   "kind": "fact",
   "site_ids": [
     "site-aguada-fenix",
+    "site-barton-ramie",
     "site-blackman-eddy",
     "site-cahal-pech",
     "site-calakmul-preclassic-pointer",
     "site-ceibal",
+    "site-cerros",
     "site-cival",
+    "site-colha",
     "site-cuello",
     "site-el-mirador",
+    "site-holmul",
     "site-izapa-comparative",
     "site-kaminaljuyu",
+    "site-kaxob",
+    "site-lamanai",
     "site-nakbe",
+    "site-naranjo-belize",
     "site-san-bartolo",
     "site-tikal-mundo-perdido",
-    "site-uaxactun"
+    "site-uaxactun",
+    "site-yaxuna"
   ],
   "period_ids": [
     "period-maya-early-classic-onset",
@@ -85,7 +103,12 @@
     "claim-maya-e-group-astronomical-only",
     "claim-maya-estrada-belli-first-title",
     "claim-maya-estrada-belli-primacy-title",
+    "claim-maya-estrada-cival-2006",
+    "claim-maya-forsyth-nakbe-1993",
+    "claim-maya-full-middle-preclassic-divine-kingship",
+    "claim-maya-hansen-lidar-2022",
     "claim-maya-kinship-kingship-model",
+    "claim-maya-kosakowsky-cuello-2003",
     "claim-maya-mirador-first-state",
     "claim-maya-mirador-tigre-report",
     "claim-maya-mundo-perdido-published",
@@ -96,9 +119,17 @@
     "claim-maya-preclassic-urban-florescence",
     "claim-maya-san-bartolo-early-writing",
     "claim-maya-san-bartolo-murals-fact",
-    "claim-maya-uaxactun-carnegie"
+    "claim-maya-uaxactun-carnegie",
+    "claim-maya-willey-belize-1965",
+    "claim-maya-yaxuna-1988"
   ],
   "object_ids": [
+    "asm-barton-ramie-settlement",
+    "asm-cerros-late-preclassic",
+    "asm-cival-ideology-estrada",
+    "asm-colha-lithics",
+    "asm-holmul-preclassic",
+    "asm-lamanai-preclassic",
     "asm-maya-aguada-fenix-plateau",
     "asm-maya-blackman-eddy-sequence",
     "asm-maya-cahal-pech-preclassic",
@@ -112,9 +143,11 @@
     "asm-maya-mundo-perdido-egroup",
     "asm-maya-nakbe-middle-preclassic",
     "asm-maya-nakbe-monumental-architecture",
-    "asm-maya-san-bartolo-murals-writing",
     "asm-maya-san-bartolo-murals",
-    "asm-maya-uaxactun-group-e"
+    "asm-maya-san-bartolo-murals-writing",
+    "asm-maya-uaxactun-group-e",
+    "asm-nakbe-ceramics-forsyth",
+    "asm-yaxuna-egroup"
   ],
   "markdown_path": "data/civilizations/civ-early-maya.md",
   "editorial": {
@@ -123,6 +156,6 @@
       "data/structured/early-maya/"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; rebuilt index lists from pack files."
+    "notes": "Density pass D-2026-10-11-27; rebuilt index lists from pack files. D-2026-10-11-30 second density: +Nakbe ceramics/Cival 2006/Barton Ramie/Cerros/Lamanai/Yaxuná/Holmul/Colha/K’axob."
   }
 }

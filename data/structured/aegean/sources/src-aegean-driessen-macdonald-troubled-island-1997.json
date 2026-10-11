@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-driessen-macdonald-troubled-island-1997",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Driessen, Jan, and Colin F. Macdonald. 1997. The Troubled Island: Minoan Crete before and after the Santorini Eruption. Aegaeum 17. Liège / Austin: Université de Liège / University of Texas at Austin. ISBN 9789042924161.",
+  "url": "https://isdistribution.com/work/the-troubled-island/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Major secondary synthesis of Neopalatial Crete in relation to the Theran eruption and LM IB destructions. Distributor/ISBN verified 2026-10-11. Eruption–destruction causal models remain debated (hypothesis hygiene).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-driessen-macdonald-troubled-island-1997.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

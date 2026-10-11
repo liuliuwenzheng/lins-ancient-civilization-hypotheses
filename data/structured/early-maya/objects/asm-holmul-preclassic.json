@@ -1,0 +1,43 @@
+{
+  "id": "asm-holmul-preclassic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "奥尔穆尔前古典组合",
+    "en": "Holmul Preclassic assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-holmul"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "奥尔穆尔项目公布的前古典中心材料类别。",
+    "en": "Holmul project Preclassic center find classes."
+  },
+  "sources": [
+    "src-maya-estrada-belli-holmul",
+    "src-maya-estrada-belli-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Estrada-Belli Holmul project",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

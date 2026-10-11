@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-arroyo-pesquero",
+  "entity": "source",
+  "type": "article",
+  "citation": "Published notices and collection histories for the Arroyo Pesquero (Río Pesquero) jade/greenstone find locality (Veracruz) — largely non-excavation recovery; treat provenience caveats explicitly.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Arroyo Pesquero is famous for greenstone masks/celts but largely lacks controlled excavation context. Register as S with strong provenience caveats; never present as stratigraphic P.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-arroyo-pesquero.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

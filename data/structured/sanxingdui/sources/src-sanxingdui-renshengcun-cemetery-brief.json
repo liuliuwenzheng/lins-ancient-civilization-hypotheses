@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-renshengcun-cemetery-brief",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sichuan Provincial Institute of Cultural Relics and Archaeology / related Chengdu Plain teams. Published briefs on the Renshengcun (仁胜村) cemetery near Sanxingdui (Guanghan) in provincial journals / Chengdu discovery annuals (cite exact issue when expanding object catalogs).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Cemetery locus near Sanxingdui used as settlement–burial peer. Exact page-level catalog deferred until a single definitive memoir is locked; registered as P-tier field brief class without invented inventory numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-renshengcun-cemetery-brief.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

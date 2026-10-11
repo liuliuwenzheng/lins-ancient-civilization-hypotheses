@@ -1,0 +1,41 @@
+{
+  "id": "asm-renshengcun-burials",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "仁胜村墓葬组合",
+    "en": "Renshengcun burial assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-renshengcun"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "summary": {
+    "zh": "仁胜村墓地已刊简报中的墓葬器物类别；不编造墓号。",
+    "en": "Burial find classes from published Renshengcun briefs; no invented tomb numbers."
+  },
+  "sources": [
+    "src-sanxingdui-renshengcun-cemetery-brief"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Renshengcun briefs",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

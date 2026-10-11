@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-tonglushan-1999",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《铜绿山古矿冶遗址》（1999）报告大冶铜绿山古代铜矿开采与冶炼遗存。",
+    "en": "The 1999 Tonglüshan report documents ancient copper mining and smelting remains at Daye."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-tonglushan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tonglushan-mining-smelting"
+  ],
+  "sources": [
+    "src-china-tonglushan-1999"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

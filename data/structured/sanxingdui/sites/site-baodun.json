@@ -1,0 +1,31 @@
+{
+  "id": "site-baodun",
+  "entity": "site",
+  "names": {
+    "zh": "宝墩",
+    "en": "Baodun",
+    "native": null
+  },
+  "kind_note": "Late Neolithic walled site, Chengdu Plain (Baodun culture)",
+  "region": "Xinjin, Chengdu, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "新津宝墩：成都平原晚新石器城址；2009–2010 调查试掘简报。",
+    "en": "Baodun late Neolithic walled site; 2009–2010 survey/test brief."
+  },
+  "sources": [
+    "src-sanxingdui-baodun-brief-2009",
+    "src-sanxingdui-jiang-upper-yangzi-2022"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

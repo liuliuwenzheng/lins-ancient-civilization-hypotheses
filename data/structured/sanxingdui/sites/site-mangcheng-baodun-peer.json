@@ -1,0 +1,31 @@
+{
+  "id": "site-mangcheng-baodun-peer",
+  "entity": "site",
+  "names": {
+    "zh": "芒城（宝墩文化对照）",
+    "en": "Mangcheng (Baodun-culture peer)",
+    "native": null
+  },
+  "kind_note": "Chengdu Plain Baodun-culture walled peer site",
+  "region": "Dujiangyan / Chengdu Plain, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "芒城：成都平原宝墩文化城址对照点（江章华等综述框架）。",
+    "en": "Mangcheng Baodun-culture walled peer on the Chengdu Plain (Jiang synthesis frame)."
+  },
+  "sources": [
+    "src-sanxingdui-jiang-upper-yangzi-2022",
+    "src-sanxingdui-baodun-brief-2009"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-cerros",
+  "entity": "site",
+  "names": {
+    "zh": "塞罗斯（Cerro Maya）",
+    "en": "Cerros (Cerro Maya)",
+    "native": null
+  },
+  "kind_note": "Late Preclassic coastal center, Belize",
+  "region": "Corozal, Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "塞罗斯：伯利兹晚前古典沿海中心；Freidel 等项目报告。",
+    "en": "Cerros Late Preclassic coastal center; Freidel project reports."
+  },
+  "sources": [
+    "src-maya-freidel-cerros-1986",
+    "src-maya-estrada-belli-2011"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-taosi-cemetery-city",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "陶寺墓地与城址组合",
+    "en": "Taosi cemetery and city assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-taosi"
+  ],
+  "period_ids": [
+    "period-china-erlitou"
+  ],
+  "summary": {
+    "zh": "陶寺正式报告公布的墓葬、城墙与礼仪相关遗存类别；「尧都」标签见假说。",
+    "en": "Cemetery, city-wall, and ritual-related find classes as published; Yao-capital label stays hypothesis."
+  },
+  "sources": [
+    "src-china-taosi-1978-1985-2015",
+    "src-china-taosi-1999-2001-2025"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Taosi reports 2015/2025",
+    "upstream_url": "http://kaogu.cssn.cn/xwzx/kgdt/201512/t20151218_5943672.shtml",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

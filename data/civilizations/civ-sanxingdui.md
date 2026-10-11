@@ -41,7 +41,7 @@ sources:
   - src-china-liu-chen-archaeology-2012
   - src-china-bagley-shang-ritual-bronzes-1987
 related_ids: ["civ-china-bronze"]
-notes: "fact-library + archive density D-2026-10-11-25 (sites + primary sources). Sanxingdui ≠ asserted Shang kingdom (hypothesis claims only). Pit absolute chronologies long debated. UNESCO listing is Tentative only. ‘Ancient Shu State’ / Jinsha relocation = nomination or hypothesis wording. No forged artefact images; no invented page numbers/coordinates."
+notes: "second density D-2026-10-11-30; fact-library + archive density D-2026-10-11-25 (sites + primary sources). Sanxingdui ≠ asserted Shang kingdom (hypothesis claims only). Pit absolute chronologies long debated. UNESCO listing is Tentative only. ‘Ancient Shu State’ / Jinsha relocation = nomination or hypothesis wording. No forged artefact images; no invented page numbers/coordinates."
 ---
 
 # 三星堆 / Sanxingdui
@@ -159,6 +159,21 @@ Ge & Linduff (1990) use Sanxingdui to question north China’s primacy as the so
 
 Jade finds in the late 1920s and Graham’s 1934 excavation open the modern field history; after 1980–1986 seasons, the 1986 pits made the site globally famous [`src-sanxingdui-li-qiu-guo-li-2022`][`src-sanxingdui-bagley-1988`]. The 1999 Chinese pit monograph formalized Pits 1–2 [`src-sanxingdui-sichuan-jisikeng-1999`]. Early English reports: Bagley (1988), Ge & Linduff (1990); museum syntheses: Rawson ed. (1996), Bagley ed. (2001), Xu (2001) [`src-sanxingdui-bagley-1988`][`src-sanxingdui-ge-linduff-1990`][`src-china-rawson-mysteries-1996`][`src-sanxingdui-bagley-ancient-sichuan-2001`][`src-sanxingdui-xu-bronze-2001`]. Sun Hua (2003) advances culture definition [`src-sanxingdui-sun-hua-cultures-2003`]. Flad (2012, 2018) and Flad & Chen (2013) supply regional/theoretical frames [`src-sanxingdui-flad-valuable-objects-2012`][`src-sanxingdui-flad-urbanism-2018`][`src-china-flad-chen-ancient-central-china-2013`]. Renewed 2020s sacrificial-area work: Zhao (2021), Wu et al. (2021), Li et al. (2022) [`src-sanxingdui-zhao-nsr-2021`][`src-sanxingdui-wu-ran-lei-2021`][`src-sanxingdui-li-qiu-guo-li-2022`]. UNESCO Tentative List registers the Ancient Shu archaeological grouping [`src-sanxingdui-unesco-tentative-2013`].
 
+### Density pass D-2026-10-11-30 — second archive deepen
+
+第二轮（D-2026-10-11-30）另登记：宝墩 2009–2010 简报；江章华 2022；十二桥系列简报；仁胜村/青关山/仓包包田野文献；金沙兰苑指针；Flad & Chen 成都平原框架（包内复用）。
+
+Second density (D-2026-10-11-30) also registers: Baodun 2009–2010 brief; Jiang 2022; Shi’erqiao annual briefs; Renshengcun/Qingguanshan/Cangbaobao field literature; Jinsha Lanyuan pointer; Flad & Chen Chengdu Plain framing (pack-local).
+
+- **宝墩 / Baodun** — 晚新石器城址简报 [`src-sanxingdui-baodun-brief-2009`]
+- **十二桥 / Shi’erqiao** — 木构建筑简报流 [`src-sanxingdui-shierqiao-chengdu-discoveries`]
+- **青关山 / Qingguanshan** — 建筑基址；「宫殿」假说 [`src-sanxingdui-qingguanshan-brief`]
+- **仓包包 / Cangbaobao** — 埋藏点 [`src-sanxingdui-cangbaobao-brief`]
+- **仁胜村 / Renshengcun** — 附近墓地 [`src-sanxingdui-renshengcun-cemetery-brief`]
+- **金沙兰苑 / Jinsha Lanyuan** — 梅苑以外地点 [`src-jinsha-lanyuan-brief`]
+- **芒城·郫县古城** — 宝墩文化对照 [`src-sanxingdui-jiang-upper-yangzi-2022`]
+
+
 ## Sources
 
 - `src-sanxingdui-sichuan-jisikeng-1999` — primary excavation monograph; 1986 Sacrificial Pits 1–2 (tier P)
@@ -188,6 +203,17 @@ Jade finds in the late 1920s and Graham’s 1934 excavation open the modern fiel
 - `src-sanxingdui-chen-xiandan-1990` — secondary overview/phasing (tier S)
 - `src-sanxingdui-ma-yueliangwan-1993` — secondary memoir of 1963 Yueliangwan dig (tier S)
 - `src-china-cass-xia-shang-2003` — secondary CASS Xia–Shang synthesis (shared context; tier S)
+
+
+- `src-sanxingdui-baodun-brief-2009` — primary brief; Baodun 2009–2010 (tier P)
+- `src-sanxingdui-jiang-upper-yangzi-2022` — secondary; upper Yangzi Pre-Qin studies (tier S)
+- `src-sanxingdui-shierqiao-chengdu-discoveries` — primary annual briefs; Shi’erqiao (tier P)
+- `src-sanxingdui-renshengcun-cemetery-brief` — primary briefs; Renshengcun (tier P)
+- `src-sanxingdui-qingguanshan-brief` — primary briefs; Qingguanshan (tier P)
+- `src-sanxingdui-cangbaobao-brief` — primary briefs; Cangbaobao (tier P)
+- `src-jinsha-lanyuan-brief` — primary briefs; Jinsha Lanyuan (tier P)
+- `src-sanxingdui-flad-chen-chengdu-plain-chapters` — secondary; Flad & Chen 2013 pack-local (tier S)
+
 
 ## Related civilizations
 

@@ -1,11 +1,16 @@
-# 结构化档案包 — aegean
+# 结构化档案包 — 爱琴青铜时代
 
 [English](README.md) | 中文
 
-仅派生自 `data/civilizations/` 与已登记来源。无新考古发明。不伪造文物图。
+`civ-aegean` 的只读档案实体。
 
-**密度 D-2026-10-11-27：** 来源 28 · 遗址 14 · 分期 7 · 器物组合 16 · 主张 24 · 媒体 4（外链）。
+计数（D-2026-10-11-30 第二轮密度加深；以 `export_check` 为准）：
+- 来源: 38
+- 遗址: 23
+- 分期: 7
+- 器物组合: 24
+- 主张: 32
+- 媒体: 4
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Markdown 编辑真源：`data/civilizations/civ-aegean.md`。
+服务前运行 `tools/export_check.py`。

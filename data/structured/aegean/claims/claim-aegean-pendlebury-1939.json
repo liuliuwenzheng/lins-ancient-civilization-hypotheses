@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-pendlebury-1939",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pendlebury《The Archaeology of Crete》(1939) 系统综述克里特青铜时代考古（历史二手）。",
+    "en": "Pendlebury’s Archaeology of Crete (1939) systematically surveys Cretan Bronze Age archaeology (historical secondary)."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos",
+    "site-gournia"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-pendlebury-crete-1939"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

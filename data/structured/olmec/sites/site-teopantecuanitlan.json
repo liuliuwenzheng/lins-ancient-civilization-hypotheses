@@ -3,22 +3,21 @@
   "entity": "site",
   "names": {
     "zh": "特奥潘特夸尼特兰",
-    "en": "Teopantecuanitlan",
+    "en": "Teopantecuanitlán",
     "native": null
   },
-  "kind_note": "Guerrero highland Olmec-style architecture/sculpture center; interaction-zone pointer.",
+  "kind_note": "Formative site with Olmec-style monumental architecture, Guerrero",
   "region": "Guerrero, Mexico",
   "civilization_ids": [
     "civ-olmec"
   ],
   "summary": {
-    "zh": "格雷罗高地奥尔梅克风格建筑/雕塑中心；互动区指针。",
-    "en": "Guerrero highland Olmec-style architecture/sculpture center; interaction-zone pointer."
+    "zh": "特奥潘特夸尼特兰：格雷罗成形期遗址，含下沉庭院与石灰华纪念碑。",
+    "en": "Formative Guerrero site with sunken patio and travertine monuments."
   },
   "sources": [
-    "src-olmec-pool-2007",
-    "src-olmec-diehl-2004",
-    "src-olmec-clark-pye-nga-2000"
+    "src-olmec-martinez-donjuan-teopantecuanitlan",
+    "src-olmec-diehl-2004"
   ],
   "coordinates": null,
   "editorial": {
@@ -27,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
   }
 }

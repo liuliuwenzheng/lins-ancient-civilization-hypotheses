@@ -1,0 +1,31 @@
+{
+  "id": "site-holmul",
+  "entity": "site",
+  "names": {
+    "zh": "奥尔穆尔",
+    "en": "Holmul",
+    "native": null
+  },
+  "kind_note": "Peten Preclassic/Classic center (Early scope)",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "奥尔穆尔：埃斯特拉达-贝利项目；与西瓦尔对照的佩滕中心。",
+    "en": "Holmul Estrada-Belli project center; Peten peer to Cival."
+  },
+  "sources": [
+    "src-maya-estrada-belli-holmul",
+    "src-maya-estrada-belli-cival-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

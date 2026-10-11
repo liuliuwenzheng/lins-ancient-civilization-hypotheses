@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-full-middle-preclassic-divine-kingship",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将中前古典完备神王制度写成已证实的普遍事实，超出西瓦尔等个案材料的稳健范围。",
+    "en": "Treating full Middle Preclassic divine kingship as proven and universal exceeds the secure reach of Cival and related case materials."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cival"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cival-ideology-estrada"
+  ],
+  "sources": [
+    "src-maya-estrada-belli-cival-2006",
+    "src-maya-estrada-belli-2011",
+    "src-maya-clark-hansen-2001"
+  ],
+  "disclaimer": "Hypothesis / institutional model — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

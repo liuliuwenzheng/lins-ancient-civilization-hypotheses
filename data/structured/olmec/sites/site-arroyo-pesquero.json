@@ -1,0 +1,31 @@
+{
+  "id": "site-arroyo-pesquero",
+  "entity": "site",
+  "names": {
+    "zh": "阿royo 佩斯克罗",
+    "en": "Arroyo Pesquero",
+    "native": null
+  },
+  "kind_note": "Greenstone find locality (limited excavation control)",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "阿royo 佩斯克罗：绿石面具/斧发现地；多缺乏严格发掘语境。",
+    "en": "Arroyo Pesquero greenstone find locality; mostly lacks controlled excavation context."
+  },
+  "sources": [
+    "src-olmec-arroyo-pesquero",
+    "src-olmec-taube-doaks-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

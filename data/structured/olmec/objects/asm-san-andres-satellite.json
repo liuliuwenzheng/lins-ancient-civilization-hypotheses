@@ -1,0 +1,41 @@
+{
+  "id": "asm-san-andres-satellite",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "圣安德烈斯卫星聚落组合",
+    "en": "San Andrés satellite settlement assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-andres-la-venta"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "拉本塔腹地卫星聚落调查/发掘相关遗存类别。",
+    "en": "Hinterland satellite settlement remains near La Venta."
+  },
+  "sources": [
+    "src-olmec-san-andres-la-venta-satellite"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Rust & Sharer 1988+",
+    "upstream_url": "https://doi.org/10.1126/science.242.4875.102",
+    "notes": "Metadata only; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

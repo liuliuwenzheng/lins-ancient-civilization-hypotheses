@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-driessen-macdonald-1997",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Driessen & Macdonald《The Troubled Island》(1997) 综合讨论锡拉喷发前后新宫殿克里特的破坏与变迁证据。",
+    "en": "Driessen & Macdonald The Troubled Island (1997) synthesizes destruction and change evidence for Neopalatial Crete around the Theran eruption."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-palaikastro",
+    "site-chania-kastelli"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-driessen-macdonald-troubled-island-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

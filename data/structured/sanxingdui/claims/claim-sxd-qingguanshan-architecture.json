@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-qingguanshan-architecture",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "四川省文物考古研究院等已刊简报记录三星堆青关山建筑基址的存在。",
+    "en": "Published Sichuan Institute briefs record architectural foundations at Qingguanshan within Sanxingdui."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-qingguanshan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-qingguanshan-architecture"
+  ],
+  "sources": [
+    "src-sanxingdui-qingguanshan-brief"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-llano-jicaro-workshop",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cyphers 等项目文献将利亚诺·德尔·希卡罗讨论为圣洛伦佐地区石雕作坊地点。",
+    "en": "Cyphers project literature discusses Llano del Jícaro as a sculptural workshop locale in the San Lorenzo region."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-llano-del-jicaro"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-llano-jicaro-workshop"
+  ],
+  "sources": [
+    "src-olmec-llano-del-jicaro",
+    "src-olmec-cyphers-escultura-2004"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

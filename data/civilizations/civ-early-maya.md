@@ -41,7 +41,7 @@ sources:
   - src-maya-mcanany-living-ancestors-1995
   - src-maya-ashmore-lowland-settlement-1981
 related_ids: ["civ-olmec"]
-notes: "fact-library; density D-2026-10-11-27 archive deepen. Scope = Early Preclassic–Early Classic only. Classic collapse OUT OF SCOPE. Unilinear Olmec→Maya, Mirador first-state, full Middle Preclassic divine kingship = hypotheses. No invented page numbers/coords/forged images."
+notes: "second density D-2026-10-11-30; fact-library; density D-2026-10-11-27 archive deepen. Scope = Early Preclassic–Early Classic only. Classic collapse OUT OF SCOPE. Unilinear Olmec→Maya, Mirador first-state, full Middle Preclassic divine kingship = hypotheses. No invented page numbers/coords/forged images."
 ---
 
 # 早期玛雅 / Early Maya
@@ -157,6 +157,21 @@ Interaction with Gulf Olmec, Chiapas, and the Pacific coast is central to early 
 
 Modern research pillars include Harvard Seibal [`src-maya-willey-seibal-1975`]; Inomata’s Ceibal Preclassic project [`src-maya-inomata-ceibal-science-2013`][`src-maya-inomata-ceibal-plateau-2019`]; Hansen / Mirador Basin work on Nakbe and El Mirador [`src-maya-hansen-nakbe-1998`]; Estrada-Belli on Holmul/Cival-region Preclassic [`src-maya-estrada-belli-2011`]; Saturno et al. on San Bartolo [`src-maya-saturno-stuart-beltran-2006`]; and handbooks by Sharer & Traxler, Demarest, Coe & Houston, and Nichols & Pool [`src-maya-sharer-traxler-2006`][`src-maya-demarest-2004`][`src-maya-coe-houston-2015`][`src-mesoamerica-nichols-pool-handbook-2012`]. The shift from an underestimated Preclassic to recognition of Preclassic complex society is an explicit theme in Estrada-Belli and Inomata et al. [`src-maya-estrada-belli-2011`][`src-maya-inomata-ceibal-science-2013`].
 
+### Density pass D-2026-10-11-30 — second archive deepen
+
+第二轮（D-2026-10-11-30）另登记：Forsyth Nakbe 1993；Estrada-Belli Cival 2006；Willey Belize Valley 1965；Cerros；Lamanai；Yaxuná FAMSI 1988；Holmul；Kosakowsky Cuello 2003；Hansen LiDAR 2022。
+
+Second density (D-2026-10-11-30) also registers: Forsyth Nakbe 1993; Estrada-Belli Cival 2006; Willey Belize Valley 1965; Cerros; Lamanai; Yaxuná FAMSI 1988; Holmul; Kosakowsky Cuello 2003; Hansen LiDAR 2022.
+
+- **纳克贝陶器序列** — Forsyth 1993 [`src-maya-forsyth-nakbe-ceramics-1993`]
+- **西瓦尔意识形态材料** — Estrada-Belli 2006；完备神王见假说 [`src-maya-estrada-belli-cival-2006`]
+- **巴顿拉米 / Barton Ramie** — Willey 1965 [`src-maya-willey-belize-valley-1965`]
+- **塞罗斯 / Cerros** — Freidel 项目 [`src-maya-freidel-cerros-1986`]
+- **拉马奈 / Lamanai** — Pendergast（仅前古典/早古典）[`src-maya-pendergast-lamanai`]
+- **亚舒纳 / Yaxuná** — FAMSI 1988 [`src-maya-ringle-yaxuna`]
+- **奥尔穆尔 / Holmul** — Estrada-Belli 项目 [`src-maya-estrada-belli-holmul`]
+
+
 ## Sources
 
 - `src-maya-sharer-traxler-2006` — secondary handbook; long-view Maya synthesis (tier S)
@@ -190,6 +205,18 @@ Modern research pillars include Harvard Seibal [`src-maya-willey-seibal-1975`]; 
 - `src-maya-inomata-pnas-ceibal-2015` — P; PNAS Ceibal sedentism/ceremony
 - `src-maya-mcanany-living-ancestors-1995` — S; kinship/kingship synthesis
 - `src-maya-ashmore-lowland-settlement-1981` — S; settlement patterns volume
+
+
+- `src-maya-forsyth-nakbe-ceramics-1993` — primary article; Nakbe ceramics (tier P)
+- `src-maya-estrada-belli-cival-2006` — secondary; Cival ideology (tier S)
+- `src-maya-willey-belize-valley-1965` — primary; Belize Valley settlements (tier P)
+- `src-maya-freidel-cerros-1986` — primary project; Cerros (tier P)
+- `src-maya-pendergast-lamanai` — primary project; Lamanai (tier P)
+- `src-maya-ringle-yaxuna` — primary project; Yaxuná (tier P)
+- `src-maya-kosakowsky-cuello-ceramics-2003` — secondary; Cuello ceramics (tier S)
+- `src-maya-hansen-mirador-lidar-2022` — secondary; Mirador–Calakmul LiDAR (tier S)
+- `src-maya-estrada-belli-holmul` — primary project; Holmul (tier P)
+
 
 ## Related civilizations
 
