@@ -234,3 +234,14 @@ Major **S**: Feldman 1985 (Donnan ed.); Fung 1988 (Keatinge ed.); Chu 2006 *Bole
 
 **Notes:** Chupacigarro (West) kept separate from Caral; Vichama only as PEACS list pointer (often Early Formative, after Caral monumental window); environmental abrupt demise, Aspero chiefdom, Bandurria challenge to chiefdom/state, maize staple intensity, and “oldest civilization” kept as hypotheses. Integrity over speed.
 
+### D-2026-10-11-26 — Design taste (seen and unseen)
+
+**Decision:** Adopt an explicit craft standard for this repository: product = **archive + read-only API**; prose and `/ui` are presentation. Principles adapted from Paul Graham’s *Taste for Makers* and Jobs-style “quality in what is seen and unseen”: simple, solves the right problem, hard work that looks easy, consistency, restraint, honesty (fact ≠ hypothesis must be obvious in UI), no decorative lies, no forged artifact imagery.
+
+**Ship with this decision:**
+- [`design-taste.md`](design-taste.md) / [`design-taste.zh.md`](design-taste.zh.md) — principles + checklists for README, API envelopes, `/ui`, docs
+- Browse UI at **`/ui`** (`api/static/ui.html`) — bilingual, dark/light via `prefers-color-scheme`, claim kind badges, expandable sources, no artifact stock photos
+- API root `/api/v1/` principle-first message + `browse_ui: /ui`
+- README “Why not Wikipedia” + “Try the API / UI” (honest, not fluff)
+
+**Notes:** Inspiration pointer (public compilation): https://x.com/Jaden_riku/status/2108876904002670873 — credit Graham’s essay; do not paste copyrighted text wholesale. Parallel densify work may continue on `data/structured/*`; this decision does not invent archaeology.

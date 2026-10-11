@@ -11,6 +11,7 @@
 | **正直** | 事实栏永不写臆测；假说始终标注；不编造故事、不上伪造文物图。 |
 | **开放复用** | 今天：任何人可读 git 中的 Markdown。明天：同一批实体经只读 API 提供。 |
 | **谦逊** | 假说是工作想法；更好来源的纠正优先。我们留下轨迹，不立教义。 |
+| **工艺** | 表里如一 — schema、出处闸门、克制的 `/ui`。见 [`design-taste.zh.md`](design-taste.zh.md)。 |
 
 ## 分层
 
@@ -130,6 +131,7 @@ lins-ancient-civilization-hypotheses/
 │   ├── architecture.md / architecture.zh.md   ← 本文
 │   ├── council.md / council.zh.md             ← 审议圆桌
 │   ├── api.md / api.zh.md                     ← 开放接口设计
+│   ├── design-taste.md / design-taste.zh.md   ← 工艺 / UI 清单
 │   └── openapi.v0.yaml                        ← OpenAPI 草稿
 ├── data/civilizations/     # 事实库（含 _template.md）
 ├── sources/                # 来源登记（含 _template.md）

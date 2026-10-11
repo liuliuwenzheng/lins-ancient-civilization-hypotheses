@@ -11,6 +11,7 @@ English | [中文](architecture.zh.md)
 | **Integrity** | Fact columns never hold speculation. Hypotheses are always labeled. No fabricated stories or forged artifact images. |
 | **Open reuse** | Today: anyone can read Markdown in git. Tomorrow: the same entities via a read-only API. |
 | **Humility** | Hypotheses are working ideas. Corrections with better sources win. We leave a trail, not a creed. |
+| **Craft** | Seen and unseen quality — schemas, citation gates, calm `/ui`. See [`design-taste.md`](design-taste.md). |
 
 ## Layers
 
@@ -129,6 +130,7 @@ lins-ancient-civilization-hypotheses/
 │   ├── architecture.md / architecture.zh.md   ← this document
 │   ├── council.md / council.zh.md             ← Deliberation Council
 │   ├── api.md / api.zh.md                     ← public API design
+│   ├── design-taste.md / design-taste.zh.md   ← craft / UI checklist
 │   └── openapi.v0.yaml                        ← OpenAPI stub
 ├── data/civilizations/     # fact library (+ _template.md)
 ├── sources/                # source registry (+ _template.md)

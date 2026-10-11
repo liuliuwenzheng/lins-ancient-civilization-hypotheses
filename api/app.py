@@ -3,8 +3,11 @@ from __future__ import annotations
 
 from typing import Any, Optional
 
+from pathlib import Path
+
 from fastapi import FastAPI, HTTPException, Query
-from fastapi.responses import JSONResponse
+from fastapi.responses import FileResponse, JSONResponse
+from fastapi.staticfiles import StaticFiles
 
 from api import __version__
 from api.loader import get_store
@@ -13,18 +16,22 @@ SERVICE_INFO = {
     "name": "Lin's Ancient Civilization Hypotheses — Archive API",
     "name_zh": "林的古文明猜想 — 档案接口",
     "version": __version__,
-    "product": "archive + read-only API (not encyclopedia prose alone)",
+    "product": "archive + read-only API; prose and /ui are presentation",
     "principles": [
-        "fact ≠ hypothesis — hypotheses always labeled kind=hypothesis with disclaimer",
-        "citation fail-closed — fact claims require non-empty resolvable sources[]",
+        "fact ≠ hypothesis — kind is required; hypotheses stay visually and structurally labeled",
+        "citation fail-closed — fact claims need non-empty resolvable sources[]",
         "read-only — no write routes; changes via git/PR",
-        "no forged artifact images; media is outbound-link metadata only",
+        "craft in seen and unseen — schemas, gates, and calm UI; no forged artifact images",
+        "restraint — one accent, honest envelopes, no decorative lies",
     ],
+    "browse_ui": "/ui",
     "docs": {
         "api_zh": "docs/api.zh.md",
         "api_en": "docs/api.md",
         "openapi": "docs/openapi.v0.yaml",
         "archive_model": "docs/archive-data-model.zh.md",
+        "design_taste": "docs/design-taste.md",
+        "design_taste_zh": "docs/design-taste.zh.md",
     },
     "pagination": {
         "style": "limit + offset (v0)",
@@ -45,6 +52,19 @@ def create_app() -> FastAPI:
         openapi_url="/api/v1/openapi.json",
     )
 
+    static_dir = Path(__file__).resolve().parent / "static"
+    ui_file = static_dir / "ui.html"
+
+    @app.get("/ui")
+    @app.get("/ui/")
+    def browse_ui() -> FileResponse:
+        if not ui_file.is_file():
+            raise HTTPException(status_code=404, detail="ui not found")
+        return FileResponse(ui_file, media_type="text/html; charset=utf-8")
+
+    if static_dir.is_dir():
+        app.mount("/ui/static", StaticFiles(directory=str(static_dir)), name="ui-static")
+
     @app.get("/")
     @app.get("/api/v1/")
     @app.get("/api/v1")
@@ -52,10 +72,19 @@ def create_app() -> FastAPI:
         store = get_store()
         return {
             **SERVICE_INFO,
+            "message": (
+                "Archive first. Human prose is a view; /ui is a calm browse surface. "
+                "Every fact claim must cite sources; hypotheses stay labeled."
+            ),
+            "message_zh": (
+                "档案优先。人类文案只是视图；/ui 是克制的浏览面。"
+                "事实主张必有出处；假说始终标注。"
+            ),
             "packs_loaded": sorted(store.packs.keys()),
             "civilization_count": len(store.civilizations),
             "load_errors": store.load_errors,
             "endpoints": [
+                "GET /ui",
                 "GET /api/v1/healthz",
                 "GET /api/v1/civilizations",
                 "GET /api/v1/civilizations/{id}",

@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lin's Ancient Civilization Hypotheses — Archive</title>
+  <meta name="description" content="Read-only archive browse. Facts and hypotheses stay visually separate. No forged artifact imagery." />
+  <style>
+    :root {
+      --bg: #f7f4ef;
+      --bg-elev: #fffdf9;
+      --ink: #1c1917;
+      --muted: #78716c;
+      --line: #e7e0d6;
+      --accent: #9a3412;
+      --accent-soft: rgba(154, 52, 18, 0.08);
+      --fact: #166534;
+      --fact-bg: rgba(22, 101, 52, 0.08);
+      --hyp: #9a3412;
+      --hyp-bg: rgba(154, 52, 18, 0.10);
+      --shadow: 0 1px 0 rgba(28, 25, 23, 0.04), 0 12px 40px rgba(28, 25, 23, 0.04);
+      --radius: 14px;
+      --font: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Noto Serif SC", "Songti SC", serif;
+      --sans: "IBM Plex Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+      --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+      --max: 1120px;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #121110;
+        --bg-elev: #1a1816;
+        --ink: #f5f0e8;
+        --muted: #a8a29e;
+        --line: #2d2925;
+        --accent: #e7a07a;
+        --accent-soft: rgba(231, 160, 122, 0.12);
+        --fact: #86efac;
+        --fact-bg: rgba(134, 239, 172, 0.10);
+        --hyp: #fdba74;
+        --hyp-bg: rgba(253, 186, 116, 0.12);
+        --shadow: 0 1px 0 rgba(0,0,0,0.35), 0 16px 48px rgba(0,0,0,0.35);
+      }
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, var(--accent-soft), transparent 55%),
+        var(--bg);
+      font-family: var(--font);
+      font-size: 17px;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    a:hover { opacity: 0.85; }
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 28px 20px 80px; }
+    header.app {
+      display: flex; flex-wrap: wrap; gap: 16px 24px;
+      align-items: flex-end; justify-content: space-between;
+      padding-bottom: 28px; border-bottom: 1px solid var(--line); margin-bottom: 28px;
+    }
+    .brand { max-width: 42rem; }
+    .eyebrow {
+      font-family: var(--sans); font-size: 12px; letter-spacing: 0.14em;
+      text-transform: uppercase; color: var(--muted); margin: 0 0 8px;
+    }
+    h1 {
+      font-weight: 600; font-size: clamp(1.6rem, 3vw, 2.15rem);
+      letter-spacing: -0.02em; line-height: 1.2; margin: 0 0 10px;
+    }
+    .lede { margin: 0; color: var(--muted); font-size: 0.98rem; max-width: 40rem; }
+    .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .btn, .seg button, .chip {
+      font-family: var(--sans); font-size: 13px; border-radius: 999px;
+      border: 1px solid var(--line); background: var(--bg-elev); color: var(--ink);
+      padding: 8px 14px; cursor: pointer;
+    }
+    .btn:hover, .seg button:hover, .chip:hover { border-color: var(--accent); }
+    .btn.primary {
+      background: var(--accent); color: #fffdf9; border-color: transparent;
+    }
+    @media (prefers-color-scheme: dark) {
+      .btn.primary { color: #1c1917; }
+    }
+    .seg { display: inline-flex; padding: 3px; gap: 2px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg-elev); }
+    .seg button { border: 0; background: transparent; padding: 7px 12px; }
+    .seg button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+    .toolbar {
+      display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center;
+      margin-bottom: 20px;
+    }
+    @media (max-width: 720px) { .toolbar { grid-template-columns: 1fr; } }
+    input[type="search"] {
+      width: 100%; font-family: var(--sans); font-size: 15px;
+      padding: 12px 16px; border-radius: 12px; border: 1px solid var(--line);
+      background: var(--bg-elev); color: var(--ink); outline: none;
+    }
+    input[type="search"]:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+    .layout { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 22px; }
+    @media (max-width: 880px) { .layout { grid-template-columns: 1fr; } }
+    .panel {
+      background: var(--bg-elev); border: 1px solid var(--line);
+      border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden;
+    }
+    .panel-h {
+      font-family: var(--sans); font-size: 12px; letter-spacing: 0.12em;
+      text-transform: uppercase; color: var(--muted);
+      padding: 14px 16px; border-bottom: 1px solid var(--line);
+      display: flex; justify-content: space-between; align-items: center; gap: 8px;
+    }
+    .civ-list { list-style: none; margin: 0; padding: 8px; max-height: min(70vh, 720px); overflow: auto; }
+    .civ-list button {
+      width: 100%; text-align: left; border: 0; background: transparent; color: inherit;
+      font: inherit; padding: 12px 12px; border-radius: 10px; cursor: pointer;
+    }
+    .civ-list button:hover, .civ-list button[aria-current="true"] { background: var(--accent-soft); }
+    .civ-list .name { display: block; font-weight: 600; }
+    .civ-list .meta { display: block; font-family: var(--sans); font-size: 12px; color: var(--muted); margin-top: 4px; }
+    .detail { padding: 0; min-height: 420px; }
+    .detail-inner { padding: 22px 22px 28px; }
+    .empty {
+      padding: 48px 28px; text-align: center; color: var(--muted); font-family: var(--sans);
+    }
+    .status-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+    .pill {
+      font-family: var(--sans); font-size: 12px; padding: 4px 10px; border-radius: 999px;
+      border: 1px solid var(--line); color: var(--muted);
+    }
+    .region, .timespan { color: var(--muted); font-size: 0.95rem; margin: 0 0 8px; }
+    .summary { margin: 14px 0 22px; max-width: 46rem; }
+    .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 16px; }
+    .tabs button[aria-selected="true"] {
+      background: var(--accent); color: #fffdf9; border-color: transparent;
+    }
+    @media (prefers-color-scheme: dark) {
+      .tabs button[aria-selected="true"] { color: #1c1917; }
+    }
+    .card {
+      border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin: 0 0 10px;
+      background: color-mix(in srgb, var(--bg) 55%, var(--bg-elev));
+    }
+    .card h3 { margin: 0 0 6px; font-size: 1.05rem; }
+    .card .sub { font-family: var(--sans); font-size: 12px; color: var(--muted); margin-bottom: 8px; }
+    .badge {
+      display: inline-block; font-family: var(--sans); font-size: 11px; font-weight: 700;
+      letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 8px; border-radius: 6px;
+      margin-right: 8px; vertical-align: middle;
+    }
+    .badge.fact { color: var(--fact); background: var(--fact-bg); }
+    .badge.hypothesis { color: var(--hyp); background: var(--hyp-bg); }
+    .claim-text { margin: 8px 0 0; }
+    .disclaimer {
+      margin-top: 10px; padding: 10px 12px; border-left: 3px solid var(--hyp);
+      background: var(--hyp-bg); font-family: var(--sans); font-size: 13px;
+    }
+    details.sources { margin-top: 10px; font-family: var(--sans); font-size: 13px; }
+    details.sources summary { cursor: pointer; color: var(--accent); user-select: none; }
+    details.sources ol { margin: 8px 0 0; padding-left: 1.2rem; color: var(--muted); }
+    details.sources li { margin: 0 0 6px; }
+    .tier {
+      display: inline-block; font-family: var(--mono); font-size: 11px;
+      padding: 1px 6px; border-radius: 4px; border: 1px solid var(--line); margin-right: 6px;
+    }
+    footer.app {
+      margin-top: 36px; padding-top: 18px; border-top: 1px solid var(--line);
+      font-family: var(--sans); font-size: 13px; color: var(--muted);
+      display: flex; flex-wrap: wrap; gap: 10px 18px; justify-content: space-between;
+    }
+    .err {
+      margin: 12px 0; padding: 12px 14px; border-radius: 10px;
+      border: 1px solid color-mix(in srgb, var(--hyp) 40%, var(--line));
+      background: var(--hyp-bg); font-family: var(--sans); font-size: 14px;
+    }
+    .loading { font-family: var(--sans); color: var(--muted); padding: 24px; }
+    .id-mono { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="app">
+      <div class="brand">
+        <p class="eyebrow" data-i="eyebrow">Read-only archive</p>
+        <h1 data-i="title">Lin's Ancient Civilization Hypotheses</h1>
+        <p class="lede" data-i="lede">Browse structured packs. Facts and hypotheses stay labeled. Typography carries the craft — no forged artifact imagery.</p>
+      </div>
+      <div class="controls">
+        <div class="seg" role="group" aria-label="Language">
+          <button type="button" id="lang-en" aria-pressed="true">EN</button>
+          <button type="button" id="lang-zh" aria-pressed="false">中文</button>
+        </div>
+        <a class="btn" href="/api/v1/" data-i="api">API root</a>
+        <a class="btn primary" href="/api/v1/docs" data-i="docs">OpenAPI</a>
+      </div>
+    </header>
+
+    <div class="toolbar">
+      <input type="search" id="q" data-i-ph="searchPh" placeholder="Filter civilizations, sites, claims…" autocomplete="off" />
+      <div class="seg" id="kind-filter" role="group" aria-label="Claim kind">
+        <button type="button" data-kind="" aria-pressed="true" data-i="all">All claims</button>
+        <button type="button" data-kind="fact" aria-pressed="false" data-i="facts">Facts</button>
+        <button type="button" data-kind="hypothesis" aria-pressed="false" data-i="hyps">Hypotheses</button>
+      </div>
+    </div>
+
+    <div id="banner" hidden class="err"></div>
+
+    <div class="layout">
+      <aside class="panel" aria-label="Civilizations">
+        <div class="panel-h"><span data-i="civs">Civilizations</span><span id="civ-count" class="id-mono"></span></div>
+        <ul class="civ-list" id="civ-list"><li class="loading" data-i="loading">Loading…</li></ul>
+      </aside>
+      <main class="panel detail" id="detail">
+        <div class="empty" data-i="pick">Select a civilization to open sites, periods, and claims.</div>
+      </main>
+    </div>
+
+    <footer class="app">
+      <div data-i="footer">Fact ≠ hypothesis. Citation fail-closed. Changes via git/PR.</div>
+      <div><span class="id-mono" id="health"></span></div>
+    </footer>
+  </div>
+
+  <script>
+  (() => {
+    const I18N = {
+      en: {
+        eyebrow: "Read-only archive",
+        title: "Lin's Ancient Civilization Hypotheses",
+        lede: "Browse structured packs. Facts and hypotheses stay labeled. Typography carries the craft — no forged artifact imagery.",
+        api: "API root",
+        docs: "OpenAPI",
+        searchPh: "Filter civilizations, sites, claims…",
+        all: "All claims",
+        facts: "Facts",
+        hyps: "Hypotheses",
+        civs: "Civilizations",
+        loading: "Loading…",
+        pick: "Select a civilization to open sites, periods, and claims.",
+        footer: "Fact ≠ hypothesis. Citation fail-closed. Changes via git/PR.",
+        sites: "Sites",
+        periods: "Periods",
+        claims: "Claims",
+        region: "Region",
+        time: "Time span",
+        sources: "Sources",
+        noSources: "No expanded sources",
+        emptyTab: "Nothing in this view.",
+        hypNote: "Hypothesis — not an established conclusion",
+        status: "Status",
+        loadErr: "Could not reach the archive API. Is the server running?",
+      },
+      zh: {
+        eyebrow: "只读档案",
+        title: "林的古文明猜想",
+        lede: "浏览结构化档案包。事实与假说始终标注。美感靠字体与结构——不上伪造文物图。",
+        api: "接口根",
+        docs: "OpenAPI",
+        searchPh: "筛选文明、遗址、主张…",
+        all: "全部主张",
+        facts: "事实",
+        hyps: "假说",
+        civs: "文明",
+        loading: "加载中…",
+        pick: "选择一个文明，查看遗址、分期与主张。",
+        footer: "事实 ≠ 假说。出处失败即关闭。写入走 git/PR。",
+        sites: "遗址",
+        periods: "分期",
+        claims: "主张",
+        region: "区域",
+        time: "年代跨度",
+        sources: "来源",
+        noSources: "无展开来源",
+        emptyTab: "此视图暂无内容。",
+        hypNote: "假说 — 并非既定结论",
+        status: "状态",
+        loadErr: "无法连接档案接口。请确认服务已启动。",
+      },
+    };
+
+    const state = {
+      lang: localStorage.getItem("lach-ui-lang") || ((navigator.language || "").startsWith("zh") ? "zh" : "en"),
+      civs: [],
+      selected: null,
+      tab: "claims",
+      kind: "",
+      q: "",
+      cache: {},
+    };
+    if (!["en", "zh"].includes(state.lang)) state.lang = "en";
+
+    const $ = (sel) => document.querySelector(sel);
+    const t = (key) => (I18N[state.lang][key] || I18N.en[key] || key);
+    const txt = (obj) => {
+      if (!obj) return "";
+      if (typeof obj === "string") return obj;
+      return obj[state.lang] || obj.en || obj.zh || "";
+    };
+    const nameOf = (rec) => {
+      const n = rec?.names;
+      if (!n) return rec?.id || "";
+      return n[state.lang] || n.en || n.zh || rec.id;
+    };
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+    })[c]);
+
+    async function api(path) {
+      const res = await fetch(path);
+      if (!res.ok) throw new Error(String(res.status));
+      return res.json();
+    }
+
+    function applyI18n() {
+      document.documentElement.lang = state.lang === "zh" ? "zh-Hans" : "en";
+      document.querySelectorAll("[data-i]").forEach((el) => {
+        el.textContent = t(el.getAttribute("data-i"));
+      });
+      const ph = $("#q");
+      if (ph) ph.placeholder = t("searchPh");
+      $("#lang-en").setAttribute("aria-pressed", state.lang === "en" ? "true" : "false");
+      $("#lang-zh").setAttribute("aria-pressed", state.lang === "zh" ? "true" : "false");
+      document.title = state.lang === "zh"
+        ? "林的古文明猜想 — 档案浏览"
+        : "Lin's Ancient Civilization Hypotheses — Archive";
+    }
+
+    function matchQ(hay) {
+      const q = state.q.trim().toLowerCase();
+      if (!q) return true;
+      return hay.toLowerCase().includes(q);
+    }
+
+    function renderCivList() {
+      const ul = $("#civ-list");
+      const items = state.civs.filter((c) => {
+        const blob = [c.id, nameOf(c), c.region, txt(c.summary)].join(" ");
+        return matchQ(blob) || state.selected === c.id;
+      });
+      $("#civ-count").textContent = String(items.length);
+      if (!items.length) {
+        ul.innerHTML = `<li class="empty">${esc(t("emptyTab"))}</li>`;
+        return;
+      }
+      ul.innerHTML = items.map((c) => `
+        <li>
+          <button type="button" data-id="${esc(c.id)}" aria-current="${state.selected === c.id ? "true" : "false"}">
+            <span class="name">${esc(nameOf(c))}</span>
+            <span class="meta">${esc(c.id)} · ${esc(c.status || "")}</span>
+          </button>
+        </li>`).join("");
+      ul.querySelectorAll("button[data-id]").forEach((btn) => {
+        btn.addEventListener("click", () => selectCiv(btn.getAttribute("data-id")));
+      });
+    }
+
+    async function ensureBundle(civId) {
+      if (state.cache[civId]) return state.cache[civId];
+      const [sites, periods, claims] = await Promise.all([
+        api(`/api/v1/sites?civilization=${encodeURIComponent(civId)}&limit=200`),
+        api(`/api/v1/periods?civilization=${encodeURIComponent(civId)}&limit=200`),
+        api(`/api/v1/claims?civilization=${encodeURIComponent(civId)}&limit=200`),
+      ]);
+      const bundle = {
+        sites: sites.items || [],
+        periods: periods.items || [],
+        claims: claims.items || [],
+      };
+      state.cache[civId] = bundle;
+      return bundle;
+    }
+
+    function renderSources(claim) {
+      const srcs = claim.sources || [];
+      if (!srcs.length) {
+        return `<details class="sources"><summary>${esc(t("sources"))}</summary><p>${esc(t("noSources"))}</p></details>`;
+      }
+      const lis = srcs.map((s) => {
+        if (typeof s === "string") {
+          return `<li><span class="id-mono">${esc(s)}</span></li>`;
+        }
+        const cite = s.citation || s.id || "";
+        const tier = s.reliability_tier ? `<span class="tier">${esc(s.reliability_tier)}</span>` : "";
+        const link = s.url ? ` <a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">link</a>` : "";
+        return `<li>${tier}<span class="id-mono">${esc(s.id || "")}</span> — ${esc(cite)}${link}</li>`;
+      }).join("");
+      return `<details class="sources"><summary>${esc(t("sources"))} (${srcs.length})</summary><ol>${lis}</ol></details>`;
+    }
+
+    function renderClaims(claims) {
+      let list = claims;
+      if (state.kind) list = list.filter((c) => c.kind === state.kind);
+      if (state.q.trim()) {
+        list = list.filter((c) => matchQ([c.id, txt(c.statement), c.kind, ...(c.source_ids || [])].join(" ")));
+      }
+      if (!list.length) return `<div class="empty">${esc(t("emptyTab"))}</div>`;
+      return list.map((c) => {
+        const kind = c.kind === "hypothesis" ? "hypothesis" : "fact";
+        const badge = `<span class="badge ${kind}">${esc(kind)}</span>`;
+        const disc = kind === "hypothesis"
+          ? `<div class="disclaimer">${esc(c.disclaimer || t("hypNote"))}</div>`
+          : "";
+        return `<article class="card">
+          <div>${badge}<span class="id-mono">${esc(c.id)}</span></div>
+          <p class="claim-text">${esc(txt(c.statement))}</p>
+          ${disc}
+          ${renderSources(c)}
+        </article>`;
+      }).join("");
+    }
+
+    function renderSites(sites) {
+      let list = sites;
+      if (state.q.trim()) {
+        list = list.filter((s) => matchQ([s.id, nameOf(s), s.region, txt(s.summary), s.kind_note || ""].join(" ")));
+      }
+      if (!list.length) return `<div class="empty">${esc(t("emptyTab"))}</div>`;
+      return list.map((s) => `
+        <article class="card">
+          <h3>${esc(nameOf(s))}</h3>
+          <div class="sub id-mono">${esc(s.id)}${s.region ? " · " + esc(s.region) : ""}</div>
+          <p>${esc(txt(s.summary) || s.kind_note || "")}</p>
+        </article>`).join("");
+    }
+
+    function renderPeriods(periods) {
+      let list = periods;
+      if (state.q.trim()) {
+        list = list.filter((p) => matchQ([p.id, nameOf(p), txt(p.summary), p.time_span || ""].join(" ")));
+      }
+      if (!list.length) return `<div class="empty">${esc(t("emptyTab"))}</div>`;
+      return list.map((p) => `
+        <article class="card">
+          <h3>${esc(nameOf(p))}</h3>
+          <div class="sub id-mono">${esc(p.id)}${p.time_span ? " · " + esc(p.time_span) : ""}</div>
+          <p>${esc(txt(p.summary) || "")}</p>
+        </article>`).join("");
+    }
+
+    async function renderDetail() {
+      const el = $("#detail");
+      if (!state.selected) {
+        el.innerHTML = `<div class="empty">${esc(t("pick"))}</div>`;
+        return;
+      }
+      const civ = state.civs.find((c) => c.id === state.selected);
+      if (!civ) {
+        el.innerHTML = `<div class="empty">${esc(t("pick"))}</div>`;
+        return;
+      }
+      el.innerHTML = `<div class="loading">${esc(t("loading"))}</div>`;
+      try {
+        const bundle = await ensureBundle(civ.id);
+        const tabs = [
+          ["claims", t("claims"), bundle.claims.length],
+          ["sites", t("sites"), bundle.sites.length],
+          ["periods", t("periods"), bundle.periods.length],
+        ];
+        let body = "";
+        if (state.tab === "sites") body = renderSites(bundle.sites);
+        else if (state.tab === "periods") body = renderPeriods(bundle.periods);
+        else body = renderClaims(bundle.claims);
+
+        el.innerHTML = `
+          <div class="detail-inner">
+            <h2 style="margin:0 0 8px;font-size:1.55rem;letter-spacing:-0.02em;">${esc(nameOf(civ))}</h2>
+            <div class="status-row">
+              <span class="pill">${esc(t("status"))}: ${esc(civ.status || "")}</span>
+              <span class="pill id-mono">${esc(civ.id)}</span>
+            </div>
+            <p class="region"><strong>${esc(t("region"))}:</strong> ${esc(civ.region || "—")}</p>
+            <p class="timespan"><strong>${esc(t("time"))}:</strong> ${esc(civ.time_span || "—")}</p>
+            <p class="summary">${esc(txt(civ.summary))}</p>
+            <div class="tabs" role="tablist">
+              ${tabs.map(([id, label, n]) => `
+                <button type="button" class="chip" role="tab" data-tab="${id}"
+                  aria-selected="${state.tab === id ? "true" : "false"}">${esc(label)} (${n})</button>`).join("")}
+            </div>
+            <div>${body}</div>
+          </div>`;
+        el.querySelectorAll("[data-tab]").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            state.tab = btn.getAttribute("data-tab");
+            renderDetail();
+          });
+        });
+      } catch (e) {
+        el.innerHTML = `<div class="err">${esc(t("loadErr"))}</div>`;
+      }
+    }
+
+    async function selectCiv(id) {
+      state.selected = id;
+      renderCivList();
+      await renderDetail();
+    }
+
+    function bind() {
+      $("#lang-en").addEventListener("click", () => {
+        state.lang = "en";
+        localStorage.setItem("lach-ui-lang", "en");
+        applyI18n();
+        renderCivList();
+        renderDetail();
+      });
+      $("#lang-zh").addEventListener("click", () => {
+        state.lang = "zh";
+        localStorage.setItem("lach-ui-lang", "zh");
+        applyI18n();
+        renderCivList();
+        renderDetail();
+      });
+      $("#q").addEventListener("input", (e) => {
+        state.q = e.target.value || "";
+        renderCivList();
+        renderDetail();
+      });
+      $("#kind-filter").querySelectorAll("button[data-kind]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          state.kind = btn.getAttribute("data-kind") || "";
+          $("#kind-filter").querySelectorAll("button").forEach((b) => {
+            b.setAttribute("aria-pressed", b === btn ? "true" : "false");
+          });
+          if (state.tab !== "claims") state.tab = "claims";
+          renderDetail();
+        });
+      });
+    }
+
+    async function boot() {
+      applyI18n();
+      bind();
+      try {
+        const [health, civPage] = await Promise.all([
+          api("/api/v1/healthz"),
+          api("/api/v1/civilizations?limit=200"),
+        ]);
+        state.civs = civPage.items || [];
+        $("#health").textContent = `${health.status} · ${health.civilizations || state.civs.length} civs · v${health.version || ""}`;
+        $("#banner").hidden = true;
+        renderCivList();
+        if (state.civs[0]) await selectCiv(state.civs[0].id);
+      } catch (e) {
+        const b = $("#banner");
+        b.hidden = false;
+        b.textContent = t("loadErr");
+        $("#civ-list").innerHTML = `<li class="empty">${esc(t("loadErr"))}</li>`;
+      }
+    }
+
+    boot();
+  })();
+  </script>
+</body>
+</html>

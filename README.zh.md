@@ -6,11 +6,40 @@
 
 ## 使命
 
-**林的古文明猜想**（英文名：Lin's Ancient Civilization Hypotheses）是一个面向全球古文明的开放资料库与假说板。
+**林的古文明猜想**（英文名：Lin's Ancient Civilization Hypotheses）是一个面向全球古文明的开放**档案 + 只读 API**——人类可读文案是呈现层，不是产品本身。
 
 范围刻意**尽量广**：各大洲、各地区、各类文明——不限于单一遗址或单一河域。我们收集已发表证据、登记来源、把联想记为**明确标注的假说**，并以显式不确定性归档还原与因果说明。
 
 本项目**不是**幻想故事、伪造文物图、或无法核验的「失落文明」虚构之地。每条记录必须有出处。假说就是假说——绝不以定论口吻呈现。
+
+工艺标准：[设计品味](docs/design-taste.zh.md) · [English](docs/design-taste.md)——看见的与看不见的都要过关。
+
+## 为何不是维基百科？
+
+维基在**覆盖面**与大众协作上无可替代。本仓库做的是另一件事：
+
+| | 维基百科 | 本项目 |
+|--|----------|--------|
+| 真值单元 | 叙述性词条 | 结构化档案实体（来源、遗址、分期、器物、主张、媒体） |
+| 事实 vs 猜测 | 常揉进同一文风 | **硬分栏** — `kind: fact` / `kind: hypothesis`，API 与 `/ui` 都可见 |
+| 机器使用 | 抓取 / 转储 | 一等公民**只读 API** + 出处失败即关闭 |
+| 影像 | 社区媒体 | **不上伪造文物图**；权利清楚时媒体仅为外链元数据 |
+
+此处覆盖仍窄。优势只有在密度、闸门与诚实持续加深时才成立。
+
+## 试用 API / UI
+
+```bash
+.venv/bin/pip install -r requirements.txt
+.venv/bin/python tools/export_check.py
+.venv/bin/python -m api.serve
+```
+
+然后打开：
+
+- **浏览 UI：** [http://127.0.0.1:8080/ui](http://127.0.0.1:8080/ui) — 博物馆级克制；双语；事实/假说徽章
+- **接口根：** [http://127.0.0.1:8080/api/v1/](http://127.0.0.1:8080/api/v1/) — 原则优先的服务卡片
+- **OpenAPI：** [http://127.0.0.1:8080/api/v1/docs](http://127.0.0.1:8080/api/v1/docs)
 
 ## 四阶段方法
 
@@ -27,9 +56,9 @@
 
 详见：[`docs/methodology.md`](docs/methodology.md) · 圆桌：[`docs/council.zh.md`](docs/council.zh.md)
 
-## 结构化档案（试点）
+## 结构化档案
 
-产品核心是**档案 + 只读 API**。JSON Schema：[`schemas/`](schemas/)。结构化包：[`data/structured/mesopotamia/`](data/structured/mesopotamia/) · [`data/structured/egypt/`](data/structured/egypt/)。模型：[`docs/archive-data-model.zh.md`](docs/archive-data-model.zh.md)。校验：`.venv/bin/python tools/export_check.py`。本地 API：`.venv/bin/python -m api.serve`（`127.0.0.1:8080`）。
+产品核心是**档案 + 只读 API**。JSON Schema：[`schemas/`](schemas/)。结构化包：[`data/structured/`](data/structured/)。模型：[`docs/archive-data-model.zh.md`](docs/archive-data-model.zh.md)。校验：`.venv/bin/python tools/export_check.py`。设计：[`docs/design-taste.zh.md`](docs/design-taste.zh.md)。
 
 ## 来源分级
 
@@ -48,41 +77,32 @@
 
 ```
 lins-ancient-civilization-hypotheses/
-├── README.md                 # 英文
-├── README.zh.md              # 中文（本文件）
-├── LICENSE                   # MIT
-├── docs/
-│   ├── methodology.md        # 四阶段 + 事实/假说分栏
-│   ├── source-grading.md     # 来源分级与引用
-│   ├── contributing.md       # 贡献规范
-│   ├── architecture.md       # System layers & entity model (EN)
-│   ├── architecture.zh.md    # 架构说明（中文）
-│   ├── council.md            # Deliberation Council (EN)
-│   ├── council.zh.md         # 审议圆桌（中文）
-│   ├── api.md                # Public API design v0 (EN)
-│   ├── api.zh.md             # 开放接口设计 v0（中文）
-│   ├── openapi.v0.yaml       # OpenAPI 草稿（资料库 + 审议）
-│   ├── decisions.md          # Dated project decisions (EN)
-│   ├── decisions.zh.md       # 项目决策记录（中文）
-│   ├── entry-depth.md        # Fact-library depth standard (EN)
-│   └── entry-depth.zh.md     # 事实库条目深度标准（中文）
-├── data/civilizations/       # 事实库条目（含种子空壳、_template.md）
-├── sources/                  # 来源登记（含 _template.md）
-├── hypotheses/               # 假说板（含 _template.md）— 标注 HYPOTHESIS
-├── deliberations/            # 圆桌会话（含 _template.md）— 视角透镜
-└── reconstructions/          # 还原稿（含因果与不确定性，含 _template.md）
+├── README.md / README.zh.md
+├── LICENSE
+├── api/                      # 只读 FastAPI + /ui（api/static/ui.html）
+├── schemas/                  # 档案实体 JSON Schema
+├── data/
+│   ├── civilizations/        # 人类可读事实库 Markdown
+│   └── structured/           # 机读档案包（JSON）
+├── docs/                     # 方法、架构、接口、设计品味、决策
+├── sources/                  # 来源登记
+├── hypotheses/               # 假说板 — 标注 HYPOTHESIS
+├── deliberations/            # 圆桌会话 — 视角透镜
+├── reconstructions/          # 因果与不确定性
+└── tools/export_check.py     # 出处失败即关闭闸门
 ```
 
 模板已明确标为模板；**不会**预填虚构案例。
 
-**资料库状态（2026-10-11）：** `data/civilizations/` 下已有九个文明条目。两河（`civ-mesopotamia`）为深度试点，状态 **`fact-library`**（新加厚模板）；其余仍为 **`library-seed`**，待同等加厚。深度标准：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md)。有日期的拍板见 [`docs/decisions.zh.md`](docs/decisions.zh.md)。
+**资料库状态（2026-10-11）：** 九个文明事实库条目 + `data/structured/` 下结构化包。深度标准：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md)。有日期的拍板见 [`docs/decisions.zh.md`](docs/decisions.zh.md)。
 
+- **设计品味** — 创作者原则 + UI/API/README 清单：[`docs/design-taste.zh.md`](docs/design-taste.zh.md) · [English](docs/design-taste.md)
 - **条目深度** — 必填栏目、来源下限、状态阶梯：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md) · [English](docs/entry-depth.md)
-- **决策记录** — 有日期的范围选择（席位、云端先规范、种子区域、加厚种子）：[`docs/decisions.zh.md`](docs/decisions.zh.md) · [English](docs/decisions.md)
+- **决策记录** — 有日期的范围选择：[`docs/decisions.zh.md`](docs/decisions.zh.md) · [English](docs/decisions.md)
 - **架构** — 分层、实体、不变量、存储路径：[`docs/architecture.zh.md`](docs/architecture.zh.md) · [English](docs/architecture.md)
-- **审议圆桌** — 条目固化前的多透镜审核；对话式面向未来窗口：[`docs/council.zh.md`](docs/council.zh.md) · [English](docs/council.md) · 会话见 [`deliberations/`](deliberations/)
+- **审议圆桌** — 多透镜审核；面向未来窗口：[`docs/council.zh.md`](docs/council.zh.md) · [English](docs/council.md) · [`deliberations/`](deliberations/)
 - **视角透镜（仅引用）** — AI 思维技能，非真人背书：[FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)
-- **开放接口（设计）** — 资料库只读 v0 + 云端优先审议：[`docs/api.zh.md`](docs/api.zh.md) · [English](docs/api.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
+- **开放接口** — 资料库只读 v0 + 云端优先审议（规范）：[`docs/api.zh.md`](docs/api.zh.md) · [English](docs/api.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
 
 ## 贡献规范
 
@@ -92,6 +112,7 @@ lins-ancient-civilization-hypotheses/
 4. **客户 / 成本 / 私密商务数据不上仓。**
 5. **发布或删除本仓库** 须经所有者明确批准。
 6. 优先可开放获取或可明确引用的文献；URL 请注明访问日期。
+7. **设计工艺** — 遵循 [`docs/design-taste.zh.md`](docs/design-taste.zh.md)；勿用装饰掩盖薄档案。
 
 完整说明：[`docs/contributing.md`](docs/contributing.md)
 

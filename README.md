@@ -6,11 +6,40 @@ English | [中文](README.zh.md)
 
 ## Mission
 
-**Lin's Ancient Civilization Hypotheses** (Chinese name: 林的古文明猜想) is an open library and hypothesis board for ancient civilizations worldwide.
+**Lin's Ancient Civilization Hypotheses** (Chinese name: 林的古文明猜想) is an open **archive + read-only API** for ancient civilizations worldwide — with human-readable prose as a presentation layer, not the product itself.
 
 Scope is intentionally **broad**: continents, regions, and cultures across the planet — not limited to any single site or river valley. We collect published evidence, register sources, surface associations as **labeled hypotheses**, and archive reconstructions with explicit uncertainty.
 
 This project is **not** a place for fantasy narratives, forged artifact images, or unverifiable “lost civilization” fiction. Every entry must carry sources. Hypotheses are hypotheses — never presented as established conclusions.
+
+Craft standard: [Design taste](docs/design-taste.md) · [中文](docs/design-taste.zh.md) — quality in what is seen *and* unseen.
+
+## Why not Wikipedia?
+
+Wikipedia is unsurpassed for **breadth** and public collaboration. This repository aims at a different job:
+
+| | Wikipedia | This project |
+|--|-----------|--------------|
+| Unit of truth | Narrative article | Structured archive entities (source, site, period, object, claim, media) |
+| Fact vs guess | Often woven into one prose voice | **Hard split** — `kind: fact` vs `kind: hypothesis`, visible in API and `/ui` |
+| Machine use | Scraping / dumps | First-class **read-only API** + citation fail-closed gate |
+| Imagery | Community media | **No forged artifact images**; media is outbound-link metadata when rights are clear |
+
+Coverage here is still narrow. Advantage only holds if density, gates, and honesty keep growing.
+
+## Try the API / UI
+
+```bash
+.venv/bin/pip install -r requirements.txt
+.venv/bin/python tools/export_check.py
+.venv/bin/python -m api.serve
+```
+
+Then open:
+
+- **Browse UI:** [http://127.0.0.1:8080/ui](http://127.0.0.1:8080/ui) — museum-grade restraint; bilingual; fact/hypothesis badges
+- **API root:** [http://127.0.0.1:8080/api/v1/](http://127.0.0.1:8080/api/v1/) — principle-first service card
+- **OpenAPI:** [http://127.0.0.1:8080/api/v1/docs](http://127.0.0.1:8080/api/v1/docs)
 
 ## Four-stage method
 
@@ -27,9 +56,9 @@ This project is **not** a place for fantasy narratives, forged artifact images, 
 
 Details: [`docs/methodology.md`](docs/methodology.md) · Council: [`docs/council.md`](docs/council.md)
 
-## Structured archive (pilot)
+## Structured archive
 
-Product core is **archive + read-only API**. JSON Schema: [`schemas/`](schemas/). Structured packs: [`data/structured/mesopotamia/`](data/structured/mesopotamia/) · [`data/structured/egypt/`](data/structured/egypt/). Model: [`docs/archive-data-model.md`](docs/archive-data-model.md). Gate: `.venv/bin/python tools/export_check.py`. Local API: `.venv/bin/python -m api.serve` (`127.0.0.1:8080`).
+Product core is **archive + read-only API**. JSON Schema: [`schemas/`](schemas/). Structured packs: [`data/structured/`](data/structured/). Model: [`docs/archive-data-model.md`](docs/archive-data-model.md). Gate: `.venv/bin/python tools/export_check.py`. Design: [`docs/design-taste.md`](docs/design-taste.md).
 
 ## Source grading
 
@@ -48,41 +77,32 @@ How to cite and grade: [`docs/source-grading.md`](docs/source-grading.md)
 
 ```
 lins-ancient-civilization-hypotheses/
-├── README.md                 # English (this file)
-├── README.zh.md              # Chinese
-├── LICENSE                   # MIT
-├── docs/
-│   ├── methodology.md        # Four stages + fact/hypothesis separation
-│   ├── source-grading.md     # Source tiers & citation practice
-│   ├── contributing.md       # How to contribute
-│   ├── architecture.md       # System layers & entity model (EN)
-│   ├── architecture.zh.md    # 架构说明（中文）
-│   ├── council.md            # Deliberation Council (EN)
-│   ├── council.zh.md         # 审议圆桌（中文）
-│   ├── api.md                # Public API design v0 (EN)
-│   ├── api.zh.md             # 开放接口设计 v0（中文）
-│   ├── openapi.v0.yaml       # OpenAPI stub (library + deliberations)
-│   ├── decisions.md          # Dated project decisions (EN)
-│   ├── decisions.zh.md       # 项目决策记录（中文）
-│   ├── entry-depth.md        # Fact-library depth standard (EN)
-│   └── entry-depth.zh.md     # 事实库条目深度标准（中文）
-├── data/civilizations/       # Fact-library entries (+ seed shells, _template.md)
-├── sources/                  # Source registry (+ _template.md)
-├── hypotheses/               # Hypothesis board (+ _template.md) — labeled HYPOTHESIS
-├── deliberations/            # Council sessions (+ _template.md) — perspective lenses
-└── reconstructions/          # Reconstructions with causality & uncertainty (+ _template.md)
+├── README.md / README.zh.md
+├── LICENSE
+├── api/                      # Read-only FastAPI + /ui (api/static/ui.html)
+├── schemas/                  # JSON Schema for archive entities
+├── data/
+│   ├── civilizations/        # Human-readable fact-library Markdown
+│   └── structured/           # Machine-readable packs (JSON)
+├── docs/                     # Method, architecture, API, design taste, decisions
+├── sources/                  # Source registry
+├── hypotheses/               # Hypothesis board — labeled HYPOTHESIS
+├── deliberations/            # Council sessions — perspective lenses
+├── reconstructions/          # Causality & uncertainty
+└── tools/export_check.py     # Citation fail-closed gate
 ```
 
 Templates are marked clearly; they are **not** filled with invented case studies.
 
-**Library status (2026-10-11):** nine civilization entries exist under `data/civilizations/`. Mesopotamia (`civ-mesopotamia`) is the depth pilot at **`fact-library`** under the enriched template; the others remain **`library-seed`** pending the same enrichment. Depth rules: [`docs/entry-depth.md`](docs/entry-depth.md). Dated choices: [`docs/decisions.md`](docs/decisions.md).
+**Library status (2026-10-11):** nine civilization fact-library entries + structured packs under `data/structured/`. Depth rules: [`docs/entry-depth.md`](docs/entry-depth.md). Dated choices: [`docs/decisions.md`](docs/decisions.md).
 
+- **Design taste** — makers’ principles + UI/API/README checklist: [`docs/design-taste.md`](docs/design-taste.md) · [中文](docs/design-taste.zh.md)
 - **Entry depth** — required sections, source minimums, status ladder: [`docs/entry-depth.md`](docs/entry-depth.md) · [中文](docs/entry-depth.zh.md)
-- **Decisions** — dated scope choices (seats, cloud spec-first, seed regions, deepen seeds): [`docs/decisions.md`](docs/decisions.md) · [中文](docs/decisions.zh.md)
+- **Decisions** — dated scope choices: [`docs/decisions.md`](docs/decisions.md) · [中文](docs/decisions.zh.md)
 - **Architecture** — layers, entities, invariants, storage path: [`docs/architecture.md`](docs/architecture.md) · [中文](docs/architecture.zh.md)
-- **Deliberation Council** — multi-lens audit before entries harden; conversational FUTURE_WINDOW: [`docs/council.md`](docs/council.md) · [中文](docs/council.zh.md) · sessions in [`deliberations/`](deliberations/)
+- **Deliberation Council** — multi-lens audit; FUTURE_WINDOW: [`docs/council.md`](docs/council.md) · [中文](docs/council.zh.md) · [`deliberations/`](deliberations/)
 - **Perspective lenses (by reference)** — AI thinking skills, not real-person endorsement: [FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)
-- **Public API (design)** — library read-only v0 + cloud-first deliberations: [`docs/api.md`](docs/api.md) · [中文](docs/api.zh.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
+- **Public API** — library read-only v0 + cloud-first deliberations (spec): [`docs/api.md`](docs/api.md) · [中文](docs/api.zh.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
 
 ## Contribution norms
 
@@ -92,6 +112,7 @@ Templates are marked clearly; they are **not** filled with invented case studies
 4. **No client / cost / private business data** in this repo.
 5. **Publish or delete this repository** only with the owner's explicit approval.
 6. Prefer open-access or clearly citable references; note access dates for URLs.
+7. **Design craft** — follow [`docs/design-taste.md`](docs/design-taste.md); do not paper over thin archive with decoration.
 
 Full guide: [`docs/contributing.md`](docs/contributing.md)
 
