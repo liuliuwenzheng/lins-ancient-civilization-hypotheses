@@ -1,0 +1,23 @@
+---
+id: src-aegean-evans-palace-of-minos-1921
+type: excavation-report
+citation: "Evans, Arthur. 1921–1935. The Palace of Minos: A Comparative Account of the Successive Stages of the Early Cretan Civilization as Illustrated by the Discoveries at Knossos. 4 vols. in multiple parts. London: Macmillan and Co. Index by Joan Evans, 1936. Digitized set: Heidelberg UB (urn:nbn:de:bsz:16-diglit-17521)."
+url: "https://digi.ub.uni-heidelberg.de/diglit/evans1921ga"
+access_date: "2026-10-11"
+reliability_tier: P
+notes: "Historical primary excavation / publication of Knossos by Sir Arthur Evans. Vol. 1 (1921) covers Neolithic and Early–Middle Minoan Ages; later volumes through Late Minoan palatial phases; Vol. 4 Pt. 2 discusses Linear Script B among other topics. Heidelberg digital facsimile confirmed 2026-10-11 (landing page). CRITICAL: Evans’s restorations, ‘Palace of Minos’ narrative, and thalassocracy-leaning interpretations are historically influential but often revised by later fieldwork and critique — use for find contexts and periodization as published, and cross-check with Dickinson 1994 / Shelmerdine 2008 for modern framing. No page-level artifact claims in this seed beyond the work’s stated Knossos scope."
+---
+
+# Source: `src-aegean-evans-palace-of-minos-1921`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report (historical) |
+| Tier | P |
+| Citation | Evans, Arthur. 1921–1935. *The Palace of Minos* (4 vols.). London: Macmillan. |
+| URL | https://digi.ub.uni-heidelberg.de/diglit/evans1921ga |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Primary Knossos publication. Absolute dates, restoration drawings, and political narratives in Evans may not match current consensus. Label as historical P whenever cited in the fact library.

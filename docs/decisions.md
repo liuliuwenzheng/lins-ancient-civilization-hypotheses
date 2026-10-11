@@ -75,3 +75,9 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 **Decision:** After Indus Valley, fill `civ-china-bronze` (Central Plains Erlitou / Shang–Zhou bronze overview) and `civ-sanxingdui` (Guanghan, Sichuan) from draft shells to `library-seed` as the next chronological East Asian batch.
 
 **Notes:** Registered Thorp 1991 (Erlitou “minimal” definition; Xia historicity not assumed), Liu & Chen 2003 (state formation ~1800–1400 BCE; metal and salt), Flad & Chen 2013 (Yangzi Late Neolithic → end of Bronze Age), Bagley 1987 (Shang ritual bronzes); for Sanxingdui, Sichuan 1999 pit report (P), Ge & Linduff 1990, Bagley 1988, Li et al. 2022 Antiquity (~12 km²; c. 2700–1000 BC; 1986 Pits 1–2; new pits and Pit 4 radiocarbon). Xia historicity, Sanxingdui–Shang polity identity, and disputed pit chronologies kept in Notes. No forged images or invented page numbers.
+
+### D-2026-10-11-9 — Aegean Bronze Age filled as next chronological library-seed
+
+**Decision:** After China Bronze overview + Sanxingdui, fill `civ-aegean` from draft shell to `library-seed` as the next chronological East Mediterranean / European batch (Early–Late Bronze Age Aegean overview: Cyclades / Minoan Crete / Mycenaean mainland).
+
+**Notes:** Registered Dickinson 1994 (CUP synthesis; ~3000–1000 BC), Shelmerdine ed. 2008 (Companion; c. 3000–1100 BCE; Crete / mainland / islands), Broodbank 2000 (Early Cyclades), Manning et al. 2006 *Science* (Thera late 17th c. BCE; LM IA–II high-chronology case — debate open), Evans *Palace of Minos* 1921–1935 (historical P; restoration caveats), Blegen & Rawson 1966 (Palace of Nestor / Englianos P), Ventris & Chadwick 1956 (Linear B = Mycenaean Greek), Salgarella 2022 OCD (Linear A undeciphered; tier T orientation only). Thalassocracy and high vs low absolute chronology kept in Notes as open debate. Not a single-palace entry. No forged images or invented page numbers.
