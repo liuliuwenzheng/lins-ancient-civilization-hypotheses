@@ -99,3 +99,9 @@
 **决定：** 在两河试点加厚之后，按完整加厚模板重写 `civ-ancient-egypt`，状态升为 **`fact-library`**。
 
 **说明：** 保留原有三条来源（Shaw 2000；Wilkinson 1999；Midant-Reynes 2000），并新登记十二条已核验来源（Kemp 2006；Bard 2015；Trigger 等 1983；Lehner 1997；Wengrow 2006；Butzer 1976；Allen 2014；Petrie《王陵》1900–1901 P；Quibell《希拉孔波利斯》1900 P；Quibell & Green 1902 P；Hoffman 1979；Edwards 1993）——合计 **15** 条 `src-*`。深度焦点：前王朝→早王朝→古王国（地理/尼罗河；年表；阿拜多斯、希拉孔波利斯、孟斐斯、萨卡拉、吉萨谨慎书写；国家形成；象形文字；经济；物质文化；对外接触；研究史）。纳尔迈/「统一」在 Notes 中作过程 + 有争议图像解读——不作单次事件定论。不编造页码；不伪造文物图。正直优先于速度。
+
+### D-2026-10-11-13 — 安第斯（卡拉尔–北奇科）加厚至 fact-library
+
+**决定：** 在两河与古埃及加厚之后，按完整加厚模板重写 `civ-andes`，状态升为 **`fact-library`**。
+
+**说明：** 保留原有四条来源（Shady/Haas/Creamer *Science* 2001；Haas/Creamer/Ruiz *Nature* 2004；Shady & Leyva 2003；Shady 1997），并新登记十一条已核验来源（Creamer/Ruiz/Haas 帕蒂维尔卡 *Fieldiana* 2007 P；Creamer 等福塔莱萨 *Fieldiana* 2013 P；Haas 等 *PNAS* 玉米 2013；Moseley & Willey 阿斯佩罗 1973；Moseley 海洋生计基础 1975；Raymond 再检讨 1981；Haas & Creamer in Silverman 2004；Feldman in Haas/Pozorski/Pozorski 1987；Quilter 帕洛马 1989 比较；Burger 查文 1995 后续取向；教科文卡拉尔–苏佩名录 2009 T）——合计 **15** 条 `src-*`。深度焦点：北奇科晚古风地理；年表；卡拉尔、阿斯佩罗、卡瓦列特、瓦里坎加及邻谷试掘；纪念性建筑（平台丘、沉陷圆形广场、shicra、huancas）；无陶/未证实文字；灌溉 + 有争议的海洋模型 + 玉米多证据；仅区域内海岸—河谷互动；研究史。城市 vs 礼仪中心 / 国家 vs 复杂社会 / 海洋生计基础 / 玉米主粮程度一律留在 Notes。范围不含更晚安第斯帝国。不编造页码；不伪造文物图。正直优先于速度。
