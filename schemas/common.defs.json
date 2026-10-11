@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/common.defs.json",
+  "title": "Shared definitions for LACH archive entities",
+  "$defs": {
+    "LocalizedString": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "zh": { "type": "string" },
+        "en": { "type": "string" },
+        "native": { "type": ["string", "null"] }
+      }
+    },
+    "ReliabilityTier": {
+      "type": "string",
+      "enum": ["P", "S", "T", "U"]
+    },
+    "SourceId": {
+      "type": "string",
+      "pattern": "^src-[a-z0-9-]+$"
+    },
+    "SourceRef": {
+      "type": "object",
+      "required": ["id"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/SourceId" },
+        "reliability_tier": { "$ref": "#/$defs/ReliabilityTier" },
+        "citation": { "type": "string" },
+        "url": { "type": ["string", "null"] }
+      }
+    },
+    "TimeApprox": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "label": { "type": "string", "description": "Human-readable span as published in cited scheme" },
+        "approx_from_bce": { "type": ["integer", "null"], "description": "Coarse BCE year if cited; null if not asserted" },
+        "approx_to_bce": { "type": ["integer", "null"] },
+        "scheme_note": { "type": ["string", "null"], "description": "Which author's framing; not a unique calendar" }
+      }
+    },
+    "Rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["unknown", "outbound-link-only", "rights-cleared", "forbidden-unverified-upload"]
+        },
+        "license": { "type": ["string", "null"] },
+        "attribution": { "type": ["string", "null"] },
+        "upstream_url": { "type": ["string", "null"] },
+        "notes": { "type": ["string", "null"] }
+      }
+    },
+    "EditorialProvenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "derived_from": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Paths or ids of MD / registry records this JSON was derived from"
+        },
+        "derived_on": { "type": "string", "format": "date" },
+        "notes": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "period-early-dynastic",
+  "entity": "period",
+  "names": {
+    "zh": "早王朝",
+    "en": "Early Dynastic"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "Nissen: ca. 2800–2350 BCE ‘rival city-states’",
+    "approx_from_bce": 2800,
+    "approx_to_bce": 2350,
+    "scheme_note": "Nissen 1988; Van De Mieroop 2015 narrative orientation"
+  },
+  "summary": {
+    "zh": "城邦竞争期（Nissen「对立城邦期」框）。",
+    "en": "Rival city-states band in Nissen’s scheme."
+  },
+  "sources": [
+    "src-mesopotamia-nissen-1988",
+    "src-mesopotamia-van-de-mieroop-2015"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "claim-meso-cylinder-seals-admin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "圆柱印章是古代近东行政封泥与身份/图像传统的重要介质（Collon 博物馆综述）。",
+    "en": "Cylinder seals are a major medium of administrative sealing and imagery in the ancient Near East (Collon museum survey)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cylinder-seals-ane"
+  ],
+  "sources": [
+    "src-mesopotamia-collon-1987"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

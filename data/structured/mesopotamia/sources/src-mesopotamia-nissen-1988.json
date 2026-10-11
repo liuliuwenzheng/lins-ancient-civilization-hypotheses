@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-nissen-1988",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Nissen, Hans J. 1988. The Early History of the Ancient Near East, 9000–2000 B.C. Translated by Elizabeth Lutzeier with Kenneth J. Northcott. Chicago; London: University of Chicago Press. ISBN 978-0-226-61832-6 (pbk commonly listed); ebook ISBN 978-0-226-18269-8.",
+  "url": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo5956299.html",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "English translation of Nissen’s synthesis from early settlement through first territorial states. TOC period bands (publisher page, accessed 2026-10-11): settlement ca. 9000–6000; town networks ca. 6000–3200; early high civilization ca. 3200–2800; rival city-states ca. 2800–2350; first territorial states ca. 2350–2000 BCE. Page-level claims not added without inspecting the edition. IA catalog also lists the volume: https://archive.org/details/earlyhistoryofan00hans",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-nissen-1988.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

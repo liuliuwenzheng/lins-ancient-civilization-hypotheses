@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-woolley-ur-iv-1955",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Woolley, Leonard. 1955. Ur Excavations. Volume IV: The Early Periods. A Report on the Sites and Objects Prior in Date to the Third Dynasty of Ur Discovered in the Course of the Excavations. Published for the Trustees of the British Museum and of the Museum of the University of Pennsylvania (with aid of a grant from the Johnson Fund of the American Philosophical Society). Philadelphia.",
+  "url": "https://archive.org/details/ur-excavations-iv.-the-early-periods_202105",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary excavation report of the Joint Expedition (British Museum + University Museum, Pennsylvania) to Ur. Covers sequences and finds prior to Ur III. Dating frameworks have been refined by later scholarship — use for find contexts and periodization as published in 1955, and cross-check with modern secondary syntheses for absolute chronology. Digitized copy on Internet Archive (accessed 2026-10-11).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-woolley-ur-iv-1955.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

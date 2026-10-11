@@ -1,0 +1,41 @@
+{
+  "id": "asm-ur-early-periods-ue4",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌尔早期层位器物（Woolley UE IV）",
+    "en": "Ur early-period objects (Woolley UE IV)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-ur"
+  ],
+  "period_ids": [
+    "period-ur-iii"
+  ],
+  "summary": {
+    "zh": "Woolley《乌尔发掘》IV 记录乌尔三朝之前的遗址与器物材料；1955 年年代框架须与现代综合对照。",
+    "en": "Woolley UE IV records pre–Ur III contexts and finds; 1955 chronology needs modern cross-check."
+  },
+  "sources": [
+    "src-mesopotamia-woolley-ur-iv-1955"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Woolley 1955 Ur Excavations IV",
+    "upstream_url": "https://archive.org/details/ur-excavations-iv.-the-early-periods_202105",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Material culture § in civ-mesopotamia.md"
+  }
+}

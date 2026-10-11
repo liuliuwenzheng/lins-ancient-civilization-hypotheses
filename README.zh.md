@@ -27,6 +27,10 @@
 
 详见：[`docs/methodology.md`](docs/methodology.md) · 圆桌：[`docs/council.zh.md`](docs/council.zh.md)
 
+## 结构化档案（试点）
+
+产品核心是**档案 + 只读 API**。JSON Schema 草稿见 [`schemas/`](schemas/)。首个结构化试点：[`data/structured/mesopotamia/`](data/structured/mesopotamia/)（仅派生自两河事实库 MD + 已登记来源）。模型：[`docs/archive-data-model.zh.md`](docs/archive-data-model.zh.md)。校验：`.venv/bin/python tools/export_check.py`。
+
 ## 来源分级
 
 每条来源都要登记并分级。大致档次：

@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-potts-1997",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Potts, D. T. 1997. Mesopotamian Civilization: The Material Foundations. Ithaca, N.Y.: Cornell University Press. ISBN 0-8014-3339-8 / 978-0-8014-3339-9. xx + 366 pp.",
+  "url": "https://cornellpress.cornell.edu/book/9780801433399/mesopotamian-civilization/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Material-culture and environmental foundations of southern Mesopotamia, emphasizing 3rd-millennium evidence (agriculture, resources, technology, urban life). Internet Archive catalog: https://archive.org/details/mesopotamiancivi0000pott (accessed 2026-10-11). Page numbers not cited without inspection.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-potts-1997.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

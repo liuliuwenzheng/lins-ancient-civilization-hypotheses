@@ -1,0 +1,33 @@
+{
+  "id": "period-ubaid",
+  "entity": "period",
+  "names": {
+    "zh": "欧贝德",
+    "en": "Ubaid"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "Southern Neolithic–Chalcolithic tradition; often pre-Uruk; falls in early part of Pollock ~5000–2100 BCE frame",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Pollock 1999 framing + Crawford 2013 handbook orientation; precise endpoints not asserted here"
+  },
+  "summary": {
+    "zh": "南部新石器–铜石传统，常作乌鲁克前序；细节见手册。",
+    "en": "Southern Neolithic–Chalcolithic tradition, often treated as pre-Uruk; details via handbook."
+  },
+  "sources": [
+    "src-mesopotamia-pollock-1999",
+    "src-mesopotamia-crawford-sumerian-world-2013"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

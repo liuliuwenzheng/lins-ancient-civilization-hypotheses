@@ -1,0 +1,32 @@
+{
+  "id": "period-settlement-to-town-nissen",
+  "entity": "period",
+  "names": {
+    "zh": "从孤立聚落到城镇网络",
+    "en": "Settlement → town networks"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "ca. 6000–3200 BCE (incl. pre-Uruk complexification)",
+    "approx_from_bce": 6000,
+    "approx_to_bce": 3200,
+    "scheme_note": "Nissen 1988"
+  },
+  "summary": {
+    "zh": "Nissen：聚落向城镇网络发展（含乌鲁克前复杂化）。",
+    "en": "Nissen: settlement to town networks including pre-Uruk complexification."
+  },
+  "sources": [
+    "src-mesopotamia-nissen-1988"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

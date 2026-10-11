@@ -1,0 +1,32 @@
+{
+  "id": "period-pollock-research-window",
+  "entity": "period",
+  "names": {
+    "zh": "Pollock 研究总框",
+    "en": "Pollock research window"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "~5000–2100 BCE (author’s framing for early state/urban societies)",
+    "approx_from_bce": 5000,
+    "approx_to_bce": 2100,
+    "scheme_note": "Pollock 1999 — author’s research window, not a cultural period name"
+  },
+  "summary": {
+    "zh": "Pollock 对其早期国家/城市社会的研究窗，非单一文化期名。",
+    "en": "Author’s research window for early state/urban societies, not a single culture-period label."
+  },
+  "sources": [
+    "src-mesopotamia-pollock-1999"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

@@ -8,8 +8,10 @@ info:
     person_endorsement=false. Markdown in git is the source of truth for
     published library + deliberation trails. Archive entity
     collections (sites, periods, objects, claims, media) are design-sketched
-    for the archive+API product; empty until structured pilot export.
-  version: 0.0.3
+    for the archive+API product. JSON Schema drafts live in /schemas/;
+    Mesopotamia structured pilot under data/structured/mesopotamia/ (gate:
+    tools/export_check.py). Hosted responses may stay empty until export wires.
+  version: 0.0.4
   license:
     name: MIT
     url: https://github.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/blob/main/LICENSE

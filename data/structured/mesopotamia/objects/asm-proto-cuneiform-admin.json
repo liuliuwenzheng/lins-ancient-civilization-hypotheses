@@ -1,0 +1,45 @@
+{
+  "id": "asm-proto-cuneiform-admin",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "原始楔形文字行政文书传统（组合级）",
+    "en": "Proto-cuneiform administrative tablet tradition (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk",
+    "period-jemdet-nasr"
+  ],
+  "summary": {
+    "zh": "晚乌鲁克至杰姆代特奈斯尔阶段的原始楔形文字行政记账传统；具体泥板应引用 CDLI 文物页/馆藏号，本记录不编造 P 编号。",
+    "en": "Late Uruk to Jemdet Nasr proto-cuneiform administrative bookkeeping tradition; cite CDLI artifact pages/museum numbers for specific tablets — no invented P-numbers."
+  },
+  "sources": [
+    "src-mesopotamia-nissen-damerow-englund-1993",
+    "src-mesopotamia-cdli"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://cdli.earth/",
+    "notes": "No binary hosted; point to CDLI catalog for images/records."
+  },
+  "media_ids": [
+    "media-cdli-catalog"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Material culture § in civ-mesopotamia.md"
+  }
+}

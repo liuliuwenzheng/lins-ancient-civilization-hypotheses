@@ -234,7 +234,7 @@ GET /search?q=...&kind=fact&region=...&limit=20
 - 器物/媒体含 `rights`（许可、署名、上游 URL）；在权利包到位前 Media 表可为空。
 - 假说类主张必须带 `kind: "hypothesis"` + `disclaimer`；事实主张须可解析到 `src-*`。
 - 筛选：`civilization`、`site`、`period`、`region`、`source_tier`、`q`，游标分页。
-- v0 在两河结构化试点落地前可返回空集合。
+- 两河结构化试点：[`data/structured/mesopotamia/`](../data/structured/mesopotamia/) · schemas：[`schemas/`](../schemas/) · 数据模型：[`archive-data-model.zh.md`](archive-data-model.zh.md) · 闸门：[`tools/export_check.py`](../tools/export_check.py)。托管 API 在导出接通前仍可返回空集合。
 
 
 ## 5. 鉴权

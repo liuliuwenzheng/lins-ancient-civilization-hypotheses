@@ -137,3 +137,9 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 **Immediate next (testable):** JSON Schema and/or SQLite DDL; export pipeline from MD + sidecars with citation fail-closed; OpenAPI archive paths (`/sites`, `/periods`, `/objects`, `/claims`, `/media`); one pilot civilization fully structured (prefer `civ-mesopotamia`). Cloud deliberation stays spec-first (D-2026-10-11-2 unchanged). No forged artifact images.
 
 **Notes:** Refines D-2026-10-11-4 — git Markdown remains published editorial authority; gated `export/` becomes the API serving form (no silent dual-write). Architecture: Archive layer section. API: §4.6. OpenAPI bumped for archive collections.
+
+### D-2026-10-11-18 — Schema drafts + Mesopotamia structured pilot started
+
+**Decision:** Implement FUTURE_WINDOW items from [`delib-2026-10-11-archive-api-direction`](../deliberations/delib-2026-10-11-archive-api-direction.md) / D-2026-10-11-17: land JSON Schema drafts under [`schemas/`](../schemas/), bilingual data-model docs [`archive-data-model.md`](archive-data-model.md), structured pilot at [`data/structured/mesopotamia/`](../data/structured/mesopotamia/), and citation fail-closed checker [`tools/export_check.py`](../tools/export_check.py).
+
+**Notes:** Pilot JSON is derived **only** from `civ-mesopotamia.md` + registered `src-mesopotamia-*`. No new archaeological claims; no forged images; hypothesis claims labeled. OpenAPI archive paths already sketched (§4.6); docs now point at schemas + pilot. Run: `.venv/bin/python tools/export_check.py`.

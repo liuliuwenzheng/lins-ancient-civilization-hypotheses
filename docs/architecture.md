@@ -97,7 +97,7 @@ Rules:
 4. API list/filter/get archive entities; every item carries `sources[]`; hypotheses never auto-promote to facts.
 5. No forged artifact images; Media entries require clear rights (metadata + outbound links acceptable in v0).
 
-Decision: [`decisions.md` D-2026-10-11-17](decisions.md). Deliberation trail: [`../deliberations/delib-2026-10-11-archive-api-direction.md`](../deliberations/delib-2026-10-11-archive-api-direction.md).
+Decision: [`decisions.md` D-2026-10-11-17](decisions.md). Schemas: [`../schemas/`](../schemas/). Pilot: [`../data/structured/mesopotamia/`](../data/structured/mesopotamia/). Model: [`archive-data-model.md`](archive-data-model.md). Gate: `tools/export_check.py`. Decision D-2026-10-11-18. Deliberation trail: [`../deliberations/delib-2026-10-11-archive-api-direction.md`](../deliberations/delib-2026-10-11-archive-api-direction.md).
 
 ## Storage today
 

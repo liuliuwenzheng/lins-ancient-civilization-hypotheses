@@ -1,0 +1,32 @@
+{
+  "id": "period-early-high-civilization-nissen",
+  "entity": "period",
+  "names": {
+    "zh": "早期高度文明（Nissen）",
+    "en": "Early high civilization (Nissen)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "ca. 3200–2800 BCE (overlaps Late Uruk / Jemdet Nasr–early ED)",
+    "approx_from_bce": 3200,
+    "approx_to_bce": 2800,
+    "scheme_note": "Cite as Nissen’s chapter scheme, not unique standard calendar"
+  },
+  "summary": {
+    "zh": "与晚乌鲁克/杰姆代特奈斯尔—早王朝初过渡带重叠；须标明为 Nissen 框架。",
+    "en": "Overlaps Late Uruk / Jemdet Nasr–early ED transition; Nissen’s scheme only."
+  },
+  "sources": [
+    "src-mesopotamia-nissen-1988"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

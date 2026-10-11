@@ -1,0 +1,32 @@
+{
+  "id": "media-cdli-catalog",
+  "entity": "media",
+  "title": {
+    "zh": "楔形文字数字图书馆计划（CDLI）目录入口",
+    "en": "Cuneiform Digital Library Initiative (CDLI) catalog entry point"
+  },
+  "media_type": "external-catalog",
+  "external_url": "https://cdli.earth/",
+  "local_path": null,
+  "object_ids": [
+    "asm-proto-cuneiform-admin"
+  ],
+  "sources": [
+    "src-mesopotamia-cdli"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "CDLI project / contributing museums",
+    "upstream_url": "https://cdli.earth/",
+    "notes": "Outbound catalog only. Individual image rights remain with museums/CDLI. No unverified uploads; no forged artifact images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Writing § + Sources § CDLI"
+  }
+}

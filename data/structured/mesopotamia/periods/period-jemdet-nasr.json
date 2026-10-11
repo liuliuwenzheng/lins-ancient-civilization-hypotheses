@@ -1,0 +1,33 @@
+{
+  "id": "period-jemdet-nasr",
+  "entity": "period",
+  "names": {
+    "zh": "杰姆代特奈斯尔",
+    "en": "Jemdet Nasr"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "Post–Late Uruk, pre–Early Dynastic transitional horizon (linked to late proto-cuneiform)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Nissen–Damerow–Englund 1993; Crawford handbook orientation"
+  },
+  "summary": {
+    "zh": "晚乌鲁克之后、早王朝之前的过渡视界。",
+    "en": "Transitional horizon after Late Uruk and before Early Dynastic."
+  },
+  "sources": [
+    "src-mesopotamia-nissen-damerow-englund-1993",
+    "src-mesopotamia-crawford-sumerian-world-2013"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

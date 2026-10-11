@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/civilization.schema.json",
+  "title": "Civilization (archive aggregate view)",
+  "type": "object",
+  "required": ["id", "entity", "kind", "status", "names", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^civ-[a-z0-9-]+$" },
+    "entity": { "const": "civilization" },
+    "kind": { "const": "fact" },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "library-seed", "library-seed-rich", "fact-library"]
+    },
+    "names": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "region": { "type": ["string", "null"] },
+    "time_span": { "type": ["string", "null"] },
+    "summary": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common.defs.json#/$defs/SourceId" },
+      "minItems": 1
+    },
+    "site_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^site-[a-z0-9-]+$" }
+    },
+    "period_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^period-[a-z0-9-]+$" }
+    },
+    "claim_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^claim-[a-z0-9-]+$" }
+    },
+    "object_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^(obj|asm)-[a-z0-9-]+$" }
+    },
+    "related_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "markdown_path": { "type": ["string", "null"] },
+    "editorial": { "$ref": "common.defs.json#/$defs/EditorialProvenance" }
+  }
+}

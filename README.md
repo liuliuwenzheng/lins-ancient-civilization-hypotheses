@@ -27,6 +27,10 @@ This project is **not** a place for fantasy narratives, forged artifact images, 
 
 Details: [`docs/methodology.md`](docs/methodology.md) · Council: [`docs/council.md`](docs/council.md)
 
+## Structured archive (pilot)
+
+Product core is **archive + read API**. JSON Schema drafts live in [`schemas/`](schemas/). First structured pilot: [`data/structured/mesopotamia/`](data/structured/mesopotamia/) (derived only from the Mesopotamia fact-library MD + registered sources). Model: [`docs/archive-data-model.md`](docs/archive-data-model.md). Validate: `.venv/bin/python tools/export_check.py`.
+
 ## Source grading
 
 Every source is registered and graded. Rough tiers:

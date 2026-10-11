@@ -1,0 +1,33 @@
+{
+  "id": "period-akkad",
+  "entity": "period",
+  "names": {
+    "zh": "阿卡德",
+    "en": "Akkad"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "Nissen: early part of ca. 2350–2000 BCE ‘first territorial states’ frame",
+    "approx_from_bce": 2350,
+    "approx_to_bce": null,
+    "scheme_note": "Nissen 1988; Van De Mieroop 2015 — terminal year within band not separately asserted here"
+  },
+  "summary": {
+    "zh": "早期领土国家框架前段（Nissen）。",
+    "en": "Early territorial-state framing (Nissen)."
+  },
+  "sources": [
+    "src-mesopotamia-nissen-1988",
+    "src-mesopotamia-van-de-mieroop-2015"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

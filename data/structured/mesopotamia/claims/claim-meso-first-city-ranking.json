@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-first-city-ranking",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "是否应将某一两河遗址评为「世界第一座城市」——Liverani 书名式论题是分析框架，本库不采纳为全球排名定论。",
+    "en": "Whether any single Mesopotamian site should be ranked ‘the world’s first city’ — Liverani’s title is an analytical framing, not adopted here as a global ranking."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-liverani-uruk-2006"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / scholarly model label, not an established historical or archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

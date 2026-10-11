@@ -98,7 +98,7 @@ Deliberation.seats[]  →引用→  FHLS-perspectives 文件夹 slug（外部）
 4. API 对档案实体做 list/filter/get；每条带 `sources[]`；假说绝不自动升格为事实。
 5. 不上伪造文物图；Media 须权利清晰（v0 可用元数据 + 外链）。
 
-决定：[`decisions.zh.md` D-2026-10-11-17](decisions.zh.md)。审议轨迹：[`../deliberations/delib-2026-10-11-archive-api-direction.md`](../deliberations/delib-2026-10-11-archive-api-direction.md)。
+决定：[`decisions.zh.md` D-2026-10-11-17](decisions.zh.md)。 Schemas：[`../schemas/`](../schemas/)。试点：[`../data/structured/mesopotamia/`](../data/structured/mesopotamia/)。模型：[`archive-data-model.zh.md`](archive-data-model.zh.md)。闸门：`tools/export_check.py`。决定 D-2026-10-11-18。审议轨迹：[`../deliberations/delib-2026-10-11-archive-api-direction.md`](../deliberations/delib-2026-10-11-archive-api-direction.md)。
 
 ## 今日存储
 

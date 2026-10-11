@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-uruk-key-horizon",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "第四千纪乌鲁克阶段是讨论南部早期城市化、复杂行政与对外联系的关键节点。",
+    "en": "The 4th-millennium Uruk period is a key horizon for southern urbanization, administration, and external linkage."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-algaze-2008",
+    "src-mesopotamia-liverani-uruk-2006",
+    "src-mesopotamia-pollock-1999"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

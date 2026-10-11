@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-uruk-expansion-model",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "第四千纪「乌鲁克扩张」可作为讨论南部两河与周边地区物质文化联系的学术模型（Algaze 等）；其性质（殖民/仿效/贸易/多因互动）仍有修订与批评空间。",
+    "en": "The 4th-millennium ‘Uruk expansion’ is a scholarly model for southern Mesopotamian interaction with surrounding regions (Algaze et al.); character (colony / emulation / trade / multi-causal) remains open to revision/critique."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-algaze-2008",
+    "src-mesopotamia-liverani-uruk-2006"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / scholarly model label, not an established historical or archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

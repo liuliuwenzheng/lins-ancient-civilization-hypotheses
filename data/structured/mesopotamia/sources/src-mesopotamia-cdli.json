@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-cdli",
+  "entity": "source",
+  "type": "digital-corpus",
+  "citation": "Cuneiform Digital Library Initiative (CDLI). Ongoing. Open catalog of cuneiform artifacts (including proto-cuneiform / archaic texts), with museum provenances, periods, and images where available. Project historically associated with UCLA / partners; public site https://cdli.earth/ (accessed 2026-10-11).",
+  "url": "https://cdli.earth/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Living digital catalog aggregating museum and excavation tablet records. Treat individual artifact pages as primary catalog entries (check period labels and museum numbers on the artifact record). Not a substitute for excavation reports when claiming findspot context. Englund and collaborators’ archaic-text editions are closely linked to CDLI publication records.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-cdli.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

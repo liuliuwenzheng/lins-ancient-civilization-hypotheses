@@ -1,0 +1,27 @@
+{
+  "id": "claim-meso-potts-alluvial-foundations",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "南部冲积平原的农业、畜牧及相关手工业须参照具体河流水文与土壤条件理解（Potts 物质基础综合）。",
+    "en": "Southern alluvial agriculture, animal husbandry, and related crafts must be understood against specific river regimes and soil conditions (Potts)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-potts-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

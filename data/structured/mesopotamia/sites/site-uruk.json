@@ -1,0 +1,32 @@
+{
+  "id": "site-uruk",
+  "entity": "site",
+  "names": {
+    "zh": "乌鲁克（瓦尔卡）",
+    "en": "Uruk (Warka)",
+    "native": null
+  },
+  "kind_note": "mega-site; early urbanization and proto-cuneiform administration focus",
+  "region": "Southern Mesopotamia / southern Iraq (alluvial lowland)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "南部早期城市化与原始楔形文字行政的关键巨型遗址；德国考古队长期发掘，AUWE 系列正式报告（含 Finkbeiner 1982–1984 地表调查）。",
+    "en": "Key southern mega-site for early urbanization and proto-cuneiform administration; long-running German excavations with AUWE final reports, including Finkbeiner’s 1982–1984 surface survey."
+  },
+  "sources": [
+    "src-mesopotamia-finkbeiner-uruk-auwe4-1991",
+    "src-mesopotamia-algaze-2008",
+    "src-mesopotamia-liverani-uruk-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § Uruk; coordinates not asserted in civ MD."
+  }
+}

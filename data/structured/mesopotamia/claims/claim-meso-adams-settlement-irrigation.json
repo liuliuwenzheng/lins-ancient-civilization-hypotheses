@@ -1,0 +1,29 @@
+{
+  "id": "claim-meso-adams-settlement-irrigation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Adams 的区域地表调查综合重建幼发拉底中部洪泛平原上的聚落与灌渠/土地利用格局。",
+    "en": "Adams’s survey synthesis reconstructs settlement and irrigation/land-use patterning on the central Euphrates floodplain."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-euphrates-central-floodplain-survey"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-adams-1981"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

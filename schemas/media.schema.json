@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/media.schema.json",
+  "title": "Media",
+  "description": "Rights metadata. External URL allowed. Unverified uploads forbidden. No forged artifact images.",
+  "type": "object",
+  "required": ["id", "entity", "rights"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^media-[a-z0-9-]+$" },
+    "entity": { "const": "media" },
+    "title": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "media_type": {
+      "type": "string",
+      "enum": ["external-catalog", "outbound-image-ref", "document-link", "other"]
+    },
+    "external_url": {
+      "type": ["string", "null"],
+      "description": "Preferred v0: outbound link only"
+    },
+    "local_path": {
+      "type": ["null"],
+      "description": "Must be null in v0 — unverified uploads forbidden"
+    },
+    "object_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^(obj|asm)-[a-z0-9-]+$" }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common.defs.json#/$defs/SourceId" }
+    },
+    "rights": { "$ref": "common.defs.json#/$defs/Rights" },
+    "editorial": { "$ref": "common.defs.json#/$defs/EditorialProvenance" }
+  }
+}

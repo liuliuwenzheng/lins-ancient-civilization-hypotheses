@@ -1,0 +1,29 @@
+{
+  "id": "claim-meso-pollock-window",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Susan Pollock 的综合将该区早期国家/城市社会的主要时段大致框在约公元前 5000–2100 年（作者框架）。",
+    "en": "Pollock’s synthesis frames early state/urban developments over roughly 5000–2100 BCE (author’s framing)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-pollock-research-window"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-pollock-1999"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

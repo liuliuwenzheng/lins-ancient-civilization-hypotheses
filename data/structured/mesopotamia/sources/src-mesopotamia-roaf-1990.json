@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-roaf-1990",
+  "entity": "source",
+  "type": "atlas",
+  "citation": "Roaf, Michael. 1990. Cultural Atlas of Mesopotamia and the Ancient Near East. New York: Facts on File. ISBN 0-8160-2218-6. 238 pp.",
+  "url": "https://archive.org/details/culturalatlasofm00unse",
+  "access_date": "2026-10-11",
+  "reliability_tier": "T",
+  "notes": "Illustrated atlas with maps, gazetteer, and chronological orientation for Mesopotamia and the wider Near East (prehistory through ca. 330 BCE). Tertiary orientation — prefer P/S sources for contested chronological or institutional claims. British Museum bibliographic term BIB1052 also lists the title. Page numbers not cited without inspection.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-roaf-1990.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

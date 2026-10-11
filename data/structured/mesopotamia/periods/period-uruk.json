@@ -1,0 +1,34 @@
+{
+  "id": "period-uruk",
+  "entity": "period",
+  "names": {
+    "zh": "乌鲁克",
+    "en": "Uruk"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "4th millennium BCE focus; Liverani: Uruk period occupies most of the 4th millennium BCE",
+    "approx_from_bce": 4000,
+    "approx_to_bce": 3000,
+    "scheme_note": "Algaze 2008; Liverani 2006; Pollock 1999 — coarse millennial band only"
+  },
+  "summary": {
+    "zh": "第四千纪为主体的南部早期城市化与行政关键视界。",
+    "en": "Key 4th-millennium horizon for southern urbanization and administration."
+  },
+  "sources": [
+    "src-mesopotamia-algaze-2008",
+    "src-mesopotamia-liverani-uruk-2006",
+    "src-mesopotamia-pollock-1999"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

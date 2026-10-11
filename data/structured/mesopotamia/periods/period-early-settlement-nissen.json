@@ -1,0 +1,32 @@
+{
+  "id": "period-early-settlement-nissen",
+  "entity": "period",
+  "names": {
+    "zh": "早期定居",
+    "en": "Early settlement"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "ca. 9000–6000 BCE (Nissen chapter heading)",
+    "approx_from_bce": 9000,
+    "approx_to_bce": 6000,
+    "scheme_note": "Nissen 1988 chapter scheme — not a unique standard calendar"
+  },
+  "summary": {
+    "zh": "Nissen 长时段分期中的早期定居框。",
+    "en": "Early settlement band in Nissen’s long-run periodization."
+  },
+  "sources": [
+    "src-mesopotamia-nissen-1988"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

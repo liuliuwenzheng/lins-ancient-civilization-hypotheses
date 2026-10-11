@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/object.schema.json",
+  "title": "Object (assemblage / artifact metadata)",
+  "description": "Metadata only. No forged binaries. Prefer assemblage-level records until object catalog numbers are cited.",
+  "type": "object",
+  "required": ["id", "entity", "object_kind", "names", "civilization_ids", "sources", "rights"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^(obj|asm)-[a-z0-9-]+$" },
+    "entity": { "const": "object" },
+    "object_kind": {
+      "type": "string",
+      "enum": ["assemblage", "artifact-class", "catalog-pointer"]
+    },
+    "names": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "civilization_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^civ-[a-z0-9-]+$" },
+      "minItems": 1
+    },
+    "site_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^site-[a-z0-9-]+$" }
+    },
+    "period_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^period-[a-z0-9-]+$" }
+    },
+    "summary": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common.defs.json#/$defs/SourceId" },
+      "minItems": 1
+    },
+    "rights": { "$ref": "common.defs.json#/$defs/Rights" },
+    "media_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^media-[a-z0-9-]+$" },
+      "description": "Links to Media records; never embed unverified uploads"
+    },
+    "editorial": { "$ref": "common.defs.json#/$defs/EditorialProvenance" }
+  }
+}

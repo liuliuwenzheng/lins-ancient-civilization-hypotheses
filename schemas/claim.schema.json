@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/claim.schema.json",
+  "title": "Claim",
+  "description": "Atomic assertion. kind=fact requires non-empty sources[]. kind=hypothesis requires disclaimer. Never auto-promote.",
+  "type": "object",
+  "required": ["id", "entity", "kind", "statement", "civilization_ids", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^claim-[a-z0-9-]+$" },
+    "entity": { "const": "claim" },
+    "kind": { "type": "string", "enum": ["fact", "hypothesis"] },
+    "statement": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "civilization_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^civ-[a-z0-9-]+$" }
+    },
+    "site_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^site-[a-z0-9-]+$" }
+    },
+    "period_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^period-[a-z0-9-]+$" }
+    },
+    "object_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^(obj|asm)-[a-z0-9-]+$" }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common.defs.json#/$defs/SourceId" }
+    },
+    "disclaimer": {
+      "type": ["string", "null"],
+      "description": "Required when kind=hypothesis"
+    },
+    "editorial": { "$ref": "common.defs.json#/$defs/EditorialProvenance" }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "kind": { "const": "fact" } } },
+      "then": {
+        "properties": {
+          "sources": { "type": "array", "minItems": 1 }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "kind": { "const": "hypothesis" } } },
+      "then": {
+        "required": ["disclaimer"],
+        "properties": {
+          "disclaimer": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  ]
+}

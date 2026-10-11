@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-crawford-sumerian-world-2013",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Crawford, Harriet E. W., ed. 2013. The Sumerian World. London; New York: Routledge. ISBN 978-0-415-56967-5 (hardback); ebook DOI 10.4324/9780203096604.",
+  "url": "https://doi.org/10.4324/9780203096604",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Edited academic handbook (Routledge Worlds). Chapters by multiple specialists (incl. chronology, Uruk-related topics, regional surveys). Page numbers omitted (not inspected chapter-by-chapter for this seed).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-crawford-sumerian-world-2013.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

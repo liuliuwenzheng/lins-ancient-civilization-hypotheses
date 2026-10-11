@@ -1,0 +1,30 @@
+{
+  "id": "site-ur",
+  "entity": "site",
+  "names": {
+    "zh": "乌尔",
+    "en": "Ur",
+    "native": null
+  },
+  "kind_note": "excavated urban site; Joint Expedition",
+  "region": "Southern Mesopotamia / southern Iraq",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "大英博物馆与宾夕法尼亚大学博物馆联合远征；Woolley《乌尔发掘》第 IV 卷报告乌尔第三王朝之前的遗址层位与器物。",
+    "en": "Joint Expedition (British Museum + University of Pennsylvania Museum); Woolley Ur Excavations IV covers pre–Ur III periods and finds."
+  },
+  "sources": [
+    "src-mesopotamia-woolley-ur-iv-1955"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § Ur; coordinates not asserted."
+  }
+}

@@ -137,3 +137,9 @@
 **可检验的下一步：** JSON Schema 和/或 SQLite DDL；从 MD + 附属结构化文件导出并作出处失败即关闭；OpenAPI 档案路径（`/sites`、`/periods`、`/objects`、`/claims`、`/media`）；选一条文明做完整结构化试点（优先 `civ-mesopotamia`）。云端审议仍先规范后实现（D-2026-10-11-2 不变）。不上伪造文物图。
 
 **说明：** 细化 D-2026-10-11-4 —— git Markdown 仍是已发布编辑权威；经闸门的 `export/` 作为 API 服务形态（禁止静默双写）。架构：档案层专节。接口：§4.6。OpenAPI 已增档案集合草图。
+
+### D-2026-10-11-18 — Schema 草稿 + 两河结构化试点启动
+
+**决定：** 落实审议 [`delib-2026-10-11-archive-api-direction`](../deliberations/delib-2026-10-11-archive-api-direction.md) / D-2026-10-11-17 的 FUTURE_WINDOW：在 [`schemas/`](../schemas/) 落地 JSON Schema 草稿；双语数据模型文档 [`archive-data-model.zh.md`](archive-data-model.zh.md)；结构化试点 [`data/structured/mesopotamia/`](../data/structured/mesopotamia/)；出处失败即关闭校验 [`tools/export_check.py`](../tools/export_check.py)。
+
+**说明：** 试点 JSON **仅**派生自 `civ-mesopotamia.md` + 已登记 `src-mesopotamia-*`。不新增考古主张；不上伪造图；假说主张保持标注。OpenAPI 档案路径已有草图（§4.6）；文档现指向 schemas + 试点。运行：`.venv/bin/python tools/export_check.py`。

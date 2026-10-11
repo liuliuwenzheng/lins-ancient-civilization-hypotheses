@@ -234,7 +234,7 @@ Shared rules:
 - Objects/media carry `rights` (license, attribution, upstream URL); empty Media table is OK until cleared packages exist.
 - Claims that are hypotheses must include `kind: "hypothesis"` + `disclaimer`; fact claims require resolvable `src-*`.
 - Filters: `civilization`, `site`, `period`, `region`, `source_tier`, `q`, cursor pagination.
-- v0 may return these collections empty until the Mesopotamia structured pilot lands.
+- Mesopotamia structured pilot: [`data/structured/mesopotamia/`](../data/structured/mesopotamia/) · schemas: [`schemas/`](../schemas/) · data model: [`archive-data-model.md`](archive-data-model.md) · gate: [`tools/export_check.py`](../tools/export_check.py). Hosted API may still return empty until export is wired.
 
 
 ## 5. Auth

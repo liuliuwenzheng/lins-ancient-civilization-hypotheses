@@ -1,0 +1,31 @@
+{
+  "id": "site-kish",
+  "entity": "site",
+  "names": {
+    "zh": "基什",
+    "en": "Kish",
+    "native": null
+  },
+  "kind_note": "named-center-orientation-only — no find inventory until site reports registered",
+  "region": "Southern Mesopotamia (orientation via atlas/handbook)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "通论/地图集中常见南部中心地名；本条未登记该遗址发掘专报，故不编造出土清单。",
+    "en": "Southern center frequently named in surveys; oriented via Roaf atlas and Crawford handbook; no invented find lists."
+  },
+  "sources": [
+    "src-mesopotamia-roaf-1990",
+    "src-mesopotamia-crawford-sumerian-world-2013"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § other southern centers — orientation only."
+  }
+}

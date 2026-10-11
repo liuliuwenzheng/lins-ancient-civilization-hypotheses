@@ -1,0 +1,30 @@
+{
+  "id": "site-euphrates-central-floodplain-survey",
+  "entity": "site",
+  "names": {
+    "zh": "幼发拉底中部洪泛平原（区域调查区）",
+    "en": "Central Euphrates floodplain (regional survey zone)",
+    "native": null
+  },
+  "kind_note": "survey-region — not a single capital biography",
+  "region": "Central Euphrates floodplain (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "Adams《城市心脏地带》基于幼发拉底中部洪泛平原地表调查，重建多千年聚落与土地利用格局。",
+    "en": "Adams’s Heartland of Cities reconstructs multi-millennial settlement and land use from central Euphrates surveys."
+  },
+  "sources": [
+    "src-mesopotamia-adams-1981"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § regional floodplain settlement systems."
+  }
+}

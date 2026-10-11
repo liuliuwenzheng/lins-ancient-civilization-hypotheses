@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/source.schema.json",
+  "title": "Source",
+  "type": "object",
+  "required": ["id", "entity", "type", "citation", "reliability_tier"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^src-[a-z0-9-]+$" },
+    "entity": { "const": "source" },
+    "type": {
+      "type": "string",
+      "description": "excavation-report | monograph | article | atlas | digital-corpus | …"
+    },
+    "citation": { "type": "string", "minLength": 1 },
+    "url": { "type": ["string", "null"] },
+    "access_date": { "type": ["string", "null"] },
+    "reliability_tier": { "$ref": "common.defs.json#/$defs/ReliabilityTier" },
+    "notes": { "type": ["string", "null"] },
+    "editorial": { "$ref": "common.defs.json#/$defs/EditorialProvenance" }
+  }
+}

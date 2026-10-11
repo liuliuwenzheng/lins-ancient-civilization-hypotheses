@@ -1,0 +1,41 @@
+{
+  "id": "asm-uruk-survey-auwe4",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌鲁克地表调查材料（Finkbeiner AUWE 4）",
+    "en": "Uruk surface-survey assemblage (Finkbeiner AUWE 4)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "summary": {
+    "zh": "Finkbeiner AUWE 4 公布 1982–1984 年调查结果，属德国乌鲁克正式报告序列。",
+    "en": "Finkbeiner AUWE 4 publishes 1982–1984 survey results within the German Uruk report series."
+  },
+  "sources": [
+    "src-mesopotamia-finkbeiner-uruk-auwe4-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Finkbeiner 1991 AUWE 4",
+    "upstream_url": "https://zenon.dainst.org/Record/000013934/Details",
+    "notes": "Do not invent hectare totals or find counts without checking plates/tables."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Material culture § in civ-mesopotamia.md"
+  }
+}

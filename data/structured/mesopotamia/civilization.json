@@ -1,0 +1,87 @@
+{
+  "id": "civ-mesopotamia",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "fact-library",
+  "names": {
+    "zh": "两河",
+    "en": "Mesopotamia",
+    "native": ""
+  },
+  "region": "West Asia / Near East — Tigris–Euphrates alluvial lowlands (southern focus: Sumer/Babylonia; northern Assyria noted where sourced)",
+  "time_span": "ca. late 6th/5th–late 3rd millennium BCE focus (Ubaid → Uruk → Jemdet Nasr → Early Dynastic → Akkad → Ur III); later periods oriented via survey texts but not fully expanded here",
+  "summary": {
+    "zh": "低地两河（幼发拉底–底格里斯冲积平原）是早期城市、文字行政与国家社会的核心考古—历史研究区；本条以南部苏美尔/乌鲁克为中心，主张均挂已登记来源。",
+    "en": "Lowland Mesopotamia (Tigris–Euphrates alluvium) is a core region for early cities, administrative writing, and state societies; this entry centers southern Sumer/Uruk developments, with every major claim tied to registered sources."
+  },
+  "sources": [
+    "src-mesopotamia-adams-1981",
+    "src-mesopotamia-algaze-2008",
+    "src-mesopotamia-cdli",
+    "src-mesopotamia-collon-1987",
+    "src-mesopotamia-crawford-sumerian-world-2013",
+    "src-mesopotamia-finkbeiner-uruk-auwe4-1991",
+    "src-mesopotamia-liverani-uruk-2006",
+    "src-mesopotamia-nissen-1988",
+    "src-mesopotamia-nissen-damerow-englund-1993",
+    "src-mesopotamia-pollock-1999",
+    "src-mesopotamia-postgate-1992",
+    "src-mesopotamia-potts-1997",
+    "src-mesopotamia-roaf-1990",
+    "src-mesopotamia-van-de-mieroop-2015",
+    "src-mesopotamia-woolley-ur-iv-1955"
+  ],
+  "site_ids": [
+    "site-uruk",
+    "site-ur",
+    "site-euphrates-central-floodplain-survey",
+    "site-nippur",
+    "site-lagash-girsu",
+    "site-kish",
+    "site-jemdet-nasr"
+  ],
+  "period_ids": [
+    "period-early-settlement-nissen",
+    "period-settlement-to-town-nissen",
+    "period-ubaid",
+    "period-uruk",
+    "period-jemdet-nasr",
+    "period-early-dynastic",
+    "period-akkad",
+    "period-ur-iii",
+    "period-pollock-research-window",
+    "period-early-high-civilization-nissen"
+  ],
+  "claim_ids": [
+    "claim-meso-core-region-early-cities",
+    "claim-meso-pollock-window",
+    "claim-meso-uruk-key-horizon",
+    "claim-meso-proto-cuneiform-admin",
+    "claim-meso-woolley-ur-pre-uriii",
+    "claim-meso-adams-settlement-irrigation",
+    "claim-meso-potts-alluvial-foundations",
+    "claim-meso-cylinder-seals-admin",
+    "claim-meso-uruk-expansion-model",
+    "claim-meso-first-city-ranking"
+  ],
+  "object_ids": [
+    "asm-proto-cuneiform-admin",
+    "asm-cylinder-seals-ane",
+    "asm-ur-early-periods-ue4",
+    "asm-uruk-survey-auwe4"
+  ],
+  "related_ids": [
+    "civ-ancient-egypt",
+    "civ-indus-valley",
+    "civ-aegean"
+  ],
+  "markdown_path": "data/civilizations/civ-mesopotamia.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Front matter + section structure of civ-mesopotamia.md; structured pilot 2026-10-11."
+  }
+}

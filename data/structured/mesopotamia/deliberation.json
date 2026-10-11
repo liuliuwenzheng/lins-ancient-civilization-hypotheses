@@ -1,0 +1,28 @@
+{
+  "id": "delib-2026-10-11-archive-api-direction",
+  "entity": "deliberation",
+  "status": "synthesized",
+  "perspective": true,
+  "person_endorsement": false,
+  "seats": [
+    "deming-perspective",
+    "steve-jobs-perspective",
+    "elon-musk-perspective",
+    "darwin-perspective",
+    "descartes-perspective",
+    "qianxuesen-perspective",
+    "mozi-perspective"
+  ],
+  "question": "Archive + API product covering rich materials — not simple textual introductions. Deliberate first.",
+  "target_civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "markdown_path": "deliberations/delib-2026-10-11-archive-api-direction.md",
+  "editorial": {
+    "derived_from": [
+      "deliberations/delib-2026-10-11-archive-api-direction.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Stub only; full four-column outputs remain in Markdown."
+  }
+}

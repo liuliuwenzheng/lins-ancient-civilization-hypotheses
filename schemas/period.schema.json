@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/period.schema.json",
+  "title": "Period",
+  "type": "object",
+  "required": ["id", "entity", "names", "civilization_ids", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^period-[a-z0-9-]+$" },
+    "entity": { "const": "period" },
+    "names": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "civilization_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^civ-[a-z0-9-]+$" },
+      "minItems": 1
+    },
+    "time": { "$ref": "common.defs.json#/$defs/TimeApprox" },
+    "summary": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common.defs.json#/$defs/SourceId" },
+      "minItems": 1
+    },
+    "editorial": { "$ref": "common.defs.json#/$defs/EditorialProvenance" }
+  }
+}

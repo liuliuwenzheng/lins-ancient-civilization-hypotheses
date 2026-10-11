@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/site.schema.json",
+  "title": "Site",
+  "type": "object",
+  "required": ["id", "entity", "names", "civilization_ids", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^site-[a-z0-9-]+$" },
+    "entity": { "const": "site" },
+    "names": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "kind_note": {
+      "type": ["string", "null"],
+      "description": "e.g. mega-site, survey-region, named-center-orientation-only"
+    },
+    "region": { "type": ["string", "null"] },
+    "civilization_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^civ-[a-z0-9-]+$" },
+      "minItems": 1
+    },
+    "summary": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common.defs.json#/$defs/SourceId" },
+      "minItems": 1
+    },
+    "coordinates": {
+      "type": ["object", "null"],
+      "description": "Omit or null unless published coordinates are cited in registered sources",
+      "additionalProperties": false,
+      "properties": {
+        "lat": { "type": "number" },
+        "lon": { "type": "number" },
+        "precision_note": { "type": "string" }
+      }
+    },
+    "editorial": { "$ref": "common.defs.json#/$defs/EditorialProvenance" }
+  }
+}

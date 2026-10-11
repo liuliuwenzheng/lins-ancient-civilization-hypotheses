@@ -1,0 +1,33 @@
+{
+  "id": "period-ur-iii",
+  "entity": "period",
+  "names": {
+    "zh": "乌尔第三王朝",
+    "en": "Ur III"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "time": {
+    "label": "Late 3rd-millennium southern centralized dynasty; Woolley UE IV covers pre–Ur III horizons",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Van De Mieroop 2015 narrative; Woolley 1955 scope note — absolute endpoints not invented here"
+  },
+  "summary": {
+    "zh": "第三千纪末南部集权王朝；Woolley 报告明确覆盖「乌尔三朝之前」层位。",
+    "en": "Late 3rd-millennium southern dynasty; Woolley reports pre–Ur III contexts."
+  },
+  "sources": [
+    "src-mesopotamia-van-de-mieroop-2015",
+    "src-mesopotamia-woolley-ur-iv-1955"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-mesopotamia.md"
+  }
+}

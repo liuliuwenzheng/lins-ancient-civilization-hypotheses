@@ -1,0 +1,34 @@
+{
+  "id": "claim-meso-proto-cuneiform-admin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚乌鲁克至杰姆代特奈斯尔阶段出现原始楔形文字行政记账传统（数值系统、配给、商品账户等）。",
+    "en": "Late Uruk to Jemdet Nasr contexts yield proto-cuneiform administrative bookkeeping (numerical systems, rations, commodity accounts)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk",
+    "period-jemdet-nasr"
+  ],
+  "object_ids": [
+    "asm-proto-cuneiform-admin"
+  ],
+  "sources": [
+    "src-mesopotamia-nissen-damerow-englund-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+  }
+}

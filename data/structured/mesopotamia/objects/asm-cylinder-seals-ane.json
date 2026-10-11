@@ -1,0 +1,37 @@
+{
+  "id": "asm-cylinder-seals-ane",
+  "entity": "object",
+  "object_kind": "artifact-class",
+  "names": {
+    "zh": "近东圆柱印章（器物类综述）",
+    "en": "Near Eastern cylinder seals (artifact-class survey)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "圆柱印章是行政封泥与身份/图像传统的重要介质；Collon 大英博物馆综述介绍序列与功能。具体印章须引用馆藏号。",
+    "en": "Cylinder seals as administrative sealing and imagery medium; Collon’s British Museum survey outlines series and functions. Specific seals need museum numbers."
+  },
+  "sources": [
+    "src-mesopotamia-collon-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Collon 1987 British Museum Publications survey",
+    "upstream_url": null,
+    "notes": "No seal images hosted in this repo."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-mesopotamia-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Material culture § in civ-mesopotamia.md"
+  }
+}
