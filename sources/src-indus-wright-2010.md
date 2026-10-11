@@ -1,0 +1,23 @@
+---
+id: src-indus-wright-2010
+type: monograph
+citation: "Wright, Rita P. 2010. The Ancient Indus: Urbanism, Economy, and Society. Case Studies in Early Societies. Cambridge; New York: Cambridge University Press. Paperback ISBN 9780521576529 (US listing Oct 2009 / UK Jan 2010; Kenoyer 2014 cites as Wright 2010)."
+url: "https://www.cambridge.org/us/universitypress/subjects/archaeology/prehistory/ancient-indus-urbanism-economy-and-society"
+access_date: "2026-10-11"
+reliability_tier: S
+notes: "Secondary monograph. Publisher excerpt (Cambridge sample PDF, ISBN 978-0-521-57652-9, accessed 2026-10-11): Indus florescence between 2600 and 1900 BCE; major centers on Indus and Ghaggar-Hakra river systems; extent from today’s northeast Afghanistan to Pakistan and India; Indus script remains undeciphered. Publisher blurb: well-planned cities; agrarian and craft economy; Mesopotamian Meluhha references. No invented page numbers beyond excerpt statements used in this seed."
+---
+
+# Source: `src-indus-wright-2010`
+
+| Field | Value |
+|-------|--------|
+| Type | monograph |
+| Tier | S |
+| Citation | Wright, Rita P. 2010. *The Ancient Indus: Urbanism, Economy, and Society*. Cambridge University Press. ISBN 9780521576529. |
+| URL | https://www.cambridge.org/us/universitypress/subjects/archaeology/prehistory/ancient-indus-urbanism-economy-and-society |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Secondary synthesis by a Harappa Project collaborator. Seed cites excerpt-verified florescence range 2600–1900 BCE, river systems (Indus / Ghaggar-Hakra), geographic span, and undeciphered script. Broader chapter-level claims omitted until page-verified.

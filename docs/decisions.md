@@ -63,3 +63,9 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 **Decision:** After Mesopotamia + Egypt, complete `civ-andes` (Caral–Norte Chico) from draft to `library-seed` before the next seed batch.
 
 **Notes:** Registered Science 2001, Nature 2004 (95 dates; ~3000–1800 cal BCE), Shady 1997, and Shady & Leyva 2003. No world-earliest ranking claim; “city vs ceremonial center / state vs complex society” kept in Notes as open debate.
+
+### D-2026-10-11-7 — Indus Valley filled as next chronological library-seed
+
+**Decision:** After Andes/Caral completion, fill `civ-indus-valley` from draft shell to `library-seed` as the next chronological Old World batch (Indus Tradition / Mature Harappan florescence ~2600–1900 BCE, overlapping late 3rd-millennium peers).
+
+**Notes:** Registered Kenoyer 1991 (era table), Wright 2010 (florescence 2600–1900 BCE; Indus/Ghaggar-Hakra), Kenoyer 2014 Cambridge chapter, Possehl 2002, Marshall 1931 (Mohenjo-daro P), Meadow ed. 1991 (Harappa 1986–1990 P). Script undeciphered = research-status fact. “Empire” vs city-network / state form kept in Notes as open debate. No forged images or invented page numbers.
