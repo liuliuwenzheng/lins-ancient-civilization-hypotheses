@@ -105,3 +105,9 @@
 **决定：** 在两河与古埃及加厚之后，按完整加厚模板重写 `civ-andes`，状态升为 **`fact-library`**。
 
 **说明：** 保留原有四条来源（Shady/Haas/Creamer *Science* 2001；Haas/Creamer/Ruiz *Nature* 2004；Shady & Leyva 2003；Shady 1997），并新登记十一条已核验来源（Creamer/Ruiz/Haas 帕蒂维尔卡 *Fieldiana* 2007 P；Creamer 等福塔莱萨 *Fieldiana* 2013 P；Haas 等 *PNAS* 玉米 2013；Moseley & Willey 阿斯佩罗 1973；Moseley 海洋生计基础 1975；Raymond 再检讨 1981；Haas & Creamer in Silverman 2004；Feldman in Haas/Pozorski/Pozorski 1987；Quilter 帕洛马 1989 比较；Burger 查文 1995 后续取向；教科文卡拉尔–苏佩名录 2009 T）——合计 **15** 条 `src-*`。深度焦点：北奇科晚古风地理；年表；卡拉尔、阿斯佩罗、卡瓦列特、瓦里坎加及邻谷试掘；纪念性建筑（平台丘、沉陷圆形广场、shicra、huancas）；无陶/未证实文字；灌溉 + 有争议的海洋模型 + 玉米多证据；仅区域内海岸—河谷互动；研究史。城市 vs 礼仪中心 / 国家 vs 复杂社会 / 海洋生计基础 / 玉米主粮程度一律留在 Notes。范围不含更晚安第斯帝国。不编造页码；不伪造文物图。正直优先于速度。
+
+### D-2026-10-11-14 — 印度河加厚至 fact-library（对齐两河/埃及/安第斯）
+
+**决定：** 在两河、古埃及与安第斯加厚之后，按完整加厚模板重写 `civ-indus-valley`，状态升为 **`fact-library`**。
+
+**说明：** 保留原有六条来源（Kenoyer 1991；Wright 2010；Kenoyer 2014 剑桥专章；Possehl 2002；Marshall 1931 P；Meadow 编 1991 P），并新登记九条已核验来源（Kenoyer 1998 通论；Mackay 1938 摩亨佐-达罗续掘 P；Vats 1940 哈拉帕 P；Parpola 1994 文字语料——破译方案不采纳为事实；Giosan 等 *PNAS* 2012 河流地貌；Rao 1979 洛塔尔 ASI 专报 P；Ratnagar 2004 贸易；教科文摩亨佐-达罗名录 1980 T；Wheeler 1968 研究史对照）——合计 **15** 条 `src-*`。深度焦点：大印度河区地理（印度河 / 加加尔–哈克拉；季风补给 vs 冰川大河争议）；Kenoyer Table I 年表；摩亨佐-达罗、哈拉帕、甘韦里瓦拉、拉希加里及层级遗址；城市网状平面 / 井排水 / 大浴场标签谨慎书写；文字未破译 + 砝码封泥；生计与手工业；Meluhha / 海湾接触；研究史。文字未破译、帝国 vs 城市网络、洛塔尔「船坞」、气候—去城市化一律留在 Notes。不编造页码；不伪造文物图。正直优先于速度。
