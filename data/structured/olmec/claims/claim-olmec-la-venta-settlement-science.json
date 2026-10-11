@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-la-venta-settlement-science",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rust & Sharer 1988 *Science* 提供拉文塔聚落数据。",
+    "en": "Rust & Sharer 1988 Science provides La Venta settlement data."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-la-venta"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-olmec-la-venta-settlement"
+  ],
+  "sources": [
+    "src-olmec-rust-sharer-la-venta-1988"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

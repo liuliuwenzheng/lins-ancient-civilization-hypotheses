@@ -1,0 +1,42 @@
+{
+  "id": "asm-aegean-zakros-palace",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "扎克罗斯宫室组合",
+    "en": "Zakros palace assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-zakros"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial"
+  ],
+  "summary": {
+    "zh": "卡托扎克罗斯宫室（发掘者专书）。",
+    "en": "Kato Zakros palace (excavator monograph)."
+  },
+  "sources": [
+    "src-aegean-platon-zakros-1971",
+    "src-aegean-shelmerdine-companion-2008"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

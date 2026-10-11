@@ -1,0 +1,32 @@
+{
+  "id": "media-pylos-princeton-vol1",
+  "entity": "media",
+  "title": {
+    "zh": "皮洛斯报告出版页（外链）",
+    "en": "Pylos report publisher page (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://press.princeton.edu/books/hardcover/9780691650265/the-palace-of-nestor-at-pylos-in-western-messenia-vol-1",
+  "local_path": null,
+  "object_ids": [
+    "asm-aegean-pylos-palace-complex"
+  ],
+  "sources": [
+    "src-aegean-blegen-rawson-pylos-1966"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Princeton University Press catalog",
+    "upstream_url": "https://press.princeton.edu/books/hardcover/9780691650265/the-palace-of-nestor-at-pylos-in-western-messenia-vol-1",
+    "notes": "No forged artifact images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

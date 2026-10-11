@@ -1,0 +1,30 @@
+{
+  "id": "claim-maya-kinship-kingship-model",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将 McAnany 亲属—王权模型直接套用于中前古典低地——时段外推属假说。",
+    "en": "Applying McAnany’s kinship–kingship model directly onto Middle Preclassic lowlands is a period extrapolation hypothesis."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-maya-early-middle-preclassic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-maya-mcanany-living-ancestors-1995",
+    "src-maya-sharer-traxler-2006"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

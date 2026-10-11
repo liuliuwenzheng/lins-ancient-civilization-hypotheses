@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-betancourt-kommos-ii-1990",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Betancourt, Philip P. 1990. Kommos: An Excavation on the South Coast of Crete, Volume II: The Final Neolithic through Middle Minoan III Pottery. Edited by Joseph W. Shaw and Maria C. Shaw. Princeton University Press.",
+  "url": "https://press.princeton.edu/books/hardcover/9780691633565/kommos-an-excavation-on-the-south-coast-of-crete-volume-i-part-i",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Kommos early pottery volume in the Shaw & Shaw Princeton series (series context verified via Kommos Vol. I publisher page and UToronto scholaris notes listing Vol. II Betancourt 1990). No invented catalogue numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-betancourt-kommos-ii-1990.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

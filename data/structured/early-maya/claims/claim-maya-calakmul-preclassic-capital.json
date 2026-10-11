@@ -1,0 +1,30 @@
+{
+  "id": "claim-maya-calakmul-preclassic-capital",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "卡拉克穆尔在前古典已是低地政治首都——本包仅有手册指针，首都说待专报。",
+    "en": "Calakmul as Preclassic lowland political capital lacks pack-level report depth here."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-calakmul-preclassic-pointer"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-sharer-traxler-2006",
+    "src-maya-demarest-2004"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-las-limas",
+  "entity": "site",
+  "names": {
+    "zh": "拉斯·利马斯（发现点）",
+    "en": "Las Limas (findspot)",
+    "native": null
+  },
+  "kind_note": "Famous sculpture findspot (not an urban-center monograph); style/iconography pointer.",
+  "region": "southern Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "著名石雕发现点（非都市中心专条）；风格与图像学指针。",
+    "en": "Famous sculpture findspot (not an urban-center monograph); style/iconography pointer."
+  },
+  "sources": [
+    "src-olmec-taube-doaks-2004",
+    "src-olmec-pool-2007",
+    "src-olmec-benson-fuente-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

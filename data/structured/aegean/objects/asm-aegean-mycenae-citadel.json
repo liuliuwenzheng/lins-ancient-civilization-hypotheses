@@ -1,0 +1,43 @@
+{
+  "id": "asm-aegean-mycenae-citadel",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迈锡尼城堡与墓区组合",
+    "en": "Mycenae citadel and burial assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "城堡、狮子门、竖穴墓圈等类型组合（综合级）。",
+    "en": "Citadel, Lion Gate, shaft graves, etc. (synthesis-level)."
+  },
+  "sources": [
+    "src-aegean-wace-mycenae-1949",
+    "src-aegean-french-mycenae-2002",
+    "src-aegean-mountjoy-mycenaean-pottery-1986"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

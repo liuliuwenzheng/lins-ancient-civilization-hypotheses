@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-belize-valley-early-centers",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cuello、Cahal Pech、Blackman Eddy 等构成伯利兹河谷早期复杂化考古档案入口。",
+    "en": "Cuello, Cahal Pech, and Blackman Eddy form Belize Valley early-complexity archive entry points."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cuello",
+    "site-cahal-pech",
+    "site-blackman-eddy"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-hammond-cuello-1991",
+    "src-maya-healy-cahal-pech",
+    "src-maya-garber-blackman-eddy"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

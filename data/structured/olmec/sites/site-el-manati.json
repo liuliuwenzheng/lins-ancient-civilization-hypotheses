@@ -1,0 +1,32 @@
+{
+  "id": "site-el-manati",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔·马纳蒂",
+    "en": "El Manatí",
+    "native": null
+  },
+  "kind_note": "Sacred spring offering site; Ortiz & Rodríguez wooden busts, greenstone axes, rubber balls",
+  "region": "southern Veracruz, Mexico (spring at Cerro Manatí)",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "圣泉献祭遗址；Ortiz & Rodríguez 发掘木雕像、玉斧、橡胶球等。",
+    "en": "Sacred spring offering site; Ortiz & Rodríguez wooden busts, greenstone axes, rubber balls."
+  },
+  "sources": [
+    "src-olmec-ortiz-rodriguez-manati-am",
+    "src-olmec-diehl-2004",
+    "src-olmec-pool-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

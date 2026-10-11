@@ -1,0 +1,30 @@
+{
+  "id": "media-nature-thera-manning-pointer",
+  "entity": "media",
+  "title": {
+    "zh": "Manning 等 Thera 测年论文指针（外链）",
+    "en": "Manning et al. Thera dating paper pointer (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.science.org/doi/10.1126/science.1125682",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-aegean-manning-science-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Science / AAAS",
+    "upstream_url": "https://www.science.org/doi/10.1126/science.1125682",
+    "notes": "Bibliographic pointer only; no forged images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

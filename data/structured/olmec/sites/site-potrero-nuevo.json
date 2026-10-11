@@ -1,0 +1,32 @@
+{
+  "id": "site-potrero-nuevo",
+  "entity": "site",
+  "names": {
+    "zh": "波特雷罗·努埃沃",
+    "en": "Potrero Nuevo",
+    "native": null
+  },
+  "kind_note": "San Lorenzo-region site; sculpture/settlement context.",
+  "region": "San Lorenzo region, Veracruz",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "圣洛伦佐地区遗址；雕塑/聚落语境。",
+    "en": "San Lorenzo-region site; sculpture/settlement context."
+  },
+  "sources": [
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-symonds-cyphers-settlement"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-platon-zakros-1971",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Platon, Nikolaos. 1971. Zakros: The Discovery of a Lost Palace of Ancient Crete. New York: Charles Scribner’s Sons. ISBN 0684311038 (345 pp.).",
+  "url": "https://archive.org/details/zakrosdiscoveryo0000plat",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Excavator’s English monograph on Kato Zakros palace (Internet Archive / library catalogs accessed 2026-10-11). Complements Greek PAE preliminary reports; popular framing caveats apply. No invented room inventories.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-platon-zakros-1971.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

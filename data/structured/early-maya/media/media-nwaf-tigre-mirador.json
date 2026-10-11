@@ -1,0 +1,32 @@
+{
+  "id": "media-nwaf-tigre-mirador",
+  "entity": "media",
+  "title": {
+    "zh": "NWAF 米拉多尔老虎群报告入口（外链）",
+    "en": "NWAF Mirador Tigre report entry (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://contentdm.lib.byu.edu/digital/collection/NWAF/id/15407/",
+  "local_path": null,
+  "object_ids": [
+    "asm-maya-mirador-tigre-complex"
+  ],
+  "sources": [
+    "src-maya-matheny-tigre-mirador-1990"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "BYU NWAF digital collections",
+    "upstream_url": "https://contentdm.lib.byu.edu/digital/collection/NWAF/id/15407/",
+    "notes": "No forged images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

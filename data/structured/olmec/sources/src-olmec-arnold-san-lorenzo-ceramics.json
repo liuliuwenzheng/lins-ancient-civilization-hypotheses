@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-arnold-san-lorenzo-ceramics",
+  "entity": "source",
+  "type": "article",
+  "citation": "Arnold, Philip J. III. (Formative Gulf ceramic/economy studies; seed registers Arnold’s peer-reviewed San Lorenzo region ceramic economy work as S complement to Coe & Diehl).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary ceramic-economy pointer for San Lorenzo region. Cross-check with Coe & Diehl 1980 and Cyphers project. No invented kiln counts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-arnold-san-lorenzo-ceramics.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

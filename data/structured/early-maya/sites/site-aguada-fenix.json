@@ -1,0 +1,32 @@
+{
+  "id": "site-aguada-fenix",
+  "entity": "site",
+  "names": {
+    "zh": "阿瓜达·费尼克斯",
+    "en": "Aguada Fénix",
+    "native": null
+  },
+  "kind_note": "Middle Preclassic monumental artificial plateau with radiating causeways; Inomata et al. 2",
+  "region": "Tabasco, Mexico (Middle Usumacinta region)",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "中前古典大型人工台地与放射状堤道；Inomata 等 2020 *Nature*。",
+    "en": "Middle Preclassic monumental artificial plateau with radiating causeways; Inomata et al. 2020 Nature."
+  },
+  "sources": [
+    "src-maya-inomata-aguada-fenix-nature-2020",
+    "src-maya-inomata-ceibal-science-2013",
+    "src-maya-sharer-traxler-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

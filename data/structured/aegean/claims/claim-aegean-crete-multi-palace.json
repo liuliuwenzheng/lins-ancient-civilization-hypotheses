@@ -1,0 +1,36 @@
+{
+  "id": "claim-aegean-crete-multi-palace",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "手册传统将克里特记为多宫室中心格局（克诺索斯、费斯托斯、马利亚、扎克罗斯等），而非单一都城叙事即可穷尽。",
+    "en": "Handbooks treat Crete as a multi-palace landscape (Knossos, Phaistos, Malia, Zakros, etc.), not exhausted by a single-capital narrative."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos",
+    "site-phaistos",
+    "site-malia",
+    "site-zakros"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-cline-oxford-handbook-2010",
+    "src-aegean-hood-archaeology-crete-1971"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

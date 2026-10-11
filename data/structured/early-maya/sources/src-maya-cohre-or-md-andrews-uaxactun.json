@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-cohre-or-md-andrews-uaxactun",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Andrews, E. Wyllys V, and others / later Uaxactún reassessments (seed: keep Ricketson/Smith as P anchors; use modern handbook chapters in Nichols & Pool 2012 / Sharer & Traxler 2006 for updated chronology).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Pointer to modern reassessment literature; P anchors remain Carnegie reports. No invented ceramic complex dates.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-cohre-or-md-andrews-uaxactun.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

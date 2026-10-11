@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-san-lorenzo-capital-of-all",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "圣洛伦佐为所有奥尔梅克风格艺术的唯一政治首都——过度中心化模型。",
+    "en": "San Lorenzo as sole political capital of all Olmec-style art is an over-centralized model."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-pool-2007",
+    "src-olmec-flannery-marcus-olmec-oaxaca"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -15,7 +15,9 @@
     "en": "Formative center with Olmec-style monumental art outside the heartland; interaction anchor, not a colony verdict."
   },
   "sources": [
-    "src-olmec-grove-chalcatzingo-1987"
+    "src-olmec-grove-chalcatzingo-1987",
+    "src-olmec-flannery-marcus-olmec-oaxaca",
+    "src-olmec-clark-pye-nga-2000"
   ],
   "coordinates": null,
   "entity": "site",
@@ -25,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

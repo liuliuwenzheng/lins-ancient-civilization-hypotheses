@@ -1,0 +1,33 @@
+{
+  "id": "claim-olmec-tres-zapotes-stela-c-long-count-origin",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "特雷斯萨波特斯 C 号碑证明长纪年起源于奥尔梅克——历法起源归属仍争。",
+    "en": "Tres Zapotes Stela C as proof that the Long Count originated with the Olmec remains contested."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-tres-zapotes"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-olmec-tres-zapotes-monuments"
+  ],
+  "sources": [
+    "src-olmec-stirling-bae-138-1943",
+    "src-olmec-pool-tres-zapotes-2003",
+    "src-olmec-pool-2007"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

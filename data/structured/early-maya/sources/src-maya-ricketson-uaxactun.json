@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-ricketson-uaxactun",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Ricketson, Oliver G., Jr., and Edith B. Ricketson. 1937. Uaxactun, Guatemala: Group E — 1926–1931. Carnegie Institution of Washington Publication 477.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Historical Carnegie Institution primary report on Uaxactún Group E. Foundational for Preclassic E-Group typology; chronology since refined. No invented stela readings.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-ricketson-uaxactun.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

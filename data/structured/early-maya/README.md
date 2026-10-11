@@ -1,8 +1,10 @@
-# Structured archive pack — Early Maya
+# Structured archive pack — early-maya
 
 English | [中文](README.zh.md)
 
-Machine-readable records derived **only** from `data/civilizations/civ-early-maya.md` and registered sources listed there. No new archaeological claims. No forged artifact images.
+Derived only from civilizations MD + registered sources. No inventions. No forged images.
+
+**Density D-2026-10-11-27:** sources 28 · sites 14 · periods 5 · objects 16 · claims 26 · media 4 (outbound).
 
 ```bash
 .venv/bin/python tools/export_check.py

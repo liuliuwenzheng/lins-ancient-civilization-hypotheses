@@ -1,0 +1,32 @@
+{
+  "id": "media-aguada-fenix-nature",
+  "entity": "media",
+  "title": {
+    "zh": "Aguada Fénix Nature 论文（外链）",
+    "en": "Aguada Fénix Nature article (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.nature.com/articles/s41586-020-2343-4",
+  "local_path": null,
+  "object_ids": [
+    "asm-maya-aguada-fenix-plateau"
+  ],
+  "sources": [
+    "src-maya-inomata-aguada-fenix-nature-2020"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Nature / Springer Nature",
+    "upstream_url": "https://www.nature.com/articles/s41586-020-2343-4",
+    "notes": "No forged artifact images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

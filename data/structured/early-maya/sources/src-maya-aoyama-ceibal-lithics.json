@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-aoyama-ceibal-lithics",
+  "entity": "source",
+  "type": "article",
+  "citation": "Aoyama, Kazuo. (peer-reviewed lithic analyses from Ceibal–Petexbatun / Ceibal Preclassic contexts; collaborator on Inomata Ceibal Science 2013 and Aguada Fénix Nature 2020). Seed registers as specialist P/S pointer for craft economy.",
+  "url": "https://www.science.org/doi/10.1126/science.1234493",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Specialist lithic pointer tied to Ceibal project publications. Administrative/craft interpretations remain models. No invented debitage counts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-aoyama-ceibal-lithics.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

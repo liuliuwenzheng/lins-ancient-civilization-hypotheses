@@ -1,0 +1,32 @@
+{
+  "id": "claim-maya-nakbe-hansen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hansen 纳克贝研究记载米拉多尔盆地中前古典纪念性建筑。",
+    "en": "Hansen’s Nakbe research documents Middle Preclassic monumental architecture in the Mirador Basin."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-nakbe"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maya-nakbe-middle-preclassic"
+  ],
+  "sources": [
+    "src-maya-hansen-nakbe-1998",
+    "src-maya-hansen-tigre-mirador"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

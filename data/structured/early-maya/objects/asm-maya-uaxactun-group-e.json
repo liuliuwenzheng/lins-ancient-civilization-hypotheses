@@ -1,0 +1,43 @@
+{
+  "id": "asm-maya-uaxactun-group-e",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦哈克通 E 组",
+    "en": "Uaxactún Group E"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-uaxactun"
+  ],
+  "period_ids": [
+    "period-maya-early-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "卡内基报告中的 E 组类型学关键参照。",
+    "en": "E-Group type reference in Carnegie reports."
+  },
+  "sources": [
+    "src-maya-ricketson-uaxactun",
+    "src-maya-smith-uaxactun"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

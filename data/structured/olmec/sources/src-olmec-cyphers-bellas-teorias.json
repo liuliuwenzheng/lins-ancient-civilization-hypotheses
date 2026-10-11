@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-cyphers-bellas-teorias",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Cyphers, Ann. 2012. Las bellas teorías y los terribles hechos: Controversias sobre los olmecas del Preclásico inferior. Mexico City: Universidad Nacional Autónoma de México, Instituto de Investigaciones Antropológicas.",
+  "url": "https://www.iia.unam.mx/node/2944",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "UNAM controversies monograph on Early Preclassic Olmec debates (IIA page accessed 2026-10-11). Useful for hypothesis hygiene; not a substitute for site reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-cyphers-bellas-teorias.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

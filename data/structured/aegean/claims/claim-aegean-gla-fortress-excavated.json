@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-gla-fortress-excavated",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Iakovidis《Γλας II》报告格拉斯迈锡尼要塞 1981–1991 发掘。",
+    "en": "Iakovidis Gla II reports 1981–1991 excavation of the Mycenaean fortress at Gla."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-gla"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "object_ids": [
+    "asm-aegean-gla-fortress"
+  ],
+  "sources": [
+    "src-aegean-iakovidis-gla-ii-1998"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

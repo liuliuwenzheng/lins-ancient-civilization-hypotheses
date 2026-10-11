@@ -1,0 +1,32 @@
+{
+  "id": "site-teopantecuanitlan",
+  "entity": "site",
+  "names": {
+    "zh": "特奥潘特夸尼特兰",
+    "en": "Teopantecuanitlan",
+    "native": null
+  },
+  "kind_note": "Guerrero highland Olmec-style architecture/sculpture center; interaction-zone pointer.",
+  "region": "Guerrero, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "格雷罗高地奥尔梅克风格建筑/雕塑中心；互动区指针。",
+    "en": "Guerrero highland Olmec-style architecture/sculpture center; interaction-zone pointer."
+  },
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004",
+    "src-olmec-clark-pye-nga-2000"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

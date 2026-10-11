@@ -1,0 +1,35 @@
+{
+  "id": "period-aegean-neopalatial",
+  "entity": "period",
+  "names": {
+    "zh": "新宫期（克里特）",
+    "en": "Neopalatial Crete (MM III–LM I)"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "time": {
+    "label": "MM III–LM I conventional; absolute dates contested (high/low)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Shelmerdine 2008; Warren & Hankey 1989; Manning 2006"
+  },
+  "summary": {
+    "zh": "克里特新宫建筑与繁荣期常用名；绝对年代受高/低年代争议影响。",
+    "en": "Conventional Cretan Neopalatial label; absolute dates affected by high/low chronology debate."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-warren-hankey-1989",
+    "src-aegean-manning-science-2006",
+    "src-aegean-hood-archaeology-crete-1971"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

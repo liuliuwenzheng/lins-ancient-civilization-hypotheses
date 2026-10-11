@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-kommos-lba-pottery-published",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Watrous 1992 出版科莫斯晚青铜分层陶器研究。",
+    "en": "Watrous 1992 publishes stratified Late Bronze Age pottery from Kommos."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-kommos"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aegean-kommos-lba-pottery"
+  ],
+  "sources": [
+    "src-aegean-watrous-kommos-iii-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

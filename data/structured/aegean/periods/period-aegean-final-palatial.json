@@ -1,0 +1,34 @@
+{
+  "id": "period-aegean-final-palatial",
+  "entity": "period",
+  "names": {
+    "zh": "末宫/LM II–IIIA 过渡",
+    "en": "Final Palatial / LM II–IIIA transition"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "time": {
+    "label": "LM II–IIIA conventional transition",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Shelmerdine 2008; Dickinson 1994; Cline 2010"
+  },
+  "summary": {
+    "zh": "克里特末宫与大陆影响加强的常用过渡标签；细节依遗址。",
+    "en": "Conventional Final Palatial / mainland-influence transition label; site-dependent."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "media-mundo-perdido-cambridge",
+  "entity": "media",
+  "title": {
+    "zh": "Mundo Perdido Ancient Mesoamerica 页（外链）",
+    "en": "Mundo Perdido Ancient Mesoamerica page (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.cambridge.org/core/journals/ancient-mesoamerica/article/abs/un-reencuentro-con-mundo-perido-tikal-guatemala/88EDFA0F8D950A944DE49196EAD553F2",
+  "local_path": null,
+  "object_ids": [
+    "asm-maya-mundo-perdido-egroup"
+  ],
+  "sources": [
+    "src-maya-laporte-fialko-mundo-perdido-1995"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cambridge University Press",
+    "upstream_url": "https://www.cambridge.org/core/journals/ancient-mesoamerica/article/abs/un-reencuentro-con-mundo-perido-tikal-guatemala/88EDFA0F8D950A944DE49196EAD553F2",
+    "notes": "No forged images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

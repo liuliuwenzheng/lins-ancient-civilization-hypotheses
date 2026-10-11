@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-linear-a-is-greek",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "线性文字 A 即早期希腊语——未破译前提下不得定为事实。",
+    "en": "Linear A as early Greek is not fact while the script remains undeciphered."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aegean-linear-a"
+  ],
+  "sources": [
+    "src-aegean-salgarella-linear-a-2022",
+    "src-aegean-ventris-chadwick-1956"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

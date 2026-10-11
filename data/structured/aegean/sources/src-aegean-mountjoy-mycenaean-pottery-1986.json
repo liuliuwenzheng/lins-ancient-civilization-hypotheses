@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-mountjoy-mycenaean-pottery-1986",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Mountjoy, P. A. 1986. Mycenaean Decorated Pottery: A Guide to Identification. Studies in Mediterranean Archaeology 73. Göteborg: Paul Åströms Förlag.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Standard ceramic identification handbook for Mycenaean decorated pottery (widely cited typological guide). Seed registers bibliographic identity only; no invented type-counts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-mountjoy-mycenaean-pottery-1986.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

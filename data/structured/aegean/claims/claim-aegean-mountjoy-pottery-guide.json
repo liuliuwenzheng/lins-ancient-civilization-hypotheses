@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-mountjoy-pottery-guide",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mountjoy 1986 提供迈锡尼彩陶识别手册框架。",
+    "en": "Mountjoy 1986 provides a Mycenaean decorated-pottery identification handbook frame."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "object_ids": [
+    "asm-aegean-mycenaean-decorated-pottery"
+  ],
+  "sources": [
+    "src-aegean-mountjoy-mycenaean-pottery-1986"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

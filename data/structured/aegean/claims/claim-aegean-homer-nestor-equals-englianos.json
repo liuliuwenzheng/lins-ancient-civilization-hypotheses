@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-homer-nestor-equals-englianos",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将 Englianos 宫室直接等同荷马「涅斯托尔的皮洛斯」——文学—考古等同仍属解释模型。",
+    "en": "Equating the Englianos palace directly with Homeric “Nestor’s Pylos” remains an interpretive model."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-blegen-rawson-pylos-1966",
+    "src-aegean-davis-pylos-regional-1998"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

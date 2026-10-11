@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-cuello-monograph",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hammond 1991《Cuello》专书报告伯利兹早期玛雅社区发掘。",
+    "en": "Hammond 1991 Cuello monograph reports excavation of an early Maya community in Belize."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cuello"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maya-cuello-community"
+  ],
+  "sources": [
+    "src-maya-hammond-cuello-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

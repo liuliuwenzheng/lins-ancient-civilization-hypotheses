@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-freidel-schele-forest-kings",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Schele, Linda, and David Freidel. 1990. A Forest of Kings: The Untold Story of the Ancient Maya. New York: William Morrow. (popular-scholarly; use cautiously as S for Classic kingship narratives — Preclassic claims require excavation anchors).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Influential popular-scholarly synthesis. Prefer excavation reports for Preclassic facts; kingship origin narratives = hypotheses when projected onto Middle Preclassic.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-freidel-schele-forest-kings.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-zakros",
+  "entity": "site",
+  "names": {
+    "zh": "扎克罗斯（卡托）",
+    "en": "Zakros (Kato Zakros)",
+    "native": null
+  },
+  "kind_note": "East Cretan palace; Platon excavations and 1971 English monograph.",
+  "region": "East Crete, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "东克里特宫室；Platon 发掘与 1971 英文专书。",
+    "en": "East Cretan palace; Platon excavations and 1971 English monograph."
+  },
+  "sources": [
+    "src-aegean-platon-zakros-1971",
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

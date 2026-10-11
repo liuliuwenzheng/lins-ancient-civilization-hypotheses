@@ -17,7 +17,9 @@
   "sources": [
     "src-maya-willey-seibal-1975",
     "src-maya-inomata-ceibal-science-2013",
-    "src-maya-inomata-ceibal-plateau-2019"
+    "src-maya-inomata-ceibal-plateau-2019",
+    "src-maya-aoyama-ceibal-lithics",
+    "src-maya-inomata-aguada-fenix-nature-2020"
   ],
   "coordinates": null,
   "entity": "site",
@@ -27,6 +29,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

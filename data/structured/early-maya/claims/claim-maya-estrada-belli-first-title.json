@@ -1,0 +1,29 @@
+{
+  "id": "claim-maya-estrada-belli-first-title",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "「第一个玛雅文明」书名式首要性——启发式标题，不作地层定论。",
+    "en": "“First Maya civilization” title-style primacy is a heuristic, not a stratigraphic verdict."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cival"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-estrada-belli-2011"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

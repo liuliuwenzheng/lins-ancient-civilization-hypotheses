@@ -1,0 +1,32 @@
+{
+  "id": "site-kaminaljuyu",
+  "entity": "site",
+  "names": {
+    "zh": "卡米纳尔胡尤",
+    "en": "Kaminaljuyú",
+    "native": null
+  },
+  "kind_note": "Highland Preclassic–Classic center; lowland interaction comparative pointer.",
+  "region": "Guatemala Valley / highland Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "高地前古典—古典中心；与低地互动比较指针。",
+    "en": "Highland Preclassic–Classic center; lowland interaction comparative pointer."
+  },
+  "sources": [
+    "src-maya-sharer-traxler-2006",
+    "src-maya-coe-houston-2015",
+    "src-maya-demarest-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

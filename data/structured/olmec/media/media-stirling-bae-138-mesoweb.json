@@ -1,0 +1,32 @@
+{
+  "id": "media-stirling-bae-138-mesoweb",
+  "entity": "media",
+  "title": {
+    "zh": "Stirling BAE 138 Mesoweb PDF（外链）",
+    "en": "Stirling BAE 138 Mesoweb PDF (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.mesoweb.com/olmec/publications/Stirling1943-OCR.pdf",
+  "local_path": null,
+  "object_ids": [
+    "asm-olmec-tres-zapotes-monuments"
+  ],
+  "sources": [
+    "src-olmec-stirling-bae-138-1943"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Smithsonian BAE / Mesoweb host",
+    "upstream_url": "https://www.mesoweb.com/olmec/publications/Stirling1943-OCR.pdf",
+    "notes": "Historical primary PDF outbound; no forged artifact images hosted."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

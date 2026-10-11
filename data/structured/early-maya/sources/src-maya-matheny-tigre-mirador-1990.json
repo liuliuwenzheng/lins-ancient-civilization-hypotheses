@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-matheny-tigre-mirador-1990",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Matheny, Ray T., et al. / Hansen-linked NWAF reporting: Excavations in the Tigre Complex, El Mirador, Petén, Guatemala. New World Archaeological Foundation papers (El Mirador Project). Seed registers the Tigre Complex excavation report series (BYU NWAF digital collections pointer verified 2026-10-11).",
+  "url": "https://contentdm.lib.byu.edu/digital/collection/NWAF/id/15407/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "El Mirador Tigre Complex excavation report in NWAF series (digital collections accessed 2026-10-11). Complements Hansen Mirador Basin work. No invented pyramid heights.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-matheny-tigre-mirador-1990.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

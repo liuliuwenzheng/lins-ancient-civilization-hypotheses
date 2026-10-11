@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-preclassic-divine-kingship-full",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "中前古典已存在完备神王制度——将古典王权前推属假说。",
+    "en": "Fully formed divine kingship already in the Middle Preclassic projects Classic kingship backward."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-maya-early-middle-preclassic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-maya-freidel-schele-forest-kings",
+    "src-maya-sharer-traxler-2006",
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

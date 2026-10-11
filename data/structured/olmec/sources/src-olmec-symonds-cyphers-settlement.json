@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-symonds-cyphers-settlement",
+  "entity": "source",
+  "type": "article",
+  "citation": "Symonds, Stacey, Ann Cyphers, and Roberto Lunagómez. 2002. Asentamiento prehispánico en San Lorenzo Tenochtitlán. Mexico City: Universidad Nacional Autónoma de México, Instituto de Investigaciones Antropológicas (settlement survey monograph).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "UNAM San Lorenzo settlement survey monograph (Cyphers project). Complements Coe & Diehl 1980 and Cyphers sculpture corpus. No invented site coordinates.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-symonds-cyphers-settlement.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

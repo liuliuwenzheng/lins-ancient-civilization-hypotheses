@@ -17,7 +17,9 @@
   "sources": [
     "src-olmec-coe-diehl-san-lorenzo-1980",
     "src-olmec-cyphers-escultura-2004",
-    "src-olmec-pool-2007"
+    "src-olmec-pool-2007",
+    "src-olmec-symonds-cyphers-settlement",
+    "src-olmec-arnold-san-lorenzo-ceramics"
   ],
   "coordinates": null,
   "entity": "site",
@@ -27,6 +29,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

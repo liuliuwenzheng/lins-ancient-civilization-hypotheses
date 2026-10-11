@@ -267,3 +267,23 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Xia historicity, Erlitou=Xia capital, Zhengzhou/Yanshi/Huanbei textual royal-seat IDs, Panlongcheng as Shang outpost, Sanxingdui=Shang polity, Sanxingdui→Jinsha simple relocation, and fully formed “Ancient Shu State” kept as hypotheses. Integrity over speed.
 
+### D-2026-10-11-27 — Aegean + Olmec + Early Maya archive density deepen (completes first pass across 9 packs)
+
+**Decision:** Per owner priority (aligned with Mesopotamia D-21 / Egypt D-22 / Indus D-23 / Andes D-24 / China-bronze+Sanxingdui D-25), deepen aegean, olmec, and early-maya packs: register verified site-level excavation reports (P) and strong secondary (S), expand structured sites/objects/claims, sync corresponding `civ-*.md`. This completes the **first** density pass across all nine civilization packs.
+
+**This round (bibliographic identity verified via WebSearch/catalogs/journal pages; access_date 2026-10-11; no invented pages/coords/forged images):**
+
+**Aegean major P:** Lang Pylos frescoes 1969; Blegen et al. Vol. III 1973; Shaw Kommos I 1995; Betancourt II 1990; Watrous III 1992; Platon Zakros 1971; Iakovidis Gla II 1998.
+
+**Olmec major P:** Stirling BAE 138; Weiant 139; Drucker 140; Pool Tres Zapotes 2003; Ortiz & Rodríguez El Manatí; Symonds/Cyphers San Lorenzo settlement; Rust & Sharer 1988 Science.
+
+**Early Maya major P:** Inomata et al. Nature 2020 Aguada Fénix; PNAS 2015 Ceibal; Hammond Cuello 1991; Laporte & Fialko 1995 Mundo Perdido; Ricketson/Smith Uaxactún; Matheny NWAF Tigre; Hansen basin reports; Healy Cahal Pech; Garber Blackman Eddy.
+
+**Structured results:**
+- **aegean:** sources 14→28; sites 4→14; objects 3→16; claims 6→24; periods 5→7; media 1→4
+- **olmec:** sources 13→28; sites 3→12; objects 3→16; claims 5→24; periods 3→4; media 1→4
+- **early-maya:** sources 12→28; sites 5→14; objects 3→16; claims 6→26; periods 4→5; media 1→4
+- `tools/export_check.py` passes all packs.
+
+**Note:** Contested models stay hypotheses. Integrity over speed. First density pass across all nine packs complete.
+

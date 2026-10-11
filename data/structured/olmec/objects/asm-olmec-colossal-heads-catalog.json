@@ -1,0 +1,43 @@
+{
+  "id": "asm-olmec-colossal-heads-catalog",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "巨石头像类型目录指针",
+    "en": "Colossal-head typology catalog pointer"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta",
+    "site-tres-zapotes"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "历史目录 + Cyphers 现代总录交叉。",
+    "en": "Historical catalog cross-checked with Cyphers corpus."
+  },
+  "sources": [
+    "src-olmec-beverido-clewlow-heads",
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-benson-fuente-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

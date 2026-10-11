@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-san-bartolo-murals-fact",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Saturno, Stuart & Beltrán 2006 报告圣巴托罗晚前古典壁画与早期文字。",
+    "en": "Saturno, Stuart & Beltrán 2006 report Late Preclassic San Bartolo murals and early writing."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-san-bartolo"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic"
+  ],
+  "object_ids": [
+    "asm-maya-san-bartolo-murals"
+  ],
+  "sources": [
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

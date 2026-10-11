@@ -16,16 +16,18 @@
   },
   "sources": [
     "src-aegean-wace-mycenae-1949",
-    "src-aegean-dickinson-1994"
+    "src-aegean-dickinson-1994",
+    "src-aegean-french-mycenae-2002",
+    "src-aegean-mountjoy-mycenaean-pottery-1986"
   ],
   "coordinates": null,
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
-      "sources/src-*"
+      "sources/src-aegean-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

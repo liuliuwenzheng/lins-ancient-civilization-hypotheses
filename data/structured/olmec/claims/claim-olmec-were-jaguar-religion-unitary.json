@@ -1,0 +1,28 @@
+{
+  "id": "claim-olmec-were-jaguar-religion-unitary",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "单一「豹人」宗教统摄全部奥尔梅克图像——图像学统一模型属假说。",
+    "en": "A single “were-jaguar” religion governing all Olmec imagery is an iconographic hypothesis."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-taube-doaks-2004",
+    "src-olmec-benson-fuente-1996"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

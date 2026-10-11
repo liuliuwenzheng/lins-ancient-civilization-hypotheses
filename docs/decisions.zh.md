@@ -287,3 +287,43 @@
 
 **说明：** 夏史实性、二里头=夏都、郑州/偃师/洹北文献王都指认、盘龙城=商前哨、三星堆=商同一政体、三星堆→金沙简单迁都、「古蜀国」完备国家实体一律留在假说栏。完整性优先于速度。
 
+### D-2026-10-11-27 — 爱琴 + 奥尔梅克 + 早期玛雅档案密度加深（完成九包第一轮）
+
+**决定：** 按主人优先项（对齐两河 D-21 / 埃及 D-22 / 印度河 D-23 / 安第斯 D-24 / 中国青铜+三星堆 D-25），加深爱琴、奥尔梅克、早期玛雅三包：登记可核验遗址级发掘报告/简报（P）与强二手（S），扩展结构化遗址/器物组合/主张，并同步对应 `civ-*.md`。本决定完成九个文明包的**第一轮**档案密度加深。
+
+**本轮新增（均经 WebSearch/目录页/期刊页核验书目；access_date 2026-10-11；不编造页码/坐标/伪造图）：**
+
+**爱琴主要 P：**
+- Lang《Palace of Nestor》Vol. II 壁画 1969；Blegen 等 Vol. III 1973
+- Shaw & Shaw《Kommos》Vol. I 1995；Betancourt Vol. II 1990；Watrous Vol. III 1992
+- Platon《Zakros》1971（发掘者英文专书）
+- Iakovidis《Γλας II》1998
+
+主要 **S：** French《Mycenae》2002；Mountjoy 迈锡尼彩陶手册 1986；Barber 基克拉泽斯 1987；Macdonald/Hood 克诺索斯交叉；Davis《Sandy Pylos》1998；Palaima Linear B 行政指针。
+
+**奥尔梅克主要 P：**
+- Stirling BAE Bulletin 138（1943）；Weiant BAE 139；Drucker BAE 140
+- Pool 编 Tres Zapotes Cotsen 专书 2003
+- Ortiz & Rodríguez 埃尔马纳蒂圣泉献祭项目叙述
+- Symonds/Cyphers《Asentamiento… San Lorenzo》UNAM；Rust & Sharer 1988 *Science* 拉文塔聚落
+
+主要 **S：** Flannery & Marcus 母文化批判；Clewlow 等巨石头像目录；Benson 1981 邻境文集；Milbrath 雕塑年代；Cyphers《Las bellas teorías…》。
+
+**早期玛雅主要 P：**
+- Inomata 等 2020 *Nature* 阿瓜达费尼克斯；Inomata 等 2015 *PNAS* 塞瓦尔
+- Hammond《Cuello》1991
+- Laporte & Fialko 1995 *Ancient Mesoamerica* 失落世界
+- Ricketson 1937 / Smith 1950 瓦哈克通卡内基报告
+- Matheny NWAF 米拉多尔老虎群；Hansen 盆地报告指针
+- Healy 卡哈尔佩奇；Garber 布莱克曼艾迪
+
+主要 **S：** McAnany《Living with the Ancestors》；Ashmore 低地聚落；Schele & Freidel（假说卫生用）。
+
+**结构化结果：**
+- **aegean：** 来源 14→28；遗址 4→14；器物组合 3→16；主张 6→24；分期 5→7；媒体 1→4
+- **olmec：** 来源 13→28；遗址 3→12；器物组合 3→16；主张 5→24；分期 3→4；媒体 1→4
+- **early-maya：** 来源 12→28；遗址 5→14；器物组合 3→16；主张 6→26；分期 4→5；媒体 1→4
+- `tools/export_check.py` 全仓通过。
+
+**说明：** 爱琴高/低年代、海上霸权、荷马等同；奥尔梅克母文化/帝国/单向陶器出口；玛雅单向奥尔梅克起源、米拉多尔「首个国家」、中前古典完备神王等一律假说栏。完整性优先于速度。九包第一轮密度加深至此完成。
+

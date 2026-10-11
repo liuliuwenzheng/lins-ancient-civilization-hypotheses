@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-inomata-middle-preclassic-platforms",
+  "entity": "source",
+  "type": "article",
+  "citation": "Inomata, Takeshi, et al. (related Middle Preclassic ceremonial-platform / “Middle Formative Usumacinta” landscape papers following Aguada Fénix; seed keeps Nature 2020 as primary site report and Science 2013 Ceibal as primary lowland ceremonial date anchor).",
+  "url": "https://www.nature.com/articles/s41586-020-2343-4",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Related Middle Preclassic ceremonial landscape studies by Inomata team. Use Nature 2020 / Science 2013 as primary anchors.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-inomata-middle-preclassic-platforms.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

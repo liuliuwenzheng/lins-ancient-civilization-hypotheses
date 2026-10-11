@@ -1,0 +1,42 @@
+{
+  "id": "asm-maya-ceibal-lithics",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "塞瓦尔石器工业指针",
+    "en": "Ceibal lithic industry pointer"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-ceibal"
+  ],
+  "period_ids": [
+    "period-maya-early-middle-preclassic"
+  ],
+  "summary": {
+    "zh": "Aoyama 等石器分析指针。",
+    "en": "Lithic-analysis pointer (Aoyama et al.)."
+  },
+  "sources": [
+    "src-maya-aoyama-ceibal-lithics",
+    "src-maya-inomata-ceibal-science-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

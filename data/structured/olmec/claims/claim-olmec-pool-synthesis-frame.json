@@ -1,0 +1,28 @@
+{
+  "id": "claim-olmec-pool-synthesis-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pool 2007 提供奥尔梅克考古与早期中美洲综合框架。",
+    "en": "Pool 2007 supplies a synthesis frame for Olmec archaeology and early Mesoamerica."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-mesoamerica-nichols-pool-handbook-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

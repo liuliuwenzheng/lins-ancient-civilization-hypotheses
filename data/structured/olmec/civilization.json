@@ -9,23 +9,38 @@
   "region": "Mesoamerica / Gulf Coast lowlands (southern Veracruz and Tabasco, Mexico)",
   "time_span": "ca. 1500–400 BCE conventional Formative floruit (Pool 2007: emerged ~3500 years ago; flourished ~1000 years)",
   "summary": {
-    "zh": "墨西哥湾沿岸形成期奥尔梅克考古文化：圣洛伦佐、拉文塔等中心及海湾以外风格互动——非「中美洲母文化」定论。",
-    "en": "Formative Gulf Coast Olmec archaeological culture (San Lorenzo, La Venta, and interaction beyond the heartland) — not a settled “mother culture of Mesoamerica” verdict."
+    "zh": "奥尔梅克档案包（密度 D-27）：特雷斯萨波特斯 BAE/Pool、埃尔马纳蒂、圣洛伦佐调查与拉文塔续报已入库；母文化/帝国标签留假说栏。",
+    "en": "Olmec archive pack (density D-27): Tres Zapotes BAE/Pool, El Manatí, San Lorenzo survey, La Venta continuations registered; mother-culture/empire labels stay hypotheses."
   },
   "sources": [
-    "src-olmec-pool-2007",
-    "src-olmec-diehl-2004",
-    "src-olmec-coe-diehl-san-lorenzo-1980",
-    "src-olmec-grove-chalcatzingo-1987",
-    "src-mesoamerica-nichols-pool-handbook-2012",
     "src-maya-inomata-ceibal-science-2013",
-    "src-olmec-drucker-la-venta-1952",
-    "src-olmec-drucker-heizer-squier-1959",
-    "src-olmec-cyphers-escultura-2004",
-    "src-olmec-clark-pye-nga-2000",
+    "src-mesoamerica-nichols-pool-handbook-2012",
+    "src-olmec-arnold-san-lorenzo-ceramics",
     "src-olmec-benson-fuente-1996",
+    "src-olmec-benson-neighbors-1981",
+    "src-olmec-beverido-clewlow-heads",
     "src-olmec-blomster-neff-glascock-2005",
-    "src-olmec-taube-doaks-2004"
+    "src-olmec-cheetham-cantona-or-san-lorenzo",
+    "src-olmec-clark-pye-nga-2000",
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-cyphers-bellas-teorias",
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-diehl-2004",
+    "src-olmec-drucker-bae-140-1943",
+    "src-olmec-drucker-heizer-squier-1959",
+    "src-olmec-drucker-la-venta-1952",
+    "src-olmec-flannery-marcus-olmec-oaxaca",
+    "src-olmec-gonzalez-lauck-la-venta",
+    "src-olmec-grove-chalcatzingo-1987",
+    "src-olmec-milbrath-sculptural-chronology-1979",
+    "src-olmec-ortiz-rodriguez-manati-am",
+    "src-olmec-pool-2007",
+    "src-olmec-pool-tres-zapotes-2003",
+    "src-olmec-rust-sharer-la-venta-1988",
+    "src-olmec-stirling-bae-138-1943",
+    "src-olmec-symonds-cyphers-settlement",
+    "src-olmec-taube-doaks-2004",
+    "src-olmec-weiant-bae-139-1943"
   ],
   "related_ids": [
     "civ-early-maya"
@@ -33,34 +48,76 @@
   "entity": "civilization",
   "kind": "fact",
   "site_ids": [
-    "site-san-lorenzo",
+    "site-cerro-de-las-mesas",
+    "site-chalcatzingo",
+    "site-el-azuzul",
+    "site-el-manati",
+    "site-la-merced",
     "site-la-venta",
-    "site-chalcatzingo"
+    "site-laguna-de-los-cerros",
+    "site-las-limas",
+    "site-potrero-nuevo",
+    "site-san-lorenzo",
+    "site-teopantecuanitlan",
+    "site-tres-zapotes"
   ],
   "period_ids": [
     "period-olmec-early-formative",
-    "period-olmec-middle-formative",
-    "period-olmec-formative-floruit"
+    "period-olmec-epi-olmec",
+    "period-olmec-formative-floruit",
+    "period-olmec-middle-formative"
   ],
   "claim_ids": [
-    "claim-olmec-gulf-heartland",
-    "claim-olmec-monumental-stone-art",
+    "claim-olmec-benson-neighbors-frame",
+    "claim-olmec-blomster-inaa",
+    "claim-olmec-chalcatzingo-grove",
     "claim-olmec-chalcatzingo-interaction",
+    "claim-olmec-cyphers-sculpture-corpus",
+    "claim-olmec-el-manati-offerings-excavated",
+    "claim-olmec-el-manati-state-ritual",
+    "claim-olmec-empire-political",
+    "claim-olmec-gulf-heartland",
+    "claim-olmec-la-venta-complex-a-reports",
+    "claim-olmec-la-venta-settlement-science",
+    "claim-olmec-monumental-stone-art",
+    "claim-olmec-mother-culture-model",
     "claim-olmec-mother-culture",
-    "claim-olmec-pottery-export-model"
+    "claim-olmec-pool-synthesis-frame",
+    "claim-olmec-pottery-export-model",
+    "claim-olmec-pottery-unidirectional-export",
+    "claim-olmec-san-lorenzo-capital-of-all",
+    "claim-olmec-san-lorenzo-settlement-survey",
+    "claim-olmec-stirling-monuments-survey",
+    "claim-olmec-tres-zapotes-excavated",
+    "claim-olmec-tres-zapotes-stela-c-long-count-origin",
+    "claim-olmec-were-jaguar-religion-unitary",
+    "claim-olmec-writing-fully-deciphered"
   ],
   "object_ids": [
+    "asm-olmec-chalcatzingo-monuments",
+    "asm-olmec-colossal-heads-catalog",
     "asm-olmec-colossal-heads-sculpture",
+    "asm-olmec-el-manati-offerings",
+    "asm-olmec-inna-pottery-exchange",
     "asm-olmec-la-venta-complex-a-offerings",
-    "asm-olmec-style-pottery-exchange"
+    "asm-olmec-la-venta-complex-a",
+    "asm-olmec-la-venta-monuments-stirling",
+    "asm-olmec-la-venta-settlement",
+    "asm-olmec-san-lorenzo-sculpture-corpus",
+    "asm-olmec-san-lorenzo-settlement",
+    "asm-olmec-stirling-izapa-comparative",
+    "asm-olmec-style-pottery-exchange",
+    "asm-olmec-teopantecuanitlan-architecture",
+    "asm-olmec-tres-zapotes-ceramics",
+    "asm-olmec-tres-zapotes-monuments"
   ],
   "markdown_path": "data/civilizations/civ-olmec.md",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-olmec.md",
-      "sources/src-*"
+      "data/structured/olmec/"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; rebuilt index lists from pack files."
   }
 }

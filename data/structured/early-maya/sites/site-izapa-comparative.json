@@ -1,0 +1,32 @@
+{
+  "id": "site-izapa-comparative",
+  "entity": "site",
+  "names": {
+    "zh": "伊萨帕（比较）",
+    "en": "Izapa (comparative)",
+    "native": null
+  },
+  "kind_note": "Formative–Preclassic stela tradition comparative site (also in Stirling); not equated to l",
+  "region": "southern Chiapas, Mexico",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "成型期—前古典石碑传统比较点（Stirling 亦记）；非低地玛雅等同。",
+    "en": "Formative–Preclassic stela tradition comparative site (also in Stirling); not equated to lowland Maya."
+  },
+  "sources": [
+    "src-olmec-stirling-bae-138-1943",
+    "src-maya-sharer-traxler-2006",
+    "src-mesoamerica-nichols-pool-handbook-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

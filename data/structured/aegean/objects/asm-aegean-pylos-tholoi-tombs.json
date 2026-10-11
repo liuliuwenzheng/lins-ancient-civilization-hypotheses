@@ -1,0 +1,42 @@
+{
+  "id": "asm-aegean-pylos-tholoi-tombs",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "皮洛斯圆顶墓与墓圈",
+    "en": "Pylos tholoi and grave circle"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "Vol. III 报告的圆顶墓、墓圈与墓室墓。",
+    "en": "Tholoi, grave circle, and chamber tombs in Vol. III."
+  },
+  "sources": [
+    "src-aegean-blegen-pylos-vol3-1973",
+    "src-aegean-blegen-rawson-pylos-1966"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

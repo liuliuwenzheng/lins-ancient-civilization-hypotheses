@@ -1,0 +1,31 @@
+{
+  "id": "site-la-merced",
+  "entity": "site",
+  "names": {
+    "zh": "拉·梅塞德",
+    "en": "La Merced",
+    "native": null
+  },
+  "kind_note": "Early Formative-related site pointer (handbook-level).",
+  "region": "southern Veracruz / Coatzacoalcos region",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "早期成型期相关遗址指针（手册级）。",
+    "en": "Early Formative-related site pointer (handbook-level)."
+  },
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

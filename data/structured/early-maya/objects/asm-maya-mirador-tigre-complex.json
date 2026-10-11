@@ -1,0 +1,42 @@
+{
+  "id": "asm-maya-mirador-tigre-complex",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃尔米拉多尔老虎建筑群",
+    "en": "El Mirador Tigre Complex"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-el-mirador"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "NWAF/Hansen 项目报告的巨型建筑群。",
+    "en": "Monumental architectural complex in NWAF/Hansen project reports."
+  },
+  "sources": [
+    "src-maya-matheny-tigre-mirador-1990",
+    "src-maya-hansen-tigre-mirador"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

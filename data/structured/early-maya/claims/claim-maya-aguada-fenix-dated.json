@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-aguada-fenix-dated",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Inomata 等 2020 用贝叶斯放射性碳将阿瓜达费尼克斯主台地建设定在约公元前 1000–800 年。",
+    "en": "Inomata et al. 2020 date Aguada Fénix main-plateau construction to ca. 1000–800 BCE with Bayesian radiocarbon."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-aguada-fenix"
+  ],
+  "period_ids": [
+    "period-maya-early-middle-preclassic"
+  ],
+  "object_ids": [
+    "asm-maya-aguada-fenix-plateau"
+  ],
+  "sources": [
+    "src-maya-inomata-aguada-fenix-nature-2020"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

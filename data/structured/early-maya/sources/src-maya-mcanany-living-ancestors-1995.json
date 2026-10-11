@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-mcanany-living-ancestors-1995",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "McAnany, Patricia A. 1995. Living with the Ancestors: Kinship and Kingship in Ancient Maya Society. Austin: University of Texas Press.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Influential secondary synthesis on kinship, ancestor veneration, and kingship. Use cautiously for Preclassic projections; excavation anchors required for site facts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-mcanany-living-ancestors-1995.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-garber-blackman-eddy",
+  "entity": "source",
+  "type": "article",
+  "citation": "Garber, James F., et al. (Blackman Eddy, Belize, Preclassic architectural sequence reports in Belize Valley edited volumes).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Blackman Eddy Preclassic architecture reports (Belize Valley). Complements Cuello and Cahal Pech for Belize early complexity. No invented structure numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-garber-blackman-eddy.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-agia-triada",
+  "entity": "site",
+  "names": {
+    "zh": "阿吉亚·特里亚达",
+    "en": "Agia Triada (Hagia Triada)",
+    "native": null
+  },
+  "kind_note": "Mesara ‘villa’/administrative complex often paired with Phaistos.",
+  "region": "Crete, Mesara, near Phaistos, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "梅萨拉「别墅」/行政建筑群；常与费斯托斯并提。",
+    "en": "Mesara ‘villa’/administrative complex often paired with Phaistos."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-hood-archaeology-crete-1971",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

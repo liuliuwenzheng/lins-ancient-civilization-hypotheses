@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-mundo-perdido-published",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Laporte & Fialko 1995 发表蒂卡尔失落世界 1979–1984 发掘综合。",
+    "en": "Laporte & Fialko 1995 publish the 1979–1984 Mundo Perdido excavation synthesis at Tikal."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-tikal-mundo-perdido"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maya-mundo-perdido-egroup"
+  ],
+  "sources": [
+    "src-maya-laporte-fialko-mundo-perdido-1995"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

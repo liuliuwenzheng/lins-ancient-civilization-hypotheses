@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-palaima-pylos-tablets-orient",
+  "entity": "source",
+  "type": "article",
+  "citation": "Palaima, Thomas G. (various peer-reviewed studies summarizing Pylos Linear B archives; seed uses Chadwick/Ventris as primary decipherment anchors and Palaima as specialist S pointer for administrative interpretation).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Specialist secondary pointer for Pylos Linear B administrative interpretation. Decipherment facts remain anchored to Ventris & Chadwick 1956 / Chadwick 1976. No invented tablet transliterations in this seed.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-palaima-pylos-tablets-orient.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-benson-neighbors-1981",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Benson, Elizabeth P., ed. 1981. The Olmec and Their Neighbors: Essays in Memory of Matthew W. Stirling. Washington, D.C.: Dumbarton Oaks Research Library and Collection.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Edited memorial volume on Olmec and neighbors (Cambridge review pages accessed 2026-10-11). Strong secondary essays; not a single-site primary report.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-benson-neighbors-1981.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

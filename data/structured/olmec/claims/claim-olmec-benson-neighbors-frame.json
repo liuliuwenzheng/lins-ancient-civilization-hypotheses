@@ -1,0 +1,28 @@
+{
+  "id": "claim-olmec-benson-neighbors-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Benson 1981 纪念文集提供奥尔梅克与邻境互动的二手论文框架。",
+    "en": "Benson 1981 memorial volume supplies a secondary essay frame for Olmec–neighbor interaction."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-benson-neighbors-1981",
+    "src-olmec-pool-2007"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

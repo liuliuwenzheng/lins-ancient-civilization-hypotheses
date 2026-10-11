@@ -1,0 +1,44 @@
+{
+  "id": "asm-aegean-mycenaean-decorated-pottery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迈锡尼彩陶类型组合",
+    "en": "Mycenaean decorated pottery type assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae",
+    "site-tiryns",
+    "site-pylos"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "Mountjoy 识别手册所框的彩陶类型。",
+    "en": "Decorated pottery types framed by Mountjoy’s identification guide."
+  },
+  "sources": [
+    "src-aegean-mountjoy-mycenaean-pottery-1986",
+    "src-aegean-dickinson-1994"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

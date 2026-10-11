@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-pylos-regional-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Davis 编《Sandy Pylos》记载皮洛斯区域调查/景观考古综合。",
+    "en": "Davis (ed.) Sandy Pylos documents Pylos regional survey/landscape synthesis."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-davis-pylos-regional-1998",
+    "src-aegean-blegen-rawson-pylos-1966"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

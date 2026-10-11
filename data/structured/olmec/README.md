@@ -1,8 +1,10 @@
-# Structured archive pack — Olmec
+# Structured archive pack — olmec
 
 English | [中文](README.zh.md)
 
-Machine-readable records derived **only** from `data/civilizations/civ-olmec.md` and registered sources listed there. No new archaeological claims. No forged artifact images.
+Derived only from civilizations MD + registered sources. No inventions. No forged images.
+
+**Density D-2026-10-11-27:** sources 28 · sites 12 · periods 4 · objects 16 · claims 24 · media 4 (outbound).
 
 ```bash
 .venv/bin/python tools/export_check.py

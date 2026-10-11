@@ -1,0 +1,42 @@
+{
+  "id": "asm-olmec-inna-pottery-exchange",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "INAA 陶器交换数据集指针",
+    "en": "INAA pottery-exchange dataset pointer"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "summary": {
+    "zh": "Blomster 等中子活化分析相关的风格陶器流通讨论。",
+    "en": "INAA-related discussion of style-pottery circulation (Blomster et al.)."
+  },
+  "sources": [
+    "src-olmec-blomster-neff-glascock-2005",
+    "src-olmec-cheetham-cantona-or-san-lorenzo"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

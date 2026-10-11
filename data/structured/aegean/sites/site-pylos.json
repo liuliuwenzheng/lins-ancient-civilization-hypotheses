@@ -15,16 +15,19 @@
     "en": "Cincinnati campaigns 1952–1964; fire destruction at end of 13th century B.C. per publisher summary."
   },
   "sources": [
-    "src-aegean-blegen-rawson-pylos-1966"
+    "src-aegean-blegen-rawson-pylos-1966",
+    "src-aegean-lang-pylos-frescoes-1969",
+    "src-aegean-blegen-pylos-vol3-1973",
+    "src-aegean-davis-pylos-regional-1998"
   ],
   "coordinates": null,
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
-      "sources/src-*"
+      "sources/src-aegean-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

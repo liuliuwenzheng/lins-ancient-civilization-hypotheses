@@ -16,7 +16,9 @@
   },
   "sources": [
     "src-maya-hansen-nakbe-1998",
-    "src-maya-estrada-belli-2011"
+    "src-maya-estrada-belli-2011",
+    "src-maya-hansen-tigre-mirador",
+    "src-maya-matheny-tigre-mirador-1990"
   ],
   "coordinates": null,
   "entity": "site",
@@ -26,6 +28,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

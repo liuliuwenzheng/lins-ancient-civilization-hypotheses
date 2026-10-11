@@ -1,0 +1,43 @@
+{
+  "id": "asm-aegean-cycladic-ec-assemblages",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "早基克拉泽斯物质组合",
+    "en": "Early Cycladic material assemblages"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-phylakopi"
+  ],
+  "period_ids": [
+    "period-aegean-early-bronze"
+  ],
+  "summary": {
+    "zh": "第三千纪岛屿物质文化标签组合。",
+    "en": "Third-millennium island material-culture label sets."
+  },
+  "sources": [
+    "src-aegean-renfrew-1972",
+    "src-aegean-broodbank-cyclades-2000",
+    "src-aegean-barber-cyclades-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-iakovidis-gla-ii-1998",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Iakovidis, Spyridon. 1998. Γλας II: Η ανασκαφή 1981–1991 [Gla II: The Excavation 1981–1991]. Athens: Archaeological Society at Athens (Βιβλιοθήκη της εν Αθήναις Αρχαιολογικής Εταιρείας no. 173). ISBN 960-7036-75-1.",
+  "url": "https://bibliography.gr/books/glas-ii",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Gla fortress excavation report (1981–83, 1990–91; catalog page accessed 2026-10-11). Mycenaean fortified complex associated with Kopais drainage works. No invented wall measurements.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-iakovidis-gla-ii-1998.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

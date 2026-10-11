@@ -1,0 +1,44 @@
+{
+  "id": "asm-aegean-knossos-palace-core",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "克诺索斯宫室核心",
+    "en": "Knossos palace core assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial",
+    "period-aegean-middle-bronze"
+  ],
+  "summary": {
+    "zh": "宫室核心；Evans 修复须交叉核对。",
+    "en": "Palace core; Evans restorations require cross-check."
+  },
+  "sources": [
+    "src-aegean-evans-palace-of-minos-1921",
+    "src-aegean-macdonald-knossos-2005",
+    "src-aegean-hood-archaeology-crete-1971"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

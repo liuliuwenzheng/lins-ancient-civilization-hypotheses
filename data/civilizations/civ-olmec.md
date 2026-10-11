@@ -25,8 +25,23 @@ sources:
   - src-olmec-benson-fuente-1996
   - src-olmec-blomster-neff-glascock-2005
   - src-olmec-taube-doaks-2004
+  - src-olmec-stirling-bae-138-1943
+  - src-olmec-weiant-bae-139-1943
+  - src-olmec-drucker-bae-140-1943
+  - src-olmec-pool-tres-zapotes-2003
+  - src-olmec-ortiz-rodriguez-manati-am
+  - src-olmec-gonzalez-lauck-la-venta
+  - src-olmec-flannery-marcus-olmec-oaxaca
+  - src-olmec-symonds-cyphers-settlement
+  - src-olmec-cheetham-cantona-or-san-lorenzo
+  - src-olmec-beverido-clewlow-heads
+  - src-olmec-rust-sharer-la-venta-1988
+  - src-olmec-arnold-san-lorenzo-ceramics
+  - src-olmec-benson-neighbors-1981
+  - src-olmec-milbrath-sculptural-chronology-1979
+  - src-olmec-cyphers-bellas-teorias
 related_ids: ["civ-early-maya"]
-notes: "fact-library after 2026-10-11 depth upgrade. Mother culture vs sister cultures / peer interaction = open debate (Notes). Diehl title primacy language not adopted as fact. Blomster et al. 2005 pottery-export model has published critiques — treat as sourced interaction evidence, not empire narrative. Epi-Olmec lightly oriented only. No invented page numbers; no forged images."
+notes: "fact-library; density D-2026-10-11-27 archive deepen. Mother culture / empire / unidirectional pottery export / fully deciphered writing = hypotheses. Diehl title primacy not fact. Epi-Olmec oriented via Tres Zapotes Late Formative. No invented page numbers/coords/forged images."
 ---
 
 # 奥尔梅克 / Olmec
@@ -70,6 +85,20 @@ The table aligns **conventional Formative frames** with registered sources. Cali
 - **La Venta** — Middle Formative Gulf center; Drucker 1952; Drucker, Heizer & Squier 1959; González Lauck 1996 capital synthesis [`src-olmec-drucker-la-venta-1952`][`src-olmec-drucker-heizer-squier-1959`][`src-olmec-benson-fuente-1996`][`src-olmec-diehl-2004`].
 - **Chalcatzingo (highland Morelos)** — Formative center with Olmec-style monumental art outside the heartland; Grove 1987 — interaction anchor, not a colony verdict [`src-olmec-grove-chalcatzingo-1987`].
 - **Other Gulf sites (e.g. Tres Zapotes)** — oriented via Diehl / Clark & Pye; no invented monument lists [`src-olmec-diehl-2004`][`src-olmec-clark-pye-nga-2000`].
+
+
+### Density D-2026-10-11-27 site expansions
+
+- **特雷斯·萨波特斯 / Tres Zapotes** — Stirling BAE 138；Weiant BAE 139；Drucker BAE 140；Pool 2003 定居考古 [`src-olmec-stirling-bae-138-1943`][`src-olmec-weiant-bae-139-1943`][`src-olmec-drucker-bae-140-1943`][`src-olmec-pool-tres-zapotes-2003`]。
+- **埃尔·马纳蒂 / El Manatí** — Ortiz & Rodríguez 圣泉献祭（玉斧、橡胶球、木雕） [`src-olmec-ortiz-rodriguez-manati-am`]。
+- **圣洛伦佐调查** — Symonds/Cyphers UNAM 聚落专书；Cyphers 雕塑总录 [`src-olmec-symonds-cyphers-settlement`][`src-olmec-cyphers-escultura-2004`]。
+- **拉文塔续** — Rust & Sharer 1988 聚落；González Lauck 项目指针 [`src-olmec-rust-sharer-la-venta-1988`][`src-olmec-gonzalez-lauck-la-venta`]。
+- **拉古纳德洛斯塞罗斯 / 特奥潘特夸尼特兰 / 埃尔阿苏苏尔 / 波特雷罗努埃沃 / 拉斯利马斯 / 拉梅塞德 / 塞罗德拉斯梅萨斯** — 结构化遗址壳 [`src-olmec-pool-2007`][`src-olmec-diehl-2004`]。
+
+- **Tres Zapotes** — Stirling/Weiant/Drucker BAE + Pool 2003 [`src-olmec-stirling-bae-138-1943`][`src-olmec-pool-tres-zapotes-2003`].
+- **El Manatí** — Ortiz & Rodríguez spring offerings [`src-olmec-ortiz-rodriguez-manati-am`].
+- **San Lorenzo survey** — Symonds/Cyphers; Cyphers sculpture corpus [`src-olmec-symonds-cyphers-settlement`][`src-olmec-cyphers-escultura-2004`].
+- **La Venta continuations** — Rust & Sharer 1988; González Lauck pointer [`src-olmec-rust-sharer-la-venta-1988`].
 
 ## Urbanism, architecture & institutions
 
@@ -135,6 +164,24 @@ Modern research pillars include Stirling-era Gulf exploration; Smithsonian La Ve
 - `src-olmec-blomster-neff-glascock-2005` — peer-reviewed INAA pottery-export study (tier S)
 - `src-olmec-taube-doaks-2004` — secondary museum catalog; Olmec portable art (tier S)
 
+
+### Density D-27 added sources
+- `src-olmec-stirling-bae-138-1943` — P; Stone Monuments of Southern Mexico
+- `src-olmec-weiant-bae-139-1943` — P; Tres Zapotes ceramics intro
+- `src-olmec-drucker-bae-140-1943` — P; Tres Zapotes ceramic sequences
+- `src-olmec-pool-tres-zapotes-2003` — P; Cotsen settlement monograph
+- `src-olmec-ortiz-rodriguez-manati-am` — P; El Manatí offerings
+- `src-olmec-gonzalez-lauck-la-venta` — P; INAH La Venta project pointer
+- `src-olmec-flannery-marcus-olmec-oaxaca` — S; mother-culture critique
+- `src-olmec-symonds-cyphers-settlement` — P; San Lorenzo settlement survey
+- `src-olmec-cheetham-cantona-or-san-lorenzo` — S; pottery exchange pointer
+- `src-olmec-beverido-clewlow-heads` — S; colossal heads catalog 1967
+- `src-olmec-rust-sharer-la-venta-1988` — P; Science settlement data
+- `src-olmec-arnold-san-lorenzo-ceramics` — S; ceramic economy pointer
+- `src-olmec-benson-neighbors-1981` — S; Dumbarton Oaks memorial essays
+- `src-olmec-milbrath-sculptural-chronology-1979` — S; sculptural chronology
+- `src-olmec-cyphers-bellas-teorias` — S; Early Preclassic controversies
+
 ## Related civilizations
 
 - `civ-early-maya` — Mesoamerican chronological neighbor (Formative / Preclassic overlap). **Shared motifs and interaction are documented; direction and degree of “Olmec influence” on early lowland Maya remain debated** [`src-maya-inomata-ceibal-science-2013`][`src-olmec-pool-2007`]
@@ -147,4 +194,5 @@ Modern research pillars include Stirling-era Gulf exploration; Smithsonian La Ve
 - **Blomster et al. 2005:** pottery-export INAA results are registered interaction evidence; published critiques/rejoinders exist — do not upgrade to “Olmec empire” narrative.
 - **Absolute chronology:** Pool’s ~3500 ya / ~1000-year floruit and conventional ca. 1500–400 BCE labels are approximate; San Lorenzo vs La Venta endpoints continue to be refined.
 - **Epi-Olmec:** noted via Diehl TOC only; not expanded here.
+- **Density D-27:** structured pack expanded (sources 13→28; sites 3→12). Mother culture, empire, San Lorenzo-as-sole-capital, fully deciphered writing, unitary were-jaguar religion, unidirectional pottery export, Manatí=state ritual, Stela C Long Count origin = hypotheses.
 - No invented page numbers; no forged images.

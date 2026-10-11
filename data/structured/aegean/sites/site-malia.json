@@ -1,0 +1,32 @@
+{
+  "id": "site-malia",
+  "entity": "site",
+  "names": {
+    "zh": "马利亚",
+    "en": "Malia",
+    "native": null
+  },
+  "kind_note": "Cretan north-coast palatial center; handbook-level entry.",
+  "region": "Crete, north coast, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "克里特北岸宫室中心；手册级入口。",
+    "en": "Cretan north-coast palatial center; handbook-level entry."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-cline-oxford-handbook-2010",
+    "src-aegean-hood-archaeology-crete-1971"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

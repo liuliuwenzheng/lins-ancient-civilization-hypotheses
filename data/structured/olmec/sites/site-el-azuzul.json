@@ -1,0 +1,32 @@
+{
+  "id": "site-el-azuzul",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔·阿苏苏尔",
+    "en": "El Azuzul",
+    "native": null
+  },
+  "kind_note": "San Lorenzo hinterland sculpture group; Cyphers project context.",
+  "region": "San Lorenzo hinterland, Veracruz",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "圣洛伦佐腹地雕塑组合点；Cyphers 项目语境。",
+    "en": "San Lorenzo hinterland sculpture group; Cyphers project context."
+  },
+  "sources": [
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-symonds-cyphers-settlement",
+    "src-olmec-coe-diehl-san-lorenzo-1980"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -24,8 +24,24 @@ sources:
   - src-maya-coe-houston-2015
   - src-maya-hansen-nakbe-1998
   - src-maya-willey-seibal-1975
+  - src-maya-inomata-aguada-fenix-nature-2020
+  - src-maya-hammond-cuello-1991
+  - src-maya-laporte-fialko-mundo-perdido-1995
+  - src-maya-matheny-tigre-mirador-1990
+  - src-maya-hansen-tigre-mirador
+  - src-maya-ricketson-uaxactun
+  - src-maya-smith-uaxactun
+  - src-maya-aoyama-ceibal-lithics
+  - src-maya-healy-cahal-pech
+  - src-maya-garber-blackman-eddy
+  - src-maya-freidel-schele-forest-kings
+  - src-maya-cohre-or-md-andrews-uaxactun
+  - src-maya-inomata-middle-preclassic-platforms
+  - src-maya-inomata-pnas-ceibal-2015
+  - src-maya-mcanany-living-ancestors-1995
+  - src-maya-ashmore-lowland-settlement-1981
 related_ids: ["civ-olmec"]
-notes: "fact-library after 2026-10-11 depth upgrade. Scope = Early Preclassic–Early Classic only. Classic Maya collapse OUT OF SCOPE. Olmec–Maya influence direction debated (Notes). Estrada-Belli title framing ≠ global primacy. San Bartolo early writing = Late Preclassic research-status fact within cited Science paper. No invented page numbers; no forged images."
+notes: "fact-library; density D-2026-10-11-27 archive deepen. Scope = Early Preclassic–Early Classic only. Classic collapse OUT OF SCOPE. Unilinear Olmec→Maya, Mirador first-state, full Middle Preclassic divine kingship = hypotheses. No invented page numbers/coords/forged images."
 ---
 
 # 早期玛雅 / Early Maya
@@ -74,6 +90,22 @@ The table aligns **Preclassic–Early Classic conventional phases** with registe
 - **Cival** — early complex ritual and large-scale leveling in Estrada-Belli’s frame [`src-maya-estrada-belli-2011`][`src-maya-inomata-ceibal-plateau-2019`].
 - **San Bartolo** — Late Preclassic murals and early writing [`src-maya-saturno-stuart-beltran-2006`].
 - **Tikal and peers (Classic-onset pointer only)** — 3rd-century CE early carved royal monuments; no full Classic political history here [`src-maya-estrada-belli-2011`][`src-maya-sharer-traxler-2006`].
+
+
+### Density D-2026-10-11-27 site expansions
+
+- **阿瓜达·费尼克斯 / Aguada Fénix** — Inomata 等 2020 *Nature*：约 1400 m 人工台地、九堤道、测年约前 1000–800 年 [`src-maya-inomata-aguada-fenix-nature-2020`]。
+- **奎略 / Cuello** — Hammond 1991 专书 [`src-maya-hammond-cuello-1991`]。
+- **蒂卡尔失落世界 / Mundo Perdido** — Laporte & Fialko 1995 [`src-maya-laporte-fialko-mundo-perdido-1995`]。
+- **瓦哈克通 / Uaxactún** — Ricketson 1937；Smith 1950 卡内基报告 [`src-maya-ricketson-uaxactun`][`src-maya-smith-uaxactun`]。
+- **埃尔米拉多尔老虎群** — NWAF/Matheny；Hansen 盆地报告 [`src-maya-matheny-tigre-mirador-1990`][`src-maya-hansen-tigre-mirador`]。
+- **卡哈尔佩奇 / 布莱克曼艾迪 / 卡米纳尔胡尤 / 伊萨帕比较 / 卡拉克穆尔指针** — 结构化遗址壳 [`src-maya-healy-cahal-pech`][`src-maya-garber-blackman-eddy`][`src-maya-sharer-traxler-2006`]。
+
+- **Aguada Fénix** — Inomata et al. 2020 Nature plateau/causeways/14C [`src-maya-inomata-aguada-fenix-nature-2020`].
+- **Cuello** — Hammond 1991 monograph [`src-maya-hammond-cuello-1991`].
+- **Tikal Mundo Perdido** — Laporte & Fialko 1995 [`src-maya-laporte-fialko-mundo-perdido-1995`].
+- **Uaxactún** — Carnegie Ricketson/Smith [`src-maya-ricketson-uaxactun`][`src-maya-smith-uaxactun`].
+- **El Mirador Tigre** — NWAF/Matheny; Hansen basin reports [`src-maya-matheny-tigre-mirador-1990`].
 
 ## Urbanism, architecture & institutions
 
@@ -140,6 +172,25 @@ Modern research pillars include Harvard Seibal [`src-maya-willey-seibal-1975`]; 
 - `src-maya-hansen-nakbe-1998` — secondary chapter/project synthesis; Nakbe Middle Preclassic architecture (tier S)
 - `src-maya-willey-seibal-1975` — primary Peabody multi-volume Seibal/Ceibal reports (tier P; Classic-leaning)
 
+
+### Density D-27 added sources
+- `src-maya-inomata-aguada-fenix-nature-2020` — P; Nature Aguada Fénix
+- `src-maya-hammond-cuello-1991` — P; Cuello monograph
+- `src-maya-laporte-fialko-mundo-perdido-1995` — P; Ancient Mesoamerica Mundo Perdido
+- `src-maya-matheny-tigre-mirador-1990` — P; NWAF Tigre Complex
+- `src-maya-hansen-tigre-mirador` — P; Mirador Basin reports pointer
+- `src-maya-ricketson-uaxactun` — P; Carnegie Group E 1937
+- `src-maya-smith-uaxactun` — P; Carnegie excavations 1950
+- `src-maya-aoyama-ceibal-lithics` — S; Ceibal lithics pointer
+- `src-maya-healy-cahal-pech` — P; Cahal Pech Preclassic
+- `src-maya-garber-blackman-eddy` — P; Blackman Eddy sequence
+- `src-maya-freidel-schele-forest-kings` — S; popular-scholarly (hypothesis hygiene)
+- `src-maya-cohre-or-md-andrews-uaxactun` — S; modern Uaxactún reassessment pointer
+- `src-maya-inomata-middle-preclassic-platforms` — S; related Middle Preclassic landscape
+- `src-maya-inomata-pnas-ceibal-2015` — P; PNAS Ceibal sedentism/ceremony
+- `src-maya-mcanany-living-ancestors-1995` — S; kinship/kingship synthesis
+- `src-maya-ashmore-lowland-settlement-1981` — S; settlement patterns volume
+
 ## Related civilizations
 
 - `civ-olmec` — Formative Gulf Coast neighbor. **Chronological overlap and southern Mesoamerican interaction spheres are documented; one-way “Olmec mother → Maya child” diffusion is not treated as fact** [`src-maya-inomata-ceibal-science-2013`][`src-olmec-pool-2007`]
@@ -152,4 +203,5 @@ Modern research pillars include Harvard Seibal [`src-maya-willey-seibal-1975`]; 
 - **Not claimed:** that Estrada-Belli’s title implies the Maya were the world’s or Americas’ “first civilization.”
 - **San Bartolo writing:** dated within the cited Science paper’s radiocarbon arguments; glyph readings beyond the article’s explicit claims are not asserted here.
 - Absolute calendar labels (~1000 BCE Ceibal; 3rd c. CE Classic onset) follow the cited works; later recalibrations may adjust endpoints.
+- **Density D-27:** structured pack expanded (sources 12→28; sites 5→14). Aguada Fénix egalitarianism, Mirador first-state, unilinear Olmec→Maya, Estrada-Belli title primacy, full Middle Preclassic divine kingship, Cuello “oldest”, E-Group astronomy-only, Calakmul Preclassic capital = hypotheses.
 - No invented page numbers; no forged images.

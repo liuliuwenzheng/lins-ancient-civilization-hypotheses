@@ -1,0 +1,32 @@
+{
+  "id": "site-gla",
+  "entity": "site",
+  "names": {
+    "zh": "格拉斯（格拉）",
+    "en": "Gla",
+    "native": null
+  },
+  "kind_note": "Mycenaean fortress in the Kopais basin; Iakovidis 1981–1991 report.",
+  "region": "Kopais basin, Boeotia, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "科派斯盆地迈锡尼要塞；Iakovidis 1981–1991 发掘报告。",
+    "en": "Mycenaean fortress in the Kopais basin; Iakovidis 1981–1991 report."
+  },
+  "sources": [
+    "src-aegean-iakovidis-gla-ii-1998",
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-olmec-to-maya-unilinear",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "玛雅文明由奥尔梅克单向演化而来——单线起源模型与当代互动/多中心证据冲突。",
+    "en": "Unilinear Olmec→Maya derivation conflicts with interaction/multi-center evidence."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-ceibal",
+    "site-aguada-fenix"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-inomata-ceibal-science-2013",
+    "src-maya-inomata-aguada-fenix-nature-2020",
+    "src-olmec-pool-2007",
+    "src-olmec-flannery-marcus-olmec-oaxaca"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

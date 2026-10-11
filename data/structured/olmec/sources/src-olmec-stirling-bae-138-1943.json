@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-stirling-bae-138-1943",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Stirling, Matthew W. 1943. Stone Monuments of Southern Mexico. Bureau of American Ethnology Bulletin 138. Washington: Smithsonian Institution.",
+  "url": "https://www.mesoweb.com/olmec/publications/Stirling1943-OCR.pdf",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Smithsonian BAE Bulletin 138 (accessed 2026-10-11 via Mesoweb OCR PDF): Tres Zapotes, Cerro de las Mesas, La Venta, and Izapa stone monuments from Stirling’s 1938–41 fieldwork. Historical P; chronology frameworks since revised. No invented monument measurements beyond bulletin identity.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-stirling-bae-138-1943.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

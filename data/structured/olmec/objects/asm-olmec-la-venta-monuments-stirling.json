@@ -1,0 +1,43 @@
+{
+  "id": "asm-olmec-la-venta-monuments-stirling",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉文塔石碑与祭坛（Stirling 调查）",
+    "en": "La Venta stelae and altars (Stirling survey)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-la-venta"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "BAE 138 记录的拉文塔石质纪念碑组合。",
+    "en": "La Venta stone-monument assemblage recorded in BAE 138."
+  },
+  "sources": [
+    "src-olmec-stirling-bae-138-1943",
+    "src-olmec-drucker-heizer-squier-1959",
+    "src-olmec-gonzalez-lauck-la-venta"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

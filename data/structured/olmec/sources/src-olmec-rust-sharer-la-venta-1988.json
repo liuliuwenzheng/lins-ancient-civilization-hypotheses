@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-rust-sharer-la-venta-1988",
+  "entity": "source",
+  "type": "article",
+  "citation": "Rust, William F., and Robert J. Sharer. 1988. “Olmec Settlement Data from La Venta, Tabasco, Mexico.” Science 242(4875): 102–104. DOI 10.1126/science.242.4875.102.",
+  "url": "https://www.science.org/doi/10.1126/science.242.4875.102",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Peer-reviewed La Venta settlement/survey data note in Science (DOI verified pattern). Complements Drucker Complex A reports. No invented population figures.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-rust-sharer-la-venta-1988.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

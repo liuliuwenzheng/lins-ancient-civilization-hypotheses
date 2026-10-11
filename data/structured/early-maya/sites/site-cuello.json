@@ -1,0 +1,32 @@
+{
+  "id": "site-cuello",
+  "entity": "site",
+  "names": {
+    "zh": "奎略",
+    "en": "Cuello",
+    "native": null
+  },
+  "kind_note": "Early Maya community in Belize; Hammond 1991 monograph.",
+  "region": "northern Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "伯利兹早期玛雅社区；Hammond 1991 专书。",
+    "en": "Early Maya community in Belize; Hammond 1991 monograph."
+  },
+  "sources": [
+    "src-maya-hammond-cuello-1991",
+    "src-maya-sharer-traxler-2006",
+    "src-maya-demarest-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-olmec-san-lorenzo-settlement",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "圣洛伦佐聚落调查组合",
+    "en": "San Lorenzo settlement-survey assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "summary": {
+    "zh": "UNAM 调查所框的高原聚落格局。",
+    "en": "Plateau settlement patterning framed by UNAM survey."
+  },
+  "sources": [
+    "src-olmec-symonds-cyphers-settlement",
+    "src-olmec-coe-diehl-san-lorenzo-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

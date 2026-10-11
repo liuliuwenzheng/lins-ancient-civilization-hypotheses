@@ -18,7 +18,10 @@
     "src-olmec-drucker-la-venta-1952",
     "src-olmec-drucker-heizer-squier-1959",
     "src-olmec-benson-fuente-1996",
-    "src-olmec-diehl-2004"
+    "src-olmec-diehl-2004",
+    "src-olmec-gonzalez-lauck-la-venta",
+    "src-olmec-rust-sharer-la-venta-1988",
+    "src-olmec-stirling-bae-138-1943"
   ],
   "coordinates": null,
   "entity": "site",
@@ -28,6 +31,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

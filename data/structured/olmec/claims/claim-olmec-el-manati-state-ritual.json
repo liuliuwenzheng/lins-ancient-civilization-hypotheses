@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-el-manati-state-ritual",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "埃尔马纳蒂献祭证明早期「国家」礼仪——将献祭直接升格为国家证据属跳跃。",
+    "en": "Reading El Manatí offerings as proof of early “state” ritual jumps beyond the deposits themselves."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-el-manati"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-olmec-el-manati-offerings"
+  ],
+  "sources": [
+    "src-olmec-ortiz-rodriguez-manati-am",
+    "src-olmec-pool-2007"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

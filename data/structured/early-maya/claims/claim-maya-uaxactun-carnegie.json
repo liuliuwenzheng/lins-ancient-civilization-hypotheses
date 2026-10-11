@@ -1,0 +1,32 @@
+{
+  "id": "claim-maya-uaxactun-carnegie",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Ricketson 1937 与 Smith 1950 卡内基报告构成瓦哈克通 Group E 等发掘档案。",
+    "en": "Ricketson 1937 and Smith 1950 Carnegie reports constitute the Uaxactún Group E excavation archive."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-uaxactun"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maya-uaxactun-group-e"
+  ],
+  "sources": [
+    "src-maya-ricketson-uaxactun",
+    "src-maya-smith-uaxactun"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

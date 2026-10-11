@@ -1,0 +1,32 @@
+{
+  "id": "site-laguna-de-los-cerros",
+  "entity": "site",
+  "names": {
+    "zh": "拉古纳·德洛斯·塞罗斯",
+    "en": "Laguna de los Cerros",
+    "native": null
+  },
+  "kind_note": "Gulf heartland site; handbook-level entry pending deeper reports.",
+  "region": "southern Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "海湾心腹地带遗址；手册级入口，待专报加深。",
+    "en": "Gulf heartland site; handbook-level entry pending deeper reports."
+  },
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004",
+    "src-mesoamerica-nichols-pool-handbook-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

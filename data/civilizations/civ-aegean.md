@@ -18,6 +18,8 @@ sources:
   - src-aegean-manning-science-2006
   - src-aegean-evans-palace-of-minos-1921
   - src-aegean-blegen-rawson-pylos-1966
+  - src-aegean-lang-pylos-frescoes-1969
+  - src-aegean-blegen-pylos-vol3-1973
   - src-aegean-ventris-chadwick-1956
   - src-aegean-salgarella-linear-a-2022
   - src-aegean-renfrew-1972
@@ -26,8 +28,20 @@ sources:
   - src-aegean-doumas-thera-1983
   - src-aegean-wace-mycenae-1949
   - src-aegean-cline-oxford-handbook-2010
+  - src-aegean-shaw-kommos-vol1-1995
+  - src-aegean-watrous-kommos-iii-1992
+  - src-aegean-betancourt-kommos-ii-1990
+  - src-aegean-platon-zakros-1971
+  - src-aegean-iakovidis-gla-ii-1998
+  - src-aegean-french-mycenae-2002
+  - src-aegean-mountjoy-mycenaean-pottery-1986
+  - src-aegean-barber-cyclades-1987
+  - src-aegean-macdonald-knossos-2005
+  - src-aegean-hood-archaeology-crete-1971
+  - src-aegean-davis-pylos-regional-1998
+  - src-aegean-palaima-pylos-tablets-orient
 related_ids: ["civ-mesopotamia", "civ-ancient-egypt"]
-notes: "fact-library after 2026-10-11 depth upgrade matching Mesopotamia/Egypt/Andes/Indus/China/Sanxingdui. Linear A undeciphered = research-status fact. High vs low absolute chronology (Thera / LM IA) and Minoan thalassocracy = open debates (Notes). Evans restorations require modern cross-check. No invented page numbers; no forged images."
+notes: "fact-library; density D-2026-10-11-27 archive deepen (sites + P sources). Linear A undeciphered = research-status fact. High/low chronology, thalassocracy, Homeric equations = hypotheses. Evans restorations require modern cross-check. No invented page numbers/coords/forged images."
 ---
 
 # 爱琴 / Aegean
@@ -77,6 +91,21 @@ The table aligns **conventional Aegean Bronze Age period names** with registered
 - **Akrotiri (Thera)** — LBA urban settlement preserved by eruption; Doumas 1983; absolute eruption date debated [`src-aegean-doumas-thera-1983`][`src-aegean-manning-science-2006`].
 - **Early Cycladic site groups** — Renfrew sequence and Broodbank island archaeology [`src-aegean-renfrew-1972`][`src-aegean-broodbank-cyclades-2000`].
 - **Other centers named in handbooks** (Phaistos, Malia, Zakros, Tiryns, Thebes, etc.) — oriented via Shelmerdine/Cline; no invented find lists [`src-aegean-shelmerdine-companion-2008`][`src-aegean-cline-oxford-handbook-2010`].
+
+
+### Density D-2026-10-11-27 site expansions（本轮加深）
+
+- **科莫斯 / Kommos** — 南克里特米诺斯港镇；Shaw 最终报告 Vol. I（1995）、Betancourt Vol. II（1990）、Watrous Vol. III（1992） [`src-aegean-shaw-kommos-vol1-1995`][`src-aegean-betancourt-kommos-ii-1990`][`src-aegean-watrous-kommos-iii-1992`]。
+- **扎克罗斯 / Zakros** — Platon 1971 发掘者专书 [`src-aegean-platon-zakros-1971`]。
+- **格拉斯 / Gla** — Iakovidis《Γλας II》1981–1991 要塞报告 [`src-aegean-iakovidis-gla-ii-1998`]。
+- **皮洛斯续卷** — Lang 壁画 Vol. II（1969）；Blegen 等 Vol. III 墓区（1973）；Davis《Sandy Pylos》区域综合 [`src-aegean-lang-pylos-frescoes-1969`][`src-aegean-blegen-pylos-vol3-1973`][`src-aegean-davis-pylos-regional-1998`]。
+- **费斯托斯 / 马利亚 / 阿吉亚特里亚达 / 梯林斯 / 底比斯 / 菲拉科皮 / 勒夫坎迪** — 已入结构化遗址壳，专报级清单仍待继续加深 [`src-aegean-shelmerdine-companion-2008`][`src-aegean-cline-oxford-handbook-2010`][`src-aegean-hood-archaeology-crete-1971`][`src-aegean-renfrew-1972`][`src-aegean-barber-cyclades-1987`]。
+
+- **Kommos** — Minoan harbortown; Shaw/Betancourt/Watrous Princeton series [`src-aegean-shaw-kommos-vol1-1995`][`src-aegean-betancourt-kommos-ii-1990`][`src-aegean-watrous-kommos-iii-1992`].
+- **Zakros** — Platon 1971 excavator monograph [`src-aegean-platon-zakros-1971`].
+- **Gla** — Iakovidis Gla II fortress report [`src-aegean-iakovidis-gla-ii-1998`].
+- **Pylos continuations** — Lang frescoes; Blegen Vol. III tombs; Davis regional synthesis [`src-aegean-lang-pylos-frescoes-1969`][`src-aegean-blegen-pylos-vol3-1973`][`src-aegean-davis-pylos-regional-1998`].
+- **Phaistos / Malia / Agia Triada / Tiryns / Thebes / Phylakopi / Lefkandi** — structured site shells; deeper report lists still pending [`src-aegean-shelmerdine-companion-2008`][`src-aegean-cline-oxford-handbook-2010`].
 
 ## Urbanism, architecture & institutions
 
@@ -145,6 +174,23 @@ Modern research pillars include Evans at Knossos [`src-aegean-evans-palace-of-mi
 - `src-aegean-wace-mycenae-1949` — historical primary Mycenae guide/synthesis (tier P)
 - `src-aegean-cline-oxford-handbook-2010` — secondary edited handbook; ca. 3000–1000 BC (tier S)
 
+
+### Density D-27 added sources
+- `src-aegean-lang-pylos-frescoes-1969` — P; Pylos frescoes Vol. II
+- `src-aegean-blegen-pylos-vol3-1973` — P; Pylos Vol. III tombs/lower town
+- `src-aegean-shaw-kommos-vol1-1995` — P; Kommos Vol. I
+- `src-aegean-betancourt-kommos-ii-1990` — P; Kommos Vol. II pottery
+- `src-aegean-watrous-kommos-iii-1992` — P; Kommos Vol. III LBA pottery
+- `src-aegean-platon-zakros-1971` — P; Zakros excavator monograph
+- `src-aegean-iakovidis-gla-ii-1998` — P; Gla II excavation report
+- `src-aegean-french-mycenae-2002` — S; Mycenae modern synthesis
+- `src-aegean-mountjoy-mycenaean-pottery-1986` — S; decorated pottery guide
+- `src-aegean-barber-cyclades-1987` — S; Cyclades Bronze Age
+- `src-aegean-macdonald-knossos-2005` — S; Knossos cross-check
+- `src-aegean-hood-archaeology-crete-1971` — S; Minoan Crete overview
+- `src-aegean-davis-pylos-regional-1998` — S; Sandy Pylos / PRAP
+- `src-aegean-palaima-pylos-tablets-orient` — S; Linear B admin pointer
+
 ## Related civilizations
 
 - `civ-mesopotamia` — East Mediterranean / Near Eastern exchange peer in Dickinson’s thematic frame; **no specific trade claim asserted beyond contact orientation** [`src-aegean-dickinson-1994`]
@@ -159,4 +205,5 @@ Modern research pillars include Evans at Knossos [`src-aegean-evans-palace-of-mi
 - **Evans caveats:** Restorations and political interpretations in *Palace of Minos* require modern cross-check.
 - **Blegen destruction date:** “End of the 13th century B.C.” follows the 1966 publisher summary; later refinements may adjust phrasing.
 - Dickinson ~3000–1000 BC, Shelmerdine c. 3000–1100 BCE, and Cline ca. 3000–1000 BC are overlapping conventional frames.
+- **Density D-27:** structured pack expanded (sources 14→28; sites 4→14). Homeric Nestor=Englianos, single Knossos thalassocracy, Thera-sole-cause collapse, Sea Peoples→Pylos, Linear A=Greek, historic Agamemnon = hypotheses.
 - No invented page numbers; no forged images.

@@ -1,0 +1,33 @@
+{
+  "id": "period-olmec-epi-olmec",
+  "entity": "period",
+  "names": {
+    "zh": "后奥尔梅克/晚期成型",
+    "en": "Epi-Olmec / Late Formative"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "time": {
+    "label": "post-heartland florescence; Tres Zapotes Late/Terminal Formative expansion per Pool 2003",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Pool 2007 / Diehl 2004 framing"
+  },
+  "summary": {
+    "zh": "心腹繁盛之后；Pool 2003 记特雷斯萨波特斯晚/终成型扩张。",
+    "en": "After heartland florescence; Tres Zapotes Late/Terminal expansion per Pool 2003."
+  },
+  "sources": [
+    "src-olmec-pool-tres-zapotes-2003",
+    "src-olmec-pool-2007"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

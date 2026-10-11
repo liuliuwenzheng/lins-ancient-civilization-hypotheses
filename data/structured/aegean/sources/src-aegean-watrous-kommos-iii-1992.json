@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-watrous-kommos-iii-1992",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Watrous, L. Vance. 1992. Kommos: An Excavation on the South Coast of Crete, Volume III: The Late Bronze Age Pottery. Edited by Joseph W. Shaw and Maria C. Shaw. Princeton University Press. ISBN 0691036071.",
+  "url": "https://utoronto.scholaris.ca/items/85ed5e1d-3682-4ebf-9cea-a3dba853bc02/full",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Kommos LBA pottery volume (catalog/review pages accessed 2026-10-11): stratified Late Minoan pottery including Neopalatial material and imported LBA wares. No invented sherd counts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-watrous-kommos-iii-1992.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

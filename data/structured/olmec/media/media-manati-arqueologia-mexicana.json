@@ -1,0 +1,32 @@
+{
+  "id": "media-manati-arqueologia-mexicana",
+  "entity": "media",
+  "title": {
+    "zh": "埃尔马纳蒂 Arqueología Mexicana 叙述页（外链）",
+    "en": "El Manatí Arqueología Mexicana narrative page (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://arqueologiamexicana.mx/mexico-antiguo/el-manati-veracruz-historia-de-un-hallazgo",
+  "local_path": null,
+  "object_ids": [
+    "asm-olmec-el-manati-offerings"
+  ],
+  "sources": [
+    "src-olmec-ortiz-rodriguez-manati-am"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Arqueología Mexicana",
+    "upstream_url": "https://arqueologiamexicana.mx/mexico-antiguo/el-manati-veracruz-historia-de-un-hallazgo",
+    "notes": "Popular-science outlet summarizing excavators; outbound only."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

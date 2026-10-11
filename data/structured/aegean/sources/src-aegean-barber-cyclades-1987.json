@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-barber-cyclades-1987",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Barber, R. L. N. 1987. The Cyclades in the Bronze Age. London: Duckworth (Iowa City: University of Iowa Press US edition).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Strong secondary synthesis of Cycladic Bronze Age archaeology (complements Broodbank 2000 and Renfrew 1972). No invented site inventories.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-barber-cyclades-1987.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

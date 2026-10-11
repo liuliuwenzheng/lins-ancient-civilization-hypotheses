@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-evans-restorations-caveat",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Evans《米诺斯宫》是历史一手出版，但混凝土修复与叙事重建须以现代综合交叉核对。",
+    "en": "Evans Palace of Minos is historical primary publication, but concrete restorations and narrative reconstructions require modern cross-check."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aegean-knossos-palace-core"
+  ],
+  "sources": [
+    "src-aegean-evans-palace-of-minos-1921",
+    "src-aegean-macdonald-knossos-2005",
+    "src-aegean-dickinson-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

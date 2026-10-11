@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-hood-archaeology-crete-1971",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Hood, Sinclair. 1971. The Minoans: Crete in the Bronze Age. London: Thames and Hudson (Ancient Peoples and Places).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Classic secondary overview of Minoan Crete by Knossos excavator/synthesist. Historical framing; cross-check with Shelmerdine 2008 / Cline 2010. No invented population figures.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-hood-archaeology-crete-1971.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-mother-culture-model",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "海湾奥尔梅克为整个中美洲「母文化」——Flannery & Marcus 等强烈质疑的模型。",
+    "en": "Gulf Olmec as pan-Mesoamerican “mother culture” is a model strongly contested (e.g. Flannery & Marcus)."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-flannery-marcus-olmec-oaxaca",
+    "src-olmec-pool-2007",
+    "src-olmec-blomster-neff-glascock-2005"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

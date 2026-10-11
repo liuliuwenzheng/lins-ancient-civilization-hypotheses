@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-zakros-palace-excavated",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Platon 发掘并出版卡托扎克罗斯宫室发现专书（1971）。",
+    "en": "Platon excavated and published the Kato Zakros palace discovery monograph (1971)."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-zakros"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial"
+  ],
+  "object_ids": [
+    "asm-aegean-zakros-palace"
+  ],
+  "sources": [
+    "src-aegean-platon-zakros-1971"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

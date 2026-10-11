@@ -1,0 +1,33 @@
+{
+  "id": "site-tiryns",
+  "entity": "site",
+  "names": {
+    "zh": "梯林斯",
+    "en": "Tiryns",
+    "native": null
+  },
+  "kind_note": "Argolid Mycenaean fortified palace; peer keystone with Mycenae.",
+  "region": "Argolid, Peloponnese, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "阿尔戈利斯迈锡尼要塞宫室；与迈锡尼并列为大陆关键址。",
+    "en": "Argolid Mycenaean fortified palace; peer keystone with Mycenae."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994",
+    "src-aegean-cline-oxford-handbook-2010",
+    "src-aegean-mountjoy-mycenaean-pottery-1986"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

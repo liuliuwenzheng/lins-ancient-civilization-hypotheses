@@ -17,16 +17,18 @@
   "sources": [
     "src-aegean-evans-palace-of-minos-1921",
     "src-aegean-dickinson-1994",
-    "src-aegean-shelmerdine-companion-2008"
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-macdonald-knossos-2005",
+    "src-aegean-hood-archaeology-crete-1971"
   ],
   "coordinates": null,
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
-      "sources/src-*"
+      "sources/src-aegean-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

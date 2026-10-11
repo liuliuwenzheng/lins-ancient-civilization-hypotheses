@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-agamemnon-historic-mycenae-king",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "迈锡尼城堡即历史人物阿伽门农的王都——荷马史诗人物历史化属假说。",
+    "en": "Mycenae as the historical capital of a person Agamemnon is epic historicization, not established fact."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-french-mycenae-2002",
+    "src-aegean-wace-mycenae-1949"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

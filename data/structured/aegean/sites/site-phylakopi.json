@@ -1,0 +1,32 @@
+{
+  "id": "site-phylakopi",
+  "entity": "site",
+  "names": {
+    "zh": "菲拉科皮",
+    "en": "Phylakopi",
+    "native": null
+  },
+  "kind_note": "Bronze Age town on Melos; key Cycladic sequence reference.",
+  "region": "Melos, Cyclades, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "米洛斯岛青铜时代城镇；Renfrew/基克拉泽斯序列关键参照。",
+    "en": "Bronze Age town on Melos; key Cycladic sequence reference."
+  },
+  "sources": [
+    "src-aegean-renfrew-1972",
+    "src-aegean-broodbank-cyclades-2000",
+    "src-aegean-barber-cyclades-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

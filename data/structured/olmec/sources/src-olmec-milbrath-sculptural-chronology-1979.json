@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-milbrath-sculptural-chronology-1979",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Milbrath, Susan. 1979. A Study of Olmec Sculptural Chronology. Studies in Pre-Columbian Art and Archaeology 23. Washington, D.C.: Dumbarton Oaks.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Dumbarton Oaks sculptural chronology study (75 pp.). Typology/chronology model; cross-check with Cyphers 2004 corpus. No forged images.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-milbrath-sculptural-chronology-1979.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

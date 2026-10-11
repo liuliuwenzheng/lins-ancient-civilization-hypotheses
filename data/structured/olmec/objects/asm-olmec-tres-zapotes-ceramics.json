@@ -1,0 +1,45 @@
+{
+  "id": "asm-olmec-tres-zapotes-ceramics",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特雷斯萨波特斯陶器序列",
+    "en": "Tres Zapotes ceramic sequences"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-tres-zapotes"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative",
+    "period-olmec-middle-formative",
+    "period-olmec-epi-olmec"
+  ],
+  "summary": {
+    "zh": "BAE 139–140 与 Pool 2003 定居研究中的陶器序列。",
+    "en": "Ceramic sequences in BAE 139–140 and Pool 2003 settlement study."
+  },
+  "sources": [
+    "src-olmec-weiant-bae-139-1943",
+    "src-olmec-drucker-bae-140-1943",
+    "src-olmec-pool-tres-zapotes-2003"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

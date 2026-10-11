@@ -1,0 +1,39 @@
+{
+  "id": "asm-olmec-stirling-izapa-comparative",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Izapa 比较石碑组合（Stirling）",
+    "en": "Izapa comparative stelae assemblage (Stirling)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-cerro-de-las-mesas"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "BAE 138 中 Izapa 等比较材料；非奥尔梅克心腹等同。",
+    "en": "Comparative Izapa material in BAE 138; not equated to Gulf heartland."
+  },
+  "sources": [
+    "src-olmec-stirling-bae-138-1943"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

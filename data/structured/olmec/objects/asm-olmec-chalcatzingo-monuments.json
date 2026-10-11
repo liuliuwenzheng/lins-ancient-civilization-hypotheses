@@ -1,0 +1,42 @@
+{
+  "id": "asm-olmec-chalcatzingo-monuments",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "查尔卡钦戈岩刻与纪念性艺术",
+    "en": "Chalcatzingo rock carvings and monumental art"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-chalcatzingo"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "高地互动区奥尔梅克风格纪念性艺术。",
+    "en": "Highland interaction-zone Olmec-style monumental art."
+  },
+  "sources": [
+    "src-olmec-grove-chalcatzingo-1987",
+    "src-olmec-clark-pye-nga-2000"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

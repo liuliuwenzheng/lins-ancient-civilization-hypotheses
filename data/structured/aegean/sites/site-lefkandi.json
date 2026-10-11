@@ -1,0 +1,32 @@
+{
+  "id": "site-lefkandi",
+  "entity": "site",
+  "names": {
+    "zh": "勒夫坎迪",
+    "en": "Lefkandi",
+    "native": null
+  },
+  "kind_note": "Euboean LBA–EIA keystone; comparative post-palatial pointer only in this pack.",
+  "region": "Euboea, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "优卑亚晚青铜—早期铁器关键址；本包仅作宫殿崩溃后比较指针。",
+    "en": "Euboean LBA–EIA keystone; comparative post-palatial pointer only in this pack."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

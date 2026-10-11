@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-aguada-fenix-egalitarian",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "阿瓜达费尼克斯社区几乎没有明显社会不平等——作者提出的模型，仍可争议。",
+    "en": "Aguada Fénix as lacking marked social inequality is the authors’ model and remains debatable."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-aguada-fenix"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maya-aguada-fenix-plateau"
+  ],
+  "sources": [
+    "src-maya-inomata-aguada-fenix-nature-2020"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

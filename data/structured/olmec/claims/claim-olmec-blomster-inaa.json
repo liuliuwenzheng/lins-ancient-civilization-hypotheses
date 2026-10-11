@@ -1,0 +1,33 @@
+{
+  "id": "claim-olmec-blomster-inaa",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blomster, Neff & Glascock 2005 用 INAA 讨论早期成型期奥尔梅克风格陶器流通。",
+    "en": "Blomster, Neff & Glascock 2005 use INAA to discuss Early Formative Olmec-style pottery circulation."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "object_ids": [
+    "asm-olmec-inna-pottery-exchange"
+  ],
+  "sources": [
+    "src-olmec-blomster-neff-glascock-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

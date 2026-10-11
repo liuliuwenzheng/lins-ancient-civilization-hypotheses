@@ -1,0 +1,41 @@
+{
+  "id": "asm-maya-aguada-fenix-plateau",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿瓜达费尼克斯人工台地与堤道",
+    "en": "Aguada Fénix artificial plateau and causeways"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-aguada-fenix"
+  ],
+  "period_ids": [
+    "period-maya-early-middle-preclassic"
+  ],
+  "summary": {
+    "zh": "约 1400 m 长、10–15 m 高人工台地与九条放射堤道（Nature 2020）。",
+    "en": "≈1400 m-long, 10–15 m-high artificial plateau with nine radiating causeways (Nature 2020)."
+  },
+  "sources": [
+    "src-maya-inomata-aguada-fenix-nature-2020"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

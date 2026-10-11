@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-inomata-aguada-fenix-nature-2020",
+  "entity": "source",
+  "type": "article",
+  "citation": "Inomata, Takeshi, Daniela Triadan, Verónica A. Vázquez López, et al. 2020. “Monumental architecture at Aguada Fénix and the rise of Maya civilization.” Nature 582: 530–533. DOI 10.1038/s41586-020-2343-4.",
+  "url": "https://www.nature.com/articles/s41586-020-2343-4",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Peer-reviewed lidar + excavation report (Nature; accessed 2026-10-11): Aguada Fénix artificial plateau ~1400 m long, 10–15 m high, nine causeways; Bayesian 14C construction 1000–800 BCE. Communal-labor interpretation is authors’ model (keep contested social inequality claims as hypothesis). No invented plateau volumes.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-inomata-aguada-fenix-nature-2020.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

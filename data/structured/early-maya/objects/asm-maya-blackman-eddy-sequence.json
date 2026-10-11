@@ -1,0 +1,41 @@
+{
+  "id": "asm-maya-blackman-eddy-sequence",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "布莱克曼艾迪建筑序列",
+    "en": "Blackman Eddy architectural sequence"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-blackman-eddy"
+  ],
+  "period_ids": [
+    "period-maya-early-middle-preclassic"
+  ],
+  "summary": {
+    "zh": "河谷前古典建筑叠压序列。",
+    "en": "Valley Preclassic architectural superposition sequence."
+  },
+  "sources": [
+    "src-maya-garber-blackman-eddy"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

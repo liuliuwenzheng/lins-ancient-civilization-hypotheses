@@ -1,0 +1,30 @@
+{
+  "id": "media-pool-tres-zapotes-cotsen",
+  "entity": "media",
+  "title": {
+    "zh": "Pool Tres Zapotes Cotsen 书目页（外链）",
+    "en": "Pool Tres Zapotes Cotsen catalog page (outbound)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.ioa.ucla.edu/content/settlement-archaeology-and-political-economy-tres-zapotes-veracruz-mexico",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-olmec-pool-tres-zapotes-2003"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UCLA Cotsen Institute",
+    "upstream_url": "https://www.ioa.ucla.edu/content/settlement-archaeology-and-political-economy-tres-zapotes-veracruz-mexico",
+    "notes": "No forged images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

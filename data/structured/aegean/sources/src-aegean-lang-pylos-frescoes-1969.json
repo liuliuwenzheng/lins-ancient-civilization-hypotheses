@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-lang-pylos-frescoes-1969",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Lang, Mabel L. 1969. The Palace of Nestor at Pylos in Western Messenia, Volume II: The Frescoes. Published for the University of Cincinnati by Princeton University Press. Princeton Legacy Library reissue ISBN 9780691648941 (copyright 1969).",
+  "url": "https://press.princeton.edu/books/hardcover/9780691648941/the-palace-of-nestor-at-pylos-in-western-messenia-vol-ii",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Pylos fresco report (Cincinnati expedition). Publisher page (accessed 2026-10-11): wall-painting fragments from the palace destroyed by fire at the end of the thirteenth century B.C. Seed uses publisher-page statements only; no invented page numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-lang-pylos-frescoes-1969.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

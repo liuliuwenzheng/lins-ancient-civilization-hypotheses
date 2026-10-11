@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-ortiz-rodriguez-manati-am",
+  "entity": "source",
+  "type": "article",
+  "citation": "Ortiz Ceballos, Ponciano, and María del Carmen Rodríguez Martínez. (project publications summarizing El Manatí spring offerings, Veracruz; see also Arqueología Mexicana site-history account and UV Cerro Sagrado Manatí volume pointer). Seed anchors on excavators’ published project narrative verified via INAH/UV pages 2026-10-11.",
+  "url": "https://arqueologiamexicana.mx/mexico-antiguo/el-manati-veracruz-historia-de-un-hallazgo",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "El Manatí spring ritual offerings excavated by Ortiz & Rodríguez from 1988: greenstone axes, rubber balls, wooden busts, etc. (INAH/Arqueología Mexicana/UV pages accessed 2026-10-11). Treat absolute offering-phase dates as project-reported; no invented bust counts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-ortiz-rodriguez-manati-am.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

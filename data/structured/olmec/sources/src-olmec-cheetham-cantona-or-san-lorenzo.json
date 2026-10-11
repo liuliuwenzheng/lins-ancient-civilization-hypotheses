@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-cheetham-cantona-or-san-lorenzo",
+  "entity": "source",
+  "type": "article",
+  "citation": "Cheetham, David. (peer-reviewed studies on Early Formative San Lorenzo–style pottery distribution / Gulf–Maya lowland interaction; seed uses as S pointer for exchange models alongside Blomster et al. 2005).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Specialist secondary pointer on Early Formative pottery exchange and interaction models. Pair with Blomster, Neff & Glascock 2005 INAA study. Contested export/primacy models = hypotheses.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-cheetham-cantona-or-san-lorenzo.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "claim-olmec-writing-fully-deciphered",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "奥尔梅克已有完全破译的文字系统——早期符号/铭刻解读仍高度争议。",
+    "en": "A fully deciphered Olmec writing system is not established; early signs/inscriptions remain highly contested."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-taube-doaks-2004"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

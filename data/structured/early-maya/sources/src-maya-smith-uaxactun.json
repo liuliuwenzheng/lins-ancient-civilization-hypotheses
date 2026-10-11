@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-smith-uaxactun",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Smith, A. Ledyard. 1950. Uaxactun, Guatemala: Excavations of 1931–1937. Carnegie Institution of Washington Publication 588.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Carnegie Institution primary Uaxactún excavation report (1931–1937 seasons). Pair with Ricketson 1937. Historical P; ceramic chronologies revised by later projects.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-smith-uaxactun.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

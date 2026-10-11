@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-single-knossos-thalassocracy",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "单一克诺索斯「海上霸权」统治全爱琴——过度简化的政治模型，争议中。",
+    "en": "A single Knossos “thalassocracy” ruling the whole Aegean is an over-simple contested political model."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

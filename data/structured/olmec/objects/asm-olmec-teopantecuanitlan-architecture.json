@@ -1,0 +1,42 @@
+{
+  "id": "asm-olmec-teopantecuanitlan-architecture",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特奥潘特夸尼特兰建筑组合",
+    "en": "Teopantecuanitlan architectural assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-teopantecuanitlan"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "格雷罗高地奥尔梅克风格建筑（手册级）。",
+    "en": "Guerrero highland Olmec-style architecture (handbook-level)."
+  },
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

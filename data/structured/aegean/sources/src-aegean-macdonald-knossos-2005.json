@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-macdonald-knossos-2005",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Macdonald, Colin F. 2005. Knossos. London: Folio Society / (also issued as popular/scholarly site synthesis; use with Evans caveats).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Modern Knossos site synthesis used to cross-check Evans restorations (register as S; prefer Companion/Cline for contested absolute dates). No invented palace room counts from this seed.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-macdonald-knossos-2005.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

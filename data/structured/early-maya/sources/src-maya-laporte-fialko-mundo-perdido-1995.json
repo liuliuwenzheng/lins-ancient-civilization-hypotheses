@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-laporte-fialko-mundo-perdido-1995",
+  "entity": "source",
+  "type": "article",
+  "citation": "Laporte, Juan Pedro, and Vilma Fialko. 1995. “Un reencuentro con Mundo Perdido, Tikal, Guatemala.” Ancient Mesoamerica 6(1): 41–94. DOI 10.1017/S0956536100002108.",
+  "url": "https://www.cambridge.org/core/journals/ancient-mesoamerica/article/abs/un-reencuentro-con-mundo-perido-tikal-guatemala/88EDFA0F8D950A944DE49196EAD553F2",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Peer-reviewed synthesis of 1979–1984 Mundo Perdido excavations (Tikal): Middle Preclassic through Classic ritual/calendrical architecture including early E-Group. No invented platform measurements beyond article claims.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-laporte-fialko-mundo-perdido-1995.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

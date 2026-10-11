@@ -1,0 +1,33 @@
+{
+  "id": "claim-olmec-pottery-unidirectional-export",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "奥尔梅克风格陶器单向由海湾出口到各地——流通方向模型仍争。",
+    "en": "Unidirectional Gulf export of Olmec-style pottery remains a contested circulation model."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-olmec-inna-pottery-exchange"
+  ],
+  "sources": [
+    "src-olmec-blomster-neff-glascock-2005",
+    "src-olmec-cheetham-cantona-or-san-lorenzo",
+    "src-olmec-flannery-marcus-olmec-oaxaca"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

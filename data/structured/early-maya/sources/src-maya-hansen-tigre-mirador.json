@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-hansen-tigre-mirador",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Hansen, Richard D. (Mirador Basin / El Mirador–Nakbe project reports and Simposio de Investigaciones Arqueológicas en Guatemala papers; seed complements Hansen 1998 Nakbe chapter already registered).",
+  "url": "http://www.asociaciontikal.com/simposio-06-ano-1992/06-92-hansen-doc/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Hansen Mirador Basin field reports (Asociación Tikal Simposio PDFs accessed 2026-10-11). Use with Matheny Tigre report and Estrada-Belli Holmul/Cival work. Contested “first state” labels = hypotheses.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-hansen-tigre-mirador.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

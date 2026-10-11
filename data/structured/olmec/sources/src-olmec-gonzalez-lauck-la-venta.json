@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-gonzalez-lauck-la-venta",
+  "entity": "source",
+  "type": "article",
+  "citation": "González Lauck, Rebecca. (INAH La Venta project reports and syntheses on Architecture Group A / Complex A and site conservation; seed registers as P/S pointer complementing Drucker 1952 and Drucker, Heizer & Squier 1959).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Modern INAH La Venta project leadership publications complementing mid-century Smithsonian reports. Use for site continuity; contested polity labels stay hypotheses. No invented pyramid heights.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-gonzalez-lauck-la-venta.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

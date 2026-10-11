@@ -1,5 +1,6 @@
 {
   "id": "period-maya-early-classic-onset",
+  "entity": "period",
   "names": {
     "zh": "早古典开端",
     "en": "Early Classic onset"
@@ -8,26 +9,26 @@
     "civ-early-maya"
   ],
   "time": {
-    "label": "Classic inaugurated by early carved royal monuments in 3rd century CE; Early Classic upper bound ~3rd–6th c. CE conventional",
+    "label": "ca. AD 250 conventional Classic onset (dynastic inscriptions densify)",
     "approx_from_bce": null,
     "approx_to_bce": null,
-    "scheme_note": "Estrada-Belli 2011; Sharer & Traxler 2006 — CE dates stated in label only"
+    "scheme_note": "Sharer & Traxler 2006 / project 14C anchors"
   },
   "summary": {
-    "zh": "公元 3 世纪第一批雕刻王室纪念碑标志古典期开端；本条不展开全古典政治史。",
-    "en": "Classic inaugurated by early carved royal monuments in the 3rd century CE; this entry does not expand full Classic political history."
+    "zh": "早古典开端常用界；王朝铭文加密。",
+    "en": "Conventional Early Classic onset; dynastic inscriptions densify."
   },
   "sources": [
-    "src-maya-estrada-belli-2011",
-    "src-maya-sharer-traxler-2006"
+    "src-maya-sharer-traxler-2006",
+    "src-maya-coe-houston-2015",
+    "src-maya-demarest-2004"
   ],
-  "entity": "period",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

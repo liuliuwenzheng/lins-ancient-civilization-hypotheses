@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-pylos-frescoes-published",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lang 1969 出版皮洛斯宫室壁画残块整理。",
+    "en": "Lang 1969 publishes the Pylos palace fresco-fragment corpus."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "object_ids": [
+    "asm-aegean-pylos-frescoes"
+  ],
+  "sources": [
+    "src-aegean-lang-pylos-frescoes-1969"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -9,22 +9,38 @@
   "region": "Mesoamerica / Maya region (lowland Petén–Belize–Yucatán and adjacent zones; Preclassic centers emphasized)",
   "time_span": "Early Preclassic–Early Classic: Formative sedentary/ceramic beginnings ~1000 BCE at Ceibal (Inomata et al. 2013); Classic onset 3rd century CE (Estrada-Belli 2011) — not full Classic encyclopedia",
   "summary": {
-    "zh": "早前古典期至早古典期：前古典低地复杂化（塞瓦尔、纳克贝、埃尔米拉多尔、西瓦尔、圣巴托洛等），止于古典期开端。",
-    "en": "Early Preclassic through Early Classic: Preclassic lowland complexity (Ceibal, Nakbe, El Mirador, Cival, San Bartolo), stopping at Classic onset."
+    "zh": "早期玛雅档案包（密度 D-27）：阿瓜达费尼克斯、奎略、失落世界、瓦哈克通、米拉多尔老虎群等已入库；单向奥尔梅克起源/首个国家留假说栏。",
+    "en": "Early Maya archive pack (density D-27): Aguada Fénix, Cuello, Mundo Perdido, Uaxactún, Mirador Tigre registered; unilinear Olmec derivation / first-state labels stay hypotheses."
   },
   "sources": [
-    "src-maya-sharer-traxler-2006",
-    "src-maya-estrada-belli-2011",
-    "src-maya-inomata-ceibal-science-2013",
-    "src-mesoamerica-nichols-pool-handbook-2012",
-    "src-olmec-pool-2007",
-    "src-maya-saturno-stuart-beltran-2006",
+    "src-maya-aoyama-ceibal-lithics",
+    "src-maya-ashmore-lowland-settlement-1981",
     "src-maya-clark-hansen-2001",
-    "src-maya-demarest-2004",
-    "src-maya-inomata-ceibal-plateau-2019",
     "src-maya-coe-houston-2015",
+    "src-maya-cohre-or-md-andrews-uaxactun",
+    "src-maya-demarest-2004",
+    "src-maya-estrada-belli-2011",
+    "src-maya-freidel-schele-forest-kings",
+    "src-maya-garber-blackman-eddy",
+    "src-maya-hammond-cuello-1991",
     "src-maya-hansen-nakbe-1998",
-    "src-maya-willey-seibal-1975"
+    "src-maya-hansen-tigre-mirador",
+    "src-maya-healy-cahal-pech",
+    "src-maya-inomata-aguada-fenix-nature-2020",
+    "src-maya-inomata-ceibal-plateau-2019",
+    "src-maya-inomata-ceibal-science-2013",
+    "src-maya-inomata-middle-preclassic-platforms",
+    "src-maya-inomata-pnas-ceibal-2015",
+    "src-maya-laporte-fialko-mundo-perdido-1995",
+    "src-maya-matheny-tigre-mirador-1990",
+    "src-maya-mcanany-living-ancestors-1995",
+    "src-maya-ricketson-uaxactun",
+    "src-maya-saturno-stuart-beltran-2006",
+    "src-maya-sharer-traxler-2006",
+    "src-maya-smith-uaxactun",
+    "src-maya-willey-seibal-1975",
+    "src-mesoamerica-nichols-pool-handbook-2012",
+    "src-olmec-pool-2007"
   ],
   "related_ids": [
     "civ-olmec"
@@ -32,38 +48,81 @@
   "entity": "civilization",
   "kind": "fact",
   "site_ids": [
+    "site-aguada-fenix",
+    "site-blackman-eddy",
+    "site-cahal-pech",
+    "site-calakmul-preclassic-pointer",
     "site-ceibal",
-    "site-nakbe",
-    "site-el-mirador",
     "site-cival",
-    "site-san-bartolo"
+    "site-cuello",
+    "site-el-mirador",
+    "site-izapa-comparative",
+    "site-kaminaljuyu",
+    "site-nakbe",
+    "site-san-bartolo",
+    "site-tikal-mundo-perdido",
+    "site-uaxactun"
   ],
   "period_ids": [
+    "period-maya-early-classic-onset",
+    "period-maya-early-middle-preclassic",
     "period-maya-early-preclassic-ceibal",
-    "period-maya-middle-preclassic",
     "period-maya-late-preclassic",
-    "period-maya-early-classic-onset"
+    "period-maya-middle-preclassic"
   ],
   "claim_ids": [
+    "claim-maya-aguada-fenix-dated",
+    "claim-maya-aguada-fenix-egalitarian",
+    "claim-maya-aguada-fenix-plateau-scale",
+    "claim-maya-belize-valley-early-centers",
+    "claim-maya-calakmul-preclassic-capital",
     "claim-maya-ceibal-1000-bce",
-    "claim-maya-san-bartolo-early-writing",
+    "claim-maya-ceibal-early-ceremonial",
+    "claim-maya-ceibal-pnas-2015",
     "claim-maya-classic-onset-3c",
-    "claim-maya-preclassic-urban-florescence",
+    "claim-maya-cuello-monograph",
+    "claim-maya-cuello-oldest-maya",
+    "claim-maya-e-group-astronomical-only",
+    "claim-maya-estrada-belli-first-title",
+    "claim-maya-estrada-belli-primacy-title",
+    "claim-maya-kinship-kingship-model",
+    "claim-maya-mirador-first-state",
+    "claim-maya-mirador-tigre-report",
+    "claim-maya-mundo-perdido-published",
+    "claim-maya-nakbe-hansen",
     "claim-maya-olmec-influence-direction",
-    "claim-maya-estrada-belli-primacy-title"
+    "claim-maya-olmec-to-maya-unilinear",
+    "claim-maya-preclassic-divine-kingship-full",
+    "claim-maya-preclassic-urban-florescence",
+    "claim-maya-san-bartolo-early-writing",
+    "claim-maya-san-bartolo-murals-fact",
+    "claim-maya-uaxactun-carnegie"
   ],
   "object_ids": [
+    "asm-maya-aguada-fenix-plateau",
+    "asm-maya-blackman-eddy-sequence",
+    "asm-maya-cahal-pech-preclassic",
     "asm-maya-ceibal-e-group",
+    "asm-maya-ceibal-lithics",
+    "asm-maya-cival-holmul-ritual",
+    "asm-maya-cuello-community",
+    "asm-maya-izapa-stelae-comparative",
+    "asm-maya-kaminaljuyu-highland",
+    "asm-maya-mirador-tigre-complex",
+    "asm-maya-mundo-perdido-egroup",
+    "asm-maya-nakbe-middle-preclassic",
+    "asm-maya-nakbe-monumental-architecture",
     "asm-maya-san-bartolo-murals-writing",
-    "asm-maya-nakbe-monumental-architecture"
+    "asm-maya-san-bartolo-murals",
+    "asm-maya-uaxactun-group-e"
   ],
   "markdown_path": "data/civilizations/civ-early-maya.md",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
-      "sources/src-*"
+      "data/structured/early-maya/"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; rebuilt index lists from pack files."
   }
 }

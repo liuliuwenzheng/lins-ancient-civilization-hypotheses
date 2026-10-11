@@ -1,0 +1,43 @@
+{
+  "id": "asm-olmec-la-venta-complex-a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉文塔 A 组建筑与埋藏",
+    "en": "La Venta Complex A architecture and caches"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-la-venta"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "中世纪 Smithsonian 报告的 A 组与埋藏。",
+    "en": "Complex A and caches in mid-century Smithsonian reports."
+  },
+  "sources": [
+    "src-olmec-drucker-la-venta-1952",
+    "src-olmec-drucker-heizer-squier-1959",
+    "src-olmec-gonzalez-lauck-la-venta"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

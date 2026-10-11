@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-stirling-monuments-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Stirling BAE 138 记录特雷斯萨波特斯、拉文塔等地石质纪念碑调查。",
+    "en": "Stirling BAE 138 records stone-monument survey at Tres Zapotes, La Venta, and related sites."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-tres-zapotes",
+    "site-la-venta"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-olmec-tres-zapotes-monuments"
+  ],
+  "sources": [
+    "src-olmec-stirling-bae-138-1943"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

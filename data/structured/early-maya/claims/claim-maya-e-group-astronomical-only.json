@@ -1,0 +1,36 @@
+{
+  "id": "claim-maya-e-group-astronomical-only",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "E 组建筑功能仅为天文观测——功能解释多元，单一天文论非定论。",
+    "en": "E-Groups as solely astronomical observatories is one contested functional reading."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-uaxactun",
+    "site-tikal-mundo-perdido",
+    "site-ceibal"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maya-uaxactun-group-e",
+    "asm-maya-mundo-perdido-egroup"
+  ],
+  "sources": [
+    "src-maya-ricketson-uaxactun",
+    "src-maya-laporte-fialko-mundo-perdido-1995",
+    "src-maya-inomata-ceibal-science-2013"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

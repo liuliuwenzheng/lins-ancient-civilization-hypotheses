@@ -1,0 +1,42 @@
+{
+  "id": "asm-maya-nakbe-middle-preclassic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳克贝中前古典纪念性建筑",
+    "en": "Nakbe Middle Preclassic monumental architecture"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-nakbe"
+  ],
+  "period_ids": [
+    "period-maya-early-middle-preclassic"
+  ],
+  "summary": {
+    "zh": "米拉多尔盆地早期纪念性建筑。",
+    "en": "Early monumental architecture in the Mirador Basin."
+  },
+  "sources": [
+    "src-maya-hansen-nakbe-1998",
+    "src-maya-hansen-tigre-mirador"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-ashmore-lowland-settlement-1981",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Ashmore, Wendy, ed. 1981. Lowland Maya Settlement Patterns. Albuquerque: University of New Mexico Press (School of American Research Advanced Seminar series).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Classic SAR seminar volume on lowland Maya settlement archaeology. Settlement-pattern methods frame; site specifics need project reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-ashmore-lowland-settlement-1981.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

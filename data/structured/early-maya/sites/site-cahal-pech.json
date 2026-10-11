@@ -1,0 +1,32 @@
+{
+  "id": "site-cahal-pech",
+  "entity": "site",
+  "names": {
+    "zh": "卡哈尔·佩奇",
+    "en": "Cahal Pech",
+    "native": null
+  },
+  "kind_note": "Belize Valley Preclassic center; Healy et al. excavation literature.",
+  "region": "Belize River Valley, Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "伯利兹河谷前古典中心；Healy 等发掘文献。",
+    "en": "Belize Valley Preclassic center; Healy et al. excavation literature."
+  },
+  "sources": [
+    "src-maya-healy-cahal-pech",
+    "src-maya-garber-blackman-eddy",
+    "src-maya-sharer-traxler-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

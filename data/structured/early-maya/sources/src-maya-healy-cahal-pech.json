@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-healy-cahal-pech",
+  "entity": "source",
+  "type": "article",
+  "citation": "Healy, Paul F., et al. (Belize Valley Preclassic Cahal Pech excavation reports and Ancient Mesoamerica / monograph chapters documenting early monumental architecture and ceramics).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Cahal Pech Preclassic excavation literature (Healy-led Belize Valley work). Handbook-level site expansion; no invented plaza dimensions.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-healy-cahal-pech.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-thebes-kadmeia",
+  "entity": "site",
+  "names": {
+    "zh": "底比斯（卡德墨亚）",
+    "en": "Thebes (Kadmeia)",
+    "native": null
+  },
+  "kind_note": "Central Greek Mycenaean center; handbook entry; Linear B findspot among others.",
+  "region": "Boeotia, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "中部希腊迈锡尼中心；手册级入口，Linear B 文书出土地之一。",
+    "en": "Central Greek Mycenaean center; handbook entry; Linear B findspot among others."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-chadwick-1976",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-aegean-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

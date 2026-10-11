@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-aguada-fenix-plateau-scale",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "同一报告记载约 1400 m 长、10–15 m 高人工台地与九条放射堤道。",
+    "en": "The same report records an artificial plateau ≈1400 m long and 10–15 m high with nine radiating causeways."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-aguada-fenix"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maya-aguada-fenix-plateau"
+  ],
+  "sources": [
+    "src-maya-inomata-aguada-fenix-nature-2020"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

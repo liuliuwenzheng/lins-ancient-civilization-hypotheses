@@ -1,34 +1,34 @@
 {
   "id": "period-olmec-middle-formative",
+  "entity": "period",
   "names": {
-    "zh": "中形成期（拉文塔取向）",
-    "en": "Middle Formative (La Venta orientation)"
+    "zh": "中期成型期",
+    "en": "Middle Formative"
   },
   "civilization_ids": [
     "civ-olmec"
   ],
   "time": {
-    "label": "Middle Formative within Pool floruit frame",
-    "approx_from_bce": 1000,
-    "approx_to_bce": 400,
-    "scheme_note": "Pool 2007; Drucker / Drucker-Heizer-Squier La Venta"
+    "label": "ca. 900–400 BCE conventional Middle Formative (La Venta florescence often placed here)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Pool 2007 / Diehl 2004 framing"
   },
   "summary": {
-    "zh": "拉文塔中形成期海湾中心与 Complex A 仪式序列。",
-    "en": "La Venta Middle Formative Gulf center and Complex A ritual sequences."
+    "zh": "中期成型期常用窗；拉文塔繁盛常落此段。",
+    "en": "Conventional Middle Formative; La Venta florescence often placed here."
   },
   "sources": [
     "src-olmec-pool-2007",
-    "src-olmec-drucker-heizer-squier-1959",
-    "src-olmec-drucker-la-venta-1952"
+    "src-olmec-drucker-la-venta-1952",
+    "src-olmec-drucker-heizer-squier-1959"
   ],
-  "entity": "period",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-olmec.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

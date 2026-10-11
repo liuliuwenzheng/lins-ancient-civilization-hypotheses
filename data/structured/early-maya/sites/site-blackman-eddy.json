@@ -1,0 +1,32 @@
+{
+  "id": "site-blackman-eddy",
+  "entity": "site",
+  "names": {
+    "zh": "布莱克曼·艾迪",
+    "en": "Blackman Eddy",
+    "native": null
+  },
+  "kind_note": "Belize Valley Preclassic architectural-sequence site.",
+  "region": "Belize River Valley, Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "伯利兹河谷前古典建筑序列遗址。",
+    "en": "Belize Valley Preclassic architectural-sequence site."
+  },
+  "sources": [
+    "src-maya-garber-blackman-eddy",
+    "src-maya-healy-cahal-pech",
+    "src-maya-hammond-cuello-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-cerro-de-las-mesas",
+  "entity": "site",
+  "names": {
+    "zh": "塞罗·德拉斯·梅萨斯",
+    "en": "Cerro de las Mesas",
+    "native": null
+  },
+  "kind_note": "Stirling stelae site; later Formative/Classic comparative pointer (not pure Early Olmec).",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Stirling 石碑群遗址；后成型/古典过渡比较指针（非纯早期奥尔梅克）。",
+    "en": "Stirling stelae site; later Formative/Classic comparative pointer (not pure Early Olmec)."
+  },
+  "sources": [
+    "src-olmec-stirling-bae-138-1943",
+    "src-olmec-pool-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

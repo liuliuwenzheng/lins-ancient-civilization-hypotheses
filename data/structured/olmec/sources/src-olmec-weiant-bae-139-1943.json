@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-weiant-bae-139-1943",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Weiant, C. W. 1943. An Introduction to the Ceramics of Tres Zapotes, Veracruz, Mexico. Bureau of American Ethnology Bulletin 139. Washington: Smithsonian Institution.",
+  "url": "https://repository.si.edu/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Tres Zapotes ceramic introduction (BAE 139; SI repository / Cambridge review pages accessed 2026-10-11). Pair with Drucker BAE 140. No invented type-counts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-weiant-bae-139-1943.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}
