@@ -1,0 +1,41 @@
+{
+  "id": "asm-huaca-prieta-preceramic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "普列塔金字塔前陶发掘组合",
+    "en": "Huaca Prieta Preceramic excavation assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-huaca-prieta"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Bird 1985 AMNH 专报公布的前陶层位、纺织与居住/礼仪材料（比较基线）。",
+    "en": "Preceramic strata, textiles, and residential/ritual materials as in Bird 1985 AMNH (comparative)."
+  },
+  "sources": [
+    "src-andes-bird-huaca-prieta-1985"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Bird 1985 AMNH",
+    "upstream_url": "https://digitallibrary.amnh.org/items/2b0a7b51-f473-4b2f-8576-d35db1a1ff84",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

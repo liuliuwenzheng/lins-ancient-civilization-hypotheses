@@ -1,0 +1,30 @@
+{
+  "id": "site-nal-sohr-damb",
+  "entity": "site",
+  "names": {
+    "zh": "纳尔·索尔达姆",
+    "en": "Sohr Damb, Nāl",
+    "native": null
+  },
+  "kind_note": "Baluchistan painted-pottery mound; Hargreaves 1925 / Memoir 35",
+  "region": "Jhalawan, Balochistan, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "俾路支纳尔附近索尔达姆丘；Hargreaves 1925 发掘、1929 ASI Memoir 35。",
+    "en": "Sohr Damb near Nāl, Baluchistan; Hargreaves 1925 excavation published as ASI Memoir 35 (1929)."
+  },
+  "sources": [
+    "src-indus-hargreaves-nal-1929"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

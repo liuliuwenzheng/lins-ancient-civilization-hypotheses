@@ -1,0 +1,32 @@
+{
+  "id": "site-nausharo",
+  "entity": "site",
+  "names": {
+    "zh": "瑙沙罗",
+    "en": "Nausharo",
+    "native": null
+  },
+  "kind_note": "Kachi plain Indus sequence near Mehrgarh; Jarrige French Mission",
+  "region": "Kachi / Bolan plain, Balochistan, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "卡奇平原印度河序列遗址（近梅赫尔格尔）；Jarrige 法国团 1985–1996；1989 季报与 1996 院士综述。",
+    "en": "Indus-sequence site on the Kachi plain near Mehrgarh; Jarrige French Mission 1985–1996; 1989 season report and 1996 Academy synthesis."
+  },
+  "sources": [
+    "src-indus-jarrige-nausharo-1989",
+    "src-indus-jarrige-nausharo-crai-1996",
+    "src-indus-jarrige-mehrgarh-1995"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

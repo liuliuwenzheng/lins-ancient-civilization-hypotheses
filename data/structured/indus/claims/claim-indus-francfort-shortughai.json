@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-francfort-shortughai",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Francfort & Pottier 1978 与 Francfort 1989 报告东北阿富汗肖图盖的哈拉帕相关与后续层位及手工业残留。",
+    "en": "Francfort & Pottier 1978 and Francfort 1989 report Harappan-related and later levels with craft residues at Shortughaï, NE Afghanistan."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-shortughai"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-shortughai-harappan-settlement"
+  ],
+  "sources": [
+    "src-indus-francfort-pottier-shortughai-1978",
+    "src-indus-francfort-shortughai-1989"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

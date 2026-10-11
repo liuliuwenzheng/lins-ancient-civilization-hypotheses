@@ -1,0 +1,31 @@
+{
+  "id": "site-sind-majumdar-survey",
+  "entity": "site",
+  "names": {
+    "zh": "信德（马宗达调查）",
+    "en": "Sind (Majumdar exploratory survey)",
+    "native": null
+  },
+  "kind_note": "Multi-site exploratory survey zone; Majumdar ASI Memoir 48",
+  "region": "Sindh, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "马宗达 1927–31 信德探查调查区（含阿姆里类型材料识别）；1934 ASI Memoir 48。多遗址调查，非单点发掘。",
+    "en": "Majumdar’s 1927–31 exploratory survey zone in Sind (including Amri-type recognition); ASI Memoir 48 (1934). Multi-site survey, not a single excavation."
+  },
+  "sources": [
+    "src-indus-majumdar-sind-1934",
+    "src-indus-casal-amri-1964"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

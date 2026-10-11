@@ -115,6 +115,23 @@ Peruvian period labels (Archaic / Preceramic / Initial Period) are not perfectly
 - **Supe renamed cluster** — Lurihuasi, Miraya, Chupacigarro (West) listed per Science 2001 renaming; PEACS 2008 inventory orientation; no invented find lists [`src-andes-shady-haas-creamer-caral-2001`][`src-andes-shady-caral-social-values-2008`][`src-andes-zechenter-supe-1988`][`src-andes-engel-begonias-1987`].
 - **El Paraíso (Chillón, comparative)** — Quilter et al. 1991 mixed marine–cotton plant subsistence; outside four-valley core [`src-andes-quilter-el-paraiso-1991`].
 
+- **普列塔金字塔 / Huaca Prieta（奇卡马，比较）** — Bird 1985 AMNH 专报 [`src-andes-bird-huaca-prieta-1985`]。
+- **拉加尔加达 / La Galgada（山间，比较）** — Grieder 等 1988 [`src-andes-grieder-la-galgada-1988`]。
+- **下塞钦 / Sechín Bajo（卡斯马，比较）** — Fuchs 等 2009；圆形下沉广场序列 [`src-andes-fuchs-sechin-bajo-2009`]。
+- **兰帕伊山 / Cerro Lampay（福塔莱萨）** — Vega-Centeno 2006/2010 [`src-andes-vega-centeno-cerro-lampay-2010`][`src-andes-vega-centeno-boletin-lampay-2006`]。
+- **亚洲单元 I / Asia Unit I（中部海岸，比较）** — Engel 1963 [`src-andes-engel-asia-1963`]。
+- **帕мпа·德·拉斯·利亚马斯–莫塞克 / Pampa de las Llamas–Moxeke（卡斯马）** — Pozorski & Pozorski 1987 [`src-andes-pozorski-casma-1987`]。
+- **上塞钦 / Sechín Alto 与塞钦山 / Cerro Sechín（卡斯马）** — Pozorski 1987/2002 [`src-andes-pozorski-casma-1987`][`src-andes-pozorski-initial-period-casma-2002`]。
+
+- **Huaca Prieta (Chicama, comparative)** — Bird 1985 AMNH monograph [`src-andes-bird-huaca-prieta-1985`].
+- **La Galgada (intermontane, comparative)** — Grieder et al. 1988 [`src-andes-grieder-la-galgada-1988`].
+- **Sechín Bajo (Casma, comparative)** — Fuchs et al. 2009; sunken circular plaza sequence [`src-andes-fuchs-sechin-bajo-2009`].
+- **Cerro Lampay (Fortaleza)** — Vega-Centeno 2006/2010 [`src-andes-vega-centeno-cerro-lampay-2010`][`src-andes-vega-centeno-boletin-lampay-2006`].
+- **Asia Unit I (central coast, comparative)** — Engel 1963 [`src-andes-engel-asia-1963`].
+- **Pampa de las Llamas–Moxeke (Casma)** — Pozorski & Pozorski 1987 [`src-andes-pozorski-casma-1987`].
+- **Sechín Alto & Cerro Sechín (Casma)** — Pozorski 1987/2002 [`src-andes-pozorski-casma-1987`][`src-andes-pozorski-initial-period-casma-2002`].
+
+
 ## Urbanism, architecture & institutions
 
 晚古风 Norte Chico 遗址群的共性包括：大规模纪念性建筑、广泛居住建筑、无陶 [`src-andes-haas-creamer-ruiz-norte-chico-2004`]。Science 2001 将卡拉尔的纪念性「公司性 / corporate」建筑与「城市聚落 / urban settlement」表述并置——**「城市」在此为论文用语，是否等于旧大陆城市定义，见 Notes 开放争议** [`src-andes-shady-haas-creamer-caral-2001`]。福塔莱萨 Fieldiana 报告确认阶梯金字塔式平台丘、沉陷圆形广场（sunken circular plazas）、竖立独石（huancas）等纪念性要素；平台丘与沉陷圆形广场配对的模式至少可追溯到公元前第三千纪；卡瓦列特、波韦尼尔等处可见 U 形布局倾向 [`src-andes-creamer-ruiz-perales-haas-fortaleza-2013`]。纪念性建筑常用 **shicra**（纤维网袋装填河卵石/石块）作为填充/建造技术，并因此保存可用于测年的植物纤维 [`src-andes-creamer-ruiz-perales-haas-fortaleza-2013`]。阿斯佩罗平台丘被 Moseley & Willey、Feldman 解读为需要动员劳动力的「公司性」工程，并据此讨论社会不平等萌芽——**属学术模型** [`src-andes-moseley-willey-aspero-1973`][`src-andes-feldman-andean-state-1987`]。Shady & Leyva 2003 书名使用「ciudad sagrada / Estado prístino」等表述，登记为项目诠释传统，**不写入本条事实定论栏** [`src-andes-shady-leyva-caral-supe-2003`]。Haas & Creamer（2004）在 Silverman 手册中提供中安第斯晚古风文化转型的二手综合框架 [`src-andes-haas-creamer-silverman-2004`]。
@@ -167,6 +184,11 @@ No forged artifact imagery; object-level claims need excavation reports or museu
 
 Modern research arcs include early coastal Preceramic work and Moseley & Willey’s recognition of Aspero platforms [`src-andes-moseley-willey-aspero-1973`]; Moseley’s maritime-foundations model and critiques [`src-andes-moseley-maritime-1975`][`src-andes-raymond-maritime-reconsideration-1981`]; Feldman’s Aspero architectural arguments [`src-andes-feldman-andean-state-1987`]; Shady’s Caral-Supe project publications [`src-andes-shady-caral-1997`][`src-andes-shady-leyva-caral-supe-2003`]; the *Science* 2001 Caral dates [`src-andes-shady-haas-creamer-caral-2001`]; *Nature* 2004 multi-site Norte Chico dating [`src-andes-haas-creamer-ruiz-norte-chico-2004`]; PANC Fieldiana reports for Pativilca and Fortaleza [`src-andes-creamer-ruiz-haas-pativilca-2007`][`src-andes-creamer-ruiz-perales-haas-fortaleza-2013`]; and the 2013 maize multi-proxy study [`src-andes-haas-creamer-pnas-maize-2013`]. Handbook synthesis: Haas & Creamer in Silverman 2004 [`src-andes-haas-creamer-silverman-2004`]. Comparative Preceramic village work: Quilter on Paloma [`src-andes-quilter-paloma-1989`]. Later Andean historiography: Burger on Chavín [`src-andes-burger-chavin-1995`]. Heritage listing: Caral-Supe 2009 [`src-andes-unesco-caral-2009`].
 
+
+第二轮密度加深（2026-10-11 / D-2026-10-11-29）另登记：Bird Huaca Prieta 1985；Grieder La Galgada 1988；Pozorski Casma 1987/2002；Fuchs Sechín Bajo 2009；Vega-Centeno Cerro Lampay 2006/2010；Engel Asia 1963；Benfer Paloma 1990；Moseley maritime retrospect 1992。
+
+Second density pass (2026-10-11 / D-2026-10-11-29) also registers Bird Huaca Prieta 1985; Grieder La Galgada 1988; Pozorski Casma 1987/2002; Fuchs Sechín Bajo 2009; Vega-Centeno Cerro Lampay 2006/2010; Engel Asia 1963; Benfer Paloma 1990; Moseley maritime retrospect 1992.
+
 ## Sources
 
 - `src-andes-shady-haas-creamer-caral-2001` — peer-reviewed article; Caral radiocarbon (~2627–1977 cal BCE; ~65 ha; 18 Supe preceramic sites) (tier S)
@@ -218,3 +240,7 @@ Modern research arcs include early coastal Preceramic work and Moseley & Willey�
 - **Open scholarly debate — Aspero “chiefdom”:** Feldman polity labels stay in hypothesis claims [`src-andes-feldman-aspero-dissertation-1980`][`src-andes-feldman-corporate-architecture-1985`].
 - **Open scholarly debate — Bandurria organization:** Chu 2011 challenges simple chiefdom/state labels from household evidence [`src-andes-chu-bandurria-2011`].
 - **Structured archive density (D-24):** `data/structured/andes/` sources 15→28; sites 6→14; objects 3→16; claims 7→27; media 1→6; `tools/export_check.py` must pass.
+
+- **Comparative scope (second pass):** Huaca Prieta, La Galgada, Asia Unit I, and Casma Valley sites (Sechín Bajo, Sechín Alto, Cerro Sechín, Pampa de las Llamas–Moxeke) are registered as **comparative Preceramic / early complex** baselines — not collapsed into a single Norte Chico polity [`src-andes-bird-huaca-prieta-1985`][`src-andes-grieder-la-galgada-1988`][`src-andes-pozorski-casma-1987`][`src-andes-fuchs-sechin-bajo-2009`].
+- **Open scholarly debate — Casma vs Norte Chico “earliest” rankings:** dated monumental sequences are recorded per site; world-priority marketing language stays hypothesis [`src-andes-fuchs-sechin-bajo-2009`][`src-andes-shady-haas-creamer-caral-2001`].
+- **Cerro Lampay leadership model:** Vega-Centeno emphasizes ritualized construction/feasting and weakly formalized authority — do not auto-promote to “chiefdom/state” fact [`src-andes-vega-centeno-cerro-lampay-2010`].

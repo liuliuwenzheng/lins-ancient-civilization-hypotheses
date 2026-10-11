@@ -1,0 +1,41 @@
+{
+  "id": "asm-asia-unit1-preceramic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "亚洲单元 I 前陶聚落组合",
+    "en": "Asia Unit I Preceramic settlement assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-asia-unit-1"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Engel 1963 专报中的中部海岸前陶建筑与生计材料（比较）。",
+    "en": "Central-coast Preceramic architecture and subsistence materials as in Engel 1963 (comparative)."
+  },
+  "sources": [
+    "src-andes-engel-asia-1963"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Engel 1963",
+    "upstream_url": "https://www.pennpress.org/9798893981766/preceramic-settlement-on-the-central-coast-of-peru/",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

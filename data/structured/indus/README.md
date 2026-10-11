@@ -1,13 +1,13 @@
-# Indus Valley structured pack
+# Indus structured pack
 
 Read-only archive entities for `civ-indus-valley`.
 
-Counts (D-2026-10-11-23 density pass):
-- sources: 28
-- sites: 12
+Counts (second density pass D-2026-10-11-29; `export_check` is authoritative):
+- sources: 38
+- sites: 20
 - periods: 5
-- objects: 16
-- claims: 23
+- objects: 24
+- claims: 33
 - media: 5
 
 Markdown editorial source: `data/civilizations/civ-indus-valley.md`.

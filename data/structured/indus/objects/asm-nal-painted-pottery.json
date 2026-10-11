@@ -1,0 +1,41 @@
+{
+  "id": "asm-nal-painted-pottery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳尔彩陶组合（索尔达姆）",
+    "en": "Nāl painted-pottery assemblage (Sohr Damb)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-nal-sohr-damb"
+  ],
+  "period_ids": [
+    "period-indus-regionalization"
+  ],
+  "summary": {
+    "zh": "Hargreaves Memoir 35 公布的纳尔彩陶及相关随葬/居住材料。",
+    "en": "Nāl painted pottery and related burial/settlement material published in Hargreaves Memoir 35."
+  },
+  "sources": [
+    "src-indus-hargreaves-nal-1929"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hargreaves 1929",
+    "upstream_url": "https://catalogue.nli.ie/Record/vtls000415877",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

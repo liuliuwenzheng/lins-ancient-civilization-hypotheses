@@ -1,0 +1,37 @@
+{
+  "id": "claim-andes-pozorski-casma",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pozorski & Pozorski 1987 专报综合卡斯马河谷十五处早期遗址的测年、生计与聚落，重点含帕мпа·德·拉斯·利亚马斯–莫塞克。",
+    "en": "Pozorski & Pozorski 1987 synthesize dating, subsistence, and settlement for fifteen early Casma Valley sites, emphasizing Pampa de las Llamas–Moxeke."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-pampa-llamas-moxeke",
+    "site-sechin-alto",
+    "site-cerro-sechin"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-pampa-llamas-moxeke",
+    "asm-sechin-alto-complex"
+  ],
+  "sources": [
+    "src-andes-pozorski-casma-1987",
+    "src-andes-pozorski-initial-period-casma-2002"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

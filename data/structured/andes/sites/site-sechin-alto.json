@@ -1,0 +1,31 @@
+{
+  "id": "site-sechin-alto",
+  "entity": "site",
+  "names": {
+    "zh": "上塞钦",
+    "en": "Sechín Alto",
+    "native": null
+  },
+  "kind_note": "Casma Initial Period monumental complex; Pozorski chapter 2002 / 1987 monograph",
+  "region": "Casma Valley, north-central coast of Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "卡斯马形成初期纪念性复合体核心；Pozorski 1987/2002 讨论。",
+    "en": "Core of the Sechín Alto Initial Period complex in Casma; discussed in Pozorski 1987/2002."
+  },
+  "sources": [
+    "src-andes-pozorski-initial-period-casma-2002",
+    "src-andes-pozorski-casma-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-ghaggar-hakra-stein-survey",
+  "entity": "site",
+  "names": {
+    "zh": "加格加–哈克拉（斯坦因调查带）",
+    "en": "Ghaggar–Hakra (Stein survey corridor)",
+    "native": null
+  },
+  "kind_note": "Survey corridor of mounds along dry Ghaggar-Hakra / ‘Sarasvati’ tract; Stein 1942",
+  "region": "Ghaggar–Hakra dry river tract, NW India / Cholistan borderlands",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "斯坦因 1940–42「消失的萨拉斯瓦蒂」调查走廊上的古代丘址带；1942《Geographical Journal》发表。非单一探方遗址。",
+    "en": "Corridor of ancient mounds along the dry Ghaggar–Hakra / ‘Sarasvati’ tract surveyed by Stein 1940–42 (Geographical Journal 1942). Not a single excavated site."
+  },
+  "sources": [
+    "src-indus-stein-sarasvati-1942",
+    "src-indus-giosan-pnas-2012",
+    "src-indus-mughal-cholistan-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

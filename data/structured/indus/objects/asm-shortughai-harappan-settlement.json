@@ -1,0 +1,42 @@
+{
+  "id": "asm-shortughai-harappan-settlement",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "肖图盖哈拉帕相关聚落组合",
+    "en": "Shortughaï Harappan-related settlement assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-shortughai"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Francfort 正式报告中的层位/建筑与手工业残留（青铜、青金石等）——不编造件数。",
+    "en": "Stratigraphy/architecture and craft residues (bronze, lapis) as published by Francfort — no invented counts."
+  },
+  "sources": [
+    "src-indus-francfort-pottier-shortughai-1978",
+    "src-indus-francfort-shortughai-1989"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Francfort 1978/1989",
+    "upstream_url": "https://www.persee.fr/doc/arasi_0004-3958_1978_num_34_1_1121",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

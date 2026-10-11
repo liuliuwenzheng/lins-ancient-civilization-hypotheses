@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-bird-huaca-prieta",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bird 1985 AMNH《Anthropological Papers》62(1) 公布奇卡马河谷普列塔金字塔前陶发掘。",
+    "en": "Bird 1985 AMNH Anthropological Papers 62(1) publishes Preceramic excavations at Huaca Prieta, Chicama Valley."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-huaca-prieta"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-huaca-prieta-preceramic"
+  ],
+  "sources": [
+    "src-andes-bird-huaca-prieta-1985"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

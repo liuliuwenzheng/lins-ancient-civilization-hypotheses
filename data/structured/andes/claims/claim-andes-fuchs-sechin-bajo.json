@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-fuchs-sechin-bajo",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Fuchs 等 2009 报告下塞钦晚古风—早形成期三期建筑，含带圆形下沉广场的早期台地。",
+    "en": "Fuchs et al. 2009 report Sechín Bajo’s Late Archaic–Early Formative three-building sequence, including an early platform with sunken circular plazas."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-sechin-bajo"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-sechin-bajo-platforms-plazas"
+  ],
+  "sources": [
+    "src-andes-fuchs-sechin-bajo-2009"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-engel-asia-1963",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Engel, Frédéric André. 1963. “A Preceramic Settlement on the Central Coast of Peru: Asia, Unit I.” Transactions of the American Philosophical Society, New Series, 53 (3): 3–139.",
+  "url": "https://www.pennpress.org/9798893981766/preceramic-settlement-on-the-central-coast-of-peru/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary APS monograph on the Asia Unit I Preceramic settlement (central coast, south of Norte Chico) — comparative coastal Preceramic architecture/subsistence baseline. Publisher/catalog details verified 2026-10-11.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-engel-asia-1963.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

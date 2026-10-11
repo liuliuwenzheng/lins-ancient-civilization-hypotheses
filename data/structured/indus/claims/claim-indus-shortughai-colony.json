@@ -1,0 +1,35 @@
+{
+  "id": "claim-indus-shortughai-colony",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将肖图盖解释为印度河「殖民点/贸易站」并为青金石等资源而设——属长期学术模型，非档案定论。",
+    "en": "Reading Shortughaï as an Indus ‘colony/trading post’ founded for resources such as lapis remains a long-standing scholarly model, not an archival verdict."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-shortughai"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-shortughai-harappan-settlement"
+  ],
+  "sources": [
+    "src-indus-francfort-pottier-shortughai-1978",
+    "src-indus-francfort-shortughai-1989",
+    "src-indus-kenoyer-1991"
+  ],
+  "disclaimer": "HYPOTHESIS — colony/trading-post functional labels are interpretive; fact column records excavated Harappan-related material only.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

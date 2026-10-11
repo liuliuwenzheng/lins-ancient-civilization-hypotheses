@@ -1,0 +1,44 @@
+{
+  "id": "asm-sechin-alto-complex",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "上塞钦复合体纪念性建筑",
+    "en": "Sechín Alto complex monumental architecture"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-sechin-alto",
+    "site-cerro-sechin",
+    "site-sechin-bajo"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Pozorski 2002/1987 所述塞钦阿尔托复合体（含相关遗址）的形成初期纪念性布局。",
+    "en": "Initial Period monumental layout of the Sechín Alto complex as discussed by Pozorski 2002/1987."
+  },
+  "sources": [
+    "src-andes-pozorski-initial-period-casma-2002",
+    "src-andes-pozorski-casma-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pozorski & Pozorski 1987/2002",
+    "upstream_url": null,
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

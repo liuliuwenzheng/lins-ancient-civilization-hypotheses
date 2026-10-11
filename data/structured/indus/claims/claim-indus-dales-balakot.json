@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-dales-balakot",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Dales 1974《Journal of Field Archaeology》报告巴拉科特 1973 季：沿海早期—成熟印度河堆积。",
+    "en": "Dales 1974 Journal of Field Archaeology reports the 1973 Balakot season: coastal Early–Mature Indus deposits."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-balakot"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-balakot-coastal-indus"
+  ],
+  "sources": [
+    "src-indus-dales-balakot-1974"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

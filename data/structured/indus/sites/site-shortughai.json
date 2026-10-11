@@ -1,0 +1,32 @@
+{
+  "id": "site-shortughai",
+  "entity": "site",
+  "names": {
+    "zh": "肖图盖",
+    "en": "Shortughaï / Shortugai",
+    "native": null
+  },
+  "kind_note": "Harappan-related settlement in NE Afghanistan; Francfort excavations",
+  "region": "Takhar Province, NE Afghanistan (Amu Darya / Kokcha plain)",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "东北阿富汗哈拉帕相关聚落；Francfort & Pottier 1978 初报、Francfort 1989 正式两卷报告。",
+    "en": "Harappan-related settlement in NE Afghanistan; Francfort & Pottier 1978 preliminary; Francfort 1989 final two-volume report."
+  },
+  "sources": [
+    "src-indus-francfort-pottier-shortughai-1978",
+    "src-indus-francfort-shortughai-1989",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

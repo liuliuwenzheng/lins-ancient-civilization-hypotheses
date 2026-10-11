@@ -1,0 +1,34 @@
+{
+  "id": "claim-andes-benfer-paloma",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Benfer 1990《Latin American Antiquity》讨论帕洛马前陶村落的定居适应生物指标（比较基线）。",
+    "en": "Benfer 1990 Latin American Antiquity discusses bioindications of sedentary adaptation at Preceramic Paloma (comparative baseline)."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-paloma-comparative"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-paloma-bioarchaeology"
+  ],
+  "sources": [
+    "src-andes-benfer-paloma-1990",
+    "src-andes-quilter-paloma-1989"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

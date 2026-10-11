@@ -1,0 +1,41 @@
+{
+  "id": "asm-pampa-llamas-moxeke",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "帕мпа·德·拉斯·利亚马斯–莫塞克规划中心",
+    "en": "Pampa de las Llamas–Moxeke planned center"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-pampa-llamas-moxeke"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Pozorski 1987 中重点讨论的卡斯马早期规划纪念性中心材料。",
+    "en": "Early planned monumental-center materials emphasized in Pozorski & Pozorski 1987."
+  },
+  "sources": [
+    "src-andes-pozorski-casma-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pozorski & Pozorski 1987",
+    "upstream_url": "https://uipress.uiowa.edu/books/early-settlement-and-subsistence-casma-valley-peru",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

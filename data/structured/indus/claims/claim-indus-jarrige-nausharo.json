@@ -1,0 +1,35 @@
+{
+  "id": "claim-indus-jarrige-nausharo",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Jarrige《Pakistan Archaeology》24（1989）与 1996 CRAI 综述记录瑙沙罗早期至成熟印度河层位及仓储/手工业迹象。",
+    "en": "Jarrige’s Pakistan Archaeology 24 (1989) and 1996 CRAI synthesis record Early-to-Mature Indus levels and storage/craft contexts at Nausharo."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-nausharo"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-nausharo-indus-sequence"
+  ],
+  "sources": [
+    "src-indus-jarrige-nausharo-1989",
+    "src-indus-jarrige-nausharo-crai-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-balakot",
+  "entity": "site",
+  "names": {
+    "zh": "巴拉科特",
+    "en": "Balakot (Kot Bala)",
+    "native": null
+  },
+  "kind_note": "Coastal Indus site, Lasbela; Dales 1973 season / 1974 JFA",
+  "region": "Lasbela District, Balochistan coast, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "俾路支沿海印度河遗址；Dales 1973 季、1974《Journal of Field Archaeology》初报。",
+    "en": "Coastal Indus site in Lasbela; Dales 1973 season published in JFA 1974."
+  },
+  "sources": [
+    "src-indus-dales-balakot-1974",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

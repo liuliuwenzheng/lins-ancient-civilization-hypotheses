@@ -1,0 +1,35 @@
+{
+  "id": "claim-indus-balakot-gulf-trade",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将巴拉科特定位为与波斯湾/美索不达米亚海路贸易节点——属研究取向，非已证实航线清单。",
+    "en": "Framing Balakot as a node in Persian Gulf / Mesopotamia sea trade is a research orientation, not a proven route inventory."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-balakot"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-balakot-coastal-indus"
+  ],
+  "sources": [
+    "src-indus-dales-balakot-1974",
+    "src-indus-kenoyer-1991",
+    "src-indus-ratnagar-2004"
+  ],
+  "disclaimer": "HYPOTHESIS — maritime trade-node labels require independent route/find evidence; not promoted to fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

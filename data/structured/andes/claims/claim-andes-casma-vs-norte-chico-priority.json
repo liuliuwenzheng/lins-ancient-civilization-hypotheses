@@ -1,0 +1,38 @@
+{
+  "id": "claim-andes-casma-vs-norte-chico-priority",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "用卡斯马（下塞钦/塞钦阿尔托）或不奇科测年主张「美洲最早文明/城市」排名——属比较修辞，非档案义务。",
+    "en": "Using Casma (Sechín Bajo / Sechín Alto) or Norte Chico dates to claim ‘earliest civilization/city in the Americas’ rankings is comparative rhetoric, not an archival duty."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-sechin-bajo",
+    "site-caral",
+    "site-pampa-llamas-moxeke"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-sechin-bajo-platforms-plazas",
+    "asm-andes-caral-central-zone"
+  ],
+  "sources": [
+    "src-andes-fuchs-sechin-bajo-2009",
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-pozorski-casma-1987"
+  ],
+  "disclaimer": "HYPOTHESIS — primacy/ranking language is marketing or comparative framing; archive records dated architecture per site without world ranking.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

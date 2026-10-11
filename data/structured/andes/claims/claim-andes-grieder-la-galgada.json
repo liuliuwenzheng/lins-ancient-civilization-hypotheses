@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-grieder-la-galgada",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Grieder 等 1988《La Galgada》专报记录北部山间前陶礼仪—居住复合体。",
+    "en": "Grieder et al. 1988 La Galgada monograph documents an intermontane Preceramic ceremonial–residential complex."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-la-galgada"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-la-galgada-preceramic"
+  ],
+  "sources": [
+    "src-andes-grieder-la-galgada-1988"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

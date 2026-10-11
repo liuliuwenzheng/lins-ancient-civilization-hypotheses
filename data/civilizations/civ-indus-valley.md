@@ -41,7 +41,7 @@ sources:
   - src-indus-mughal-cholistan-1997
   - src-indus-unesco-dholavira-2021
 related_ids: ["civ-mesopotamia", "civ-ancient-egypt", "civ-aegean"]
-notes: "fact-library; archive density pass D-2026-10-11-23 (Mesopotamia D-21 / Egypt D-22 pattern). Script undeciphered = research-status fact. Empire vs city-network / Rakhigarhi “capital” / Kot Diji conquest / Lothal dock / climate single-cause = open debate (Notes/hypotheses). Ghaggar-Hakra Holocene monsoon-fed (Giosan). Bisht Dholavira & Nath Rakhigarhi = ASI drafts — cite as drafts. No invented page numbers/coordinates; no forged images."
+notes: "fact-library; archive density passes D-2026-10-11-23 + second pass D-2026-10-11-29. Script undeciphered = research-status fact. Empire vs city-network / Rakhigarhi “capital” / Kot Diji conquest / Lothal dock / climate single-cause = open debate (Notes/hypotheses). Ghaggar-Hakra Holocene monsoon-fed (Giosan). Bisht Dholavira & Nath Rakhigarhi = ASI drafts — cite as drafts. No invented page numbers/coordinates; no forged images."
 ---
 
 # 印度河 / Indus Valley
@@ -98,6 +98,15 @@ Kenoyer notes overlapping older labels; Shaffer’s Tradition–Era–Phase sche
 - **阿姆里 / Amri（信德）** — Casal 1964《阿姆里发掘》正式层位报告 [`src-indus-casal-amri-1964`][`src-indus-kenoyer-1991`]。
 - **苏尔科塔达 / Surkotada（卡奇）** — Joshi MASI 87（1971–72）设防聚落 [`src-indus-joshi-surkotada-1990`][`src-indus-kenoyer-1991`]。
 - **梅赫尔格尔 / Mehrgarh（俾路支卡奇）** — Jarrige 等 1995 田野报告合集：新石器至印度河相关序列；支撑早期食物生产框架，**不是**成熟哈拉帕都城 [`src-indus-jarrige-mehrgarh-1995`][`src-indus-kenoyer-1991`]。
+- **肖图盖 / Shortughaï（阿富汗东北）** — Francfort & Pottier 1978 初报；Francfort 1989 正式两卷；「殖民点」见 Notes [`src-indus-francfort-pottier-shortughai-1978`][`src-indus-francfort-shortughai-1989`]。
+- **拉赫曼德里 / Rehman Dheri（戈马尔）** — Durrani 1988《Ancient Pakistan》6 [`src-indus-durrani-rehman-dheri-1988`]。
+- **瑙沙罗 / Nausharo（卡奇平原）** — Jarrige 1989 季报；1996 CRAI 综述 [`src-indus-jarrige-nausharo-1989`][`src-indus-jarrige-nausharo-crai-1996`]。
+- **纳尔·索尔达姆 / Sohr Damb, Nāl** — Hargreaves ASI Memoir 35（1929）；同卷含马斯通萨姆普尔丘 [`src-indus-hargreaves-nal-1929`]。
+- **巴拉科特 / Balakot（拉斯巴拉沿海）** — Dales 1974 JFA；湾区贸易节点见 Notes [`src-indus-dales-balakot-1974`]。
+- **加格加–哈克拉调查带 / Ghaggar–Hakra (Stein)** — Stein 1942《Geographical Journal》调查走廊（非单点发掘）[`src-indus-stein-sarasvati-1942`]。
+- **信德马宗达调查 / Sind (Majumdar)** — ASI Memoir 48（1934）多点探查 [`src-indus-majumdar-sind-1934`]。
+- **哈拉帕城防与 R37（Wheeler 1946）** — 《Ancient India》3（1947）[`src-indus-wheeler-harappa-1947`]。
+
 - **聚落数量与空间范围（二手估计）** — Possehl 约 976 处；空间范围约 680,000–800,000 km²（Kenoyer / Possehl）——随发现更新 [`src-indus-kenoyer-1991`][`src-indus-possehl-2002`]。
 
 - **Mohenjo-daro (Sindh)** — southern mega-site; Marshall 1931; Mackay 1938; UNESCO 1980 (**heritage title ≠ archaeological verdict**) [`src-indus-marshall-1931`][`src-indus-mackay-1938`][`src-indus-unesco-moenjodaro-1980`].
@@ -112,6 +121,15 @@ Kenoyer notes overlapping older labels; Shaffer’s Tradition–Era–Phase sche
 - **Amri (Sindh)** — Casal 1964 full sequence report [`src-indus-casal-amri-1964`][`src-indus-kenoyer-1991`].
 - **Surkotada (Kutch)** — Joshi MASI 87 fortified settlement [`src-indus-joshi-surkotada-1990`][`src-indus-kenoyer-1991`].
 - **Mehrgarh (Kachi, Balochistan)** — Jarrige et al. 1995 field reports: Neolithic→Indus-related sequence; supports Early Food Producing framing — **not** a Mature Harappan capital [`src-indus-jarrige-mehrgarh-1995`][`src-indus-kenoyer-1991`].
+- **Shortughaï (NE Afghanistan)** — Francfort & Pottier 1978; Francfort 1989 final volumes; “colony” label → Notes [`src-indus-francfort-pottier-shortughai-1978`][`src-indus-francfort-shortughai-1989`].
+- **Rehman Dheri (Gomal)** — Durrani 1988 *Ancient Pakistan* 6 [`src-indus-durrani-rehman-dheri-1988`].
+- **Nausharo (Kachi plain)** — Jarrige 1989 season report; 1996 CRAI synthesis [`src-indus-jarrige-nausharo-1989`][`src-indus-jarrige-nausharo-crai-1996`].
+- **Sohr Damb, Nāl** — Hargreaves ASI Memoir 35 (1929); same memoir includes Sampur Mound, Mastung [`src-indus-hargreaves-nal-1929`].
+- **Balakot (Lasbela coast)** — Dales 1974 JFA; Gulf-trade node → Notes [`src-indus-dales-balakot-1974`].
+- **Ghaggar–Hakra (Stein survey corridor)** — Stein 1942 *Geographical Journal* (not a single excavation) [`src-indus-stein-sarasvati-1942`].
+- **Sind (Majumdar exploratory survey)** — ASI Memoir 48 (1934) multi-site survey [`src-indus-majumdar-sind-1934`].
+- **Harappa defences & Cemetery R37 (Wheeler 1946)** — *Ancient India* 3 (1947) [`src-indus-wheeler-harappa-1947`].
+
 - **Settlement counts / extent (secondary estimates)** — ~976 settlements (Possehl); ~680,000–800,000 km² — subject to update [`src-indus-kenoyer-1991`][`src-indus-possehl-2002`].
 
 
@@ -187,6 +205,10 @@ On whether external trade “made” urbanism: Kenoyer argues Gulf/Mesopotamian 
 
 Research arcs include Marshall’s 1920s Mohenjo-daro campaign and 1931 official volumes [`src-indus-marshall-1931`]; Mackay’s continuation and 1938 report [`src-indus-mackay-1938`]; Vats’s Harappa monograph [`src-indus-vats-1940`]; Wheeler’s influential Cambridge synthesis (citadel / priest-king / invasion-end narratives) [`src-indus-wheeler-1968`]; Rao’s Lothal excavations [`src-indus-rao-lothal-1979`]; modern Harappa Project multidisciplinary seasons from the mid-1980s [`src-indus-meadow-harappa-1991`][`src-indus-wright-2010`]; Kenoyer 1991/1998, Possehl 2002, and Kenoyer 2014 handbook synthesis [`src-indus-kenoyer-1991`][`src-indus-kenoyer-1998`][`src-indus-possehl-2002`][`src-indus-kenoyer-cambridge-2014`]; Parpola’s seal corpus and script studies [`src-indus-parpola-1994`]; Ratnagar’s Bronze Age trade synthesis [`src-indus-ratnagar-2004`]; Giosan et al. 2012 fluvial-climate work [`src-indus-giosan-pnas-2012`]; UNESCO listings of Moenjodaro (1980) and Dholavira (2021) [`src-indus-unesco-moenjodaro-1980`][`src-indus-unesco-dholavira-2021`]; site-level density sources include Bisht’s Dholavira draft, Lal et al. Kalibangan MASI volumes, Mackay Chanhu-daro, Khan Kot Diji, Casal Amri, Joshi Surkotada, Nath/Shinde Rakhigarhi, Jarrige Mehrgarh, and Mughal Cholistan survey [`src-indus-bisht-dholavira-2015`][`src-indus-lal-kalibangan-early-2003`][`src-indus-lal-kalibangan-harappans-2015`][`src-indus-mackay-chanhu-daro-1943`][`src-indus-khan-kot-diji-1965`][`src-indus-casal-amri-1964`][`src-indus-joshi-surkotada-1990`][`src-indus-nath-rakhigarhi-draft`][`src-indus-shinde-rakhigarhi-plos-2018`][`src-indus-jarrige-mehrgarh-1995`][`src-indus-mughal-cholistan-1997`]. Early Near Eastern diffusion models have largely yielded to regional interaction and indigenous-development frames [`src-indus-kenoyer-1991`].
 
+第二轮密度加深（2026-10-11 / D-2026-10-11-29）另登记：Majumdar Sind 1934；Hargreaves Nāl 1929；Francfort Shortughaï 1978/1989；Durrani Rehman Dheri 1988；Jarrige Nausharo 1989/1996；Wheeler Harappa 1947；Dales Balakot 1974；Stein Ghaggar–Hakra 1942。
+
+Second density pass (2026-10-11 / D-2026-10-11-29) also registers Majumdar Sind 1934; Hargreaves Nāl 1929; Francfort Shortughaï 1978/1989; Durrani Rehman Dheri 1988; Jarrige Nausharo 1989/1996; Wheeler Harappa 1947; Dales Balakot 1974; Stein Ghaggar–Hakra 1942.
+
 ## Sources
 
 - `src-indus-kenoyer-1991` — secondary peer-reviewed synthesis; Table I eras; settlement, crafts, script, politics (tier S)
@@ -239,3 +261,6 @@ Research arcs include Marshall’s 1920s Mohenjo-daro campaign and 1931 official
 - **Terminology:** “Indus Valley Civilization,” “Harappan Civilization,” and “Indus Tradition” overlap; this entry follows Kenoyer’s Tradition / Integration Era framing without declaring one name exclusive.
 - **Chronology caution:** Marshall/Mackay/Vats absolute dates are historical; prefer Kenoyer 1991 / Wright 2010 / Giosan 2012 for ranges used here.
 - No invented page numbers; quantitative survey/tablet/weight statistics require table-level follow-up before tighter figures.
+
+- **Open scholarly debate — Shortughaï as colony/trading post:** Harappan-related material at Shortughaï is documented; colonial/trading-post functional labels remain interpretive [`src-indus-francfort-pottier-shortughai-1978`][`src-indus-francfort-shortughai-1989`][`src-indus-kenoyer-1991`].
+- **Open scholarly debate — Balakot as Gulf trade node:** Coastal Indus deposits are documented; specific Persian Gulf route inventories are not treated as settled here [`src-indus-dales-balakot-1974`][`src-indus-ratnagar-2004`].

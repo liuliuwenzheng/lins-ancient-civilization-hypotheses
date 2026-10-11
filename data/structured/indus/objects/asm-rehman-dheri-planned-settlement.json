@@ -1,0 +1,42 @@
+{
+  "id": "asm-rehman-dheri-planned-settlement",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉赫曼德里规划聚落与陶器类型",
+    "en": "Rehman Dheri planned settlement and ceramic typology"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rehman-dheri"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Durrani 1988 报告中的规划布局、外缘墙体与科特迪吉风格陶器类型——不编造件数。",
+    "en": "Planned layout, perimeter walling, and Kot Dijian-style ceramic typology as in Durrani 1988 — no invented counts."
+  },
+  "sources": [
+    "src-indus-durrani-rehman-dheri-1988"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Durrani 1988",
+    "upstream_url": "http://ojs.uop.edu.pk/ancientpakistan/article/view/313",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

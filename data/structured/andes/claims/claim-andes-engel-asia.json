@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-engel-asia",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Engel 1963 APS《Transactions》专报公布中部海岸亚洲单元 I 前陶聚落。",
+    "en": "Engel 1963 APS Transactions monograph publishes the Asia Unit I Preceramic settlement on Peru’s central coast."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-asia-unit-1"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-asia-unit1-preceramic"
+  ],
+  "sources": [
+    "src-andes-engel-asia-1963"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "site-asia-unit-1",
+  "entity": "site",
+  "names": {
+    "zh": "亚洲单元 I",
+    "en": "Asia, Unit I",
+    "native": null
+  },
+  "kind_note": "Central-coast Preceramic settlement; Engel 1963",
+  "region": "Asia, central coast of Peru (south of Norte Chico)",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "中部海岸前陶聚落；Engel 1963 APS《Transactions》专报（比较基线）。",
+    "en": "Central-coast Preceramic settlement; Engel 1963 APS Transactions monograph (comparative)."
+  },
+  "sources": [
+    "src-andes-engel-asia-1963"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-stein-ghaggar-survey-mounds",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "斯坦因加格加–哈克拉调查丘址",
+    "en": "Stein Ghaggar–Hakra survey mounds"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-ghaggar-hakra-stein-survey"
+  ],
+  "period_ids": [
+    "period-indus-integration",
+    "period-indus-localization"
+  ],
+  "summary": {
+    "zh": "斯坦因 1942 文中沿干河床记录的古代丘址调查材料；非现代水文结论。",
+    "en": "Ancient mounds recorded along the dry tract in Stein 1942; not a modern hydrological verdict."
+  },
+  "sources": [
+    "src-indus-stein-sarasvati-1942"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Stein 1942",
+    "upstream_url": "https://doi.org/10.2307/1788862",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

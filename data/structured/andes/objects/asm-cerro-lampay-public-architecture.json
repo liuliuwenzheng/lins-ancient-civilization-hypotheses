@@ -1,0 +1,43 @@
+{
+  "id": "asm-cerro-lampay-public-architecture",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "兰帕伊山公共建筑与仪式性建造",
+    "en": "Cerro Lampay public architecture and ritualized construction"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-cerro-lampay"
+  ],
+  "period_ids": [
+    "period-andes-fortaleza-tested",
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Vega-Centeno 分析的晚古风公共建筑、宴饮/建造仪式与封闭过程。",
+    "en": "Late Archaic public architecture, feasting/construction ritual, and closure as analyzed by Vega-Centeno."
+  },
+  "sources": [
+    "src-andes-vega-centeno-cerro-lampay-2010",
+    "src-andes-vega-centeno-boletin-lampay-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Vega-Centeno 2006/2010",
+    "upstream_url": "https://doi.org/10.7183/1045-6635.21.2.115",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

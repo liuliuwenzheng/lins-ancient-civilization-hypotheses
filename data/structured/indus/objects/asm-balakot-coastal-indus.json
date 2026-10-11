@@ -1,0 +1,42 @@
+{
+  "id": "asm-balakot-coastal-indus",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "巴拉科特沿海印度河堆积",
+    "en": "Balakot coastal Indus deposits"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-balakot"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Dales 1974 初报中的早期—成熟印度河沿海堆积；贸易路线模型另见假说栏。",
+    "en": "Early–Mature Indus coastal deposits in Dales 1974; Gulf-trade models stay in hypothesis column."
+  },
+  "sources": [
+    "src-indus-dales-balakot-1974"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Dales 1974",
+    "upstream_url": "https://doi.org/10.1179/jfa.1974.1.1-2.3",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

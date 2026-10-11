@@ -358,3 +358,36 @@
 - 其余七包不变；全仓闸门通过。
 
 **说明：** 布拉克=乌鲁克殖民地、塔西安简单早于巴达里等留在假说栏；不编造坐标/馆藏号/伪造图；README 不写死实时计数（以 `export_check` 为准）。
+
+### D-2026-10-11-29 — 印度河 + 安第斯第二轮档案密度加深
+
+**决定：** 在第一轮（D-23 / D-24）之后，对印度河与安第斯结构化包再做一轮**遗址级一手/强二手**加深：只登记可核验发掘报告与稳定 URL；扩展遗址、器物组合、事实主张；争议进假说栏；同步 `civ-indus-valley.md` / `civ-andes.md` 的 Key sites 与 Sources；全仓 `export_check` 必须通过。完整性优先于速度。
+
+**本轮主要新增 P（及必要 S）：**
+
+**印度河：**
+- Majumdar《Explorations in Sind》ASI Memoir 48（1934）（Archive）
+- Hargreaves《Excavations in Baluchistan》ASI Memoir 35（1929）— Nāl / Mastung
+- Francfort & Pottier Shortughaï 初报，*Arts asiatiques* 34（1978）（Persée）；Francfort《Fouilles de Shortughaï》1989
+- Durrani Rehman Dheri，*Ancient Pakistan* 6（1988）
+- Jarrige Nausharo，*Pakistan Archaeology* 24（1989）；CRAI 1996 综述（S）
+- Wheeler Harappa 1946，*Ancient India* 3（1947）（历史 P；无稳定开源 PDF 则 url 留空）
+- Dales Balakot，*JFA* 1（1974），DOI 10.1179/jfa.1974.1.1-2.3
+- Stein Ghaggar–Hakra / ‘Sarasvati’ 调查，*Geographical Journal* 99（1942），DOI 10.2307/1788862
+
+**安第斯：**
+- Bird《Huaca Prieta》AMNH Anthropological Papers 62(1)（1985）
+- Grieder 等《La Galgada》(1988) UT Press
+- Pozorski & Pozorski《Early Settlement… Casma Valley》(1987)；Sechín Alto 章（2002，S）
+- Fuchs 等 Sechín Bajo，*Boletín de Arqueología PUCP* 13（2009）
+- Vega-Centeno Cerro Lampay，*Latin American Antiquity* 21（2010）；PUCP 2006（S）
+- Engel Asia Unit I，APS *Transactions* 53(3)（1963）
+- Benfer Paloma，*Latin American Antiquity* 1（1990）（S）；Moseley maritime retrospect，*Andean Past* 3（1992）（S，假说）
+
+**结构化结果（export_check）：**
+- **indus：** 来源 28→38；遗址 12→20；器物组合 16→24；主张 23→33
+- **andes：** 来源 28→38；遗址 14→22；器物组合 16→24；主张 27→36
+- 其余七包不变；全仓闸门通过。
+
+**说明：** 肖图盖「殖民点」、巴拉科特湾区贸易节点、卡斯马/北奇科「最早」排名、海洋奠基模型等留在假说栏；卡斯马与奇卡马/亚洲等为**比较基线**，不并入单一北奇科政体；不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
+

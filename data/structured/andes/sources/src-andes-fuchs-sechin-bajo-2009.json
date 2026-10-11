@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-fuchs-sechin-bajo-2009",
+  "entity": "source",
+  "type": "article",
+  "citation": "Fuchs, Peter R.; Renate Patzschke; Germán Yenque; and Jesús Briceño. 2009. “Del Arcaico Tardío al Formativo Temprano: las investigaciones en Sechín Bajo, valle de Casma” / “From the Late Archaic to the Early Formative: The Research in Sechín Bajo, Casma Valley.” Boletín de Arqueología PUCP 13: 55–86.",
+  "url": "https://revistas.pucp.edu.pe/index.php/boletindearqueologia/en/article/view/983",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary excavators’ report on Sechín Bajo (Casma): three building phases spanning Late Archaic to Early Formative (~3500–1500 BC frame in abstract), including early platform with sunken circular plazas. Open journal page verified 2026-10-11.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-fuchs-sechin-bajo-2009.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

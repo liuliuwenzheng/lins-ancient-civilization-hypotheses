@@ -304,3 +304,36 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 - Other seven packs unchanged; citation gate green.
 
 **Notes:** Brak-as-Uruk-colony and simple Tasian-before-Badarian stay hypotheses; no invented coordinates/museum numbers/forged images; READMEs avoid hardcoded live counts (trust `export_check`).
+
+### D-2026-10-11-29 — Indus + Andes second archive density pass
+
+**Decision:** After the first density passes (D-23 / D-24), deepen the Indus and Andes structured packs again with **site-level primary / strong secondary** sources only: verified excavation reports and stable URLs; expand sites, assemblages, and claims; contested items → hypothesis column; sync `civ-indus-valley.md` / `civ-andes.md` Key sites & Sources; full-repo `export_check` must pass. Integrity over speed.
+
+**Major new P (and necessary S) this round:**
+
+**Indus:**
+- Majumdar *Explorations in Sind* ASI Memoir 48 (1934) (Archive)
+- Hargreaves *Excavations in Baluchistan* ASI Memoir 35 (1929) — Nāl / Mastung
+- Francfort & Pottier Shortughaï preliminary, *Arts asiatiques* 34 (1978) (Persée); Francfort *Fouilles de Shortughaï* 1989
+- Durrani Rehman Dheri, *Ancient Pakistan* 6 (1988)
+- Jarrige Nausharo, *Pakistan Archaeology* 24 (1989); CRAI 1996 synthesis (S)
+- Wheeler Harappa 1946, *Ancient India* 3 (1947) (historical P; url null if no stable open PDF)
+- Dales Balakot, *JFA* 1 (1974), DOI 10.1179/jfa.1974.1.1-2.3
+- Stein Ghaggar–Hakra / ‘Sarasvati’ survey, *Geographical Journal* 99 (1942), DOI 10.2307/1788862
+
+**Andes:**
+- Bird *Huaca Prieta* AMNH Anthropological Papers 62(1) (1985)
+- Grieder et al. *La Galgada* (1988) UT Press
+- Pozorski & Pozorski *Early Settlement… Casma Valley* (1987); Sechín Alto chapter (2002, S)
+- Fuchs et al. Sechín Bajo, *Boletín de Arqueología PUCP* 13 (2009)
+- Vega-Centeno Cerro Lampay, *Latin American Antiquity* 21 (2010); PUCP 2006 (S)
+- Engel Asia Unit I, APS *Transactions* 53(3) (1963)
+- Benfer Paloma, *Latin American Antiquity* 1 (1990) (S); Moseley maritime retrospect, *Andean Past* 3 (1992) (S, hypothesis)
+
+**Structured results (`export_check`):**
+- **indus:** sources 28→38; sites 12→20; objects 16→24; claims 23→33
+- **andes:** sources 28→38; sites 14→22; objects 16→24; claims 27→36
+- Other seven packs unchanged; full-repo gate passes.
+
+**Notes:** Shortughaï “colony,” Balakot Gulf-trade node, Casma/Norte Chico “earliest” rankings, and maritime-foundations stay in the hypothesis column; Casma and Chicama/Asia sites are **comparative baselines**, not merged into one Norte Chico polity; no invented coordinates/catalog numbers/forged images; README counts defer to `export_check`.
+

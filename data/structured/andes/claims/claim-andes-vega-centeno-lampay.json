@@ -1,0 +1,35 @@
+{
+  "id": "claim-andes-vega-centeno-lampay",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Vega-Centeno 2006/2010 公布福塔莱萨河谷兰帕伊山晚古风公共建筑与仪式性建造/消费分析。",
+    "en": "Vega-Centeno 2006/2010 publishes Late Archaic public architecture and ritualized construction/consumption analysis at Cerro Lampay, Fortaleza Valley."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-cerro-lampay"
+  ],
+  "period_ids": [
+    "period-andes-fortaleza-tested",
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [
+    "asm-cerro-lampay-public-architecture"
+  ],
+  "sources": [
+    "src-andes-vega-centeno-cerro-lampay-2010",
+    "src-andes-vega-centeno-boletin-lampay-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

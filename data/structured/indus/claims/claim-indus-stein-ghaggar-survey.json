@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-stein-ghaggar-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Stein 1942《Geographical Journal》发表沿「消失的萨拉斯瓦蒂/加格加–哈克拉」干河床的古代丘址调查。",
+    "en": "Stein 1942 Geographical Journal publishes a survey of ancient mounds along the dry ‘lost Sarasvati’ / Ghaggar–Hakra tract."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-ghaggar-hakra-stein-survey"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-stein-ghaggar-survey-mounds"
+  ],
+  "sources": [
+    "src-indus-stein-sarasvati-1942"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

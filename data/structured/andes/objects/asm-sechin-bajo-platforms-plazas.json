@@ -1,0 +1,41 @@
+{
+  "id": "asm-sechin-bajo-platforms-plazas",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "下塞钦台地与下沉圆形广场",
+    "en": "Sechín Bajo platforms and sunken circular plazas"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-sechin-bajo"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Fuchs 等 2009 报告的早期台地、多次扩建与圆形下沉广场序列。",
+    "en": "Early platform with repeated extensions and sunken circular plazas as in Fuchs et al. 2009."
+  },
+  "sources": [
+    "src-andes-fuchs-sechin-bajo-2009"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Fuchs et al. 2009",
+    "upstream_url": "https://revistas.pucp.edu.pe/index.php/boletindearqueologia/en/article/view/983",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

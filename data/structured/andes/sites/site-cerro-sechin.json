@@ -1,0 +1,31 @@
+{
+  "id": "site-cerro-sechin",
+  "entity": "site",
+  "names": {
+    "zh": "塞钦山",
+    "en": "Cerro Sechín",
+    "native": null
+  },
+  "kind_note": "Casma Initial Period carved-stone temple/platform; oriented via Pozorski syntheses",
+  "region": "Casma Valley, north-central coast of Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "卡斯马形成初期石刻神庙/台地遗址；在 Pozorski 1987/2002 卡斯马综述中定位（比较邻域，非北奇科核心）。",
+    "en": "Casma Initial Period carved-stone temple/platform; placed in Pozorski 1987/2002 Casma syntheses (neighboring valley comparative, not Norte Chico core)."
+  },
+  "sources": [
+    "src-andes-pozorski-casma-1987",
+    "src-andes-pozorski-initial-period-casma-2002"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

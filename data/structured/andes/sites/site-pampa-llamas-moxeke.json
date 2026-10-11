@@ -1,0 +1,31 @@
+{
+  "id": "site-pampa-llamas-moxeke",
+  "entity": "site",
+  "names": {
+    "zh": "帕мпа·德·拉斯·利亚马斯–莫塞克",
+    "en": "Pampa de las Llamas–Moxeke",
+    "native": null
+  },
+  "kind_note": "Casma Valley early planned monumental center; Pozorski & Pozorski 1987",
+  "region": "Casma Valley, north-central coast of Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "卡斯马河谷早期规划纪念性中心；Pozorski & Pozorski 1987 专报重点遗址之一。",
+    "en": "Early planned monumental center in Casma Valley; key site in Pozorski & Pozorski 1987."
+  },
+  "sources": [
+    "src-andes-pozorski-casma-1987",
+    "src-andes-pozorski-initial-period-casma-2002"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

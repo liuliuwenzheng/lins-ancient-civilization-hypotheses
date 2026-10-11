@@ -1,0 +1,43 @@
+{
+  "id": "asm-nausharo-indus-sequence",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瑙沙罗印度河层位序列",
+    "en": "Nausharo Indus occupation sequence"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-nausharo"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Jarrige 季报/综述中的早期至成熟印度河层位与仓储/手工业迹象。",
+    "en": "Early-to-Mature Indus levels and storage/craft contexts as reported by Jarrige."
+  },
+  "sources": [
+    "src-indus-jarrige-nausharo-1989",
+    "src-indus-jarrige-nausharo-crai-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Jarrige 1989/1996",
+    "upstream_url": "https://www.persee.fr/doc/crai_0065-0536_1996_num_140_3_15636",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

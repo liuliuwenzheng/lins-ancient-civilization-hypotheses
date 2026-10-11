@@ -1,0 +1,42 @@
+{
+  "id": "asm-harappa-wheeler-defences-r37",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈拉帕城防与 R37 墓地（Wheeler 1946）",
+    "en": "Harappa defences and Cemetery R37 (Wheeler 1946)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Wheeler《Ancient India》3 报告的城防剖面与 R37 墓地——历史 P，绝对年代框架已过时。",
+    "en": "Defensive sections and Cemetery R37 as in Wheeler Ancient India 3 — historical P; absolute chronology outdated."
+  },
+  "sources": [
+    "src-indus-wheeler-harappa-1947",
+    "src-indus-vats-1940"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Wheeler 1947",
+    "upstream_url": null,
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

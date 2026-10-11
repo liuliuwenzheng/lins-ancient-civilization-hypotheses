@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-durrani-rehman-dheri",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Durrani《Ancient Pakistan》6（1988）报告拉赫曼德里 1976–80 发掘：规划聚落、陶器类型与早期—成熟印度河序列。",
+    "en": "Durrani’s Ancient Pakistan 6 (1988) reports 1976–80 excavations at Rehman Dheri: planned settlement, ceramic typology, and Early–Mature Indus sequence."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rehman-dheri"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-rehman-dheri-planned-settlement"
+  ],
+  "sources": [
+    "src-indus-durrani-rehman-dheri-1988"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

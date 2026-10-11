@@ -1,0 +1,43 @@
+{
+  "id": "asm-majumdar-sind-survey",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "马宗达信德探查调查材料",
+    "en": "Majumdar Sind exploratory-survey assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-sind-majumdar-survey",
+    "site-amri"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "ASI Memoir 48 公布的信德多点探查采集/试掘材料，含后来称为阿姆里类型的识别。",
+    "en": "Multi-site exploratory collections/tests in ASI Memoir 48, including recognition of what became Amri-type material."
+  },
+  "sources": [
+    "src-indus-majumdar-sind-1934"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Majumdar 1934",
+    "upstream_url": "https://archive.org/details/in.ernet.dli.2015.36186",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

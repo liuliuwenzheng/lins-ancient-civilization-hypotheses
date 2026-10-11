@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-wheeler-harappa-1946",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Wheeler《Ancient India》3（1947）报告 1946 年哈拉帕城防与 R37 墓地发掘（历史 P；绝对年代框架须用现代测年校正）。",
+    "en": "Wheeler’s Ancient India 3 (1947) reports 1946 excavations of Harappa’s defences and Cemetery R37 (historical P; absolute chronology needs modern radiocarbon frameworks)."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-harappa-wheeler-defences-r37"
+  ],
+  "sources": [
+    "src-indus-wheeler-harappa-1947"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

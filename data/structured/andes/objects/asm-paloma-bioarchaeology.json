@@ -1,0 +1,42 @@
+{
+  "id": "asm-paloma-bioarchaeology",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "帕洛马前陶村落生物考古",
+    "en": "Paloma Preceramic village bioarchaeology"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-paloma-comparative"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Benfer 1990 对帕洛马定居适应的生物指标讨论（比较；配对 Quilter 1989）。",
+    "en": "Bioindications of sedentary adaptation at Paloma in Benfer 1990 (comparative; pair with Quilter 1989)."
+  },
+  "sources": [
+    "src-andes-benfer-paloma-1990",
+    "src-andes-quilter-paloma-1989"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Benfer 1990",
+    "upstream_url": "https://doi.org/10.2307/971812",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

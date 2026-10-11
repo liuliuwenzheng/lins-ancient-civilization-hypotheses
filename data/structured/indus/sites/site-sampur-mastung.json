@@ -1,0 +1,30 @@
+{
+  "id": "site-sampur-mastung",
+  "entity": "site",
+  "names": {
+    "zh": "萨姆普尔丘（马斯通）",
+    "en": "Sampur Mound, Mastung",
+    "native": null
+  },
+  "kind_note": "Baluchistan mound tested with Nal; Hargreaves Memoir 35",
+  "region": "Mastung area, Balochistan, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "马斯通萨姆普尔丘；与纳尔同入 Hargreaves Memoir 35。",
+    "en": "Sampur Mound at Mastung; published with Nāl in Hargreaves ASI Memoir 35."
+  },
+  "sources": [
+    "src-indus-hargreaves-nal-1929"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

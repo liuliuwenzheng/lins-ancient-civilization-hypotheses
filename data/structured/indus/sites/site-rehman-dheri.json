@@ -1,0 +1,31 @@
+{
+  "id": "site-rehman-dheri",
+  "entity": "site",
+  "names": {
+    "zh": "拉赫曼德里",
+    "en": "Rehman Dheri",
+    "native": null
+  },
+  "kind_note": "Early–Mature Indus planned settlement, Gomal Valley; Durrani 1988",
+  "region": "Gomal Valley, Khyber Pakhtunkhwa, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "戈马尔河谷早期—成熟印度河规划聚落；Durrani 1988《Ancient Pakistan》6 正式报告。",
+    "en": "Early–Mature Indus planned settlement in the Gomal Valley; Durrani 1988 Ancient Pakistan 6 report."
+  },
+  "sources": [
+    "src-indus-durrani-rehman-dheri-1988",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

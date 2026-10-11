@@ -1,0 +1,30 @@
+{
+  "id": "site-huaca-prieta",
+  "entity": "site",
+  "names": {
+    "zh": "普列塔金字塔",
+    "en": "Huaca Prieta",
+    "native": null
+  },
+  "kind_note": "Chicama Valley Preceramic mound; Bird 1985 (comparative)",
+  "region": "Chicama Valley, north coast of Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "奇卡马河谷前陶丘址；Bird 1985 AMNH 专报（比较基线，非北奇科遗址）。",
+    "en": "Chicama Valley Preceramic mound; Bird 1985 AMNH monograph (comparative baseline, not a Norte Chico site)."
+  },
+  "sources": [
+    "src-andes-bird-huaca-prieta-1985"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

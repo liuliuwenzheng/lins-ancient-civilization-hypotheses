@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-majumdar-sind-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Majumdar《Explorations in Sind》(ASI Memoir 48, 1934) 报告 1927–31 年信德探查调查，并识别后来称为阿姆里类型的材料。",
+    "en": "Majumdar’s Explorations in Sind (ASI Memoir 48, 1934) reports the 1927–31 exploratory survey and recognizes material later labeled Amri-type."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-sind-majumdar-survey",
+    "site-amri"
+  ],
+  "period_ids": [
+    "period-indus-regionalization"
+  ],
+  "object_ids": [
+    "asm-majumdar-sind-survey"
+  ],
+  "sources": [
+    "src-indus-majumdar-sind-1934"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-indus-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

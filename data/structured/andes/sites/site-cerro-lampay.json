@@ -1,0 +1,32 @@
+{
+  "id": "site-cerro-lampay",
+  "entity": "site",
+  "names": {
+    "zh": "兰帕伊山",
+    "en": "Cerro Lampay",
+    "native": null
+  },
+  "kind_note": "Fortaleza Valley Late Archaic public architecture; Vega-Centeno",
+  "region": "Fortaleza Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "北奇科福塔莱萨河谷晚古风公共建筑；Vega-Centeno 2006/2010。",
+    "en": "Late Archaic public architecture in Fortaleza Valley (Norte Chico); Vega-Centeno 2006/2010."
+  },
+  "sources": [
+    "src-andes-vega-centeno-cerro-lampay-2010",
+    "src-andes-vega-centeno-boletin-lampay-2006",
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

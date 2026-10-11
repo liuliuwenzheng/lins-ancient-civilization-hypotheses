@@ -1,0 +1,34 @@
+{
+  "id": "claim-andes-moseley-maritime-reappraised",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Moseley 1992 回顾并重申「海洋奠基」多线演化模型——仍属假说，不能单独定论北奇科政治类型。",
+    "en": "Moseley 1992 retrospects and restates the maritime-foundations multilinear model — still a hypothesis; it does not alone settle Norte Chico political typology."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-aspero",
+    "site-huaca-prieta"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-andes-moseley-maritime-foundations-reappraised-1992",
+    "src-andes-moseley-maritime-1975",
+    "src-andes-raymond-maritime-reconsideration-1981"
+  ],
+  "disclaimer": "HYPOTHESIS — maritime-foundations remains a scholarly model; fact column records dated monumental/residential evidence separately.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

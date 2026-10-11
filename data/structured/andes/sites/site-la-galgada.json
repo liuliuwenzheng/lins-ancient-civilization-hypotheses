@@ -1,0 +1,30 @@
+{
+  "id": "site-la-galgada",
+  "entity": "site",
+  "names": {
+    "zh": "拉加尔加达",
+    "en": "La Galgada",
+    "native": null
+  },
+  "kind_note": "Intermontane Preceramic ceremonial–residential complex; Grieder et al. 1988",
+  "region": "Tablachaca Canyon, northern Peru (Ancash)",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "北部山间前陶礼仪—居住复合体；Grieder 等 1988 专报。",
+    "en": "Intermontane Preceramic ceremonial–residential complex; Grieder et al. 1988 monograph."
+  },
+  "sources": [
+    "src-andes-grieder-la-galgada-1988"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

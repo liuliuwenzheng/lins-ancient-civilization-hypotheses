@@ -1,0 +1,41 @@
+{
+  "id": "asm-la-galgada-preceramic",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉加尔加达前陶礼仪—居住组合",
+    "en": "La Galgada Preceramic ceremonial–residential assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-la-galgada"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Grieder 等 1988 专报中的台地/厅室与随葬材料——不编造件数。",
+    "en": "Platform/chamber and burial materials as published by Grieder et al. 1988 — no invented counts."
+  },
+  "sources": [
+    "src-andes-grieder-la-galgada-1988"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Grieder et al. 1988",
+    "upstream_url": "https://utpress.utexas.edu/9780292741065/",
+    "notes": "Do not invent counts, catalog numbers, or forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}
