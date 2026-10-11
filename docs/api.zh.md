@@ -2,7 +2,7 @@
 
 [English](api.md) | 中文
 
-> 留下可复用的审慎轨迹。只读优先。出处失败即关闭。假说始终标注。
+> 留下可复用的审慎轨迹。资料库只读优先。出处失败即关闭。假说始终标注。审议会话云端优先，且永不把假说升为事实。
 
 OpenAPI 草稿：[`openapi.v0.yaml`](openapi.v0.yaml) · 架构：[`architecture.zh.md`](architecture.zh.md)
 
@@ -41,9 +41,11 @@ OpenAPI 草稿：[`openapi.v0.yaml`](openapi.v0.yaml) · 架构：[`architecture
 
 下游不必翻 README 才知道主张从哪来。列表/详情响应包含来源引用（id + 档次 + 短书目，若有）。假说另暴露支持与冲突列表。
 
-### 1.4 只读接口；写入走 git/PR
+### 1.4 资料库只读；写入走 git/PR（审议会话除外）
 
-v0 **仅 GET**。创建与修改通过针对 Markdown 模板的 PR 完成。出处闸门留在人工审阅 + CI，而不是无鉴权的 POST。
+**资料库**端点（文明、来源、假说、还原、检索、元数据）**仅 GET**。资料库记录的创建与修改通过针对 Markdown 模板的 PR 完成——出处闸门留在人工审阅 + CI。
+
+**例外：** 审议圆桌会话可使用会话作用域的 POST（创建会话、追加消息）。这些写入**不得**改写事实库记录，也不得悄悄把假说升为事实。要把审议写入 `deliberations/*.md` 成为 git 轨迹，仍须导出/PR。
 
 ### 1.5 诚实的分页与错误
 
@@ -198,8 +200,9 @@ GET /search?q=...&kind=fact&region=...&limit=20
 
 ## 5. 鉴权
 
-- v0 全部 GET：**公开读**。
-- **写：** 不在 v0 范围内。用 git/PR + 模板。若将来有写接口，须鉴权、审计日志与同一出处闸门——本文不规划。
+- 资料库全部 GET：**公开读**。
+- **资料库写：** 不在 v0 范围内。用 git/PR + 模板。
+- **审议写：** 会话作用域 POST 上线后可要求 API key / 限流；仍不得绕过事实出处闸门。主机待定（见 §9）。
 
 ---
 
@@ -219,11 +222,106 @@ GET /search?q=...&kind=fact&region=...&limit=20
 
 ## 8. 实现草图（非规范）
 
-准备动手时：
+准备动手实现**资料库** API 时：
 
-1. 解析 `sources/`、`data/civilizations/`、`hypotheses/`、`reconstructions/` 的 YAML front matter。
+1. 解析 `sources/`、`data/civilizations/`、`hypotheses/`、`reconstructions/` 以及已发布的 `deliberations/` 的 YAML front matter。
 2. 跑出处闸门 → 写入 `export/` 下的 SQLite 或 JSON。
-3. 只读服务该导出（数据库以只读方式打开）。
+3. 资料库 GET 只读服务该导出（数据库以只读方式打开）。
 4. CI：闸门拒绝则失败；假说文件缺 HYPOTHESIS 标注 / `kind` 映射则失败。
 
-在此之前，**git Markdown 仍是唯一对外接口**——对审慎的人类复用已经足够。
+在此之前，**git Markdown 仍是唯一对外资料库接口**——对审慎的人类复用已经足够。
+
+---
+
+## 9. 审议圆桌（云端优先）
+
+设计见 [`council.zh.md`](council.zh.md)。透镜仅引用：[FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)。
+
+审议算力优先放**云端**（低延迟、席位并行）。凡要**发布**的会话，仍以 `deliberations/` 下的 git Markdown 为真源。
+
+### 9.1 端点
+
+| 方法 | 路径 | 用途 |
+|------|------|------|
+| POST | `/deliberations` | 创建会话：目标 id、席位 slug、问题 |
+| GET | `/deliberations/{id}` | 取会话状态与输出 |
+| POST | `/deliberations/{id}/messages` | 对话轮次（用户或主持提示） |
+| GET | `/deliberations/{id}/stream` | 可选 SSE：透镜 token / 事件流 |
+
+WebSocket 等价语义：`WS /deliberations/{id}/ws`，双向低延迟。流式不可用时，POST 上的**同步 JSON**为兜底。
+
+### 9.2 创建体（草图）
+
+```json
+{
+  "targets": {
+    "civilizations": ["civ-…"],
+    "hypotheses": ["hyp-…"],
+    "reconstructions": [],
+    "sources": ["src-…"]
+  },
+  "seats": [
+    "deming-perspective",
+    "steve-jobs-perspective",
+    "elon-musk-perspective",
+    "darwin-perspective",
+    "descartes-perspective",
+    "qianxuesen-perspective",
+    "mozi-perspective"
+  ],
+  "question": "该假说是否相对已引来源过度宣称？",
+  "stream": true
+}
+```
+
+席位 slug 须存在于 FHLS-perspectives（或已声明的白名单）。未知 slug → `400 unknown_seat_slug`。
+
+### 9.3 透镜消息标注（强制）
+
+每一条透镜生成的消息/笔记**必须**包含：
+
+```json
+{
+  "role": "lens",
+  "lens_slug": "deming-perspective",
+  "perspective": true,
+  "person_endorsement": false,
+  "content": "…"
+}
+```
+
+不得省略。客户端应展示这些字段，以免读者误认为真人背书。
+
+### 9.4 输出形状
+
+状态变为 `synthesized` 时包含：
+
+```json
+{
+  "outputs": {
+    "FACT_NOTES": [],
+    "HYPOTHESIS_CHALLENGES": [],
+    "OPEN_QUESTIONS": [],
+    "FUTURE_WINDOW": []
+  }
+}
+```
+
+`FUTURE_WINDOW` = 前瞻研究问题与可检验下一步——**不是**预言。
+
+### 9.5 禁止升格
+
+审议 API **不得**：
+
+- 因会话副作用 PATCH/PUT 文明事实字段  
+- 在无明确人工/PR 路径时改假说 `status`  
+- 以 `kind: "fact"` 返回透镜文本  
+
+### 9.6 效率说明
+
+- 云端尽量**并行**跑各席。  
+- 用 SSE/WebSocket 流式推送部分透镜笔记，让对话窗口更跟手。  
+- 按 slug 缓存 FHLS 技能正文；勿每轮拉整仓目录。  
+- 限制创建会话的速率；资料库 GET 保持便宜、可缓存。
+
+主机偏好属产品拍板（自建云函数 / 现成 LLM 网关 / 先只规范后实现）。本草稿不选定其一。

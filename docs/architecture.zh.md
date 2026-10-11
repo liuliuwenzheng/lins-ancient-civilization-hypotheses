@@ -14,7 +14,7 @@
 
 ## 分层
 
-数据单向经过四阶段。后层可**链接**前层，但不得悄悄改写事实字段。
+数据单向经过资料库诸阶段。后层可**链接**前层，但不得悄悄改写事实字段。**审议圆桌**位于假说与还原旁侧，作固化前的审核层——只审不抬，绝不把假说悄悄升为事实。
 
 ```
 sources/                  (1) 来源登记 — 分级 P/S/T/U
@@ -22,7 +22,8 @@ sources/                  (1) 来源登记 — 分级 P/S/T/U
 data/civilizations/       (2) 事实库 — 仅有出处的摘要
     ↓ 被关联
 hypotheses/               (3) 假说板 — 始终标注 HYPOTHESIS
-    ↓ 组合进
+    ↓ 被审核            ──── deliberations/  (3b) 审议圆桌
+    ↓ 组合进                  （多透镜审核；面向未来窗口）
 reconstructions/          (4) 还原稿 — 事实 + 假说 + 不确定性
 ```
 
@@ -31,9 +32,10 @@ reconstructions/          (4) 还原稿 — 事实 + 假说 + 不确定性
 | 来源 | `sources/` | 书目登记 + 可信度档 | 档：`P` \| `S` \| `T` \| `U` |
 | 事实库 | `data/civilizations/` | 有年代、有出处的文明条目 | `fact-library` |
 | 假说板 | `hypotheses/` | 已标注的关联 / 模式 | `open` \| `challenged` \| `retired` |
+| 审议圆桌 | `deliberations/` | 多透镜审核会话（席位来自 FHLS-perspectives） | `open` \| `synthesized` \| `archived` |
 | 还原 | `reconstructions/` | 带显式不确定性的因果说明 | `draft` \| `review` \| `archived` |
 
-方法细节见 [`methodology.md`](methodology.md)。来源档次见 [`source-grading.md`](source-grading.md)。
+方法细节见 [`methodology.md`](methodology.md)。来源档次见 [`source-grading.md`](source-grading.md)。圆桌设计：[`council.zh.md`](council.zh.md) · [English](council.md)。视角目录（仅引用）：[FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)。
 
 ## 实体模型
 
@@ -45,6 +47,7 @@ ID 为稳定字符串。前缀让链接与 API 响应中的类型一目了然。
 | **文明 Civilization** | `civ-YYYY-slug` | `id`, `names`（zh/en/native）, `region`, `time_span`, `status`, `summary`, `sources[]`, `related_ids[]`, `notes` | 摘要、来源、相关文明 |
 | **假说 Hypothesis** | `hyp-YYYY-short-slug` | `id`, `title`, `status`, `claims[]`, `supporting_sources[]`, `conflicting_sources[]`, `related_civilizations[]`, `caveats` | **HYPOTHESIS** 页眉 + 分节 |
 | **还原 Reconstruction** | `rec-YYYY-short-slug` | `id`, `title`, `linked_facts[]`, `linked_hypotheses[]`, `status`, `uncertainty_summary` | 链接 ID、叙述、不确定性 |
+| **审议 Deliberation** | `delib-YYYY-short-slug` | `id`, `title`, `status`, `targets`, `seats[]`（FHLS slug）, `question`, `perspective`, `person_endorsement` | 接入、透镜笔记、四栏输出 |
 
 ### 关系（`related_ids` 及其同类字段）
 
@@ -55,6 +58,8 @@ Civilization.civ-*  ←→  Civilization.related_ids[]          （仅事实性�
 Civilization.civ-*  ←被关联←  Hypothesis.related_civilizations[]
 Civilization.civ-*  ←被关联←  Reconstruction.linked_facts[]
 Hypothesis.hyp-*    ←被关联←  Reconstruction.linked_hypotheses[]
+Deliberation.delib-*  →targets→  civ-* / hyp-* / rec-* / src-*
+Deliberation.seats[]  →引用→  FHLS-perspectives 文件夹 slug（外部）
 ```
 
 规则：
@@ -73,6 +78,7 @@ Hypothesis.hyp-*    ←被关联←  Reconstruction.linked_hypotheses[]
 4. **必须有出处。** 无已登记来源 → 不以事实形态对外暴露该主张（Markdown 与未来 API 皆然）。失败即关闭。
 5. **无私密商务数据。** 客户名、成本、合同 —— 永不进仓。
 6. **无伪造影像。** 不上伪造文物图；不整篇倒受版权文本 —— 链接并引用。
+7. **视角 ≠ 背书。** 圆桌席位是 FHLS-perspectives 的 AI 透镜（`perspective: true`，`person_endorsement: false`）。不能单独改写事实字段，也不得装成真人背书。
 
 ## 今日存储
 
@@ -102,11 +108,13 @@ lins-ancient-civilization-hypotheses/
 │   ├── source-grading.md
 │   ├── contributing.md
 │   ├── architecture.md / architecture.zh.md   ← 本文
+│   ├── council.md / council.zh.md             ← 审议圆桌
 │   ├── api.md / api.zh.md                     ← 开放接口设计
 │   └── openapi.v0.yaml                        ← OpenAPI 草稿
 ├── data/civilizations/     # 事实库（含 _template.md）
 ├── sources/                # 来源登记（含 _template.md）
 ├── hypotheses/             # 假说板（含 _template.md）
+├── deliberations/          # 圆桌会话（含 _template.md）
 └── reconstructions/        # 还原稿（含 _template.md）
 ```
 
@@ -114,4 +122,4 @@ lins-ancient-civilization-hypotheses/
 
 ## 开放接口（预览）
 
-现阶段仅设计：只读 REST，路径 `/api/v1/…`，正交筛选，每条带出处引用，假说始终标注。完整设计：[`api.md`](api.md) · OpenAPI 草稿：[`openapi.v0.yaml`](openapi.v0.yaml)。
+现阶段仅设计：资料库资源为 `/api/v1/…` 下的**只读** REST（正交筛选、出处引用、假说始终标注）。审议会话另加**会话作用域**的云端端点（优先流式），且不得把假说悄悄升为事实。完整设计：[`api.zh.md`](api.zh.md) · 圆桌：[`council.zh.md`](council.zh.md) · OpenAPI 草稿：[`openapi.v0.yaml`](openapi.v0.yaml)。

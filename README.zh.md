@@ -23,7 +23,9 @@
 
 **硬规矩：** 事实栏与假说栏严格分开，禁止混写进同一段不加区分的叙述。
 
-详见：[`docs/methodology.md`](docs/methodology.md)
+**审议圆桌：** 材料固化前，可选多透镜审核（主持 + 选自 [FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives) 的席位），产出 FACT_NOTES / HYPOTHESIS_CHALLENGES / OPEN_QUESTIONS / FUTURE_WINDOW。透镜是 AI 视角（`perspective: true`，`person_endorsement: false`）——不是具名人物背书。对话式审核优先走云端接口；已发布会话落在 `deliberations/`。
+
+详见：[`docs/methodology.md`](docs/methodology.md) · 圆桌：[`docs/council.zh.md`](docs/council.zh.md)
 
 ## 来源分级
 
@@ -51,19 +53,24 @@ lins-ancient-civilization-hypotheses/
 │   ├── contributing.md       # 贡献规范
 │   ├── architecture.md       # System layers & entity model (EN)
 │   ├── architecture.zh.md    # 架构说明（中文）
+│   ├── council.md            # Deliberation Council (EN)
+│   ├── council.zh.md         # 审议圆桌（中文）
 │   ├── api.md                # Public API design v0 (EN)
 │   ├── api.zh.md             # 开放接口设计 v0（中文）
-│   └── openapi.v0.yaml       # OpenAPI 草稿（只读）
+│   └── openapi.v0.yaml       # OpenAPI 草稿（资料库 + 审议）
 ├── data/civilizations/       # 事实库条目（含 _template.md）
 ├── sources/                  # 来源登记（含 _template.md）
 ├── hypotheses/               # 假说板（含 _template.md）— 标注 HYPOTHESIS
+├── deliberations/            # 圆桌会话（含 _template.md）— 视角透镜
 └── reconstructions/          # 还原稿（含因果与不确定性，含 _template.md）
 ```
 
 模板已明确标为模板；**不会**预填虚构案例。
 
 - **架构** — 分层、实体、不变量、存储路径：[`docs/architecture.zh.md`](docs/architecture.zh.md) · [English](docs/architecture.md)
-- **开放接口（设计）** — 只读 v0、出处失败即关闭：[`docs/api.zh.md`](docs/api.zh.md) · [English](docs/api.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
+- **审议圆桌** — 条目固化前的多透镜审核；对话式面向未来窗口：[`docs/council.zh.md`](docs/council.zh.md) · [English](docs/council.md) · 会话见 [`deliberations/`](deliberations/)
+- **视角透镜（仅引用）** — AI 思维技能，非真人背书：[FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)
+- **开放接口（设计）** — 资料库只读 v0 + 云端优先审议：[`docs/api.zh.md`](docs/api.zh.md) · [English](docs/api.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
 
 ## 贡献规范
 
@@ -83,6 +90,8 @@ lins-ancient-civilization-hypotheses/
 `hypotheses/` 下的条目，以及 `reconstructions/` 中的推测部分，是供讨论与进一步核验的工作假说。读者与贡献者不得将其当作已证实事实。证据冲突时两侧都记；证据薄弱时如实写明。
 
 事实库力求审慎、有出处的摘要——仍是活文档，可能有误。欢迎用更好来源纠正。
+
+圆桌席位名称指向 FHLS-perspectives 中的 **AI 生成思维透镜**。**不表示**那些人物背书本仓库或任何一场审议。
 
 ## 许可
 

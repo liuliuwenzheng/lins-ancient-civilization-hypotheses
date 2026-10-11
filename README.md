@@ -23,7 +23,9 @@ This project is **not** a place for fantasy narratives, forged artifact images, 
 
 **Hard rule:** fact columns and hypothesis columns stay separate. Do not mix them in one undifferentiated paragraph.
 
-Details: [`docs/methodology.md`](docs/methodology.md)
+**Deliberation Council:** before material hardens, an optional multi-lens audit (Facilitator + seats from [FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)) produces FACT_NOTES / HYPOTHESIS_CHALLENGES / OPEN_QUESTIONS / FUTURE_WINDOW. Lenses are AI perspectives (`perspective: true`, `person_endorsement: false`) — not endorsements by named persons. Prefer a cloud API for live conversational review; published sessions live in `deliberations/`.
+
+Details: [`docs/methodology.md`](docs/methodology.md) · Council: [`docs/council.md`](docs/council.md)
 
 ## Source grading
 
@@ -51,19 +53,24 @@ lins-ancient-civilization-hypotheses/
 │   ├── contributing.md       # How to contribute
 │   ├── architecture.md       # System layers & entity model (EN)
 │   ├── architecture.zh.md    # 架构说明（中文）
+│   ├── council.md            # Deliberation Council (EN)
+│   ├── council.zh.md         # 审议圆桌（中文）
 │   ├── api.md                # Public API design v0 (EN)
 │   ├── api.zh.md             # 开放接口设计 v0（中文）
-│   └── openapi.v0.yaml       # OpenAPI stub (read-only)
+│   └── openapi.v0.yaml       # OpenAPI stub (library + deliberations)
 ├── data/civilizations/       # Fact-library entries (+ _template.md)
 ├── sources/                  # Source registry (+ _template.md)
 ├── hypotheses/               # Hypothesis board (+ _template.md) — labeled HYPOTHESIS
+├── deliberations/            # Council sessions (+ _template.md) — perspective lenses
 └── reconstructions/          # Reconstructions with causality & uncertainty (+ _template.md)
 ```
 
 Templates are marked clearly; they are **not** filled with invented case studies.
 
 - **Architecture** — layers, entities, invariants, storage path: [`docs/architecture.md`](docs/architecture.md) · [中文](docs/architecture.zh.md)
-- **Public API (design)** — read-only v0, citation fail-closed: [`docs/api.md`](docs/api.md) · [中文](docs/api.zh.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
+- **Deliberation Council** — multi-lens audit before entries harden; conversational FUTURE_WINDOW: [`docs/council.md`](docs/council.md) · [中文](docs/council.zh.md) · sessions in [`deliberations/`](deliberations/)
+- **Perspective lenses (by reference)** — AI thinking skills, not real-person endorsement: [FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives)
+- **Public API (design)** — library read-only v0 + cloud-first deliberations: [`docs/api.md`](docs/api.md) · [中文](docs/api.zh.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
 
 ## Contribution norms
 
@@ -83,6 +90,8 @@ Full guide: [`docs/contributing.md`](docs/contributing.md)
 Entries under `hypotheses/` and speculative parts of `reconstructions/` are working ideas for discussion and further checking. Readers and contributors must not treat them as proven fact. When evidence conflicts, record both sides; when evidence is thin, say so.
 
 The fact library aims for careful, sourced summaries — it is still a living draft and may contain errors. Corrections with better sources are welcome.
+
+Council seat names refer to **AI-generated thinking lenses** from FHLS-perspectives. They do **not** mean those persons endorse this repository or any deliberation.
 
 ## License
 

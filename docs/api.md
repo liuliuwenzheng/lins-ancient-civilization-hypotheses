@@ -2,7 +2,7 @@
 
 English | [中文](api.zh.md)
 
-> Leave a careful trail others can reuse. Read-only first. Citation fail-closed. Hypotheses always labeled.
+> Leave a careful trail others can reuse. Library read-only first. Citation fail-closed. Hypotheses always labeled. Council sessions are cloud-first and never promote hyps to facts.
 
 OpenAPI stub: [`openapi.v0.yaml`](openapi.v0.yaml) · Architecture: [`architecture.md`](architecture.md)
 
@@ -41,9 +41,11 @@ Callers combine axes freely, e.g. “East Asia × fact”, “open hypotheses me
 
 Downstream must not hunt the README to know where a claim came from. List/detail responses include source refs (ids + tier + short citation when available). Hypotheses additionally expose supporting vs conflicting lists.
 
-### 1.4 Read-only API; writes via git/PR
+### 1.4 Library read-only; writes via git/PR (except session-scoped deliberations)
 
-v0 is **GET-only**. Creating or editing records happens through pull requests against Markdown templates. That keeps the citation gate in human review + CI, not in an unauthenticated POST.
+**Library** endpoints (civilizations, sources, hypotheses, reconstructions, search, meta) are **GET-only**. Creating or editing library records happens through pull requests against Markdown templates — citation gate stays in human review + CI.
+
+**Exception:** Deliberation Council sessions may use session-scoped POST endpoints (create session, append messages). Those writes must **not** mutate fact-library records or silently promote hypotheses to facts. Publishing a deliberation into `deliberations/*.md` still goes through export/PR when it becomes part of the git trail.
 
 ### 1.5 Honest pagination and errors
 
@@ -198,8 +200,9 @@ Each hit may include `snippet` and `score` when FTS exists; otherwise honest sub
 
 ## 5. Auth
 
-- **Public read** for all v0 GET endpoints.
-- **Write:** out of scope for v0. Use git/PR + templates. Future write APIs (if any) would need auth, audit logs, and the same citation gate — not planned here.
+- **Public read** for all library GET endpoints.
+- **Library write:** out of scope for v0. Use git/PR + templates.
+- **Deliberation write:** session-scoped POSTs may require API keys / rate limits once hosted; still must not bypass the citation gate for facts. Host TBD (see §9).
 
 ---
 
@@ -219,11 +222,106 @@ A single GraphQL schema mirroring the same entities and orthogonal filters may b
 
 ## 8. Implementation sketch (non-normative)
 
-When ready to build:
+When ready to build the **library** API:
 
-1. Parse YAML front matter from `sources/`, `data/civilizations/`, `hypotheses/`, `reconstructions/`.
+1. Parse YAML front matter from `sources/`, `data/civilizations/`, `hypotheses/`, `reconstructions/`, and published `deliberations/`.
 2. Run citation gate → write `export/` SQLite or JSON.
-3. Serve read-only from the export (DB opened read-only).
+3. Serve library GET from the export (DB opened read-only).
 4. CI: fail if gate rejects; fail if hypothesis files lack the HYPOTHESIS label / `kind` mapping.
 
-Until then, **git Markdown remains the only public interface** — and that is already enough for careful human reuse.
+Until then, **git Markdown remains the only public library interface** — and that is already enough for careful human reuse.
+
+---
+
+## 9. Deliberation Council (cloud-first)
+
+Design: [`council.md`](council.md). Lenses by reference: [FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives).
+
+Prefer **cloud** hosting for deliberation compute (low latency, parallel seats). Git remains source of truth for **published** sessions under `deliberations/`.
+
+### 9.1 Endpoints
+
+| Method | Path | Purpose |
+|--------|------|---------|
+| POST | `/deliberations` | Create session: target ids, seat slugs, question |
+| GET | `/deliberations/{id}` | Fetch session state + outputs |
+| POST | `/deliberations/{id}/messages` | Conversational turn (user or facilitator prompt) |
+| GET | `/deliberations/{id}/stream` | Optional SSE stream of lens tokens / events |
+
+WebSocket alternative (same semantics): `WS /deliberations/{id}/ws` for bidirectional low-latency turns. **Sync JSON** on the POST endpoints is the fallback when streaming is unavailable.
+
+### 9.2 Create body (sketch)
+
+```json
+{
+  "targets": {
+    "civilizations": ["civ-…"],
+    "hypotheses": ["hyp-…"],
+    "reconstructions": [],
+    "sources": ["src-…"]
+  },
+  "seats": [
+    "deming-perspective",
+    "steve-jobs-perspective",
+    "elon-musk-perspective",
+    "darwin-perspective",
+    "descartes-perspective",
+    "qianxuesen-perspective",
+    "mozi-perspective"
+  ],
+  "question": "Does this hypothesis overclaim relative to cited sources?",
+  "stream": true
+}
+```
+
+Seat slugs must exist in FHLS-perspectives (or a declared allow-list). Unknown slug → `400 unknown_seat_slug`.
+
+### 9.3 Lens message labeling (mandatory)
+
+Every lens-generated message or note in the response **must** include:
+
+```json
+{
+  "role": "lens",
+  "lens_slug": "deming-perspective",
+  "perspective": true,
+  "person_endorsement": false,
+  "content": "…"
+}
+```
+
+Never omit these flags. Clients should surface them so readers do not mistake lenses for real-person endorsement.
+
+### 9.4 Outputs shape
+
+When status becomes `synthesized`, include:
+
+```json
+{
+  "outputs": {
+    "FACT_NOTES": [],
+    "HYPOTHESIS_CHALLENGES": [],
+    "OPEN_QUESTIONS": [],
+    "FUTURE_WINDOW": []
+  }
+}
+```
+
+`FUTURE_WINDOW` = forward-looking research questions and testable next steps — **not** prophecy.
+
+### 9.5 Non-promotion rule
+
+Deliberation APIs **must not**:
+
+- PATCH/PUT civilization fact fields as a side effect of a session  
+- Change a hypothesis `status` without an explicit, audited human/PR path  
+- Return lens text with `kind: "fact"`
+
+### 9.6 Efficiency notes
+
+- Run seat calls in **parallel** on the cloud host where possible.  
+- Stream partial lens notes (SSE/WebSocket) so the conversational window feels live.  
+- Cache FHLS skill text by slug; do not re-fetch the whole catalog per turn.  
+- Rate-limit session creates; library GETs stay cheap and cacheable.
+
+Host preference is a product decision (self-hosted cloud function vs managed LLM gateway vs spec-first). This stub does not pick one.

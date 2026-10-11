@@ -14,7 +14,7 @@ English | [中文](architecture.zh.md)
 
 ## Layers
 
-Data flows one way through four stages. Later layers may **link** earlier ones; they must not rewrite fact fields silently.
+Data flows one way through the library stages. Later layers may **link** earlier ones; they must not rewrite fact fields silently. The **Deliberation Council** sits beside hypotheses and reconstructions as an audit layer — it reviews before hardening, and never silently promotes hypotheses to facts.
 
 ```
 sources/                  (1) Source registry — graded P/S/T/U
@@ -22,7 +22,8 @@ sources/                  (1) Source registry — graded P/S/T/U
 data/civilizations/       (2) Fact library — sourced summaries only
     ↓ linked by
 hypotheses/               (3) Hypothesis board — always HYPOTHESIS
-    ↓ combined in
+    ↓ audited by          ──── deliberations/  (3b) Deliberation Council
+    ↓ combined in              (multi-lens audit; FUTURE_WINDOW)
 reconstructions/          (4) Reconstructions — facts + hyps + uncertainty
 ```
 
@@ -31,9 +32,10 @@ reconstructions/          (4) Reconstructions — facts + hyps + uncertainty
 | Sources | `sources/` | Bibliographic registry + reliability tier | tier: `P` \| `S` \| `T` \| `U` |
 | Fact library | `data/civilizations/` | Dated, cited civilization entries | `fact-library` |
 | Hypothesis board | `hypotheses/` | Labeled associations / patterns | `open` \| `challenged` \| `retired` |
+| Deliberation Council | `deliberations/` | Multi-lens audit sessions (FHLS-perspectives seats) | `open` \| `synthesized` \| `archived` |
 | Reconstructions | `reconstructions/` | Causality notes with explicit uncertainty | `draft` \| `review` \| `archived` |
 
-Details of the method: [`methodology.md`](methodology.md). Source tiers: [`source-grading.md`](source-grading.md).
+Details of the method: [`methodology.md`](methodology.md). Source tiers: [`source-grading.md`](source-grading.md). Council design: [`council.md`](council.md) · [中文](council.zh.md). Lens catalog (by reference): [FHLS-perspectives](https://github.com/liuliuwenzheng/FHLS-perspectives).
 
 ## Entity model
 
@@ -45,6 +47,7 @@ IDs are stable strings. Prefixes make type obvious in links and API responses.
 | **Civilization** | `civ-YYYY-slug` | `id`, `names` (zh/en/native), `region`, `time_span`, `status`, `summary`, `sources[]`, `related_ids[]`, `notes` | Summary, sources, related civs |
 | **Hypothesis** | `hyp-YYYY-short-slug` | `id`, `title`, `status`, `claims[]`, `supporting_sources[]`, `conflicting_sources[]`, `related_civilizations[]`, `caveats` | **HYPOTHESIS** header + sections |
 | **Reconstruction** | `rec-YYYY-short-slug` | `id`, `title`, `linked_facts[]`, `linked_hypotheses[]`, `status`, `uncertainty_summary` | Linked IDs, narrative, uncertainty |
+| **Deliberation** | `delib-YYYY-short-slug` | `id`, `title`, `status`, `targets`, `seats[]` (FHLS slugs), `question`, `perspective`, `person_endorsement` | Intake, lens notes, four output columns |
 
 ### Relationships (`related_ids` and cousins)
 
@@ -55,6 +58,8 @@ Civilization.civ-*  ←→  Civilization.related_ids[]          (factual geo/chr
 Civilization.civ-*  ←linked by←  Hypothesis.related_civilizations[]
 Civilization.civ-*  ←linked by←  Reconstruction.linked_facts[]
 Hypothesis.hyp-*    ←linked by←  Reconstruction.linked_hypotheses[]
+Deliberation.delib-*  →targets→  civ-* / hyp-* / rec-* / src-*
+Deliberation.seats[]  →references→  FHLS-perspectives folder slugs (external)
 ```
 
 Rules:
@@ -73,6 +78,7 @@ These are not style tips. Treat them as gates (same spirit as poetry-tree’s ri
 4. **Citation required.** No registered source → do not expose the claim as fact (in Markdown or in a future API). Fail closed.
 5. **No private business data.** Client names, costs, contracts — never in this repo.
 6. **No forged imagery.** No fabricated artifact photos; no wholesale copyrighted dumps — cite and link.
+7. **Perspectives ≠ endorsement.** Council seats are AI lenses from FHLS-perspectives (`perspective: true`, `person_endorsement: false`). They never rewrite fact fields by themselves and must not be framed as real-person endorsement.
 
 ## Storage today
 
@@ -102,11 +108,13 @@ lins-ancient-civilization-hypotheses/
 │   ├── source-grading.md
 │   ├── contributing.md
 │   ├── architecture.md / architecture.zh.md   ← this document
+│   ├── council.md / council.zh.md             ← Deliberation Council
 │   ├── api.md / api.zh.md                     ← public API design
 │   └── openapi.v0.yaml                        ← OpenAPI stub
 ├── data/civilizations/     # fact library (+ _template.md)
 ├── sources/                # source registry (+ _template.md)
 ├── hypotheses/             # hypothesis board (+ _template.md)
+├── deliberations/          # Council sessions (+ _template.md)
 └── reconstructions/        # reconstructions (+ _template.md)
 ```
 
@@ -114,4 +122,4 @@ Do not invent parallel top-level trees. Extend this map only when a real need ap
 
 ## Public API (preview)
 
-Design-only for now: read-only REST under `/api/v1/…`, orthogonal filters, every item carries source refs, hypotheses always labeled. Full design: [`api.md`](api.md) · OpenAPI stub: [`openapi.v0.yaml`](openapi.v0.yaml).
+Design-only for now: library resources are **read-only** REST under `/api/v1/…` (orthogonal filters, source refs, hypotheses always labeled). Deliberation sessions add **session-scoped** cloud endpoints (prefer streaming) that must not silently promote hypotheses to facts. Full design: [`api.md`](api.md) · Council: [`council.md`](council.md) · OpenAPI stub: [`openapi.v0.yaml`](openapi.v0.yaml).

@@ -2,9 +2,12 @@ openapi: 3.0.3
 info:
   title: Lin's Ancient Civilization Hypotheses API
   description: |
-    Design stub (v0) — read-only. Citation fail-closed; hypotheses always labeled.
-    Markdown in git is the source of truth until an export/server exists.
-  version: 0.0.1
+    Design stub (v0) — library endpoints read-only; deliberation sessions are
+    session-scoped (cloud-first, prefer SSE/WebSocket). Citation fail-closed;
+    hypotheses always labeled; lens outputs always perspective=true,
+    person_endorsement=false. Markdown in git is the source of truth for
+    published library + deliberation trails.
+  version: 0.0.2
   license:
     name: MIT
     url: https://github.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/blob/main/LICENSE
@@ -23,6 +26,7 @@ tags:
   - name: hypotheses
   - name: reconstructions
   - name: search
+  - name: deliberations
 
 paths:
   /:
@@ -292,6 +296,84 @@ paths:
                 $ref: "#/components/schemas/SearchResult"
         "400":
           $ref: "#/components/responses/BadRequest"
+
+  /deliberations:
+    post:
+      tags: [deliberations]
+      summary: Create a Deliberation Council session (cloud-first)
+      description: |
+        Session-scoped write. Does not mutate fact-library records.
+        Prefer streaming via /deliberations/{id}/stream or WebSocket.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/DeliberationCreate"
+      responses:
+        "201":
+          description: Session created
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Deliberation"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /deliberations/{id}:
+    get:
+      tags: [deliberations]
+      summary: Fetch deliberation session state and outputs
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Session detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Deliberation"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /deliberations/{id}/messages:
+    post:
+      tags: [deliberations]
+      summary: Append a conversational turn (sync JSON fallback)
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/DeliberationMessageCreate"
+      responses:
+        "200":
+          description: Updated session (lens messages labeled perspective=true)
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Deliberation"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /deliberations/{id}/stream:
+    get:
+      tags: [deliberations]
+      summary: SSE stream of lens tokens / events (preferred for low latency)
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: text/event-stream of deliberation events
+          content:
+            text/event-stream:
+              schema:
+                type: string
+        "404":
+          $ref: "#/components/responses/NotFound"
+
 
 components:
   parameters:
@@ -617,6 +699,125 @@ components:
               items:
                 $ref: "#/components/schemas/SearchHit"
 
+
+    DeliberationCreate:
+      type: object
+      required: [targets, seats, question]
+      properties:
+        targets:
+          type: object
+          properties:
+            civilizations:
+              type: array
+              items: { type: string }
+            hypotheses:
+              type: array
+              items: { type: string }
+            reconstructions:
+              type: array
+              items: { type: string }
+            sources:
+              type: array
+              items: { type: string }
+        seats:
+          type: array
+          items:
+            type: string
+          description: FHLS-perspectives folder slugs (e.g. deming-perspective)
+          minItems: 1
+        question:
+          type: string
+        stream:
+          type: boolean
+          default: true
+
+    DeliberationMessageCreate:
+      type: object
+      required: [content]
+      properties:
+        role:
+          type: string
+          enum: [user, facilitator]
+          default: user
+        content:
+          type: string
+
+    LensMessage:
+      type: object
+      required: [role, lens_slug, perspective, person_endorsement, content]
+      properties:
+        role:
+          type: string
+          enum: [lens]
+        lens_slug:
+          type: string
+          example: deming-perspective
+        perspective:
+          type: boolean
+          enum: [true]
+        person_endorsement:
+          type: boolean
+          enum: [false]
+        content:
+          type: string
+
+    DeliberationOutputs:
+      type: object
+      properties:
+        FACT_NOTES:
+          type: array
+          items: { type: string }
+        HYPOTHESIS_CHALLENGES:
+          type: array
+          items: { type: string }
+        OPEN_QUESTIONS:
+          type: array
+          items: { type: string }
+        FUTURE_WINDOW:
+          type: array
+          items: { type: string }
+          description: Research questions & testable next steps — not prophecy
+
+    Deliberation:
+      type: object
+      required: [id, kind, status, perspective, person_endorsement, seats, question]
+      properties:
+        id:
+          type: string
+          example: delib-2026-example
+        kind:
+          type: string
+          enum: [deliberation]
+        status:
+          type: string
+          enum: [open, synthesized, archived]
+        perspective:
+          type: boolean
+          enum: [true]
+        person_endorsement:
+          type: boolean
+          enum: [false]
+        seats:
+          type: array
+          items: { type: string }
+        question:
+          type: string
+        targets:
+          type: object
+          additionalProperties: true
+        messages:
+          type: array
+          items:
+            oneOf:
+              - $ref: "#/components/schemas/LensMessage"
+              - type: object
+                additionalProperties: true
+        outputs:
+          $ref: "#/components/schemas/DeliberationOutputs"
+        links:
+          type: object
+          additionalProperties: true
+
     ErrorBody:
       type: object
       required: [code, message]
@@ -628,6 +829,8 @@ components:
             - invalid_cursor
             - not_found
             - citation_gate_failed
+            - unknown_seat_slug
+            - promotion_forbidden
             - internal_error
         message:
           type: string
