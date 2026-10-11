@@ -1,0 +1,31 @@
+{
+  "id": "site-helwan",
+  "entity": "site",
+  "names": {
+    "zh": "赫勒万（Helwan）",
+    "en": "Helwan",
+    "native": null
+  },
+  "kind_note": "Early Dynastic cemetery (Department of Antiquities excavations)",
+  "region": "Memphite region / east bank Nile Valley",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "早王朝墓地；Saad 发掘者综合《Excavations at Helwan》(Oklahoma 1969 英译本) 登记为历史 P。断代与墓主归属须与现代早王朝综合对照。",
+    "en": "Early Dynastic cemetery; excavator synthesis Saad Excavations at Helwan (1969 Oklahoma English edition) registered as historical P. Dating/attributions need modern Early Dynastic cross-check."
+  },
+  "sources": [
+    "src-egypt-saad-helwan-1969",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-22; bibliographic details verified via WebSearch/catalogs; coordinates omitted (not asserted from checked pages)."
+  }
+}

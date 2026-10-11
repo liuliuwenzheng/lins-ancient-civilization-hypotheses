@@ -1,0 +1,42 @@
+{
+  "id": "asm-elephantine-town-temple",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "象岛城镇与神庙发掘组合（Kaiser MDAIK 26）",
+    "en": "Elephantine town-and-temple excavated assemblage (Kaiser MDAIK 26)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-elephantine"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic",
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Kaiser 等 MDAIK 26（1970）首报公布的城镇/神庙区出土建筑与器物语境；后续季报另册，本组合仅锚定首报。",
+    "en": "Town/temple architectural and object contexts as first published in Kaiser et al. MDAIK 26 (1970); later seasons are separate — this assemblage anchors the inaugural report only."
+  },
+  "sources": [
+    "src-egypt-kaiser-elephantine-mdaik26-1970"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.dainst.org/forschung/projekte/noslug/5234",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-22; assemblage-level metadata only; no forged binaries or invented inventory numbers."
+  }
+}

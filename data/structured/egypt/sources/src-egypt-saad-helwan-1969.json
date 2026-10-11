@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-saad-helwan-1969",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Saad, Zaki Yusef. 1969. The Excavations at Helwan: Art and Civilization in the First and Second Egyptian Dynasties. Edited and with a foreword by J. Frank Autry. Norman: University of Oklahoma Press. (English presentation based on the excavator’s Helwan work; Arabic-related titles include Royal Excavations at Helwan.)",
+  "url": "https://archive.org/details/excavationsathel0000saad",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Excavator’s synthesis of Department of Antiquities work at Helwan Early Dynastic cemeteries (English 1969 Oklahoma edition; digitized on Internet Archive, accessed 2026-10-11). Treat as historical P for cemetery evidence; absolute dating and tomb attributions need modern Early Dynastic cross-check (Wilkinson; Bard).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-saad-helwan-1969.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-randall-maciver-el-amrah-1902",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Randall-MacIver, David, and A. C. Mace, with a chapter by F. Ll. Griffith. 1902. El Amrah and Abydos, 1899–1901. Special Extra Publication of the Egypt Exploration Fund. London: Egypt Exploration Fund.",
+  "url": "https://archive.org/details/elamrahabydos18900rand",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary EEF report of Predynastic/archaic cemeteries at El Amrah and related Abydos-area work (1899–1901). Digitized on Internet Archive (accessed 2026-10-11). Historical P.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-randall-maciver-el-amrah-1902.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}

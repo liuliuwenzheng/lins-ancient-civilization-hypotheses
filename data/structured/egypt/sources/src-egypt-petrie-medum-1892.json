@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-petrie-medum-1892",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Petrie, W. M. Flinders. 1892. Medum. London: David Nutt.",
+  "url": "https://archive.org/details/cu31924028670465",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary report of 1890–91 Meidum (Medum) work: pyramid survey, temple, mastabas, and small finds as published. Digitized on Internet Archive (accessed 2026-10-11). Historical P; Old Kingdom chronology labels need modern cross-check (Lehner; Shaw).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-medum-1892.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}

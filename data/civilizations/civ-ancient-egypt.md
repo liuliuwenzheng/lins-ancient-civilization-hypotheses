@@ -27,8 +27,21 @@ sources:
   - src-egypt-quibell-green-hierakonpolis-1902
   - src-egypt-hoffman-before-pharaohs-1979
   - src-egypt-edwards-pyramids-1993
+  - src-egypt-petrie-quibell-naqada-ballas-1896
+  - src-egypt-petrie-abydos-i-1902
+  - src-egypt-randall-maciver-el-amrah-1902
+  - src-egypt-petrie-tarkhan-i-1913
+  - src-egypt-petrie-tarkhan-ii-1914
+  - src-egypt-petrie-medum-1892
+  - src-egypt-reisner-mycerinus-1931
+  - src-egypt-firth-quibell-step-pyramid-1935
+  - src-egypt-emery-great-tombs-iii-1958
+  - src-egypt-kaiser-elephantine-mdaik26-1970
+  - src-egypt-von-der-way-buto-i-1997
+  - src-egypt-adams-hk6-2000
+  - src-egypt-saad-helwan-1969
 related_ids: ["civ-mesopotamia", "civ-aegean", "civ-indus-valley"]
-notes: "fact-library after 2026-10-11 depth upgrade matching Mesopotamia pilot. Scope focuses Predynastic–Old Kingdom; Middle/New Kingdom and later are oriented only via handbook chapters, not fully expanded. Narmer Palette / ‘unification’ treated as process + contested iconography, not a single-event military proof. No invented page numbers; no forged artifact images."
+notes: "fact-library; archive density pass D-2026-10-11-22 added site-level P reports (Naqada/Ballas, Abydos I, El Amrah, Tarkhan, Meidum, Reisner Mycerinus, Firth–Quibell Step Pyramid, Emery Saqqara tombs, Kaiser Elephantine, von der Way Buto, Adams HK6, Saad Helwan). Scope Predynastic–Old Kingdom. Narmer/unification remains process + contested. No invented page numbers/coordinates/forged images."
 ---
 
 # 古埃及 / Ancient Egypt
@@ -69,19 +82,34 @@ Naqada is often subdivided (I / II / III, with “Dynasty 0” debates); follow 
 
 ## Key sites
 
-- **希拉孔波利斯 / Hierakonpolis (Kom el-Ahmar)** — 上埃及前王朝–早王朝关键中心；Quibell 1900 与 Quibell & Green 1902 报告神庙区发掘与「主窖藏 / Main Deposit」（与纳尔迈调色板及相关早期王权器物传统关联）[`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-quibell-green-hierakonpolis-1902`][`src-egypt-wilkinson-early-dynastic-1999`]。Hoffman、Midant-Reynes、Wengrow 提供前王朝聚落与社会复杂化语境 [`src-egypt-hoffman-before-pharaohs-1979`][`src-egypt-midant-reynes-prehistory-2000`][`src-egypt-wengrow-early-egypt-2006`]。
-- **阿拜多斯 / Abydos (Umm el-Qaab)** — 早王朝王陵核心区；Petrie《最早诸王朝王陵》报告第一王朝王陵发掘 [`src-egypt-petrie-royal-tombs-1900`]。Wilkinson 综述阿拜多斯在国家形成与王权丧葬建筑中的地位 [`src-egypt-wilkinson-early-dynastic-1999`]。
-- **孟斐斯 / Memphis** — 传统上将早王朝/古王国政治中心置于上下埃及交汇处；Wilkinson 与 Bard 在国家出现与区域城市化讨论中定位孟斐斯，本条在未登记孟斐斯专址现代发掘总报前不编造「出土清单」[`src-egypt-wilkinson-early-dynastic-1999`][`src-egypt-bard-archaeology-2015`]。
-- **萨卡拉 / Saqqara** — 古王国王陵与贵族墓地集群；阶梯金字塔（左塞尔）等纪念性建筑序列见 Lehner、Edwards 金字塔通论及 Shaw 古王国章取向 [`src-egypt-lehner-complete-pyramids-1997`][`src-egypt-edwards-pyramids-1993`][`src-egypt-shaw-oxford-history-2000`]。
-- **吉萨 / Giza** — 第四王朝金字塔群与相关工人/村镇考古；Lehner《完整金字塔》与 Bard 教材（含大金字塔建造专题）为现代田野取向入口——**谨慎**：不在此条给出未核对的劳工人数或建造工期数字 [`src-egypt-lehner-complete-pyramids-1997`][`src-egypt-bard-archaeology-2015`][`src-egypt-edwards-pyramids-1993`]。
-- **其他常在通论中出现的前王朝中心**（如 Naqada 遗址本身）——Midant-Reynes、Hoffman、Bard 提供地名与分期入口；未登记专报前不编造器物清单 [`src-egypt-midant-reynes-prehistory-2000`][`src-egypt-hoffman-before-pharaohs-1979`][`src-egypt-bard-archaeology-2015`]。
+- **希拉孔波利斯 / Hierakonpolis (Kom el-Ahmar)** — 上埃及前王朝–早王朝关键中心；Quibell 1900 / Quibell & Green 1902 报告神庙区主窖藏；Adams 2000 报告 HK6 精英墓地（1979–1985）[`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-quibell-green-hierakonpolis-1902`][`src-egypt-adams-hk6-2000`][`src-egypt-wilkinson-early-dynastic-1999`]。
+- **阿拜多斯 / Abydos (Umm el-Qaab 等)** — 早王朝王陵核心：Petrie《王陵》；另有 Petrie《Abydos》I（1902）与 Randall-MacIver《El Amrah and Abydos》[`src-egypt-petrie-royal-tombs-1900`][`src-egypt-petrie-abydos-i-1902`][`src-egypt-randall-maciver-el-amrah-1902`][`src-egypt-wilkinson-early-dynastic-1999`]。
+- **纳卡达 / Naqada** — 前王朝序列类型墓地；Petrie & Quibell《Naqada and Ballas》(1896) [`src-egypt-petrie-quibell-naqada-ballas-1896`][`src-egypt-midant-reynes-prehistory-2000`]。
+- **巴拉斯 / Ballas** — 与纳卡达同期 ERA 墓地；同上报告（勿与晚期 Deir el-Ballas 宫殿混为一谈）[`src-egypt-petrie-quibell-naqada-ballas-1896`]。
+- **埃尔阿姆拉 / El Amrah** — 前王朝/古风墓地；Randall-MacIver & Mace 1902 [`src-egypt-randall-maciver-el-amrah-1902`]。
+- **塔尔罕 / Tarkhan** — 前王朝末–早王朝墓地；Petrie Tarkhan I/II（1913–1914）[`src-egypt-petrie-tarkhan-i-1913`][`src-egypt-petrie-tarkhan-ii-1914`]。
+- **孟斐斯 / Memphis** — 通论级政治中心取向；Petrie Tarkhan I and Memphis V 含相关章节——不编造未核对坐标/出土清单 [`src-egypt-wilkinson-early-dynastic-1999`][`src-egypt-bard-archaeology-2015`][`src-egypt-petrie-tarkhan-i-1913`]。
+- **萨卡拉 / Saqqara** — Firth & Quibell 1935《阶梯金字塔》；Emery《第一王朝大墓》III（1958）；通论 Lehner/Edwards [`src-egypt-firth-quibell-step-pyramid-1935`][`src-egypt-emery-great-tombs-iii-1958`][`src-egypt-lehner-complete-pyramids-1997`]。
+- **吉萨 / Giza** — Reisner《Mycerinus》(1931) 第三金字塔神庙正式报告；通论 Lehner/Edwards/Bard——**谨慎**不编造劳工人数 [`src-egypt-reisner-mycerinus-1931`][`src-egypt-lehner-complete-pyramids-1997`][`src-egypt-bard-archaeology-2015`]。
+- **美杜姆 / Meidum** — Petrie《Medum》(1892) [`src-egypt-petrie-medum-1892`][`src-egypt-lehner-complete-pyramids-1997`]。
+- **赫勒万 / Helwan** — Saad 早王朝墓地综合（1969 英译本）[`src-egypt-saad-helwan-1969`][`src-egypt-wilkinson-early-dynastic-1999`]。
+- **象岛 / Elephantine** — Kaiser 等 MDAIK 26（1970）首份城镇与神庙季报 [`src-egypt-kaiser-elephantine-mdaik26-1970`]。
+- **布托 / Buto (Tell el-Faraʻîn)** — von der Way《Buto I》(AV 83, 1997) 早期层位正式报告 [`src-egypt-von-der-way-buto-i-1997`][`src-egypt-wilkinson-early-dynastic-1999`]。
 
-- **Hierakonpolis (Kom el-Ahmar)** — key Upper Egyptian Predynastic–Early Dynastic center; Quibell 1900 and Quibell & Green 1902 report temple-area work and the Main Deposit (linked to the Narmer Palette and related early royal objects) [`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-quibell-green-hierakonpolis-1902`][`src-egypt-wilkinson-early-dynastic-1999`].
-- **Abydos (Umm el-Qaab)** — Early Dynastic royal cemetery core; Petrie’s *Royal Tombs* reports First Dynasty royal tombs [`src-egypt-petrie-royal-tombs-1900`]. Wilkinson synthesizes Abydos in state formation and royal mortuary architecture [`src-egypt-wilkinson-early-dynastic-1999`].
-- **Memphis** — conventionally the Early Dynastic / Old Kingdom political center at the Upper–Lower Egypt junction; oriented in Wilkinson and Bard — no invented find lists without a registered Memphis monograph [`src-egypt-wilkinson-early-dynastic-1999`][`src-egypt-bard-archaeology-2015`].
-- **Saqqara** — Old Kingdom royal and elite cemetery landscape; Step Pyramid sequence oriented via Lehner, Edwards, and Shaw’s Old Kingdom chapter [`src-egypt-lehner-complete-pyramids-1997`][`src-egypt-edwards-pyramids-1993`][`src-egypt-shaw-oxford-history-2000`].
-- **Giza** — Fourth Dynasty pyramid field and related settlement archaeology; Lehner and Bard (including Great Pyramid construction topics) are modern field-informed entry points — **carefully**: no unchecked workforce or construction-duration statistics [`src-egypt-lehner-complete-pyramids-1997`][`src-egypt-bard-archaeology-2015`][`src-egypt-edwards-pyramids-1993`].
-- **Other Predynastic centers** (e.g. Naqada itself) — oriented via Midant-Reynes, Hoffman, and Bard; no invented assemblages [`src-egypt-midant-reynes-prehistory-2000`][`src-egypt-hoffman-before-pharaohs-1979`][`src-egypt-bard-archaeology-2015`].
+- **Hierakonpolis (Kom el-Ahmar)** — Quibell/Green Main Deposit; Adams 2000 HK6 elite cemetery [`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-quibell-green-hierakonpolis-1902`][`src-egypt-adams-hk6-2000`][`src-egypt-wilkinson-early-dynastic-1999`].
+- **Abydos (Umm el-Qaab and related)** — Petrie *Royal Tombs*; Petrie *Abydos* I (1902); Randall-MacIver *El Amrah and Abydos* [`src-egypt-petrie-royal-tombs-1900`][`src-egypt-petrie-abydos-i-1902`][`src-egypt-randall-maciver-el-amrah-1902`][`src-egypt-wilkinson-early-dynastic-1999`].
+- **Naqada** — type cemeteries; Petrie & Quibell *Naqada and Ballas* (1896) [`src-egypt-petrie-quibell-naqada-ballas-1896`][`src-egypt-midant-reynes-prehistory-2000`].
+- **Ballas** — co-excavated ERA cemeteries (same report; do not conflate with later Deir el-Ballas palace) [`src-egypt-petrie-quibell-naqada-ballas-1896`].
+- **El Amrah** — Predynastic/archaic cemetery; Randall-MacIver & Mace 1902 [`src-egypt-randall-maciver-el-amrah-1902`].
+- **Tarkhan** — Late Predynastic–Early Dynastic cemetery; Petrie Tarkhan I/II [`src-egypt-petrie-tarkhan-i-1913`][`src-egypt-petrie-tarkhan-ii-1914`].
+- **Memphis** — handbook-level political-center orientation; Memphis V chapter in Petrie 1913 — no invented coordinates/find lists [`src-egypt-wilkinson-early-dynastic-1999`][`src-egypt-bard-archaeology-2015`][`src-egypt-petrie-tarkhan-i-1913`].
+- **Saqqara** — Firth & Quibell 1935 Step Pyramid; Emery *Great Tombs* III 1958; surveys Lehner/Edwards [`src-egypt-firth-quibell-step-pyramid-1935`][`src-egypt-emery-great-tombs-iii-1958`][`src-egypt-lehner-complete-pyramids-1997`].
+- **Giza** — Reisner *Mycerinus* 1931; surveys Lehner/Edwards/Bard — **carefully** no invented workforce counts [`src-egypt-reisner-mycerinus-1931`][`src-egypt-lehner-complete-pyramids-1997`][`src-egypt-bard-archaeology-2015`].
+- **Meidum** — Petrie *Medum* 1892 [`src-egypt-petrie-medum-1892`][`src-egypt-lehner-complete-pyramids-1997`].
+- **Helwan** — Saad Early Dynastic cemetery synthesis (1969 English edition) [`src-egypt-saad-helwan-1969`][`src-egypt-wilkinson-early-dynastic-1999`].
+- **Elephantine** — Kaiser et al. MDAIK 26 (1970) inaugural town-and-temple report [`src-egypt-kaiser-elephantine-mdaik26-1970`].
+- **Buto (Tell el-Faraʻîn)** — von der Way *Buto I* (AV 83, 1997) early contexts [`src-egypt-von-der-way-buto-i-1997`][`src-egypt-wilkinson-early-dynastic-1999`].
+
 
 ## Urbanism, architecture & institutions
 
@@ -139,7 +167,7 @@ Modern research pillars include Petrie’s Abydos royal-tomb excavations and EEF
 - `src-egypt-kemp-anatomy-2006` — secondary synthesis; early state ideology, bureaucracy, settlement models (tier S)
 - `src-egypt-bard-archaeology-2015` — secondary textbook; geography, chronology, sites (tier S)
 - `src-egypt-trigger-social-history-1983` — secondary multi-author social/economic history (tier S)
-- `src-egypt-lehner-complete-pyramids-1997` — secondary pyramid survey; Saqqara–Giza orientation (tier S)
+- `src-egypt-lehner-complete-pyramids-1997` — secondary pyramid survey; Saqqara–Giza–Meidum orientation (tier S)
 - `src-egypt-wengrow-early-egypt-2006` — secondary monograph; NE African social transformations to ~2650 BC (tier S)
 - `src-egypt-butzer-hydraulic-1976` — secondary cultural-ecology / Nile hydrology (tier S)
 - `src-egypt-allen-middle-egyptian-2014` — secondary language textbook; hieroglyphic system (tier S)
@@ -148,6 +176,20 @@ Modern research pillars include Petrie’s Abydos royal-tomb excavations and EEF
 - `src-egypt-quibell-green-hierakonpolis-1902` — primary Hierakonpolis Part II / Main Deposit (historical P)
 - `src-egypt-hoffman-before-pharaohs-1979` — secondary Predynastic survey (tier S)
 - `src-egypt-edwards-pyramids-1993` — secondary classic pyramid survey (tier S)
+- `src-egypt-petrie-quibell-naqada-ballas-1896` — primary Naqada & Ballas cemeteries (historical P)
+- `src-egypt-petrie-abydos-i-1902` — primary Abydos Part I / EEF Memoir 22 (historical P)
+- `src-egypt-randall-maciver-el-amrah-1902` — primary El Amrah & Abydos EEF special publication (historical P)
+- `src-egypt-petrie-tarkhan-i-1913` — primary Tarkhan I and Memphis V (historical P)
+- `src-egypt-petrie-tarkhan-ii-1914` — primary Tarkhan II (historical P)
+- `src-egypt-petrie-medum-1892` — primary Meidum / Medum report (historical P)
+- `src-egypt-reisner-mycerinus-1931` — primary Giza Menkaure temples final report (P)
+- `src-egypt-firth-quibell-step-pyramid-1935` — primary Saqqara Step Pyramid final report (P)
+- `src-egypt-emery-great-tombs-iii-1958` — primary Saqqara First Dynasty great tombs III (P)
+- `src-egypt-kaiser-elephantine-mdaik26-1970` — primary Elephantine first season report MDAIK 26 (P)
+- `src-egypt-von-der-way-buto-i-1997` — primary Buto I early contexts AV 83 (P)
+- `src-egypt-adams-hk6-2000` — primary Hierakonpolis Locality 6 cemetery BAR S903 (P)
+- `src-egypt-saad-helwan-1969` — excavator synthesis Helwan Early Dynastic cemeteries (historical P)
+
 
 ## Related civilizations
 
@@ -164,3 +206,4 @@ Modern research pillars include Petrie’s Abydos royal-tomb excavations and EEF
 - Later Pharaonic periods (Middle Kingdom onward) appear in Shaw/Bard surveys but are outside this entry’s Predynastic–Old Kingdom depth focus.
 - Official Egyptian Museum Cairo web catalog for the Narmer Palette was not relied on as a sole object authority in this pass; object-level museum claims should use stable catalog IDs when registered.
 - No invented page numbers; quantitative flood, workforce, or acreage statistics require table-level follow-up.
+- Archive density pass D-2026-10-11-22: structured pack expanded with verified site-level P reports; Memphis pinpoint coordinates remain hypothesis/orientation-only; Ballas Predynastic cemeteries not conflated with later Deir el-Ballas palace.

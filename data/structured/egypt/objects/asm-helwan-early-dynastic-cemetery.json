@@ -1,0 +1,42 @@
+{
+  "id": "asm-helwan-early-dynastic-cemetery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "赫勒万早王朝墓地组合（Saad）",
+    "en": "Helwan Early Dynastic cemetery assemblage (Saad)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-helwan"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Saad《Excavations at Helwan》综合的早王朝墓地艺术与物质文化组合；英译本 1969；断代须现代对照。",
+    "en": "Early Dynastic cemetery art and material-culture assemblage as synthesized in Saad Excavations at Helwan (1969 English edition); dating needs modern cross-check."
+  },
+  "sources": [
+    "src-egypt-saad-helwan-1969",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/excavationsathel0000saad",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-22; assemblage-level metadata only; no forged binaries or invented inventory numbers."
+  }
+}

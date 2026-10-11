@@ -178,3 +178,15 @@ Major **S**: Parrot Tello 1948; Moorey Kish 1978; Martin Fara 1988; Adams Diyala
 
 **Notes:** Girsu/Tello vs Tell al-Hiba kept distinct; Habuba recorded as excavated Uruk-related town fact; Algaze expansion remains hypothesis. Integrity over speed.
 
+### D-2026-10-11-22 — Egypt archive density (sites + primary sources)
+
+**Decision:** Per owner priority (Mesopotamia-style D-21), deepen the Egypt structured pack: register verifiable Predynastic–Old Kingdom site-level excavation reports (P) and sync `civ-ancient-egypt.md` Key sites / Sources.
+
+**This pass (bibliographic details verified via WebSearch/catalog pages; access_date 2026-10-11; no invented page numbers/coordinates/forged images):**
+
+Major **P**: Petrie & Quibell *Naqada and Ballas* 1896; Petrie *Abydos* I 1902; Randall-MacIver & Mace *El Amrah and Abydos* 1902; Petrie *Tarkhan I and Memphis V* 1913; Petrie *Tarkhan II* 1914; Petrie *Medum* 1892; Reisner *Mycerinus* 1931; Firth & Quibell *Step Pyramid* 1935; Emery *Great Tombs* III 1958; Kaiser et al. Elephantine MDAIK 26 1970; von der Way *Buto I* AV 83 1997; Adams HK6 BAR S903 2000; Saad *Excavations at Helwan* 1969 (excavator synthesis).
+
+**Structured pack:** sources 15→28; sites 6→13; objects 4→16; claims 10→24; `tools/export_check.py` passes all packs.
+
+**Notes:** Memphis remains handbook-level political-center orientation (precision pinpoint = hypothesis); Ballas Predynastic cemeteries not conflated with later Deir el-Ballas palace; Giza workforce counts not invented; Saqqara First Dynasty tombs kept distinct from Abydos royal tombs. Integrity over speed.
+

@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-reisner-mycerinus-1931",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Reisner, George A. 1931. Mycerinus: The Temples of the Third Pyramid at Giza. Cambridge, MA: Harvard University Press. (First final report of the Joint Egyptian Expedition of Harvard University and the Boston Museum of Fine Arts.)",
+  "url": "https://www.gizapyramids.org/static/html/mycerinus.jsp",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Harvard–MFA final report on Menkaure (Mycerinus) pyramid temple, valley temple, and queens’ pyramid chapels at Giza. Digitized chapter PDFs hosted by the Giza Digital Library / Giza Archives Project (accessed 2026-10-11). Do not invent workforce counts from this registration alone.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-reisner-mycerinus-1931.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}

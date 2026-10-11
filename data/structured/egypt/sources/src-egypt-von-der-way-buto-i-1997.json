@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-von-der-way-buto-i-1997",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "von der Way, Thomas, with contributions by J. Boessneck, A. von den Driesch, W. Pahl, et al. 1997. Tell el-Faraʻîn – Buto I: Ergebnisse zum frühen Kontext. Kampagnen der Jahre 1983–1989. Archäologische Veröffentlichungen (DAI Kairo) 83. Mainz: Philipp von Zabern.",
+  "url": "https://search.worldcat.org/title/39833382",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary DAI Cairo monograph on early (Predynastic–Early Dynastic) contexts at Tell el-Faraʻîn / Buto from 1983–1989 campaigns (AV 83). Bibliographic details verified via WorldCat/SUDOC 2026-10-11 (publication year 1997). Preliminary season notices also appeared in MDAIK 42–45.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-von-der-way-buto-i-1997.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}

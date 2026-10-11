@@ -181,3 +181,19 @@
 
 **说明：** 吉尔苏（特罗）与希巴丘（拉格什本城）分列；Habuba 记为已发掘的乌鲁克相关城镇事实，Algaze 扩张模型仍为假说。完整性优先于速度。
 
+### D-2026-10-11-22 — 埃及档案密度加深（遗址 + 一手来源）
+
+**决定：** 按主人优先项（对齐两河 D-21），加深埃及结构化包：登记可核验的前王朝–古王国遗址级发掘报告（P），并同步 `civ-ancient-egypt.md` 关键遗址与来源栏。
+
+**本轮新增（均经 WebSearch/目录页核验书目；access_date 2026-10-11；不编造页码/坐标/伪造图）：**
+
+主要 **P** 档：
+- Petrie & Quibell《Naqada and Ballas》1896；Petrie《Abydos》I 1902；Randall-MacIver & Mace《El Amrah and Abydos》1902
+- Petrie《Tarkhan I and Memphis V》1913、《Tarkhan II》1914；Petrie《Medum》1892
+- Reisner《Mycerinus》1931；Firth & Quibell《Step Pyramid》1935；Emery《Great Tombs》III 1958
+- Kaiser 等象岛 MDAIK 26（1970）；von der Way《Buto I》AV 83（1997）；Adams HK6 BAR S903（2000）；Saad《Excavations at Helwan》1969（发掘者综合）
+
+**结构化结果（egypt 包）：** 来源 15→28；遗址 6→13；器物组合 4→16；主张 10→24；`tools/export_check.py` 全仓通过。
+
+**说明：** 孟斐斯仍为通论级政治中心取向（精确落点=假说）；巴拉斯前王朝墓地不与晚期 Deir el-Ballas 宫殿混同；不编造吉萨劳工人数；萨卡拉第一王朝大墓与阿拜多斯王陵分列。完整性优先于速度。
+

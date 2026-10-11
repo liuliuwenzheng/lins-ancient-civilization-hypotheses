@@ -1,38 +1,39 @@
 {
   "id": "asm-hieroglyphic-writing-media",
   "entity": "object",
-  "object_kind": "artifact-class",
+  "object_kind": "assemblage",
   "names": {
-    "zh": "象形文字书写介质（铭文/标签/礼仪器物类）",
-    "en": "Hieroglyphic writing media (inscriptions, labels, ceremonial objects class)"
+    "zh": "象形文字书写介质（标签/铭文/礼仪器物类）",
+    "en": "Hieroglyphic writing media (labels, inscriptions, ceremonial objects class)"
   },
   "civilization_ids": [
     "civ-ancient-egypt"
   ],
   "site_ids": [
+    "site-abydos",
     "site-hierakonpolis",
-    "site-abydos"
+    "site-saqqara"
   ],
   "period_ids": [
     "period-egypt-state-emergence",
     "period-egypt-early-dynastic"
   ],
   "summary": {
-    "zh": "晚前王朝至早王朝象形文字传统与行政、王名、祭仪标题相关；文字系统性质见 Allen；行政语境见 Kemp、Wilkinson。",
-    "en": "Late Predynastic to Early Dynastic hieroglyphic tradition tied to administration, royal names, and cult titles; script system character: Allen; administrative context: Kemp, Wilkinson."
+    "zh": "晚前王朝–早王朝行政与王名/祭仪标题相关的象形文字介质；系统取向见 Allen；行政语境见 Kemp、Wilkinson；早王朝铭文出土语境见 Petrie/Emery 报告。",
+    "en": "Late Predynastic–Early Dynastic hieroglyphic media tied to administration and royal/cult titles; script system: Allen; administrative context: Kemp, Wilkinson; Early Dynastic inscribed contexts: Petrie/Emery reports."
   },
   "sources": [
     "src-egypt-allen-middle-egyptian-2014",
     "src-egypt-kemp-anatomy-2006",
     "src-egypt-wilkinson-early-dynastic-1999",
-    "src-egypt-bard-archaeology-2015"
+    "src-egypt-petrie-royal-tombs-1900"
   ],
   "rights": {
     "status": "outbound-link-only",
     "license": null,
     "attribution": null,
     "upstream_url": null,
-    "notes": "No binary hosted; assemblage/metadata only. No forged artifact images."
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
   },
   "media_ids": [],
   "editorial": {
@@ -41,6 +42,6 @@
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Material culture § in civ-ancient-egypt.md"
+    "notes": "Density pass D-2026-10-11-22; assemblage-level metadata only; no forged binaries or invented inventory numbers."
   }
 }

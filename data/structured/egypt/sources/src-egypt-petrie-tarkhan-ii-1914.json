@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-petrie-tarkhan-ii-1914",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Petrie, W. M. Flinders. 1914. Tarkhan II. British School of Archaeology in Egypt / Egyptian Research Account 26. London: School of Archaeology in Egypt; Bernard Quaritch.",
+  "url": "https://archive.org/details/ERA26",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary BSAE/ERA continuation of Tarkhan cemetery publication (1912–13 season material as published). Digitized on Internet Archive as ERA26 (accessed 2026-10-11). Historical P.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-tarkhan-ii-1914.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}

@@ -6,19 +6,20 @@
     "en": "Giza",
     "native": null
   },
-  "kind_note": "Fourth Dynasty pyramid field; settlement archaeology orientation",
-  "region": "Memphite necropolis / Nile Valley west bank",
+  "kind_note": "Fourth Dynasty pyramid field; Menkaure temples excavated (Reisner)",
+  "region": "Memphite necropolis / Lower Egypt desert edge",
   "civilization_ids": [
     "civ-ancient-egypt"
   ],
   "summary": {
-    "zh": "第四王朝金字塔群与相关工人/村镇考古；Lehner《完整金字塔》与 Bard 教材为现代田野取向入口——不给出未核对的劳工人数或建造工期数字。",
-    "en": "Fourth Dynasty pyramid field and related settlement archaeology; Lehner and Bard are modern field-informed entry points — carefully: no unchecked workforce or construction-duration statistics."
+    "zh": "第四王朝金字塔群；Reisner 1931《Mycerinus》正式报告第三金字塔神庙与河谷庙。Lehner/Edwards/Bard 提供现代田野取向——不编造未核对劳工人数。",
+    "en": "Fourth Dynasty pyramid field; Reisner 1931 Mycerinus final report on Third Pyramid temples. Modern orientation: Lehner, Edwards, Bard — no invented workforce statistics."
   },
   "sources": [
+    "src-egypt-reisner-mycerinus-1931",
     "src-egypt-lehner-complete-pyramids-1997",
-    "src-egypt-bard-archaeology-2015",
-    "src-egypt-edwards-pyramids-1993"
+    "src-egypt-edwards-pyramids-1993",
+    "src-egypt-bard-archaeology-2015"
   ],
   "coordinates": null,
   "editorial": {
@@ -27,6 +28,6 @@
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § Giza; coordinates not asserted in civ MD."
+    "notes": "Density pass D-2026-10-11-22; bibliographic details verified via WebSearch/catalogs; coordinates omitted (not asserted from checked pages)."
   }
 }

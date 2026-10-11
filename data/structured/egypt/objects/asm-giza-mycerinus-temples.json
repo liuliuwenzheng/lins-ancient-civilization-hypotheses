@@ -1,0 +1,41 @@
+{
+  "id": "asm-giza-mycerinus-temples",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吉萨孟卡拉（Mycerinus）神庙发掘组合（Reisner 1931）",
+    "en": "Giza Menkaure (Mycerinus) temple excavated assemblage (Reisner 1931)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Reisner《Mycerinus》报告的金字塔庙、河谷庙与王后金字塔礼拜堂出土建筑与雕像/器物组合；不编造劳工人数或未核对照片托管。",
+    "en": "Pyramid temple, valley temple, and queens’ chapel architectural and statue/object assemblage as published in Reisner Mycerinus; no invented workforce counts or unverified image hosting."
+  },
+  "sources": [
+    "src-egypt-reisner-mycerinus-1931"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.gizapyramids.org/static/html/mycerinus.jsp",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-22; assemblage-level metadata only; no forged binaries or invented inventory numbers."
+  }
+}

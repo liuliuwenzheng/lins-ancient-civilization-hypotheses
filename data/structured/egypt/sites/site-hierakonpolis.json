@@ -6,18 +6,20 @@
     "en": "Hierakonpolis (Kom el-Ahmar)",
     "native": null
   },
-  "kind_note": "Predynastic–Early Dynastic key center; Main Deposit / early temple area",
-  "region": "Upper Egypt / Nile Valley (Kom el-Ahmar)",
+  "kind_note": "Predynastic–Early Dynastic center; temple Main Deposit + HK6 elite cemetery",
+  "region": "Upper Egypt / Nile Valley",
   "civilization_ids": [
     "civ-ancient-egypt"
   ],
   "summary": {
-    "zh": "上埃及前王朝–早王朝关键中心；Quibell 1900 与 Quibell & Green 1902 报告神庙区发掘与主窖藏（与纳尔迈调色板及相关早期王权器物传统关联）。",
-    "en": "Key Upper Egyptian Predynastic–Early Dynastic center; Quibell 1900 and Quibell & Green 1902 report temple-area work and the Main Deposit (linked to the Narmer Palette and related early royal objects)."
+    "zh": "上埃及前王朝–早王朝关键中心；Quibell/Green 报告神庙区主窖藏；Adams 2000 报告 HK6 精英墓地（1979–1985）。Hoffman/Midant-Reynes/Wengrow 提供前王朝语境。",
+    "en": "Key Upper Egyptian Predynastic–Early Dynastic center; Quibell/Green temple-area Main Deposit; Adams 2000 HK6 elite cemetery (1979–1985). Predynastic context: Hoffman, Midant-Reynes, Wengrow."
   },
   "sources": [
     "src-egypt-quibell-hierakonpolis-1900",
     "src-egypt-quibell-green-hierakonpolis-1902",
+    "src-egypt-adams-hk6-2000",
+    "src-egypt-hoffman-before-pharaohs-1979",
     "src-egypt-wilkinson-early-dynastic-1999"
   ],
   "coordinates": null,
@@ -27,6 +29,6 @@
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § Hierakonpolis (Kom el-Ahmar); coordinates not asserted in civ MD."
+    "notes": "Density pass D-2026-10-11-22; bibliographic details verified via WebSearch/catalogs; coordinates omitted (not asserted from checked pages)."
   }
 }

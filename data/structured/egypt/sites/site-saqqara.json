@@ -6,19 +6,21 @@
     "en": "Saqqara",
     "native": null
   },
-  "kind_note": "Old Kingdom royal and elite cemetery landscape",
-  "region": "Memphite necropolis / Nile Valley west bank",
+  "kind_note": "Old Kingdom Step Pyramid complex + First Dynasty elite tombs",
+  "region": "Memphite necropolis / Lower Egypt desert edge",
   "civilization_ids": [
     "civ-ancient-egypt"
   ],
   "summary": {
-    "zh": "古王国王陵与贵族墓地集群；阶梯金字塔（左塞尔）等纪念性建筑序列见 Lehner、Edwards 金字塔通论及 Shaw 古王国章取向。",
-    "en": "Old Kingdom royal and elite cemetery landscape; Step Pyramid sequence oriented via Lehner, Edwards, and Shaw’s Old Kingdom chapter."
+    "zh": "古王国王陵与贵族墓地集群：Firth & Quibell 1935《阶梯金字塔》正式报告（含 Lauer 平面）；Emery《第一王朝大墓》III（1958）报告早王朝精英墓。金字塔通论见 Lehner/Edwards。",
+    "en": "Old Kingdom royal/elite necropolis: Firth & Quibell 1935 Step Pyramid final report (Lauer plans); Emery Great Tombs III (1958) First Dynasty elite tombs. Pyramid surveys: Lehner, Edwards."
   },
   "sources": [
+    "src-egypt-firth-quibell-step-pyramid-1935",
+    "src-egypt-emery-great-tombs-iii-1958",
     "src-egypt-lehner-complete-pyramids-1997",
     "src-egypt-edwards-pyramids-1993",
-    "src-egypt-shaw-oxford-history-2000"
+    "src-egypt-wilkinson-early-dynastic-1999"
   ],
   "coordinates": null,
   "editorial": {
@@ -27,6 +29,6 @@
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § Saqqara; coordinates not asserted in civ MD."
+    "notes": "Density pass D-2026-10-11-22; bibliographic details verified via WebSearch/catalogs; coordinates omitted (not asserted from checked pages)."
   }
 }

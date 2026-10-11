@@ -6,18 +6,19 @@
     "en": "Memphis",
     "native": null
   },
-  "kind_note": "named-center-orientation-only (no invented find list)",
+  "kind_note": "conventional Early Dynastic / Old Kingdom political center (orientation)",
   "region": "Upper–Lower Egypt junction / Nile Valley",
   "civilization_ids": [
     "civ-ancient-egypt"
   ],
   "summary": {
-    "zh": "传统上将早王朝/古王国政治中心置于上下埃及交汇处；Wilkinson 与 Bard 在国家出现与区域城市化讨论中定位孟斐斯——未登记专址现代发掘总报前不编造出土清单。",
-    "en": "Conventionally the Early Dynastic / Old Kingdom political center at the Upper–Lower Egypt junction; oriented in Wilkinson and Bard — no invented find lists without a registered Memphis monograph."
+    "zh": "传统上将早王朝/古王国政治中心置于上下埃及交汇处；Wilkinson/Bard 取向。Petrie Tarkhan I and Memphis V 含孟斐斯相关章节，但本条不编造未核对的「出土清单」或精确城址坐标。",
+    "en": "Conventionally the Early Dynastic/Old Kingdom political center at the Upper–Lower Egypt junction; oriented in Wilkinson and Bard. Petrie Tarkhan I and Memphis V includes Memphis section — no invented find lists or precise city coordinates."
   },
   "sources": [
     "src-egypt-wilkinson-early-dynastic-1999",
-    "src-egypt-bard-archaeology-2015"
+    "src-egypt-bard-archaeology-2015",
+    "src-egypt-petrie-tarkhan-i-1913"
   ],
   "coordinates": null,
   "editorial": {
@@ -26,6 +27,6 @@
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Key sites § Memphis; coordinates not asserted in civ MD."
+    "notes": "Density pass D-2026-10-11-22; bibliographic details verified via WebSearch/catalogs; coordinates omitted (not asserted from checked pages)."
   }
 }

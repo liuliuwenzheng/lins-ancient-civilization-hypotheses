@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-petrie-quibell-naqada-ballas-1896",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Petrie, W. M. Flinders, and J. E. Quibell, with a chapter by F. C. J. Spurrell. 1896. Naqada and Ballas. 1895. London: Bernard Quaritch (Egyptian Research Account).",
+  "url": "https://archive.org/details/cu31924028748261",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary ERA report of 1894–95 cemetery excavations at Naqada and Ballas (type cemeteries for the Naqada Predynastic sequence). Historical P: sequence labels and absolute dates need modern cross-check (Midant-Reynes; Bard; Shaw). Digitized on Internet Archive (accessed 2026-10-11).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-quibell-naqada-ballas-1896.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}

@@ -13,32 +13,30 @@
     "site-abydos"
   ],
   "period_ids": [
-    "period-egypt-early-dynastic",
-    "period-egypt-state-emergence"
+    "period-egypt-early-dynastic"
   ],
   "summary": {
-    "zh": "Petrie《王陵》报告第一王朝王陵发掘语境；1900–1901 释读须与后世修订对照。不编造墓室器物清单页码。",
-    "en": "Petrie’s Royal Tombs reports First Dynasty royal-tomb excavation context; 1900–1901 readings need later cross-check. No invented tomb-inventory page citations."
+    "zh": "Petrie《王陵》报告 Umm el-Qaab 第一王朝王陵出土器物与铭文语境；1900–1901 释读须与后世修订对照；不编造馆藏号。",
+    "en": "Petrie Royal Tombs reports First Dynasty royal-tomb object and inscription contexts at Umm el-Qaab; 1900–1901 readings need later cross-check; no invented museum numbers."
   },
   "sources": [
-    "src-egypt-petrie-royal-tombs-1900"
+    "src-egypt-petrie-royal-tombs-1900",
+    "src-egypt-wilkinson-early-dynastic-1999"
   ],
   "rights": {
     "status": "outbound-link-only",
     "license": null,
     "attribution": null,
     "upstream_url": "https://archive.org/details/royaltombsfirst2petr",
-    "notes": "No binary hosted; assemblage/metadata only. No forged artifact images."
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
   },
-  "media_ids": [
-    "media-petrie-royal-tombs-archive"
-  ],
+  "media_ids": [],
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Material culture § in civ-ancient-egypt.md"
+    "notes": "Density pass D-2026-10-11-22; assemblage-level metadata only; no forged binaries or invented inventory numbers."
   }
 }

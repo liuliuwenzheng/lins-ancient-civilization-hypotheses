@@ -1,0 +1,34 @@
+{
+  "id": "claim-egypt-memphis-capital-precision",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "是否可将「孟斐斯」精确等同于某一尚未在本库登记现代专址总报的单一考古点，并据此给出未核对的城址坐标或出土清单——本库不采纳为既定事实；目前仅保留通论级政治中心取向。",
+    "en": "Whether “Memphis” can be precisely equated to a single archaeological point without a registered modern site monograph in this archive, and thereby assert unchecked city coordinates or find lists — not adopted as settled fact; only handbook-level political-center orientation is retained."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-memphis"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic",
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-egypt-wilkinson-early-dynastic-1999",
+    "src-egypt-bard-archaeology-2015",
+    "src-egypt-petrie-tarkhan-i-1913"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested precision label, not an established site-equation conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Separates conventional capital orientation (fact in other claims) from unsourced pinpointing."
+  }
+}

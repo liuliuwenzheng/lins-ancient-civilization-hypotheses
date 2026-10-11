@@ -1,0 +1,42 @@
+{
+  "id": "asm-saqqara-step-pyramid",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "萨卡拉阶梯金字塔建筑组合（Firth & Quibell 1935）",
+    "en": "Saqqara Step Pyramid architectural assemblage (Firth & Quibell 1935)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Firth & Quibell《The Step Pyramid》正式报告的左塞尔阶梯金字塔建筑群（含 Lauer 平面）；通论对照 Lehner/Edwards。",
+    "en": "Djoser Step Pyramid complex assemblage as published in Firth & Quibell The Step Pyramid (with Lauer plans); survey orientation: Lehner, Edwards."
+  },
+  "sources": [
+    "src-egypt-firth-quibell-step-pyramid-1935",
+    "src-egypt-lehner-complete-pyramids-1997"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://catalogue.nli.ie/Record/vtls000403646",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-22; assemblage-level metadata only; no forged binaries or invented inventory numbers."
+  }
+}

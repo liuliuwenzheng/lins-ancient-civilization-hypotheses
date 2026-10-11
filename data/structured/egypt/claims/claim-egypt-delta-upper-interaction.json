@@ -1,0 +1,38 @@
+{
+  "id": "claim-egypt-delta-upper-interaction",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚前王朝至早王朝阶段，上埃及中心（如希拉孔波利斯、阿拜多斯/提尼斯区、纳卡达）与下埃及/三角洲遗址（如布托）在物质文化与制度形成上被现代综合作为互动网络讨论——而非单一「战役征服」叙事。",
+    "en": "From late Predynastic into Early Dynastic times, Upper Egyptian centers (e.g. Hierakonpolis, Abydos/Thinite region, Naqada) and Lower Egyptian/Delta sites (e.g. Buto) are discussed in modern syntheses as interacting networks of material culture and institution-building — not as a single battle-conquest narrative."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-hierakonpolis",
+    "site-abydos",
+    "site-naqada",
+    "site-buto"
+  ],
+  "period_ids": [
+    "period-egypt-state-emergence",
+    "period-egypt-early-dynastic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-egypt-wilkinson-early-dynastic-1999",
+    "src-egypt-wengrow-early-egypt-2006",
+    "src-egypt-von-der-way-buto-i-1997",
+    "src-egypt-bard-archaeology-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only."
+  }
+}

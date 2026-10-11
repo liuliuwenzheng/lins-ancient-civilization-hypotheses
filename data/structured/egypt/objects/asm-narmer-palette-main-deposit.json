@@ -29,18 +29,16 @@
     "status": "outbound-link-only",
     "license": null,
     "attribution": null,
-    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/quibell1902bd2",
-    "notes": "No binary hosted; assemblage/metadata only. No forged artifact images."
+    "upstream_url": "https://archive.org/details/hierakonpolis-part-i",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
   },
-  "media_ids": [
-    "media-quibell-hierakonpolis-heidelberg"
-  ],
+  "media_ids": [],
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Material culture § in civ-ancient-egypt.md"
+    "notes": "Density pass D-2026-10-11-22; assemblage-level metadata only; no forged binaries or invented inventory numbers."
   }
 }

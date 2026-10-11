@@ -1,0 +1,35 @@
+{
+  "id": "claim-egypt-tarkhan-bsae",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Petrie 以《Tarkhan I and Memphis V》(1913) 与《Tarkhan II》(1914) 正式报告塔尔罕前王朝末–早王朝墓地发掘。",
+    "en": "Petrie published the Tarkhan Late Predynastic–Early Dynastic cemetery excavations in Tarkhan I and Memphis V (1913) and Tarkhan II (1914)."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-tarkhan"
+  ],
+  "period_ids": [
+    "period-egypt-naqada",
+    "period-egypt-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-tarkhan-cemetery"
+  ],
+  "sources": [
+    "src-egypt-petrie-tarkhan-i-1913",
+    "src-egypt-petrie-tarkhan-ii-1914"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only."
+  }
+}

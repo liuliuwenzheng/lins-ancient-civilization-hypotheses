@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-kaiser-elephantine-mdaik26-1970",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Kaiser, Werner; Gerhard Haeny; Peter Grossmann; Horst Jaritz; et al. 1970. “Stadt und Tempel von Elephantine. Erster Grabungsbericht.” Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo (MDAIK) 26: 87–139, pls. XXXV–XLV.",
+  "url": "https://www.dainst.org/forschung/projekte/noslug/5234",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary first season report of the German Archaeological Institute (DAI) Elephantine town-and-temple project (MDAIK 26). Project results list verified via DAI Elephantine page (accessed 2026-10-11). Later seasons continue in subsequent MDAIK reports — this id registers the inaugural published report only.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-kaiser-elephantine-mdaik26-1970.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-11; no invented page numbers."
+  }
+}
