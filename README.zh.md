@@ -48,7 +48,12 @@ lins-ancient-civilization-hypotheses/
 ├── docs/
 │   ├── methodology.md        # 四阶段 + 事实/假说分栏
 │   ├── source-grading.md     # 来源分级与引用
-│   └── contributing.md       # 贡献规范
+│   ├── contributing.md       # 贡献规范
+│   ├── architecture.md       # System layers & entity model (EN)
+│   ├── architecture.zh.md    # 架构说明（中文）
+│   ├── api.md                # Public API design v0 (EN)
+│   ├── api.zh.md             # 开放接口设计 v0（中文）
+│   └── openapi.v0.yaml       # OpenAPI 草稿（只读）
 ├── data/civilizations/       # 事实库条目（含 _template.md）
 ├── sources/                  # 来源登记（含 _template.md）
 ├── hypotheses/               # 假说板（含 _template.md）— 标注 HYPOTHESIS
@@ -56,6 +61,9 @@ lins-ancient-civilization-hypotheses/
 ```
 
 模板已明确标为模板；**不会**预填虚构案例。
+
+- **架构** — 分层、实体、不变量、存储路径：[`docs/architecture.zh.md`](docs/architecture.zh.md) · [English](docs/architecture.md)
+- **开放接口（设计）** — 只读 v0、出处失败即关闭：[`docs/api.zh.md`](docs/api.zh.md) · [English](docs/api.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
 
 ## 贡献规范
 

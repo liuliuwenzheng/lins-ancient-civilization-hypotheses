@@ -1,0 +1,643 @@
+openapi: 3.0.3
+info:
+  title: Lin's Ancient Civilization Hypotheses API
+  description: |
+    Design stub (v0) — read-only. Citation fail-closed; hypotheses always labeled.
+    Markdown in git is the source of truth until an export/server exists.
+  version: 0.0.1
+  license:
+    name: MIT
+    url: https://github.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/blob/main/LICENSE
+
+servers:
+  - url: https://{host}/api/v1
+    variables:
+      host:
+        default: localhost
+        description: Host TBD — decision pending
+
+tags:
+  - name: meta
+  - name: civilizations
+  - name: sources
+  - name: hypotheses
+  - name: reconstructions
+  - name: search
+
+paths:
+  /:
+    get:
+      tags: [meta]
+      summary: Service info (principles, capabilities, endpoint index)
+      responses:
+        "200":
+          description: Service metadata
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+
+  /healthz:
+    get:
+      tags: [meta]
+      summary: Liveness; optional citation-audit summary
+      responses:
+        "200":
+          description: OK
+        "503":
+          description: Citation gate failed at serve time
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorEnvelope"
+
+  /meta/regions:
+    get:
+      tags: [meta]
+      summary: Region axis vocabulary
+      responses:
+        "200":
+          description: List of region strings
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      type: string
+
+  /meta/source-tiers:
+    get:
+      tags: [meta]
+      summary: Source reliability tiers P/S/T/U
+      responses:
+        "200":
+          description: Tier list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/ReliabilityTier"
+
+  /meta/stats:
+    get:
+      tags: [meta]
+      summary: Counts by kind / region / tier / status
+      responses:
+        "200":
+          description: Aggregate stats
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+
+  /civilizations:
+    get:
+      tags: [civilizations]
+      summary: Fact-library list
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - $ref: "#/components/parameters/region"
+        - $ref: "#/components/parameters/time_from"
+        - $ref: "#/components/parameters/time_to"
+        - $ref: "#/components/parameters/source_tier"
+        - $ref: "#/components/parameters/q"
+        - name: related_to
+          in: query
+          schema:
+            type: string
+          description: Filter by related civilization id (civ-*)
+      responses:
+        "200":
+          description: Paginated civilizations (kind=fact; sources non-empty after gate)
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CivilizationList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /civilizations/{id}:
+    get:
+      tags: [civilizations]
+      summary: One civilization
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Civilization detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Civilization"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /sources:
+    get:
+      tags: [sources]
+      summary: Source registry list
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - $ref: "#/components/parameters/source_tier"
+        - name: type
+          in: query
+          schema:
+            type: string
+          description: Source type (excavation-report, article, …)
+        - $ref: "#/components/parameters/q"
+      responses:
+        "200":
+          description: Paginated sources
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SourceList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /sources/{id}:
+    get:
+      tags: [sources]
+      summary: One source
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Source detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Source"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /hypotheses:
+    get:
+      tags: [hypotheses]
+      summary: Hypothesis board list (always labeled)
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - name: status
+          in: query
+          schema:
+            type: string
+            enum: [open, challenged, retired]
+        - name: related_civilization
+          in: query
+          schema:
+            type: string
+        - $ref: "#/components/parameters/source_tier"
+        - $ref: "#/components/parameters/q"
+      responses:
+        "200":
+          description: Paginated hypotheses
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HypothesisList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /hypotheses/{id}:
+    get:
+      tags: [hypotheses]
+      summary: One hypothesis (kind=hypothesis + disclaimer)
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Hypothesis detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Hypothesis"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /reconstructions:
+    get:
+      tags: [reconstructions]
+      summary: Reconstruction list
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - name: status
+          in: query
+          schema:
+            type: string
+            enum: [draft, review, archived]
+        - $ref: "#/components/parameters/q"
+      responses:
+        "200":
+          description: Paginated reconstructions
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ReconstructionList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /reconstructions/{id}:
+    get:
+      tags: [reconstructions]
+      summary: One reconstruction
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Reconstruction detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Reconstruction"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /search:
+    get:
+      tags: [search]
+      summary: Cross-kind search
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+        - name: kind
+          in: query
+          schema:
+            type: string
+            enum: [fact, source, hypothesis, reconstruction]
+        - $ref: "#/components/parameters/region"
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+      responses:
+        "200":
+          description: Search hits (honest engine field if fallback)
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SearchResult"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+components:
+  parameters:
+    idPath:
+      name: id
+      in: path
+      required: true
+      schema:
+        type: string
+    limit:
+      name: limit
+      in: query
+      schema:
+        type: integer
+        minimum: 1
+        maximum: 100
+        default: 20
+    after:
+      name: after
+      in: query
+      schema:
+        type: string
+      description: Cursor from previous next_cursor
+    region:
+      name: region
+      in: query
+      schema:
+        type: string
+    time_from:
+      name: time_from
+      in: query
+      schema:
+        type: string
+      description: Coarse lower bound (v0 best-effort on time_span text)
+    time_to:
+      name: time_to
+      in: query
+      schema:
+        type: string
+    source_tier:
+      name: source_tier
+      in: query
+      schema:
+        $ref: "#/components/schemas/ReliabilityTier"
+    q:
+      name: q
+      in: query
+      schema:
+        type: string
+
+  responses:
+    BadRequest:
+      description: Unknown filter value, invalid cursor, or bad params
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorEnvelope"
+    NotFound:
+      description: Unknown id
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorEnvelope"
+
+  schemas:
+    ReliabilityTier:
+      type: string
+      enum: [P, S, T, U]
+
+    SourceRef:
+      type: object
+      required: [id, reliability_tier]
+      properties:
+        id:
+          type: string
+        reliability_tier:
+          $ref: "#/components/schemas/ReliabilityTier"
+        citation:
+          type: string
+        url:
+          type: string
+          nullable: true
+
+    ListEnvelope:
+      type: object
+      required: [items, total, count, has_more]
+      properties:
+        items:
+          type: array
+          items: {}
+        total:
+          type: integer
+        count:
+          type: integer
+        next_cursor:
+          type: string
+          nullable: true
+        has_more:
+          type: boolean
+
+    Civilization:
+      type: object
+      required: [id, kind, status, sources]
+      properties:
+        id:
+          type: string
+          example: civ-2026-example
+        kind:
+          type: string
+          enum: [fact]
+        status:
+          type: string
+          enum: [fact-library]
+        names:
+          type: object
+          properties:
+            zh: { type: string }
+            en: { type: string }
+            native: { type: string }
+        region:
+          type: string
+        time_span:
+          type: string
+        summary:
+          type: string
+        sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+          minItems: 1
+        related_ids:
+          type: array
+          items:
+            type: string
+        links:
+          type: object
+          additionalProperties: true
+
+    CivilizationList:
+      allOf:
+        - $ref: "#/components/schemas/ListEnvelope"
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: "#/components/schemas/Civilization"
+
+    Source:
+      type: object
+      required: [id, kind, reliability_tier, citation]
+      properties:
+        id:
+          type: string
+        kind:
+          type: string
+          enum: [source]
+        type:
+          type: string
+        citation:
+          type: string
+        url:
+          type: string
+          nullable: true
+        access_date:
+          type: string
+          nullable: true
+        reliability_tier:
+          $ref: "#/components/schemas/ReliabilityTier"
+        notes:
+          type: string
+        sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+          description: Self-ref or empty; included for envelope uniformity
+
+    SourceList:
+      allOf:
+        - $ref: "#/components/schemas/ListEnvelope"
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: "#/components/schemas/Source"
+
+    Hypothesis:
+      type: object
+      required: [id, kind, status, disclaimer, sources]
+      properties:
+        id:
+          type: string
+        kind:
+          type: string
+          enum: [hypothesis]
+        title:
+          type: string
+        status:
+          type: string
+          enum: [open, challenged, retired]
+        disclaimer:
+          type: string
+          example: >-
+            This record is a HYPOTHESIS, not an established historical or
+            archaeological conclusion.
+        claims:
+          type: array
+          items:
+            type: string
+        supporting_sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+        conflicting_sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+        sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+          description: Union or primary list for uniform clients
+        related_civilizations:
+          type: array
+          items:
+            type: string
+        caveats:
+          type: string
+        links:
+          type: object
+          additionalProperties: true
+
+    HypothesisList:
+      allOf:
+        - $ref: "#/components/schemas/ListEnvelope"
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: "#/components/schemas/Hypothesis"
+
+    Reconstruction:
+      type: object
+      required: [id, kind, status, sources]
+      properties:
+        id:
+          type: string
+        kind:
+          type: string
+          enum: [reconstruction]
+        title:
+          type: string
+        status:
+          type: string
+          enum: [draft, review, archived]
+        linked_facts:
+          type: array
+          items:
+            type: string
+        linked_hypotheses:
+          type: array
+          items:
+            type: string
+        uncertainty_summary:
+          type: string
+        sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+        links:
+          type: object
+          additionalProperties: true
+
+    ReconstructionList:
+      allOf:
+        - $ref: "#/components/schemas/ListEnvelope"
+        - type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: "#/components/schemas/Reconstruction"
+
+    SearchHit:
+      type: object
+      required: [id, kind]
+      properties:
+        id:
+          type: string
+        kind:
+          type: string
+          enum: [fact, source, hypothesis, reconstruction]
+        title:
+          type: string
+        snippet:
+          type: string
+        score:
+          type: number
+          nullable: true
+        disclaimer:
+          type: string
+          description: Present when kind=hypothesis
+        sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+
+    SearchResult:
+      allOf:
+        - $ref: "#/components/schemas/ListEnvelope"
+        - type: object
+          properties:
+            engine:
+              type: string
+              description: e.g. fts or like-fallback
+            note:
+              type: string
+              nullable: true
+            items:
+              type: array
+              items:
+                $ref: "#/components/schemas/SearchHit"
+
+    ErrorBody:
+      type: object
+      required: [code, message]
+      properties:
+        code:
+          type: string
+          enum:
+            - unknown_filter_value
+            - invalid_cursor
+            - not_found
+            - citation_gate_failed
+            - internal_error
+        message:
+          type: string
+        details:
+          type: object
+          additionalProperties: true
+
+    ErrorEnvelope:
+      type: object
+      required: [error]
+      properties:
+        error:
+          $ref: "#/components/schemas/ErrorBody"

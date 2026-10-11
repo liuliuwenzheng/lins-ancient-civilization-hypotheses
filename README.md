@@ -48,7 +48,12 @@ lins-ancient-civilization-hypotheses/
 ├── docs/
 │   ├── methodology.md        # Four stages + fact/hypothesis separation
 │   ├── source-grading.md     # Source tiers & citation practice
-│   └── contributing.md       # How to contribute
+│   ├── contributing.md       # How to contribute
+│   ├── architecture.md       # System layers & entity model (EN)
+│   ├── architecture.zh.md    # 架构说明（中文）
+│   ├── api.md                # Public API design v0 (EN)
+│   ├── api.zh.md             # 开放接口设计 v0（中文）
+│   └── openapi.v0.yaml       # OpenAPI stub (read-only)
 ├── data/civilizations/       # Fact-library entries (+ _template.md)
 ├── sources/                  # Source registry (+ _template.md)
 ├── hypotheses/               # Hypothesis board (+ _template.md) — labeled HYPOTHESIS
@@ -56,6 +61,9 @@ lins-ancient-civilization-hypotheses/
 ```
 
 Templates are marked clearly; they are **not** filled with invented case studies.
+
+- **Architecture** — layers, entities, invariants, storage path: [`docs/architecture.md`](docs/architecture.md) · [中文](docs/architecture.zh.md)
+- **Public API (design)** — read-only v0, citation fail-closed: [`docs/api.md`](docs/api.md) · [中文](docs/api.zh.md) · [`openapi.v0.yaml`](docs/openapi.v0.yaml)
 
 ## Contribution norms
 
