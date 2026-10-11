@@ -1,0 +1,34 @@
+{
+  "id": "period-egypt-naqada",
+  "entity": "period",
+  "names": {
+    "zh": "纳卡达（前王朝主体）",
+    "en": "Naqada (Predynastic core)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "time": {
+    "label": "c. 4000–3200 BC (Midant-Reynes chapter in Shaw TOC)",
+    "approx_from_bce": 4000,
+    "approx_to_bce": 3200,
+    "scheme_note": "Shaw 2000 Midant-Reynes chapter; Midant-Reynes 2000 — absolute dates disagree across authors"
+  },
+  "summary": {
+    "zh": "约 4000–3200 BC（Shaw 中 Midant-Reynes 章）；Naqada I/II/III 细节以 Midant-Reynes 与 Bard 为准。",
+    "en": "c. 4000–3200 BC (Midant-Reynes chapter in Shaw); Naqada I/II/III follow Midant-Reynes and Bard rather than invented subphase absolute dates."
+  },
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000",
+    "src-egypt-midant-reynes-prehistory-2000",
+    "src-egypt-bard-archaeology-2015"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-ancient-egypt.md"
+  }
+}

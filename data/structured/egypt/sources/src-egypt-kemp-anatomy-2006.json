@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-kemp-anatomy-2006",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Kemp, Barry J. 2006. Ancient Egypt: Anatomy of a Civilization. 2nd ed. London; New York: Routledge. ISBN 978-0-415-23549-5 (hardback); 978-0-415-23550-1 (paperback). First edition 1989.",
+  "url": "https://books.google.com/books/about/Ancient_Egypt.html?id=l-t5vWHAVN0C",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary research synthesis of Egyptian civilization as a long-lived cultural system (intellectual foundations of the early state, bureaucracy, model communities, economy). Page numbers not cited.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-kemp-anatomy-2006.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

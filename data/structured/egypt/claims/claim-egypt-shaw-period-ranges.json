@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-shaw-period-ranges",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Shaw 牛津通史目录将 Naqada 列为约公元前 4000–3200 年，国家出现列为约公元前 3200–2686 年，古王国列为约公元前 2686–2160 年（Malek 章；绝对年在不同作者间不完全一致）。",
+    "en": "Shaw’s Oxford handbook TOC lists Naqada as c. 4000–3200 BC, state emergence as c. 3200–2686 BC, and Old Kingdom as c. 2686–2160 BC (Malek); absolute dates disagree across authors."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-egypt-naqada",
+    "period-egypt-state-emergence",
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

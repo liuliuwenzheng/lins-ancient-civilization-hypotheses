@@ -1,0 +1,34 @@
+{
+  "id": "period-egypt-state-emergence",
+  "entity": "period",
+  "names": {
+    "zh": "国家出现（晚前王朝–早王朝）",
+    "en": "Emergence of the Egyptian state"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "time": {
+    "label": "c. 3200–2686 BC (Bard chapter in Shaw TOC)",
+    "approx_from_bce": 3200,
+    "approx_to_bce": 2686,
+    "scheme_note": "Shaw 2000 Bard chapter; Bard 2015; Wilkinson 1999 — process framing, not a single-battle calendar"
+  },
+  "summary": {
+    "zh": "约 3200–2686 BC（Shaw 中 Bard「国家出现」章）；与早王朝形成期重叠。",
+    "en": "c. 3200–2686 BC (Bard’s emergence-of-the-state chapter in Shaw); overlaps Early Dynastic formative centuries."
+  },
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000",
+    "src-egypt-bard-archaeology-2015",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-ancient-egypt.md"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claim-egypt-hieroglyphic-admin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚前王朝至早王朝出现埃及象形文字书写传统，并与行政、王名、祭仪标题等相关。",
+    "en": "Late Predynastic to Early Dynastic contexts yield Egyptian hieroglyphic writing tied to administration, royal names, and cult titles."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-egypt-state-emergence",
+    "period-egypt-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-hieroglyphic-writing-media"
+  ],
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000",
+    "src-egypt-bard-archaeology-2015",
+    "src-egypt-wilkinson-early-dynastic-1999",
+    "src-egypt-allen-middle-egyptian-2014"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

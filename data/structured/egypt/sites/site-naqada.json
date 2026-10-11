@@ -1,0 +1,32 @@
+{
+  "id": "site-naqada",
+  "entity": "site",
+  "names": {
+    "zh": "纳卡达（遗址名取向）",
+    "en": "Naqada (type-site orientation)",
+    "native": null
+  },
+  "kind_note": "named-center-orientation-only (Predynastic type-site)",
+  "region": "Upper Egypt / Nile Valley",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "前王朝通论中常出现的中心（含纳卡达遗址本身）；Midant-Reynes、Hoffman、Bard 提供地名与分期入口；未登记专报前不编造器物清单。",
+    "en": "Predynastic center often named in surveys (including Naqada itself); oriented via Midant-Reynes, Hoffman, and Bard; no invented assemblages without a registered site monograph."
+  },
+  "sources": [
+    "src-egypt-midant-reynes-prehistory-2000",
+    "src-egypt-hoffman-before-pharaohs-1979",
+    "src-egypt-bard-archaeology-2015"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § Naqada (type-site orientation); coordinates not asserted in civ MD."
+  }
+}

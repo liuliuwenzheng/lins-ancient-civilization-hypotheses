@@ -1,0 +1,36 @@
+{
+  "id": "claim-egypt-old-kingdom-monuments",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "古王国阶段，王陵纪念性建筑（萨卡拉阶梯金字塔至吉萨金字塔群）是国家能力与王权意识形态的集中物质表达（通论见 Lehner、Edwards、Shaw 古王国章）。",
+    "en": "In the Old Kingdom, royal monumental tombs (Saqqara Step Pyramid through the Giza pyramids) concentrate expressions of state capacity and royal ideology (surveys: Lehner, Edwards, Shaw Old Kingdom chapter)."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara",
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [
+    "asm-old-kingdom-pyramids"
+  ],
+  "sources": [
+    "src-egypt-lehner-complete-pyramids-1997",
+    "src-egypt-edwards-pyramids-1993",
+    "src-egypt-shaw-oxford-history-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

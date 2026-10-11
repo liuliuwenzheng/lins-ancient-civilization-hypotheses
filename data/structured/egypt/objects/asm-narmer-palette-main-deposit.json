@@ -1,0 +1,46 @@
+{
+  "id": "asm-narmer-palette-main-deposit",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳尔迈调色板及希拉孔波利斯主窖藏早期王权器物（组合级）",
+    "en": "Narmer Palette and Hierakonpolis Main Deposit early royal objects (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-hierakonpolis"
+  ],
+  "period_ids": [
+    "period-egypt-state-emergence",
+    "period-egypt-early-dynastic"
+  ],
+  "summary": {
+    "zh": "历史发掘语境见 Quibell 1900 / Quibell & Green 1902；现代制度—图像解读见 Wilkinson。本记录不作单次统一战争的实证明；不上传伪造调色板图。",
+    "en": "Excavation context: Quibell 1900 / Quibell & Green 1902; institutional/iconographic reading: Wilkinson. Not treated as proof of a single unification battle; no forged palette imagery hosted."
+  },
+  "sources": [
+    "src-egypt-quibell-hierakonpolis-1900",
+    "src-egypt-quibell-green-hierakonpolis-1902",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/quibell1902bd2",
+    "notes": "No binary hosted; assemblage/metadata only. No forged artifact images."
+  },
+  "media_ids": [
+    "media-quibell-hierakonpolis-heidelberg"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Material culture § in civ-ancient-egypt.md"
+  }
+}

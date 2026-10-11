@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-quibell-green-hierakonpolis-1902",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Quibell, J. E., and F. W. Green. 1902. Hierakonpolis. Part II. Egyptian Research Account, Extra Volume. London: Bernard Quaritch (for the Egyptian Research Account).",
+  "url": "https://digi.ub.uni-heidelberg.de/diglit/quibell1902bd2",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary ERA memoir continuing Hierakonpolis excavations; includes Main Deposit chapter and find catalogue. Historical P — cross-check with modern Early Dynastic syntheses. No forged palette imagery uploaded.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-quibell-green-hierakonpolis-1902.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

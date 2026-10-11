@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-butzer-hydraulic-1976",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Butzer, Karl W. 1976. Early Hydraulic Civilization in Egypt: A Study in Cultural Ecology. Chicago; London: University of Chicago Press. ISBN 0-226-08634-8 (cloth); 0-226-08635-6 (paper). Open-access PDF via University of Chicago Institute for the Study of Ancient Cultures (ISAC).",
+  "url": "https://isac.uchicago.edu/research/publications/misc/early-hydraulic-civilization-egypt-study-cultural-ecology",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary cultural-ecology monograph on Nile floodplain hydrology, settlement, and early Egyptian civilization. Page numbers / quantitative tables not excerpted without inspection.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-butzer-hydraulic-1976.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

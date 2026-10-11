@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-lehner-complete-pyramids-1997",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Lehner, Mark. 1997. The Complete Pyramids. London; New York: Thames and Hudson. ISBN 0-500-05084-8 / 978-0-500-05084-2. Paperback reprint 2008, ISBN 978-0-500-28547-3.",
+  "url": "https://search.worldcat.org/title/37907456",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary illustrated survey of Egyptian pyramids by a long-term Giza field researcher. Use for Saqqara–Giza Old Kingdom monumental overview. Do not invent construction-force headcounts without checked tables.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-lehner-complete-pyramids-1997.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "media-petrie-royal-tombs-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Petrie《王陵》Internet Archive 数字化入口",
+    "en": "Petrie Royal Tombs Internet Archive digitization entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/royaltombsfirst2petr",
+  "local_path": null,
+  "object_ids": [
+    "asm-abydos-royal-tomb-assemblage"
+  ],
+  "sources": [
+    "src-egypt-petrie-royal-tombs-1900"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive / Egypt Exploration Fund memoir digitization",
+    "upstream_url": "https://archive.org/details/royaltombsfirst2petr",
+    "notes": "Outbound document digitization only. No unverified uploads; no forged artifact images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Abydos royal tombs primary report digitization pointer"
+  }
+}

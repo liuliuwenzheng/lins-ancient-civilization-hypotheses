@@ -1,0 +1,32 @@
+{
+  "id": "media-quibell-hierakonpolis-heidelberg",
+  "entity": "media",
+  "title": {
+    "zh": "希拉孔波利斯 Part II（Quibell & Green 1902）海德堡数字化",
+    "en": "Hierakonpolis Part II (Quibell & Green 1902) Heidelberg digitization"
+  },
+  "media_type": "document-link",
+  "external_url": "https://digi.ub.uni-heidelberg.de/diglit/quibell1902bd2",
+  "local_path": null,
+  "object_ids": [
+    "asm-narmer-palette-main-deposit"
+  ],
+  "sources": [
+    "src-egypt-quibell-green-hierakonpolis-1902"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "University Library Heidelberg / Egyptian Research Account memoir digitization",
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/quibell1902bd2",
+    "notes": "Outbound document digitization only. Individual image rights remain with digitizing libraries. No unverified uploads; no forged artifact images."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Research history / Main Deposit primary report digitization pointer"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "claim-egypt-early-dynastic-institutions",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚前王朝至早王朝阶段，王权、行政、神庙/祭仪与丧葬建筑等制度逐渐成形；Wilkinson 将其作为形成期制度与考古的系统综述。",
+    "en": "From late Predynastic into Early Dynastic times, kingship, administration, cult, and mortuary architecture take institutional form — Wilkinson synthesizes formative institutions and archaeology."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-hierakonpolis",
+    "site-abydos",
+    "site-memphis"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic",
+    "period-egypt-state-emergence"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-egypt-wilkinson-early-dynastic-1999",
+    "src-egypt-kemp-anatomy-2006",
+    "src-egypt-bard-archaeology-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

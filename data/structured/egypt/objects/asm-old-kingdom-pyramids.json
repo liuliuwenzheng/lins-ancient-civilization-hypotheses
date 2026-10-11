@@ -1,0 +1,44 @@
+{
+  "id": "asm-old-kingdom-pyramids",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "古王国金字塔与相关建筑证据（组合级）",
+    "en": "Old Kingdom pyramids and related architectural evidence (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara",
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "萨卡拉阶梯金字塔至吉萨金字塔群的纪念性建筑序列取向见 Lehner、Edwards；吉萨建造专题见 Bard。不给出未核对劳动力/工期数字；不上伪造文物图。",
+    "en": "Monumental sequence from Saqqara Step Pyramid through Giza pyramids oriented via Lehner and Edwards; Giza construction topics: Bard. No unchecked workforce/duration statistics; no forged imagery."
+  },
+  "sources": [
+    "src-egypt-lehner-complete-pyramids-1997",
+    "src-egypt-edwards-pyramids-1993",
+    "src-egypt-bard-archaeology-2015"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No binary hosted; assemblage/metadata only. No forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Material culture § in civ-ancient-egypt.md"
+  }
+}

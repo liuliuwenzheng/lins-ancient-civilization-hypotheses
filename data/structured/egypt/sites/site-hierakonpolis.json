@@ -1,0 +1,32 @@
+{
+  "id": "site-hierakonpolis",
+  "entity": "site",
+  "names": {
+    "zh": "希拉孔波利斯（Kom el-Ahmar）",
+    "en": "Hierakonpolis (Kom el-Ahmar)",
+    "native": null
+  },
+  "kind_note": "Predynastic–Early Dynastic key center; Main Deposit / early temple area",
+  "region": "Upper Egypt / Nile Valley (Kom el-Ahmar)",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "上埃及前王朝–早王朝关键中心；Quibell 1900 与 Quibell & Green 1902 报告神庙区发掘与主窖藏（与纳尔迈调色板及相关早期王权器物传统关联）。",
+    "en": "Key Upper Egyptian Predynastic–Early Dynastic center; Quibell 1900 and Quibell & Green 1902 report temple-area work and the Main Deposit (linked to the Narmer Palette and related early royal objects)."
+  },
+  "sources": [
+    "src-egypt-quibell-hierakonpolis-1900",
+    "src-egypt-quibell-green-hierakonpolis-1902",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § Hierakonpolis (Kom el-Ahmar); coordinates not asserted in civ MD."
+  }
+}

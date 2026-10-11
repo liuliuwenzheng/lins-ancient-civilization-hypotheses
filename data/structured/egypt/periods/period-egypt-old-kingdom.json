@@ -1,0 +1,32 @@
+{
+  "id": "period-egypt-old-kingdom",
+  "entity": "period",
+  "names": {
+    "zh": "古王国",
+    "en": "Old Kingdom"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "time": {
+    "label": "c. 2686–2160 BC (Malek chapter in Shaw TOC; some listings to c. 2125 BC — convention difference)",
+    "approx_from_bce": 2686,
+    "approx_to_bce": 2160,
+    "scheme_note": "Shaw 2000 Malek chapter; end-date convention differences (2160 vs ~2125) not resolved here"
+  },
+  "summary": {
+    "zh": "约 2686–2160 BC（Shaw 中 Malek 章）；部分目录作至约 2125 BC——年表惯例差异，本条不裁决。",
+    "en": "c. 2686–2160 BC (Malek chapter in Shaw); some listings use c. 2125 BC — calendar-convention difference, not resolved here."
+  },
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-ancient-egypt.md"
+  }
+}

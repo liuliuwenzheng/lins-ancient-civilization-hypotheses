@@ -29,7 +29,7 @@ Details: [`docs/methodology.md`](docs/methodology.md) · Council: [`docs/council
 
 ## Structured archive (pilot)
 
-Product core is **archive + read API**. JSON Schema drafts live in [`schemas/`](schemas/). First structured pilot: [`data/structured/mesopotamia/`](data/structured/mesopotamia/) (derived only from the Mesopotamia fact-library MD + registered sources). Model: [`docs/archive-data-model.md`](docs/archive-data-model.md). Validate: `.venv/bin/python tools/export_check.py`.
+Product core is **archive + read-only API**. JSON Schema: [`schemas/`](schemas/). Structured packs: [`data/structured/mesopotamia/`](data/structured/mesopotamia/) · [`data/structured/egypt/`](data/structured/egypt/). Model: [`docs/archive-data-model.md`](docs/archive-data-model.md). Gate: `.venv/bin/python tools/export_check.py`. Local API: `.venv/bin/python -m api.serve` (`127.0.0.1:8080`).
 
 ## Source grading
 

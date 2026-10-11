@@ -1,0 +1,38 @@
+{
+  "id": "claim-egypt-narmer-single-unification",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "是否可将纳尔迈调色板读作「单次军事统一战争」的实录证明——本库不采纳为既定事实；流行叙述常如此处理，但应对照 Bard 过程框架、Wilkinson 早王朝综合与 Wengrow 过程语言。",
+    "en": "Whether the Narmer Palette should be read as proof of a single military unification battle — not adopted here as settled fact; popular accounts often do so, but prefer Bard’s process framing, Wilkinson’s Early Dynastic synthesis, and Wengrow’s process language."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-hierakonpolis"
+  ],
+  "period_ids": [
+    "period-egypt-state-emergence",
+    "period-egypt-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-narmer-palette-main-deposit"
+  ],
+  "sources": [
+    "src-egypt-quibell-hierakonpolis-1900",
+    "src-egypt-quibell-green-hierakonpolis-1902",
+    "src-egypt-wilkinson-early-dynastic-1999",
+    "src-egypt-shaw-oxford-history-2000",
+    "src-egypt-wengrow-early-egypt-2006"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested popular reading label, not an established historical or archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

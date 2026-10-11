@@ -1,0 +1,28 @@
+{
+  "id": "claim-egypt-nile-flood-ecology",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期埃及农业与聚落须参照尼罗河洪水节律、洪泛平原土壤与低地水利约束来理解（Butzer 文化生态学框架）。",
+    "en": "Early Egyptian agriculture and settlement must be understood against Nile flood rhythms, floodplain soils, and lowland hydraulic constraints (Butzer’s cultural-ecology framing)."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-egypt-butzer-hydraulic-1976",
+    "src-egypt-bard-archaeology-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

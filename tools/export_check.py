@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Validate structured archive pilot JSON against schemas + citation fail-closed gate.
+"""Validate all structured archive packs under data/structured/*/ against schemas + citation fail-closed gate.
 
 Usage:
   .venv/bin/python tools/export_check.py
   python3 tools/export_check.py   # requires jsonschema
 
 Exit 0 on success; non-zero on schema or citation failures.
-Integrity rule: Claim kind=fact must have non-empty sources[] with resolvable src-* ids.
+Integrity rule: Claim kind=fact must have non-empty sources[] with resolvable src-* ids
+in sources/*.md and in the same pack's sources/{id}.json.
 """
 from __future__ import annotations
 
@@ -20,7 +21,7 @@ try:
 except ImportError:
     print(
         "ERROR: jsonschema not installed. Use:\n"
-        "  python3 -m venv .venv && .venv/bin/pip install jsonschema\n"
+        "  python3 -m venv .venv && .venv/bin/pip install -r tools/requirements.txt\n"
         "  .venv/bin/python tools/export_check.py",
         file=sys.stderr,
     )
@@ -28,17 +29,10 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMAS = ROOT / "schemas"
-PILOT = ROOT / "data" / "structured" / "mesopotamia"
+STRUCTURED = ROOT / "data" / "structured"
 SOURCES_MD = ROOT / "sources"
 
-ENTITY_DIRS = {
-    "source": PILOT / "sources",
-    "site": PILOT / "sites",
-    "period": PILOT / "periods",
-    "object": PILOT / "objects",
-    "claim": PILOT / "claims",
-    "media": PILOT / "media",
-}
+ENTITY_SUBDIRS = ("sources", "sites", "periods", "objects", "claims", "media")
 
 SCHEMA_FILES = {
     "source": "source.schema.json",
@@ -49,6 +43,15 @@ SCHEMA_FILES = {
     "media": "media.schema.json",
     "civilization": "civilization.schema.json",
     "deliberation": "deliberation.schema.json",
+}
+
+ENTITY_FROM_DIR = {
+    "sources": "source",
+    "sites": "site",
+    "periods": "period",
+    "objects": "object",
+    "claims": "claim",
+    "media": "media",
 }
 
 
@@ -64,7 +67,6 @@ def load_schemas():
         sid = data.get("$id")
         if sid:
             store[sid] = data
-        # also key by filename for local $ref like "common.defs.json#/..."
         store[path.name] = data
         store[str(path)] = data
     return store
@@ -82,34 +84,42 @@ def validator_for(entity: str, store: dict) -> Draft202012Validator:
 
 
 def registered_source_ids() -> set[str]:
-    ids = set()
-    for p in SOURCES_MD.glob("src-*.md"):
-        ids.add(p.stem)
-    return ids
+    return {p.stem for p in SOURCES_MD.glob("src-*.md")}
 
 
-def main() -> int:
-    errors: list[str] = []
-    store = load_schemas()
-    registry = registered_source_ids()
-    seen_source_ids: set[str] = set()
+def discover_packs() -> list[Path]:
+    if not STRUCTURED.is_dir():
+        return []
+    packs = []
+    for p in sorted(STRUCTURED.iterdir()):
+        if p.is_dir() and (p / "civilization.json").exists():
+            packs.append(p)
+    return packs
 
-    # Per-entity instance files
-    for entity, directory in ENTITY_DIRS.items():
+
+def check_pack(pack: Path, store: dict, registry: set[str], errors: list[str]) -> dict[str, int]:
+    counts = {k: 0 for k in ("sources", "sites", "periods", "objects", "claims", "media")}
+    rel_pack = pack.relative_to(ROOT)
+
+    for subdir, entity in ENTITY_FROM_DIR.items():
+        directory = pack / subdir
         if not directory.is_dir():
-            errors.append(f"missing directory: {directory.relative_to(ROOT)}")
+            # media may be empty; others required for a pack
+            if subdir == "media":
+                continue
+            errors.append(f"missing directory: {rel_pack / subdir}")
             continue
         v = validator_for(entity, store)
         paths = sorted(directory.glob("*.json"))
         if entity != "media" and not paths:
-            errors.append(f"no JSON instances under {directory.relative_to(ROOT)}")
+            errors.append(f"no JSON instances under {rel_pack / subdir}")
+        counts[subdir] = len(paths)
         for path in paths:
             data = load_json(path)
             for err in sorted(v.iter_errors(data), key=lambda e: list(e.path)):
                 loc = "/".join(str(x) for x in err.path) or "(root)"
                 errors.append(f"{path.relative_to(ROOT)} @ {loc}: {err.message}")
 
-            # Citation fail-closed for claims
             if entity == "claim":
                 kind = data.get("kind")
                 sources = data.get("sources") or []
@@ -125,10 +135,10 @@ def main() -> int:
                                 f"{path.relative_to(ROOT)}: citation gate FAIL — "
                                 f"unknown source id {sid!r} (no sources/{sid}.md)"
                             )
-                        if not (PILOT / "sources" / f"{sid}.json").exists():
+                        if not (pack / "sources" / f"{sid}.json").exists():
                             errors.append(
                                 f"{path.relative_to(ROOT)}: citation gate FAIL — "
-                                f"fact claim cites {sid!r} but pilot sources/{sid}.json missing"
+                                f"fact claim cites {sid!r} but pack sources/{sid}.json missing"
                             )
                 if kind == "hypothesis":
                     if not (data.get("disclaimer") or "").strip():
@@ -136,9 +146,6 @@ def main() -> int:
                             f"{path.relative_to(ROOT)}: hypothesis claim missing disclaimer"
                         )
 
-            if entity == "source":
-                seen_source_ids.add(data.get("id"))
-                # Media must not claim local binaries
             if entity == "media":
                 if data.get("local_path") is not None:
                     errors.append(
@@ -151,8 +158,7 @@ def main() -> int:
                         f"{path.relative_to(ROOT)}: rights.status forbidden-unverified-upload"
                     )
 
-    # Civilization aggregate
-    civ_path = PILOT / "civilization.json"
+    civ_path = pack / "civilization.json"
     if civ_path.exists():
         v = validator_for("civilization", store)
         data = load_json(civ_path)
@@ -161,18 +167,15 @@ def main() -> int:
             errors.append(f"{civ_path.relative_to(ROOT)} @ {loc}: {err.message}")
         for sid in data.get("sources") or []:
             if sid not in registry:
-                errors.append(
-                    f"{civ_path.relative_to(ROOT)}: unknown source id {sid!r}"
-                )
-            if not (PILOT / "sources" / f"{sid}.json").exists():
+                errors.append(f"{civ_path.relative_to(ROOT)}: unknown source id {sid!r}")
+            if not (pack / "sources" / f"{sid}.json").exists():
                 errors.append(
                     f"{civ_path.relative_to(ROOT)}: missing structured source {sid}.json"
                 )
     else:
-        errors.append("missing data/structured/mesopotamia/civilization.json")
+        errors.append(f"missing {rel_pack}/civilization.json")
 
-    # Optional deliberation stub
-    delib_path = PILOT / "deliberation.json"
+    delib_path = pack / "deliberation.json"
     if delib_path.exists():
         v = validator_for("deliberation", store)
         data = load_json(delib_path)
@@ -180,23 +183,37 @@ def main() -> int:
             loc = "/".join(str(x) for x in err.path) or "(root)"
             errors.append(f"{delib_path.relative_to(ROOT)} @ {loc}: {err.message}")
 
+    return counts
+
+
+def main() -> int:
+    errors: list[str] = []
+    store = load_schemas()
+    registry = registered_source_ids()
+    packs = discover_packs()
+
+    if not packs:
+        errors.append("no packs found under data/structured/*/civilization.json")
+
+    summaries: list[str] = []
+    for pack in packs:
+        counts = check_pack(pack, store, registry, errors)
+        summaries.append(
+            f"  pack {pack.name}: sources={counts['sources']} sites={counts['sites']} "
+            f"periods={counts['periods']} objects={counts['objects']} "
+            f"claims={counts['claims']} media={counts['media']}"
+        )
+
     if errors:
         print(f"export_check FAILED ({len(errors)} issue(s)):", file=sys.stderr)
         for e in errors:
             print(f"  - {e}", file=sys.stderr)
         return 1
 
-    n_src = len(list((PILOT / "sources").glob("*.json")))
-    n_sites = len(list((PILOT / "sites").glob("*.json")))
-    n_periods = len(list((PILOT / "periods").glob("*.json")))
-    n_obj = len(list((PILOT / "objects").glob("*.json")))
-    n_claims = len(list((PILOT / "claims").glob("*.json")))
-    n_media = len(list((PILOT / "media").glob("*.json")))
     print("export_check OK")
-    print(
-        f"  pilot mesopotamia: sources={n_src} sites={n_sites} periods={n_periods} "
-        f"objects={n_obj} claims={n_claims} media={n_media}"
-    )
+    print(f"  packs={len(packs)}")
+    for line in summaries:
+        print(line)
     print("  citation gate: fact claims require non-empty resolvable sources[]")
     return 0
 

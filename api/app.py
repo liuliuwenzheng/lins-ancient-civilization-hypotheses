@@ -1,0 +1,254 @@
+"""FastAPI read-only archive application."""
+from __future__ import annotations
+
+from typing import Any, Optional
+
+from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import JSONResponse
+
+from api import __version__
+from api.loader import get_store
+
+SERVICE_INFO = {
+    "name": "Lin's Ancient Civilization Hypotheses — Archive API",
+    "name_zh": "林的古文明猜想 — 档案接口",
+    "version": __version__,
+    "product": "archive + read-only API (not encyclopedia prose alone)",
+    "principles": [
+        "fact ≠ hypothesis — hypotheses always labeled kind=hypothesis with disclaimer",
+        "citation fail-closed — fact claims require non-empty resolvable sources[]",
+        "read-only — no write routes; changes via git/PR",
+        "no forged artifact images; media is outbound-link metadata only",
+    ],
+    "docs": {
+        "api_zh": "docs/api.zh.md",
+        "api_en": "docs/api.md",
+        "openapi": "docs/openapi.v0.yaml",
+        "archive_model": "docs/archive-data-model.zh.md",
+    },
+    "pagination": {
+        "style": "limit + offset (v0)",
+        "defaults": {"limit": 50, "offset": 0},
+        "max_limit": 200,
+        "response_fields": ["items", "total", "count", "limit", "offset", "has_more"],
+    },
+}
+
+
+def create_app() -> FastAPI:
+    app = FastAPI(
+        title=SERVICE_INFO["name"],
+        version=__version__,
+        description="Read-only archive API. Fact ≠ hypothesis. Citation fail-closed.",
+        docs_url="/api/v1/docs",
+        redoc_url="/api/v1/redoc",
+        openapi_url="/api/v1/openapi.json",
+    )
+
+    @app.get("/")
+    @app.get("/api/v1/")
+    @app.get("/api/v1")
+    def root() -> dict[str, Any]:
+        store = get_store()
+        return {
+            **SERVICE_INFO,
+            "packs_loaded": sorted(store.packs.keys()),
+            "civilization_count": len(store.civilizations),
+            "load_errors": store.load_errors,
+            "endpoints": [
+                "GET /api/v1/healthz",
+                "GET /api/v1/civilizations",
+                "GET /api/v1/civilizations/{id}",
+                "GET /api/v1/sources",
+                "GET /api/v1/sites",
+                "GET /api/v1/periods",
+                "GET /api/v1/objects",
+                "GET /api/v1/claims",
+                "GET /api/v1/media",
+            ],
+        }
+
+    @app.get("/api/v1/healthz")
+    def healthz() -> dict[str, Any]:
+        store = get_store()
+        ok = not store.load_errors and len(store.civilizations) > 0
+        body = {
+            "status": "ok" if ok else "degraded",
+            "version": __version__,
+            "packs": sorted(store.packs.keys()),
+            "civilizations": len(store.civilizations),
+            "counts": {k: len(v) for k, v in store.by_entity.items()},
+            "load_errors": store.load_errors,
+            "citation_gate": "export_check.py enforces fact→sources fail-closed before publish",
+        }
+        return JSONResponse(content=body, status_code=200 if ok else 503)
+
+    def _paginate(items: list[dict[str, Any]], limit: int, offset: int) -> dict[str, Any]:
+        limit = max(1, min(limit, 200))
+        offset = max(0, offset)
+        total = len(items)
+        page = items[offset : offset + limit]
+        return {
+            "items": page,
+            "total": total,
+            "count": len(page),
+            "limit": limit,
+            "offset": offset,
+            "has_more": offset + len(page) < total,
+        }
+
+    def _match_civ(rec: dict[str, Any], civilization: Optional[str]) -> bool:
+        if not civilization:
+            return True
+        if rec.get("id") == civilization:
+            return True
+        cids = rec.get("civilization_ids") or []
+        return civilization in cids
+
+    def _match_region(rec: dict[str, Any], region: Optional[str]) -> bool:
+        if not region:
+            return True
+        needle = region.lower()
+        for field in ("region",):
+            val = rec.get(field)
+            if isinstance(val, str) and needle in val.lower():
+                return True
+        # civilization region filter for nested
+        for cid in rec.get("civilization_ids") or []:
+            civ = get_store().civilizations.get(cid)
+            if civ and isinstance(civ.get("region"), str) and needle in civ["region"].lower():
+                return True
+        if isinstance(rec.get("region"), str) and needle in rec["region"].lower():
+            return True
+        return False
+
+    @app.get("/api/v1/civilizations")
+    def list_civilizations(
+        region: Optional[str] = Query(None, description="Substring match on region"),
+        limit: int = Query(50, ge=1, le=200),
+        offset: int = Query(0, ge=0),
+    ) -> dict[str, Any]:
+        store = get_store()
+        items = []
+        for civ in sorted(store.civilizations.values(), key=lambda c: c.get("id") or ""):
+            if region and not _match_region(civ, region):
+                continue
+            items.append(store.public(civ))
+        return _paginate(items, limit, offset)
+
+    @app.get("/api/v1/civilizations/{civ_id}")
+    def get_civilization(civ_id: str) -> dict[str, Any]:
+        store = get_store()
+        civ = store.civilizations.get(civ_id)
+        if not civ:
+            raise HTTPException(status_code=404, detail=f"civilization not found: {civ_id}")
+        return store.public(civ)
+
+    def _list_collection(
+        collection: str,
+        civilization: Optional[str],
+        region: Optional[str],
+        kind: Optional[str],
+        limit: int,
+        offset: int,
+    ) -> dict[str, Any]:
+        store = get_store()
+        items: list[dict[str, Any]] = []
+        for rec in sorted(store.by_entity[collection].values(), key=lambda r: r.get("id") or ""):
+            if not _match_civ(rec, civilization):
+                continue
+            if not _match_region(rec, region):
+                continue
+            if kind and rec.get("kind") != kind:
+                continue
+            if collection == "claims":
+                items.append(store.enrich_claim(rec))
+            else:
+                items.append(store.public(rec))
+        return _paginate(items, limit, offset)
+
+    @app.get("/api/v1/sources")
+    def list_sources(
+        civilization: Optional[str] = Query(None, description="Filter sources cited by this civ (via pack)"),
+        limit: int = Query(50, ge=1, le=200),
+        offset: int = Query(0, ge=0),
+    ) -> dict[str, Any]:
+        store = get_store()
+        allowed: set[str] | None = None
+        if civilization:
+            civ = store.civilizations.get(civilization)
+            if not civ:
+                raise HTTPException(status_code=404, detail=f"civilization not found: {civilization}")
+            allowed = set(civ.get("sources") or [])
+        items = []
+        for rec in sorted(store.by_entity["sources"].values(), key=lambda r: r.get("id") or ""):
+            if allowed is not None and rec.get("id") not in allowed:
+                continue
+            items.append(store.public(rec))
+        return _paginate(items, limit, offset)
+
+    @app.get("/api/v1/sites")
+    def list_sites(
+        civilization: Optional[str] = None,
+        region: Optional[str] = None,
+        limit: int = Query(50, ge=1, le=200),
+        offset: int = Query(0, ge=0),
+    ) -> dict[str, Any]:
+        return _list_collection("sites", civilization, region, None, limit, offset)
+
+    @app.get("/api/v1/periods")
+    def list_periods(
+        civilization: Optional[str] = None,
+        limit: int = Query(50, ge=1, le=200),
+        offset: int = Query(0, ge=0),
+    ) -> dict[str, Any]:
+        return _list_collection("periods", civilization, None, None, limit, offset)
+
+    @app.get("/api/v1/objects")
+    def list_objects(
+        civilization: Optional[str] = None,
+        limit: int = Query(50, ge=1, le=200),
+        offset: int = Query(0, ge=0),
+    ) -> dict[str, Any]:
+        return _list_collection("objects", civilization, None, None, limit, offset)
+
+    @app.get("/api/v1/claims")
+    def list_claims(
+        civilization: Optional[str] = None,
+        kind: Optional[str] = Query(None, description="fact | hypothesis"),
+        limit: int = Query(50, ge=1, le=200),
+        offset: int = Query(0, ge=0),
+    ) -> dict[str, Any]:
+        if kind is not None and kind not in ("fact", "hypothesis"):
+            raise HTTPException(status_code=400, detail="kind must be fact or hypothesis")
+        return _list_collection("claims", civilization, None, kind, limit, offset)
+
+    @app.get("/api/v1/media")
+    def list_media(
+        civilization: Optional[str] = None,
+        limit: int = Query(50, ge=1, le=200),
+        offset: int = Query(0, ge=0),
+    ) -> dict[str, Any]:
+        # media may lack civilization_ids; filter via linked objects when civilization set
+        store = get_store()
+        object_ids: set[str] | None = None
+        if civilization:
+            civ = store.civilizations.get(civilization)
+            if not civ:
+                raise HTTPException(status_code=404, detail=f"civilization not found: {civilization}")
+            object_ids = set(civ.get("object_ids") or [])
+        items = []
+        for rec in sorted(store.by_entity["media"].values(), key=lambda r: r.get("id") or ""):
+            if object_ids is not None:
+                linked = set(rec.get("object_ids") or [])
+                if not linked.intersection(object_ids):
+                    # also allow same pack
+                    if rec.get("_pack") != civ.get("_pack"):
+                        continue
+            items.append(store.public(rec))
+        return _paginate(items, limit, offset)
+
+    return app
+
+
+app = create_app()

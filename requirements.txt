@@ -1,0 +1,4 @@
+# Archive tools + read-only API
+jsonschema>=4.18
+fastapi>=0.110
+uvicorn[standard]>=0.27

@@ -6,7 +6,24 @@
 
 OpenAPI 草稿：[`openapi.v0.yaml`](openapi.v0.yaml) · 架构：[`architecture.zh.md`](architecture.zh.md)
 
-**状态：** 仅设计。本文档不要求同时上线服务。一旦实现，行为须符合下列原则。
+**状态：** 本地只读档案 API **已落地（v0）** — `python -m api.serve`（默认 `127.0.0.1:8080`）。云端托管与审议写会话仍为规范优先。行为须符合下列原则。
+
+### 快速开始
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+.venv/bin/python tools/export_check.py          # 校验全部 structured 包
+.venv/bin/python -m api.serve                   # 127.0.0.1:8080
+curl -s http://127.0.0.1:8080/api/v1/healthz
+curl -s 'http://127.0.0.1:8080/api/v1/civilizations'
+```
+
+**分页（v0）：** `limit`（默认 50，最大 200）+ `offset`（默认 0）。响应含 `items` / `total` / `count` / `limit` / `offset` / `has_more`。
+
+**筛选：** `civilization=`（多数集合）；`kind=fact|hypothesis`（claims）；`region=` 子串（civilizations / sites）。
+
+**主张：** 响应中 `sources` 为展开的来源引用对象；另保留 `source_ids`。假说必有 `kind: hypothesis` 与 `disclaimer`。
 
 ---
 
@@ -234,7 +251,7 @@ GET /search?q=...&kind=fact&region=...&limit=20
 - 器物/媒体含 `rights`（许可、署名、上游 URL）；在权利包到位前 Media 表可为空。
 - 假说类主张必须带 `kind: "hypothesis"` + `disclaimer`；事实主张须可解析到 `src-*`。
 - 筛选：`civilization`、`site`、`period`、`region`、`source_tier`、`q`，游标分页。
-- 两河结构化试点：[`data/structured/mesopotamia/`](../data/structured/mesopotamia/) · schemas：[`schemas/`](../schemas/) · 数据模型：[`archive-data-model.zh.md`](archive-data-model.zh.md) · 闸门：[`tools/export_check.py`](../tools/export_check.py)。托管 API 在导出接通前仍可返回空集合。
+- 结构化包：[`data/structured/mesopotamia/`](../data/structured/mesopotamia/) · [`data/structured/egypt/`](../data/structured/egypt/) · schemas：[`schemas/`](../schemas/) · 数据模型：[`archive-data-model.zh.md`](archive-data-model.zh.md) · 闸门：[`tools/export_check.py`](../tools/export_check.py)（全部包）· 本地服务：[`api/`](../api/)（`python -m api.serve`）。
 
 
 ## 5. 鉴权

@@ -103,3 +103,13 @@ Until a hosted API exists, git Markdown remains the published editorial source o
 ## 7. OpenAPI mapping
 
 Read-only paths (design): `/sources`, `/sites`, `/periods`, `/objects`, `/claims`, `/media`, `/civilizations`, `/deliberations` — see [`openapi.v0.yaml`](openapi.v0.yaml) and [API §4.6](api.md).
+
+## Packs landed (2026-10-11)
+
+| Pack dir | Civilization id | Notes |
+|----------|-----------------|-------|
+| `data/structured/mesopotamia/` | `civ-mesopotamia` | First pilot |
+| `data/structured/egypt/` | `civ-ancient-egypt` | Second pack; derived only from Egypt MD + `src-egypt-*` |
+
+Read-only API: `python -m api.serve` → `/api/v1/*`. Gate: `.venv/bin/python tools/export_check.py` (all packs).
+

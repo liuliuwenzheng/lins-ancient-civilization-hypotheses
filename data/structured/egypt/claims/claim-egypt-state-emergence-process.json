@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-state-emergence-process",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bard 在 Shaw 卷与本人教材中采用「埃及国家的出现」框架，强调过程而非单一战役定论。",
+    "en": "Bard’s “emergence of the Egyptian state” framing (Shaw volume and textbook) stresses process over a single-battle verdict."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-egypt-state-emergence"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000",
+    "src-egypt-bard-archaeology-2015",
+    "src-egypt-wengrow-early-egypt-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

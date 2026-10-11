@@ -67,7 +67,7 @@ MD 中已标明为学术模型的内容（如乌鲁克扩张；「第一座城�
 ## 5. 试点布局 — 两河
 
 ```
-data/structured/mesopotamia/
+data/structured/mesopotamia/  ·  data/structured/egypt/
   civilization.json
   deliberation.json          # 桩 → archive-api-direction 审议
   sources/*.json             # 15 × src-mesopotamia-*
@@ -103,3 +103,13 @@ data/structured/mesopotamia/
 ## 7. OpenAPI 映射
 
 只读路径（设计）：`/sources`、`/sites`、`/periods`、`/objects`、`/claims`、`/media`、`/civilizations`、`/deliberations` — 见 [`openapi.v0.yaml`](openapi.v0.yaml) 与 [接口 §4.6](api.zh.md)。
+
+## 已落地包（2026-10-11）
+
+| 包目录 | 文明 id | 说明 |
+|--------|---------|------|
+| `data/structured/mesopotamia/` | `civ-mesopotamia` | 首个试点 |
+| `data/structured/egypt/` | `civ-ancient-egypt` | 第二包；仅派生自埃及 MD + `src-egypt-*` |
+
+只读 API：`python -m api.serve` → `/api/v1/*`。校验：`.venv/bin/python tools/export_check.py`（全部包）。
+

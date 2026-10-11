@@ -1,0 +1,31 @@
+{
+  "id": "site-abydos",
+  "entity": "site",
+  "names": {
+    "zh": "阿拜多斯（Umm el-Qaab）",
+    "en": "Abydos (Umm el-Qaab)",
+    "native": null
+  },
+  "kind_note": "Early Dynastic royal cemetery core",
+  "region": "Upper Egypt / Nile Valley (Umm el-Qaab)",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "早王朝王陵核心区；Petrie《最早诸王朝王陵》报告第一王朝王陵发掘。Wilkinson 综述其在国家形成与王权丧葬建筑中的地位。",
+    "en": "Early Dynastic royal cemetery core; Petrie’s Royal Tombs reports First Dynasty royal tombs. Wilkinson synthesizes Abydos in state formation and royal mortuary architecture."
+  },
+  "sources": [
+    "src-egypt-petrie-royal-tombs-1900",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § Abydos (Umm el-Qaab); coordinates not asserted in civ MD."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-wilkinson-early-dynastic-1999",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Wilkinson, Toby A. H. 1999. Early Dynastic Egypt. London; New York: Routledge. ISBN 0-415-18633-1 / 978-0-415-18633-9 (hardback). DOI 10.4324/9780203024386.",
+  "url": "https://doi.org/10.4324/9780203024386",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary research monograph on the formative Early Dynastic period of Pharaonic Egypt. Treat state formation debates carefully; do not reduce to a single iconographic “proof” event.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-wilkinson-early-dynastic-1999.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

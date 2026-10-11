@@ -1,0 +1,34 @@
+{
+  "id": "claim-egypt-abydos-royal-tombs",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿拜多斯（Umm el-Qaab）是早王朝王陵核心区；Petrie《最早诸王朝王陵》报告第一王朝王陵发掘。",
+    "en": "Abydos (Umm el-Qaab) is an Early Dynastic royal cemetery core; Petrie’s Royal Tombs reports First Dynasty royal tombs."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-abydos-royal-tomb-assemblage"
+  ],
+  "sources": [
+    "src-egypt-petrie-royal-tombs-1900",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

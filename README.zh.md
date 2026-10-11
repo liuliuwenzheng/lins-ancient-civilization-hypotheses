@@ -29,7 +29,7 @@
 
 ## 结构化档案（试点）
 
-产品核心是**档案 + 只读 API**。JSON Schema 草稿见 [`schemas/`](schemas/)。首个结构化试点：[`data/structured/mesopotamia/`](data/structured/mesopotamia/)（仅派生自两河事实库 MD + 已登记来源）。模型：[`docs/archive-data-model.zh.md`](docs/archive-data-model.zh.md)。校验：`.venv/bin/python tools/export_check.py`。
+产品核心是**档案 + 只读 API**。JSON Schema：[`schemas/`](schemas/)。结构化包：[`data/structured/mesopotamia/`](data/structured/mesopotamia/) · [`data/structured/egypt/`](data/structured/egypt/)。模型：[`docs/archive-data-model.zh.md`](docs/archive-data-model.zh.md)。校验：`.venv/bin/python tools/export_check.py`。本地 API：`.venv/bin/python -m api.serve`（`127.0.0.1:8080`）。
 
 ## 来源分级
 

@@ -1,0 +1,32 @@
+{
+  "id": "period-egypt-wengrow-window",
+  "entity": "period",
+  "names": {
+    "zh": "Wengrow 东北非社会转型总框",
+    "en": "Wengrow NE African social-transformation window"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "time": {
+    "label": "c. 10,000–2650 BC (book subtitle framing)",
+    "approx_from_bce": 10000,
+    "approx_to_bce": 2650,
+    "scheme_note": "Wengrow 2006 subtitle — author’s framing, not a unique standard calendar"
+  },
+  "summary": {
+    "zh": "约 10,000–2650 BC（书名副标题的东北非社会转型窗）。",
+    "en": "c. 10,000–2650 BC (book subtitle framing for NE African social transformations)."
+  },
+  "sources": [
+    "src-egypt-wengrow-early-egypt-2006"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-ancient-egypt.md"
+  }
+}

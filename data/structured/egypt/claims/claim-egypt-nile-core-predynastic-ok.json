@@ -1,0 +1,30 @@
+{
+  "id": "claim-egypt-nile-core-predynastic-ok",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "尼罗河流域前王朝至古王国阶段是讨论东北非早期复杂社会、国家形成与法老文明制度基础的经典对象。",
+    "en": "The Nile Valley from Predynastic through Old Kingdom times is a classic setting for early complex society, state formation, and institutional foundations of Pharaonic civilization."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000",
+    "src-egypt-bard-archaeology-2015",
+    "src-egypt-wilkinson-early-dynastic-1999",
+    "src-egypt-wengrow-early-egypt-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+  }
+}

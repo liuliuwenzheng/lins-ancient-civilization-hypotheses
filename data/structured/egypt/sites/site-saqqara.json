@@ -1,0 +1,32 @@
+{
+  "id": "site-saqqara",
+  "entity": "site",
+  "names": {
+    "zh": "萨卡拉",
+    "en": "Saqqara",
+    "native": null
+  },
+  "kind_note": "Old Kingdom royal and elite cemetery landscape",
+  "region": "Memphite necropolis / Nile Valley west bank",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "古王国王陵与贵族墓地集群；阶梯金字塔（左塞尔）等纪念性建筑序列见 Lehner、Edwards 金字塔通论及 Shaw 古王国章取向。",
+    "en": "Old Kingdom royal and elite cemetery landscape; Step Pyramid sequence oriented via Lehner, Edwards, and Shaw’s Old Kingdom chapter."
+  },
+  "sources": [
+    "src-egypt-lehner-complete-pyramids-1997",
+    "src-egypt-edwards-pyramids-1993",
+    "src-egypt-shaw-oxford-history-2000"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Key sites § Saqqara; coordinates not asserted in civ MD."
+  }
+}

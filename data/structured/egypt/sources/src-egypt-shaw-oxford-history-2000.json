@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-shaw-oxford-history-2000",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Shaw, Ian, ed. 2000. The Oxford History of Ancient Egypt. Oxford; New York: Oxford University Press. First hardback 2000; paperback/new edition 2003, ISBN 978-0-19-280458-7. Relevant chapters for this seed: Béatrix Midant-Reynes, “The Naqada period (c. 4000–3200 BC)”; Kathryn A. Bard, “The emergence of the Egyptian state (c. 3200–2686 BC).”",
+  "url": "https://books.google.com/books/about/The_Oxford_History_of_Ancient_Egypt.html?id=092jP1lBhtoC",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary edited handbook. Chapter titles and conventional date ranges from published TOC. Unification process debates belong in notes, not as settled single-event fact.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-shaw-oxford-history-2000.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

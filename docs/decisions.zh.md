@@ -143,3 +143,13 @@
 **决定：** 落实审议 [`delib-2026-10-11-archive-api-direction`](../deliberations/delib-2026-10-11-archive-api-direction.md) / D-2026-10-11-17 的 FUTURE_WINDOW：在 [`schemas/`](../schemas/) 落地 JSON Schema 草稿；双语数据模型文档 [`archive-data-model.zh.md`](archive-data-model.zh.md)；结构化试点 [`data/structured/mesopotamia/`](../data/structured/mesopotamia/)；出处失败即关闭校验 [`tools/export_check.py`](../tools/export_check.py)。
 
 **说明：** 试点 JSON **仅**派生自 `civ-mesopotamia.md` + 已登记 `src-mesopotamia-*`。不新增考古主张；不上伪造图；假说主张保持标注。OpenAPI 档案路径已有草图（§4.6）；文档现指向 schemas + 试点。运行：`.venv/bin/python tools/export_check.py`。
+
+### D-2026-10-11-19 — 只读档案 API 落地 + 埃及结构化包
+
+**决定：** 落实 D-2026-10-11-17 / FUTURE_WINDOW：落地本地**只读** HTTP API（FastAPI），服务 `data/structured/*` 全部包；新增埃及结构化包 [`data/structured/egypt/`](../data/structured/egypt/)；[`tools/export_check.py`](../tools/export_check.py) 校验**全部**包。
+
+**说明：**
+- API：`python -m api.serve`（默认绑定 `127.0.0.1:8080`）。路径：`/api/v1/healthz`、`/civilizations`、`/sources`、`/sites`、`/periods`、`/objects`、`/claims`、`/media`。分页 v0：`limit`+`offset`。无写路由。主张响应展开 `sources` 引用；假说 `kind: hypothesis`。
+- 埃及包**仅**派生自 `civ-ancient-egypt.md` + `src-egypt-*`（15 来源 · 6 遗址 · 6 分期 · 4 器物组合 · 10 主张含纳尔迈「单次统一」假说 · 2 外链媒体）。不新增考古发明；不上伪造图。
+- Markdown 仍是编辑真源；结构化 JSON 是经闸门的服务形态（禁止静默双写）。
+

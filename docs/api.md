@@ -6,7 +6,24 @@ English | [中文](api.zh.md)
 
 OpenAPI stub: [`openapi.v0.yaml`](openapi.v0.yaml) · Architecture: [`architecture.md`](architecture.md)
 
-**Status:** design only. No server is required to ship with this document. When implemented, behavior must match these principles.
+**Status:** Local read-only archive API **shipped (v0)** — `python -m api.serve` (default `127.0.0.1:8080`). Cloud hosting and deliberation write sessions remain spec-first. Behavior must match these principles.
+
+### Quick start
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+.venv/bin/python tools/export_check.py          # validate all structured packs
+.venv/bin/python -m api.serve                   # 127.0.0.1:8080
+curl -s http://127.0.0.1:8080/api/v1/healthz
+curl -s 'http://127.0.0.1:8080/api/v1/civilizations'
+```
+
+**Pagination (v0):** `limit` (default 50, max 200) + `offset` (default 0). Response: `items` / `total` / `count` / `limit` / `offset` / `has_more`.
+
+**Filters:** `civilization=` (most collections); `kind=fact|hypothesis` (claims); `region=` substring (civilizations / sites).
+
+**Claims:** responses expand `sources` as citation objects; also keep `source_ids`. Hypotheses always carry `kind: hypothesis` and `disclaimer`.
 
 ---
 
@@ -234,7 +251,7 @@ Shared rules:
 - Objects/media carry `rights` (license, attribution, upstream URL); empty Media table is OK until cleared packages exist.
 - Claims that are hypotheses must include `kind: "hypothesis"` + `disclaimer`; fact claims require resolvable `src-*`.
 - Filters: `civilization`, `site`, `period`, `region`, `source_tier`, `q`, cursor pagination.
-- Mesopotamia structured pilot: [`data/structured/mesopotamia/`](../data/structured/mesopotamia/) · schemas: [`schemas/`](../schemas/) · data model: [`archive-data-model.md`](archive-data-model.md) · gate: [`tools/export_check.py`](../tools/export_check.py). Hosted API may still return empty until export is wired.
+- Structured packs: [`data/structured/mesopotamia/`](../data/structured/mesopotamia/) · [`data/structured/egypt/`](../data/structured/egypt/) · schemas: [`schemas/`](../schemas/) · data model: [`archive-data-model.md`](archive-data-model.md) · gate: [`tools/export_check.py`](../tools/export_check.py) (all packs) · local server: [`api/`](../api/) (`python -m api.serve`).
 
 
 ## 5. Auth

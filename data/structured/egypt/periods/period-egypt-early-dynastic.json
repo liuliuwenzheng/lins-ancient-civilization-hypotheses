@@ -1,0 +1,32 @@
+{
+  "id": "period-egypt-early-dynastic",
+  "entity": "period",
+  "names": {
+    "zh": "早王朝",
+    "en": "Early Dynastic"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "time": {
+    "label": "Wilkinson: formative centuries before the pyramid age (~five hundred years); overlaps state-emergence window",
+    "approx_from_bce": 3200,
+    "approx_to_bce": 2686,
+    "scheme_note": "Wilkinson 1999 framing; calendar band overlaps Shaw/Bard state-emergence range — not a separate absolute calendar invented here"
+  },
+  "summary": {
+    "zh": "Wilkinson：金字塔时代前约五百年的形成期；与上列国家出现窗重叠。",
+    "en": "Wilkinson: formative centuries before the pyramid age; overlaps the state-emergence window above."
+  },
+  "sources": [
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-ancient-egypt.md"
+  }
+}

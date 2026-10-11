@@ -1,0 +1,82 @@
+{
+  "id": "civ-ancient-egypt",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "fact-library",
+  "names": {
+    "zh": "古埃及",
+    "en": "Ancient Egypt",
+    "native": ""
+  },
+  "region": "Northeast Africa / Nile Valley and Delta (Upper and Lower Egypt); deserts and adjacent oases noted where sourced",
+  "time_span": "ca. Predynastic Naqada c. 4000–3200 BCE → state emergence / Early Dynastic c. 3200–2686 BCE → Old Kingdom c. 2686–2160 BCE (Shaw TOC chapter ranges); later Pharaonic periods oriented briefly via survey texts but not fully expanded here",
+  "summary": {
+    "zh": "尼罗河流域是早期国家、象形文字行政与纪念性王陵建筑的核心考古—历史研究区；本条以前王朝（Naqada）→早王朝→古王国为重点，主张均挂已登记来源。",
+    "en": "The Nile Valley is a core region for early state formation, hieroglyphic administration, and monumental royal mortuary architecture; this entry centers Predynastic (Naqada) through Early Dynastic and Old Kingdom developments, with every major claim tied to registered sources."
+  },
+  "sources": [
+    "src-egypt-allen-middle-egyptian-2014",
+    "src-egypt-bard-archaeology-2015",
+    "src-egypt-butzer-hydraulic-1976",
+    "src-egypt-edwards-pyramids-1993",
+    "src-egypt-hoffman-before-pharaohs-1979",
+    "src-egypt-kemp-anatomy-2006",
+    "src-egypt-lehner-complete-pyramids-1997",
+    "src-egypt-midant-reynes-prehistory-2000",
+    "src-egypt-petrie-royal-tombs-1900",
+    "src-egypt-quibell-green-hierakonpolis-1902",
+    "src-egypt-quibell-hierakonpolis-1900",
+    "src-egypt-shaw-oxford-history-2000",
+    "src-egypt-trigger-social-history-1983",
+    "src-egypt-wengrow-early-egypt-2006",
+    "src-egypt-wilkinson-early-dynastic-1999"
+  ],
+  "site_ids": [
+    "site-hierakonpolis",
+    "site-abydos",
+    "site-memphis",
+    "site-saqqara",
+    "site-giza",
+    "site-naqada"
+  ],
+  "period_ids": [
+    "period-egypt-palaeolithic-badarian",
+    "period-egypt-naqada",
+    "period-egypt-state-emergence",
+    "period-egypt-early-dynastic",
+    "period-egypt-old-kingdom",
+    "period-egypt-wengrow-window"
+  ],
+  "claim_ids": [
+    "claim-egypt-nile-core-predynastic-ok",
+    "claim-egypt-shaw-period-ranges",
+    "claim-egypt-nile-flood-ecology",
+    "claim-egypt-hierakonpolis-main-deposit",
+    "claim-egypt-abydos-royal-tombs",
+    "claim-egypt-hieroglyphic-admin",
+    "claim-egypt-early-dynastic-institutions",
+    "claim-egypt-old-kingdom-monuments",
+    "claim-egypt-state-emergence-process",
+    "claim-egypt-narmer-single-unification"
+  ],
+  "object_ids": [
+    "asm-narmer-palette-main-deposit",
+    "asm-abydos-royal-tomb-assemblage",
+    "asm-old-kingdom-pyramids",
+    "asm-hieroglyphic-writing-media"
+  ],
+  "related_ids": [
+    "civ-mesopotamia",
+    "civ-aegean",
+    "civ-indus-valley"
+  ],
+  "markdown_path": "data/civilizations/civ-ancient-egypt.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ-ancient-egypt.md + registered src-egypt-* front matter. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-abydos-royal-tomb-assemblage",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿拜多斯第一王朝王陵器物与铭文（组合级）",
+    "en": "Abydos First Dynasty royal-tomb objects and inscriptions (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic",
+    "period-egypt-state-emergence"
+  ],
+  "summary": {
+    "zh": "Petrie《王陵》报告第一王朝王陵发掘语境；1900–1901 释读须与后世修订对照。不编造墓室器物清单页码。",
+    "en": "Petrie’s Royal Tombs reports First Dynasty royal-tomb excavation context; 1900–1901 readings need later cross-check. No invented tomb-inventory page citations."
+  },
+  "sources": [
+    "src-egypt-petrie-royal-tombs-1900"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/royaltombsfirst2petr",
+    "notes": "No binary hosted; assemblage/metadata only. No forged artifact images."
+  },
+  "media_ids": [
+    "media-petrie-royal-tombs-archive"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Material culture § in civ-ancient-egypt.md"
+  }
+}

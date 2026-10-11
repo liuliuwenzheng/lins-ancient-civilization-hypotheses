@@ -143,3 +143,13 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 **Decision:** Implement FUTURE_WINDOW items from [`delib-2026-10-11-archive-api-direction`](../deliberations/delib-2026-10-11-archive-api-direction.md) / D-2026-10-11-17: land JSON Schema drafts under [`schemas/`](../schemas/), bilingual data-model docs [`archive-data-model.md`](archive-data-model.md), structured pilot at [`data/structured/mesopotamia/`](../data/structured/mesopotamia/), and citation fail-closed checker [`tools/export_check.py`](../tools/export_check.py).
 
 **Notes:** Pilot JSON is derived **only** from `civ-mesopotamia.md` + registered `src-mesopotamia-*`. No new archaeological claims; no forged images; hypothesis claims labeled. OpenAPI archive paths already sketched (§4.6); docs now point at schemas + pilot. Run: `.venv/bin/python tools/export_check.py`.
+
+### D-2026-10-11-19 — Read-only archive API + Egypt structured pack
+
+**Decision:** Implement D-2026-10-11-17 / FUTURE_WINDOW: ship a local **read-only** HTTP API (FastAPI) serving all packs under `data/structured/*`; add Egypt structured pack [`data/structured/egypt/`](../data/structured/egypt/); extend [`tools/export_check.py`](../tools/export_check.py) to validate **all** packs.
+
+**Notes:**
+- API: `python -m api.serve` (default bind `127.0.0.1:8080`). Routes: `/api/v1/healthz`, `/civilizations`, `/sources`, `/sites`, `/periods`, `/objects`, `/claims`, `/media`. Pagination v0: `limit`+`offset`. No write routes. Claim responses expand `sources` refs; hypotheses stay `kind: hypothesis`.
+- Egypt pack derived **only** from `civ-ancient-egypt.md` + `src-egypt-*` (15 sources · 6 sites · 6 periods · 4 assemblages · 10 claims incl. Narmer single-unification hypothesis · 2 outbound media). No new archaeological inventions; no forged images.
+- Markdown remains editorial source of truth; structured JSON is the gated serveable form (no silent dual-write).
+

@@ -1,0 +1,32 @@
+{
+  "id": "period-egypt-palaeolithic-badarian",
+  "entity": "period",
+  "names": {
+    "zh": "旧石器–巴达里（前 Naqada）",
+    "en": "Palaeolithic–Badarian (pre-Naqada)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "time": {
+    "label": "Shaw TOC: c. 700,000–4000 BC (prehistory chapter); this entry does not expand Palaeolithic detail",
+    "approx_from_bce": 700000,
+    "approx_to_bce": 4000,
+    "scheme_note": "Shaw 2000 TOC — coarse orientation only; not expanded in civ depth focus"
+  },
+  "summary": {
+    "zh": "Shaw 牛津通史目录中的史前章年代框；本条不展开旧石器细节。",
+    "en": "Shaw TOC prehistory chapter range; Palaeolithic detail not expanded in this entry’s depth focus."
+  },
+  "sources": [
+    "src-egypt-shaw-oxford-history-2000"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-egypt-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Chronology / periodization table in civ-ancient-egypt.md"
+  }
+}
