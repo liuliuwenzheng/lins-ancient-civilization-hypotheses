@@ -1,0 +1,33 @@
+{
+  "id": "site-bandurria",
+  "entity": "site",
+  "names": {
+    "zh": "班杜里亚",
+    "en": "Bandurria",
+    "native": null
+  },
+  "kind_note": "Huaura coastal Late Preceramic village + monumental sector",
+  "region": "Huaura Valley mouth / Huacho coast, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "华乌拉海岸晚前陶聚落；Fung 1970s 测年；Chu 发掘居住区与约 20 ha 纪念性区（含沉陷圆形广场的截顶金字塔）。",
+    "en": "Huaura coastal Late Preceramic settlement; Fung 1970s dates; Chu excavations of domestic sector and ~20 ha monumental sector (truncated pyramid with circular sunken plaza)."
+  },
+  "sources": [
+    "src-andes-chu-bandurria-2011",
+    "src-andes-chu-bandurria-boletin-2006",
+    "src-andes-fung-late-preceramic-1988",
+    "src-andes-creamer-ruiz-haas-pativilca-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

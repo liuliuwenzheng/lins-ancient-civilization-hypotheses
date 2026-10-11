@@ -18,6 +18,9 @@
     "src-andes-shady-haas-creamer-caral-2001",
     "src-andes-shady-caral-1997",
     "src-andes-shady-leyva-caral-supe-2003",
+    "src-andes-zechenter-supe-1988",
+    "src-andes-engel-begonias-1987",
+    "src-andes-kosok-1965",
     "src-andes-unesco-caral-2009"
   ],
   "coordinates": null,
@@ -25,9 +28,9 @@
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
-      "sources/src-*"
+      "sources/src-andes-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

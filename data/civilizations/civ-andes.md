@@ -1,5 +1,5 @@
 ---
-# fact-library: deep enrichment matching Mesopotamia/Egypt (2026-10-11)
+# fact-library + archive density D-2026-10-11-24 (sites + primary sources)
 id: civ-andes
 names:
   zh: "安第斯早期文明（卡拉尔–北奇科）"
@@ -27,8 +27,21 @@ sources:
   - src-andes-quilter-paloma-1989
   - src-andes-burger-chavin-1995
   - src-andes-unesco-caral-2009
+  - src-andes-willey-corbett-early-supe-1954
+  - src-andes-feldman-aspero-dissertation-1980
+  - src-andes-feldman-corporate-architecture-1985
+  - src-andes-chu-bandurria-2011
+  - src-andes-chu-bandurria-boletin-2006
+  - src-andes-fung-late-preceramic-1988
+  - src-andes-zechenter-supe-1988
+  - src-andes-quilter-el-paraiso-1991
+  - src-andes-sandweiss-pnas-2009
+  - src-andes-kosok-1965
+  - src-andes-engel-begonias-1987
+  - src-andes-haas-creamer-power-2006
+  - src-andes-shady-caral-social-values-2008
 related_ids: ["civ-olmec", "civ-early-maya"]
-notes: "fact-library after 2026-10-11 depth upgrade matching Mesopotamia/Egypt. Scope = Norte Chico Late Archaic (Caral–Supe and neighboring valleys), NOT later Andean empires (Chavín, Moche, Wari, Inca). City vs ceremonial center / state vs complex society = open scholarly debate (Notes). Maritime-foundations model = contested scholarly model. No invented page numbers; no forged images."
+notes: "fact-library + archive density D-2026-10-11-24 (sites + primary sources). Scope = Norte Chico Late Archaic (Caral–Supe and neighboring valleys), NOT later Andean empires (Chavín, Moche, Wari, Inca). City vs ceremonial center / state vs complex society / maritime foundations / maize staple / environmental demise / oldest-civilization marketing = open debates (Notes + hypothesis claims). No invented page numbers/coordinates; no forged images."
 ---
 
 # 安第斯早期文明（卡拉尔–北奇科） / Andean early civilizations (Caral–Norte Chico)
@@ -86,6 +99,21 @@ Peruvian period labels (Archaic / Preceramic / Initial Period) are not perfectly
 - **Pativilca tested sites** — nine sites tested; seven Late Archaic occupations ~2740–1870 cal BCE [`src-andes-creamer-ruiz-haas-pativilca-2007`].
 - **Other Supe preceramic centers (name orientation)** — Lurihuasi, Miraya, Chupacigarro, etc., per Science 2001 renaming note; no invented find lists [`src-andes-shady-haas-creamer-caral-2001`].
 - **Paloma (comparative, outside Norte Chico core)** — Chilca Valley Preceramic village/mortuary study [`src-andes-quilter-paloma-1989`].
+
+
+### Density pass D-2026-10-11-24 — additional site-level anchors
+
+- **阿斯佩罗加深 / Aspero deepened** — Willey & Corbett 1954 早期发掘专著；Feldman 1980 学位论文与 1985 Donnan 文集公司性建筑章；平台丘/测年语境进档案，酋邦标签留假说栏 [`src-andes-willey-corbett-early-supe-1954`][`src-andes-feldman-aspero-dissertation-1980`][`src-andes-feldman-corporate-architecture-1985`]。
+- **班杜里亚 / Bandurria（华乌拉海岸）** — Fung 晚前陶测年取向；Chu 2006 纪念性区（约 20 ha；1 号丘截顶金字塔 + 圆形沉陷广场）；Chu 2011 家庭单位发掘与 AMS [`src-andes-fung-late-preceramic-1988`][`src-andes-chu-bandurria-boletin-2006`][`src-andes-chu-bandurria-2011`]。
+- **福塔莱萨分列试掘点** — Porvenir、Shaura、Cerro Blanco 1–2 与 Caballete/Huaricanga 一并进结构化遗址；80 个碳十四样本见 Fieldiana 2013 [`src-andes-creamer-ruiz-perales-haas-fortaleza-2013`]。
+- **苏佩更名群** — Lurihuasi、Miraya、Chupacigarro（西）按 Science 2001 更名说明分列；PEACS 2008 名录取向；不编造出土清单 [`src-andes-shady-haas-creamer-caral-2001`][`src-andes-shady-caral-social-values-2008`][`src-andes-zechenter-supe-1988`][`src-andes-engel-begonias-1987`]。
+- **埃尔帕莱索 / El Paraíso（奇永谷，比较）** — Quilter 等 1991 混合海洋—棉花农业生计；非四谷核心 [`src-andes-quilter-el-paraiso-1991`]。
+
+- **Aspero deepened** — Willey & Corbett 1954 excavation monograph; Feldman 1980 dissertation and 1985 corporate-architecture chapter; chiefdom label remains hypothesis [`src-andes-willey-corbett-early-supe-1954`][`src-andes-feldman-aspero-dissertation-1980`][`src-andes-feldman-corporate-architecture-1985`].
+- **Bandurria (Huaura coast)** — Fung Late Preceramic dating orientation; Chu 2006 monumental sector (~20 ha; Mound 1 truncated pyramid + circular sunken plaza); Chu 2011 household excavations + AMS [`src-andes-fung-late-preceramic-1988`][`src-andes-chu-bandurria-boletin-2006`][`src-andes-chu-bandurria-2011`].
+- **Fortaleza tested loci split** — Porvenir, Shaura, Cerro Blanco 1–2 structured beside Caballete/Huaricanga; 80 radiocarbon samples in Fieldiana 2013 [`src-andes-creamer-ruiz-perales-haas-fortaleza-2013`].
+- **Supe renamed cluster** — Lurihuasi, Miraya, Chupacigarro (West) listed per Science 2001 renaming; PEACS 2008 inventory orientation; no invented find lists [`src-andes-shady-haas-creamer-caral-2001`][`src-andes-shady-caral-social-values-2008`][`src-andes-zechenter-supe-1988`][`src-andes-engel-begonias-1987`].
+- **El Paraíso (Chillón, comparative)** — Quilter et al. 1991 mixed marine–cotton plant subsistence; outside four-valley core [`src-andes-quilter-el-paraiso-1991`].
 
 ## Urbanism, architecture & institutions
 
@@ -156,6 +184,19 @@ Modern research arcs include early coastal Preceramic work and Moseley & Willey�
 - `src-andes-quilter-paloma-1989` — secondary monograph; Paloma Preceramic village/mortuary (comparative) (tier S)
 - `src-andes-burger-chavin-1995` — secondary monograph; later Chavín / Andean civilization historiography (tier S; later than focus)
 - `src-andes-unesco-caral-2009` — tertiary UNESCO World Heritage listing page (tier T)
+- `src-andes-willey-corbett-early-supe-1954` — excavation monograph; Early Ancón/Early Supe incl. Aspero 1941–42 (tier P; historical dating outdated)
+- `src-andes-feldman-aspero-dissertation-1980` — Harvard PhD; Aspero architecture/subsistence/dates (tier P; chiefdom label = hypothesis)
+- `src-andes-feldman-corporate-architecture-1985` — Donnan (ed.) chapter; Preceramic corporate architecture (tier S)
+- `src-andes-chu-bandurria-2011` — Pittsburgh PhD; Bandurria households + monumental sector + AMS (tier P)
+- `src-andes-chu-bandurria-boletin-2006` — *Boletín de Arqueología PUCP* 10; Bandurria Mound 1 + sunken plaza (tier S)
+- `src-andes-fung-late-preceramic-1988` — Keatinge handbook chapter; Late Preceramic / Bandurria early dates (tier S)
+- `src-andes-zechenter-supe-1988` — UCLA PhD; Supe subsistence modeling + early inland dating (tier P)
+- `src-andes-quilter-el-paraiso-1991` — *Science*; El Paraíso mixed subsistence (comparative) (tier S)
+- `src-andes-sandweiss-pnas-2009` — *PNAS*; Supe environmental change / demise hypothesis (tier S; hypothesis)
+- `src-andes-kosok-1965` — survey monograph; Pativilca Complex / aceramic Chupa Cigarro recognition (tier S)
+- `src-andes-engel-begonias-1987` — CIZA monograph; Supe Chupacigarro/Caral Preceramic recognition (tier S)
+- `src-andes-haas-creamer-power-2006` — *Current Anthropology*; Norte Chico Late Archaic synthesis (tier S)
+- `src-andes-shady-caral-social-values-2008` — PEACS project synthesis PDF; Supe excavation list (tier S; primacy language ≠ ranking)
 
 ## Related civilizations
 
@@ -172,3 +213,8 @@ Modern research arcs include early coastal Preceramic work and Moseley & Willey�
 - **Not claimed:** global “earliest civilization” ranking versus Old World or other New World traditions; UNESCO OUV phrasing is heritage language, not a fact-library ranking [`src-andes-unesco-caral-2009`].
 - Absolute calendar phrasing follows cited calibrated ranges; later recalibrations may shift endpoints.
 - No invented page numbers; quantitative tables require checked follow-up.
+
+- **Open scholarly debate — environmental demise (Sandweiss et al. 2009):** earthquakes / El Niño / beach ridges / dunes as drivers of Supe abandonment remain a causal hypothesis, not a settled single-cause fact [`src-andes-sandweiss-pnas-2009`].
+- **Open scholarly debate — Aspero “chiefdom”:** Feldman polity labels stay in hypothesis claims [`src-andes-feldman-aspero-dissertation-1980`][`src-andes-feldman-corporate-architecture-1985`].
+- **Open scholarly debate — Bandurria organization:** Chu 2011 challenges simple chiefdom/state labels from household evidence [`src-andes-chu-bandurria-2011`].
+- **Structured archive density (D-24):** `data/structured/andes/` sources 15→28; sites 6→14; objects 3→16; claims 7→27; media 1→6; `tools/export_check.py` must pass.

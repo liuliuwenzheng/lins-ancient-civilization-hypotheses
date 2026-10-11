@@ -1,0 +1,39 @@
+{
+  "id": "asm-andes-norte-chico-95-dates",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "北奇科 95 个新碳十四年代组（Nature 2004）",
+    "en": "Norte Chico 95 new radiocarbon dates set (Nature 2004)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Haas、Creamer & Ruiz：取自 20 余处大型早期遗址中的 13 处；总框约 3000–1800 cal BCE。",
+    "en": "Haas, Creamer & Ruiz: from 13 of >20 large early sites; frame ~3000–1800 cal BCE."
+  },
+  "sources": [
+    "src-andes-haas-creamer-ruiz-norte-chico-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

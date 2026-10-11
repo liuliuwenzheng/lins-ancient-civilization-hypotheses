@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-zechenter-supe-subsistence",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Zechenter 1988 苏佩谷生计模型反对「海洋资源为唯一基础」；并参与内陆纪念性遗址早期测年/识别脉络（后与卡拉尔集群关联）。",
+    "en": "Zechenter 1988 Supe Valley subsistence modeling rejects maritime resources as an exclusive base and contributes early inland monumental-site dating/recognition later linked to the Caral cluster."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral",
+    "site-chupacigarro"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-zechenter-supe-1988",
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-aspero-chiefdom-label",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Feldman 将阿斯佩罗公司性建筑解读为前陶「海洋酋邦」/非平等社会——政体类型学标签仍属争议模型。",
+    "en": "Feldman reads Aspero corporate architecture as a Preceramic “maritime chiefdom” / non-egalitarian system—polity typology remains a contested model."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-aspero"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-feldman-aspero-dissertation-1980",
+    "src-andes-feldman-corporate-architecture-1985",
+    "src-andes-feldman-andean-state-1987"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

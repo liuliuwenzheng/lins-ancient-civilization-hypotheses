@@ -20,6 +20,8 @@
   },
   "sources": [
     "src-andes-moseley-willey-aspero-1973",
+    "src-andes-willey-corbett-early-supe-1954",
+    "src-andes-feldman-aspero-dissertation-1980",
     "src-andes-feldman-andean-state-1987"
   ],
   "rights": {
@@ -34,9 +36,9 @@
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
-      "sources/src-*"
+      "sources/src-andes-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

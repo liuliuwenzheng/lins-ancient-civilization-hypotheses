@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-el-paraiso-mixed-subsistence",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Quilter 等 1991：奇永谷埃尔帕莱索晚前陶生计为凤尾鱼等海洋资源与栽培植物（含大量棉花）并读——比较址，非北奇科四谷核心。",
+    "en": "Quilter et al. 1991: El Paraíso (Chillón) Late Preceramic subsistence combines marine resources (anchovy-dominated) with cultivated plants including extensive cotton—comparative site, not Norte Chico four-valley core."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-el-paraiso"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andes-el-paraiso-subsistence"
+  ],
+  "sources": [
+    "src-andes-quilter-el-paraiso-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

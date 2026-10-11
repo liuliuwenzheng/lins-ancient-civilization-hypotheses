@@ -1,0 +1,30 @@
+{
+  "id": "site-shaura",
+  "entity": "site",
+  "names": {
+    "zh": "绍拉",
+    "en": "Shaura",
+    "native": null
+  },
+  "kind_note": "Fortaleza Late Archaic mound site (tested 2003–04)",
+  "region": "Fortaleza Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "福塔莱萨谷六处 2003–04 试掘遗址之一；主丘探沟与测年见 Fieldiana 2013。",
+    "en": "One of six Fortaleza sites tested 2003–04; main-mound trench and dating in Fieldiana 2013."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

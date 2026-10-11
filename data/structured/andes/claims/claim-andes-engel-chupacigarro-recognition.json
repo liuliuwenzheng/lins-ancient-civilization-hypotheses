@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-engel-chupacigarro-recognition",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Engel 1987 识别苏佩谷大型棉花前陶聚落（含当时所称 Chupacigarro），属卡拉尔集群现代研究史早期环节。",
+    "en": "Engel 1987 identified large Supe Valley Cotton Preceramic settlements including the site then called Chupacigarro—an early link in the modern Caral-cluster research history."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral",
+    "site-chupacigarro"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-engel-begonias-1987",
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

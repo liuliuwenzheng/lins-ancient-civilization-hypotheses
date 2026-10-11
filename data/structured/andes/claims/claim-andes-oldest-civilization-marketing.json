@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-oldest-civilization-marketing",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "PEACS/教科文等「美洲最古老文明」表述属项目或遗产表述，不作事实库全球/美洲最早排序。",
+    "en": "PEACS/UNESCO-style “oldest civilization in the Americas” phrasing is project or heritage language—not a fact-library global/New World primacy ranking."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-shady-caral-social-values-2008",
+    "src-andes-unesco-caral-2009",
+    "src-andes-shady-leyva-caral-supe-2003"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

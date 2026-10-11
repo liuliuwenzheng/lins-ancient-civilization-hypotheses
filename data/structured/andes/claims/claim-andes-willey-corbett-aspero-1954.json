@@ -1,0 +1,30 @@
+{
+  "id": "claim-andes-willey-corbett-aspero-1954",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Willey & Corbett 1954 专著记录苏佩河口等地（含阿斯佩罗）1941–42 发掘；当时陶瓷—查文视域下的绝对年代框架已过时，须与晚近前陶再认识对照。",
+    "en": "Willey & Corbett 1954 monograph documents 1941–42 excavations at Supe-mouth loci including Aspero; ceramic–Chavín absolute framing is outdated and must be read with later Preceramic reassessments."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-aspero"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-willey-corbett-early-supe-1954",
+    "src-andes-moseley-willey-aspero-1973"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

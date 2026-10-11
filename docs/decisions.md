@@ -215,3 +215,22 @@ Major **S**: Mughal “Recent Archaeological Research in the Cholistan Desert”
 
 **Notes:** Bisht/Nath cited as drafts; Ganweriwala remains survey-only (no invented trench inventory); Rakhigarhi “eastern capital,” Kot Diji conquest/conflagration, Lothal dock, climate single-cause, empire-vs-network kept as hypotheses. Integrity over speed.
 
+### D-2026-10-11-24 — Andes / Caral–Norte Chico archive density (sites + primary sources)
+
+**Decision:** Per owner priority (Mesopotamia D-21 / Egypt D-22 / Indus D-23 pattern), deepen the Andes structured pack: register verifiable site-level excavation/survey literature (P/S) for Caral, Aspero, and other Supe/Pativilca/Fortaleza/Huaura sites when citeable, and sync `civ-andes.md` Key sites / Sources.
+
+**This pass (bibliographic details verified via WebSearch/catalog/journal pages; access_date 2026-10-11; no invented page numbers/coordinates/forged images):**
+
+Major **P**:
+- Willey & Corbett *Early Ancón and Early Supe Culture* 1954 (incl. Aspero; historical dating outdated)
+- Feldman *Aspero…* Harvard Ph.D. 1980
+- Existing Creamer et al. Fieldiana Pativilca 2007 / Fortaleza 2013 (this pass splits Porvenir, Shaura, Cerro Blanco into site records)
+- Chu Barrera *Household Organization… Bandurria* Pittsburgh Ph.D. 2011
+- Zechenter *Subsistence Strategies in the Supe Valley…* UCLA Ph.D. 1988
+
+Major **S**: Feldman 1985 (Donnan ed.); Fung 1988 (Keatinge ed.); Chu 2006 *Boletín de Arqueología PUCP* 10; Quilter et al. 1991 *Science* (El Paraíso, comparative); Sandweiss et al. 2009 *PNAS* (environmental demise = hypothesis); Kosok 1965; Engel 1987; Haas & Creamer 2006 *Current Anthropology*; Shady 2008 PEACS synthesis PDF (“oldest” = marketing, not ranking).
+
+**Structured pack (andes):** sources 15→28; sites 6→14; objects 3→16; claims 7→27; media 1→6; periods 5→7; `tools/export_check.py` passes all packs.
+
+**Notes:** Chupacigarro (West) kept separate from Caral; Vichama only as PEACS list pointer (often Early Formative, after Caral monumental window); environmental abrupt demise, Aspero chiefdom, Bandurria challenge to chiefdom/state, maize staple intensity, and “oldest civilization” kept as hypotheses. Integrity over speed.
+

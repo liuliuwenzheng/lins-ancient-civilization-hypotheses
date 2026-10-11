@@ -1,0 +1,31 @@
+{
+  "id": "site-el-paraiso",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔帕莱索（奇永谷，比较址）",
+    "en": "El Paraíso (Chillón Valley, comparative)",
+    "native": null
+  },
+  "kind_note": "Comparative Late Preceramic monumental site outside Norte Chico four-valley core",
+  "region": "Chillón Valley, central coast Peru (south of Norte Chico core)",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "奇永谷晚前陶纪念性遗址；Quilter 等 1991 报告混合海洋（凤尾鱼为主）与栽培植物（含大量棉花）生计——比较性，非北奇科四谷核心。",
+    "en": "Chillón Valley Late Preceramic monumental site; Quilter et al. 1991 report mixed marine (anchovy-dominated) and cultivated plants including extensive cotton—comparative, not Norte Chico four-valley core."
+  },
+  "sources": [
+    "src-andes-quilter-el-paraiso-1991",
+    "src-andes-shady-caral-social-values-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

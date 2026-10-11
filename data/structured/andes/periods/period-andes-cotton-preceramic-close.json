@@ -1,0 +1,33 @@
+{
+  "id": "period-andes-cotton-preceramic-close",
+  "entity": "period",
+  "names": {
+    "zh": "棉花前陶尾声（旧文献框架）",
+    "en": "Cotton Preceramic close (older framing)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "time": {
+    "label": "~2000–1800 B.C. (Moseley & Willey 1973 discussion node)",
+    "approx_from_bce": 2000,
+    "approx_to_bce": 1800,
+    "scheme_note": "Older Cotton Preceramic close framing; must be cross-checked against modern Norte Chico radiocarbon (Nature 2004 / Science 2001)."
+  },
+  "summary": {
+    "zh": "Moseley & Willey 1973 讨论节点；须与现代测年对照，不作独立精确年表。",
+    "en": "Moseley & Willey 1973 discussion node; not an independent high-precision calendar—cross-check modern radiocarbon."
+  },
+  "sources": [
+    "src-andes-moseley-willey-aspero-1973",
+    "src-andes-fung-late-preceramic-1988"
+  ],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

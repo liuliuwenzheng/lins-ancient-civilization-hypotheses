@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-peacs-supe-excavation-list",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "PEACS 2008 项目综述列出苏佩谷发掘点卡拉尔、丘帕西加罗、米拉亚、卢里瓦西、阿斯佩罗，以及华乌拉谷 Vichama——名录取向；Vichama 年代常落在晚于卡拉尔纪念性窗的早期成型阶段，细节须跟进专报。",
+    "en": "PEACS 2008 project synthesis lists Supe excavations at Caral, Chupacigarro, Miraya, Lurihuasi, Áspero, plus Huaura’s Vichama—inventory orientation; Vichama often dates to Early Formative after Caral’s monumental window and needs dedicated reports."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral",
+    "site-chupacigarro",
+    "site-miraya",
+    "site-lurihuasi",
+    "site-aspero"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-shady-caral-social-values-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

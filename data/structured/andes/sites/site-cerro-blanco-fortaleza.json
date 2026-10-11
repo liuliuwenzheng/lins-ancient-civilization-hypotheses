@@ -1,0 +1,30 @@
+{
+  "id": "site-cerro-blanco-fortaleza",
+  "entity": "site",
+  "names": {
+    "zh": "塞罗布兰科（福塔莱萨）",
+    "en": "Cerro Blanco (Fortaleza)",
+    "native": null
+  },
+  "kind_note": "Fortaleza Late Archaic sites Cerro Blanco 1–2 (tested 2003–04)",
+  "region": "Fortaleza Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Fieldiana 2013 所列 Cerro Blanco 1–2 试掘点；勿与其他河谷同名遗址混淆；本条不编造探方清单。",
+    "en": "Cerro Blanco 1–2 tested loci listed in Fieldiana 2013; do not confuse with same-name sites in other valleys; no invented trench inventory."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

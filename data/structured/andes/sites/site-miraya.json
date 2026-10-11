@@ -1,0 +1,32 @@
+{
+  "id": "site-miraya",
+  "entity": "site",
+  "names": {
+    "zh": "米拉亚",
+    "en": "Miraya",
+    "native": null
+  },
+  "kind_note": "Supe Valley large preceramic center (renamed from Chupacigarro Centro)",
+  "region": "Supe Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "苏佩谷大型前陶中心；Science 2001 注原称 Chupacigarro Centro；PEACS 发掘名录；沙埋层讨论见 Sandweiss 等 2009（假说性环境模型）。",
+    "en": "Large Supe preceramic center; Science 2001 notes former name Chupacigarro Centro; PEACS excavation list; sand deposits discussed in Sandweiss et al. 2009 (environmental hypothesis)."
+  },
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-shady-caral-social-values-2008",
+    "src-andes-sandweiss-pnas-2009"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

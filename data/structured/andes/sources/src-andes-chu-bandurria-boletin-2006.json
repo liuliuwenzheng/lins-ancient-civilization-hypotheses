@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-chu-bandurria-boletin-2006",
+  "entity": "source",
+  "type": "article",
+  "citation": "Chu Barrera, Alejandro. 2006. “Arquitectura monumental precerámica de Bandurria, Huacho” / “Monumental Preceramic Architecture at Bandurria, Huacho.” Boletín de Arqueología PUCP 10: 91–109. DOI 10.18800/boletindearqueologiapucp.200601.005.",
+  "url": "https://doi.org/10.18800/boletindearqueologiapucp.200601.005",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Boletín de Arqueología PUCP 10 (2006): 91–109; Bandurria monumental sector (~20 ha; 10 structures / 4 main mounds) with Mound 1 cobble-and-mud truncated pyramid + circular sunken plaza; AMS dating discussion. Tier S. Pair with Chu 2011 dissertation for household analysis.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

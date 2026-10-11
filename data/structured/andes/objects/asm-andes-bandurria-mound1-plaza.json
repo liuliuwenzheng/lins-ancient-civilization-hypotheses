@@ -1,0 +1,42 @@
+{
+  "id": "asm-andes-bandurria-mound1-plaza",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "班杜里亚 1 号丘与圆形沉陷广场",
+    "en": "Bandurria Mound 1 and circular sunken plaza"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-bandurria"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "卵石泥浆截顶金字塔 + 圆形沉陷广场；纪念性区约 20 ha 尺度见 Chu 2006。",
+    "en": "Cobble-and-mud truncated pyramid with circular sunken plaza; monumental sector ~20 ha per Chu 2006."
+  },
+  "sources": [
+    "src-andes-chu-bandurria-boletin-2006",
+    "src-andes-chu-bandurria-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

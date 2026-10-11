@@ -11,11 +11,14 @@
     "civ-andes"
   ],
   "summary": {
-    "zh": "苏佩河口海岸大型前陶遗址；人工平台丘再认识与公司性劳动建筑讨论。",
-    "en": "Large coastal preceramic site at Supe mouth; artificial platform mounds and corporate-labor architecture discussions."
+    "zh": "苏佩河口海岸大型前陶遗址；Willey & Corbett 1954 早期发掘；Moseley & Willey 1973 再识平台丘；Feldman 1980/1985 公司性建筑与测年。",
+    "en": "Large coastal preceramic site at Supe mouth; Willey & Corbett 1954 early excavations; Moseley & Willey 1973 platform recognition; Feldman 1980/1985 corporate architecture and dates."
   },
   "sources": [
     "src-andes-moseley-willey-aspero-1973",
+    "src-andes-willey-corbett-early-supe-1954",
+    "src-andes-feldman-aspero-dissertation-1980",
+    "src-andes-feldman-corporate-architecture-1985",
     "src-andes-feldman-andean-state-1987",
     "src-andes-haas-creamer-pnas-maize-2013"
   ],
@@ -24,9 +27,9 @@
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
-      "sources/src-*"
+      "sources/src-andes-*"
     ],
     "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
   }
 }

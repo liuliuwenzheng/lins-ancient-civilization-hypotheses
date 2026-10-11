@@ -1,0 +1,41 @@
+{
+  "id": "asm-andes-el-paraiso-subsistence",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃尔帕莱索生计组合（比较）",
+    "en": "El Paraíso subsistence assemblage (comparative)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-el-paraiso"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "凤尾鱼为主的鱼类与栽培植物（含大量棉花）并读——比较性海岸前陶生计。",
+    "en": "Anchovy-dominated fish read with cultivated plants including extensive cotton—comparative coastal Preceramic subsistence."
+  },
+  "sources": [
+    "src-andes-quilter-el-paraiso-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

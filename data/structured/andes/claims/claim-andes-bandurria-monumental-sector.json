@@ -1,0 +1,32 @@
+{
+  "id": "claim-andes-bandurria-monumental-sector",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Chu 2006：班杜里亚存在先前未充分报道的纪念性区（约 20 ha；主丘 8–12 m），1 号丘为卵石泥浆截顶金字塔并伴圆形沉陷广场。",
+    "en": "Chu 2006: Bandurria has a previously under-reported monumental sector (~20 ha; main mounds 8–12 m); Mound 1 is a cobble-and-mud truncated pyramid with a circular sunken plaza."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-bandurria"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andes-bandurria-mound1-plaza"
+  ],
+  "sources": [
+    "src-andes-chu-bandurria-boletin-2006",
+    "src-andes-chu-bandurria-2011"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

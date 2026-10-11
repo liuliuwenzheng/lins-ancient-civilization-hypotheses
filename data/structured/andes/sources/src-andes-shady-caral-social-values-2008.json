@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-shady-caral-social-values-2008",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Shady Solís, Ruth. 2008. The Social and Cultural Values of Caral-Supe, the Oldest Civilization of Peru and the Americas, and Their Role in Integrated Sustainable Development. Lima: Proyecto Especial Arqueológico Caral-Supe / INC (English PDF via zonacaral.gob.pe).",
+  "url": "http://www.zonacaral.gob.pe/downloads/publicaciones/the-social-and-cultural-values-of-caral-supe-2008-ingles.pdf",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "PEACS 2008 project synthesis; Supe site list + Vichama. Primacy language = marketing, not fact ranking. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

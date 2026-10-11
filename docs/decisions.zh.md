@@ -222,3 +222,22 @@
 
 **说明：** Bisht/Nath 按草稿引用；甘韦里瓦拉仍为调查遗址（不编造探方清单）；拉希加里「东部都城」、科特迪吉征服/大火、洛塔尔船坞、气候单因、帝国 vs 网络一律留在假说栏。完整性优先于速度。
 
+### D-2026-10-11-24 — 安第斯/卡拉尔–北奇科档案密度加深（遗址 + 一手来源）
+
+**决定：** 按主人优先项（对齐两河 D-21 / 埃及 D-22 / 印度河 D-23），加深安第斯结构化包：登记可核验的卡拉尔、阿斯佩罗及其他苏佩/帕蒂维尔卡/福塔莱萨/华乌拉遗址级发掘与调查文献（P/S），并同步 `civ-andes.md` 关键遗址与来源栏。
+
+**本轮新增（均经 WebSearch/目录页/期刊页核验书目；access_date 2026-10-11；不编造页码/坐标/伪造图）：**
+
+主要 **P** 档：
+- Willey & Corbett《Early Ancón and Early Supe Culture》1954（含阿斯佩罗；历史年代框架过时）
+- Feldman《Aspero…》哈佛博士论文 1980
+- Creamer 等已有 Fieldiana 帕蒂维尔卡 2007 / 福塔莱萨 2013（本轮把波韦尼尔、绍拉、塞罗布兰科等分列进遗址）
+- Chu Barrera《Household Organization… Bandurria》匹兹堡博士论文 2011
+- Zechenter《Subsistence Strategies in the Supe Valley…》UCLA 博士论文 1988
+
+主要 **S** 档：Feldman 1985（Donnan 编）；Fung 1988（Keatinge 编）；Chu 2006《Boletín de Arqueología PUCP》10；Quilter 等 1991 *Science*（埃尔帕莱索，比较）；Sandweiss 等 2009 *PNAS*（环境废弃=假说）；Kosok 1965；Engel 1987；Haas & Creamer 2006 *Current Anthropology*；Shady 2008 PEACS 综述 PDF（「最古老」=营销语，不定论）。
+
+**结构化结果（andes 包）：** 来源 15→28；遗址 6→14；器物组合 3→16；主张 7→27；媒体 1→6；分期 5→7；`tools/export_check.py` 全仓通过。
+
+**说明：** 丘帕西加罗（西）与卡拉尔分列；Vichama 仅作 PEACS 名录指针（常偏早期成型、晚于卡拉尔纪念性窗）；环境突变废弃、阿斯佩罗酋邦、班杜里亚挑战酋邦/国家、玉米主粮强度、「最古老文明」一律假说栏。完整性优先于速度。
+

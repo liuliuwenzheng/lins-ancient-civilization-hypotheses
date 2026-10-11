@@ -1,0 +1,29 @@
+{
+  "id": "claim-andes-bandurria-challenges-chiefdom-state",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Chu 2011 认为班杜里亚居住证据挑战将晚前陶社会简单标为复杂酋邦或国家的模型——替代组织模型仍开放。",
+    "en": "Chu 2011 argues Bandurria household evidence challenges models that simply label Late Preceramic society a complex chiefdom or state—alternative organization models remain open."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-bandurria"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-chu-bandurria-2011"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

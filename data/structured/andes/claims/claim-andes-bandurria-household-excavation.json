@@ -1,0 +1,32 @@
+{
+  "id": "claim-andes-bandurria-household-excavation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Chu 2011 以家庭单位发掘班杜里亚居住区（5×5 m 探方），区分方形石结构与易朽椭圆棚屋，并以 AMS 年代补充 Fung 1970s 测年。",
+    "en": "Chu 2011 excavates Bandurria domestic sector at household scale (5×5 m units), distinguishing quadrangular stone structures from perishable oval huts, with AMS dates complementing Fung’s 1970s radiocarbon."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-bandurria"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andes-bandurria-households"
+  ],
+  "sources": [
+    "src-andes-chu-bandurria-2011",
+    "src-andes-fung-late-preceramic-1988"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

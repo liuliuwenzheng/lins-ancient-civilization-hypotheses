@@ -1,0 +1,41 @@
+{
+  "id": "asm-andes-caral-central-zone",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡拉尔中心建筑区（约 65 ha）",
+    "en": "Caral central architectural zone (~65 ha)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral"
+  ],
+  "period_ids": [
+    "period-andes-caral-monumental"
+  ],
+  "summary": {
+    "zh": "Science 2001：中心纪念性/居住/非居住建筑区约 65 ha；「城市」标签见假说栏。",
+    "en": "Science 2001: ~65 ha central monumental/residential/nonresidential zone; “city” label in hypothesis column."
+  },
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

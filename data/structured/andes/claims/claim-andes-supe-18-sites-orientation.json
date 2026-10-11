@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-supe-18-sites-orientation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Science 2001：卡拉尔为苏佩谷约 18 处大型前陶遗址之一；本条仅作名录取向，不编造未登记遗址的出土清单。",
+    "en": "Science 2001: Caral is one of ~18 large Supe Valley preceramic sites; inventory orientation only—no invented find lists for unregistered excavations."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andes-supe-18-preceramic-sites"
+  ],
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

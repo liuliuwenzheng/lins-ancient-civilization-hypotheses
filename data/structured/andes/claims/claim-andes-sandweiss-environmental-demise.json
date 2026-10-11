@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-sandweiss-environmental-demise",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Sandweiss 等 2009：地震、厄尔尼诺洪水、滩脊与沙丘入侵约 3800–3600 cal B.P. 导致早期苏佩聚落废弃——环境单因/突变叙事属开放假说。",
+    "en": "Sandweiss et al. 2009: earthquakes, El Niño floods, beach ridges, and dune incursion ~3800–3600 cal B.P. caused early Supe abandonment—single-cause/abrupt environmental narrative remains an open hypothesis."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral",
+    "site-miraya",
+    "site-chupacigarro"
+  ],
+  "period_ids": [
+    "period-andes-supe-florescence-sandweiss-frame"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-andes-sandweiss-pnas-2009"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

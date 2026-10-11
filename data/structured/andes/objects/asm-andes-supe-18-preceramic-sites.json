@@ -1,0 +1,47 @@
+{
+  "id": "asm-andes-supe-18-preceramic-sites",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "苏佩谷约 18 处大型前陶遗址群（名录取向）",
+    "en": "Supe Valley ~18 large preceramic site cluster (inventory orientation)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral",
+    "site-aspero",
+    "site-lurihuasi",
+    "site-miraya",
+    "site-chupacigarro"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico",
+    "period-andes-caral-monumental"
+  ],
+  "summary": {
+    "zh": "Science 2001：卡拉尔为苏佩谷约 18 处大型前陶遗址之一；名录取向，非逐址发掘清单。",
+    "en": "Science 2001: Caral is one of ~18 large Supe preceramic sites; inventory orientation, not a per-site excavation catalog."
+  },
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-shady-caral-social-values-2008"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images; no invented find lists for unexcavated named sites."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

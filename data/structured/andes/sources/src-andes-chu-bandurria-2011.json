@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-chu-bandurria-2011",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Chu Barrera, Alejandro José. 2011. “Household Organization and Social Inequality at Bandurria, a Late Preceramic Village in Huaura, Peru.” Ph.D. dissertation, University of Pittsburgh. Available via University of Pittsburgh Electronic Theses and Dissertations.",
+  "url": "https://d-scholarship.pitt.edu/concern/etds/199502b9-f9a8-4877-996c-dede9326eaaa",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Pittsburgh PhD; Bandurria household + monumental sectors; AMS dates; challenges simple chiefdom/state labels. Tier P.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

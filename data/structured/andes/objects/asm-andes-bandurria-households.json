@@ -1,0 +1,41 @@
+{
+  "id": "asm-andes-bandurria-households",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "班杜里亚居住建筑组合",
+    "en": "Bandurria household architectural assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-bandurria"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "方形石结构与易朽椭圆形棚屋并存；Chu 2011 自下而上家庭单位分析。",
+    "en": "Quadrangular stone structures and perishable oval huts; Chu 2011 bottom-up household analysis."
+  },
+  "sources": [
+    "src-andes-chu-bandurria-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

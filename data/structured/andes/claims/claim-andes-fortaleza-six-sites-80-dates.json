@@ -1,0 +1,37 @@
+{
+  "id": "claim-andes-fortaleza-six-sites-80-dates",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Creamer 等 2013：2003–04 在福塔莱萨谷六处遗址试掘，报告 80 个碳十四样本，占用落入晚古风约 3000–1800 BC。",
+    "en": "Creamer et al. 2013: 2003–04 testing at six Fortaleza Valley sites reports 80 radiocarbon samples with occupations in Late Archaic ~3000–1800 BC."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballete",
+    "site-huaricanga",
+    "site-porvenir",
+    "site-shaura",
+    "site-cerro-blanco-fortaleza"
+  ],
+  "period_ids": [
+    "period-andes-fortaleza-tested"
+  ],
+  "object_ids": [
+    "asm-andes-fortaleza-80-dates"
+  ],
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "asm-andes-shicra-bags",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Shicra（纤维石袋）建造组合",
+    "en": "Shicra (fiber bag) construction assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballete",
+    "site-huaricanga",
+    "site-porvenir",
+    "site-caral"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico",
+    "period-andes-fortaleza-tested"
+  ],
+  "summary": {
+    "zh": "纪念性填筑常用纤维网袋装填卵石；亦为碳十四植物纤维样本来源（Fieldiana 2013）。",
+    "en": "Monumental fills often use fiber bags of cobbles; also yield datable plant fiber (Fieldiana 2013)."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-chupacigarro",
+  "entity": "site",
+  "names": {
+    "zh": "丘帕西加罗（西）",
+    "en": "Chupacigarro (West)",
+    "native": "Chupacigarro"
+  },
+  "kind_note": "Supe Valley preceramic site retaining Chupacigarro name (West); not Caral East",
+  "region": "Supe Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Science 2001：Chupacigarro Grande（西）保留原名；东址更名为卡拉尔。Engel/Zechenter 早期识别脉络。勿与卡拉尔混为同一遗址条目。",
+    "en": "Science 2001: Chupacigarro Grande (West) retains the name; East renamed Caral. Early recognition via Engel/Zechenter. Do not merge with the Caral site record."
+  },
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-engel-begonias-1987",
+    "src-andes-zechenter-supe-1988",
+    "src-andes-shady-caral-social-values-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

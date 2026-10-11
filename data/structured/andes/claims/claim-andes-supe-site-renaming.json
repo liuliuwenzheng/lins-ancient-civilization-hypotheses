@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-supe-site-renaming",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Science 2001：原 Chupacigarro Grande（东）更名为卡拉尔；西址保留 Chupacigarro；Chico→Lurihuasi；Centro→Miraya。",
+    "en": "Science 2001: former Chupacigarro Grande (East) renamed Caral; West retains Chupacigarro; Chico→Lurihuasi; Centro→Miraya."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral",
+    "site-chupacigarro",
+    "site-lurihuasi",
+    "site-miraya"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-shady-caral-social-values-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

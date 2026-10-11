@@ -1,0 +1,34 @@
+{
+  "id": "claim-andes-feldman-aspero-architecture",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Feldman 1980/1985 报告阿斯佩罗公司性平台丘建筑与测年样本语境；建筑动员劳动力为可观察现象，「酋邦/不平等」为解释模型。",
+    "en": "Feldman 1980/1985 reports Aspero corporate platform-mound architecture and radiocarbon contexts; labor mobilization is observable, while “chiefdom/inequality” labels are interpretive models."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-aspero"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andes-aspero-huacas",
+    "asm-andes-aspero-platforms"
+  ],
+  "sources": [
+    "src-andes-feldman-aspero-dissertation-1980",
+    "src-andes-feldman-corporate-architecture-1985",
+    "src-andes-feldman-andean-state-1987"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

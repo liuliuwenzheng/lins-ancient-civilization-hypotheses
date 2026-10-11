@@ -1,0 +1,32 @@
+{
+  "id": "site-lurihuasi",
+  "entity": "site",
+  "names": {
+    "zh": "卢里瓦西",
+    "en": "Lurihuasi",
+    "native": null
+  },
+  "kind_note": "Supe Valley large preceramic center (renamed from Chupacigarro Chico)",
+  "region": "Supe Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "苏佩谷大型前陶中心；Science 2001 注原称 Chupacigarro Chico；PEACS 发掘名录之一；本条不编造出土清单。",
+    "en": "Large Supe preceramic center; Science 2001 notes former name Chupacigarro Chico; on PEACS excavation list; no invented find lists."
+  },
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-shady-caral-social-values-2008",
+    "src-andes-shady-leyva-caral-supe-2003"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "media-sandweiss-pnas-2009",
+  "entity": "media",
+  "title": {
+    "zh": "PNAS 2009 苏佩环境变化论文",
+    "en": "PNAS 2009 Supe environmental-change article"
+  },
+  "media_type": "document-link",
+  "external_url": "https://doi.org/10.1073/pnas.0812645106",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-andes-sandweiss-pnas-2009"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "PNAS",
+    "upstream_url": "https://doi.org/10.1073/pnas.0812645106",
+    "notes": "Outbound DOI only; demise model = hypothesis."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

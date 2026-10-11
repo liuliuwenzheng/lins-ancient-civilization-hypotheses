@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-sandweiss-pnas-2009",
+  "entity": "source",
+  "type": "article",
+  "citation": "Sandweiss, Daniel H.; Shady Solís, Ruth; Moseley, Michael E.; Keefer, David K.; Ortloff, Charles R. 2009. “Environmental Change and Economic Development in Coastal Peru between 5,800 and 3,600 Years Ago.” Proceedings of the National Academy of Sciences 106 (5): 1359–1363. DOI 10.1073/pnas.0812645106.",
+  "url": "https://doi.org/10.1073/pnas.0812645106",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "PNAS 2009; Supe environmental change / demise hypothesis. Contested causal model—hypothesis column. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

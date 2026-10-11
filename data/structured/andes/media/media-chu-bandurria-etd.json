@@ -1,0 +1,33 @@
+{
+  "id": "media-chu-bandurria-etd",
+  "entity": "media",
+  "title": {
+    "zh": "Chu 2011 班杜里亚学位论文（Pitt ETD）",
+    "en": "Chu 2011 Bandurria dissertation (Pitt ETD)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://d-scholarship.pitt.edu/concern/etds/199502b9-f9a8-4877-996c-dede9326eaaa",
+  "local_path": null,
+  "object_ids": [
+    "asm-andes-bandurria-households",
+    "asm-andes-bandurria-mound1-plaza"
+  ],
+  "sources": [
+    "src-andes-chu-bandurria-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "University of Pittsburgh ETD / Alejandro Chu Barrera",
+    "upstream_url": "https://d-scholarship.pitt.edu/concern/etds/199502b9-f9a8-4877-996c-dede9326eaaa",
+    "notes": "Outbound ETD link only; no rehosted PDF."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

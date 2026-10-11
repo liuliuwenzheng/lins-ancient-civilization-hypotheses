@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-quilter-el-paraiso-1991",
+  "entity": "source",
+  "type": "article",
+  "citation": "Quilter, Jeffrey; Ojeda E., Bernardino; Pearsall, Deborah M.; Sandweiss, Daniel H.; Jones, John G.; Wing, Elizabeth S. 1991. “Subsistence Economy of El Paraíso, an Early Peruvian Site.” Science 251 (4991): 277–283. DOI 10.1126/science.251.4991.277.",
+  "url": "https://doi.org/10.1126/science.251.4991.277",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Science 1991; El Paraíso (Chillón) mixed marine–plant subsistence; comparative Preceramic. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

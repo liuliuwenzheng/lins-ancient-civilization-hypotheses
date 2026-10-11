@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-fung-late-preceramic-1988",
+  "entity": "source",
+  "type": "article",
+  "citation": "Fung Pineda, Rosa. 1988. “The Late Preceramic and Initial Period.” In Peruvian Prehistory: An Overview of Pre-Inca and Inca Society, edited by Richard W. Keatinge, 67–96. Cambridge: Cambridge University Press. Translated by Margaret Brown.",
+  "url": "https://ehrafarchaeology.yale.edu/traditions/se40/documents/005",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Keatinge (ed.) 1988 chapter; Late Preceramic synthesis; Bandurria early dates orientation. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

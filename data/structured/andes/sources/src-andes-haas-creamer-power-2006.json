@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-haas-creamer-power-2006",
+  "entity": "source",
+  "type": "article",
+  "citation": "Haas, Jonathan; Creamer, Winifred. 2006. “Crucible of Andean Civilization: The Peruvian Coast from 3000 to 1800 BC.” Current Anthropology 47 (5): 745–775. DOI 10.1086/506281.",
+  "url": "https://doi.org/10.1086/506281",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Current Anthropology 2006; Norte Chico Late Archaic synthesis. Polity/civilization labels = interpretive. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

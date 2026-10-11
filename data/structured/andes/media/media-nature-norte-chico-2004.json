@@ -1,0 +1,32 @@
+{
+  "id": "media-nature-norte-chico-2004",
+  "entity": "media",
+  "title": {
+    "zh": "Nature 2004 北奇科测年论文",
+    "en": "Nature 2004 Norte Chico dating article"
+  },
+  "media_type": "document-link",
+  "external_url": "https://doi.org/10.1038/nature03146",
+  "local_path": null,
+  "object_ids": [
+    "asm-andes-norte-chico-95-dates"
+  ],
+  "sources": [
+    "src-andes-haas-creamer-ruiz-norte-chico-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Nature Publishing Group",
+    "upstream_url": "https://doi.org/10.1038/nature03146",
+    "notes": "Outbound DOI only; confirm DOI matches registered Nature 2004 article."
+  },
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-andes-caballete-u-plaza",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡瓦列特 U 形平台丘—广场布局",
+    "en": "Caballete U-shaped mound–plaza layout"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballete"
+  ],
+  "period_ids": [
+    "period-andes-fortaleza-tested"
+  ],
+  "summary": {
+    "zh": "六座大型平台丘大致 U 形环绕开敞广场（Fieldiana / PNAS）。",
+    "en": "Six large platform mounds in a rough U around an open plaza (Fieldiana / PNAS)."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013",
+    "src-andes-haas-creamer-pnas-maize-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

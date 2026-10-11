@@ -1,0 +1,30 @@
+{
+  "id": "claim-andes-kosok-pativilca-complex",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kosok 1965 据 1940s 调查识别中北部海岸密集石砌平台丘群（常称「Pativilca Complex」），并记录 Chupa Cigarro Grande 几乎无陶片。",
+    "en": "Kosok 1965, from 1940s survey, recognized dense stone platform-mound clusters on the north-central coast (often “Pativilca Complex”) and noted virtual absence of potsherds at Chupa Cigarro Grande."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-kosok-1965",
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "asm-andes-fortaleza-80-dates",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "福塔莱萨试掘碳十四样本组（80）",
+    "en": "Fortaleza testing radiocarbon sample set (80)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballete",
+    "site-huaricanga",
+    "site-porvenir",
+    "site-shaura",
+    "site-cerro-blanco-fortaleza"
+  ],
+  "period_ids": [
+    "period-andes-fortaleza-tested"
+  ],
+  "summary": {
+    "zh": "2003–04 六址试掘；Fieldiana 报告 80 个碳十四样本语境与结果。",
+    "en": "2003–04 testing at six sites; Fieldiana reports contexts and results for 80 radiocarbon samples."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images; sample-level table claims require the report itself."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

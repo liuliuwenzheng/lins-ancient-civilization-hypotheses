@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-engel-begonias-1987",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Engel, Frédéric André. 1987. De las begonias al maíz: vida y producción en el Perú antiguo. Lima: Centro de Investigaciones de Zonas Áridas (CIZA), Universidad Nacional Agraria La Molina.",
+  "url": "https://findit.library.nd.edu/Record/002369176",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "CIZA/UNALM 1987 monograph; early Supe Chupacigarro/Caral Preceramic recognition. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-zechenter-supe-1988",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Zechenter, Elizabeth M. 1988. “Subsistence Strategies in the Supe Valley of the Peruvian Central Coast During the Complex Preceramic and Initial Periods.” Ph.D. dissertation, University of California, Los Angeles. UMI, Ann Arbor, 1989.",
+  "url": "https://open.icm.edu.pl/items/6d12f954-0664-42df-85c5-089a1e852428/full",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "UCLA PhD; Supe Valley subsistence modeling + early inland-site dating; maritime-hypothesis reexamination. Tier P.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}

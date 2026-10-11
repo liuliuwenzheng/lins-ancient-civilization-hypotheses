@@ -1,0 +1,46 @@
+{
+  "id": "asm-andes-sunken-circular-plazas",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "沉陷圆形广场建筑组合",
+    "en": "Sunken circular plaza architectural assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballete",
+    "site-porvenir",
+    "site-bandurria",
+    "site-caral"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "平台丘与沉陷圆形广场配对；Fieldiana：该模式至少可追溯到公元前第三千纪；班杜里亚丘 1 亦见圆形沉陷广场。",
+    "en": "Mound–sunken circular plaza pairing; Fieldiana: present by third millennium BCE; Bandurria Mound 1 likewise has circular sunken plaza."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013",
+    "src-andes-chu-bandurria-boletin-2006",
+    "src-andes-haas-creamer-ruiz-norte-chico-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-andes-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+  }
+}
