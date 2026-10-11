@@ -1,0 +1,23 @@
+---
+id: src-aegean-renfrew-1972
+type: monograph
+citation: "Renfrew, Colin. 1972. The Emergence of Civilisation: The Cyclades and the Aegean in the Third Millennium B.C. London: Methuen. ISBN 0-416-16480-3. xxviii + 595 pp. + plates."
+url: "https://archive.org/details/emergenceofcivil0000unse"
+access_date: "2026-10-11"
+reliability_tier: S
+notes: "Landmark secondary synthesis of 3rd-millennium Aegean culture sequence and process (Cyclades, Crete, mainland). 2009 Oxbow reprint exists with new introduction; this registry cites the 1972 Methuen first edition as the historical scholarly anchor. No invented page numbers."
+---
+
+# Source: `src-aegean-renfrew-1972`
+
+| Field | Value |
+|-------|--------|
+| Type | monograph |
+| Tier | S |
+| Citation | Renfrew, Colin. 1972. The Emergence of Civilisation: The Cyclades and the Aegean in the Third Millennium B.C. London: Methuen. ISBN 0-416-16480-3. xxviii + 595 pp. + plates. |
+| URL | https://archive.org/details/emergenceofcivil0000unse |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Landmark secondary synthesis of 3rd-millennium Aegean culture sequence and process (Cyclades, Crete, mainland). 2009 Oxbow reprint exists with new introduction; this registry cites the 1972 Methuen first edition as the historical scholarly anchor. No invented page numbers.

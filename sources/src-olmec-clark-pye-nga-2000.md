@@ -1,0 +1,23 @@
+---
+id: src-olmec-clark-pye-nga-2000
+type: monograph
+citation: "Clark, John E., and Mary E. Pye, eds. 2000. Olmec Art and Archaeology in Mesoamerica. Studies in the History of Art 58 / Center for Advanced Study in the Visual Arts Symposium Papers XXXV. Washington, DC: National Gallery of Art; distributed by Yale University Press."
+url: "https://www.nga.gov/research/publications/olmec-art-and-archaeology-mesoamerica"
+access_date: "2026-10-11"
+reliability_tier: S
+notes: "Edited symposium volume on Formative Olmec art and archaeology across the heartland and beyond. Specialist chapters (settlement, monuments, interaction) — cite chapter authors for object-level claims; this registry is the volume-level S anchor. No invented page numbers."
+---
+
+# Source: `src-olmec-clark-pye-nga-2000`
+
+| Field | Value |
+|-------|--------|
+| Type | monograph |
+| Tier | S |
+| Citation | Clark, John E., and Mary E. Pye, eds. 2000. Olmec Art and Archaeology in Mesoamerica. Studies in the History of Art 58 / Center for Advanced Study in the Visual Arts Symposium Papers XXXV. Washington, DC: National Gallery of Art; distributed by Yale University Press. |
+| URL | https://www.nga.gov/research/publications/olmec-art-and-archaeology-mesoamerica |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Edited symposium volume on Formative Olmec art and archaeology across the heartland and beyond. Specialist chapters (settlement, monuments, interaction) — cite chapter authors for object-level claims; this registry is the volume-level S anchor. No invented page numbers.

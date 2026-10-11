@@ -1,0 +1,23 @@
+---
+id: src-maya-inomata-ceibal-plateau-2019
+type: article
+citation: "Inomata, Takeshi, Daniela Triadan, Flory Pinzón, and Kazuo Aoyama. 2019. Artificial Plateau Construction during the Preclassic Period at the Maya Site of Ceibal, Guatemala. PLOS ONE 14 (8): e0221943. DOI: 10.1371/journal.pone.0221943."
+url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221943"
+access_date: "2026-10-11"
+reliability_tier: S
+notes: "Open-access peer-reviewed report documenting large artificial plateau construction at Ceibal in the Preclassic, emphasizing horizontal monumental labor alongside (and sometimes before) tall pyramids. Complements the 2013 Science chronology paper. Comparative notes on Cival leveling and El Mirador Danta basal plateau are author comparative framing — cite carefully. No invented page numbers."
+---
+
+# Source: `src-maya-inomata-ceibal-plateau-2019`
+
+| Field | Value |
+|-------|--------|
+| Type | article |
+| Tier | S |
+| Citation | Inomata, Takeshi, Daniela Triadan, Flory Pinzón, and Kazuo Aoyama. 2019. Artificial Plateau Construction during the Preclassic Period at the Maya Site of Ceibal, Guatemala. PLOS ONE 14 (8): e0221943. DOI: 10.1371/journal.pone.0221943. |
+| URL | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221943 |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Open-access peer-reviewed report documenting large artificial plateau construction at Ceibal in the Preclassic, emphasizing horizontal monumental labor alongside (and sometimes before) tall pyramids. Complements the 2013 Science chronology paper. Comparative notes on Cival leveling and El Mirador Danta basal plateau are author comparative framing — cite carefully. No invented page numbers.
