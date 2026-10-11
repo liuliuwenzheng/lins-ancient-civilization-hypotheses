@@ -81,3 +81,9 @@
 **决定：** 中国青铜总览 + 三星堆填实之后，将 `civ-aegean` 由 draft 空壳升为 `library-seed`，作为下一批时间序东地中海 / 欧洲条目（早–晚青铜时代爱琴总览：基克拉泽斯 / 克里特米诺斯 / 大陆迈锡尼）。
 
 **说明：** 登记 Dickinson 1994（剑桥通论；约公元前 3000–1000 年）、Shelmerdine 编 2008（剑桥指南；约公元前 3000–1100 年；克里特/大陆/群岛）、Broodbank 2000（早期基克拉泽斯）、Manning 等 2006 *Science*（圣托里尼公元前 17 世纪晚期；LM IA–II 高年代方案——争议开放）、Evans《米诺斯宫》1921–1935（历史一手；修复须标注）、Blegen & Rawson 1966（涅斯托尔宫 / Englianos P）、Ventris & Chadwick 1956（线性 B = 迈锡尼希腊语）、Salgarella 2022 OCD（线性 A 未破译；仅 T 档定向）。海上霸权（thalassocracy）与高/低绝对年代一律留在 Notes。非单宫专条。不伪造文物图、不编造页码。
+
+### D-2026-10-11-10 — 奥尔梅克 + 早期玛雅为末批中美洲 library-seed（第一批九壳填实完成）
+
+**决定：** 爱琴填实之后，将 `civ-olmec` 与 `civ-early-maya` 由 draft 空壳升为 `library-seed`，作为第一批九个文明空壳的末对中美洲条目。本提交起，**全部九条**首批种子（`civ-mesopotamia`、`civ-ancient-egypt`、`civ-indus-valley`、`civ-china-bronze`、`civ-sanxingdui`、`civ-andes`、`civ-aegean`、`civ-olmec`、`civ-early-maya`）均为 `library-seed`。
+
+**说明：** 奥尔梅克——登记 Pool 2007（剑桥；南韦拉克鲁斯–塔巴斯科形成期；约 3500 年前兴起 / 约千年繁荣；纪念性石雕框架）、Diehl 2004（泰晤士与哈德逊通论；圣洛伦佐 / 拉文塔 / 域外 / 后奥尔梅克目录；书名「最早」仅为出版定位）、Coe & Diehl 1980（圣洛伦佐发掘报告，P 档）、Grove 编 1987（《古代查尔卡钦戈》，高地奥尔梅克风格中心，P 档）、Nichols & Pool 2012（牛津中美洲考古手册取向）。早期玛雅——登记 Sharer & Traxler 2006（第 6 版长时段手册；本条止于早古典）、Estrada-Belli 2011（前古典仪式与权力；纳克贝 / 埃尔米拉多尔 / 西瓦尔；古典期约公元 3 世纪开启）、Inomata 等 2013 *Science*（塞瓦尔约公元前 1000–700 年广场–金字塔 / E 组；区域互动 vs 拉文塔单向扩散）。「母文化 vs 姊妹文化 / 奥尔梅克→玛雅扩散」留在 Notes。古典玛雅「崩溃」明确不在 `civ-early-maya` 范围。`related_ids` 交叉保留并加争议标注。不伪造文物图、不编造页码。

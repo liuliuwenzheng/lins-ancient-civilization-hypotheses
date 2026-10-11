@@ -1,0 +1,23 @@
+---
+id: src-olmec-grove-chalcatzingo-1987
+type: excavation-report
+citation: "Grove, David C., ed. 1987. Ancient Chalcatzingo. Texas Pan American Series. Austin: University of Texas Press. ISBN 0-292-70372-4 (978-0-292-70372-8). viii + 571 pp. (cataloguing varies; hardback)."
+url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp46217"
+access_date: "2026-10-11"
+reliability_tier: P
+notes: "Edited excavation / site monograph on Chalcatzingo (Morelos, highland central Mexico), a Middle Formative center with Olmec-style monumental art outside the Gulf Coast heartland. Cited here as evidence that Olmec-style imagery and interaction networks extend beyond Veracruz–Tabasco — relevant to mother-culture vs sister-cultures / peer-polity debates — without asserting Chalcatzingo was an Olmec colony. Seed uses bibliographic identity and site location only; no invented page or iconographic readings."
+---
+
+# Source: `src-olmec-grove-chalcatzingo-1987`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report (edited site monograph) |
+| Tier | P |
+| Citation | Grove, David C., ed. 1987. *Ancient Chalcatzingo*. University of Texas Press. ISBN 9780292703728. |
+| URL | https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp46217 |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Highlands peer / interaction anchor for Olmec-style Formative Mesoamerica. Keep colony-vs-local-agency readings in Notes / hypotheses.
