@@ -1,0 +1,37 @@
+{
+  "id": "claim-maya-preclassic-urban-florescence",
+  "kind": "fact",
+  "statement": {
+    "zh": "前古典低地存在大型纪念性/城市—仪式复合体（纳克贝、埃尔米拉多尔等），通论中描述为前古典峰值。",
+    "en": "Preclassic lowlands host large monumental / urban–ritual complexes (Nakbe, El Mirador, etc.), described in surveys as Preclassic florescence peaks."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-nakbe",
+    "site-el-mirador",
+    "site-cival"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-maya-estrada-belli-2011",
+    "src-maya-demarest-2004",
+    "src-maya-hansen-nakbe-1998",
+    "src-maya-coe-houston-2015"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

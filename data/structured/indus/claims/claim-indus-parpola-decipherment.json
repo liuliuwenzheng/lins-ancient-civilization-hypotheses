@@ -1,0 +1,32 @@
+{
+  "id": "claim-indus-parpola-decipherment",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Parpola 1994 语标—音节 / 原始达罗毗荼语破译方案不作为本库事实。",
+    "en": "Parpola’s 1994 logo-syllabic / Proto-Dravidian decipherment proposal is not adopted as fact here."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-indus-steatite-seals"
+  ],
+  "sources": [
+    "src-indus-parpola-1994",
+    "src-indus-kenoyer-cambridge-2014"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

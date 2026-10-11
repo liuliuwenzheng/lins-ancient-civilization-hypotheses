@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-marshall-1931",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Marshall, John, ed. 1931. Mohenjo-daro and the Indus Civilization: Being an Official Account of Archaeological Excavations at Mohenjo-daro Carried Out by the Government of India between the Years 1922 and 1927. 3 vols. London: Arthur Probsthain. With plan and map in colours, and 164 plates in collotype.",
+  "url": "https://archive.org/details/in.ernet.dli.2015.62023",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary official excavation account for Mohenjo-daro (1922–1927), edited by Sir John Marshall. Historical P-tier: absolute chronologies and interpretive labels in 1931 text are outdated relative to modern radiocarbon frameworks — use for find contexts and early documentation, not as current absolute dating. Digitized copies on Internet Archive / Digital Library of India (accessed 2026-10-11). No page-level artifact claims beyond the volume’s stated scope in this seed.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-marshall-1931.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

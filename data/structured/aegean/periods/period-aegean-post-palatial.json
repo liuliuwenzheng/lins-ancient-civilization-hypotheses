@@ -1,0 +1,32 @@
+{
+  "id": "period-aegean-post-palatial",
+  "names": {
+    "zh": "宫殿体系崩溃后",
+    "en": "Post-palatial"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "time": {
+    "label": "after palace collapse through ~1100 BCE frame",
+    "approx_from_bce": 1200,
+    "approx_to_bce": 1100,
+    "scheme_note": "Shelmerdine 2008"
+  },
+  "summary": {
+    "zh": "Companion 明确覆盖迈锡尼宫殿体系崩溃之后至约公元前 1100 年。",
+    "en": "Companion explicitly covers the period after Mycenaean palace system collapse through ~1100 BCE."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

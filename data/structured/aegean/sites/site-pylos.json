@@ -1,0 +1,30 @@
+{
+  "id": "site-pylos",
+  "names": {
+    "zh": "皮洛斯（涅斯托尔宫）",
+    "en": "Pylos (Palace of Nestor)",
+    "native": null
+  },
+  "kind_note": "Mycenaean administrative center; Blegen & Rawson 1966",
+  "region": "Englianos, Messenia, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "辛辛那提大学 1952–1964 季；出版说明称公元前 13 世纪末毁于火且未再占用。",
+    "en": "Cincinnati campaigns 1952–1964; fire destruction at end of 13th century B.C. per publisher summary."
+  },
+  "sources": [
+    "src-aegean-blegen-rawson-pylos-1966"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

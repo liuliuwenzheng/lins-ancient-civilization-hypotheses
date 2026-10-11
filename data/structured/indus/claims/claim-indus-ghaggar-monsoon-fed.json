@@ -1,0 +1,29 @@
+{
+  "id": "claim-indus-ghaggar-monsoon-fed",
+  "kind": "fact",
+  "statement": {
+    "zh": "Giosan 等 2012：全新世加加尔–哈克拉为季风补给河流，而非大型冰川补给喜马拉雅河；干旱化与河流景观稳定相关。",
+    "en": "Giosan et al. 2012: Holocene Ghaggar-Hakra rivers were monsoon-fed, not a large glacier-fed Himalayan river; aridification linked to fluvial landscape stabilization."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-indus-giosan-bp-window"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-indus-giosan-pnas-2012"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

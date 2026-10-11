@@ -1,0 +1,33 @@
+{
+  "id": "claim-china-central-plains-frame",
+  "kind": "fact",
+  "statement": {
+    "zh": "本条以二里头考古文化、二里岗、殷墟安阳与商–周青铜礼器传统为中原学术常规框架中心。",
+    "en": "This entry centers Erlitou archaeological culture, Erligang, Anyang/Yinxu Late Shang, and Shang–Zhou ritual bronze traditions as a Central Plains scholarly conventional frame."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou",
+    "site-zhengzhou-erligang",
+    "site-anyang-yinxu"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-campbell-bronze-age-2014",
+    "src-china-bagley-shang-ritual-bronzes-1987"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

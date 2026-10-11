@@ -1,0 +1,33 @@
+{
+  "id": "period-china-erligang",
+  "names": {
+    "zh": "二里岗期",
+    "en": "Erligang period"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "time": {
+    "label": "later segment of ~1900/1800–1250 BC early-state window",
+    "approx_from_bce": 1600,
+    "approx_to_bce": 1400,
+    "scheme_note": "Liu & Chen 2012; Campbell 2014 Erligang chapter"
+  },
+  "summary": {
+    "zh": "早期国家窗后段；Campbell 独立二里岗期章。",
+    "en": "Later early-state window; Campbell’s dedicated Erligang chapter."
+  },
+  "sources": [
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-campbell-bronze-age-2014"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

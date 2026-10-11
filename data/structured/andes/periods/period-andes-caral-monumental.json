@@ -1,0 +1,32 @@
+{
+  "id": "period-andes-caral-monumental",
+  "names": {
+    "zh": "卡拉尔纪念性占用",
+    "en": "Caral monumental occupation"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "time": {
+    "label": "~2627–1977 cal BCE",
+    "approx_from_bce": 2627,
+    "approx_to_bce": 1977,
+    "scheme_note": "Shady, Haas & Creamer 2001 Science"
+  },
+  "summary": {
+    "zh": "卡拉尔纪念性建筑与灌溉农业相关年代约 2627–1977 cal BCE。",
+    "en": "Caral monumental architecture and irrigation agriculture ~2627–1977 cal BCE."
+  },
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "claim-aegean-linear-a-undeciphered",
+  "kind": "fact",
+  "statement": {
+    "zh": "Linear A 在 Salgarella 2022 牛津古典词典条目中仍记为未破译。",
+    "en": "Linear A remains undeciphered per Salgarella 2022 Oxford Classical Dictionary entry."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aegean-linear-a"
+  ],
+  "sources": [
+    "src-aegean-salgarella-linear-a-2022"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

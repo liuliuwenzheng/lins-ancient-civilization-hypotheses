@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-demarest-2004",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Demarest, Arthur A. 2004. Ancient Maya: The Rise and Fall of a Rainforest Civilization. Case Studies in Early Societies. Cambridge; New York: Cambridge University Press. Hardback ISBN 978-0-521-59224-6; paperback ISBN 978-0-521-53390-4.",
+  "url": "https://archive.org/details/ancientmayarisef0000dema",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary Cambridge synthesis. Preclassic florescence treated especially in early chapters (e.g. ‘Obscure Beginnings and the Preclassic Florescence’ in the published TOC). This entry uses Demarest for Preclassic–Early Classic orientation only; Classic collapse chapters are out of scope for civ-early-maya. No invented page numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-demarest-2004.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

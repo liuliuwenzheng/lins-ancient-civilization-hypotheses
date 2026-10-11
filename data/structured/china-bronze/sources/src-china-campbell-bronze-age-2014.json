@@ -1,0 +1,17 @@
+{
+  "id": "src-china-campbell-bronze-age-2014",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Campbell, Roderick B. 2014. Archaeology of the Chinese Bronze Age: From Erlitou to Anyang. Cotsen Institute of Archaeology Press Monographs 79. Los Angeles: Cotsen Institute of Archaeology Press. ISBN 9781931745987 (pb) / 9781938770401 (pdf). 208 pp. Publication date Aug/Sept 2014 (print).",
+  "url": "https://ioa.ucla.edu/press/chinese-bronze",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary Cotsen synthesis of second-millennium BCE Chinese archaeology focused on Central Plains metropolitan centers and wider interaction zones (Yangzi to Mongolian steppe edge; Yellow Sea to Tibetan plateau / Gansu corridor). TOC (UCLA Cotsen, accessed 2026-10-11): Erlitou Period; Erligang Period; Xiaoshuangqiao–Huanbei Period; Anyang Period. Use for urban formations and period labels — no invented site inventories or page metrics.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-campbell-bronze-age-2014.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

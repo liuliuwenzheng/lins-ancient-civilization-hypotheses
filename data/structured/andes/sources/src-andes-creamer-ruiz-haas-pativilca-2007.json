@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-creamer-ruiz-haas-pativilca-2007",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Creamer, Winifred; Ruiz, Alvaro; Haas, Jonathan. 2007. Archaeological Investigation of Late Archaic Sites (3000–1800 B.C.) in the Pativilca Valley, Peru. Fieldiana Anthropology n.s. 40: 1–78. Field Museum of Natural History, Chicago. DOI 10.3158/0071-4739(2007)189[1:AIOLAS]2.0.CO;2.",
+  "url": "https://doi.org/10.3158/0071-4739(2007)189[1:AIOLAS]2.0.CO;2",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Fieldiana Anthropology field report (n.s. 40). Testing at nine Pativilca Valley sites; 44 radiocarbon samples from eight sites; seven occupied ~2740–1870 cal BCE (Late Archaic); Potao sample ~1480 cal BCE (Initial Period). First systematically collected dates for this valley within Norte Chico. Tier P (project excavation/testing report).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-creamer-ruiz-haas-pativilca-2007.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

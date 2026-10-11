@@ -1,0 +1,34 @@
+{
+  "id": "claim-olmec-pottery-export-model",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Blomster et al. 2005 陶器外销模型有已发表批评——作有出处的互动证据，不作帝国叙事。",
+    "en": "Blomster et al. 2005 pottery-export model has published critiques — treat as sourced interaction evidence, not an empire narrative."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "object_ids": [
+    "asm-olmec-style-pottery-exchange"
+  ],
+  "sources": [
+    "src-olmec-blomster-neff-glascock-2005",
+    "src-olmec-pool-2007"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-caral-dates-irrigation",
+  "kind": "fact",
+  "statement": {
+    "zh": "卡拉尔纪念性建筑、城市聚落与灌溉农业相关碳十四约 2627–1977 cal BCE；中心约 65 ha，距海约 23 km。",
+    "en": "Caral radiocarbon places monumental architecture, urban settlement, and irrigation agriculture ~2627–1977 cal BCE; ~65 ha central zone, ~23 km inland."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral"
+  ],
+  "period_ids": [
+    "period-andes-caral-monumental"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

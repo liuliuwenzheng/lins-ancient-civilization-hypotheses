@@ -1,0 +1,33 @@
+{
+  "id": "site-caral",
+  "names": {
+    "zh": "卡拉尔（Caral-Supe）",
+    "en": "Caral (Caral-Supe)",
+    "native": "Caral"
+  },
+  "kind_note": "Keystone large preceramic Supe Valley site; ~65 ha central zone",
+  "region": "Supe Valley, Norte Chico, coastal Peru (~23 km inland)",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "苏佩河谷关键大型前陶遗址；中心约 65 ha；纪念性建筑与灌溉农业约 2627–1977 cal BCE。",
+    "en": "Keystone large preceramic Supe Valley site; ~65 ha central zone; monumental architecture / irrigation agriculture ~2627–1977 cal BCE."
+  },
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-shady-caral-1997",
+    "src-andes-shady-leyva-caral-supe-2003",
+    "src-andes-unesco-caral-2009"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

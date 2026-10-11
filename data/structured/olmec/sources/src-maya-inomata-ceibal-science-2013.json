@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-inomata-ceibal-science-2013",
+  "entity": "source",
+  "type": "article",
+  "citation": "Inomata, Takeshi, Daniela Triadan, Kazuo Aoyama, Victor Castillo, and Hitoshi Yonenobu. 2013. Early Ceremonial Constructions at Ceibal, Guatemala, and the Origins of Lowland Maya Civilization. Science 340 (6131): 467–471. DOI: 10.1126/science.1234493.",
+  "url": "https://www.science.org/doi/10.1126/science.1234493",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Peer-reviewed excavation + radiocarbon report (Ceibal / Seibal, Petén, Guatemala). Abstract and article body (Science / author PDF mirror, accessed 2026-10-11): early Middle Preclassic (1000–700 BCE) plaza-pyramid / E-Group development at Ceibal predates comparable buildings at other lowland Maya sites and major occupations at Olmec La Venta; argues lowland Maya development did not result from one-directional influence from La Venta but from interregional interactions (southwestern Maya lowlands, Chiapas, Pacific Coast, southern Gulf Coast). Site chronology: Real 1 begins ~1000 BCE; Real 2 850–800 BCE; Real 3 ~800–700 BCE; 54 radiocarbon dates with Bayesian modeling. Explicitly frames mother-culture vs limited-influence/peer models as an open scholarly debate. Tier S (journal article reporting primary fieldwork); not a substitute for the full excavation monograph series.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-inomata-ceibal-science-2013.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

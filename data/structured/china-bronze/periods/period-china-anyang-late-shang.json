@@ -1,0 +1,34 @@
+{
+  "id": "period-china-anyang-late-shang",
+  "names": {
+    "zh": "安阳期 / 晚商",
+    "en": "Anyang / Late Shang"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "time": {
+    "label": "~1250–1046 BC",
+    "approx_from_bce": 1250,
+    "approx_to_bce": 1046,
+    "scheme_note": "Liu & Chen 2012 Late Shang chapter; Keightley Wu Ding–Di Xin oracle-bone era"
+  },
+  "summary": {
+    "zh": "晚商及其邻境；甲骨文王室占卜时代。",
+    "en": "Late Shang and neighbors; oracle-bone royal divination era."
+  },
+  "sources": [
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-campbell-bronze-age-2014",
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

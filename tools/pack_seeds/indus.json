@@ -1,0 +1,669 @@
+{
+  "pack": "indus",
+  "title_en": "Indus Valley",
+  "title_zh": "印度河",
+  "civilization": {
+    "id": "civ-indus-valley",
+    "status": "fact-library",
+    "names": {
+      "zh": "印度河",
+      "en": "Indus Valley",
+      "native": "Harappa / Indus Tradition"
+    },
+    "region": "South Asia / NW South Asia — Indus and Ghaggar-Hakra basins (Pakistan and northwest India)",
+    "time_span": "Early Food Producing ~6500–5000 BCE; Regionalization ~5000–2600 BCE; Integration / Mature Harappan ~2600–1900 BCE; Localization ~1900–1300 BCE (Kenoyer 1991)",
+    "summary": {
+      "zh": "南亚西北部印度河传统（Harappan）早期城市社会；主张均挂已登记来源；文字未破译为研究现况。",
+      "en": "Indus Tradition / Harappan urban society of NW South Asia; every major claim tied to registered sources; undeciphered script recorded as research status."
+    },
+    "sources": [
+      "src-indus-kenoyer-1991",
+      "src-indus-wright-2010",
+      "src-indus-kenoyer-cambridge-2014",
+      "src-indus-possehl-2002",
+      "src-indus-marshall-1931",
+      "src-indus-meadow-harappa-1991",
+      "src-indus-kenoyer-1998",
+      "src-indus-mackay-1938",
+      "src-indus-vats-1940",
+      "src-indus-parpola-1994",
+      "src-indus-giosan-pnas-2012",
+      "src-indus-rao-lothal-1979",
+      "src-indus-ratnagar-2004",
+      "src-indus-unesco-moenjodaro-1980",
+      "src-indus-wheeler-1968"
+    ],
+    "related_ids": [
+      "civ-mesopotamia",
+      "civ-ancient-egypt",
+      "civ-aegean"
+    ]
+  },
+  "sites": [
+    {
+      "id": "site-mohenjo-daro",
+      "names": {
+        "zh": "摩亨佐-达罗",
+        "en": "Mohenjo-daro",
+        "native": null
+      },
+      "kind_note": "Southern mega-site; Marshall 1931 / Mackay 1938",
+      "region": "Sindh, Pakistan",
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "summary": {
+        "zh": "南部核心巨型遗址；Marshall 1931（1922–1927）与 Mackay 1938（1927–1931）；1980 年世界遗产登录。",
+        "en": "Southern mega-site; Marshall 1931 and Mackay 1938; UNESCO inscription 1980."
+      },
+      "sources": [
+        "src-indus-marshall-1931",
+        "src-indus-mackay-1938",
+        "src-indus-kenoyer-1991",
+        "src-indus-unesco-moenjodaro-1980"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-harappa",
+      "names": {
+        "zh": "哈拉帕",
+        "en": "Harappa",
+        "native": null
+      },
+      "kind_note": "Northern mega-site; Vats 1940 / Meadow ed. 1991",
+      "region": "Punjab, Pakistan",
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "summary": {
+        "zh": "北部核心巨型遗址；Vats 1940 与 Meadow 编 1991 现代多学科季；约 150 ha 估计（经 Kenoyer）。",
+        "en": "Northern mega-site; Vats 1940 and Meadow ed. 1991; ~150 ha estimate via Kenoyer."
+      },
+      "sources": [
+        "src-indus-vats-1940",
+        "src-indus-meadow-harappa-1991",
+        "src-indus-kenoyer-1991"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-dholavira",
+      "names": {
+        "zh": "陀罗维拉",
+        "en": "Dholavira",
+        "native": null
+      },
+      "kind_note": "Second-tier regional center (~10–50 ha)",
+      "region": "Kutch, India",
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "summary": {
+        "zh": "Kenoyer 综述中的第二层级区域中心；泥砖为主，石材可得处有变通。",
+        "en": "Second-tier regional center in Kenoyer’s survey; mud-brick architecture with stone where available."
+      },
+      "sources": [
+        "src-indus-kenoyer-1991"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-lothal",
+      "names": {
+        "zh": "洛塔尔",
+        "en": "Lothal",
+        "native": null
+      },
+      "kind_note": "ASI memoir site; warehouse sealings and large basin",
+      "region": "Gujarat, India",
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "summary": {
+        "zh": "Rao 1979 ASI 专报（1955–62）；仓库封泥与大型水池——「船坞」标签属发掘者解释。",
+        "en": "Rao 1979 ASI memoir (1955–62); warehouse sealings and large basin — “dock” label is excavator interpretation."
+      },
+      "sources": [
+        "src-indus-rao-lothal-1979",
+        "src-indus-kenoyer-1991"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-kalibangan",
+      "names": {
+        "zh": "卡利班甘",
+        "en": "Kalibangan",
+        "native": null
+      },
+      "kind_note": "Regional center; plowed-field grid cited via Kenoyer",
+      "region": "Rajasthan, India",
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "summary": {
+        "zh": "第二层级中心；Kenoyer 综述引犁耕田垄遗迹。",
+        "en": "Second-tier center; Kenoyer survey cites plowed-field grid evidence."
+      },
+      "sources": [
+        "src-indus-kenoyer-1991"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-rakhigarhi",
+      "names": {
+        "zh": "拉希加里",
+        "en": "Rakhigarhi",
+        "native": null
+      },
+      "kind_note": ">50 ha survey estimate (via Kenoyer citing Mughal)",
+      "region": "Haryana, India",
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "summary": {
+        "zh": "与摩亨佐-达罗、哈拉帕并列的 >50 ha 级聚落（约 80 ha 调查估计）。",
+        "en": "Listed among >50 ha centers (~80 ha survey estimate)."
+      },
+      "sources": [
+        "src-indus-kenoyer-1991"
+      ],
+      "coordinates": null
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-indus-early-food-producing",
+      "names": {
+        "zh": "早期食物生产时代",
+        "en": "Early Food Producing Era"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "time": {
+        "label": "ca. 6500–5000 BCE",
+        "approx_from_bce": 6500,
+        "approx_to_bce": 5000,
+        "scheme_note": "Kenoyer 1991 Table I"
+      },
+      "summary": {
+        "zh": "Kenoyer 1991 Table I 早期食物生产时代。",
+        "en": "Kenoyer 1991 Table I Early Food Producing Era."
+      },
+      "sources": [
+        "src-indus-kenoyer-1991"
+      ]
+    },
+    {
+      "id": "period-indus-regionalization",
+      "names": {
+        "zh": "区域化时代",
+        "en": "Regionalization Era"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "time": {
+        "label": "ca. 5000–2600 BCE",
+        "approx_from_bce": 5000,
+        "approx_to_bce": 2600,
+        "scheme_note": "Kenoyer 1991 Table I"
+      },
+      "summary": {
+        "zh": "含 Early Harappan / Kot Diji 等阶段。",
+        "en": "Includes Early Harappan / Kot Diji phases."
+      },
+      "sources": [
+        "src-indus-kenoyer-1991"
+      ]
+    },
+    {
+      "id": "period-indus-integration",
+      "names": {
+        "zh": "整合时代（成熟哈拉帕）",
+        "en": "Integration Era (Mature Harappan)"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "time": {
+        "label": "2600–1900 BCE",
+        "approx_from_bce": 2600,
+        "approx_to_bce": 1900,
+        "scheme_note": "Kenoyer 1991; Wright 2010 florescence"
+      },
+      "summary": {
+        "zh": "哈拉帕阶段 / 城市繁荣期约 2600–1900 BCE。",
+        "en": "Harappan Phase / urban florescence ~2600–1900 BCE."
+      },
+      "sources": [
+        "src-indus-kenoyer-1991",
+        "src-indus-wright-2010"
+      ]
+    },
+    {
+      "id": "period-indus-localization",
+      "names": {
+        "zh": "地方化时代",
+        "en": "Localization Era"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "time": {
+        "label": "1900–1300 BCE",
+        "approx_from_bce": 1900,
+        "approx_to_bce": 1300,
+        "scheme_note": "Kenoyer 1991 Table I"
+      },
+      "summary": {
+        "zh": "Late Harappan；Cemetery H、Jhukar、Rangpur 等地方名。",
+        "en": "Late Harappan; Cemetery H, Jhukar, Rangpur and related local names."
+      },
+      "sources": [
+        "src-indus-kenoyer-1991"
+      ]
+    },
+    {
+      "id": "period-indus-giosan-bp-window",
+      "names": {
+        "zh": "Giosan 等 BP 窗",
+        "en": "Giosan et al. BP window"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "time": {
+        "label": "Early ~5200–4500 y ago; Mature ~4500–3900 y ago",
+        "approx_from_bce": 3200,
+        "approx_to_bce": 1900,
+        "scheme_note": "Giosan et al. 2012 (BP phrasing; coarse BCE approx)"
+      },
+      "summary": {
+        "zh": "作者摘要：Early/Mature BP 窗与其后去城市化、东移讨论。",
+        "en": "Authors’ Early/Mature BP windows and later deurbanization / eastward shift discussion."
+      },
+      "sources": [
+        "src-indus-giosan-pnas-2012"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-indus-steatite-seals",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "滑石印章与封泥（组合级）",
+        "en": "Steatite seals and sealings (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [
+        "site-mohenjo-daro",
+        "site-harappa",
+        "site-lothal"
+      ],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "summary": {
+        "zh": "整合期标志；短铭文+动物/复合神兽图像；缺乏双语文本。",
+        "en": "Integration Era hallmarks; short inscriptions above animal/composite motifs; no bilingual texts."
+      },
+      "sources": [
+        "src-indus-marshall-1931",
+        "src-indus-mackay-1938",
+        "src-indus-parpola-1994",
+        "src-indus-kenoyer-1991"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged seal images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-indus-cubical-weights",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "立方体石砝码（组合级）",
+        "en": "Cubical stone weights (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [
+        "site-mohenjo-daro"
+      ],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "summary": {
+        "zh": "Marshall 报告重量范围约 0.871–10,865 g；误差极低指示严格控制。",
+        "en": "Marshall’s reported range ~0.871–10,865 g; very low error implies rigid control."
+      },
+      "sources": [
+        "src-indus-marshall-1931",
+        "src-indus-kenoyer-1991"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "Metadata only."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-indus-great-bath-wells-drains",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "大浴场、井与砖衬排水（组合级）",
+        "en": "Great Bath, wells, and brick drains (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [
+        "site-mohenjo-daro"
+      ],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "summary": {
+        "zh": "摩亨佐-达罗城市卫生与水利景观；「大浴场/粮仓」为推测性功能命名。",
+        "en": "Mohenjo-daro urban water landscape; Great Bath/granary labels remain speculative functions."
+      },
+      "sources": [
+        "src-indus-marshall-1931",
+        "src-indus-mackay-1938",
+        "src-indus-kenoyer-1991"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-indus-lothal-warehouse-basin",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "洛塔尔仓库封泥与大型水池（组合级）",
+        "en": "Lothal warehouse sealings and large basin (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [
+        "site-lothal"
+      ],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "summary": {
+        "zh": "仓库封泥与大型水池为关键证据类型；「船坞」属发掘者解释。",
+        "en": "Warehouse sealings and large basin are key evidence types; “dockyard” is excavator interpretation."
+      },
+      "sources": [
+        "src-indus-rao-lothal-1979",
+        "src-indus-kenoyer-1991"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged images."
+      },
+      "media_ids": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-indus-kenoyer-eras",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kenoyer 1991 采用 Tradition/Era/Phase：早期食物生产约 6500–5000、区域化约 5000–2600、整合约 2600–1900、地方化约 1900–1300 BCE。",
+        "en": "Kenoyer 1991 Tradition/Era/Phase frame: Early Food Producing ~6500–5000, Regionalization ~5000–2600, Integration ~2600–1900, Localization ~1900–1300 BCE."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-indus-early-food-producing",
+        "period-indus-regionalization",
+        "period-indus-integration",
+        "period-indus-localization"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-indus-kenoyer-1991",
+        "src-indus-wright-2010"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-script-undeciphered",
+      "kind": "fact",
+      "statement": {
+        "zh": "印度河文字因缺乏双语文本等原因，在学界仍无普遍接受的破译——此为研究现况，非「永不可破」断言。",
+        "en": "Indus script remains without a generally accepted decipherment (no bilingual texts) — research status, not permanent undecipherability."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "object_ids": [
+        "asm-indus-steatite-seals"
+      ],
+      "sources": [
+        "src-indus-kenoyer-cambridge-2014",
+        "src-indus-wright-2010",
+        "src-indus-parpola-1994",
+        "src-indus-kenoyer-1991"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-urban-water",
+      "kind": "fact",
+      "statement": {
+        "zh": "摩亨佐-达罗等整合期城市具有发达的井与排水系统；功能标签（大浴场/粮仓）仍属推测。",
+        "en": "Integration Era cities such as Mohenjo-daro have elaborate wells and drains; functional labels (Great Bath/granaries) remain speculative."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [
+        "site-mohenjo-daro"
+      ],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "object_ids": [
+        "asm-indus-great-bath-wells-drains"
+      ],
+      "sources": [
+        "src-indus-marshall-1931",
+        "src-indus-mackay-1938",
+        "src-indus-kenoyer-1991"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-ghaggar-monsoon-fed",
+      "kind": "fact",
+      "statement": {
+        "zh": "Giosan 等 2012：全新世加加尔–哈克拉为季风补给河流，而非大型冰川补给喜马拉雅河；干旱化与河流景观稳定相关。",
+        "en": "Giosan et al. 2012: Holocene Ghaggar-Hakra rivers were monsoon-fed, not a large glacier-fed Himalayan river; aridification linked to fluvial landscape stabilization."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-indus-giosan-bp-window"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-indus-giosan-pnas-2012"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-meluhha-contact",
+      "kind": "fact",
+      "statement": {
+        "zh": "楔形文字 Meluhha 地名多数学者与印度河区对应；海湾与两河语境有哈拉帕风格器物——路线级细节须专文。",
+        "en": "Cuneiform Meluhha is widely linked to the Indus region; Harappan-style objects appear in Gulf/Mesopotamian contexts — route-level detail needs dedicated entries."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-indus-kenoyer-1991",
+        "src-indus-wright-2010",
+        "src-indus-ratnagar-2004"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-empire-vs-network",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "整合期政治形态是否最好标为领土「帝国」、城市—区域网络或「国家」仍属开放争议；事实栏只描述城市与标准化证据。",
+        "en": "Whether the Integration Era is best labeled territorial “empire,” city–regional network, or “state” remains open; fact columns describe urbanism and standardization only."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-indus-kenoyer-1991",
+        "src-indus-possehl-2002",
+        "src-indus-ratnagar-2004"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-indus-lothal-dock",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "洛塔尔大型水池的「船坞」认定属发掘者解释；存在水库等替代读法。",
+        "en": "Rao’s “dockyard” identification of the Lothal basin is excavator interpretation; alternative reservoir readings exist."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [
+        "site-lothal"
+      ],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "object_ids": [
+        "asm-indus-lothal-warehouse-basin"
+      ],
+      "sources": [
+        "src-indus-rao-lothal-1979",
+        "src-indus-kenoyer-1991"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-indus-parpola-decipherment",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "Parpola 1994 语标—音节 / 原始达罗毗荼语破译方案不作为本库事实。",
+        "en": "Parpola’s 1994 logo-syllabic / Proto-Dravidian decipherment proposal is not adopted as fact here."
+      },
+      "civilization_ids": [
+        "civ-indus-valley"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-indus-integration"
+      ],
+      "object_ids": [
+        "asm-indus-steatite-seals"
+      ],
+      "sources": [
+        "src-indus-parpola-1994",
+        "src-indus-kenoyer-cambridge-2014"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    }
+  ],
+  "media": [
+    {
+      "id": "media-unesco-moenjodaro",
+      "title": {
+        "zh": "教科文摩亨佐-达罗世界遗产条目",
+        "en": "UNESCO Moenjodaro World Heritage listing"
+      },
+      "media_type": "document-link",
+      "external_url": "https://whc.unesco.org/en/list/138/",
+      "local_path": null,
+      "object_ids": [],
+      "sources": [
+        "src-indus-unesco-moenjodaro-1980"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": "UNESCO World Heritage Centre",
+        "upstream_url": "https://whc.unesco.org/en/list/138/",
+        "notes": "Heritage title ≠ archaeological verdict."
+      }
+    },
+    {
+      "id": "media-marshall-mohenjo-daro-archive",
+      "title": {
+        "zh": "Marshall 摩亨佐-达罗报告数字化入口",
+        "en": "Marshall Mohenjo-daro report digitization entry"
+      },
+      "media_type": "document-link",
+      "external_url": "https://archive.org/details/in.ernet.dli.2015.62023",
+      "local_path": null,
+      "object_ids": [
+        "asm-indus-steatite-seals",
+        "asm-indus-great-bath-wells-drains"
+      ],
+      "sources": [
+        "src-indus-marshall-1931"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": "Internet Archive / ASI memoir digitization",
+        "upstream_url": "https://archive.org/details/in.ernet.dli.2015.62023",
+        "notes": "Outbound document digitization only."
+      }
+    }
+  ]
+}

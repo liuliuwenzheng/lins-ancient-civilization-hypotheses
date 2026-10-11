@@ -1,0 +1,30 @@
+{
+  "id": "claim-olmec-mother-culture",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "「中美洲母文化」vs「姊妹文化 / 同侪互动」仍属开放争议；Diehl 书名 primacy 语言不采纳为事实。",
+    "en": "“Mother culture of Mesoamerica” vs sister cultures / peer interaction remains open debate; Diehl title primacy language is not adopted as fact."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004",
+    "src-olmec-clark-pye-nga-2000",
+    "src-mesoamerica-nichols-pool-handbook-2012"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

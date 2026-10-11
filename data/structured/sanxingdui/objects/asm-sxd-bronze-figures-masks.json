@@ -1,0 +1,43 @@
+{
+  "id": "asm-sxd-bronze-figures-masks",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "青铜大型雕像、人像头、面具（组合级）",
+    "en": "Large bronze figures, heads, masks (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator"
+  ],
+  "summary": {
+    "zh": "二号坑等出土立人、面具是最显著视觉标志；Xu 2001 与 Bagley 英语类型学入口。",
+    "en": "Large figures, heads, and masks are the hallmark visual corpus; Xu 2001 and Bagley orient typology."
+  },
+  "sources": [
+    "src-sanxingdui-xu-bronze-2001",
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-bagley-ancient-sichuan-2001"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged artifact images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

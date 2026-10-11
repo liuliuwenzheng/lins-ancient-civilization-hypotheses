@@ -1,0 +1,30 @@
+{
+  "id": "media-evans-palace-of-minos-heidelberg",
+  "title": {
+    "zh": "Evans《米诺斯宫》海德堡数字化入口",
+    "en": "Evans Palace of Minos Heidelberg digitization entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://digi.ub.uni-heidelberg.de/diglit/evans1921ga",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-aegean-evans-palace-of-minos-1921"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Heidelberg University Library digitization",
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/evans1921ga",
+    "notes": "Historical primary publication; restoration caveats apply. Outbound only."
+  },
+  "entity": "media",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

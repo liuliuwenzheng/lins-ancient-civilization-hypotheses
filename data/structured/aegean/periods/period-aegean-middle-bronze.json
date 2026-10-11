@@ -1,0 +1,33 @@
+{
+  "id": "period-aegean-middle-bronze",
+  "names": {
+    "zh": "中青铜",
+    "en": "Middle Bronze Age"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "time": {
+    "label": "Middle Bronze / MM–MH (relative chronology via Warren & Hankey)",
+    "approx_from_bce": 2000,
+    "approx_to_bce": 1700,
+    "scheme_note": "Warren & Hankey 1989; Shelmerdine 2008"
+  },
+  "summary": {
+    "zh": "含 MM、MH；相对年代与埃及同步见 Warren & Hankey。",
+    "en": "Includes MM, MH; relative chronology and Egypt synchronisms via Warren & Hankey."
+  },
+  "sources": [
+    "src-aegean-warren-hankey-1989",
+    "src-aegean-shelmerdine-companion-2008"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

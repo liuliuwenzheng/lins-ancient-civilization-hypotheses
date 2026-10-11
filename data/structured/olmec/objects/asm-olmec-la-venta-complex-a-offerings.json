@@ -1,0 +1,44 @@
+{
+  "id": "asm-olmec-la-venta-complex-a-offerings",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉文塔 Complex A 埋藏供奉（组合级）",
+    "en": "La Venta Complex A buried offerings (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-la-venta"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "1955 年发掘报告中的仪式建筑序列、玉器等埋藏供奉与土墩/金字塔规划。",
+    "en": "Ritual architectural sequences, jade and other buried offerings, and mound/pyramid planning from the 1955 report."
+  },
+  "sources": [
+    "src-olmec-drucker-heizer-squier-1959",
+    "src-olmec-drucker-la-venta-1952"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://repository.si.edu/handle/10088/15464",
+    "notes": "Outbound report only."
+  },
+  "media_ids": [
+    "media-la-venta-1955-si"
+  ],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

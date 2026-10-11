@@ -1,0 +1,30 @@
+{
+  "id": "claim-sxd-ancient-shu-title",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "教科文预备名单「古蜀国考古遗址」为申报标题用语；预备名单≠已列入世界遗产，亦不等于政体定论。",
+    "en": "UNESCO Tentative List “Ancient Shu State” is nomination wording; tentative ≠ inscribed, and is not a polity verdict."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui",
+    "site-jinsha-comparative"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-unesco-tentative-2013"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

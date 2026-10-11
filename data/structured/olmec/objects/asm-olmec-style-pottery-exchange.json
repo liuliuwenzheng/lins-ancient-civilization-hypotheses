@@ -1,0 +1,43 @@
+{
+  "id": "asm-olmec-style-pottery-exchange",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "奥尔梅克风格陶器交流证据（组合级）",
+    "en": "Olmec-style pottery exchange evidence (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-chalcatzingo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "summary": {
+    "zh": "Blomster et al. 2005 化学成分论证海湾陶器生产与外销；有已发表批评——作互动证据而非帝国叙事。",
+    "en": "Blomster et al. 2005 compositional study of Gulf pottery production and export; published critiques exist — treat as interaction evidence, not empire narrative."
+  },
+  "sources": [
+    "src-olmec-blomster-neff-glascock-2005",
+    "src-olmec-pool-2007"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.science.org/doi/10.1126/science.1107599",
+    "notes": "No forged pottery images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

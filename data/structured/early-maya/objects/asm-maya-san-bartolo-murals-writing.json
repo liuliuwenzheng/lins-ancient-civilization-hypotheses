@@ -1,0 +1,43 @@
+{
+  "id": "asm-maya-san-bartolo-murals-writing",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "圣巴托洛壁画与早期文字（组合级）",
+    "en": "San Bartolo murals and early writing (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-san-bartolo"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "晚前古典壁画与早期文字；Saturno et al. 2006 Science 研究现况事实。",
+    "en": "Late Preclassic murals and early writing; research-status fact within Saturno et al. 2006 Science."
+  },
+  "sources": [
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.science.org/doi/10.1126/science.1121745",
+    "notes": "No forged mural images hosted."
+  },
+  "media_ids": [
+    "media-san-bartolo-science-2006"
+  ],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

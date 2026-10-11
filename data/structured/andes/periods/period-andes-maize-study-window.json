@@ -1,0 +1,32 @@
+{
+  "id": "period-andes-maize-study-window",
+  "names": {
+    "zh": "PNAS 玉米分析窗",
+    "en": "Maize-study analysis window"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "time": {
+    "label": "~4100–1800 cal BCE",
+    "approx_from_bce": 4100,
+    "approx_to_bce": 1800,
+    "scheme_note": "Haas et al. 2013 PNAS"
+  },
+  "summary": {
+    "zh": "126 个年代落入约 4100–1800 cal BCE。",
+    "en": "126 dates fall ~4100–1800 cal BCE."
+  },
+  "sources": [
+    "src-andes-haas-creamer-pnas-maize-2013"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

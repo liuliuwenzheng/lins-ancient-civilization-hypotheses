@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-sun-hua-cultures-2003",
+  "entity": "source",
+  "type": "article",
+  "citation": "Sun, Hua. 2003. “Defining the Archaeological Cultures at the Sanxingdui Site.” Journal of East Asian Archaeology 5 (1–4): 149–190. DOI 10.1163/156852303776172953 (where registered).",
+  "url": "https://brill.com/view/journals/jeaa/5/1-4/article-p149_6.xml",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Peer-reviewed JEAA article on Sanxingdui site periodization via stratigraphy and pottery typology. Argues Sanxingdui Culture spans Phases II–IV and discusses early Shi’erqiao remains contemporary with Phase IV (per abstract/secondary bibliographies). Use for culture/phase labeling — absolute BCE endpoints remain debated and should be cross-checked with Li et al. 2022 / Wu et al. 2021.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-sun-hua-cultures-2003.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

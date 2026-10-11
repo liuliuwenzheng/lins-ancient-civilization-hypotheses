@@ -1,0 +1,31 @@
+{
+  "id": "site-mycenae",
+  "names": {
+    "zh": "迈锡尼",
+    "en": "Mycenae",
+    "native": null
+  },
+  "kind_note": "Type-site of Mycenaean culture",
+  "region": "Argolid, Greek mainland",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "大陆迈锡尼文化名址；Wace 1949 发掘史与遗址指南。",
+    "en": "Type-site of Mycenaean culture; Wace 1949 excavation history/guide."
+  },
+  "sources": [
+    "src-aegean-wace-mycenae-1949",
+    "src-aegean-dickinson-1994"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

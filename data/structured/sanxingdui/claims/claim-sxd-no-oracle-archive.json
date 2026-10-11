@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-no-oracle-archive",
+  "kind": "fact",
+  "statement": {
+    "zh": "与晚商安阳甲骨文传统不同，三星堆目前没有可与甲骨文比肩的、已系统释读的本遗址文字档案。",
+    "en": "Unlike Late Shang Anyang oracle bones, Sanxingdui currently lacks a systematically readable local writing archive comparable to jiaguwen."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-xu-bronze-2001",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "period-maya-middle-preclassic",
+  "names": {
+    "zh": "中前古典",
+    "en": "Middle Preclassic"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "time": {
+    "label": "Middle Preclassic monumental florescence (Nakbe and peers)",
+    "approx_from_bce": 800,
+    "approx_to_bce": 400,
+    "scheme_note": "Hansen 1998; Estrada-Belli 2011"
+  },
+  "summary": {
+    "zh": "纳克贝等米拉多尔盆地中前古典大型建筑发展。",
+    "en": "Middle Preclassic monumental architecture at Nakbe and Mirador Basin peers."
+  },
+  "sources": [
+    "src-maya-hansen-nakbe-1998",
+    "src-maya-estrada-belli-2011"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

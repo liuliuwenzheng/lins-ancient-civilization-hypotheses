@@ -1,0 +1,29 @@
+{
+  "id": "claim-aegean-frame-3000-1100",
+  "kind": "fact",
+  "statement": {
+    "zh": "Shelmerdine Companion 将爱琴青铜时代范围写为约公元前 3000–1100 年的克里特、希腊与爱琴诸岛。",
+    "en": "Shelmerdine’s Companion covers Crete, Greece, and the Aegean Islands from c. 3000–1100 BCE."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

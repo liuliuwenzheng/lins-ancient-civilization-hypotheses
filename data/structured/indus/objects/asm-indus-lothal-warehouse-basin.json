@@ -1,0 +1,42 @@
+{
+  "id": "asm-indus-lothal-warehouse-basin",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "洛塔尔仓库封泥与大型水池（组合级）",
+    "en": "Lothal warehouse sealings and large basin (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-lothal"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "仓库封泥与大型水池为关键证据类型；「船坞」属发掘者解释。",
+    "en": "Warehouse sealings and large basin are key evidence types; “dockyard” is excavator interpretation."
+  },
+  "sources": [
+    "src-indus-rao-lothal-1979",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

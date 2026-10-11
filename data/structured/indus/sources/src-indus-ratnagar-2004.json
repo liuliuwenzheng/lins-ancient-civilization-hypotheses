@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-ratnagar-2004",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Ratnagar, Shereen. 2004. Trading Encounters: From the Euphrates to the Indus in the Bronze Age. New Delhi: Oxford University Press. ISBN 0195666038. (Oxford India Collection paperback reprint 2006, ISBN 019568088X.)",
+  "url": "https://search.library.wisc.edu/catalog/999975636102121",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary monograph on Bronze Age west–east trade (Mesopotamia–Gulf–Indus). Catalog metadata confirms 2004 OUP India edition. Use for orientation on Meluhha / Indus–Mesopotamia contact debates, goods, and seals as scholarly framing. Do not assert specific tonnage routes or political ‘empire’ from this source without page verification. Political-organization arguments in Ratnagar’s other work remain contested — keep empire/state labels in civilization Notes.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-ratnagar-2004.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

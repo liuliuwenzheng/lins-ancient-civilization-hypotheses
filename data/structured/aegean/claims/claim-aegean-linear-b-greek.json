@@ -1,0 +1,34 @@
+{
+  "id": "claim-aegean-linear-b-greek",
+  "kind": "fact",
+  "statement": {
+    "zh": "Linear B 经 Ventris & Chadwick 确立为记录迈锡尼希腊语的音节文字行政文书。",
+    "en": "Linear B is established by Ventris & Chadwick as a syllabic administrative script recording Mycenaean Greek."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "object_ids": [
+    "asm-aegean-linear-b-tablets"
+  ],
+  "sources": [
+    "src-aegean-ventris-chadwick-1956",
+    "src-aegean-chadwick-1976"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

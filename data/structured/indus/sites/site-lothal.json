@@ -1,0 +1,31 @@
+{
+  "id": "site-lothal",
+  "names": {
+    "zh": "洛塔尔",
+    "en": "Lothal",
+    "native": null
+  },
+  "kind_note": "ASI memoir site; warehouse sealings and large basin",
+  "region": "Gujarat, India",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Rao 1979 ASI 专报（1955–62）；仓库封泥与大型水池——「船坞」标签属发掘者解释。",
+    "en": "Rao 1979 ASI memoir (1955–62); warehouse sealings and large basin — “dock” label is excavator interpretation."
+  },
+  "sources": [
+    "src-indus-rao-lothal-1979",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

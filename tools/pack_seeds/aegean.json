@@ -1,0 +1,514 @@
+{
+  "pack": "aegean",
+  "title_en": "Aegean",
+  "title_zh": "爱琴",
+  "civilization": {
+    "id": "civ-aegean",
+    "status": "fact-library",
+    "names": {
+      "zh": "爱琴",
+      "en": "Aegean",
+      "native": "Cycladic / Minoan / Mycenaean (scholarly labels)"
+    },
+    "region": "Europe / Eastern Mediterranean — Aegean Sea region (Cyclades, Crete, Greek mainland)",
+    "time_span": "ca. 3000–1100 BCE (Shelmerdine 2008); Dickinson/Cline ~3000–1000 BC",
+    "summary": {
+      "zh": "爱琴青铜时代常规框架：基克拉泽斯、克里特米诺斯与大陆迈锡尼；Linear A 未破译；高/低年代仍开放。",
+      "en": "Conventional Aegean Bronze Age frame (Cyclades / Minoan Crete / Mycenaean mainland); Linear A undeciphered; high vs low chronology open."
+    },
+    "sources": [
+      "src-aegean-shelmerdine-companion-2008",
+      "src-aegean-dickinson-1994",
+      "src-aegean-broodbank-cyclades-2000",
+      "src-aegean-manning-science-2006",
+      "src-aegean-evans-palace-of-minos-1921",
+      "src-aegean-blegen-rawson-pylos-1966",
+      "src-aegean-ventris-chadwick-1956",
+      "src-aegean-salgarella-linear-a-2022",
+      "src-aegean-renfrew-1972",
+      "src-aegean-warren-hankey-1989",
+      "src-aegean-chadwick-1976",
+      "src-aegean-doumas-thera-1983",
+      "src-aegean-wace-mycenae-1949",
+      "src-aegean-cline-oxford-handbook-2010"
+    ],
+    "related_ids": [
+      "civ-mesopotamia",
+      "civ-ancient-egypt"
+    ]
+  },
+  "sites": [
+    {
+      "id": "site-knossos",
+      "names": {
+        "zh": "克诺索斯",
+        "en": "Knossos",
+        "native": null
+      },
+      "kind_note": "Keystone Cretan palatial site; Evans with restoration caveats",
+      "region": "Crete, Greece",
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "summary": {
+        "zh": "克里特关键宫室遗址；Evans《米诺斯宫》须标注修复局限并以现代综合交叉核对。",
+        "en": "Keystone Cretan palatial site; Evans Palace of Minos requires restoration caveats and modern cross-check."
+      },
+      "sources": [
+        "src-aegean-evans-palace-of-minos-1921",
+        "src-aegean-dickinson-1994",
+        "src-aegean-shelmerdine-companion-2008"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-mycenae",
+      "names": {
+        "zh": "迈锡尼",
+        "en": "Mycenae",
+        "native": null
+      },
+      "kind_note": "Type-site of Mycenaean culture",
+      "region": "Argolid, Greek mainland",
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "summary": {
+        "zh": "大陆迈锡尼文化名址；Wace 1949 发掘史与遗址指南。",
+        "en": "Type-site of Mycenaean culture; Wace 1949 excavation history/guide."
+      },
+      "sources": [
+        "src-aegean-wace-mycenae-1949",
+        "src-aegean-dickinson-1994"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-pylos",
+      "names": {
+        "zh": "皮洛斯（涅斯托尔宫）",
+        "en": "Pylos (Palace of Nestor)",
+        "native": null
+      },
+      "kind_note": "Mycenaean administrative center; Blegen & Rawson 1966",
+      "region": "Englianos, Messenia, Greece",
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "summary": {
+        "zh": "辛辛那提大学 1952–1964 季；出版说明称公元前 13 世纪末毁于火且未再占用。",
+        "en": "Cincinnati campaigns 1952–1964; fire destruction at end of 13th century B.C. per publisher summary."
+      },
+      "sources": [
+        "src-aegean-blegen-rawson-pylos-1966"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-akrotiri",
+      "names": {
+        "zh": "阿克罗蒂里（Thera）",
+        "en": "Akrotiri (Thera)",
+        "native": null
+      },
+      "kind_note": "LBA urban settlement preserved by volcanic eruption",
+      "region": "Thera / Santorini, Cyclades",
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "summary": {
+        "zh": "晚青铜城市型聚落因火山喷发埋藏保存；Doumas 1983；喷发绝对年代有争议。",
+        "en": "LBA urban settlement preserved by eruption; Doumas 1983; absolute eruption date debated."
+      },
+      "sources": [
+        "src-aegean-doumas-thera-1983",
+        "src-aegean-manning-science-2006"
+      ],
+      "coordinates": null
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-aegean-early-bronze",
+      "names": {
+        "zh": "早青铜",
+        "en": "Early Bronze Age"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "time": {
+        "label": "from ~3000 BCE (Companion/Dickinson/Cline front segment)",
+        "approx_from_bce": 3000,
+        "approx_to_bce": 2000,
+        "scheme_note": "Shelmerdine 2008; Dickinson 1994; Renfrew 1972; Cline 2010"
+      },
+      "summary": {
+        "zh": "含基克拉泽斯 EC、克里特 EM、大陆 EH；第三千纪序列见 Renfrew。",
+        "en": "Includes Cycladic EC, Cretan EM, mainland EH; third-millennium sequence via Renfrew."
+      },
+      "sources": [
+        "src-aegean-shelmerdine-companion-2008",
+        "src-aegean-dickinson-1994",
+        "src-aegean-renfrew-1972",
+        "src-aegean-cline-oxford-handbook-2010"
+      ]
+    },
+    {
+      "id": "period-aegean-middle-bronze",
+      "names": {
+        "zh": "中青铜",
+        "en": "Middle Bronze Age"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "time": {
+        "label": "Middle Bronze / MM–MH (relative chronology via Warren & Hankey)",
+        "approx_from_bce": 2000,
+        "approx_to_bce": 1700,
+        "scheme_note": "Warren & Hankey 1989; Shelmerdine 2008"
+      },
+      "summary": {
+        "zh": "含 MM、MH；相对年代与埃及同步见 Warren & Hankey。",
+        "en": "Includes MM, MH; relative chronology and Egypt synchronisms via Warren & Hankey."
+      },
+      "sources": [
+        "src-aegean-warren-hankey-1989",
+        "src-aegean-shelmerdine-companion-2008"
+      ]
+    },
+    {
+      "id": "period-aegean-lm-ia-thera",
+      "names": {
+        "zh": "晚米诺斯 IA / Thera 视界",
+        "en": "LM IA / Thera horizon"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "time": {
+        "label": "Thera eruption late 17th c. BCE (Manning) vs traditional low chronology (Warren & Hankey)",
+        "approx_from_bce": 1700,
+        "approx_to_bce": 1500,
+        "scheme_note": "Manning et al. 2006 vs Warren & Hankey 1989 — high/low open"
+      },
+      "summary": {
+        "zh": "与圣托里尼喷发关联的关键视界；高/低年代仍开放。",
+        "en": "Key horizon linked to Thera eruption; high vs low chronology remains open."
+      },
+      "sources": [
+        "src-aegean-manning-science-2006",
+        "src-aegean-warren-hankey-1989",
+        "src-aegean-doumas-thera-1983"
+      ]
+    },
+    {
+      "id": "period-aegean-mycenaean-palatial",
+      "names": {
+        "zh": "迈锡尼宫殿期",
+        "en": "Mycenaean palatial LH"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "time": {
+        "label": "later 2nd millennium; Linear B administrative era; Pylos end 13th c. BCE",
+        "approx_from_bce": 1400,
+        "approx_to_bce": 1200,
+        "scheme_note": "Chadwick 1976; Ventris & Chadwick 1956; Blegen & Rawson 1966"
+      },
+      "summary": {
+        "zh": "Linear B 行政文书时代；皮洛斯毁于公元前 13 世纪末。",
+        "en": "Linear B administrative era; Pylos destroyed end of 13th century B.C."
+      },
+      "sources": [
+        "src-aegean-chadwick-1976",
+        "src-aegean-ventris-chadwick-1956",
+        "src-aegean-blegen-rawson-pylos-1966"
+      ]
+    },
+    {
+      "id": "period-aegean-post-palatial",
+      "names": {
+        "zh": "宫殿体系崩溃后",
+        "en": "Post-palatial"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "time": {
+        "label": "after palace collapse through ~1100 BCE frame",
+        "approx_from_bce": 1200,
+        "approx_to_bce": 1100,
+        "scheme_note": "Shelmerdine 2008"
+      },
+      "summary": {
+        "zh": "Companion 明确覆盖迈锡尼宫殿体系崩溃之后至约公元前 1100 年。",
+        "en": "Companion explicitly covers the period after Mycenaean palace system collapse through ~1100 BCE."
+      },
+      "sources": [
+        "src-aegean-shelmerdine-companion-2008"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-aegean-linear-b-tablets",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "Linear B 泥板（组合级）",
+        "en": "Linear B tablets (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [
+        "site-pylos",
+        "site-knossos"
+      ],
+      "period_ids": [
+        "period-aegean-mycenaean-palatial"
+      ],
+      "summary": {
+        "zh": "迈锡尼希腊语音节文字行政文书；Ventris & Chadwick 1956；皮洛斯档案语境。",
+        "en": "Mycenaean Greek administrative syllabic script; Ventris & Chadwick 1956; Pylos archive context."
+      },
+      "sources": [
+        "src-aegean-ventris-chadwick-1956",
+        "src-aegean-blegen-rawson-pylos-1966",
+        "src-aegean-chadwick-1976"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged tablet images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-aegean-linear-a",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "Linear A 文书与印章（组合级）",
+        "en": "Linear A documents and seals (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [
+        "site-knossos"
+      ],
+      "period_ids": [
+        "period-aegean-middle-bronze",
+        "period-aegean-lm-ia-thera"
+      ],
+      "summary": {
+        "zh": "约公元前 1800–1450，主要见于克里特；Salgarella 2022 记为未破译。",
+        "en": "c. 1800–1450 BCE, mainly Crete; undeciphered per Salgarella 2022."
+      },
+      "sources": [
+        "src-aegean-salgarella-linear-a-2022"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "Undeciphered; no forged images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-aegean-akrotiri-architecture-frescoes",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "阿克罗蒂里建筑与壁画（组合级）",
+        "en": "Akrotiri architecture and frescoes (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [
+        "site-akrotiri"
+      ],
+      "period_ids": [
+        "period-aegean-lm-ia-thera"
+      ],
+      "summary": {
+        "zh": "火山埋藏保存的城镇规划与壁画装饰房屋。",
+        "en": "Town planning and frescoed houses preserved by volcanic burial."
+      },
+      "sources": [
+        "src-aegean-doumas-thera-1983"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged fresco images hosted."
+      },
+      "media_ids": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-aegean-frame-3000-1100",
+      "kind": "fact",
+      "statement": {
+        "zh": "Shelmerdine Companion 将爱琴青铜时代范围写为约公元前 3000–1100 年的克里特、希腊与爱琴诸岛。",
+        "en": "Shelmerdine’s Companion covers Crete, Greece, and the Aegean Islands from c. 3000–1100 BCE."
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aegean-shelmerdine-companion-2008",
+        "src-aegean-dickinson-1994",
+        "src-aegean-cline-oxford-handbook-2010"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-linear-b-greek",
+      "kind": "fact",
+      "statement": {
+        "zh": "Linear B 经 Ventris & Chadwick 确立为记录迈锡尼希腊语的音节文字行政文书。",
+        "en": "Linear B is established by Ventris & Chadwick as a syllabic administrative script recording Mycenaean Greek."
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [
+        "site-pylos"
+      ],
+      "period_ids": [
+        "period-aegean-mycenaean-palatial"
+      ],
+      "object_ids": [
+        "asm-aegean-linear-b-tablets"
+      ],
+      "sources": [
+        "src-aegean-ventris-chadwick-1956",
+        "src-aegean-chadwick-1976"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-linear-a-undeciphered",
+      "kind": "fact",
+      "statement": {
+        "zh": "Linear A 在 Salgarella 2022 牛津古典词典条目中仍记为未破译。",
+        "en": "Linear A remains undeciphered per Salgarella 2022 Oxford Classical Dictionary entry."
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [
+        "asm-aegean-linear-a"
+      ],
+      "sources": [
+        "src-aegean-salgarella-linear-a-2022"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-pylos-destruction",
+      "kind": "fact",
+      "statement": {
+        "zh": "Blegen & Rawson 1966 出版说明称皮洛斯迈锡尼行政中心在公元前 13 世纪末毁于火且未再占用。",
+        "en": "Blegen & Rawson 1966 publisher summary states the Mycenaean administrative center at Pylos was destroyed by fire at the end of the 13th century B.C. and not reoccupied."
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [
+        "site-pylos"
+      ],
+      "period_ids": [
+        "period-aegean-mycenaean-palatial"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aegean-blegen-rawson-pylos-1966"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-high-low-chronology",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "Manning 等 2006 主张圣托里尼喷发在公元前 17 世纪晚期并使 LM IA–II 相对传统年代拉长约百年；Warren & Hankey 代表传统低年代——高/低年代仍开放。",
+        "en": "Manning et al. 2006 argue a late-17th-century BCE Thera eruption and stretched LM IA–II; Warren & Hankey represent traditional low chronology — high vs low remains open."
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [
+        "site-akrotiri"
+      ],
+      "period_ids": [
+        "period-aegean-lm-ia-thera"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aegean-manning-science-2006",
+        "src-aegean-warren-hankey-1989",
+        "src-aegean-doumas-thera-1983"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-aegean-minoan-thalassocracy",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "「米诺斯海上霸权 / thalassocracy」作为解释模型有历史影响但受争议，不作定论。",
+        "en": "Minoan “thalassocracy” is a historically influential but contested interpretive model, not settled fact."
+      },
+      "civilization_ids": [
+        "civ-aegean"
+      ],
+      "site_ids": [
+        "site-knossos"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aegean-evans-palace-of-minos-1921",
+        "src-aegean-dickinson-1994"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    }
+  ],
+  "media": [
+    {
+      "id": "media-evans-palace-of-minos-heidelberg",
+      "title": {
+        "zh": "Evans《米诺斯宫》海德堡数字化入口",
+        "en": "Evans Palace of Minos Heidelberg digitization entry"
+      },
+      "media_type": "document-link",
+      "external_url": "https://digi.ub.uni-heidelberg.de/diglit/evans1921ga",
+      "local_path": null,
+      "object_ids": [],
+      "sources": [
+        "src-aegean-evans-palace-of-minos-1921"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": "Heidelberg University Library digitization",
+        "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/evans1921ga",
+        "notes": "Historical primary publication; restoration caveats apply. Outbound only."
+      }
+    }
+  ]
+}

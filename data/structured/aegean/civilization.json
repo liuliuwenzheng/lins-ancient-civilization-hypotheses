@@ -1,0 +1,72 @@
+{
+  "id": "civ-aegean",
+  "status": "fact-library",
+  "names": {
+    "zh": "爱琴",
+    "en": "Aegean",
+    "native": "Cycladic / Minoan / Mycenaean (scholarly labels)"
+  },
+  "region": "Europe / Eastern Mediterranean — Aegean Sea region (Cyclades, Crete, Greek mainland)",
+  "time_span": "ca. 3000–1100 BCE (Shelmerdine 2008); Dickinson/Cline ~3000–1000 BC",
+  "summary": {
+    "zh": "爱琴青铜时代常规框架：基克拉泽斯、克里特米诺斯与大陆迈锡尼；Linear A 未破译；高/低年代仍开放。",
+    "en": "Conventional Aegean Bronze Age frame (Cyclades / Minoan Crete / Mycenaean mainland); Linear A undeciphered; high vs low chronology open."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994",
+    "src-aegean-broodbank-cyclades-2000",
+    "src-aegean-manning-science-2006",
+    "src-aegean-evans-palace-of-minos-1921",
+    "src-aegean-blegen-rawson-pylos-1966",
+    "src-aegean-ventris-chadwick-1956",
+    "src-aegean-salgarella-linear-a-2022",
+    "src-aegean-renfrew-1972",
+    "src-aegean-warren-hankey-1989",
+    "src-aegean-chadwick-1976",
+    "src-aegean-doumas-thera-1983",
+    "src-aegean-wace-mycenae-1949",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "related_ids": [
+    "civ-mesopotamia",
+    "civ-ancient-egypt"
+  ],
+  "entity": "civilization",
+  "kind": "fact",
+  "site_ids": [
+    "site-knossos",
+    "site-mycenae",
+    "site-pylos",
+    "site-akrotiri"
+  ],
+  "period_ids": [
+    "period-aegean-early-bronze",
+    "period-aegean-middle-bronze",
+    "period-aegean-lm-ia-thera",
+    "period-aegean-mycenaean-palatial",
+    "period-aegean-post-palatial"
+  ],
+  "claim_ids": [
+    "claim-aegean-frame-3000-1100",
+    "claim-aegean-linear-b-greek",
+    "claim-aegean-linear-a-undeciphered",
+    "claim-aegean-pylos-destruction",
+    "claim-aegean-high-low-chronology",
+    "claim-aegean-minoan-thalassocracy"
+  ],
+  "object_ids": [
+    "asm-aegean-linear-b-tablets",
+    "asm-aegean-linear-a",
+    "asm-aegean-akrotiri-architecture-frescoes"
+  ],
+  "markdown_path": "data/civilizations/civ-aegean.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

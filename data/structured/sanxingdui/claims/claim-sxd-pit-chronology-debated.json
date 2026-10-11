@@ -1,0 +1,34 @@
+{
+  "id": "claim-sxd-pit-chronology-debated",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "祭祀坑绝对年代长期有争议；新坑工作方案（殷墟四期/西周早期）是作者陈述，不是定论年表。",
+    "en": "Sacrificial-pit absolute chronology has long been debated; the new-pits working scheme (Yinxu IV / early Western Zhou) is author framing, not a settled calendar."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pit-4"
+  ],
+  "period_ids": [
+    "period-sxd-working-scheme-new-pits",
+    "period-sxd-pit4-radiocarbon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-wu-ran-lei-2021",
+    "src-sanxingdui-zhao-nsr-2021"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

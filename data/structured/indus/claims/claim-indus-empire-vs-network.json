@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-empire-vs-network",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "整合期政治形态是否最好标为领土「帝国」、城市—区域网络或「国家」仍属开放争议；事实栏只描述城市与标准化证据。",
+    "en": "Whether the Integration Era is best labeled territorial “empire,” city–regional network, or “state” remains open; fact columns describe urbanism and standardization only."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-indus-kenoyer-1991",
+    "src-indus-possehl-2002",
+    "src-indus-ratnagar-2004"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

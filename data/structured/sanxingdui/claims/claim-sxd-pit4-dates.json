@@ -1,0 +1,32 @@
+{
+  "id": "claim-sxd-pit4-dates",
+  "kind": "fact",
+  "statement": {
+    "zh": "四号坑六个碳十四年代为公元前 1260–924 校准年。",
+    "en": "Six radiocarbon dates from Pit 4 give 1260–924 cal BC."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pit-4"
+  ],
+  "period_ids": [
+    "period-sxd-pit4-radiocarbon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-wu-ran-lei-2021",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

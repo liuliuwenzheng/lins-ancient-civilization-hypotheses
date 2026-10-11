@@ -1,0 +1,73 @@
+{
+  "id": "civ-china-bronze",
+  "status": "fact-library",
+  "names": {
+    "zh": "中国青铜时代（中原总览）",
+    "en": "China Bronze Age (Central Plains overview)",
+    "native": "Erlitou / Shang–Zhou bronze traditions"
+  },
+  "region": "East Asia / China — Central Plains (Yellow River middle–lower reaches) focus",
+  "time_span": "Erlitou–Erligang early-state window ~1900/1800–1250 BCE; Late Shang ~1250–1046 BCE (Liu & Chen 2012); XSZCP bands contested",
+  "summary": {
+    "zh": "中原学术常规框架下的中国青铜时代：二里头、二里岗、殷墟安阳与商–周青铜礼器传统；夏史实性不写成定论；与三星堆分条。",
+    "en": "Central Plains scholarly conventional frame for China’s Bronze Age (Erlitou / Erligang / Anyang–Yinxu and Shang–Zhou ritual bronzes); Xia historicity not asserted as settled fact; Sanxingdui kept separate."
+  },
+  "sources": [
+    "src-china-thorp-erlitou-xia-1991",
+    "src-china-liu-chen-state-formation-2003",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-bagley-shang-ritual-bronzes-1987",
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-campbell-bronze-age-2014",
+    "src-china-keightley-oracle-bones-1978",
+    "src-china-chang-shang-civilization-1980",
+    "src-china-thorp-early-bronze-age-2006",
+    "src-china-li-chi-anyang-1977",
+    "src-china-loewe-shaughnessy-cambridge-1999",
+    "src-china-underhill-companion-2013",
+    "src-china-xszcp-jianben-2000",
+    "src-china-rawson-mysteries-1996"
+  ],
+  "related_ids": [
+    "civ-sanxingdui",
+    "civ-aegean",
+    "civ-indus-valley"
+  ],
+  "entity": "civilization",
+  "kind": "fact",
+  "site_ids": [
+    "site-erlitou",
+    "site-zhengzhou-erligang",
+    "site-huanbei-xiaoshuangqiao",
+    "site-anyang-yinxu"
+  ],
+  "period_ids": [
+    "period-china-erlitou",
+    "period-china-erligang",
+    "period-china-xiaoshuangqiao-huanbei",
+    "period-china-anyang-late-shang",
+    "period-china-liu-chen-resource-window"
+  ],
+  "claim_ids": [
+    "claim-china-central-plains-frame",
+    "claim-china-oracle-bones-readable",
+    "claim-china-metal-salt-procurement",
+    "claim-china-multicentric",
+    "claim-china-xia-historicity",
+    "claim-china-xszcp-bands"
+  ],
+  "object_ids": [
+    "asm-china-ritual-bronzes",
+    "asm-china-oracle-bones",
+    "asm-china-erlitou-prestige-jades"
+  ],
+  "markdown_path": "data/civilizations/civ-china-bronze.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

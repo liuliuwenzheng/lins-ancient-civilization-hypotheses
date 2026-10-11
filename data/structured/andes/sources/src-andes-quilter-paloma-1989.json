@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-quilter-paloma-1989",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Quilter, Jeffrey. 1989. Life and Death at Paloma: Society and Mortuary Practices in a Preceramic Peruvian Village. Iowa City: University of Iowa Press. 203 p. ISBN 978-0-87745-194-5.",
+  "url": "https://uipress.uiowa.edu/books/life-and-death-paloma",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary monograph on Paloma (Chilca Valley, central coast) Preceramic village burials; publisher frame ca. 5000–2500 B.C. transition toward more sedentary horticulture. Geographic focus is south of Norte Chico; used for coastal Preceramic research-history and comparative subsistence/mortuary context only — not as a Caral site report. Tier S.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-quilter-paloma-1989.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

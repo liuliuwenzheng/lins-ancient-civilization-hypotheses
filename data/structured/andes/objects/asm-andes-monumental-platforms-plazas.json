@@ -1,0 +1,46 @@
+{
+  "id": "asm-andes-monumental-platforms-plazas",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纪念性平台丘与沉陷圆形广场（组合级）",
+    "en": "Monumental platform mounds and sunken circular plazas (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral",
+    "site-caballete",
+    "site-huaricanga",
+    "site-aspero"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "阶梯平台丘、沉陷圆形广场、huancas；shicra 纤维石袋填筑。",
+    "en": "Stepped platform mounds, sunken circular plazas, huancas; shicra bag fills."
+  },
+  "sources": [
+    "src-andes-haas-creamer-ruiz-norte-chico-2004",
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013",
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Assemblage/metadata only. No forged images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "period-sxd-working-scheme-new-pits",
+  "names": {
+    "zh": "新坑工作方案",
+    "en": "Working scheme for new pits"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "time": {
+    "label": "Pits 1–4,7–8 ~Yinxu IV 1200–1000 BC; Pits 5–6 maybe early Western Zhou 1046–950 BC",
+    "approx_from_bce": 1200,
+    "approx_to_bce": 950,
+    "scheme_note": "Li et al. 2022 citing Ran et al. 2022 — working scheme; absolute chronology long debated"
+  },
+  "summary": {
+    "zh": "作者工作方案；文中亦承认祭祀坑绝对年代长期有争议。",
+    "en": "Authors’ working scheme; they note pit absolute chronology has long been debated."
+  },
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

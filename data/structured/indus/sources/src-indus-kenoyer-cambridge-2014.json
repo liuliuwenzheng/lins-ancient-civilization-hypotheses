@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-kenoyer-cambridge-2014",
+  "entity": "source",
+  "type": "article",
+  "citation": "Kenoyer, Jonathan Mark. 2014. “The Indus Civilisation.” Chapter 1.25 in Colin Renfrew and Paul Bahn, eds., The Cambridge World Prehistory, pp. 407–432. Cambridge: Cambridge University Press. Chapter DOI 10.1017/CHO9781139017831.028. Online publication 5 August 2014.",
+  "url": "https://doi.org/10.1017/CHO9781139017831.028",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary handbook chapter. Cambridge Core abstract (accessed 2026-10-11): overview of Indus Tradition / Indus civilisation research; continued lack of bilingual texts for deciphering the Indus script; urban culture, settlement/subsistence, technology, socioeconomic organisation; decline, transformation, and legacy remain debated. No page-level claims beyond abstract/TOC metadata in this seed.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-kenoyer-cambridge-2014.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

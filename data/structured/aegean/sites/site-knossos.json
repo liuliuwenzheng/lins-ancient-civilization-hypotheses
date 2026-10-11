@@ -1,0 +1,32 @@
+{
+  "id": "site-knossos",
+  "names": {
+    "zh": "克诺索斯",
+    "en": "Knossos",
+    "native": null
+  },
+  "kind_note": "Keystone Cretan palatial site; Evans with restoration caveats",
+  "region": "Crete, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "克里特关键宫室遗址；Evans《米诺斯宫》须标注修复局限并以现代综合交叉核对。",
+    "en": "Keystone Cretan palatial site; Evans Palace of Minos requires restoration caveats and modern cross-check."
+  },
+  "sources": [
+    "src-aegean-evans-palace-of-minos-1921",
+    "src-aegean-dickinson-1994",
+    "src-aegean-shelmerdine-companion-2008"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-shady-caral-1997",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Shady Solís, Ruth Martha. 1997. La ciudad sagrada de Caral-Supe en los albores de la civilización en el Perú. Lima: Universidad Nacional Mayor de San Marcos, Fondo Editorial. 42, [4] p.: ill., maps; 22 cm.",
+  "url": "https://sisbib.unmsm.edu.pe/Bibvirtual/Libros/Arqueologia/ciudad_sagrada/caratula.htm",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Early project monograph on Caral-Supe. Bibliographic line verified via UNMSM digital library catalog (Fondo Editorial, 1997; 42+[4] p.). Also cited in Science 2001 (Shady, Haas & Creamer). Tier S. No page-level factual claims extracted in this seed beyond establishing early published project documentation of the site.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-shady-caral-1997.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

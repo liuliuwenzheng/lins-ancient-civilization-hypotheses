@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-script-undeciphered",
+  "kind": "fact",
+  "statement": {
+    "zh": "印度河文字因缺乏双语文本等原因，在学界仍无普遍接受的破译——此为研究现况，非「永不可破」断言。",
+    "en": "Indus script remains without a generally accepted decipherment (no bilingual texts) — research status, not permanent undecipherability."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-indus-steatite-seals"
+  ],
+  "sources": [
+    "src-indus-kenoyer-cambridge-2014",
+    "src-indus-wright-2010",
+    "src-indus-parpola-1994",
+    "src-indus-kenoyer-1991"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

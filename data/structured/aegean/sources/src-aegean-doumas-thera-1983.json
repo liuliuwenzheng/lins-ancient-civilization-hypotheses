@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-doumas-thera-1983",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Doumas, Christos G. 1983. Thera: Pompeii of the Ancient Aegean — Excavations at Akrotiri, 1967–79. New Aspects of Antiquity. London: Thames and Hudson. 168 pp., figs., plates. ISBN 0-500-39016-9.",
+  "url": "https://www.cambridge.org/core/journals/antiquaries-journal/article/abs/thera-pompeii-of-the-ancient-aegean-excavations-at-akrotiri-196979-by-christos-g-doumas-new-aspects-of-antiquity-25-185-cm-pp-168-23-figs-chronol-table-100-pls-inc-15-col-london-thames-and-hudson-1983-isbn-0500390169-1600/FC2E3FE027935AEBD9DA7F95FCD1ACD9",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary popular-scholarly synthesis of the Akrotiri excavations under Marinatos and Doumas. Site-level primary final report series is separate; use this volume for overview of LBA Theran settlement, frescoes, and destruction by the volcanic eruption — absolute date of eruption remains debated (see Manning et al. 2006). Subtitle Pompeii is framing, not a cultural identity claim. No invented page numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-doumas-thera-1983.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

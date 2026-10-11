@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-city-vs-ceremonial-center",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "「urban settlement / ciudad sagrada」用语是否等于跨文化「城市」标准仍属开放争议；本库不排名「美洲第一城」。",
+    "en": "Whether “urban settlement” / “ciudad sagrada” meets cross-cultural “city” criteria remains open; this archive does not rank “first city in the Americas.”"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral"
+  ],
+  "period_ids": [
+    "period-andes-caral-monumental"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-shady-leyva-caral-supe-2003",
+    "src-andes-unesco-caral-2009"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

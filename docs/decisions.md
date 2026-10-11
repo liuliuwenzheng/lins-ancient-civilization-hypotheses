@@ -153,3 +153,13 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 - Egypt pack derived **only** from `civ-ancient-egypt.md` + `src-egypt-*` (15 sources · 6 sites · 6 periods · 4 assemblages · 10 claims incl. Narmer single-unification hypothesis · 2 outbound media). No new archaeological inventions; no forged images.
 - Markdown remains editorial source of truth; structured JSON is the gated serveable form (no silent dual-write).
 
+
+### D-2026-10-11-20 — Remaining seven civilizations structured into archive packs for API
+
+**Decision:** After the Mesopotamia / Egypt pilots, land structured packs for the other seven `fact-library` civilizations so the read-only API lists all nine: `andes`, `indus`, `china-bronze`, `sanxingdui`, `aegean`, `olmec`, `early-maya` (plus existing `mesopotamia`, `egypt`).
+
+**Notes:**
+- Each pack’s JSON is derived **only** from the matching `civ-*.md` + registered `src-*`; contested items are `kind: hypothesis`; no forged artifact images; media is outbound-link metadata only.
+- Seed definitions: `tools/pack_seeds/*.json`; writer: `tools/write_packs_from_seeds.py`.
+- `tools/export_check.py` passes citation fail-closed for all 9 packs. API smoke: `GET /api/v1/civilizations` returns 9.
+- Markdown remains editorial source of truth; structured JSON is the gated serveable form.

@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-high-low-chronology",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Manning 等 2006 主张圣托里尼喷发在公元前 17 世纪晚期并使 LM IA–II 相对传统年代拉长约百年；Warren & Hankey 代表传统低年代——高/低年代仍开放。",
+    "en": "Manning et al. 2006 argue a late-17th-century BCE Thera eruption and stretched LM IA–II; Warren & Hankey represent traditional low chronology — high vs low remains open."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-akrotiri"
+  ],
+  "period_ids": [
+    "period-aegean-lm-ia-thera"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-manning-science-2006",
+    "src-aegean-warren-hankey-1989",
+    "src-aegean-doumas-thera-1983"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

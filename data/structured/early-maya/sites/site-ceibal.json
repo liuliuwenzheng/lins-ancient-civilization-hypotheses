@@ -1,0 +1,32 @@
+{
+  "id": "site-ceibal",
+  "names": {
+    "zh": "塞瓦尔（Seibal）",
+    "en": "Ceibal (Seibal)",
+    "native": null
+  },
+  "kind_note": "Early Pasión lowland ceremonial center; Preclassic focus of Inomata project",
+  "region": "Pasión River, Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Harvard 皮博迪报告偏古典；Inomata 项目聚焦前古典：约公元前 1000 年起仪式空间与 E 组、人造高原。",
+    "en": "Peabody series Classic-focused; Inomata project on Preclassic ceremonial space / E-Group and artificial plateaus from ~1000 BCE."
+  },
+  "sources": [
+    "src-maya-willey-seibal-1975",
+    "src-maya-inomata-ceibal-science-2013",
+    "src-maya-inomata-ceibal-plateau-2019"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

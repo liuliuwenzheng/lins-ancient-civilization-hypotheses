@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-lothal-dock",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "洛塔尔大型水池的「船坞」认定属发掘者解释；存在水库等替代读法。",
+    "en": "Rao’s “dockyard” identification of the Lothal basin is excavator interpretation; alternative reservoir readings exist."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-lothal"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-indus-lothal-warehouse-basin"
+  ],
+  "sources": [
+    "src-indus-rao-lothal-1979",
+    "src-indus-kenoyer-1991"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

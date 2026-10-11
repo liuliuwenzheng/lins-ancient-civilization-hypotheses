@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-unesco-caral-2009",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. “Sacred City of Caral-Supe.” World Heritage List, property ID 1269. Inscribed 2009 (criteria ii, iii, iv). https://whc.unesco.org/en/list/1269/",
+  "url": "https://whc.unesco.org/en/list/1269/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "T",
+  "notes": "Tertiary heritage listing page. Useful only for inscription year (2009), official property name ‘Sacred City of Caral-Supe’, and that UNESCO presents the site as an early monumental complex on Peru’s central coast. Do NOT treat OUV marketing language or ‘oldest city’ phrasing as archaeological fact. Prefer Science/Nature/Fieldiana for chronology and architecture.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-unesco-caral-2009.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

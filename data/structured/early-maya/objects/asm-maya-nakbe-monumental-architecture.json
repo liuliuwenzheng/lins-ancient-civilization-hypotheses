@@ -1,0 +1,42 @@
+{
+  "id": "asm-maya-nakbe-monumental-architecture",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳克贝中前古典纪念性建筑（组合级）",
+    "en": "Nakbe Middle Preclassic monumental architecture (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-nakbe"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic"
+  ],
+  "summary": {
+    "zh": "Hansen 1998 综述建筑连续与不连续。",
+    "en": "Hansen 1998 surveys architectural continuity and discontinuity."
+  },
+  "sources": [
+    "src-maya-hansen-nakbe-1998",
+    "src-maya-estrada-belli-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.famsi.org/reports/95113/95113Hansen01.pdf",
+    "notes": "Outbound report only."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-sxd-site-basics",
+  "kind": "fact",
+  "statement": {
+    "zh": "三星堆位于广汉西部、成都东北约 40 km，面积约 12 km²，年代约公元前 2700–1000 年；1986 年发现一、二号祭祀坑。",
+    "en": "Sanxingdui lies in western Guanghan ~40 km NE of Chengdu, covers ~12 km², dates c. 2700–1000 BC; Sacrificial Pits 1–2 discovered in 1986."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui",
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-sichuan-jisikeng-1999",
+    "src-sanxingdui-bagley-1988"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

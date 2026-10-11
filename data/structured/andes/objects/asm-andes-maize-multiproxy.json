@@ -1,0 +1,42 @@
+{
+  "id": "asm-andes-maize-multiproxy",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "玉米多证据组合",
+    "en": "Maize multi-proxy assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballete",
+    "site-huaricanga"
+  ],
+  "period_ids": [
+    "period-andes-maize-study-window"
+  ],
+  "summary": {
+    "zh": "玉米花粉、石器残渣与粪便淀粉；「主粮」程度仍属作者解释。",
+    "en": "Maize pollen, tool residues, and coprolite starches; staple intensity remains interpretive."
+  },
+  "sources": [
+    "src-andes-haas-creamer-pnas-maize-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://doi.org/10.1073/pnas.1219425110",
+    "notes": "No binary hosted."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-indus-great-bath-wells-drains",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "大浴场、井与砖衬排水（组合级）",
+    "en": "Great Bath, wells, and brick drains (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "摩亨佐-达罗城市卫生与水利景观；「大浴场/粮仓」为推测性功能命名。",
+    "en": "Mohenjo-daro urban water landscape; Great Bath/granary labels remain speculative functions."
+  },
+  "sources": [
+    "src-indus-marshall-1931",
+    "src-indus-mackay-1938",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

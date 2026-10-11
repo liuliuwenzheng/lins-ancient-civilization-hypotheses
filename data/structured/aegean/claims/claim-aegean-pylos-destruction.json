@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-pylos-destruction",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blegen & Rawson 1966 出版说明称皮洛斯迈锡尼行政中心在公元前 13 世纪末毁于火且未再占用。",
+    "en": "Blegen & Rawson 1966 publisher summary states the Mycenaean administrative center at Pylos was destroyed by fire at the end of the 13th century B.C. and not reoccupied."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-blegen-rawson-pylos-1966"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

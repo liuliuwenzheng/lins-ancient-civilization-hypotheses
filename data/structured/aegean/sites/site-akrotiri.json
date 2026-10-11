@@ -1,0 +1,31 @@
+{
+  "id": "site-akrotiri",
+  "names": {
+    "zh": "阿克罗蒂里（Thera）",
+    "en": "Akrotiri (Thera)",
+    "native": null
+  },
+  "kind_note": "LBA urban settlement preserved by volcanic eruption",
+  "region": "Thera / Santorini, Cyclades",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "晚青铜城市型聚落因火山喷发埋藏保存；Doumas 1983；喷发绝对年代有争议。",
+    "en": "LBA urban settlement preserved by eruption; Doumas 1983; absolute eruption date debated."
+  },
+  "sources": [
+    "src-aegean-doumas-thera-1983",
+    "src-aegean-manning-science-2006"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

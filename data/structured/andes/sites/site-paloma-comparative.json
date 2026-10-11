@@ -1,0 +1,30 @@
+{
+  "id": "site-paloma-comparative",
+  "names": {
+    "zh": "帕洛马（比较址）",
+    "en": "Paloma (comparative)",
+    "native": null
+  },
+  "kind_note": "Chilca Valley Preceramic — outside Norte Chico core",
+  "region": "Chilca Valley, coastal Peru (comparative)",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "奇尔卡谷前陶村落与墓葬；非 Norte Chico 核心四谷。",
+    "en": "Chilca Valley Preceramic village/mortuary; outside Norte Chico four-valley core."
+  },
+  "sources": [
+    "src-andes-quilter-paloma-1989"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

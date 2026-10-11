@@ -1,0 +1,30 @@
+{
+  "id": "media-unesco-moenjodaro",
+  "title": {
+    "zh": "教科文摩亨佐-达罗世界遗产条目",
+    "en": "UNESCO Moenjodaro World Heritage listing"
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/138/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-indus-unesco-moenjodaro-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/138/",
+    "notes": "Heritage title ≠ archaeological verdict."
+  },
+  "entity": "media",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

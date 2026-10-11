@@ -1,0 +1,34 @@
+{
+  "id": "claim-maya-ceibal-1000-bce",
+  "kind": "fact",
+  "statement": {
+    "zh": "Inomata 等 2013：塞瓦尔约公元前 1000 年起出现仪式建设与相关低地前古典复杂化证据。",
+    "en": "Inomata et al. 2013: ceremonial construction at Ceibal from ~1000 BCE and related evidence for early lowland Preclassic complexity."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-ceibal"
+  ],
+  "period_ids": [
+    "period-maya-early-preclassic-ceibal"
+  ],
+  "object_ids": [
+    "asm-maya-ceibal-e-group"
+  ],
+  "sources": [
+    "src-maya-inomata-ceibal-science-2013",
+    "src-maya-inomata-ceibal-plateau-2019"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

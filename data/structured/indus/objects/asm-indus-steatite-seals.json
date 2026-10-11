@@ -1,0 +1,46 @@
+{
+  "id": "asm-indus-steatite-seals",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "滑石印章与封泥（组合级）",
+    "en": "Steatite seals and sealings (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro",
+    "site-harappa",
+    "site-lothal"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "整合期标志；短铭文+动物/复合神兽图像；缺乏双语文本。",
+    "en": "Integration Era hallmarks; short inscriptions above animal/composite motifs; no bilingual texts."
+  },
+  "sources": [
+    "src-indus-marshall-1931",
+    "src-indus-mackay-1938",
+    "src-indus-parpola-1994",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged seal images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

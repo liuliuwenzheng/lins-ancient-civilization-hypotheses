@@ -1,0 +1,36 @@
+{
+  "id": "claim-olmec-monumental-stone-art",
+  "kind": "fact",
+  "statement": {
+    "zh": "海湾奥尔梅克传统包含中美洲最早的巨型石雕艺术。",
+    "en": "Gulf Olmec traditions include the first monumental stone art of Mesoamerica."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta"
+  ],
+  "period_ids": [
+    "period-olmec-formative-floruit"
+  ],
+  "object_ids": [
+    "asm-olmec-colossal-heads-sculpture"
+  ],
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-cyphers-escultura-2004"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

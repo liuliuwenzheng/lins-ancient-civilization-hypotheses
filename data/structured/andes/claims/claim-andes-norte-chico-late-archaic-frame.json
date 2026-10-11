@@ -1,0 +1,29 @@
+{
+  "id": "claim-andes-norte-chico-late-archaic-frame",
+  "kind": "fact",
+  "statement": {
+    "zh": "Norte Chico 晚古风大型遗址群以纪念性建筑、广泛居住建筑与无陶为共性，测年总框约 3000–1800 cal BCE。",
+    "en": "Norte Chico Late Archaic large sites share monumental architecture, extensive residential architecture, and aceramic assemblages, framed ~3000–1800 cal BCE."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-andes-haas-creamer-ruiz-norte-chico-2004"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

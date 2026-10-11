@@ -1,0 +1,32 @@
+{
+  "id": "site-sanxingdui",
+  "names": {
+    "zh": "三星堆遗址",
+    "en": "Sanxingdui site",
+    "native": "三星堆"
+  },
+  "kind_note": "Large center ~12 km²; settlement/walls and sacrificial area",
+  "region": "Guanghan, Sichuan, China (~40 km NE of Chengdu)",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "约 12 km² 大型中心；含城墙/聚落与祭祀区等遗存类型。",
+    "en": "Large center (~12 km²) with settlement/walls and sacrificial-area remains."
+  },
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-ge-linduff-1990",
+    "src-sanxingdui-bagley-1988"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

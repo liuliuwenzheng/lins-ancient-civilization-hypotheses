@@ -1,0 +1,33 @@
+{
+  "id": "period-indus-integration",
+  "names": {
+    "zh": "整合时代（成熟哈拉帕）",
+    "en": "Integration Era (Mature Harappan)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "time": {
+    "label": "2600–1900 BCE",
+    "approx_from_bce": 2600,
+    "approx_to_bce": 1900,
+    "scheme_note": "Kenoyer 1991; Wright 2010 florescence"
+  },
+  "summary": {
+    "zh": "哈拉帕阶段 / 城市繁荣期约 2600–1900 BCE。",
+    "en": "Harappan Phase / urban florescence ~2600–1900 BCE."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991",
+    "src-indus-wright-2010"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

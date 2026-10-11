@@ -1,0 +1,516 @@
+{
+  "pack": "sanxingdui",
+  "title_en": "Sanxingdui",
+  "title_zh": "三星堆",
+  "civilization": {
+    "id": "civ-sanxingdui",
+    "status": "fact-library",
+    "names": {
+      "zh": "三星堆",
+      "en": "Sanxingdui",
+      "native": "三星堆 / Sanxingdui (Guanghan, Sichuan)"
+    },
+    "region": "East Asia / Southwest China — Sichuan Basin, Chengdu Plain; western Guanghan (~40 km NE of Chengdu)",
+    "time_span": "Site occupation c. 2700–1000 BC (Li et al. 2022); Pit 4 radiocarbon 1260–924 cal BC; pit absolute chronology long debated",
+    "summary": {
+      "zh": "四川广汉三星堆青铜时代遗址；1986 一、二号坑与 2020 起新坑；与中原商王国是否同一政体属开放研究。",
+      "en": "Sanxingdui Bronze Age site in Guanghan, Sichuan; 1986 Pits 1–2 and post-2020 pits; relationship to Shang kingdom remains open research."
+    },
+    "sources": [
+      "src-sanxingdui-sichuan-jisikeng-1999",
+      "src-sanxingdui-ge-linduff-1990",
+      "src-sanxingdui-bagley-1988",
+      "src-sanxingdui-li-qiu-guo-li-2022",
+      "src-sanxingdui-bagley-ancient-sichuan-2001",
+      "src-sanxingdui-xu-bronze-2001",
+      "src-sanxingdui-flad-urbanism-2018",
+      "src-sanxingdui-flad-valuable-objects-2012",
+      "src-sanxingdui-sun-hua-cultures-2003",
+      "src-sanxingdui-wu-ran-lei-2021",
+      "src-sanxingdui-unesco-tentative-2013",
+      "src-sanxingdui-zhao-nsr-2021",
+      "src-china-flad-chen-ancient-central-china-2013",
+      "src-china-rawson-mysteries-1996"
+    ],
+    "related_ids": [
+      "civ-china-bronze"
+    ]
+  },
+  "sites": [
+    {
+      "id": "site-sanxingdui",
+      "names": {
+        "zh": "三星堆遗址",
+        "en": "Sanxingdui site",
+        "native": "三星堆"
+      },
+      "kind_note": "Large center ~12 km²; settlement/walls and sacrificial area",
+      "region": "Guanghan, Sichuan, China (~40 km NE of Chengdu)",
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "summary": {
+        "zh": "约 12 km² 大型中心；含城墙/聚落与祭祀区等遗存类型。",
+        "en": "Large center (~12 km²) with settlement/walls and sacrificial-area remains."
+      },
+      "sources": [
+        "src-sanxingdui-li-qiu-guo-li-2022",
+        "src-sanxingdui-ge-linduff-1990",
+        "src-sanxingdui-bagley-1988"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-sanxingdui-pits-1-2",
+      "names": {
+        "zh": "1986 一、二号祭祀坑",
+        "en": "1986 Sacrificial Pits 1–2",
+        "native": null
+      },
+      "kind_note": "Primary 1999 monograph; Bagley 1988 English summary",
+      "region": "Sanxingdui sacrificial area, Guanghan",
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "summary": {
+        "zh": "正式报告四川省文物考古研究所 1999；一号坑约 4.6×3.5×1.6 m；两坑青铜金玉象牙等九百余件。",
+        "en": "Primary monograph Sichuan 1999; Pit 1 ~4.6×3.5×1.6 m; >900 bronze/gold/jade/ivory artefacts from the two pits."
+      },
+      "sources": [
+        "src-sanxingdui-sichuan-jisikeng-1999",
+        "src-sanxingdui-bagley-1988",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-sanxingdui-pit-4",
+      "names": {
+        "zh": "四号祭祀坑",
+        "en": "Sacrificial Pit 4",
+        "native": null
+      },
+      "kind_note": "AMS dates 1260–924 cal BC",
+      "region": "Sanxingdui sacrificial area, Guanghan",
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "summary": {
+        "zh": "Wu et al. 2021：六样 AMS 1260–924 cal BC；平面近方形边长约 2.9 m，最深约 1.6 m。",
+        "en": "Wu et al. 2021: six AMS dates 1260–924 cal BC; roughly square ~2.9 m side, deepest ~1.6 m."
+      },
+      "sources": [
+        "src-sanxingdui-wu-ran-lei-2021",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-jinsha-comparative",
+      "names": {
+        "zh": "金沙（对照）",
+        "en": "Jinsha (comparative)",
+        "native": "金沙"
+      },
+      "kind_note": "Later Chengdu Plain center juxtaposed with Sanxingdui",
+      "region": "Chengdu Plain, Sichuan",
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "summary": {
+        "zh": "Flad 将金沙与三星堆并置讨论贵重物品与城市技术；并置≠已证明简单迁都。",
+        "en": "Flad juxtaposes Jinsha with Sanxingdui on valuables and urbanism; juxtaposition ≠ proven simple capital relocation."
+      },
+      "sources": [
+        "src-sanxingdui-flad-valuable-objects-2012",
+        "src-sanxingdui-flad-urbanism-2018",
+        "src-sanxingdui-unesco-tentative-2013"
+      ],
+      "coordinates": null
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-sxd-occupation-span",
+      "names": {
+        "zh": "遗址占用总跨度",
+        "en": "Site occupation span"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "time": {
+        "label": "c. 2700–1000 BC",
+        "approx_from_bce": 2700,
+        "approx_to_bce": 1000,
+        "scheme_note": "Li et al. 2022"
+      },
+      "summary": {
+        "zh": "Li et al. 2022 给出的遗址占用总跨度。",
+        "en": "Site occupation span as stated by Li et al. 2022."
+      },
+      "sources": [
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ]
+    },
+    {
+      "id": "period-sxd-culture-phases-sun",
+      "names": {
+        "zh": "三星堆考古文化分期（Sun Hua）",
+        "en": "Sanxingdui culture phases (Sun Hua)"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "time": {
+        "label": "II–IV phases via stratigraphy and pottery (absolute endpoints not invented)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Sun Hua 2003"
+      },
+      "summary": {
+        "zh": "以地层与陶器界定分期；与坑埋藏年代相关但不同。",
+        "en": "Phases defined via stratigraphy and pottery; related to but distinct from pit burial dates."
+      },
+      "sources": [
+        "src-sanxingdui-sun-hua-cultures-2003"
+      ]
+    },
+    {
+      "id": "period-sxd-pits-1986-excavator",
+      "names": {
+        "zh": "1986 坑早期发掘者方案",
+        "en": "1986 pits excavator chronological placement"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "time": {
+        "label": "first half of Anyang period (~13th–12th c. BCE)",
+        "approx_from_bce": 1300,
+        "approx_to_bce": 1100,
+        "scheme_note": "Bagley 1988 summarizing excavators — chronological label, not polity identity"
+      },
+      "summary": {
+        "zh": "发掘者地层关系将两坑置于安阳期前半；「商时期」是年代标签。",
+        "en": "Excavators placed the pits in first half of Anyang period; “Shang period” is chronological, not polity identity."
+      },
+      "sources": [
+        "src-sanxingdui-bagley-1988"
+      ]
+    },
+    {
+      "id": "period-sxd-pit4-radiocarbon",
+      "names": {
+        "zh": "四号坑 AMS",
+        "en": "Pit 4 radiocarbon"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "time": {
+        "label": "1260–924 cal BC",
+        "approx_from_bce": 1260,
+        "approx_to_bce": 924,
+        "scheme_note": "Wu et al. 2021; Li et al. 2022"
+      },
+      "summary": {
+        "zh": "四号坑六个碳十四年代 1260–924 cal BC。",
+        "en": "Six radiocarbon dates from Pit 4: 1260–924 cal BC."
+      },
+      "sources": [
+        "src-sanxingdui-wu-ran-lei-2021",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ]
+    },
+    {
+      "id": "period-sxd-working-scheme-new-pits",
+      "names": {
+        "zh": "新坑工作方案",
+        "en": "Working scheme for new pits"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "time": {
+        "label": "Pits 1–4,7–8 ~Yinxu IV 1200–1000 BC; Pits 5–6 maybe early Western Zhou 1046–950 BC",
+        "approx_from_bce": 1200,
+        "approx_to_bce": 950,
+        "scheme_note": "Li et al. 2022 citing Ran et al. 2022 — working scheme; absolute chronology long debated"
+      },
+      "summary": {
+        "zh": "作者工作方案；文中亦承认祭祀坑绝对年代长期有争议。",
+        "en": "Authors’ working scheme; they note pit absolute chronology has long been debated."
+      },
+      "sources": [
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-sxd-bronze-figures-masks",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "青铜大型雕像、人像头、面具（组合级）",
+        "en": "Large bronze figures, heads, masks (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui-pits-1-2"
+      ],
+      "period_ids": [
+        "period-sxd-pits-1986-excavator"
+      ],
+      "summary": {
+        "zh": "二号坑等出土立人、面具是最显著视觉标志；Xu 2001 与 Bagley 英语类型学入口。",
+        "en": "Large figures, heads, and masks are the hallmark visual corpus; Xu 2001 and Bagley orient typology."
+      },
+      "sources": [
+        "src-sanxingdui-xu-bronze-2001",
+        "src-sanxingdui-bagley-1988",
+        "src-sanxingdui-bagley-ancient-sichuan-2001"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged artifact images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-sxd-gold-staff-sheathing",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "一号坑金杖包皮等金器（组合级）",
+        "en": "Pit 1 gold staff sheathing and related gold (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui-pits-1-2"
+      ],
+      "period_ids": [
+        "period-sxd-pits-1986-excavator"
+      ],
+      "summary": {
+        "zh": "Bagley 1988：金皮包木杖约 142 cm，饰人面、鱼、鸟等。",
+        "en": "Bagley 1988: ~142 cm sheet-gold tube over wood, with faces, fish, birds."
+      },
+      "sources": [
+        "src-sanxingdui-bagley-1988"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-sxd-ivory-cowries",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "象牙与海贝坑藏（组合级）",
+        "en": "Ivory and cowrie pit deposits (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui-pits-1-2"
+      ],
+      "period_ids": [
+        "period-sxd-pits-1986-excavator"
+      ],
+      "summary": {
+        "zh": "坑藏常见门类；提示区域/远程物资流通可能性，机制不定单一模型。",
+        "en": "Common pit classes; suggest regional/long-distance material flows without fixing one mechanism."
+      },
+      "sources": [
+        "src-sanxingdui-bagley-1988",
+        "src-sanxingdui-flad-valuable-objects-2012"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged images."
+      },
+      "media_ids": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-sxd-site-basics",
+      "kind": "fact",
+      "statement": {
+        "zh": "三星堆位于广汉西部、成都东北约 40 km，面积约 12 km²，年代约公元前 2700–1000 年；1986 年发现一、二号祭祀坑。",
+        "en": "Sanxingdui lies in western Guanghan ~40 km NE of Chengdu, covers ~12 km², dates c. 2700–1000 BC; Sacrificial Pits 1–2 discovered in 1986."
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui",
+        "site-sanxingdui-pits-1-2"
+      ],
+      "period_ids": [
+        "period-sxd-occupation-span"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-sanxingdui-li-qiu-guo-li-2022",
+        "src-sanxingdui-sichuan-jisikeng-1999",
+        "src-sanxingdui-bagley-1988"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-no-oracle-archive",
+      "kind": "fact",
+      "statement": {
+        "zh": "与晚商安阳甲骨文传统不同，三星堆目前没有可与甲骨文比肩的、已系统释读的本遗址文字档案。",
+        "en": "Unlike Late Shang Anyang oracle bones, Sanxingdui currently lacks a systematically readable local writing archive comparable to jiaguwen."
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-sanxingdui-bagley-1988",
+        "src-sanxingdui-xu-bronze-2001",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-pit4-dates",
+      "kind": "fact",
+      "statement": {
+        "zh": "四号坑六个碳十四年代为公元前 1260–924 校准年。",
+        "en": "Six radiocarbon dates from Pit 4 give 1260–924 cal BC."
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui-pit-4"
+      ],
+      "period_ids": [
+        "period-sxd-pit4-radiocarbon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-sanxingdui-wu-ran-lei-2021",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-not-same-shang-polity",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "与中原商文化/商王国是否为同一政体属开放研究；「商时期」坑年代标签不等于政体等同。",
+        "en": "Whether Sanxingdui was the same polity as the Shang kingdom remains open research; “Shang period” chronological labels are not polity identity."
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui"
+      ],
+      "period_ids": [
+        "period-sxd-pits-1986-excavator"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-sanxingdui-bagley-1988",
+        "src-sanxingdui-ge-linduff-1990",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-sxd-pit-chronology-debated",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "祭祀坑绝对年代长期有争议；新坑工作方案（殷墟四期/西周早期）是作者陈述，不是定论年表。",
+        "en": "Sacrificial-pit absolute chronology has long been debated; the new-pits working scheme (Yinxu IV / early Western Zhou) is author framing, not a settled calendar."
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui-pit-4"
+      ],
+      "period_ids": [
+        "period-sxd-working-scheme-new-pits",
+        "period-sxd-pit4-radiocarbon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-sanxingdui-li-qiu-guo-li-2022",
+        "src-sanxingdui-wu-ran-lei-2021",
+        "src-sanxingdui-zhao-nsr-2021"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-sxd-ancient-shu-title",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "教科文预备名单「古蜀国考古遗址」为申报标题用语；预备名单≠已列入世界遗产，亦不等于政体定论。",
+        "en": "UNESCO Tentative List “Ancient Shu State” is nomination wording; tentative ≠ inscribed, and is not a polity verdict."
+      },
+      "civilization_ids": [
+        "civ-sanxingdui"
+      ],
+      "site_ids": [
+        "site-sanxingdui",
+        "site-jinsha-comparative"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-sanxingdui-unesco-tentative-2013"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    }
+  ],
+  "media": [
+    {
+      "id": "media-unesco-sxd-tentative",
+      "title": {
+        "zh": "教科文古蜀国预备名单条目",
+        "en": "UNESCO Ancient Shu State Tentative List entry"
+      },
+      "media_type": "document-link",
+      "external_url": "https://whc.unesco.org/en/tentativelists/5816/",
+      "local_path": null,
+      "object_ids": [],
+      "sources": [
+        "src-sanxingdui-unesco-tentative-2013"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": "UNESCO World Heritage Centre",
+        "upstream_url": "https://whc.unesco.org/en/tentativelists/5816/",
+        "notes": "Tentative list only; nomination title ≠ polity verdict."
+      }
+    }
+  ]
+}

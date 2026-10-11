@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-cyphers-escultura-2004",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Cyphers, Ann. 2004. Escultura olmeca de San Lorenzo Tenochtitlán. Mexico City: Universidad Nacional Autónoma de México, Instituto de Investigaciones Antropológicas. ISBN 970-32-1572-6. (2nd ed. 2018: ISBN 978-607-30-0046-8.)",
+  "url": "https://www.iia.unam.mx/node/3266",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Spanish-language scholarly catalog/synthesis of monumental sculpture from San Lorenzo Tenochtitlán and related centers, based on Cyphers’s long UNAM project after Coe & Diehl. Complements the 1980 Yale report with later finds and contextual analysis. Cite 2004 first edition unless quoting 2018 explicitly. No invented page numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-cyphers-escultura-2004.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

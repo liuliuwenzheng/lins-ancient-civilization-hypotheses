@@ -1,0 +1,32 @@
+{
+  "id": "period-sxd-pits-1986-excavator",
+  "names": {
+    "zh": "1986 坑早期发掘者方案",
+    "en": "1986 pits excavator chronological placement"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "time": {
+    "label": "first half of Anyang period (~13th–12th c. BCE)",
+    "approx_from_bce": 1300,
+    "approx_to_bce": 1100,
+    "scheme_note": "Bagley 1988 summarizing excavators — chronological label, not polity identity"
+  },
+  "summary": {
+    "zh": "发掘者地层关系将两坑置于安阳期前半；「商时期」是年代标签。",
+    "en": "Excavators placed the pits in first half of Anyang period; “Shang period” is chronological, not polity identity."
+  },
+  "sources": [
+    "src-sanxingdui-bagley-1988"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

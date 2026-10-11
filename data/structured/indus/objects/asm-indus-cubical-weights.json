@@ -1,0 +1,42 @@
+{
+  "id": "asm-indus-cubical-weights",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "立方体石砝码（组合级）",
+    "en": "Cubical stone weights (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Marshall 报告重量范围约 0.871–10,865 g；误差极低指示严格控制。",
+    "en": "Marshall’s reported range ~0.871–10,865 g; very low error implies rigid control."
+  },
+  "sources": [
+    "src-indus-marshall-1931",
+    "src-indus-kenoyer-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

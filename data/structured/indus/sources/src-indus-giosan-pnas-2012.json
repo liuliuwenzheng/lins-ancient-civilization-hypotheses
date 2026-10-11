@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-giosan-pnas-2012",
+  "entity": "source",
+  "type": "article",
+  "citation": "Giosan, Liviu; Clift, Peter D.; Macklin, Mark G.; Fuller, Dorian Q.; Constantinescu, Stefan; Durcan, Julie A.; Stevens, Thomas; Duller, Geoff A. T.; Tabrez, Ali R.; Gangal, Kavita; Adhikari, Ronojoy; Alizai, Anwar; Filip, Florin; VanLaningham, Sam; Syvitski, James P. M. 2012. “Fluvial Landscapes of the Harappan Civilization.” Proceedings of the National Academy of Sciences 109 (26): E1688–E1694. DOI 10.1073/pnas.1112743109. Published online 29 May 2012.",
+  "url": "https://doi.org/10.1073/pnas.1112743109",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Peer-reviewed PNAS article (abstract + full text verified 2026-10-11). Key abstract claims used: late-Holocene aridification after ~5,000 BP stabilized fluvial landscapes; urbanism flourished ~600 y in western Indo-Gangetic Plain; after ~3,900 y ago settled area/site sizes declined with eastward shift; Ghaggar-Hakra active rivers in Holocene were monsoon-fed, not a large glacier-fed Himalayan river; hydroclimatic stress linked to agricultural vulnerability and settlement change. Author summary frames Early Phase ~5,200–4,500 y ago and Mature ~4,500–3,900 y ago (BP-style). Treat climate–collapse linkage as a scholarly model with multi-causal room — not sole deterministic cause.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-giosan-pnas-2012.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

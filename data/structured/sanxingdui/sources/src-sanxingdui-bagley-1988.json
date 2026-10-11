@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-bagley-1988",
+  "entity": "source",
+  "type": "article",
+  "citation": "Bagley, Robert W. 1988. “Sacrificial pits of the Shang period at Sanxingdui in Guanghan county, Sichuan Province.” Arts asiatiques 43: 78–86. DOI 10.3406/arasi.1988.1237. Persée: https://www.persee.fr/doc/arasi_0004-3958_1988_num_43_1_1237",
+  "url": "https://doi.org/10.3406/arasi.1988.1237",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Open-access Persée article summarizing early publications on 1986 Pits 1–2. Verified text (accessed 2026-10-11): Sanxingdui in Guanghan Xian ~40 km north of Chengdu; workers found archaic jades July 1986 after five excavation seasons 1980–1986; Pit 1 then Pit 2 excavated; excavators’ stratigraphy places pits in first half of Anyang period (13th or 12th century BCE); Pit 1 rectangular ~4.6 × 3.5 × 1.6 m; >300 objects (gold, bronze, jade, stone, pottery, cowries, 13 elephant tusks, burnt animal bones); contents burned then buried; Sichuan basin home of sophisticated bronze-using culture earlier than previously assumed. Title uses ‘Shang period’ as chronological label — not a claim that Sanxingdui was the Shang kingdom.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-bagley-1988.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

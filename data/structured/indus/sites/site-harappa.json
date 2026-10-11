@@ -1,0 +1,32 @@
+{
+  "id": "site-harappa",
+  "names": {
+    "zh": "哈拉帕",
+    "en": "Harappa",
+    "native": null
+  },
+  "kind_note": "Northern mega-site; Vats 1940 / Meadow ed. 1991",
+  "region": "Punjab, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "北部核心巨型遗址；Vats 1940 与 Meadow 编 1991 现代多学科季；约 150 ha 估计（经 Kenoyer）。",
+    "en": "Northern mega-site; Vats 1940 and Meadow ed. 1991; ~150 ha estimate via Kenoyer."
+  },
+  "sources": [
+    "src-indus-vats-1940",
+    "src-indus-meadow-harappa-1991",
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

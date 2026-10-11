@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-moseley-maritime-1975",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Moseley, Michael Edward. 1975. The Maritime Foundations of Andean Civilization. Menlo Park, Calif.: Cummings Publishing Company. xii, 131 p. ISBN (as catalogued) varies by printing.",
+  "url": "https://ehrafarchaeology.yale.edu/traditions/se40/documents/003",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Classic secondary monograph arguing that early central-coast complexity rested substantially on marine resources, sedentism, cotton/net technology, and corporate monumental labor — not intensive agriculture alone. Highly influential and heavily debated (see Raymond 1981). Tier S scholarly model. Do not copy ‘maritime foundations’ as settled fact; label as Moseley’s model.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-moseley-maritime-1975.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

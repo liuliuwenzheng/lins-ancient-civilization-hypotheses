@@ -1,0 +1,30 @@
+{
+  "id": "site-rakhigarhi",
+  "names": {
+    "zh": "拉希加里",
+    "en": "Rakhigarhi",
+    "native": null
+  },
+  "kind_note": ">50 ha survey estimate (via Kenoyer citing Mughal)",
+  "region": "Haryana, India",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "与摩亨佐-达罗、哈拉帕并列的 >50 ha 级聚落（约 80 ha 调查估计）。",
+    "en": "Listed among >50 ha centers (~80 ha survey estimate)."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

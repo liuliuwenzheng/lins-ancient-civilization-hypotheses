@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-unesco-tentative-2013",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. “Archaeological Sites of the Ancient Shu State: Site at Jinsha and Joint Tombs of Boat-shaped Coffins in Chengdu City, Sichuan Province; Site of Sanxingdui in Guanghan City, Sichuan Province 29C.BC-5C.BC.” Tentative Lists, ID 5816. Submitted by China. https://whc.unesco.org/en/tentativelists/5816/",
+  "url": "https://whc.unesco.org/en/tentativelists/5816/",
+  "access_date": "2026-10-11",
+  "reliability_tier": "T",
+  "notes": "Tertiary UNESCO Tentative List page (not an inscribed World Heritage property as of access date). Useful only for: (1) official grouping of Sanxingdui with Jinsha and Chengdu boat-coffin tombs under ‘Ancient Shu State’ nomination title; (2) that the property remains tentative. Do NOT treat nomination marketing dates or ‘Shu State’ label as settled archaeological polity fact.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-unesco-tentative-2013.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

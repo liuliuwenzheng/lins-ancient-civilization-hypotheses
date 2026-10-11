@@ -1,0 +1,44 @@
+{
+  "id": "asm-aegean-linear-b-tablets",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Linear B 泥板（组合级）",
+    "en": "Linear B tablets (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos",
+    "site-knossos"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "迈锡尼希腊语音节文字行政文书；Ventris & Chadwick 1956；皮洛斯档案语境。",
+    "en": "Mycenaean Greek administrative syllabic script; Ventris & Chadwick 1956; Pylos archive context."
+  },
+  "sources": [
+    "src-aegean-ventris-chadwick-1956",
+    "src-aegean-blegen-rawson-pylos-1966",
+    "src-aegean-chadwick-1976"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged tablet images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

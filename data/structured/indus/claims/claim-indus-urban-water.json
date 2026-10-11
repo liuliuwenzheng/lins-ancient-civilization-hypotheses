@@ -1,0 +1,35 @@
+{
+  "id": "claim-indus-urban-water",
+  "kind": "fact",
+  "statement": {
+    "zh": "摩亨佐-达罗等整合期城市具有发达的井与排水系统；功能标签（大浴场/粮仓）仍属推测。",
+    "en": "Integration Era cities such as Mohenjo-daro have elaborate wells and drains; functional labels (Great Bath/granaries) remain speculative."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [
+    "asm-indus-great-bath-wells-drains"
+  ],
+  "sources": [
+    "src-indus-marshall-1931",
+    "src-indus-mackay-1938",
+    "src-indus-kenoyer-1991"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

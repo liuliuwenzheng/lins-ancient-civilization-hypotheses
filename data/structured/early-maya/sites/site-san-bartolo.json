@@ -1,0 +1,30 @@
+{
+  "id": "site-san-bartolo",
+  "names": {
+    "zh": "圣巴托洛",
+    "en": "San Bartolo",
+    "native": null
+  },
+  "kind_note": "Late Preclassic murals and early writing",
+  "region": "northeastern Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "晚前古典壁画与早期文字；Saturno, Stuart & Beltrán 2006 Science。",
+    "en": "Late Preclassic murals and early writing; Saturno, Stuart & Beltrán 2006 Science."
+  },
+  "sources": [
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-china-loewe-shaughnessy-cambridge-1999",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Loewe, Michael, and Edward L. Shaughnessy, eds. 1999. The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C. Cambridge: Cambridge University Press. ISBN 9780521470308. Includes Bagley, Robert W. “Shang Archaeology,” pp. 124–231.",
+  "url": "https://doi.org/10.1017/CHOL9780521470308",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary Cambridge multi-author history. Bagley’s Shang Archaeology chapter (pp. 124–231 per Cambridge Core TOC, accessed 2026-10-11) surveys Shang archaeology with emphasis on bronzes and Early Bronze Age sites, distinguishing textual Shang from broader archaeological evidence. Use Bagley chapter statements only when corroborated by publisher TOC/abstract-level claims already verified elsewhere; no invented page quotes beyond the registered page range of the chapter.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-loewe-shaughnessy-cambridge-1999.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "period-china-xiaoshuangqiao-huanbei",
+  "names": {
+    "zh": "小双桥–洹北期",
+    "en": "Xiaoshuangqiao–Huanbei"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "time": {
+    "label": "transitional between Erligang and Anyang",
+    "approx_from_bce": 1400,
+    "approx_to_bce": 1250,
+    "scheme_note": "Campbell 2014"
+  },
+  "summary": {
+    "zh": "二里岗与安阳之间的过渡视界。",
+    "en": "Transitional horizon between Erligang and Anyang."
+  },
+  "sources": [
+    "src-china-campbell-bronze-age-2014"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

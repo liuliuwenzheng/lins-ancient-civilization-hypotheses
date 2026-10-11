@@ -1,0 +1,30 @@
+{
+  "id": "claim-maya-classic-onset-3c",
+  "kind": "fact",
+  "statement": {
+    "zh": "Estrada-Belli：古典期由公元 3 世纪早期雕刻王室纪念碑开启；本条止于早古典开端。",
+    "en": "Estrada-Belli: the Classic is inaugurated by early carved royal monuments in the 3rd century CE; this entry stops at Early Classic onset."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-maya-early-classic-onset"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-maya-estrada-belli-2011",
+    "src-maya-sharer-traxler-2006"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

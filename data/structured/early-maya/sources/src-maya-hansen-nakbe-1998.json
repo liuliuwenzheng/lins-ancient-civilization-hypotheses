@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-hansen-nakbe-1998",
+  "entity": "source",
+  "type": "article",
+  "citation": "Hansen, Richard D. 1998. Continuity and Discontinuity: The Early Middle Preclassic Architecture of Nakbé, Petén, Guatemala. In The Emergence of Lowland Maya Civilization: The Transition from the Preclassic to the Early Classic, edited by Nikolai Grube, 39–57. Acta Mesoamericana 8. Möckmühl: Verlag Anton Saurwein. (Related FAMSI project reports also summarize Nakbé architectural development.)",
+  "url": "https://www.famsi.org/reports/95113/95113Hansen01.pdf",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary chapter / project synthesis on Middle Preclassic monumental architecture at Nakbé in the Mirador Basin. FAMSI report 95113 (Hansen) provides related open project summary of architectural development. Absolute endpoints continue to be refined; use as site orientation, not a closed state-formation verdict. No invented page numbers beyond chapter span where verified.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-hansen-nakbe-1998.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

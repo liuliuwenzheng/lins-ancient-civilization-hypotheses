@@ -1,0 +1,30 @@
+{
+  "id": "site-pativilca-tested-cluster",
+  "names": {
+    "zh": "帕蒂维尔卡谷试掘遗址群",
+    "en": "Pativilca Valley tested site cluster",
+    "native": null
+  },
+  "kind_note": "Nine sites tested; seven Late Archaic occupations",
+  "region": "Pativilca Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "九处试测；七处晚古风占用约 2740–1870 cal BCE。",
+    "en": "Nine sites tested; seven Late Archaic occupations ~2740–1870 cal BCE."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-haas-pativilca-2007"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

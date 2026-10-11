@@ -1,0 +1,42 @@
+{
+  "id": "asm-china-erlitou-prestige-jades",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "二里头声望玉器与礼器（组合级）",
+    "en": "Erlitou prestige jades and ritual objects (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou"
+  ],
+  "period_ids": [
+    "period-china-erlitou"
+  ],
+  "summary": {
+    "zh": "二里头墓葬/礼仪语境中的玉礼器与声望物品；最小考古定义。",
+    "en": "Prestige jades and ritual objects in Erlitou burial/ritual contexts under minimal archaeological definition."
+  },
+  "sources": [
+    "src-china-thorp-erlitou-xia-1991",
+    "src-china-underhill-companion-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

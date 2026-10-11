@@ -1,0 +1,30 @@
+{
+  "id": "site-huanbei-xiaoshuangqiao",
+  "names": {
+    "zh": "洹北商城与小双桥",
+    "en": "Huanbei and Xiaoshuangqiao",
+    "native": null
+  },
+  "kind_note": "Transitional locales Erligang–Anyang",
+  "region": "Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "Campbell 专章所标二里岗—安阳过渡期重要地点。",
+    "en": "Transitional locales in Campbell’s dedicated chapter between Erligang and Anyang."
+  },
+  "sources": [
+    "src-china-campbell-bronze-age-2014"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

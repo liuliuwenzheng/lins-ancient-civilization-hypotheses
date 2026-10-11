@@ -1,0 +1,30 @@
+{
+  "id": "site-chalcatzingo",
+  "names": {
+    "zh": "查尔卡钦戈",
+    "en": "Chalcatzingo",
+    "native": null
+  },
+  "kind_note": "Highland Morelos Formative center with Olmec-style art",
+  "region": "Morelos highlands, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "海湾心脏地带以外、带奥尔梅克风格纪念性艺术的形成期中心；互动锚点，非殖民地定论。",
+    "en": "Formative center with Olmec-style monumental art outside the heartland; interaction anchor, not a colony verdict."
+  },
+  "sources": [
+    "src-olmec-grove-chalcatzingo-1987"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

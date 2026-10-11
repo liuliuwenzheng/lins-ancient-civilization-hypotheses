@@ -1,0 +1,31 @@
+{
+  "id": "site-zhengzhou-erligang",
+  "names": {
+    "zh": "郑州商城及相关二里岗中心",
+    "en": "Zhengzhou and Erligang centers",
+    "native": null
+  },
+  "kind_note": "Early metropolitan horizon under Erligang frame",
+  "region": "Central Plains, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "Campbell 二里岗期与 Liu & Chen 早期国家框架下的早期都会/中心；不编造城墙长度或宫殿清单。",
+    "en": "Early metropolitan horizons under Campbell’s Erligang chapter and Liu & Chen’s early-state frame; no invented wall lengths or palace inventories."
+  },
+  "sources": [
+    "src-china-campbell-bronze-age-2014",
+    "src-china-liu-chen-archaeology-2012"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

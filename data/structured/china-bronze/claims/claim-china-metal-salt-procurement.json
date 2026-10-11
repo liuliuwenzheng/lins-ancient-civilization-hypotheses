@@ -1,0 +1,29 @@
+{
+  "id": "claim-china-metal-salt-procurement",
+  "kind": "fact",
+  "statement": {
+    "zh": "Liu & Chen 2003 强调约公元前 1800–1400 年早期国家形成与金属、盐等关键外部资源获取相关。",
+    "en": "Liu & Chen 2003 emphasize early-state dynamics ~1800–1400 BCE linked to procurement of key external resources, especially metal and salt."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-china-liu-chen-resource-window"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-liu-chen-state-formation-2003"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

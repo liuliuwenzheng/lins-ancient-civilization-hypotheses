@@ -1,0 +1,32 @@
+{
+  "id": "period-indus-early-food-producing",
+  "names": {
+    "zh": "早期食物生产时代",
+    "en": "Early Food Producing Era"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "time": {
+    "label": "ca. 6500–5000 BCE",
+    "approx_from_bce": 6500,
+    "approx_to_bce": 5000,
+    "scheme_note": "Kenoyer 1991 Table I"
+  },
+  "summary": {
+    "zh": "Kenoyer 1991 Table I 早期食物生产时代。",
+    "en": "Kenoyer 1991 Table I Early Food Producing Era."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

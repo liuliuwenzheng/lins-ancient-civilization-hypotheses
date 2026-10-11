@@ -1,0 +1,31 @@
+{
+  "id": "site-caballete",
+  "names": {
+    "zh": "卡瓦列特",
+    "en": "Caballete",
+    "native": null
+  },
+  "kind_note": "Fortaleza Late Archaic monumental center (~8 km inland)",
+  "region": "Fortaleza Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "约 8 km 内陆；六座大型平台丘大致 U 形环广场；晚古风试掘与玉米证据。",
+    "en": "~8 km inland; six large platform mounds in rough U around plaza; Late Archaic testing and maize evidence."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013",
+    "src-andes-haas-creamer-pnas-maize-2013"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

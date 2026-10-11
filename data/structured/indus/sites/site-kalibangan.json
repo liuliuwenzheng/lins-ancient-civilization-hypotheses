@@ -1,0 +1,30 @@
+{
+  "id": "site-kalibangan",
+  "names": {
+    "zh": "卡利班甘",
+    "en": "Kalibangan",
+    "native": null
+  },
+  "kind_note": "Regional center; plowed-field grid cited via Kenoyer",
+  "region": "Rajasthan, India",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "第二层级中心；Kenoyer 综述引犁耕田垄遗迹。",
+    "en": "Second-tier center; Kenoyer survey cites plowed-field grid evidence."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

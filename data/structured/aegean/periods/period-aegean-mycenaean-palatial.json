@@ -1,0 +1,34 @@
+{
+  "id": "period-aegean-mycenaean-palatial",
+  "names": {
+    "zh": "迈锡尼宫殿期",
+    "en": "Mycenaean palatial LH"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "time": {
+    "label": "later 2nd millennium; Linear B administrative era; Pylos end 13th c. BCE",
+    "approx_from_bce": 1400,
+    "approx_to_bce": 1200,
+    "scheme_note": "Chadwick 1976; Ventris & Chadwick 1956; Blegen & Rawson 1966"
+  },
+  "summary": {
+    "zh": "Linear B 行政文书时代；皮洛斯毁于公元前 13 世纪末。",
+    "en": "Linear B administrative era; Pylos destroyed end of 13th century B.C."
+  },
+  "sources": [
+    "src-aegean-chadwick-1976",
+    "src-aegean-ventris-chadwick-1956",
+    "src-aegean-blegen-rawson-pylos-1966"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "site-dholavira",
+  "names": {
+    "zh": "陀罗维拉",
+    "en": "Dholavira",
+    "native": null
+  },
+  "kind_note": "Second-tier regional center (~10–50 ha)",
+  "region": "Kutch, India",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Kenoyer 综述中的第二层级区域中心；泥砖为主，石材可得处有变通。",
+    "en": "Second-tier regional center in Kenoyer’s survey; mud-brick architecture with stone where available."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

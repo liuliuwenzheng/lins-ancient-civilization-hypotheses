@@ -1,0 +1,29 @@
+{
+  "id": "claim-olmec-chalcatzingo-interaction",
+  "kind": "fact",
+  "statement": {
+    "zh": "查尔卡钦戈是海湾心脏地带以外带奥尔梅克风格纪念性艺术的形成期中心——互动/同侪网络锚点。",
+    "en": "Chalcatzingo is a Formative center with Olmec-style monumental art outside the heartland — an interaction / peer-network anchor."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-chalcatzingo"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-grove-chalcatzingo-1987"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

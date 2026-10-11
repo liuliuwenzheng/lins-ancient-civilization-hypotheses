@@ -1,0 +1,17 @@
+{
+  "id": "src-china-li-chi-anyang-1977",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Li, Chi (Li Ji 李济). 1977. Anyang. Seattle: University of Washington Press. ISBN 0295954905. xviii, 304 pp.",
+  "url": "https://archive.org/details/anyang0000lich",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary English narrative by the pioneering Anyang excavator on discovery and excavation history of the late Shang capital zone at Yinxu/Anyang. Research-history primary witness account (not a full modern final report). Use for research history and site orientation; modern periodization/find tallies require later IA CASS reports and Liu & Chen / Campbell syntheses.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-li-chi-anyang-1977.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

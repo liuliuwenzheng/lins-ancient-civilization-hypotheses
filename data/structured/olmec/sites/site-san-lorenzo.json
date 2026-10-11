@@ -1,0 +1,32 @@
+{
+  "id": "site-san-lorenzo",
+  "names": {
+    "zh": "圣洛伦佐·特诺奇蒂特兰",
+    "en": "San Lorenzo Tenochtitlán",
+    "native": null
+  },
+  "kind_note": "Early Formative Gulf mega-site",
+  "region": "southern Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "早期形成期海湾核心巨型遗址；Coe & Diehl 1980；Cyphers 2004 雕塑编目。",
+    "en": "Early Formative Gulf mega-site; Coe & Diehl 1980; Cyphers 2004 sculpture catalog."
+  },
+  "sources": [
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-pool-2007"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

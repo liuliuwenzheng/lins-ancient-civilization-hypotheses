@@ -1,0 +1,494 @@
+{
+  "pack": "china-bronze",
+  "title_en": "China Bronze Age (Central Plains overview)",
+  "title_zh": "中国青铜时代（中原总览）",
+  "civilization": {
+    "id": "civ-china-bronze",
+    "status": "fact-library",
+    "names": {
+      "zh": "中国青铜时代（中原总览）",
+      "en": "China Bronze Age (Central Plains overview)",
+      "native": "Erlitou / Shang–Zhou bronze traditions"
+    },
+    "region": "East Asia / China — Central Plains (Yellow River middle–lower reaches) focus",
+    "time_span": "Erlitou–Erligang early-state window ~1900/1800–1250 BCE; Late Shang ~1250–1046 BCE (Liu & Chen 2012); XSZCP bands contested",
+    "summary": {
+      "zh": "中原学术常规框架下的中国青铜时代：二里头、二里岗、殷墟安阳与商–周青铜礼器传统；夏史实性不写成定论；与三星堆分条。",
+      "en": "Central Plains scholarly conventional frame for China’s Bronze Age (Erlitou / Erligang / Anyang–Yinxu and Shang–Zhou ritual bronzes); Xia historicity not asserted as settled fact; Sanxingdui kept separate."
+    },
+    "sources": [
+      "src-china-thorp-erlitou-xia-1991",
+      "src-china-liu-chen-state-formation-2003",
+      "src-china-flad-chen-ancient-central-china-2013",
+      "src-china-bagley-shang-ritual-bronzes-1987",
+      "src-china-liu-chen-archaeology-2012",
+      "src-china-campbell-bronze-age-2014",
+      "src-china-keightley-oracle-bones-1978",
+      "src-china-chang-shang-civilization-1980",
+      "src-china-thorp-early-bronze-age-2006",
+      "src-china-li-chi-anyang-1977",
+      "src-china-loewe-shaughnessy-cambridge-1999",
+      "src-china-underhill-companion-2013",
+      "src-china-xszcp-jianben-2000",
+      "src-china-rawson-mysteries-1996"
+    ],
+    "related_ids": [
+      "civ-sanxingdui",
+      "civ-aegean",
+      "civ-indus-valley"
+    ]
+  },
+  "sites": [
+    {
+      "id": "site-erlitou",
+      "names": {
+        "zh": "二里头",
+        "en": "Erlitou",
+        "native": "二里头"
+      },
+      "kind_note": "Central Plains Early Bronze Age typesite",
+      "region": "Yanshi, Henan, China",
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "summary": {
+        "zh": "中原早期青铜时代关键类型遗址；Thorp 1991 最小考古定义不预设夏史实。",
+        "en": "Key Early Bronze Age typesite; Thorp 1991 minimal definition does not assume Xia historicity."
+      },
+      "sources": [
+        "src-china-thorp-erlitou-xia-1991",
+        "src-china-underhill-companion-2013",
+        "src-china-liu-chen-archaeology-2012"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-zhengzhou-erligang",
+      "names": {
+        "zh": "郑州商城及相关二里岗中心",
+        "en": "Zhengzhou and Erligang centers",
+        "native": null
+      },
+      "kind_note": "Early metropolitan horizon under Erligang frame",
+      "region": "Central Plains, Henan, China",
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "summary": {
+        "zh": "Campbell 二里岗期与 Liu & Chen 早期国家框架下的早期都会/中心；不编造城墙长度或宫殿清单。",
+        "en": "Early metropolitan horizons under Campbell’s Erligang chapter and Liu & Chen’s early-state frame; no invented wall lengths or palace inventories."
+      },
+      "sources": [
+        "src-china-campbell-bronze-age-2014",
+        "src-china-liu-chen-archaeology-2012"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-huanbei-xiaoshuangqiao",
+      "names": {
+        "zh": "洹北商城与小双桥",
+        "en": "Huanbei and Xiaoshuangqiao",
+        "native": null
+      },
+      "kind_note": "Transitional locales Erligang–Anyang",
+      "region": "Henan, China",
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "summary": {
+        "zh": "Campbell 专章所标二里岗—安阳过渡期重要地点。",
+        "en": "Transitional locales in Campbell’s dedicated chapter between Erligang and Anyang."
+      },
+      "sources": [
+        "src-china-campbell-bronze-age-2014"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-anyang-yinxu",
+      "names": {
+        "zh": "殷墟 / 安阳",
+        "en": "Yinxu / Anyang",
+        "native": "殷墟"
+      },
+      "kind_note": "Late Shang capital zone; oracle bones, royal cemeteries, workshops",
+      "region": "Anyang, Henan, China",
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "summary": {
+        "zh": "晚商都城考古区；甲骨文、王陵与铸铜手工业核心出土地。",
+        "en": "Late Shang capital zone; core for oracle bones, royal cemeteries, and bronze workshops."
+      },
+      "sources": [
+        "src-china-li-chi-anyang-1977",
+        "src-china-liu-chen-archaeology-2012",
+        "src-china-campbell-bronze-age-2014",
+        "src-china-chang-shang-civilization-1980",
+        "src-china-thorp-early-bronze-age-2006",
+        "src-china-keightley-oracle-bones-1978"
+      ],
+      "coordinates": null
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-china-erlitou",
+      "names": {
+        "zh": "二里头文化",
+        "en": "Erlitou culture"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "time": {
+        "label": "within early-state window ~1900/1800–1250 BC (front segment)",
+        "approx_from_bce": 1900,
+        "approx_to_bce": 1500,
+        "scheme_note": "Liu & Chen 2012; Thorp 1991 minimal definition — not equated with Xia dynasty"
+      },
+      "summary": {
+        "zh": "考古文化标签；≠已证夏朝。",
+        "en": "Archaeological culture label; not equated with proven Xia dynasty."
+      },
+      "sources": [
+        "src-china-liu-chen-archaeology-2012",
+        "src-china-thorp-erlitou-xia-1991",
+        "src-china-underhill-companion-2013"
+      ]
+    },
+    {
+      "id": "period-china-erligang",
+      "names": {
+        "zh": "二里岗期",
+        "en": "Erligang period"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "time": {
+        "label": "later segment of ~1900/1800–1250 BC early-state window",
+        "approx_from_bce": 1600,
+        "approx_to_bce": 1400,
+        "scheme_note": "Liu & Chen 2012; Campbell 2014 Erligang chapter"
+      },
+      "summary": {
+        "zh": "早期国家窗后段；Campbell 独立二里岗期章。",
+        "en": "Later early-state window; Campbell’s dedicated Erligang chapter."
+      },
+      "sources": [
+        "src-china-liu-chen-archaeology-2012",
+        "src-china-campbell-bronze-age-2014"
+      ]
+    },
+    {
+      "id": "period-china-xiaoshuangqiao-huanbei",
+      "names": {
+        "zh": "小双桥–洹北期",
+        "en": "Xiaoshuangqiao–Huanbei"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "time": {
+        "label": "transitional between Erligang and Anyang",
+        "approx_from_bce": 1400,
+        "approx_to_bce": 1250,
+        "scheme_note": "Campbell 2014"
+      },
+      "summary": {
+        "zh": "二里岗与安阳之间的过渡视界。",
+        "en": "Transitional horizon between Erligang and Anyang."
+      },
+      "sources": [
+        "src-china-campbell-bronze-age-2014"
+      ]
+    },
+    {
+      "id": "period-china-anyang-late-shang",
+      "names": {
+        "zh": "安阳期 / 晚商",
+        "en": "Anyang / Late Shang"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "time": {
+        "label": "~1250–1046 BC",
+        "approx_from_bce": 1250,
+        "approx_to_bce": 1046,
+        "scheme_note": "Liu & Chen 2012 Late Shang chapter; Keightley Wu Ding–Di Xin oracle-bone era"
+      },
+      "summary": {
+        "zh": "晚商及其邻境；甲骨文王室占卜时代。",
+        "en": "Late Shang and neighbors; oracle-bone royal divination era."
+      },
+      "sources": [
+        "src-china-liu-chen-archaeology-2012",
+        "src-china-campbell-bronze-age-2014",
+        "src-china-keightley-oracle-bones-1978"
+      ]
+    },
+    {
+      "id": "period-china-liu-chen-resource-window",
+      "names": {
+        "zh": "Liu & Chen 资源获取研究窗",
+        "en": "Liu & Chen resource-procurement window"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "time": {
+        "label": "~1800–1400 BCE",
+        "approx_from_bce": 1800,
+        "approx_to_bce": 1400,
+        "scheme_note": "Liu & Chen 2003 publisher-stated focus"
+      },
+      "summary": {
+        "zh": "金属与盐等外部资源获取动力学讨论窗。",
+        "en": "Window for metal and salt external resource procurement dynamics."
+      },
+      "sources": [
+        "src-china-liu-chen-state-formation-2003"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-china-ritual-bronzes",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "商–周礼器青铜（组合级）",
+        "en": "Shang–Zhou ritual bronzes (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [
+        "site-anyang-yinxu",
+        "site-erlitou"
+      ],
+      "period_ids": [
+        "period-china-anyang-late-shang",
+        "period-china-erlitou",
+        "period-china-erligang"
+      ],
+      "summary": {
+        "zh": "鼎、簋等容器与兵器、乐器；Bagley 1987 Sackler 专书为英语标准入口。",
+        "en": "Vessels (ding, gui, etc.), weapons, and bells; Bagley 1987 Sackler volume is the standard English entry."
+      },
+      "sources": [
+        "src-china-bagley-shang-ritual-bronzes-1987",
+        "src-china-loewe-shaughnessy-cambridge-1999"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged bronze images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-china-oracle-bones",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "晚商甲骨文（组合级）",
+        "en": "Late Shang oracle bones (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [
+        "site-anyang-yinxu"
+      ],
+      "period_ids": [
+        "period-china-anyang-late-shang"
+      ],
+      "summary": {
+        "zh": "武丁至帝辛约八九位商王时期；约十万片卜骨/卜甲残片；可系统释读的早期中国书写传统。",
+        "en": "Roughly eight or nine kings Wu Ding to Di Xin; ~100,000 scapula/plastron fragments; systematically readable early Chinese writing."
+      },
+      "sources": [
+        "src-china-keightley-oracle-bones-1978"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-china-erlitou-prestige-jades",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "二里头声望玉器与礼器（组合级）",
+        "en": "Erlitou prestige jades and ritual objects (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [
+        "site-erlitou"
+      ],
+      "period_ids": [
+        "period-china-erlitou"
+      ],
+      "summary": {
+        "zh": "二里头墓葬/礼仪语境中的玉礼器与声望物品；最小考古定义。",
+        "en": "Prestige jades and ritual objects in Erlitou burial/ritual contexts under minimal archaeological definition."
+      },
+      "sources": [
+        "src-china-thorp-erlitou-xia-1991",
+        "src-china-underhill-companion-2013"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged images."
+      },
+      "media_ids": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-china-central-plains-frame",
+      "kind": "fact",
+      "statement": {
+        "zh": "本条以二里头考古文化、二里岗、殷墟安阳与商–周青铜礼器传统为中原学术常规框架中心。",
+        "en": "This entry centers Erlitou archaeological culture, Erligang, Anyang/Yinxu Late Shang, and Shang–Zhou ritual bronze traditions as a Central Plains scholarly conventional frame."
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [
+        "site-erlitou",
+        "site-zhengzhou-erligang",
+        "site-anyang-yinxu"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-china-liu-chen-archaeology-2012",
+        "src-china-campbell-bronze-age-2014",
+        "src-china-bagley-shang-ritual-bronzes-1987"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-china-oracle-bones-readable",
+      "kind": "fact",
+      "statement": {
+        "zh": "晚商安阳甲骨文是可系统释读的早期中国书写传统，记录王室占卜及相关礼仪/行政议题。",
+        "en": "Late Shang Anyang oracle-bone script is among the earliest systematically readable Chinese writing traditions, recording royal divination and related ritual/administrative concerns."
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [
+        "site-anyang-yinxu"
+      ],
+      "period_ids": [
+        "period-china-anyang-late-shang"
+      ],
+      "object_ids": [
+        "asm-china-oracle-bones"
+      ],
+      "sources": [
+        "src-china-keightley-oracle-bones-1978"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-china-metal-salt-procurement",
+      "kind": "fact",
+      "statement": {
+        "zh": "Liu & Chen 2003 强调约公元前 1800–1400 年早期国家形成与金属、盐等关键外部资源获取相关。",
+        "en": "Liu & Chen 2003 emphasize early-state dynamics ~1800–1400 BCE linked to procurement of key external resources, especially metal and salt."
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-china-liu-chen-resource-window"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-china-liu-chen-state-formation-2003"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-china-multicentric",
+      "kind": "fact",
+      "statement": {
+        "zh": "Liu & Chen 2012 与 Flad & Chen 2013 强调社会政治演化多中心性；青铜时代中国不止中原一条线。",
+        "en": "Liu & Chen 2012 and Flad & Chen 2013 stress multicentric sociopolitical evolution; Bronze Age China is not only a Central Plains story."
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-china-liu-chen-archaeology-2012",
+        "src-china-flad-chen-ancient-central-china-2013",
+        "src-china-campbell-bronze-age-2014"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-china-xia-historicity",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "夏王朝历史真实性不写成定论；Thorp 1991 对二里头材料采「最小」考古定义，不预设夏史实。",
+        "en": "Xia dynasty historicity is not asserted as settled fact; Thorp 1991 proposes a minimal archaeological definition of Erlitou that does not assume Xia historicity."
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [
+        "site-erlitou"
+      ],
+      "period_ids": [
+        "period-china-erlitou"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-china-thorp-erlitou-xia-1991",
+        "src-china-xszcp-jianben-2000"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-china-xszcp-bands",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "夏商周断代工程简本绝对年方案（如夏始约 2070、商始约 1600、西周始 1046 BCE）属有争议的项目方案，不作唯一年表。",
+        "en": "XSZCP brief absolute bands (e.g. Xia ~2070, Shang ~1600, Western Zhou 1046 BCE) are a contested national project scheme, not treated as unique dogma."
+      },
+      "civilization_ids": [
+        "civ-china-bronze"
+      ],
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-china-xszcp-jianben-2000",
+        "src-china-liu-chen-archaeology-2012",
+        "src-china-thorp-erlitou-xia-1991"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    }
+  ],
+  "media": []
+}

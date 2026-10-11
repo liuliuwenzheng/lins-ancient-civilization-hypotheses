@@ -1,0 +1,32 @@
+{
+  "id": "period-andes-fortaleza-tested",
+  "names": {
+    "zh": "福塔莱萨试掘窗",
+    "en": "Fortaleza tested occupations"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "time": {
+    "label": "Late Archaic ~3000–1800 BC",
+    "approx_from_bce": 3000,
+    "approx_to_bce": 1800,
+    "scheme_note": "Creamer et al. 2013 Fieldiana"
+  },
+  "summary": {
+    "zh": "福塔莱萨晚古风试掘窗约 3000–1800 BC。",
+    "en": "Fortaleza Late Archaic tested window ~3000–1800 BC."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "period-china-liu-chen-resource-window",
+  "names": {
+    "zh": "Liu & Chen 资源获取研究窗",
+    "en": "Liu & Chen resource-procurement window"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "time": {
+    "label": "~1800–1400 BCE",
+    "approx_from_bce": 1800,
+    "approx_to_bce": 1400,
+    "scheme_note": "Liu & Chen 2003 publisher-stated focus"
+  },
+  "summary": {
+    "zh": "金属与盐等外部资源获取动力学讨论窗。",
+    "en": "Window for metal and salt external resource procurement dynamics."
+  },
+  "sources": [
+    "src-china-liu-chen-state-formation-2003"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

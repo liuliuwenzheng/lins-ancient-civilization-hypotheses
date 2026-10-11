@@ -1,0 +1,29 @@
+{
+  "id": "claim-china-multicentric",
+  "kind": "fact",
+  "statement": {
+    "zh": "Liu & Chen 2012 与 Flad & Chen 2013 强调社会政治演化多中心性；青铜时代中国不止中原一条线。",
+    "en": "Liu & Chen 2012 and Flad & Chen 2013 stress multicentric sociopolitical evolution; Bronze Age China is not only a Central Plains story."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-campbell-bronze-age-2014"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

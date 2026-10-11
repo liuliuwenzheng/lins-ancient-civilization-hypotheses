@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-wheeler-1968",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Wheeler, Mortimer. 1968. The Indus Civilization. 3rd ed. Supplementary volume to The Cambridge History of India. Cambridge: Cambridge University Press. ISBN 0521069580.",
+  "url": "https://archive.org/details/induscivilizatio0003whee",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Classic secondary synthesis (3rd ed. 1968), historically influential on citadel/lower-town and ‘priest-king’ framings. Many interpretations are outdated relative to post-1980s Harappa Project and settlement archaeology — register for research-history orientation and as a foil Kenoyer 1991 revises. Do not use Wheeler absolute dates or invasion narratives as current fact.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-wheeler-1968.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

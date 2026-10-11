@@ -1,0 +1,17 @@
+{
+  "id": "src-china-xszcp-jianben-2000",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Xia Shang Zhou Chronology Project Expert Group (夏商周断代工程专家组). 2000. 夏商周断代工程1996—2000年阶段成果报告：简本 [The Xia-Shang-Zhou Chronology Project Report on the 1996–2000 Provisional Results: Brief Edition]. Beijing: World Publishing Corporation (世界图书出版公司). ISBN 9787506241380 (commonly cited).",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Official brief report of the state-sponsored Xia–Shang–Zhou Chronology Project (XSZCP). Widely cited for proposed absolute bands (e.g. conventional Western Zhou start 1046 BCE; Shang start c. 1600 BCE; Xia start c. 2070 BCE in project publicity). HIGHLY CONTESTED in overseas and some Chinese scholarship for method and Xia historicity assumptions. Register as a documented chronological *scheme* — place disputed endpoints and Xia assumptions in Notes; do NOT treat as settled fact-library calendar.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-xszcp-jianben-2000.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

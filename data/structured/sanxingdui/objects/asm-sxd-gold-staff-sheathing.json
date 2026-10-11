@@ -1,0 +1,41 @@
+{
+  "id": "asm-sxd-gold-staff-sheathing",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "一号坑金杖包皮等金器（组合级）",
+    "en": "Pit 1 gold staff sheathing and related gold (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator"
+  ],
+  "summary": {
+    "zh": "Bagley 1988：金皮包木杖约 142 cm，饰人面、鱼、鸟等。",
+    "en": "Bagley 1988: ~142 cm sheet-gold tube over wood, with faces, fish, birds."
+  },
+  "sources": [
+    "src-sanxingdui-bagley-1988"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

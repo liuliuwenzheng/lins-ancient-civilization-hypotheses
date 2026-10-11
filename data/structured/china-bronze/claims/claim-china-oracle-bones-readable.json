@@ -1,0 +1,33 @@
+{
+  "id": "claim-china-oracle-bones-readable",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚商安阳甲骨文是可系统释读的早期中国书写传统，记录王室占卜及相关礼仪/行政议题。",
+    "en": "Late Shang Anyang oracle-bone script is among the earliest systematically readable Chinese writing traditions, recording royal divination and related ritual/administrative concerns."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-anyang-yinxu"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "object_ids": [
+    "asm-china-oracle-bones"
+  ],
+  "sources": [
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-el-mirador",
+  "names": {
+    "zh": "埃尔米拉多尔",
+    "en": "El Mirador",
+    "native": null
+  },
+  "kind_note": "Late Preclassic mega-temple / triadic complexes",
+  "region": "Mirador Basin, Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "晚前古典巨型神庙/三元组建筑；通论取向——不编造体积数字。",
+    "en": "Late Preclassic mega-temple / triadic complexes; survey orientation — no invented volumes."
+  },
+  "sources": [
+    "src-maya-estrada-belli-2011",
+    "src-maya-demarest-2004",
+    "src-maya-coe-houston-2015",
+    "src-maya-inomata-ceibal-plateau-2019"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

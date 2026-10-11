@@ -1,0 +1,33 @@
+{
+  "id": "period-olmec-early-formative",
+  "names": {
+    "zh": "早形成期（圣洛伦佐巅峰取向）",
+    "en": "Early Formative (San Lorenzo florescence orientation)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "time": {
+    "label": "Early Formative within Pool’s ~3500 ya emergence / ~1000-year floruit frame",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 1000,
+    "scheme_note": "Pool 2007; Coe & Diehl 1980 San Lorenzo"
+  },
+  "summary": {
+    "zh": "海湾早形成期核心；圣洛伦佐为关键锚点。",
+    "en": "Early Formative Gulf core; San Lorenzo as keystone anchor."
+  },
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-coe-diehl-san-lorenzo-1980"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

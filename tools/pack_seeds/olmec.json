@@ -1,0 +1,435 @@
+{
+  "pack": "olmec",
+  "title_en": "Olmec",
+  "title_zh": "奥尔梅克",
+  "civilization": {
+    "id": "civ-olmec",
+    "status": "fact-library",
+    "names": {
+      "zh": "奥尔梅克",
+      "en": "Olmec",
+      "native": "Olmec (modern scholarly label; Gulf Coast Formative culture)"
+    },
+    "region": "Mesoamerica / Gulf Coast lowlands (southern Veracruz and Tabasco, Mexico)",
+    "time_span": "ca. 1500–400 BCE conventional Formative floruit (Pool 2007: emerged ~3500 years ago; flourished ~1000 years)",
+    "summary": {
+      "zh": "墨西哥湾沿岸形成期奥尔梅克考古文化：圣洛伦佐、拉文塔等中心及海湾以外风格互动——非「中美洲母文化」定论。",
+      "en": "Formative Gulf Coast Olmec archaeological culture (San Lorenzo, La Venta, and interaction beyond the heartland) — not a settled “mother culture of Mesoamerica” verdict."
+    },
+    "sources": [
+      "src-olmec-pool-2007",
+      "src-olmec-diehl-2004",
+      "src-olmec-coe-diehl-san-lorenzo-1980",
+      "src-olmec-grove-chalcatzingo-1987",
+      "src-mesoamerica-nichols-pool-handbook-2012",
+      "src-maya-inomata-ceibal-science-2013",
+      "src-olmec-drucker-la-venta-1952",
+      "src-olmec-drucker-heizer-squier-1959",
+      "src-olmec-cyphers-escultura-2004",
+      "src-olmec-clark-pye-nga-2000",
+      "src-olmec-benson-fuente-1996",
+      "src-olmec-blomster-neff-glascock-2005",
+      "src-olmec-taube-doaks-2004"
+    ],
+    "related_ids": [
+      "civ-early-maya"
+    ]
+  },
+  "sites": [
+    {
+      "id": "site-san-lorenzo",
+      "names": {
+        "zh": "圣洛伦佐·特诺奇蒂特兰",
+        "en": "San Lorenzo Tenochtitlán",
+        "native": null
+      },
+      "kind_note": "Early Formative Gulf mega-site",
+      "region": "southern Veracruz, Mexico",
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "summary": {
+        "zh": "早期形成期海湾核心巨型遗址；Coe & Diehl 1980；Cyphers 2004 雕塑编目。",
+        "en": "Early Formative Gulf mega-site; Coe & Diehl 1980; Cyphers 2004 sculpture catalog."
+      },
+      "sources": [
+        "src-olmec-coe-diehl-san-lorenzo-1980",
+        "src-olmec-cyphers-escultura-2004",
+        "src-olmec-pool-2007"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-la-venta",
+      "names": {
+        "zh": "拉文塔",
+        "en": "La Venta",
+        "native": null
+      },
+      "kind_note": "Middle Formative Gulf center",
+      "region": "Tabasco, Mexico",
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "summary": {
+        "zh": "中形成期海湾核心；Drucker 1952；Drucker, Heizer & Squier 1959 Complex A 报告。",
+        "en": "Middle Formative Gulf center; Drucker 1952; Drucker, Heizer & Squier 1959 Complex A report."
+      },
+      "sources": [
+        "src-olmec-drucker-la-venta-1952",
+        "src-olmec-drucker-heizer-squier-1959",
+        "src-olmec-benson-fuente-1996",
+        "src-olmec-diehl-2004"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-chalcatzingo",
+      "names": {
+        "zh": "查尔卡钦戈",
+        "en": "Chalcatzingo",
+        "native": null
+      },
+      "kind_note": "Highland Morelos Formative center with Olmec-style art",
+      "region": "Morelos highlands, Mexico",
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "summary": {
+        "zh": "海湾心脏地带以外、带奥尔梅克风格纪念性艺术的形成期中心；互动锚点，非殖民地定论。",
+        "en": "Formative center with Olmec-style monumental art outside the heartland; interaction anchor, not a colony verdict."
+      },
+      "sources": [
+        "src-olmec-grove-chalcatzingo-1987"
+      ],
+      "coordinates": null
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-olmec-early-formative",
+      "names": {
+        "zh": "早形成期（圣洛伦佐巅峰取向）",
+        "en": "Early Formative (San Lorenzo florescence orientation)"
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "time": {
+        "label": "Early Formative within Pool’s ~3500 ya emergence / ~1000-year floruit frame",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 1000,
+        "scheme_note": "Pool 2007; Coe & Diehl 1980 San Lorenzo"
+      },
+      "summary": {
+        "zh": "海湾早形成期核心；圣洛伦佐为关键锚点。",
+        "en": "Early Formative Gulf core; San Lorenzo as keystone anchor."
+      },
+      "sources": [
+        "src-olmec-pool-2007",
+        "src-olmec-coe-diehl-san-lorenzo-1980"
+      ]
+    },
+    {
+      "id": "period-olmec-middle-formative",
+      "names": {
+        "zh": "中形成期（拉文塔取向）",
+        "en": "Middle Formative (La Venta orientation)"
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "time": {
+        "label": "Middle Formative within Pool floruit frame",
+        "approx_from_bce": 1000,
+        "approx_to_bce": 400,
+        "scheme_note": "Pool 2007; Drucker / Drucker-Heizer-Squier La Venta"
+      },
+      "summary": {
+        "zh": "拉文塔中形成期海湾中心与 Complex A 仪式序列。",
+        "en": "La Venta Middle Formative Gulf center and Complex A ritual sequences."
+      },
+      "sources": [
+        "src-olmec-pool-2007",
+        "src-olmec-drucker-heizer-squier-1959",
+        "src-olmec-drucker-la-venta-1952"
+      ]
+    },
+    {
+      "id": "period-olmec-formative-floruit",
+      "names": {
+        "zh": "奥尔梅克形成期繁荣总框",
+        "en": "Olmec Formative floruit (overview)"
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "time": {
+        "label": "emerged ~3500 years ago; flourished ~1000 years (Pool 2007 abstract)",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 400,
+        "scheme_note": "Pool 2007 Cambridge Core abstract"
+      },
+      "summary": {
+        "zh": "Pool 2007：约 3500 年前出现，随后约千年繁荣；南部韦拉克鲁斯–塔巴斯科低地。",
+        "en": "Pool 2007: emerged some 3500 years ago; flourished over the next 1000 years in southern Veracruz–Tabasco."
+      },
+      "sources": [
+        "src-olmec-pool-2007",
+        "src-olmec-diehl-2004"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-olmec-colossal-heads-sculpture",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "奥尔梅克巨型石雕与头像（组合级）",
+        "en": "Olmec colossal heads and stone sculpture (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [
+        "site-san-lorenzo",
+        "site-la-venta"
+      ],
+      "period_ids": [
+        "period-olmec-formative-floruit"
+      ],
+      "summary": {
+        "zh": "中美洲最早巨型石雕传统；圣洛伦佐雕塑语境见 Coe & Diehl / Cyphers；拉文塔艺术见 Drucker。",
+        "en": "First monumental stone art of Mesoamerica; San Lorenzo sculpture contexts via Coe & Diehl / Cyphers; La Venta art via Drucker."
+      },
+      "sources": [
+        "src-olmec-coe-diehl-san-lorenzo-1980",
+        "src-olmec-cyphers-escultura-2004",
+        "src-olmec-drucker-la-venta-1952",
+        "src-olmec-pool-2007",
+        "src-olmec-taube-doaks-2004"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": null,
+        "notes": "No forged monument images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-olmec-la-venta-complex-a-offerings",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "拉文塔 Complex A 埋藏供奉（组合级）",
+        "en": "La Venta Complex A buried offerings (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [
+        "site-la-venta"
+      ],
+      "period_ids": [
+        "period-olmec-middle-formative"
+      ],
+      "summary": {
+        "zh": "1955 年发掘报告中的仪式建筑序列、玉器等埋藏供奉与土墩/金字塔规划。",
+        "en": "Ritual architectural sequences, jade and other buried offerings, and mound/pyramid planning from the 1955 report."
+      },
+      "sources": [
+        "src-olmec-drucker-heizer-squier-1959",
+        "src-olmec-drucker-la-venta-1952"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": "https://repository.si.edu/handle/10088/15464",
+        "notes": "Outbound report only."
+      },
+      "media_ids": [
+        "media-la-venta-1955-si"
+      ]
+    },
+    {
+      "id": "asm-olmec-style-pottery-exchange",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "奥尔梅克风格陶器交流证据（组合级）",
+        "en": "Olmec-style pottery exchange evidence (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [
+        "site-san-lorenzo",
+        "site-chalcatzingo"
+      ],
+      "period_ids": [
+        "period-olmec-early-formative"
+      ],
+      "summary": {
+        "zh": "Blomster et al. 2005 化学成分论证海湾陶器生产与外销；有已发表批评——作互动证据而非帝国叙事。",
+        "en": "Blomster et al. 2005 compositional study of Gulf pottery production and export; published critiques exist — treat as interaction evidence, not empire narrative."
+      },
+      "sources": [
+        "src-olmec-blomster-neff-glascock-2005",
+        "src-olmec-pool-2007"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": "https://www.science.org/doi/10.1126/science.1107599",
+        "notes": "No forged pottery images."
+      },
+      "media_ids": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-olmec-gulf-heartland",
+      "kind": "fact",
+      "statement": {
+        "zh": "奥尔梅克考古文化以墨西哥南部韦拉克鲁斯与塔巴斯科热带低地为心脏地带；约 3500 年前出现并约千年繁荣。",
+        "en": "The Olmec archaeological culture is centered in the tropical lowlands of southern Veracruz and Tabasco; emerged some 3500 years ago and flourished for about 1000 years."
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [
+        "site-san-lorenzo",
+        "site-la-venta"
+      ],
+      "period_ids": [
+        "period-olmec-formative-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-olmec-pool-2007",
+        "src-olmec-diehl-2004"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-monumental-stone-art",
+      "kind": "fact",
+      "statement": {
+        "zh": "海湾奥尔梅克传统包含中美洲最早的巨型石雕艺术。",
+        "en": "Gulf Olmec traditions include the first monumental stone art of Mesoamerica."
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [
+        "site-san-lorenzo",
+        "site-la-venta"
+      ],
+      "period_ids": [
+        "period-olmec-formative-floruit"
+      ],
+      "object_ids": [
+        "asm-olmec-colossal-heads-sculpture"
+      ],
+      "sources": [
+        "src-olmec-pool-2007",
+        "src-olmec-coe-diehl-san-lorenzo-1980",
+        "src-olmec-cyphers-escultura-2004"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-chalcatzingo-interaction",
+      "kind": "fact",
+      "statement": {
+        "zh": "查尔卡钦戈是海湾心脏地带以外带奥尔梅克风格纪念性艺术的形成期中心——互动/同侪网络锚点。",
+        "en": "Chalcatzingo is a Formative center with Olmec-style monumental art outside the heartland — an interaction / peer-network anchor."
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [
+        "site-chalcatzingo"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-olmec-grove-chalcatzingo-1987"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-mother-culture",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "「中美洲母文化」vs「姊妹文化 / 同侪互动」仍属开放争议；Diehl 书名 primacy 语言不采纳为事实。",
+        "en": "“Mother culture of Mesoamerica” vs sister cultures / peer interaction remains open debate; Diehl title primacy language is not adopted as fact."
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-olmec-pool-2007",
+        "src-olmec-diehl-2004",
+        "src-olmec-clark-pye-nga-2000",
+        "src-mesoamerica-nichols-pool-handbook-2012"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-olmec-pottery-export-model",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "Blomster et al. 2005 陶器外销模型有已发表批评——作有出处的互动证据，不作帝国叙事。",
+        "en": "Blomster et al. 2005 pottery-export model has published critiques — treat as sourced interaction evidence, not an empire narrative."
+      },
+      "civilization_ids": [
+        "civ-olmec"
+      ],
+      "site_ids": [
+        "site-san-lorenzo"
+      ],
+      "period_ids": [
+        "period-olmec-early-formative"
+      ],
+      "object_ids": [
+        "asm-olmec-style-pottery-exchange"
+      ],
+      "sources": [
+        "src-olmec-blomster-neff-glascock-2005",
+        "src-olmec-pool-2007"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    }
+  ],
+  "media": [
+    {
+      "id": "media-la-venta-1955-si",
+      "title": {
+        "zh": "La Venta 1955 发掘报告 Smithsonian 仓储入口",
+        "en": "La Venta 1955 excavation report Smithsonian repository entry"
+      },
+      "media_type": "document-link",
+      "external_url": "https://repository.si.edu/handle/10088/15464",
+      "local_path": null,
+      "object_ids": [
+        "asm-olmec-la-venta-complex-a-offerings"
+      ],
+      "sources": [
+        "src-olmec-drucker-heizer-squier-1959"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": "Smithsonian Institution repository",
+        "upstream_url": "https://repository.si.edu/handle/10088/15464",
+        "notes": "Outbound primary report only."
+      }
+    }
+  ]
+}

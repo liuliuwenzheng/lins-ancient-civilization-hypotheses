@@ -1,0 +1,42 @@
+{
+  "id": "asm-andes-aspero-platforms",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿斯佩罗平台丘建筑组合",
+    "en": "Aspero platform-mound architectural assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-aspero"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "海岸前陶人工平台丘；社会不平等解读属学术模型。",
+    "en": "Coastal Preceramic artificial platform mounds; inequality readings are scholarly models."
+  },
+  "sources": [
+    "src-andes-moseley-willey-aspero-1973",
+    "src-andes-feldman-andean-state-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

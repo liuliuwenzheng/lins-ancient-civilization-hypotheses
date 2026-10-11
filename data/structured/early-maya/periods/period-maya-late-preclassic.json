@@ -1,0 +1,35 @@
+{
+  "id": "period-maya-late-preclassic",
+  "names": {
+    "zh": "晚前古典",
+    "en": "Late Preclassic"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "time": {
+    "label": "Late Preclassic urban/ritual florescence; San Bartolo early writing",
+    "approx_from_bce": 400,
+    "approx_to_bce": 250,
+    "scheme_note": "Estrada-Belli 2011; Demarest 2004; Saturno et al. 2006 — approx BCE for Preclassic; CE boundary via Classic onset"
+  },
+  "summary": {
+    "zh": "晚前古典城市/仪式峰值；圣巴托洛早期文字。",
+    "en": "Late Preclassic urban/ritual florescence; San Bartolo early writing."
+  },
+  "sources": [
+    "src-maya-estrada-belli-2011",
+    "src-maya-demarest-2004",
+    "src-maya-saturno-stuart-beltran-2006",
+    "src-maya-coe-houston-2015"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

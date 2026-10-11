@@ -1,0 +1,29 @@
+{
+  "id": "claim-china-xszcp-bands",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "夏商周断代工程简本绝对年方案（如夏始约 2070、商始约 1600、西周始 1046 BCE）属有争议的项目方案，不作唯一年表。",
+    "en": "XSZCP brief absolute bands (e.g. Xia ~2070, Shang ~1600, Western Zhou 1046 BCE) are a contested national project scheme, not treated as unique dogma."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-china-xszcp-jianben-2000",
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-thorp-erlitou-xia-1991"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

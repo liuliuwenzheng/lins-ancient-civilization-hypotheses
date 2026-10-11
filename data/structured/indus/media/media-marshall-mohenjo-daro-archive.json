@@ -1,0 +1,33 @@
+{
+  "id": "media-marshall-mohenjo-daro-archive",
+  "title": {
+    "zh": "Marshall 摩亨佐-达罗报告数字化入口",
+    "en": "Marshall Mohenjo-daro report digitization entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/in.ernet.dli.2015.62023",
+  "local_path": null,
+  "object_ids": [
+    "asm-indus-steatite-seals",
+    "asm-indus-great-bath-wells-drains"
+  ],
+  "sources": [
+    "src-indus-marshall-1931"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive / ASI memoir digitization",
+    "upstream_url": "https://archive.org/details/in.ernet.dli.2015.62023",
+    "notes": "Outbound document digitization only."
+  },
+  "entity": "media",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

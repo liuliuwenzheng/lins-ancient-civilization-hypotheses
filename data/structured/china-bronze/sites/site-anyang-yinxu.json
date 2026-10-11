@@ -1,0 +1,35 @@
+{
+  "id": "site-anyang-yinxu",
+  "names": {
+    "zh": "殷墟 / 安阳",
+    "en": "Yinxu / Anyang",
+    "native": "殷墟"
+  },
+  "kind_note": "Late Shang capital zone; oracle bones, royal cemeteries, workshops",
+  "region": "Anyang, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "晚商都城考古区；甲骨文、王陵与铸铜手工业核心出土地。",
+    "en": "Late Shang capital zone; core for oracle bones, royal cemeteries, and bronze workshops."
+  },
+  "sources": [
+    "src-china-li-chi-anyang-1977",
+    "src-china-liu-chen-archaeology-2012",
+    "src-china-campbell-bronze-age-2014",
+    "src-china-chang-shang-civilization-1980",
+    "src-china-thorp-early-bronze-age-2006",
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

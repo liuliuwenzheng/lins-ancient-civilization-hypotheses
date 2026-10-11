@@ -1,0 +1,32 @@
+{
+  "id": "period-indus-localization",
+  "names": {
+    "zh": "地方化时代",
+    "en": "Localization Era"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "time": {
+    "label": "1900–1300 BCE",
+    "approx_from_bce": 1900,
+    "approx_to_bce": 1300,
+    "scheme_note": "Kenoyer 1991 Table I"
+  },
+  "summary": {
+    "zh": "Late Harappan；Cemetery H、Jhukar、Rangpur 等地方名。",
+    "en": "Late Harappan; Cemetery H, Jhukar, Rangpur and related local names."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

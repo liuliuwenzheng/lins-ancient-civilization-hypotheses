@@ -1,0 +1,33 @@
+{
+  "id": "period-sxd-pit4-radiocarbon",
+  "names": {
+    "zh": "四号坑 AMS",
+    "en": "Pit 4 radiocarbon"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "time": {
+    "label": "1260–924 cal BC",
+    "approx_from_bce": 1260,
+    "approx_to_bce": 924,
+    "scheme_note": "Wu et al. 2021; Li et al. 2022"
+  },
+  "summary": {
+    "zh": "四号坑六个碳十四年代 1260–924 cal BC。",
+    "en": "Six radiocarbon dates from Pit 4: 1260–924 cal BC."
+  },
+  "sources": [
+    "src-sanxingdui-wu-ran-lei-2021",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

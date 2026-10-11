@@ -1,0 +1,33 @@
+{
+  "id": "site-la-venta",
+  "names": {
+    "zh": "拉文塔",
+    "en": "La Venta",
+    "native": null
+  },
+  "kind_note": "Middle Formative Gulf center",
+  "region": "Tabasco, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "中形成期海湾核心；Drucker 1952；Drucker, Heizer & Squier 1959 Complex A 报告。",
+    "en": "Middle Formative Gulf center; Drucker 1952; Drucker, Heizer & Squier 1959 Complex A report."
+  },
+  "sources": [
+    "src-olmec-drucker-la-venta-1952",
+    "src-olmec-drucker-heizer-squier-1959",
+    "src-olmec-benson-fuente-1996",
+    "src-olmec-diehl-2004"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

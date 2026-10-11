@@ -1,0 +1,79 @@
+{
+  "id": "civ-indus-valley",
+  "status": "fact-library",
+  "names": {
+    "zh": "印度河",
+    "en": "Indus Valley",
+    "native": "Harappa / Indus Tradition"
+  },
+  "region": "South Asia / NW South Asia — Indus and Ghaggar-Hakra basins (Pakistan and northwest India)",
+  "time_span": "Early Food Producing ~6500–5000 BCE; Regionalization ~5000–2600 BCE; Integration / Mature Harappan ~2600–1900 BCE; Localization ~1900–1300 BCE (Kenoyer 1991)",
+  "summary": {
+    "zh": "南亚西北部印度河传统（Harappan）早期城市社会；主张均挂已登记来源；文字未破译为研究现况。",
+    "en": "Indus Tradition / Harappan urban society of NW South Asia; every major claim tied to registered sources; undeciphered script recorded as research status."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991",
+    "src-indus-wright-2010",
+    "src-indus-kenoyer-cambridge-2014",
+    "src-indus-possehl-2002",
+    "src-indus-marshall-1931",
+    "src-indus-meadow-harappa-1991",
+    "src-indus-kenoyer-1998",
+    "src-indus-mackay-1938",
+    "src-indus-vats-1940",
+    "src-indus-parpola-1994",
+    "src-indus-giosan-pnas-2012",
+    "src-indus-rao-lothal-1979",
+    "src-indus-ratnagar-2004",
+    "src-indus-unesco-moenjodaro-1980",
+    "src-indus-wheeler-1968"
+  ],
+  "related_ids": [
+    "civ-mesopotamia",
+    "civ-ancient-egypt",
+    "civ-aegean"
+  ],
+  "entity": "civilization",
+  "kind": "fact",
+  "site_ids": [
+    "site-mohenjo-daro",
+    "site-harappa",
+    "site-dholavira",
+    "site-lothal",
+    "site-kalibangan",
+    "site-rakhigarhi"
+  ],
+  "period_ids": [
+    "period-indus-early-food-producing",
+    "period-indus-regionalization",
+    "period-indus-integration",
+    "period-indus-localization",
+    "period-indus-giosan-bp-window"
+  ],
+  "claim_ids": [
+    "claim-indus-kenoyer-eras",
+    "claim-indus-script-undeciphered",
+    "claim-indus-urban-water",
+    "claim-indus-ghaggar-monsoon-fed",
+    "claim-indus-meluhha-contact",
+    "claim-indus-empire-vs-network",
+    "claim-indus-lothal-dock",
+    "claim-indus-parpola-decipherment"
+  ],
+  "object_ids": [
+    "asm-indus-steatite-seals",
+    "asm-indus-cubical-weights",
+    "asm-indus-great-bath-wells-drains",
+    "asm-indus-lothal-warehouse-basin"
+  ],
+  "markdown_path": "data/civilizations/civ-indus-valley.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

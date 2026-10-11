@@ -1,0 +1,30 @@
+{
+  "id": "media-unesco-sxd-tentative",
+  "title": {
+    "zh": "教科文古蜀国预备名单条目",
+    "en": "UNESCO Ancient Shu State Tentative List entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/tentativelists/5816/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-unesco-tentative-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/tentativelists/5816/",
+    "notes": "Tentative list only; nomination title ≠ polity verdict."
+  },
+  "entity": "media",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "civ-olmec",
+  "status": "fact-library",
+  "names": {
+    "zh": "奥尔梅克",
+    "en": "Olmec",
+    "native": "Olmec (modern scholarly label; Gulf Coast Formative culture)"
+  },
+  "region": "Mesoamerica / Gulf Coast lowlands (southern Veracruz and Tabasco, Mexico)",
+  "time_span": "ca. 1500–400 BCE conventional Formative floruit (Pool 2007: emerged ~3500 years ago; flourished ~1000 years)",
+  "summary": {
+    "zh": "墨西哥湾沿岸形成期奥尔梅克考古文化：圣洛伦佐、拉文塔等中心及海湾以外风格互动——非「中美洲母文化」定论。",
+    "en": "Formative Gulf Coast Olmec archaeological culture (San Lorenzo, La Venta, and interaction beyond the heartland) — not a settled “mother culture of Mesoamerica” verdict."
+  },
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004",
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-grove-chalcatzingo-1987",
+    "src-mesoamerica-nichols-pool-handbook-2012",
+    "src-maya-inomata-ceibal-science-2013",
+    "src-olmec-drucker-la-venta-1952",
+    "src-olmec-drucker-heizer-squier-1959",
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-clark-pye-nga-2000",
+    "src-olmec-benson-fuente-1996",
+    "src-olmec-blomster-neff-glascock-2005",
+    "src-olmec-taube-doaks-2004"
+  ],
+  "related_ids": [
+    "civ-early-maya"
+  ],
+  "entity": "civilization",
+  "kind": "fact",
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta",
+    "site-chalcatzingo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative",
+    "period-olmec-middle-formative",
+    "period-olmec-formative-floruit"
+  ],
+  "claim_ids": [
+    "claim-olmec-gulf-heartland",
+    "claim-olmec-monumental-stone-art",
+    "claim-olmec-chalcatzingo-interaction",
+    "claim-olmec-mother-culture",
+    "claim-olmec-pottery-export-model"
+  ],
+  "object_ids": [
+    "asm-olmec-colossal-heads-sculpture",
+    "asm-olmec-la-venta-complex-a-offerings",
+    "asm-olmec-style-pottery-exchange"
+  ],
+  "markdown_path": "data/civilizations/civ-olmec.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

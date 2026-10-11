@@ -1,0 +1,32 @@
+{
+  "id": "claim-andes-aceramic-no-writing",
+  "kind": "fact",
+  "statement": {
+    "zh": "已登记晚古风文献强调无陶，并报告建筑、垃圾、植物遗存与碳十四；未报道文字或泥板行政。",
+    "en": "Registered Late Archaic literature emphasizes aceramic assemblages and reports architecture, refuse, botanical remains, and radiocarbon; no writing or tablet administration reported."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-andes-haas-creamer-ruiz-norte-chico-2004",
+    "src-andes-creamer-ruiz-haas-pativilca-2007",
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013",
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

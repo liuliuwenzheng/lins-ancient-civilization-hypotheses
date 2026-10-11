@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-olmec-influence-direction",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "奥尔梅克—玛雅影响方向仍属争论；早期低地仪式复杂化与海湾奥尔梅克互动的因果方向不作定论。",
+    "en": "Olmec–Maya influence direction remains debated; causal direction between early lowland ceremonial complexity and Gulf Olmec interaction is not settled here."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-ceibal"
+  ],
+  "period_ids": [
+    "period-maya-early-preclassic-ceibal"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-maya-inomata-ceibal-science-2013",
+    "src-olmec-pool-2007",
+    "src-mesoamerica-nichols-pool-handbook-2012"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "period-olmec-formative-floruit",
+  "names": {
+    "zh": "奥尔梅克形成期繁荣总框",
+    "en": "Olmec Formative floruit (overview)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "time": {
+    "label": "emerged ~3500 years ago; flourished ~1000 years (Pool 2007 abstract)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 400,
+    "scheme_note": "Pool 2007 Cambridge Core abstract"
+  },
+  "summary": {
+    "zh": "Pool 2007：约 3500 年前出现，随后约千年繁荣；南部韦拉克鲁斯–塔巴斯科低地。",
+    "en": "Pool 2007: emerged some 3500 years ago; flourished over the next 1000 years in southern Veracruz–Tabasco."
+  },
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

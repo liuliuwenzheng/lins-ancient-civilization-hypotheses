@@ -1,0 +1,31 @@
+{
+  "id": "site-cival",
+  "names": {
+    "zh": "西瓦尔",
+    "en": "Cival",
+    "native": null
+  },
+  "kind_note": "Early complex ritual / large-scale leveling",
+  "region": "northeastern Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Estrada-Belli 项目语境中的早期复杂仪式与中前古典末期大规模整平/礼仪景观。",
+    "en": "Early complex ritual and large-scale leveling in Estrada-Belli’s frame."
+  },
+  "sources": [
+    "src-maya-estrada-belli-2011",
+    "src-maya-inomata-ceibal-plateau-2019"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-minoan-thalassocracy",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "「米诺斯海上霸权 / thalassocracy」作为解释模型有历史影响但受争议，不作定论。",
+    "en": "Minoan “thalassocracy” is a historically influential but contested interpretive model, not settled fact."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-evans-palace-of-minos-1921",
+    "src-aegean-dickinson-1994"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

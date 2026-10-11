@@ -1,0 +1,519 @@
+{
+  "pack": "early-maya",
+  "title_en": "Early Maya",
+  "title_zh": "早期玛雅",
+  "civilization": {
+    "id": "civ-early-maya",
+    "status": "fact-library",
+    "names": {
+      "zh": "早期玛雅",
+      "en": "Early Maya",
+      "native": "Maya (scholarly label; Preclassic–Early Classic frame)"
+    },
+    "region": "Mesoamerica / Maya region (lowland Petén–Belize–Yucatán and adjacent zones; Preclassic centers emphasized)",
+    "time_span": "Early Preclassic–Early Classic: Formative sedentary/ceramic beginnings ~1000 BCE at Ceibal (Inomata et al. 2013); Classic onset 3rd century CE (Estrada-Belli 2011) — not full Classic encyclopedia",
+    "summary": {
+      "zh": "早前古典期至早古典期：前古典低地复杂化（塞瓦尔、纳克贝、埃尔米拉多尔、西瓦尔、圣巴托洛等），止于古典期开端。",
+      "en": "Early Preclassic through Early Classic: Preclassic lowland complexity (Ceibal, Nakbe, El Mirador, Cival, San Bartolo), stopping at Classic onset."
+    },
+    "sources": [
+      "src-maya-sharer-traxler-2006",
+      "src-maya-estrada-belli-2011",
+      "src-maya-inomata-ceibal-science-2013",
+      "src-mesoamerica-nichols-pool-handbook-2012",
+      "src-olmec-pool-2007",
+      "src-maya-saturno-stuart-beltran-2006",
+      "src-maya-clark-hansen-2001",
+      "src-maya-demarest-2004",
+      "src-maya-inomata-ceibal-plateau-2019",
+      "src-maya-coe-houston-2015",
+      "src-maya-hansen-nakbe-1998",
+      "src-maya-willey-seibal-1975"
+    ],
+    "related_ids": [
+      "civ-olmec"
+    ]
+  },
+  "sites": [
+    {
+      "id": "site-ceibal",
+      "names": {
+        "zh": "塞瓦尔（Seibal）",
+        "en": "Ceibal (Seibal)",
+        "native": null
+      },
+      "kind_note": "Early Pasión lowland ceremonial center; Preclassic focus of Inomata project",
+      "region": "Pasión River, Petén, Guatemala",
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "summary": {
+        "zh": "Harvard 皮博迪报告偏古典；Inomata 项目聚焦前古典：约公元前 1000 年起仪式空间与 E 组、人造高原。",
+        "en": "Peabody series Classic-focused; Inomata project on Preclassic ceremonial space / E-Group and artificial plateaus from ~1000 BCE."
+      },
+      "sources": [
+        "src-maya-willey-seibal-1975",
+        "src-maya-inomata-ceibal-science-2013",
+        "src-maya-inomata-ceibal-plateau-2019"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-nakbe",
+      "names": {
+        "zh": "纳克贝",
+        "en": "Nakbe",
+        "native": null
+      },
+      "kind_note": "Mirador Basin Middle Preclassic monumental architecture",
+      "region": "Mirador Basin, Petén, Guatemala",
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "summary": {
+        "zh": "米拉多尔盆地中前古典大型建筑发展；Hansen 1998。",
+        "en": "Mirador Basin Middle Preclassic monumental architecture; Hansen 1998."
+      },
+      "sources": [
+        "src-maya-hansen-nakbe-1998",
+        "src-maya-estrada-belli-2011"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-el-mirador",
+      "names": {
+        "zh": "埃尔米拉多尔",
+        "en": "El Mirador",
+        "native": null
+      },
+      "kind_note": "Late Preclassic mega-temple / triadic complexes",
+      "region": "Mirador Basin, Petén, Guatemala",
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "summary": {
+        "zh": "晚前古典巨型神庙/三元组建筑；通论取向——不编造体积数字。",
+        "en": "Late Preclassic mega-temple / triadic complexes; survey orientation — no invented volumes."
+      },
+      "sources": [
+        "src-maya-estrada-belli-2011",
+        "src-maya-demarest-2004",
+        "src-maya-coe-houston-2015",
+        "src-maya-inomata-ceibal-plateau-2019"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-cival",
+      "names": {
+        "zh": "西瓦尔",
+        "en": "Cival",
+        "native": null
+      },
+      "kind_note": "Early complex ritual / large-scale leveling",
+      "region": "northeastern Petén, Guatemala",
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "summary": {
+        "zh": "Estrada-Belli 项目语境中的早期复杂仪式与中前古典末期大规模整平/礼仪景观。",
+        "en": "Early complex ritual and large-scale leveling in Estrada-Belli’s frame."
+      },
+      "sources": [
+        "src-maya-estrada-belli-2011",
+        "src-maya-inomata-ceibal-plateau-2019"
+      ],
+      "coordinates": null
+    },
+    {
+      "id": "site-san-bartolo",
+      "names": {
+        "zh": "圣巴托洛",
+        "en": "San Bartolo",
+        "native": null
+      },
+      "kind_note": "Late Preclassic murals and early writing",
+      "region": "northeastern Petén, Guatemala",
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "summary": {
+        "zh": "晚前古典壁画与早期文字；Saturno, Stuart & Beltrán 2006 Science。",
+        "en": "Late Preclassic murals and early writing; Saturno, Stuart & Beltrán 2006 Science."
+      },
+      "sources": [
+        "src-maya-saturno-stuart-beltran-2006"
+      ],
+      "coordinates": null
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-maya-early-preclassic-ceibal",
+      "names": {
+        "zh": "早前古典（塞瓦尔仪式开端）",
+        "en": "Early Preclassic (Ceibal ceremonial beginnings)"
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "time": {
+        "label": "~1000 BCE sedentary/ceramic and ceremonial beginnings at Ceibal",
+        "approx_from_bce": 1000,
+        "approx_to_bce": 800,
+        "scheme_note": "Inomata et al. 2013 Science"
+      },
+      "summary": {
+        "zh": "约公元前 1000 年起低地仪式空间与陶瓷定居要素。",
+        "en": "Lowland ceremonial space and ceramic sedentary elements from ~1000 BCE."
+      },
+      "sources": [
+        "src-maya-inomata-ceibal-science-2013"
+      ]
+    },
+    {
+      "id": "period-maya-middle-preclassic",
+      "names": {
+        "zh": "中前古典",
+        "en": "Middle Preclassic"
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "time": {
+        "label": "Middle Preclassic monumental florescence (Nakbe and peers)",
+        "approx_from_bce": 800,
+        "approx_to_bce": 400,
+        "scheme_note": "Hansen 1998; Estrada-Belli 2011"
+      },
+      "summary": {
+        "zh": "纳克贝等米拉多尔盆地中前古典大型建筑发展。",
+        "en": "Middle Preclassic monumental architecture at Nakbe and Mirador Basin peers."
+      },
+      "sources": [
+        "src-maya-hansen-nakbe-1998",
+        "src-maya-estrada-belli-2011"
+      ]
+    },
+    {
+      "id": "period-maya-late-preclassic",
+      "names": {
+        "zh": "晚前古典",
+        "en": "Late Preclassic"
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "time": {
+        "label": "Late Preclassic urban/ritual florescence; San Bartolo early writing",
+        "approx_from_bce": 400,
+        "approx_to_bce": 250,
+        "scheme_note": "Estrada-Belli 2011; Demarest 2004; Saturno et al. 2006 — approx BCE for Preclassic; CE boundary via Classic onset"
+      },
+      "summary": {
+        "zh": "晚前古典城市/仪式峰值；圣巴托洛早期文字。",
+        "en": "Late Preclassic urban/ritual florescence; San Bartolo early writing."
+      },
+      "sources": [
+        "src-maya-estrada-belli-2011",
+        "src-maya-demarest-2004",
+        "src-maya-saturno-stuart-beltran-2006",
+        "src-maya-coe-houston-2015"
+      ]
+    },
+    {
+      "id": "period-maya-early-classic-onset",
+      "names": {
+        "zh": "早古典开端",
+        "en": "Early Classic onset"
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "time": {
+        "label": "Classic inaugurated by early carved royal monuments in 3rd century CE; Early Classic upper bound ~3rd–6th c. CE conventional",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Estrada-Belli 2011; Sharer & Traxler 2006 — CE dates stated in label only"
+      },
+      "summary": {
+        "zh": "公元 3 世纪第一批雕刻王室纪念碑标志古典期开端；本条不展开全古典政治史。",
+        "en": "Classic inaugurated by early carved royal monuments in the 3rd century CE; this entry does not expand full Classic political history."
+      },
+      "sources": [
+        "src-maya-estrada-belli-2011",
+        "src-maya-sharer-traxler-2006"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-maya-ceibal-e-group",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "塞瓦尔早期 E 组与仪式空间（组合级）",
+        "en": "Ceibal early E-Group and ceremonial space (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [
+        "site-ceibal"
+      ],
+      "period_ids": [
+        "period-maya-early-preclassic-ceibal"
+      ],
+      "summary": {
+        "zh": "约公元前 1000 年起仪式空间与 E 组；前古典人造高原见 2019 PLOS ONE。",
+        "en": "Ceremonial space and E-Group from ~1000 BCE; Preclassic artificial plateaus in 2019 PLOS ONE."
+      },
+      "sources": [
+        "src-maya-inomata-ceibal-science-2013",
+        "src-maya-inomata-ceibal-plateau-2019"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": "https://www.science.org/doi/10.1126/science.1234493",
+        "notes": "No forged architecture images."
+      },
+      "media_ids": []
+    },
+    {
+      "id": "asm-maya-san-bartolo-murals-writing",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "圣巴托洛壁画与早期文字（组合级）",
+        "en": "San Bartolo murals and early writing (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [
+        "site-san-bartolo"
+      ],
+      "period_ids": [
+        "period-maya-late-preclassic"
+      ],
+      "summary": {
+        "zh": "晚前古典壁画与早期文字；Saturno et al. 2006 Science 研究现况事实。",
+        "en": "Late Preclassic murals and early writing; research-status fact within Saturno et al. 2006 Science."
+      },
+      "sources": [
+        "src-maya-saturno-stuart-beltran-2006"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": "https://www.science.org/doi/10.1126/science.1121745",
+        "notes": "No forged mural images hosted."
+      },
+      "media_ids": [
+        "media-san-bartolo-science-2006"
+      ]
+    },
+    {
+      "id": "asm-maya-nakbe-monumental-architecture",
+      "object_kind": "assemblage",
+      "names": {
+        "zh": "纳克贝中前古典纪念性建筑（组合级）",
+        "en": "Nakbe Middle Preclassic monumental architecture (assemblage-level)"
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [
+        "site-nakbe"
+      ],
+      "period_ids": [
+        "period-maya-middle-preclassic"
+      ],
+      "summary": {
+        "zh": "Hansen 1998 综述建筑连续与不连续。",
+        "en": "Hansen 1998 surveys architectural continuity and discontinuity."
+      },
+      "sources": [
+        "src-maya-hansen-nakbe-1998",
+        "src-maya-estrada-belli-2011"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": null,
+        "upstream_url": "https://www.famsi.org/reports/95113/95113Hansen01.pdf",
+        "notes": "Outbound report only."
+      },
+      "media_ids": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-maya-ceibal-1000-bce",
+      "kind": "fact",
+      "statement": {
+        "zh": "Inomata 等 2013：塞瓦尔约公元前 1000 年起出现仪式建设与相关低地前古典复杂化证据。",
+        "en": "Inomata et al. 2013: ceremonial construction at Ceibal from ~1000 BCE and related evidence for early lowland Preclassic complexity."
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [
+        "site-ceibal"
+      ],
+      "period_ids": [
+        "period-maya-early-preclassic-ceibal"
+      ],
+      "object_ids": [
+        "asm-maya-ceibal-e-group"
+      ],
+      "sources": [
+        "src-maya-inomata-ceibal-science-2013",
+        "src-maya-inomata-ceibal-plateau-2019"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-san-bartolo-early-writing",
+      "kind": "fact",
+      "statement": {
+        "zh": "圣巴托洛晚前古典壁画语境中的早期玛雅文字，见于 Saturno, Stuart & Beltrán 2006 Science。",
+        "en": "Early Maya writing in Late Preclassic mural contexts at San Bartolo is reported in Saturno, Stuart & Beltrán 2006 Science."
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [
+        "site-san-bartolo"
+      ],
+      "period_ids": [
+        "period-maya-late-preclassic"
+      ],
+      "object_ids": [
+        "asm-maya-san-bartolo-murals-writing"
+      ],
+      "sources": [
+        "src-maya-saturno-stuart-beltran-2006"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-classic-onset-3c",
+      "kind": "fact",
+      "statement": {
+        "zh": "Estrada-Belli：古典期由公元 3 世纪早期雕刻王室纪念碑开启；本条止于早古典开端。",
+        "en": "Estrada-Belli: the Classic is inaugurated by early carved royal monuments in the 3rd century CE; this entry stops at Early Classic onset."
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [],
+      "period_ids": [
+        "period-maya-early-classic-onset"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-maya-estrada-belli-2011",
+        "src-maya-sharer-traxler-2006"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-preclassic-urban-florescence",
+      "kind": "fact",
+      "statement": {
+        "zh": "前古典低地存在大型纪念性/城市—仪式复合体（纳克贝、埃尔米拉多尔等），通论中描述为前古典峰值。",
+        "en": "Preclassic lowlands host large monumental / urban–ritual complexes (Nakbe, El Mirador, etc.), described in surveys as Preclassic florescence peaks."
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [
+        "site-nakbe",
+        "site-el-mirador",
+        "site-cival"
+      ],
+      "period_ids": [
+        "period-maya-middle-preclassic",
+        "period-maya-late-preclassic"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-maya-estrada-belli-2011",
+        "src-maya-demarest-2004",
+        "src-maya-hansen-nakbe-1998",
+        "src-maya-coe-houston-2015"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-olmec-influence-direction",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "奥尔梅克—玛雅影响方向仍属争论；早期低地仪式复杂化与海湾奥尔梅克互动的因果方向不作定论。",
+        "en": "Olmec–Maya influence direction remains debated; causal direction between early lowland ceremonial complexity and Gulf Olmec interaction is not settled here."
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [
+        "site-ceibal"
+      ],
+      "period_ids": [
+        "period-maya-early-preclassic-ceibal"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-maya-inomata-ceibal-science-2013",
+        "src-olmec-pool-2007",
+        "src-mesoamerica-nichols-pool-handbook-2012"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    },
+    {
+      "id": "claim-maya-estrada-belli-primacy-title",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "Estrada-Belli 书名「The First Maya Civilization」为作者框架用语，不等于全球或全中美洲「第一」定论。",
+        "en": "Estrada-Belli’s title framing “The First Maya Civilization” is author framing, not a global or pan-Mesoamerican primacy verdict."
+      },
+      "civilization_ids": [
+        "civ-early-maya"
+      ],
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-maya-estrada-belli-2011"
+      ],
+      "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact."
+    }
+  ],
+  "media": [
+    {
+      "id": "media-san-bartolo-science-2006",
+      "title": {
+        "zh": "San Bartolo 早期文字 Science 论文入口",
+        "en": "San Bartolo early writing Science article entry"
+      },
+      "media_type": "document-link",
+      "external_url": "https://www.science.org/doi/10.1126/science.1121745",
+      "local_path": null,
+      "object_ids": [
+        "asm-maya-san-bartolo-murals-writing"
+      ],
+      "sources": [
+        "src-maya-saturno-stuart-beltran-2006"
+      ],
+      "rights": {
+        "status": "outbound-link-only",
+        "license": null,
+        "attribution": "Science / AAAS",
+        "upstream_url": "https://www.science.org/doi/10.1126/science.1121745",
+        "notes": "Outbound article only; no mural binaries hosted."
+      }
+    }
+  ]
+}

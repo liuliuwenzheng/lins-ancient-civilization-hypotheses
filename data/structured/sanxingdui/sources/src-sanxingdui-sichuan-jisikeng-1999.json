@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-sichuan-jisikeng-1999",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sichuan Provincial Institute of Cultural Relics and Archaeology (四川省文物考古研究所), ed. 1999. 三星堆祭祀坑 [Sanxingdui sacrificial pits / Excavation of the Sacrificial Pits at Sanxingdui]. Beijing: Wenwu Chubanshe (文物出版社). ISBN 9787501010325.",
+  "url": null,
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Primary Chinese excavation monograph on Sanxingdui Sacrificial Pits 1 and 2 (1986). Cited by name in Li et al. 2022 Antiquity (Cambridge Core) for the 1986 pits’ >900 bronze, gold, jade and ivory artefacts. Seed does not invent page numbers from the Chinese volume; uses only claims corroborated by that peer-reviewed citation of the report.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-sichuan-jisikeng-1999.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

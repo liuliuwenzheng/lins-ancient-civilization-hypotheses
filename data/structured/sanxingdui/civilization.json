@@ -1,0 +1,71 @@
+{
+  "id": "civ-sanxingdui",
+  "status": "fact-library",
+  "names": {
+    "zh": "三星堆",
+    "en": "Sanxingdui",
+    "native": "三星堆 / Sanxingdui (Guanghan, Sichuan)"
+  },
+  "region": "East Asia / Southwest China — Sichuan Basin, Chengdu Plain; western Guanghan (~40 km NE of Chengdu)",
+  "time_span": "Site occupation c. 2700–1000 BC (Li et al. 2022); Pit 4 radiocarbon 1260–924 cal BC; pit absolute chronology long debated",
+  "summary": {
+    "zh": "四川广汉三星堆青铜时代遗址；1986 一、二号坑与 2020 起新坑；与中原商王国是否同一政体属开放研究。",
+    "en": "Sanxingdui Bronze Age site in Guanghan, Sichuan; 1986 Pits 1–2 and post-2020 pits; relationship to Shang kingdom remains open research."
+  },
+  "sources": [
+    "src-sanxingdui-sichuan-jisikeng-1999",
+    "src-sanxingdui-ge-linduff-1990",
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-li-qiu-guo-li-2022",
+    "src-sanxingdui-bagley-ancient-sichuan-2001",
+    "src-sanxingdui-xu-bronze-2001",
+    "src-sanxingdui-flad-urbanism-2018",
+    "src-sanxingdui-flad-valuable-objects-2012",
+    "src-sanxingdui-sun-hua-cultures-2003",
+    "src-sanxingdui-wu-ran-lei-2021",
+    "src-sanxingdui-unesco-tentative-2013",
+    "src-sanxingdui-zhao-nsr-2021",
+    "src-china-flad-chen-ancient-central-china-2013",
+    "src-china-rawson-mysteries-1996"
+  ],
+  "related_ids": [
+    "civ-china-bronze"
+  ],
+  "entity": "civilization",
+  "kind": "fact",
+  "site_ids": [
+    "site-sanxingdui",
+    "site-sanxingdui-pits-1-2",
+    "site-sanxingdui-pit-4",
+    "site-jinsha-comparative"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span",
+    "period-sxd-culture-phases-sun",
+    "period-sxd-pits-1986-excavator",
+    "period-sxd-pit4-radiocarbon",
+    "period-sxd-working-scheme-new-pits"
+  ],
+  "claim_ids": [
+    "claim-sxd-site-basics",
+    "claim-sxd-no-oracle-archive",
+    "claim-sxd-pit4-dates",
+    "claim-sxd-not-same-shang-polity",
+    "claim-sxd-pit-chronology-debated",
+    "claim-sxd-ancient-shu-title"
+  ],
+  "object_ids": [
+    "asm-sxd-bronze-figures-masks",
+    "asm-sxd-gold-staff-sheathing",
+    "asm-sxd-ivory-cowries"
+  ],
+  "markdown_path": "data/civilizations/civ-sanxingdui.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

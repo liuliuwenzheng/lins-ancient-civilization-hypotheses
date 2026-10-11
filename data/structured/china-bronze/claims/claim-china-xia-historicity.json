@@ -1,0 +1,32 @@
+{
+  "id": "claim-china-xia-historicity",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "夏王朝历史真实性不写成定论；Thorp 1991 对二里头材料采「最小」考古定义，不预设夏史实。",
+    "en": "Xia dynasty historicity is not asserted as settled fact; Thorp 1991 proposes a minimal archaeological definition of Erlitou that does not assume Xia historicity."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou"
+  ],
+  "period_ids": [
+    "period-china-erlitou"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-china-thorp-erlitou-xia-1991",
+    "src-china-xszcp-jianben-2000"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

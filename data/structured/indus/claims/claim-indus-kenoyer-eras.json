@@ -1,0 +1,33 @@
+{
+  "id": "claim-indus-kenoyer-eras",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kenoyer 1991 采用 Tradition/Era/Phase：早期食物生产约 6500–5000、区域化约 5000–2600、整合约 2600–1900、地方化约 1900–1300 BCE。",
+    "en": "Kenoyer 1991 Tradition/Era/Phase frame: Early Food Producing ~6500–5000, Regionalization ~5000–2600, Integration ~2600–1900, Localization ~1900–1300 BCE."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-indus-early-food-producing",
+    "period-indus-regionalization",
+    "period-indus-integration",
+    "period-indus-localization"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-indus-kenoyer-1991",
+    "src-indus-wright-2010"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

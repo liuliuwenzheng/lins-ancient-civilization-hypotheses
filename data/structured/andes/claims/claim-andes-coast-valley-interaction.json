@@ -1,0 +1,36 @@
+{
+  "id": "claim-andes-coast-valley-interaction",
+  "kind": "fact",
+  "statement": {
+    "zh": "内陆粪便中出现海洋蛋白并与灌溉/玉米证据并存，支持区域内海岸—河谷互动，不等于已证明长途贸易路线图。",
+    "en": "Marine protein in inland coprolites alongside irrigation/maize evidence supports intra-regional coast–valley interaction, not a mapped long-distance trade system."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballete",
+    "site-huaricanga",
+    "site-caral"
+  ],
+  "period_ids": [
+    "period-andes-maize-study-window"
+  ],
+  "object_ids": [
+    "asm-andes-maize-multiproxy"
+  ],
+  "sources": [
+    "src-andes-haas-creamer-pnas-maize-2013",
+    "src-andes-shady-haas-creamer-caral-2001"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "asm-olmec-colossal-heads-sculpture",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "奥尔梅克巨型石雕与头像（组合级）",
+    "en": "Olmec colossal heads and stone sculpture (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta"
+  ],
+  "period_ids": [
+    "period-olmec-formative-floruit"
+  ],
+  "summary": {
+    "zh": "中美洲最早巨型石雕传统；圣洛伦佐雕塑语境见 Coe & Diehl / Cyphers；拉文塔艺术见 Drucker。",
+    "en": "First monumental stone art of Mesoamerica; San Lorenzo sculpture contexts via Coe & Diehl / Cyphers; La Venta art via Drucker."
+  },
+  "sources": [
+    "src-olmec-coe-diehl-san-lorenzo-1980",
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-drucker-la-venta-1952",
+    "src-olmec-pool-2007",
+    "src-olmec-taube-doaks-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged monument images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

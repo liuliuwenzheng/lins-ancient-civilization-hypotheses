@@ -1,0 +1,32 @@
+{
+  "id": "period-maya-early-preclassic-ceibal",
+  "names": {
+    "zh": "早前古典（塞瓦尔仪式开端）",
+    "en": "Early Preclassic (Ceibal ceremonial beginnings)"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "time": {
+    "label": "~1000 BCE sedentary/ceramic and ceremonial beginnings at Ceibal",
+    "approx_from_bce": 1000,
+    "approx_to_bce": 800,
+    "scheme_note": "Inomata et al. 2013 Science"
+  },
+  "summary": {
+    "zh": "约公元前 1000 年起低地仪式空间与陶瓷定居要素。",
+    "en": "Lowland ceremonial space and ceramic sedentary elements from ~1000 BCE."
+  },
+  "sources": [
+    "src-maya-inomata-ceibal-science-2013"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

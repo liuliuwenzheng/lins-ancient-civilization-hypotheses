@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-taube-doaks-2004",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Taube, Karl A. 2004. Olmec Art at Dumbarton Oaks. Pre-Columbian Art at Dumbarton Oaks, No. 2. Washington, DC: Dumbarton Oaks Research Library and Collection.",
+  "url": "https://www.doaks.org/resources/publications/books/olmec-art-at-dumbarton-oaks",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Museum/collection catalog with iconographic and stylistic analysis of Olmec portable sculpture (jade, greenstone, ceramic) in the Dumbarton Oaks collection. Useful for material-culture highlights; object claims must cite catalog numbers. No invented accession numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-taube-doaks-2004.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

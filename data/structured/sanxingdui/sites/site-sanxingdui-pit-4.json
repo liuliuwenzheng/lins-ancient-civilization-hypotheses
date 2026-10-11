@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-pit-4",
+  "names": {
+    "zh": "四号祭祀坑",
+    "en": "Sacrificial Pit 4",
+    "native": null
+  },
+  "kind_note": "AMS dates 1260–924 cal BC",
+  "region": "Sanxingdui sacrificial area, Guanghan",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "Wu et al. 2021：六样 AMS 1260–924 cal BC；平面近方形边长约 2.9 m，最深约 1.6 m。",
+    "en": "Wu et al. 2021: six AMS dates 1260–924 cal BC; roughly square ~2.9 m side, deepest ~1.6 m."
+  },
+  "sources": [
+    "src-sanxingdui-wu-ran-lei-2021",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

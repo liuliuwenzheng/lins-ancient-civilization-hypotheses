@@ -1,0 +1,34 @@
+{
+  "id": "period-aegean-lm-ia-thera",
+  "names": {
+    "zh": "晚米诺斯 IA / Thera 视界",
+    "en": "LM IA / Thera horizon"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "time": {
+    "label": "Thera eruption late 17th c. BCE (Manning) vs traditional low chronology (Warren & Hankey)",
+    "approx_from_bce": 1700,
+    "approx_to_bce": 1500,
+    "scheme_note": "Manning et al. 2006 vs Warren & Hankey 1989 — high/low open"
+  },
+  "summary": {
+    "zh": "与圣托里尼喷发关联的关键视界；高/低年代仍开放。",
+    "en": "Key horizon linked to Thera eruption; high vs low chronology remains open."
+  },
+  "sources": [
+    "src-aegean-manning-science-2006",
+    "src-aegean-warren-hankey-1989",
+    "src-aegean-doumas-thera-1983"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

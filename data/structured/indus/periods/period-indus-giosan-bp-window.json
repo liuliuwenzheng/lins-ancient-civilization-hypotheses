@@ -1,0 +1,32 @@
+{
+  "id": "period-indus-giosan-bp-window",
+  "names": {
+    "zh": "Giosan 等 BP 窗",
+    "en": "Giosan et al. BP window"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "time": {
+    "label": "Early ~5200–4500 y ago; Mature ~4500–3900 y ago",
+    "approx_from_bce": 3200,
+    "approx_to_bce": 1900,
+    "scheme_note": "Giosan et al. 2012 (BP phrasing; coarse BCE approx)"
+  },
+  "summary": {
+    "zh": "作者摘要：Early/Mature BP 窗与其后去城市化、东移讨论。",
+    "en": "Authors’ Early/Mature BP windows and later deurbanization / eastward shift discussion."
+  },
+  "sources": [
+    "src-indus-giosan-pnas-2012"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

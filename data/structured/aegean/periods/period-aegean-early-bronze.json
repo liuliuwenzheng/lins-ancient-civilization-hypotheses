@@ -1,0 +1,35 @@
+{
+  "id": "period-aegean-early-bronze",
+  "names": {
+    "zh": "早青铜",
+    "en": "Early Bronze Age"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "time": {
+    "label": "from ~3000 BCE (Companion/Dickinson/Cline front segment)",
+    "approx_from_bce": 3000,
+    "approx_to_bce": 2000,
+    "scheme_note": "Shelmerdine 2008; Dickinson 1994; Renfrew 1972; Cline 2010"
+  },
+  "summary": {
+    "zh": "含基克拉泽斯 EC、克里特 EM、大陆 EH；第三千纪序列见 Renfrew。",
+    "en": "Includes Cycladic EC, Cretan EM, mainland EH; third-millennium sequence via Renfrew."
+  },
+  "sources": [
+    "src-aegean-shelmerdine-companion-2008",
+    "src-aegean-dickinson-1994",
+    "src-aegean-renfrew-1972",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

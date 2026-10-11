@@ -1,0 +1,32 @@
+{
+  "id": "period-andes-late-archaic-norte-chico",
+  "names": {
+    "zh": "晚古风（Norte Chico）",
+    "en": "Late Archaic (Norte Chico)"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "time": {
+    "label": "~3000–1800 cal BCE",
+    "approx_from_bce": 3000,
+    "approx_to_bce": 1800,
+    "scheme_note": "Haas, Creamer & Ruiz 2004 Nature"
+  },
+  "summary": {
+    "zh": "北奇科晚古风复合体总框约 3000–1800 cal BCE。",
+    "en": "Norte Chico Late Archaic complex ~3000–1800 cal BCE."
+  },
+  "sources": [
+    "src-andes-haas-creamer-ruiz-norte-chico-2004"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

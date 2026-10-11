@@ -1,0 +1,32 @@
+{
+  "id": "period-andes-pativilca-tested",
+  "names": {
+    "zh": "帕蒂维尔卡试掘窗",
+    "en": "Pativilca tested occupations"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "time": {
+    "label": "~2740–1870 cal BCE",
+    "approx_from_bce": 2740,
+    "approx_to_bce": 1870,
+    "scheme_note": "Creamer, Ruiz & Haas 2007 Fieldiana"
+  },
+  "summary": {
+    "zh": "七处晚古风占用约 2740–1870 cal BCE。",
+    "en": "Seven Late Archaic occupations ~2740–1870 cal BCE."
+  },
+  "sources": [
+    "src-andes-creamer-ruiz-haas-pativilca-2007"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

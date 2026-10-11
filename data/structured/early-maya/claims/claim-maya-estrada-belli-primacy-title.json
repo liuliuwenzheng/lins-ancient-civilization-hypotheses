@@ -1,0 +1,27 @@
+{
+  "id": "claim-maya-estrada-belli-primacy-title",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Estrada-Belli 书名「The First Maya Civilization」为作者框架用语，不等于全球或全中美洲「第一」定论。",
+    "en": "Estrada-Belli’s title framing “The First Maya Civilization” is author framing, not a global or pan-Mesoamerican primacy verdict."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-estrada-belli-2011"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-benson-fuente-1996",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Benson, Elizabeth P., and Beatriz de la Fuente, eds. 1996. Olmec Art of Ancient Mexico. Washington, DC: National Gallery of Art. Includes Rebecca González Lauck, “La Venta: An Olmec Capital,” pp. 73–81 (among other essays and catalog entries).",
+  "url": "https://search.worldcat.org/title/34357584",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Exhibition catalog with scholarly essays. González Lauck’s La Venta chapter orients the site as a major Middle Formative Olmec capital after later Mexican excavations — secondary synthesis over Drucker-era reports. Catalog object entries require museum numbers; no invented inventory IDs here.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-benson-fuente-1996.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "period-sxd-occupation-span",
+  "names": {
+    "zh": "遗址占用总跨度",
+    "en": "Site occupation span"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "time": {
+    "label": "c. 2700–1000 BC",
+    "approx_from_bce": 2700,
+    "approx_to_bce": 1000,
+    "scheme_note": "Li et al. 2022"
+  },
+  "summary": {
+    "zh": "Li et al. 2022 给出的遗址占用总跨度。",
+    "en": "Site occupation span as stated by Li et al. 2022."
+  },
+  "sources": [
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

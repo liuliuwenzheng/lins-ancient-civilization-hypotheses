@@ -1,0 +1,33 @@
+{
+  "id": "claim-sxd-not-same-shang-polity",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "与中原商文化/商王国是否为同一政体属开放研究；「商时期」坑年代标签不等于政体等同。",
+    "en": "Whether Sanxingdui was the same polity as the Shang kingdom remains open research; “Shang period” chronological labels are not polity identity."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-bagley-1988",
+    "src-sanxingdui-ge-linduff-1990",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

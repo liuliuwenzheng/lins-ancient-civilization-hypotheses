@@ -1,0 +1,42 @@
+{
+  "id": "asm-maya-ceibal-e-group",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "塞瓦尔早期 E 组与仪式空间（组合级）",
+    "en": "Ceibal early E-Group and ceremonial space (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-ceibal"
+  ],
+  "period_ids": [
+    "period-maya-early-preclassic-ceibal"
+  ],
+  "summary": {
+    "zh": "约公元前 1000 年起仪式空间与 E 组；前古典人造高原见 2019 PLOS ONE。",
+    "en": "Ceremonial space and E-Group from ~1000 BCE; Preclassic artificial plateaus in 2019 PLOS ONE."
+  },
+  "sources": [
+    "src-maya-inomata-ceibal-science-2013",
+    "src-maya-inomata-ceibal-plateau-2019"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.science.org/doi/10.1126/science.1234493",
+    "notes": "No forged architecture images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

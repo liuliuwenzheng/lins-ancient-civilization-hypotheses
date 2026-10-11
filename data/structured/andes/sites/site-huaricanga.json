@@ -1,0 +1,31 @@
+{
+  "id": "site-huaricanga",
+  "names": {
+    "zh": "瓦里坎加",
+    "en": "Huaricanga",
+    "native": null
+  },
+  "kind_note": "Fortaleza Late Archaic (~23 km inland)",
+  "region": "Fortaleza Valley, Norte Chico, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "约 23 km 内陆；特大型丘与侧丘；居住与仪式房间试掘。",
+    "en": "~23 km inland; very large mound with flanking mounds; residential and ritual rooms tested."
+  },
+  "sources": [
+    "src-andes-haas-creamer-pnas-maize-2013",
+    "src-andes-creamer-ruiz-perales-haas-fortaleza-2013"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

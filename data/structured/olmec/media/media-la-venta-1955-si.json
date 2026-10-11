@@ -1,0 +1,32 @@
+{
+  "id": "media-la-venta-1955-si",
+  "title": {
+    "zh": "La Venta 1955 发掘报告 Smithsonian 仓储入口",
+    "en": "La Venta 1955 excavation report Smithsonian repository entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://repository.si.edu/handle/10088/15464",
+  "local_path": null,
+  "object_ids": [
+    "asm-olmec-la-venta-complex-a-offerings"
+  ],
+  "sources": [
+    "src-olmec-drucker-heizer-squier-1959"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Smithsonian Institution repository",
+    "upstream_url": "https://repository.si.edu/handle/10088/15464",
+    "notes": "Outbound primary report only."
+  },
+  "entity": "media",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

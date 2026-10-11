@@ -1,0 +1,45 @@
+{
+  "id": "asm-china-ritual-bronzes",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "商–周礼器青铜（组合级）",
+    "en": "Shang–Zhou ritual bronzes (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-anyang-yinxu",
+    "site-erlitou"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang",
+    "period-china-erlitou",
+    "period-china-erligang"
+  ],
+  "summary": {
+    "zh": "鼎、簋等容器与兵器、乐器；Bagley 1987 Sackler 专书为英语标准入口。",
+    "en": "Vessels (ding, gui, etc.), weapons, and bells; Bagley 1987 Sackler volume is the standard English entry."
+  },
+  "sources": [
+    "src-china-bagley-shang-ritual-bronzes-1987",
+    "src-china-loewe-shaughnessy-cambridge-1999"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged bronze images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

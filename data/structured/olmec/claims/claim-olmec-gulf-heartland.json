@@ -1,0 +1,33 @@
+{
+  "id": "claim-olmec-gulf-heartland",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥尔梅克考古文化以墨西哥南部韦拉克鲁斯与塔巴斯科热带低地为心脏地带；约 3500 年前出现并约千年繁荣。",
+    "en": "The Olmec archaeological culture is centered in the tropical lowlands of southern Veracruz and Tabasco; emerged some 3500 years ago and flourished for about 1000 years."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta"
+  ],
+  "period_ids": [
+    "period-olmec-formative-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-pool-2007",
+    "src-olmec-diehl-2004"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -153,3 +153,13 @@
 - 埃及包**仅**派生自 `civ-ancient-egypt.md` + `src-egypt-*`（15 来源 · 6 遗址 · 6 分期 · 4 器物组合 · 10 主张含纳尔迈「单次统一」假说 · 2 外链媒体）。不新增考古发明；不上伪造图。
 - Markdown 仍是编辑真源；结构化 JSON 是经闸门的服务形态（禁止静默双写）。
 
+
+### D-2026-10-11-20 — 其余七个文明结构化档案包进 API
+
+**决定：** 在两河 / 埃及试点之后，为其余七个 `fact-library` 文明落地结构化包，使只读 API 可列出全部九个文明：`andes`、`indus`、`china-bronze`、`sanxingdui`、`aegean`、`olmec`、`early-maya`（外加既有 `mesopotamia`、`egypt`）。
+
+**说明：**
+- 各包 JSON **仅**派生自对应 `civ-*.md` + 已登记 `src-*`；争议项进 `kind: hypothesis`；不上伪造文物图；媒体仅外链元数据。
+- 种子定义：`tools/pack_seeds/*.json`；写入器：`tools/write_packs_from_seeds.py`。
+- `tools/export_check.py` 对全部 9 包通过出处闸门。API 冒烟：`GET /api/v1/civilizations` 返回 9 条。
+- Markdown 仍是编辑真源；结构化 JSON 是经闸门的服务形态。

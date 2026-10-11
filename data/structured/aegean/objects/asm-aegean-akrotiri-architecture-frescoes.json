@@ -1,0 +1,41 @@
+{
+  "id": "asm-aegean-akrotiri-architecture-frescoes",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿克罗蒂里建筑与壁画（组合级）",
+    "en": "Akrotiri architecture and frescoes (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-akrotiri"
+  ],
+  "period_ids": [
+    "period-aegean-lm-ia-thera"
+  ],
+  "summary": {
+    "zh": "火山埋藏保存的城镇规划与壁画装饰房屋。",
+    "en": "Town planning and frescoed houses preserved by volcanic burial."
+  },
+  "sources": [
+    "src-aegean-doumas-thera-1983"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "No forged fresco images hosted."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

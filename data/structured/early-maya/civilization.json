@@ -1,0 +1,69 @@
+{
+  "id": "civ-early-maya",
+  "status": "fact-library",
+  "names": {
+    "zh": "早期玛雅",
+    "en": "Early Maya",
+    "native": "Maya (scholarly label; Preclassic–Early Classic frame)"
+  },
+  "region": "Mesoamerica / Maya region (lowland Petén–Belize–Yucatán and adjacent zones; Preclassic centers emphasized)",
+  "time_span": "Early Preclassic–Early Classic: Formative sedentary/ceramic beginnings ~1000 BCE at Ceibal (Inomata et al. 2013); Classic onset 3rd century CE (Estrada-Belli 2011) — not full Classic encyclopedia",
+  "summary": {
+    "zh": "早前古典期至早古典期：前古典低地复杂化（塞瓦尔、纳克贝、埃尔米拉多尔、西瓦尔、圣巴托洛等），止于古典期开端。",
+    "en": "Early Preclassic through Early Classic: Preclassic lowland complexity (Ceibal, Nakbe, El Mirador, Cival, San Bartolo), stopping at Classic onset."
+  },
+  "sources": [
+    "src-maya-sharer-traxler-2006",
+    "src-maya-estrada-belli-2011",
+    "src-maya-inomata-ceibal-science-2013",
+    "src-mesoamerica-nichols-pool-handbook-2012",
+    "src-olmec-pool-2007",
+    "src-maya-saturno-stuart-beltran-2006",
+    "src-maya-clark-hansen-2001",
+    "src-maya-demarest-2004",
+    "src-maya-inomata-ceibal-plateau-2019",
+    "src-maya-coe-houston-2015",
+    "src-maya-hansen-nakbe-1998",
+    "src-maya-willey-seibal-1975"
+  ],
+  "related_ids": [
+    "civ-olmec"
+  ],
+  "entity": "civilization",
+  "kind": "fact",
+  "site_ids": [
+    "site-ceibal",
+    "site-nakbe",
+    "site-el-mirador",
+    "site-cival",
+    "site-san-bartolo"
+  ],
+  "period_ids": [
+    "period-maya-early-preclassic-ceibal",
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic",
+    "period-maya-early-classic-onset"
+  ],
+  "claim_ids": [
+    "claim-maya-ceibal-1000-bce",
+    "claim-maya-san-bartolo-early-writing",
+    "claim-maya-classic-onset-3c",
+    "claim-maya-preclassic-urban-florescence",
+    "claim-maya-olmec-influence-direction",
+    "claim-maya-estrada-belli-primacy-title"
+  ],
+  "object_ids": [
+    "asm-maya-ceibal-e-group",
+    "asm-maya-san-bartolo-murals-writing",
+    "asm-maya-nakbe-monumental-architecture"
+  ],
+  "markdown_path": "data/civilizations/civ-early-maya.md",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-meluhha-contact",
+  "kind": "fact",
+  "statement": {
+    "zh": "楔形文字 Meluhha 地名多数学者与印度河区对应；海湾与两河语境有哈拉帕风格器物——路线级细节须专文。",
+    "en": "Cuneiform Meluhha is widely linked to the Indus region; Harappan-style objects appear in Gulf/Mesopotamian contexts — route-level detail needs dedicated entries."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-indus-kenoyer-1991",
+    "src-indus-wright-2010",
+    "src-indus-ratnagar-2004"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

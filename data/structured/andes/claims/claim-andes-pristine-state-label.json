@@ -1,0 +1,30 @@
+{
+  "id": "claim-andes-pristine-state-label",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Shady & Leyva 2003「Estado prístino」等表述为项目诠释，不写入政治类型学定论。",
+    "en": "“Estado prístino” language in Shady & Leyva 2003 is project interpretive framing, not settled political typology."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caral"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-shady-leyva-caral-supe-2003",
+    "src-andes-haas-creamer-ruiz-norte-chico-2004"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

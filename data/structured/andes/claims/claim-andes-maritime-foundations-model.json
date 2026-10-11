@@ -1,0 +1,35 @@
+{
+  "id": "claim-andes-maritime-foundations-model",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Moseley 1975 海洋生计基础模型 vs Raymond 1981 质疑；内陆灌溉与玉米证据使纯海洋叙事复杂化。",
+    "en": "Moseley 1975 maritime-foundations model vs Raymond 1981 reconsideration; inland irrigation and maize evidence complicate a purely maritime narrative."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-aspero",
+    "site-caral"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-andes-moseley-maritime-1975",
+    "src-andes-raymond-maritime-reconsideration-1981",
+    "src-andes-shady-haas-creamer-caral-2001",
+    "src-andes-haas-creamer-pnas-maize-2013"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

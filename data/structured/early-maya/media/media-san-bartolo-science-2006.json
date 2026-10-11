@@ -1,0 +1,32 @@
+{
+  "id": "media-san-bartolo-science-2006",
+  "title": {
+    "zh": "San Bartolo 早期文字 Science 论文入口",
+    "en": "San Bartolo early writing Science article entry"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.science.org/doi/10.1126/science.1121745",
+  "local_path": null,
+  "object_ids": [
+    "asm-maya-san-bartolo-murals-writing"
+  ],
+  "sources": [
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Science / AAAS",
+    "upstream_url": "https://www.science.org/doi/10.1126/science.1121745",
+    "notes": "Outbound article only; no mural binaries hosted."
+  },
+  "entity": "media",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

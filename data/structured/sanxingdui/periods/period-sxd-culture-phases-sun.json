@@ -1,0 +1,32 @@
+{
+  "id": "period-sxd-culture-phases-sun",
+  "names": {
+    "zh": "三星堆考古文化分期（Sun Hua）",
+    "en": "Sanxingdui culture phases (Sun Hua)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "time": {
+    "label": "II–IV phases via stratigraphy and pottery (absolute endpoints not invented)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Sun Hua 2003"
+  },
+  "summary": {
+    "zh": "以地层与陶器界定分期；与坑埋藏年代相关但不同。",
+    "en": "Phases defined via stratigraphy and pottery; related to but distinct from pit burial dates."
+  },
+  "sources": [
+    "src-sanxingdui-sun-hua-cultures-2003"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-aegean-linear-a",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Linear A 文书与印章（组合级）",
+    "en": "Linear A documents and seals (assemblage-level)"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos"
+  ],
+  "period_ids": [
+    "period-aegean-middle-bronze",
+    "period-aegean-lm-ia-thera"
+  ],
+  "summary": {
+    "zh": "约公元前 1800–1450，主要见于克里特；Salgarella 2022 记为未破译。",
+    "en": "c. 1800–1450 BCE, mainly Crete; undeciphered per Salgarella 2022."
+  },
+  "sources": [
+    "src-aegean-salgarella-linear-a-2022"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Undeciphered; no forged images."
+  },
+  "media_ids": [],
+  "entity": "object",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

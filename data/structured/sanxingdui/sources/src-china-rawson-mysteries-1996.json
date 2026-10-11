@@ -1,0 +1,17 @@
+{
+  "id": "src-china-rawson-mysteries-1996",
+  "entity": "source",
+  "type": "museum-catalog",
+  "citation": "Rawson, Jessica, ed. 1996. Mysteries of Ancient China: New Discoveries from the Early Dynasties. London: British Museum Press. ISBN 0714114723. (US edition: New York: George Braziller, ISBN 0807614122.) Includes Zhao Dianzeng, “The Sacrificial Pits at Sanxingdui,” pp. 232–239.",
+  "url": "https://archive.org/details/mysteriesofancie0000unse_x7f5",
+  "access_date": "2026-10-11",
+  "reliability_tier": "S",
+  "notes": "Secondary exhibition catalogue / museum synthesis of early dynastic Chinese archaeology discoveries. Zhao Dianzeng Sanxingdui pits essay (pp. 232–239 per bibliographic listings) orients English readers to 1986 pit finds. Use for research-history and material-culture orientation; prefer Sichuan 1999 / Li et al. 2022 for excavation detail.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-rawson-mysteries-1996.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

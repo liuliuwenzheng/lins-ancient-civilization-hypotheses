@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-san-bartolo-early-writing",
+  "kind": "fact",
+  "statement": {
+    "zh": "圣巴托洛晚前古典壁画语境中的早期玛雅文字，见于 Saturno, Stuart & Beltrán 2006 Science。",
+    "en": "Early Maya writing in Late Preclassic mural contexts at San Bartolo is reported in Saturno, Stuart & Beltrán 2006 Science."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-san-bartolo"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic"
+  ],
+  "object_ids": [
+    "asm-maya-san-bartolo-murals-writing"
+  ],
+  "sources": [
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "disclaimer": null,
+  "entity": "claim",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

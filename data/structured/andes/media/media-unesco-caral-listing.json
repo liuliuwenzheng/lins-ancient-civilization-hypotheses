@@ -1,0 +1,30 @@
+{
+  "id": "media-unesco-caral-listing",
+  "title": {
+    "zh": "教科文卡拉尔–苏佩世界遗产条目",
+    "en": "UNESCO Sacred City of Caral-Supe listing"
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/1269/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-andes-unesco-caral-2009"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/1269/",
+    "notes": "Heritage title ≠ archaeological verdict."
+  },
+  "entity": "media",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

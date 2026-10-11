@@ -1,0 +1,32 @@
+{
+  "id": "period-indus-regionalization",
+  "names": {
+    "zh": "区域化时代",
+    "en": "Regionalization Era"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "time": {
+    "label": "ca. 5000–2600 BCE",
+    "approx_from_bce": 5000,
+    "approx_to_bce": 2600,
+    "scheme_note": "Kenoyer 1991 Table I"
+  },
+  "summary": {
+    "zh": "含 Early Harappan / Kot Diji 等阶段。",
+    "en": "Includes Early Harappan / Kot Diji phases."
+  },
+  "sources": [
+    "src-indus-kenoyer-1991"
+  ],
+  "entity": "period",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

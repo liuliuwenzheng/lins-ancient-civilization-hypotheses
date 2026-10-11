@@ -1,0 +1,32 @@
+{
+  "id": "site-aspero",
+  "names": {
+    "zh": "阿斯佩罗",
+    "en": "Aspero",
+    "native": null
+  },
+  "kind_note": "Coastal preceramic site; platform mounds",
+  "region": "Supe Valley mouth, coastal Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "苏佩河口海岸大型前陶遗址；人工平台丘再认识与公司性劳动建筑讨论。",
+    "en": "Large coastal preceramic site at Supe mouth; artificial platform mounds and corporate-labor architecture discussions."
+  },
+  "sources": [
+    "src-andes-moseley-willey-aspero-1973",
+    "src-andes-feldman-andean-state-1987",
+    "src-andes-haas-creamer-pnas-maize-2013"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-nakbe",
+  "names": {
+    "zh": "纳克贝",
+    "en": "Nakbe",
+    "native": null
+  },
+  "kind_note": "Mirador Basin Middle Preclassic monumental architecture",
+  "region": "Mirador Basin, Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "米拉多尔盆地中前古典大型建筑发展；Hansen 1998。",
+    "en": "Mirador Basin Middle Preclassic monumental architecture; Hansen 1998."
+  },
+  "sources": [
+    "src-maya-hansen-nakbe-1998",
+    "src-maya-estrada-belli-2011"
+  ],
+  "coordinates": null,
+  "entity": "site",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+  }
+}
