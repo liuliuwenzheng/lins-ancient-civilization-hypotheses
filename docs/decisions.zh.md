@@ -93,3 +93,9 @@
 **决定：** 升级文明事实库的**深度**。过薄的一段式种子没有意义。采用 [`data/civilizations/_template.md`](../data/civilizations/_template.md) 加厚栏目，以及双语深度标准 [`entry-depth.zh.md`](entry-depth.zh.md) / [`entry-depth.md`](entry-depth.md)。
 
 **说明：** 大型文明总览向可持久库状态加厚时，目标约 8–15+ 条已登记来源；每一主要栏目须引用；正文优先中英双语；禁止注水与不可核验「色彩」。状态阶梯：`draft` → `library-seed` → `library-seed-rich` → `fact-library`。试点：按新模板重写 `civ-mesopotamia` 并大幅增加真实来源（2026-10-11）。其他种子在同等加厚前仍为 `library-seed`。正直优先于速度。
+
+### D-2026-10-11-12 — 古埃及加厚至 fact-library（对齐两河试点）
+
+**决定：** 在两河试点加厚之后，按完整加厚模板重写 `civ-ancient-egypt`，状态升为 **`fact-library`**。
+
+**说明：** 保留原有三条来源（Shaw 2000；Wilkinson 1999；Midant-Reynes 2000），并新登记十二条已核验来源（Kemp 2006；Bard 2015；Trigger 等 1983；Lehner 1997；Wengrow 2006；Butzer 1976；Allen 2014；Petrie《王陵》1900–1901 P；Quibell《希拉孔波利斯》1900 P；Quibell & Green 1902 P；Hoffman 1979；Edwards 1993）——合计 **15** 条 `src-*`。深度焦点：前王朝→早王朝→古王国（地理/尼罗河；年表；阿拜多斯、希拉孔波利斯、孟斐斯、萨卡拉、吉萨谨慎书写；国家形成；象形文字；经济；物质文化；对外接触；研究史）。纳尔迈/「统一」在 Notes 中作过程 + 有争议图像解读——不作单次事件定论。不编造页码；不伪造文物图。正直优先于速度。

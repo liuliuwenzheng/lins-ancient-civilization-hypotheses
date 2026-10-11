@@ -93,3 +93,9 @@ Related: [Council](council.md) · [API](api.md) · [Architecture](architecture.m
 **Decision:** Upgrade civilization fact-library **depth**. Thin one-paragraph seeds are not meaningful. Adopt the enriched template sections in [`data/civilizations/_template.md`](../data/civilizations/_template.md) and the bilingual depth standard in [`entry-depth.md`](entry-depth.md) / [`entry-depth.zh.md`](entry-depth.zh.md).
 
 **Notes:** Major-civilization overviews expanding toward durable library status aim for ~8–15+ registered sources; every major section must cite; bilingual CN+EN preferred; no filler or unverifiable color. Status ladder: `draft` → `library-seed` → `library-seed-rich` → `fact-library`. Pilot enrichment: rewrite `civ-mesopotamia` to the new template with substantially more real sources (2026-10-11). Other seeds remain `library-seed` until similarly deepened. Integrity > speed.
+
+### D-2026-10-11-12 — Ancient Egypt deepened to fact-library (Mesopotamia-matched)
+
+**Decision:** After the Mesopotamia pilot enrichment, rewrite `civ-ancient-egypt` to the full enriched template and promote status to **`fact-library`**.
+
+**Notes:** Kept prior three sources (Shaw 2000; Wilkinson 1999; Midant-Reynes 2000) and registered twelve additional verified sources (Kemp 2006; Bard 2015; Trigger et al. 1983; Lehner 1997; Wengrow 2006; Butzer 1976; Allen 2014; Petrie Royal Tombs 1900–1901 P; Quibell Hierakonpolis 1900 P; Quibell & Green 1902 P; Hoffman 1979; Edwards 1993) — **15** `src-*` total. Depth focus: Predynastic → Early Dynastic → Old Kingdom (geography/Nile; chronology table; Abydos, Hierakonpolis, Memphis, Saqqara, Giza carefully; state formation; hieroglyphs; economy; material culture; contacts; research history). Narmer / unification kept as process + contested iconography in Notes — not a single-event fact. No invented page numbers; no forged images. Integrity > speed.
