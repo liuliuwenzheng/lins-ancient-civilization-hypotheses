@@ -6,8 +6,10 @@ info:
     session-scoped (cloud-first, prefer SSE/WebSocket). Citation fail-closed;
     hypotheses always labeled; lens outputs always perspective=true,
     person_endorsement=false. Markdown in git is the source of truth for
-    published library + deliberation trails.
-  version: 0.0.2
+    published library + deliberation trails. Archive entity
+    collections (sites, periods, objects, claims, media) are design-sketched
+    for the archive+API product; empty until structured pilot export.
+  version: 0.0.3
   license:
     name: MIT
     url: https://github.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/blob/main/LICENSE
@@ -25,6 +27,7 @@ tags:
   - name: sources
   - name: hypotheses
   - name: reconstructions
+  - name: archive
   - name: search
   - name: deliberations
 
@@ -266,6 +269,205 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/Reconstruction"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+
+  /sites:
+    get:
+      tags: [archive]
+      summary: Archive sites list
+      description: Archaeological sites / findspots. Empty until structured pilot.
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - $ref: "#/components/parameters/region"
+        - $ref: "#/components/parameters/q"
+        - name: civilization
+          in: query
+          schema: { type: string }
+          description: Filter by civ-* id
+      responses:
+        "200":
+          description: Paginated sites
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntityList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /sites/{id}:
+    get:
+      tags: [archive]
+      summary: One site
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Site detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntity"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /periods:
+    get:
+      tags: [archive]
+      summary: Archive periods list
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - $ref: "#/components/parameters/q"
+        - name: civilization
+          in: query
+          schema: { type: string }
+      responses:
+        "200":
+          description: Paginated periods
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntityList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /periods/{id}:
+    get:
+      tags: [archive]
+      summary: One period
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Period detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntity"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /objects:
+    get:
+      tags: [archive]
+      summary: Archive objects / assemblages list
+      description: Rights metadata required; no forged binaries.
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - $ref: "#/components/parameters/q"
+        - name: civilization
+          in: query
+          schema: { type: string }
+        - name: site
+          in: query
+          schema: { type: string }
+      responses:
+        "200":
+          description: Paginated objects
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntityList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /objects/{id}:
+    get:
+      tags: [archive]
+      summary: One object or assemblage
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Object detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntity"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /claims:
+    get:
+      tags: [archive]
+      summary: Atomic claims (fact or hypothesis)
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - $ref: "#/components/parameters/q"
+        - name: kind
+          in: query
+          schema:
+            type: string
+            enum: [fact, hypothesis]
+        - name: civilization
+          in: query
+          schema: { type: string }
+        - $ref: "#/components/parameters/source_tier"
+      responses:
+        "200":
+          description: Paginated claims
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntityList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /claims/{id}:
+    get:
+      tags: [archive]
+      summary: One claim
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Claim detail (hypothesis always labeled)
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntity"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /media:
+    get:
+      tags: [archive]
+      summary: Rights-cleared media metadata
+      description: Metadata and outbound refs only in v0; empty until rights packages exist. No forged artifact binaries.
+      parameters:
+        - $ref: "#/components/parameters/limit"
+        - $ref: "#/components/parameters/after"
+        - name: object
+          in: query
+          schema: { type: string }
+      responses:
+        "200":
+          description: Paginated media records
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntityList"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+
+  /media/{id}:
+    get:
+      tags: [archive]
+      summary: One media record
+      parameters:
+        - $ref: "#/components/parameters/idPath"
+      responses:
+        "200":
+          description: Media detail
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArchiveEntity"
         "404":
           $ref: "#/components/responses/NotFound"
 
@@ -817,6 +1019,63 @@ components:
         links:
           type: object
           additionalProperties: true
+
+
+    ArchiveEntity:
+      type: object
+      required: [id, kind, sources]
+      description: >
+        Generic archive record (site | period | object | claim | media).
+        Fact-kind items must pass citation gate. Hypothesis claims require disclaimer.
+      properties:
+        id:
+          type: string
+          examples: [site-uruk, period-uruk, obj-example, claim-example, media-example]
+        kind:
+          type: string
+          enum: [site, period, object, claim, media, fact, hypothesis]
+        status:
+          type: string
+        title:
+          type: string
+        civilization_ids:
+          type: array
+          items: { type: string }
+        site_ids:
+          type: array
+          items: { type: string }
+        period_ids:
+          type: array
+          items: { type: string }
+        sources:
+          type: array
+          items:
+            $ref: "#/components/schemas/SourceRef"
+        rights:
+          type: object
+          description: Required for objects/media when binaries or embeds are involved
+          additionalProperties: true
+        disclaimer:
+          type: string
+          description: Mandatory when kind is hypothesis
+        links:
+          type: object
+          additionalProperties: true
+
+    ArchiveEntityList:
+      type: object
+      required: [items, total, count, has_more]
+      properties:
+        items:
+          type: array
+          items:
+            $ref: "#/components/schemas/ArchiveEntity"
+        total: { type: integer }
+        count: { type: integer }
+        next_cursor:
+          type: string
+          nullable: true
+        has_more: { type: boolean }
 
     ErrorBody:
       type: object

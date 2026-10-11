@@ -161,6 +161,16 @@ https://{host}/api/v1
 | GET | `/reconstructions` | 还原列表 |
 | GET | `/reconstructions/{id}` | 单条还原 |
 | GET | `/search` | 跨类型检索（`q` + 可选 `kind`、各轴） |
+| GET | `/sites` | 档案：遗址列表 |
+| GET | `/sites/{id}` | 档案：单条遗址 |
+| GET | `/periods` | 档案：分期列表 |
+| GET | `/periods/{id}` | 档案：单条分期 |
+| GET | `/objects` | 档案：器物/组合列表 |
+| GET | `/objects/{id}` | 档案：单条器物/组合 |
+| GET | `/claims` | 档案：原子主张（事实或假说） |
+| GET | `/claims/{id}` | 档案：单条主张 |
+| GET | `/media` | 档案：权利清晰媒体元数据 |
+| GET | `/media/{id}` | 档案：单条媒体 |
 
 ### 4.1 共用查询参数
 
@@ -198,6 +208,35 @@ GET /search?q=...&kind=fact&region=...&limit=20
 
 ---
 
+
+## 4.6 档案实体（遗址、分期、器物、主张、媒体）
+
+> 产品澄清（2026-10-11）：对外主产品是**数字档案 + 只读 API**。文明 Markdown 是编辑/呈现层。见 [`architecture.zh.md` 档案层](architecture.zh.md) · 审议 [`delib-2026-10-11-archive-api-direction`](../deliberations/delib-2026-10-11-archive-api-direction.md) · 决定 D-2026-10-11-17。
+
+追加**只读**集合（设计草图；随 schema + 导出实现）：
+
+| 方法 | 路径 | 用途 |
+|------|------|------|
+| GET | `/sites` | 与 `civ-*` 关联的考古遗址 / 出土地 |
+| GET | `/sites/{id}` | 单条遗址（`site-*`） |
+| GET | `/periods` | 分期 / 阶段定义（正交时间轴） |
+| GET | `/periods/{id}` | 单条分期（`period-*`） |
+| GET | `/objects` | 组合 / 器物（须带权利元数据） |
+| GET | `/objects/{id}` | 单条器物或组合（`obj-*` / `asm-*`） |
+| GET | `/claims` | 原子主张；`kind` = `fact` \| `hypothesis`（绝不静默升格） |
+| GET | `/claims/{id}` | 单条主张（`claim-*`） |
+| GET | `/media` | 权利清晰的媒体元数据（或外链）；**不上**伪造二进制 |
+| GET | `/media/{id}` | 单条媒体（`media-*`） |
+
+共用规则：
+
+- 每条含 `sources[]`（`kind: "fact"` 作出处失败即关闭）。
+- 器物/媒体含 `rights`（许可、署名、上游 URL）；在权利包到位前 Media 表可为空。
+- 假说类主张必须带 `kind: "hypothesis"` + `disclaimer`；事实主张须可解析到 `src-*`。
+- 筛选：`civilization`、`site`、`period`、`region`、`source_tier`、`q`，游标分页。
+- v0 在两河结构化试点落地前可返回空集合。
+
+
 ## 5. 鉴权
 
 - 资料库全部 GET：**公开读**。
@@ -224,7 +263,7 @@ GET /search?q=...&kind=fact&region=...&limit=20
 
 准备动手实现**资料库** API 时：
 
-1. 解析 `sources/`、`data/civilizations/`、`hypotheses/`、`reconstructions/` 以及已发布的 `deliberations/` 的 YAML front matter。
+1. 解析 `sources/`、`data/civilizations/`、档案实体（sites、periods、objects、claims、media）、`hypotheses/`、`reconstructions/` 以及已发布的 `deliberations/` 的 YAML front matter / 结构化附属文件。
 2. 跑出处闸门 → 写入 `export/` 下的 SQLite 或 JSON。
 3. 资料库 GET 只读服务该导出（数据库以只读方式打开）。
 4. CI：闸门拒绝则失败；假说文件缺 HYPOTHESIS 标注 / `kind` 映射则失败。

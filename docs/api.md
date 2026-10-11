@@ -161,6 +161,16 @@ Empty result for a **valid** combo → **200** with `items: []`, not 404.
 | GET | `/reconstructions` | Reconstruction list |
 | GET | `/reconstructions/{id}` | One reconstruction |
 | GET | `/search` | Cross-kind search (`q` + optional `kind`, axes) |
+| GET | `/sites` | Archive: sites list |
+| GET | `/sites/{id}` | Archive: one site |
+| GET | `/periods` | Archive: periods list |
+| GET | `/periods/{id}` | Archive: one period |
+| GET | `/objects` | Archive: objects/assemblages list |
+| GET | `/objects/{id}` | Archive: one object/assemblage |
+| GET | `/claims` | Archive: atomic claims (fact or hypothesis) |
+| GET | `/claims/{id}` | Archive: one claim |
+| GET | `/media` | Archive: rights-cleared media metadata |
+| GET | `/media/{id}` | Archive: one media record |
 
 ### 4.1 Shared query parameters
 
@@ -198,6 +208,35 @@ Each hit may include `snippet` and `score` when FTS exists; otherwise honest sub
 
 ---
 
+
+## 4.6 Archive entities (sites, periods, objects, claims, media)
+
+> Product clarification (2026-10-11): the public surface is a **digital archive + read API**. Civilization Markdown pages are an editorial/presentation layer. See [`architecture.md` Archive layer](architecture.md) · deliberation [`delib-2026-10-11-archive-api-direction`](../deliberations/delib-2026-10-11-archive-api-direction.md) · decision D-2026-10-11-17.
+
+Additional **read-only** collections (design sketch; implement with schema + export):
+
+| Method | Path | Purpose |
+|--------|------|---------|
+| GET | `/sites` | Archaeological sites / findspots linked to `civ-*` |
+| GET | `/sites/{id}` | One site (`site-*`) |
+| GET | `/periods` | Period / phase definitions (orthogonal time axis) |
+| GET | `/periods/{id}` | One period (`period-*`) |
+| GET | `/objects` | Assemblages / objects (rights metadata required) |
+| GET | `/objects/{id}` | One object or assemblage (`obj-*` / `asm-*`) |
+| GET | `/claims` | Atomic claims; `kind` = `fact` \| `hypothesis` (never silent promote) |
+| GET | `/claims/{id}` | One claim (`claim-*`) |
+| GET | `/media` | Rights-cleared media metadata (or outbound refs); **no** forged binaries |
+| GET | `/media/{id}` | One media record (`media-*`) |
+
+Shared rules:
+
+- Every item includes `sources[]` (citation fail-closed for `kind: "fact"`).
+- Objects/media carry `rights` (license, attribution, upstream URL); empty Media table is OK until cleared packages exist.
+- Claims that are hypotheses must include `kind: "hypothesis"` + `disclaimer`; fact claims require resolvable `src-*`.
+- Filters: `civilization`, `site`, `period`, `region`, `source_tier`, `q`, cursor pagination.
+- v0 may return these collections empty until the Mesopotamia structured pilot lands.
+
+
 ## 5. Auth
 
 - **Public read** for all library GET endpoints.
@@ -224,7 +263,7 @@ A single GraphQL schema mirroring the same entities and orthogonal filters may b
 
 When ready to build the **library** API:
 
-1. Parse YAML front matter from `sources/`, `data/civilizations/`, `hypotheses/`, `reconstructions/`, and published `deliberations/`.
+1. Parse YAML front matter / structured sidecars from `sources/`, `data/civilizations/`, archive entities (sites, periods, objects, claims, media), `hypotheses/`, `reconstructions/`, and published `deliberations/`.
 2. Run citation gate → write `export/` SQLite or JSON.
 3. Serve library GET from the export (DB opened read-only).
 4. CI: fail if gate rejects; fail if hypothesis files lack the HYPOTHESIS label / `kind` mapping.

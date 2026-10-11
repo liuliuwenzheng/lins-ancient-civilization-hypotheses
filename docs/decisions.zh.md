@@ -129,3 +129,11 @@
 **说明（奥尔梅克）：** 保留原有六条来源，并新登记七条已核验来源（Drucker 1952 拉文塔 P；Drucker/Heizer/Squier 1959 拉文塔 P；Cyphers 2004 雕塑编目；Clark & Pye 2000 国家美术馆文集；Benson & de la Fuente 1996 / González Lauck；Blomster 等 2005 *Science* 陶器 INAA；Taube 2004 Dumbarton Oaks）——合计 **13** 条 `src-*`。深度焦点：海湾心脏地带地理；形成期年表；圣洛伦佐、拉文塔、查尔卡钦戈；纪念性城市；不宣称已破译文字；生计/手工业与陶器外销模型；对外接触；研究史。母文化 vs 姊妹文化与 Diehl 书名「最早」一律留在 Notes。正直优先于速度。
 
 **说明（早期玛雅）：** 保留原有五条来源，并新登记七条已核验来源（Saturno/Stuart/Beltrán 2006 圣巴托洛 *Science*；Clark & Hansen 2001 早期王权/MFC；Demarest 2004；Inomata 等 2019 塞瓦尔高原 *PLOS ONE*；Coe & Houston 2015；Hansen 1998 纳克贝；Willey 等塞瓦尔皮博迪系列 P）——合计 **12** 条 `src-*`。深度焦点：低地地理；前古典–早古典年表；塞瓦尔、纳克贝、埃尔米拉多尔、西瓦尔、圣巴托洛；E 组与人造高原；晚前古典文字；生计；与奥尔梅克互动作争议；研究史。古典崩溃不在范围。正直优先于速度。
+
+### D-2026-10-11-17 — 产品核心 = 档案 + 只读 API（百科散文是呈现层）
+
+**决定：** 经圆桌会话 [`delib-2026-10-11-archive-api-direction`](../deliberations/delib-2026-10-11-archive-api-direction.md) 审议后，产品核心定为**数字档案 + 只读 API**，而非仅博客/百科页面。双语文明 Markdown 仍是有价值的**编辑 / 呈现**层，可以继续加厚，但加厚必须**喂入结构化档案记录**（来源 Source、遗址 Site、分期 Period、组合/器物 Assemblage/Object 含权利、主张 Claim 事实 vs 假说、媒体 Media 仅权利清晰、审议 Deliberation）。API 对这些实体做 list/filter/get；每条带 `sources[]`；假说绝不自动升格。
+
+**可检验的下一步：** JSON Schema 和/或 SQLite DDL；从 MD + 附属结构化文件导出并作出处失败即关闭；OpenAPI 档案路径（`/sites`、`/periods`、`/objects`、`/claims`、`/media`）；选一条文明做完整结构化试点（优先 `civ-mesopotamia`）。云端审议仍先规范后实现（D-2026-10-11-2 不变）。不上伪造文物图。
+
+**说明：** 细化 D-2026-10-11-4 —— git Markdown 仍是已发布编辑权威；经闸门的 `export/` 作为 API 服务形态（禁止静默双写）。架构：档案层专节。接口：§4.6。OpenAPI 已增档案集合草图。

@@ -80,22 +80,41 @@ These are not style tips. Treat them as gates (same spirit as poetry-tree’s ri
 6. **No forged imagery.** No fabricated artifact photos; no wholesale copyrighted dumps — cite and link.
 7. **Perspectives ≠ endorsement.** Council seats are AI lenses from FHLS-perspectives (`perspective: true`, `person_endorsement: false`). They never rewrite fact fields by themselves and must not be framed as real-person endorsement.
 
+## Archive layer (product clarification — 2026-10-11)
+
+**Product core = digital archive + read API**, not blog/encyclopedia alone.
+
+| Layer | Role |
+|-------|------|
+| **Editorial / presentation** | Bilingual Markdown civilization pages, READMEs, human-readable narratives under git |
+| **Archive system of record (for API)** | Structured records: **Source**, **Site**, **Period**, **Assemblage/Object** (with rights), **Claim** (fact vs hypothesis), **Media** (rights-cleared only), **Deliberation**, plus Civilization as an aggregate overview |
+
+Rules:
+
+1. Thick encyclopedia MD is welcome as a **view** and editorial craft — it is **not** sufficient as the sole product shape for “档案接口 / archive API.”
+2. Enrichment of `civ-*` pages continues **only if** it feeds structured records (sites, periods, claims, sources), not prose alone.
+3. Git remains authoritative for published trails; a gated derived **JSON / SQLite** export under `export/` (path TBD) becomes the API serving form — no silent dual-write.
+4. API list/filter/get archive entities; every item carries `sources[]`; hypotheses never auto-promote to facts.
+5. No forged artifact images; Media entries require clear rights (metadata + outbound links acceptable in v0).
+
+Decision: [`decisions.md` D-2026-10-11-17](decisions.md). Deliberation trail: [`../deliberations/delib-2026-10-11-archive-api-direction.md`](../deliberations/delib-2026-10-11-archive-api-direction.md).
+
 ## Storage today
 
-**Markdown + git is the source of truth.**
+**Markdown + git remains the published editorial source of truth.** Structured archive records + gated `export/` are the API serving form once implemented (see Archive layer above).
 
 - Humans edit via PR using `_template.md` copies.
 - Front matter is YAML; bodies are readable Markdown.
 - Templates under each directory are scaffolding only — **not** filled with invented case studies.
 
-## Storage later (optional path)
+## Storage later (archive export path)
 
-If we need machine-queryable export (search, filters, hosting):
+Required for the archive+API product (search, filters, hosting):
 
 1. A build step parses Markdown → normalized **SQLite** and/or **JSON** under something like `export/` (exact path TBD).
 2. **Citation gate (fail-closed):** entries that claim fact status but lack resolvable `sources[]` / registry files are **rejected from the export** (and ideally fail CI). Same idea as poetry-tree: build-time gate + serve-time audit so the API cannot be a backdoor around the rule.
 3. The git Markdown remains authoritative; the DB/JSON is a derived artifact, never the only copy of truth.
-4. Implement only after the fact-library has real, cited seeds — not before.
+4. Fact-library now has cited seeds (nine `fact-library` entries as of 2026-10-11) — proceed to schema + pilot export; still fail-closed on citations.
 
 ## Directory map (aligned)
 

@@ -80,22 +80,42 @@ Deliberation.seats[]  →引用→  FHLS-perspectives 文件夹 slug（外部）
 6. **无伪造影像。** 不上伪造文物图；不整篇倒受版权文本 —— 链接并引用。
 7. **视角 ≠ 背书。** 圆桌席位是 FHLS-perspectives 的 AI 透镜（`perspective: true`，`person_endorsement: false`）。不能单独改写事实字段，也不得装成真人背书。
 
+
+## 档案层（产品澄清 — 2026-10-11）
+
+**产品核心 = 数字档案 + 只读 API**，不是博客/百科简介本身。
+
+| 层 | 职责 |
+|----|------|
+| **编辑 / 呈现** | git 中的双语文明 Markdown、README、人类可读叙述 |
+| **面向 API 的档案真源形态** | 结构化记录：**来源 Source**、**遗址 Site**、**分期 Period**、**组合/器物 Assemblage/Object**（含权利）、**主张 Claim**（事实 vs 假说）、**媒体 Media**（仅权利清晰）、**审议 Deliberation**，以及作为聚合视图的文明 Civilization |
+
+规则：
+
+1. 加厚百科式 Markdown 可作为**呈现层**与编辑工艺——但**不足以**单独充当「档案接口」产品形态。
+2. `civ-*` 加厚须**喂入**结构化记录（遗址、分期、主张、来源），不能只堆散文。
+3. 已发布轨迹仍以 git 为准；经出处闸门的派生 **JSON / SQLite**（如 `export/`，路径待定）作为 API 服务形态——禁止静默双写。
+4. API 对档案实体做 list/filter/get；每条带 `sources[]`；假说绝不自动升格为事实。
+5. 不上伪造文物图；Media 须权利清晰（v0 可用元数据 + 外链）。
+
+决定：[`decisions.zh.md` D-2026-10-11-17](decisions.zh.md)。审议轨迹：[`../deliberations/delib-2026-10-11-archive-api-direction.md`](../deliberations/delib-2026-10-11-archive-api-direction.md)。
+
 ## 今日存储
 
-**Markdown + git 是唯一事实源。**
+**Markdown + git 仍是已发布的编辑真源。** 结构化档案记录 + 经闸门的 `export/` 在实现后作为 API 服务形态（见上方档案层）。
 
 - 人通过 PR，按 `_template.md` 复制填写。
 - Front matter 为 YAML；正文为可读 Markdown。
 - 各目录下的模板只是脚手架——**不会**预填虚构案例。
 
-## 日后存储（可选路径）
+## 日后存储（档案导出路径）
 
-若需要可机查导出（检索、筛选、托管）：
+档案+API 产品所必需（检索、筛选、托管）：
 
 1. 构建步骤把 Markdown 解析为规范化 **SQLite** 和/或 **JSON**（例如 `export/`，路径待定）。
 2. **出处闸门（fail-closed）：** 自称事实却缺少可解析 `sources[]` / 登记文件的条目，**拒绝进入导出**（最好同时让 CI 失败）。同诗文树思路：构建期闸门 + 服务期审计，避免 API 成为绕过规则的后门。
 3. git 中的 Markdown 仍权威；DB/JSON 是派生物，不得成为唯一真源。
-4. 仅在事实库已有真实、有出处的种子后再实现——不要提前空转。
+4. 事实库现已有有出处种子（截至 2026-10-11 九条 `fact-library`）——进入 schema + 试点导出；出处闸门仍失败即关闭。
 
 ## 目录地图（对齐现有，不另起炉灶）
 
