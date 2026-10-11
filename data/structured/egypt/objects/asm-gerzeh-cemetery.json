@@ -1,0 +1,41 @@
+{
+  "id": "asm-gerzeh-cemetery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "格尔zeh前王朝墓地组合",
+    "en": "Gerzeh Predynastic cemetery assemblage"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-gerzeh"
+  ],
+  "period_ids": [
+    "period-egypt-naqada"
+  ],
+  "summary": {
+    "zh": "Petrie 等 1912 报告的格尔zeh墓地材料；不编造墓号清单。",
+    "en": "Gerzeh cemetery material as in Petrie et al. 1912; no invented tomb-number lists."
+  },
+  "sources": [
+    "src-egypt-petrie-gerzeh-1912"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Petrie, Wainwright & Mackay 1912",
+    "upstream_url": "https://archive.org/details/ERA21",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

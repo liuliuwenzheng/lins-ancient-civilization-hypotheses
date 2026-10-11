@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-wilson-adab-oip138-2012",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Wilson, Karen L., with contributions by Jacob Lauinger, Monica Louise Phillips, Benjamin Studevent-Hickman, and Aage Westenholz. 2012. Bismaya: Recovering the Lost City of Adab. Oriental Institute Publications 138. Chicago: Oriental Institute of the University of Chicago. ISBN 9781885923639.",
+  "url": "https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oip138.pdf",
+  "access_date": "2026-10-11",
+  "reliability_tier": "P",
+  "notes": "Modern OIP final publication of University of Chicago 1903–1905 Bismaya (Adab) excavations, publishing previously unpublished field records, architecture, and object analyses. Open PDF via Oriental Institute (accessed 2026-10-11). Catalog page: https://isac.uchicago.edu/publications/bismaya-recovering-lost-city-adab",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-wilson-adab-oip138-2012.md"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Copied from source registry front matter; no new bibliographic claims."
+  }
+}

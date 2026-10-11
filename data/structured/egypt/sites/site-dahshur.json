@@ -1,0 +1,30 @@
+{
+  "id": "site-dahshur",
+  "entity": "site",
+  "names": {
+    "zh": "达赫舒尔 / Dahshur",
+    "en": "Dahshur",
+    "native": null
+  },
+  "kind_note": "Pyramid field and cemeteries (de Morgan 1894 focus MK)",
+  "region": "Memphite necropolis / south of Saqqara",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "de Morgan《Fouilles à Dahchour》(1895) 报告 1894 季发掘；古王国斯尼弗鲁工程须另引 Fakhry 等，本条不混并。",
+    "en": "de Morgan Fouilles à Dahchour (1895) reports the 1894 season; Old Kingdom Sneferu work requires separate Fakhry (etc.) registration — not conflated here."
+  },
+  "sources": [
+    "src-egypt-de-morgan-dahchour-1895"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

@@ -1,0 +1,23 @@
+---
+id: src-egypt-de-morgan-dahchour-1895
+type: excavation-report
+citation: "Morgan, Jacques de. 1895. Fouilles à Dahchour: Mars–Juin 1894. Vienna: Adolphe Holzhausen."
+url: "https://archive.org/details/fouillesdahcho01morg"
+access_date: "2026-10-11"
+reliability_tier: P
+notes: "Primary publication of de Morgan’s 1894 Dahshur excavations (Middle Kingdom pyramid/cemetery focus as published; do not conflate with later Old Kingdom Sneferu fieldwork without separate registration). Digitized on Internet Archive; also Heidelberg Digi https://digi.ub.uni-heidelberg.de/diglit/morgan1895"
+---
+
+# Source: `src-egypt-de-morgan-dahchour-1895`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Morgan, Jacques de. 1895. Fouilles à Dahchour: Mars–Juin 1894. Vienna: Adolphe Holzhausen. |
+| URL | https://archive.org/details/fouillesdahcho01morg |
+| Accessed | 2026-10-11 |
+
+## Notes
+
+Primary publication of de Morgan’s 1894 Dahshur excavations (Middle Kingdom pyramid/cemetery focus as published; do not conflate with later Old Kingdom Sneferu fieldwork without separate registration). Digitized on Internet Archive; also Heidelberg Digi https://digi.ub.uni-heidelberg.de/diglit/morgan1895

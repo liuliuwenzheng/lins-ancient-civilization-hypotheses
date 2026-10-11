@@ -1,0 +1,31 @@
+{
+  "id": "site-abusir",
+  "entity": "site",
+  "names": {
+    "zh": "阿布西尔 / Abusir",
+    "en": "Abusir",
+    "native": null
+  },
+  "kind_note": "Old Kingdom royal pyramid field (Sahure complex plates)",
+  "region": "Memphite necropolis / between Giza and Saqqara",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Borchardt DOG《萨胡拉陵墓》图版卷（1913）公布阿布西尔萨胡拉祭庙墙面图像。",
+    "en": "Borchardt DOG Sahure Grabdenkmal plate volume (1913) publishes wall scenes from Sahure’s Abusir complex."
+  },
+  "sources": [
+    "src-egypt-borchardt-sahure-plates-1913",
+    "src-egypt-lehner-complete-pyramids-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "asm-dahshur-de-morgan-1894",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "达赫舒尔 de Morgan 1894 季组合",
+    "en": "Dahshur de Morgan 1894 season assemblage"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-dahshur"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "de Morgan 1895 卷记录的 1894 季金字塔区/墓地发现类别（中王国焦点为主）。",
+    "en": "Find classes from the 1894 pyramid-field/cemetery season as recorded in de Morgan 1895 (Middle Kingdom focus)."
+  },
+  "sources": [
+    "src-egypt-de-morgan-dahchour-1895"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "de Morgan 1895 Fouilles à Dahchour",
+    "upstream_url": "https://archive.org/details/fouillesdahcho01morg",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

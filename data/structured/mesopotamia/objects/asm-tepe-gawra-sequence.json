@@ -1,0 +1,44 @@
+{
+  "id": "asm-tepe-gawra-sequence",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特佩高拉层位器物序列",
+    "en": "Tepe Gawra level assemblages (Speiser/Tobler)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tepe-gawra"
+  ],
+  "period_ids": [
+    "period-ubaid",
+    "period-uruk",
+    "period-early-settlement-nissen"
+  ],
+  "summary": {
+    "zh": "Speiser/Tobler 正式报告记录的北部多时期层位器物与建筑组合；不编造馆藏号。",
+    "en": "Multi-period level assemblages and architecture as published by Speiser/Tobler; no invented museum numbers."
+  },
+  "sources": [
+    "src-mesopotamia-speiser-gawra-i-1935",
+    "src-mesopotamia-tobler-gawra-ii-1950"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Speiser 1935; Tobler 1950",
+    "upstream_url": "https://archive.org/details/excavationsattep01join",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

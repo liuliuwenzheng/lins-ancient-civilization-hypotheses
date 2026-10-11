@@ -1,0 +1,41 @@
+{
+  "id": "asm-agrab-shara-temple",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿格拉卜沙拉神庙组合",
+    "en": "Tell Agrab Shara Temple assemblage"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-agrab"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "OIP 58 中 Lloyd 报告的沙拉神庙建筑与相关早王朝器物。",
+    "en": "Shara Temple architecture and related Early Dynastic finds as reported by Lloyd in OIP 58."
+  },
+  "sources": [
+    "src-mesopotamia-delougaz-lloyd-oip58-1942"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Delougaz & Lloyd OIP 58",
+    "upstream_url": "https://isac.uchicago.edu/research/publications/oip/oip-58-pre-sargonid-temples-diyala-region",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

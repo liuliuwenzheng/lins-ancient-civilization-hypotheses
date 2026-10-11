@@ -1,0 +1,30 @@
+{
+  "id": "site-isin",
+  "entity": "site",
+  "names": {
+    "zh": "伊辛（伊尚巴里亚特）/ Isin (Išān Baḥrīyāt)",
+    "en": "Isin (Išān Baḥrīyāt)",
+    "native": null
+  },
+  "kind_note": "Southern Mesopotamian city; Munich 1973–1989 excavations",
+  "region": "Southern Mesopotamia / Iraq",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "慕尼黑大学 1973–1989 发掘；Hrouda 编《Isin–Išān Baḥrīyāt》I（1977）为首卷正式报告。",
+    "en": "Munich University excavations 1973–1989; Hrouda (ed.) Isin–Išān Baḥrīyāt I (1977) is the first final volume."
+  },
+  "sources": [
+    "src-mesopotamia-hrouda-isin-i-1977"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

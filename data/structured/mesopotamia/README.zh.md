@@ -14,3 +14,5 @@
 ```bash
 .venv/bin/python tools/export_check.py
 ```
+
+实体数量以 `tools/export_check.py` 输出为准（会随密度加深变化；勿在本 README 写死计数）。

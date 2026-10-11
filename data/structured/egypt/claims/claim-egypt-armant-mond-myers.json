@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-armant-mond-myers",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mond & Myers《Cemeteries of Armant》I（1937）是阿尔曼特墓地的 EES 正式报告。",
+    "en": "Mond & Myers Cemeteries of Armant I (1937) is the EES primary memoir for the Armant cemeteries."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-armant"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-armant-cemeteries"
+  ],
+  "sources": [
+    "src-egypt-mond-myers-armant-1937"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

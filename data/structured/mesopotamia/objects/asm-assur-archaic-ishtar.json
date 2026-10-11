@@ -1,0 +1,42 @@
+{
+  "id": "asm-assur-archaic-ishtar",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "亚述古朴伊什塔尔神庙组合",
+    "en": "Assur archaic Ishtar temple assemblage"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-assur"
+  ],
+  "period_ids": [
+    "period-early-dynastic",
+    "period-akkad"
+  ],
+  "summary": {
+    "zh": "Andrae 1922 报告的古朴伊什塔尔神庙建筑与器物；不编造 VA 馆藏号。",
+    "en": "Archaic Ishtar temple architecture and finds as published by Andrae 1922; no invented VA numbers."
+  },
+  "sources": [
+    "src-mesopotamia-andrae-assur-ishtar-1922"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Andrae 1922 WVDOG 39",
+    "upstream_url": "https://archive.org/details/diearchaischenis00andr",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

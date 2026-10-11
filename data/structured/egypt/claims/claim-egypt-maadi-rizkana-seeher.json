@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-maadi-rizkana-seeher",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rizkana & Seeher 四卷（1987–1990）正式出版开罗大学马阿迪/瓦迪迪格拉前王朝发掘材料。",
+    "en": "Rizkana & Seeher’s four volumes (1987–1990) formally publish the Cairo University Maadi/Wadi Digla Predynastic excavations."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-maadi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-maadi-settlement-cemeteries"
+  ],
+  "sources": [
+    "src-egypt-rizkana-seeher-maadi-dai"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "site-tell-el-farkha",
+  "entity": "site",
+  "names": {
+    "zh": "法尔哈丘 / Tell el-Farkha (Ghazala)",
+    "en": "Tell el-Farkha (Ghazala)",
+    "native": null
+  },
+  "kind_note": "Predynastic–Early Dynastic Delta three-kom site",
+  "region": "Eastern Nile Delta / Egypt",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "波兰队 1998–2011；Chłodnicki、Ciałowicz & Mączyńska《Tell el-Farkha I》(2012) 综合下埃及与纳卡达相关聚落、行政/祭仪建筑与东丘墓地。",
+    "en": "Polish excavations 1998–2011; Chłodnicki, Ciałowicz & Mączyńska Tell el-Farkha I (2012) synthesizes Lower Egyptian and Naqada-related settlement, administrative/cultic architecture, and Eastern Kom cemetery."
+  },
+  "sources": [
+    "src-egypt-chlodnicki-farkha-i-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

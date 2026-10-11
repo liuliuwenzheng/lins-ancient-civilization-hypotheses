@@ -1,0 +1,43 @@
+{
+  "id": "asm-qau-badari-cemeteries",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡乌–巴达里墓地组合（Brunton I）",
+    "en": "Qau–Badari cemetery assemblage (Brunton I)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-qau",
+    "site-badari"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic",
+    "period-egypt-naqada"
+  ],
+  "summary": {
+    "zh": "Brunton《Qau and Badari》I 报告的沙漠边缘墓地器物类别。",
+    "en": "Desert-edge cemetery find classes as published in Brunton Qau and Badari I."
+  },
+  "sources": [
+    "src-egypt-brunton-qau-badari-i-1927"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Brunton 1927 Qau and Badari I",
+    "upstream_url": "https://archive.org/details/qau-and-badari-i",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

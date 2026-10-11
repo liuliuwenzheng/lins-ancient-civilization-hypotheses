@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-isin-hrouda-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hrouda 编《Isin–Išān Baḥrīyāt》I（1977）公布慕尼黑队 1973–1974 季伊辛发掘成果。",
+    "en": "Hrouda (ed.) Isin–Išān Baḥrīyāt I (1977) publishes the Munich expedition’s 1973–1974 Isin results."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-isin"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-isin-hrouda-i"
+  ],
+  "sources": [
+    "src-mesopotamia-hrouda-isin-i-1977"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

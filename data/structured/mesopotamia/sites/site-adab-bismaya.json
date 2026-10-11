@@ -1,0 +1,31 @@
+{
+  "id": "site-adab-bismaya",
+  "entity": "site",
+  "names": {
+    "zh": "阿达卜（比斯马亚）/ Adab (Bismaya)",
+    "en": "Adab (Bismaya)",
+    "native": null
+  },
+  "kind_note": "Sumerian city mound; Chicago 1903–1905 expedition",
+  "region": "Southern Mesopotamia / Iraq",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "芝加哥大学 1903–1905 发掘；Wilson OIP 138（2012）正式出版此前未刊田野记录与器物；Banks 1912 为通俗叙事（S）。",
+    "en": "University of Chicago 1903–1905 excavations; Wilson OIP 138 (2012) publishes previously unpublished field records; Banks 1912 is a popular narrative (S)."
+  },
+  "sources": [
+    "src-mesopotamia-wilson-adab-oip138-2012",
+    "src-mesopotamia-banks-bismya-1912"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

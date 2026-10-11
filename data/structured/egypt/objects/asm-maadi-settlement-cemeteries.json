@@ -1,0 +1,41 @@
+{
+  "id": "asm-maadi-settlement-cemeteries",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "马阿迪聚落与墓地组合",
+    "en": "Maadi settlement and cemetery assemblage"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-maadi"
+  ],
+  "period_ids": [
+    "period-egypt-naqada"
+  ],
+  "summary": {
+    "zh": "Rizkana & Seeher 四卷公布的马阿迪/瓦迪迪格拉前王朝聚落与墓地材料。",
+    "en": "Maadi/Wadi Digla Predynastic settlement and cemetery material as published in the Rizkana & Seeher four volumes."
+  },
+  "sources": [
+    "src-egypt-rizkana-seeher-maadi-dai"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Rizkana & Seeher 1987–1990 Maadi",
+    "upstream_url": "https://www.dainst.org/en/research/projects/maadi-eine-praehistorische-siedlung-inmitten-von-kairo/6002",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

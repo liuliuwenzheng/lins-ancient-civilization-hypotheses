@@ -1,0 +1,43 @@
+{
+  "id": "asm-brak-eye-temple",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "布拉克眼庙及相关组合",
+    "en": "Tell Brak Eye Temple and related assemblage"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-brak"
+  ],
+  "period_ids": [
+    "period-uruk",
+    "period-jemdet-nasr",
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Mallowan 1947 报告中的眼庙与相关第四–第三千纪材料；北部殖民叙事不在此写成定论。",
+    "en": "Eye Temple and related 4th–3rd millennium material as in Mallowan 1947; northern colonial narratives are not treated as settled fact here."
+  },
+  "sources": [
+    "src-mesopotamia-mallowan-brak-1947"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Mallowan 1947 Iraq 9",
+    "upstream_url": "https://www.cambridge.org/core/journals/iraq/issue/11596B311C51DE86C9656380D6896738",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

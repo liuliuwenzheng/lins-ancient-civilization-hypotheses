@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-agrab-shara-oip58",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Delougaz & Lloyd《迪亚拉前萨尔贡神庙》OIP 58（1942）含 Tell Agrab 沙拉神庙的正式报告。",
+    "en": "Delougaz & Lloyd Pre-Sargonid Temples in the Diyala Region (OIP 58, 1942) includes the formal report on the Shara Temple at Tell Agrab."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-agrab"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-agrab-shara-temple"
+  ],
+  "sources": [
+    "src-mesopotamia-delougaz-lloyd-oip58-1942"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

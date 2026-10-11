@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-choga-mami-oates",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Oates 1969《Iraq》初步报告公布乔加马米 1967–68 发掘的萨马拉相关聚落证据。",
+    "en": "Oates’s 1969 Iraq preliminary report publishes Samarran-related settlement evidence from the 1967–68 Choga Mami excavations."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-choga-mami"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-choga-mami-samarran"
+  ],
+  "sources": [
+    "src-mesopotamia-oates-choga-mami-1969"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

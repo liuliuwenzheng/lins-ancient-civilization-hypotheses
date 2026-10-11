@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-farkha-i-2012",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《Tell el-Farkha I》(2012) 综合波兰队 1998–2011 年三角洲法尔哈丘发掘。",
+    "en": "Tell el-Farkha I (2012) synthesizes the Polish 1998–2011 excavations at Tell el-Farkha in the Delta."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-tell-el-farkha"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-farkha-delta-settlement"
+  ],
+  "sources": [
+    "src-egypt-chlodnicki-farkha-i-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

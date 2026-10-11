@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-abusir-sahure-plates",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Borchardt 1913《萨胡拉陵墓》图版卷公布阿布西尔萨胡拉祭庙墙面图像。",
+    "en": "Borchardt 1913 Sahure Grabdenkmal plate volume publishes wall scenes from Sahure’s Abusir complex."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abusir"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-abusir-sahure-reliefs"
+  ],
+  "sources": [
+    "src-egypt-borchardt-sahure-plates-1913"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

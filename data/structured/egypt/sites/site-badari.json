@@ -1,0 +1,31 @@
+{
+  "id": "site-badari",
+  "entity": "site",
+  "names": {
+    "zh": "巴达里 / Badari",
+    "en": "Badari",
+    "native": null
+  },
+  "kind_note": "Badarian type-region cemeteries and related Predynastic remains",
+  "region": "Middle Egypt / east bank Nile (Qau–Badari region)",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Brunton & Caton-Thompson 1928 界定巴达里文化及相关前王朝遗存；与赫马米耶聚落同卷。",
+    "en": "Brunton & Caton-Thompson 1928 define Badarian culture and related Predynastic remains; Hemamieh settlement in the same volume."
+  },
+  "sources": [
+    "src-egypt-brunton-caton-thompson-badarian-1928",
+    "src-egypt-brunton-qau-badari-i-1927"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

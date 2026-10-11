@@ -1,0 +1,30 @@
+{
+  "id": "site-hu-abadiyeh",
+  "entity": "site",
+  "names": {
+    "zh": "胡与阿巴迪耶 / Hu and Abadiyeh (Diospolis Parva)",
+    "en": "Hu and Abadiyeh (Diospolis Parva)",
+    "native": null
+  },
+  "kind_note": "Predynastic–early cemeteries of Diospolis Parva",
+  "region": "Upper Egypt / Qena region",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Petrie《Diospolis Parva》(1901) 报告阿巴迪耶与胡的墓地。",
+    "en": "Petrie Diospolis Parva (1901) reports the cemeteries of Abadiyeh and Hu."
+  },
+  "sources": [
+    "src-egypt-petrie-diospolis-parva-1901"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

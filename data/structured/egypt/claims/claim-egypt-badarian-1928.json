@@ -1,0 +1,32 @@
+{
+  "id": "claim-egypt-badarian-1928",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Brunton & Caton-Thompson 1928 正式报告巴达里文明及相关前王朝遗存，并含 Caton-Thompson 的赫马米耶聚落发掘。",
+    "en": "Brunton & Caton-Thompson 1928 formally publish the Badarian civilisation and related Predynastic remains, including Caton-Thompson’s Hemamieh settlement excavation."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-badari",
+    "site-hemamieh"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-badarian-hemamieh"
+  ],
+  "sources": [
+    "src-egypt-brunton-caton-thompson-badarian-1928"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

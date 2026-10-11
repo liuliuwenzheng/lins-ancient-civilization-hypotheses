@@ -1,0 +1,30 @@
+{
+  "id": "site-qau",
+  "entity": "site",
+  "names": {
+    "zh": "卡乌 / Qau el-Kebir",
+    "en": "Qau el-Kebir",
+    "native": null
+  },
+  "kind_note": "Desert-edge cemeteries published in Qau and Badari series",
+  "region": "Middle Egypt / east bank",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Brunton《Qau and Badari》I（1927）报告卡乌–巴达里沙漠边缘墓地工作。",
+    "en": "Brunton Qau and Badari I (1927) reports desert-edge cemetery work in the Qau–Badari district."
+  },
+  "sources": [
+    "src-egypt-brunton-qau-badari-i-1927"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

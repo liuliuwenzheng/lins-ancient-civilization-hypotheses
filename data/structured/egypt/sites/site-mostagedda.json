@@ -1,0 +1,30 @@
+{
+  "id": "site-mostagedda",
+  "entity": "site",
+  "names": {
+    "zh": "莫斯塔盖达 / Mostagedda",
+    "en": "Mostagedda",
+    "native": null
+  },
+  "kind_note": "Tasian and related Middle Egypt cemetery/settlement contexts",
+  "region": "Middle Egypt",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Brunton《Mostagedda and the Tasian Culture》(1937) 大英博物馆中埃及远征报告。",
+    "en": "Brunton Mostagedda and the Tasian Culture (1937) British Museum Middle Egypt expedition report."
+  },
+  "sources": [
+    "src-egypt-brunton-mostagedda-1937"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

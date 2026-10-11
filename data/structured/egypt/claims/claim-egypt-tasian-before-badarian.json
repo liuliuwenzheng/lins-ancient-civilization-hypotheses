@@ -1,0 +1,35 @@
+{
+  "id": "claim-egypt-tasian-before-badarian",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将塔西安简单定为「早于巴达里的独立文化阶段」仍属可修订的年代—文化模型，须对照后续中埃及层位研究。",
+    "en": "Treating Tasian simply as an independent phase earlier than Badarian remains a revisable chrono-cultural model pending later Middle Egypt stratigraphic work."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-mostagedda",
+    "site-badari"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mostagedda-tasian",
+    "asm-badarian-hemamieh"
+  ],
+  "sources": [
+    "src-egypt-brunton-mostagedda-1937",
+    "src-egypt-brunton-caton-thompson-badarian-1928",
+    "src-egypt-midant-reynes-prehistory-2000"
+  ],
+  "disclaimer": "Hypothesis / scholarly model — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

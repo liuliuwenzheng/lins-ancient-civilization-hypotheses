@@ -1,0 +1,30 @@
+{
+  "id": "site-maadi",
+  "entity": "site",
+  "names": {
+    "zh": "马阿迪 / Maadi",
+    "en": "Maadi",
+    "native": null
+  },
+  "kind_note": "Predynastic Lower Egyptian settlement and cemeteries",
+  "region": "Cairo / Lower Egypt",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "开罗大学 1930–1953 发掘；Rizkana & Seeher 四卷 DAI 正式出版（1987–1990）。",
+    "en": "Cairo University excavations 1930–1953; Rizkana & Seeher four-volume DAI publication (1987–1990)."
+  },
+  "sources": [
+    "src-egypt-rizkana-seeher-maadi-dai"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

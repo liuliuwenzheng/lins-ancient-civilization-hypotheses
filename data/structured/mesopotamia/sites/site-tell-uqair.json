@@ -1,0 +1,30 @@
+{
+  "id": "site-tell-uqair",
+  "entity": "site",
+  "names": {
+    "zh": "乌盖尔丘 / Tell Uqair",
+    "en": "Tell Uqair",
+    "native": null
+  },
+  "kind_note": "Ubaid–Uruk–Jemdet Nasr site with painted temple",
+  "region": "Southern/central Mesopotamia / Babil Governorate, Iraq",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "伊拉克古物局 1940–1941 发掘；Lloyd & Safar 1943 JNES 报告欧贝德聚落、乌鲁克彩绘神庙、杰姆代特奈斯尔礼拜堂与早王朝墓地。",
+    "en": "Iraqi Directorate excavations 1940–1941; Lloyd & Safar 1943 JNES report covers Ubaid settlement, Uruk painted temple, Jemdet Nasr chapel finds, and an Early Dynastic cemetery."
+  },
+  "sources": [
+    "src-mesopotamia-lloyd-safar-uqair-1943"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

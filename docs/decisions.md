@@ -287,3 +287,20 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Note:** Contested models stay hypotheses. Integrity over speed. First density pass across all nine packs complete.
 
+
+### D-2026-10-11-28 — Mesopotamia + Egypt second archive density pass
+
+**Decision:** After the first density pass (D-21 / D-22), deepen Mesopotamia and Egypt packs again with **site-level primary / strong secondary** publications only: verified reports and stable URLs; more sites, assemblages, and fact claims; contested readings stay hypotheses; sync Key sites + Sources in `civ-mesopotamia.md` / `civ-ancient-egypt.md`; full-repo `export_check` must pass. Integrity over speed.
+
+**Major new P (and needed S):**
+
+**Mesopotamia:** Speiser Gawra I 1935; Tobler Gawra II 1950; Lloyd & Safar Tell Uqair JNES 1943; Wilson Adab OIP 138 2012 (+ Banks 1912 S); Delougaz & Lloyd OIP 58 (Tell Agrab); Oates Choga Mami 1969; Andrae Assur Ishtar 1922; Mallowan Brak 1947; Hrouda Isin I 1977.
+
+**Egypt:** Brunton & Caton-Thompson Badarian 1928; Brunton Qau and Badari I 1927; Petrie Gerzeh 1912; Petrie Diospolis Parva 1901; Mond & Myers Armant 1937; Brunton Mostagedda 1937; de Morgan Dahchour 1895; Borchardt Sahure plates 1913; Tell el-Farkha I 2012; Rizkana & Seeher Maadi 1987–1990.
+
+**Structured results (`export_check`):**
+- **mesopotamia:** sources 31→41; sites 17→25; objects 16→24; claims 23→32
+- **egypt:** sources 28→38; sites 13→24; objects 16→26; claims 24→35
+- Other seven packs unchanged; citation gate green.
+
+**Notes:** Brak-as-Uruk-colony and simple Tasian-before-Badarian stay hypotheses; no invented coordinates/museum numbers/forged images; READMEs avoid hardcoded live counts (trust `export_check`).

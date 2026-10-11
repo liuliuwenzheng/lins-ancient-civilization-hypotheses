@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-brak-uruk-colony",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将布拉克眼庙期简单等同于南部乌鲁克「殖民地」或单向行政前哨，仍是可争议的区域互动模型。",
+    "en": "Equating Brak’s Eye Temple horizon simply with a southern Uruk “colony” or one-way administrative outpost remains a contested regional-interaction model."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-brak"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-brak-eye-temple"
+  ],
+  "sources": [
+    "src-mesopotamia-mallowan-brak-1947",
+    "src-mesopotamia-algaze-2008"
+  ],
+  "disclaimer": "Hypothesis / scholarly model — not established fact. Labelled kind=hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

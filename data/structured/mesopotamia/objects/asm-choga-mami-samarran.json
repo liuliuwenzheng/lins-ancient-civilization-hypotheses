@@ -1,0 +1,42 @@
+{
+  "id": "asm-choga-mami-samarran",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乔加马米萨马拉相关聚落组合",
+    "en": "Choga Mami Samarran-related settlement assemblage"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-choga-mami"
+  ],
+  "period_ids": [
+    "period-ubaid",
+    "period-early-settlement-nissen"
+  ],
+  "summary": {
+    "zh": "Oates 1969 初步报告中的萨马拉相关聚落与灌溉相关证据类别（不作未核产量数字）。",
+    "en": "Samarran-related settlement and irrigation-related evidence categories as in Oates 1969 (no unchecked yield figures)."
+  },
+  "sources": [
+    "src-mesopotamia-oates-choga-mami-1969"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Oates 1969 Iraq",
+    "upstream_url": "https://www.cambridge.org/core/journals/iraq/article/abs/choga-mami-196768-a-preliminary-report/E6B76ACC190D3C68BB76FE2F091DB89B",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

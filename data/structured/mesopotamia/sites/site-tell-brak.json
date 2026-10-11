@@ -1,0 +1,31 @@
+{
+  "id": "site-tell-brak",
+  "entity": "site",
+  "names": {
+    "zh": "布拉克丘 / Tell Brak (Nagar)",
+    "en": "Tell Brak (Nagar)",
+    "native": null
+  },
+  "kind_note": "Northern Mesopotamian urban site; Eye Temple",
+  "region": "Upper Khabur / northeastern Syria",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "Mallowan 1930 年代发掘；1947《Iraq》正式报告布拉克与查加巴扎尔（含眼庙等）。北部/乌鲁克关系模型仍属假说。",
+    "en": "Mallowan 1930s excavations; 1947 Iraq final report on Brak and Chagar Bazar (incl. Eye Temple). Northern/Uruk-relation models remain hypotheses."
+  },
+  "sources": [
+    "src-mesopotamia-mallowan-brak-1947",
+    "src-mesopotamia-algaze-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

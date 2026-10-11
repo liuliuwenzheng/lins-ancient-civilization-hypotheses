@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-mostagedda-tasian",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Brunton 1937《Mostagedda and the Tasian Culture》报告大英博物馆中埃及远征材料并界定塔西安器物组合。",
+    "en": "Brunton 1937 Mostagedda and the Tasian Culture reports the BM Middle Egypt expedition material and defines the Tasian assemblage."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-mostagedda"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mostagedda-tasian"
+  ],
+  "sources": [
+    "src-egypt-brunton-mostagedda-1937"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

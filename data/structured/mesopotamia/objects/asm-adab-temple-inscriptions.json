@@ -1,0 +1,42 @@
+{
+  "id": "asm-adab-temple-inscriptions",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿达卜神庙与铭刻石器组合（OIP 138）",
+    "en": "Adab temple and inscribed stone vessels (OIP 138)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-adab-bismaya"
+  ],
+  "period_ids": [
+    "period-early-dynastic",
+    "period-akkad"
+  ],
+  "summary": {
+    "zh": "Wilson OIP 138 整理的比斯马亚神庙区、铭刻石器与行政文书材料；具体馆藏号须引该卷附录。",
+    "en": "Temple-area, inscribed stone vessels, and administrative tablets as published in Wilson OIP 138; cite volume appendices for museum numbers."
+  },
+  "sources": [
+    "src-mesopotamia-wilson-adab-oip138-2012"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Wilson OIP 138 (2012)",
+    "upstream_url": "https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oip138.pdf",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

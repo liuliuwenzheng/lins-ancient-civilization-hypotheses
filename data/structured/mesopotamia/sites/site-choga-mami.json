@@ -1,0 +1,30 @@
+{
+  "id": "site-choga-mami",
+  "entity": "site",
+  "names": {
+    "zh": "乔加马米 / Choga Mami",
+    "en": "Choga Mami",
+    "native": null
+  },
+  "kind_note": "Samarran-related settlement near Mandali",
+  "region": "East-central Iraq / Mandali region (foothill/alluvial interface)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "Joan Oates 1967–68 发掘；1969《Iraq》初步报告萨马拉相关聚落。",
+    "en": "Joan Oates 1967–68 excavations; 1969 Iraq preliminary report on Samarran-related settlement."
+  },
+  "sources": [
+    "src-mesopotamia-oates-choga-mami-1969"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

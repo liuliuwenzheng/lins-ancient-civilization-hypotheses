@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-gawra-speiser-tobler",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Speiser《特佩高拉》I（1935）与 Tobler《特佩高拉》II（1950）是该遗址联合发掘的正式层位报告。",
+    "en": "Speiser Excavations at Tepe Gawra I (1935) and Tobler Volume II (1950) are the primary final level reports of the joint expedition."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tepe-gawra"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tepe-gawra-sequence"
+  ],
+  "sources": [
+    "src-mesopotamia-speiser-gawra-i-1935",
+    "src-mesopotamia-tobler-gawra-ii-1950"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

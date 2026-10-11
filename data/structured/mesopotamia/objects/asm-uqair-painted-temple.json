@@ -1,0 +1,43 @@
+{
+  "id": "asm-uqair-painted-temple",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌盖尔彩绘神庙及相关组合",
+    "en": "Tell Uqair painted temple and related finds"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-uqair"
+  ],
+  "period_ids": [
+    "period-ubaid",
+    "period-uruk",
+    "period-jemdet-nasr"
+  ],
+  "summary": {
+    "zh": "Lloyd & Safar 1943 报告的乌鲁克彩绘神庙、杰姆代特奈斯尔礼拜堂出土与欧贝德聚落材料。",
+    "en": "Uruk painted temple, Jemdet Nasr chapel finds, and Ubaid settlement material as reported by Lloyd & Safar 1943."
+  },
+  "sources": [
+    "src-mesopotamia-lloyd-safar-uqair-1943"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Lloyd & Safar 1943 JNES",
+    "upstream_url": "https://doi.org/10.1086/370671",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

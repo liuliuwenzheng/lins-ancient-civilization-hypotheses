@@ -15,4 +15,4 @@
 .venv/bin/python tools/export_check.py
 ```
 
-密度加深 D-2026-10-11-22：来源 15→28；遗址 6→13；器物组合 4→16；主张 10→24。
+实体数量以 `tools/export_check.py` 输出为准（会随密度加深变化；勿在本 README 写死计数）。

@@ -1,0 +1,41 @@
+{
+  "id": "asm-abusir-sahure-reliefs",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿布西尔萨胡拉祭庙浮雕图版组合",
+    "en": "Abusir Sahure temple relief plate assemblage"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abusir"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Borchardt 1913 图版卷公布的萨胡拉祭庙墙面图像；不编造单块浮雕馆藏号。",
+    "en": "Sahure valley/mortuary temple wall scenes as published in Borchardt 1913 plates; no invented block inventory numbers."
+  },
+  "sources": [
+    "src-egypt-borchardt-sahure-plates-1913"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Borchardt 1913 Sahure Bd. II plates",
+    "upstream_url": "https://archive.org/details/borchardt1913bd2b",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

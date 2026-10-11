@@ -1,0 +1,42 @@
+{
+  "id": "asm-isin-hrouda-i",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "伊辛首季发掘组合（Hrouda I）",
+    "en": "Isin first-campaign assemblage (Hrouda I)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-isin"
+  ],
+  "period_ids": [
+    "period-ur-iii",
+    "period-akkad"
+  ],
+  "summary": {
+    "zh": "Hrouda《Isin I》1977 公布的 1973–1974 季建筑与器物类别。",
+    "en": "Architecture and find classes from the 1973–1974 seasons as published in Hrouda Isin I (1977)."
+  },
+  "sources": [
+    "src-mesopotamia-hrouda-isin-i-1977"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hrouda (ed.) 1977 Isin I",
+    "upstream_url": "https://www.vorderas-archaeologie.uni-muenchen.de/forschung/abgeschl_projekte/isin/index.html",
+    "notes": "Report text/figures remain upstream rights; no forged plates."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass assemblage metadata only."
+  }
+}

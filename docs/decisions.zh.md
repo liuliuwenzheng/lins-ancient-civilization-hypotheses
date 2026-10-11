@@ -327,3 +327,34 @@
 
 **说明：** 爱琴高/低年代、海上霸权、荷马等同；奥尔梅克母文化/帝国/单向陶器出口；玛雅单向奥尔梅克起源、米拉多尔「首个国家」、中前古典完备神王等一律假说栏。完整性优先于速度。九包第一轮密度加深至此完成。
 
+
+### D-2026-10-11-28 — 两河 + 埃及第二轮档案密度加深
+
+**决定：** 在第一轮（D-21 / D-22）之后，对两河与埃及结构化包再做一轮**遗址级一手/强二手**加深：只登记可核验发掘报告与稳定 URL；扩展遗址、器物组合、事实主张；争议进假说栏；同步 `civ-mesopotamia.md` / `civ-ancient-egypt.md` 的 Key sites 与 Sources；全仓 `export_check` 必须通过。完整性优先于速度。
+
+**本轮主要新增 P（及必要 S）：**
+
+**两河：**
+- Speiser《Tepe Gawra》I 1935；Tobler《Tepe Gawra》II 1950（Archive）
+- Lloyd & Safar Tell Uqair，JNES 2 (1943)，DOI 10.1086/370671
+- Wilson《Bismaya / Adab》OIP 138 (2012) PDF；Banks《Bismya》1912（S，通俗）
+- Delougaz & Lloyd《Pre-Sargonid Temples》OIP 58 (1942) — Tell Agrab 沙拉神庙
+- Oates Choga Mami 1967–68，*Iraq* 31 (1969)
+- Andrae《Die archaischen Ischtar-Tempel in Assur》1922（Archive / Heidelberg Digi）
+- Mallowan Brak & Chagar Bazar，*Iraq* 9 (1947)
+- Hrouda 编《Isin–Išān Baḥrīyāt》I 1977（LMU 项目页）
+
+**埃及：**
+- Brunton & Caton-Thompson《Badarian Civilisation》1928；Brunton《Qau and Badari》I 1927
+- Petrie 等《Labyrinth, Gerzeh and Mazghuneh》1912；Petrie《Diospolis Parva》1901
+- Mond & Myers《Cemeteries of Armant》I 1937；Brunton《Mostagedda》1937
+- de Morgan《Fouilles à Dahchour》1895；Borchardt 萨胡拉图版卷 1913
+- Chłodnicki 等《Tell el-Farkha I》2012（UJ / PCMA）
+- Rizkana & Seeher《Maadi》四卷 1987–1990（DAI 项目页）
+
+**结构化结果（export_check）：**
+- **mesopotamia：** 来源 31→41；遗址 17→25；器物组合 16→24；主张 23→32
+- **egypt：** 来源 28→38；遗址 13→24；器物组合 16→26；主张 24→35
+- 其余七包不变；全仓闸门通过。
+
+**说明：** 布拉克=乌鲁克殖民地、塔西安简单早于巴达里等留在假说栏；不编造坐标/馆藏号/伪造图；README 不写死实时计数（以 `export_check` 为准）。

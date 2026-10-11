@@ -1,0 +1,30 @@
+{
+  "id": "site-gerzeh",
+  "entity": "site",
+  "names": {
+    "zh": "格尔zeh / Gerzeh (Girza)",
+    "en": "Gerzeh (Girza)",
+    "native": null
+  },
+  "kind_note": "Predynastic cemetery (Naqada II–III)",
+  "region": "Lower/Middle Egypt transition / Fayum approaches",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Petrie、Wainwright & Mackay《Labyrinth, Gerzeh and Mazghuneh》(1912) 报告前王朝格尔zeh墓地。",
+    "en": "Petrie, Wainwright & Mackay The Labyrinth, Gerzeh and Mazghuneh (1912) report the Predynastic Gerzeh cemetery."
+  },
+  "sources": [
+    "src-egypt-petrie-gerzeh-1912"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

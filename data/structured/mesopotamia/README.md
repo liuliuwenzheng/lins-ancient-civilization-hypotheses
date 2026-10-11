@@ -15,3 +15,5 @@ Validate:
 .venv/bin/python tools/export_check.py
 # or: python3 tools/export_check.py  (if jsonschema is available)
 ```
+
+Entity counts: trust `tools/export_check.py` output (changes with density passes; do not hardcode counts here).

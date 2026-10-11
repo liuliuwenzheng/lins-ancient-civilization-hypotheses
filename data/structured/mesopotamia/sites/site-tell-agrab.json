@@ -1,0 +1,31 @@
+{
+  "id": "site-tell-agrab",
+  "entity": "site",
+  "names": {
+    "zh": "阿格拉卜丘 / Tell Agrab",
+    "en": "Tell Agrab",
+    "native": null
+  },
+  "kind_note": "Diyala Early Dynastic temple site (Shara Temple)",
+  "region": "Diyala region / Iraq",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "东方研究所迪亚拉远征；Delougaz & Lloyd OIP 58 含 Lloyd 对沙拉神庙的报告。",
+    "en": "Oriental Institute Diyala Expedition; Delougaz & Lloyd OIP 58 includes Lloyd’s Shara Temple report."
+  },
+  "sources": [
+    "src-mesopotamia-delougaz-lloyd-oip58-1942",
+    "src-mesopotamia-frankfort-oic13-1932"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}

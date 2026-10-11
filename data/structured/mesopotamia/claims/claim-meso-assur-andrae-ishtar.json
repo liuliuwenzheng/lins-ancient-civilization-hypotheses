@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-assur-andrae-ishtar",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Andrae 1922《亚述古朴伊什塔尔神庙》是德国东方学会亚述发掘中该神庙系列的正式报告。",
+    "en": "Andrae 1922 Die archaischen Ischtar-Tempel in Assur is the DOG primary publication of the archaic Ishtar temple series at Assur."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-assur"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-assur-archaic-ishtar"
+  ],
+  "sources": [
+    "src-mesopotamia-andrae-assur-ishtar-1922"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

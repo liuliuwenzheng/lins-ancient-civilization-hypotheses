@@ -15,4 +15,4 @@ Validate (all packs):
 .venv/bin/python tools/export_check.py
 ```
 
-Density pass D-2026-10-11-22: sources 15→28; sites 6→13; objects 4→16; claims 10→24.
+Entity counts: trust `tools/export_check.py` output (changes with density passes; do not hardcode counts here).

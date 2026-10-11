@@ -1,0 +1,30 @@
+{
+  "id": "site-assur",
+  "entity": "site",
+  "names": {
+    "zh": "亚述城 / Assur (Qal‘at Sherqat)",
+    "en": "Assur (Qal‘at Sherqat)",
+    "native": null
+  },
+  "kind_note": "Assyrian capital city; archaic Ishtar temples",
+  "region": "Middle Tigris / northern Iraq",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "德国东方学会长期发掘；Andrae 1922 报告古朴伊什塔尔神庙。",
+    "en": "Long-running Deutsche Orient-Gesellschaft excavations; Andrae 1922 publishes the archaic Ishtar temples."
+  },
+  "sources": [
+    "src-mesopotamia-andrae-assur-ishtar-1922"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-11",
+    "notes": "Second density pass; coordinates not asserted."
+  }
+}
