@@ -785,3 +785,18 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Still far from Egypt/Mesopotamia `fact-library` density (those nine remain the dense tier). Prefer honest thin over fake dense. Tooling: `tools/wave3_shells/densify_wave3.py` + `densify_payloads/*.json`.
 
+
+### D-2026-10-12-18 — Quality audit 31 `library-seed-rich` packs
+
+**Decision:** Run the same FAIL/WARN quality audit used for Mesopotamia/Egypt and the seven dense packs against all **31** `library-seed-rich` packs (Wave-1/2/3). Fix clear FAILs only; document honest WARNs; do not invent archaeology.
+
+**Clear FAIL remediations:**
+- `mitanni` / `asm-mitanni-amarna-letters-frame`: dangling `src-mitanni-letterman-diplomatic-texts` → `src-mitanni-beckman-diplomatic-texts`
+- `rapa-nui`: `claim-rapanui-transport-hypothesis`, `claim-rapanui-hunt-lipo` relabeled `fact` → `hypothesis` + disclaimer
+- 28 bibliographic-only fact statements rewritten toward report-level orientation (no new finds)
+
+**Reports:** [`docs/audits/audit-2026-10-12-seed-rich-31.md`](audits/audit-2026-10-12-seed-rich-31.md) · [中文](audits/audit-2026-10-12-seed-rich-31.zh.md)
+
+**Verified:** `export_check` OK (**40** packs; citation gate green). **FAIL = 0** across all 31 seed-rich packs after remediations.
+
+**Notes:** Open WARNs (null coords, residual biblio orientation, thin media, `*-orientation` ontology sites) stay intentional. Dense nine not re-audited end-to-end this pass.

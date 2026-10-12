@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "《乌加里特研究手册》提供语文、考古与历史的多学科入口（Watson & Wyatt 1999）。",
-    "en": "The Handbook of Ugaritic Studies provides a multidisciplinary entry to language, archaeology, and history (Watson & Wyatt 1999)."
+    "zh": "乌加里特语言、考古与历史的多学科入门见《乌加里特研究手册》（Watson & Wyatt 1999；手册导向）。",
+    "en": "Ugaritic language, archaeology, and history are entered via the Handbook of Ugaritic Studies (Watson & Wyatt 1999; handbook orientation)."
   },
   "civilization_ids": [
     "civ-levant-ugarit"
@@ -28,6 +28,6 @@
       "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

@@ -23,7 +23,7 @@
   "sources": [
     "src-mitanni-amarna-letters-orientation",
     "src-mitanni-orphaned-amarna",
-    "src-mitanni-letterman-diplomatic-texts"
+    "src-mitanni-beckman-diplomatic-texts"
   ],
   "rights": {
     "status": "outbound-link-only",
@@ -40,6 +40,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: replaced dangling src-mitanni-letterman-diplomatic-texts with in-pack src-mitanni-beckman-diplomatic-texts (typo)."
   }
 }

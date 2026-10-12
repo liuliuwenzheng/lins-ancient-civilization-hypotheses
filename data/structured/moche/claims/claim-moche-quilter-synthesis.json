@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Quilter 2010 提供莫切的通识考古综合（Thames & Hudson）。",
-    "en": "Quilter 2010 provides an accessible archaeological synthesis of the Moche (Thames & Hudson)."
+    "zh": "莫切考古入门综合见 Quilter 2010（Thames & Hudson；综合导向）。",
+    "en": "Moche archaeology is framed in Quilter 2010 accessible synthesis (Thames & Hudson; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-moche"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "更广的西非早期铁器综述将诺克置于区域「铁器化」讨论中（手册取向）。",
-    "en": "Broader West African early-iron syntheses place Nok within regional ironization debates (handbook orientation)."
+    "zh": "诺克被置于西非早期铁器化区域辩论中（手册导向，不冻结单一绝对年代）。",
+    "en": "Nok is placed within regional West African early-ironization debates (handbook orientation; no single absolute chronology frozen)."
   },
   "civilization_ids": [
     "civ-nok-west-africa"
@@ -28,6 +28,6 @@
       "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

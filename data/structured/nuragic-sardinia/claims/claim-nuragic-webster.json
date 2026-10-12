@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Webster 1996 提供公元前 2300–500 年撒丁史前综合（Sheffield）。",
-    "en": "Webster 1996 provides a prehistory of Sardinia 2300–500 BCE synthesis (Sheffield)."
+    "zh": "撒丁岛公元前 2300–500 年史前综合见 Webster 1996（Sheffield；综合导向）。",
+    "en": "Sardinian prehistory 2300–500 BCE is framed in Webster 1996 (Sheffield; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-nuragic-sardinia"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

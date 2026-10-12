@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Jacques & Lafond 2007 提供吴哥古迹的详细建筑—历史综合。",
-    "en": "Jacques & Lafond 2007 provide a detailed architectural–historical synthesis of Angkor monuments."
+    "zh": "吴哥建筑与历史综合见 Jacques & Lafond 2007（建筑–历史综合导向）。",
+    "en": "Angkor monuments are framed in Jacques & Lafond 2007 architectural–historical synthesis (orientation; no invented fabric details)."
   },
   "civilization_ids": [
     "civ-angkor"
@@ -26,6 +26,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

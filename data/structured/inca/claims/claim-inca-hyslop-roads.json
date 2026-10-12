@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Hyslop 1990 建立印加道路系统考古综合（Inka Road System）。",
-    "en": "Hyslop 1990 establishes an archaeological synthesis of the Inka road system."
+    "zh": "印加道路系统考古综合见 Hyslop 1990（综合导向）。",
+    "en": "The Inka road system is framed in Hyslop 1990 archaeological synthesis (orientation; no invented milestones)."
   },
   "civilization_ids": [
     "civ-inca"
@@ -27,6 +27,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

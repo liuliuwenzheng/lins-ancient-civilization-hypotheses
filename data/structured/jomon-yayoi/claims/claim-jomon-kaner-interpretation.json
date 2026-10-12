@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Kaner 等博物馆/综述取向讨论绳文物质文化的当代解释框架（Kaner）。",
-    "en": "Kaner and related museum/synthesis orientations discuss contemporary interpretive frames for Jōmon material culture (Kaner)."
+    "zh": "绳文物质文化的当代阐释框架见 Kaner 及相关博物馆/综合导向。",
+    "en": "Contemporary interpretive frames for Jōmon material culture are discussed in Kaner and related museum/synthesis orientations."
   },
   "civilization_ids": [
     "civ-jomon-yayoi"
@@ -28,6 +28,6 @@
       "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

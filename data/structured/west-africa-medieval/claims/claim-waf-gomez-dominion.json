@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Gomez 2018 提供西非早期与中世纪帝国的新史学综合（Princeton）。",
-    "en": "Gomez 2018 provides a new historical synthesis of early and medieval West African empire (Princeton)."
+    "zh": "西非早期与中世纪帝国新史学综合见 Gomez 2018（Princeton；综合导向）。",
+    "en": "Early and medieval West African empire is framed in Gomez 2018 historical synthesis (Princeton; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-west-africa-medieval"
@@ -27,6 +27,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

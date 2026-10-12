@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Glover 等讨论将大陆东南亚早期冶金置于更广交换网络（论文/专著取向）。",
-    "en": "Glover and related discussions place early mainland Southeast Asian metallurgy in wider exchange networks (essay/monograph orientation)."
+    "zh": "大陆东南亚早期冶金被置于更广交换网络讨论（Glover 及相关；论文/专著导向）。",
+    "en": "Early mainland Southeast Asian metallurgy is placed in wider exchange-network discussions (Glover and related; essay/monograph orientation)."
   },
   "civilization_ids": [
     "civ-ban-chiang"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

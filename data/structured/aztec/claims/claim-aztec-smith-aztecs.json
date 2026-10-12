@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Smith 2012 提供阿兹特克的考古通识综合（Wiley-Blackwell 等版本）。",
-    "en": "Smith 2012 provides an archaeological synthesis of the Aztecs (Wiley-Blackwell and related editions)."
+    "zh": "阿兹特克考古综合见 Smith 2012（Wiley-Blackwell 及相关版本；综合导向）。",
+    "en": "Aztec archaeology is framed in Smith 2012 (Wiley-Blackwell and related editions; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-aztec"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

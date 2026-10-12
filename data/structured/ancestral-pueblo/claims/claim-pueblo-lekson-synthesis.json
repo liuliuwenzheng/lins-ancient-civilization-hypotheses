@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Lekson 综合将美国西南部古代政治中心与查科等节点纳入长时段叙事（Lekson 2009）。",
-    "en": "Lekson's synthesis places ancient Southwest political centres including Chaco nodes in a long-term narrative (Lekson 2009)."
+    "zh": "西南长时段叙事将查科等政治中心置于区域框架（Lekson 2009；综合导向）。",
+    "en": "Long-term Southwest political centres including Chaco nodes are framed in Lekson’s synthesis narrative (Lekson 2009; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-ancestral-pueblo"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

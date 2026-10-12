@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "《牛津古代努比亚手册》提供凯尔迈至麦罗埃考古与史学的近期章节级入口（Emberling & Williams 2021）。",
-    "en": "The Oxford Handbook of Ancient Nubia provides a recent chapter-level entry to Kerma-through-Meroe archaeology and historiography (Emberling & Williams 2021)."
+    "zh": "Kerma 至麦罗埃考古与史学的章节级入门见《牛津古代努比亚手册》（Emberling & Williams 2021；手册导向）。",
+    "en": "Kerma-through-Meroe archaeology and historiography are entered chapter-level via the Oxford Handbook of Ancient Nubia (Emberling & Williams 2021; handbook orientation)."
   },
   "civilization_ids": [
     "civ-nubia-kush"
@@ -29,6 +29,6 @@
       "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "McEwan 2006 提供印加的通识考古综合（Thames & Hudson / related）。",
-    "en": "McEwan 2006 provides an accessible archaeological synthesis of the Incas (Thames & Hudson / related)."
+    "zh": "印加考古入门综合见 McEwan 2006（Thames & Hudson 及相关；综合导向）。",
+    "en": "Inca archaeology is framed in McEwan 2006 accessible synthesis (Thames & Hudson / related; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-inca"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

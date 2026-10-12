@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Coe & Houston 综合为玛雅文明提供不断修订的综述框架。",
-    "en": "Coe & Houston provide a continually revised synthesis of Maya civilization."
+    "zh": "玛雅文明持续修订的英语综合见 Coe & Houston（综合导向，不冻结单一版本页码）。",
+    "en": "Maya civilization is framed in continually revised English synthesis (Coe & Houston; synthesis orientation; no single-edition pages frozen)."
   },
   "civilization_ids": [
     "civ-classic-maya"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

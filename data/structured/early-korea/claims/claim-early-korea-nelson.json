@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Nelson 1993 提供朝鲜考古英文入门综述。",
-    "en": "Nelson 1993 provides an English introductory synthesis of Korean archaeology."
+    "zh": "韩国考古英语入门综合见 Nelson 1993（综合导向）。",
+    "en": "Korean archaeology is framed in an English introductory synthesis (Nelson 1993; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-early-korea"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Markoe 2000 提供腓尼基人历史与文化的英文综述。",
-    "en": "Markoe 2000 provides an English synthesis of Phoenician history and culture."
+    "zh": "腓尼基历史与文化英语综合见 Markoe 2000（综合导向）。",
+    "en": "Phoenician history and culture are framed in Markoe 2000 English synthesis (orientation)."
   },
   "civilization_ids": [
     "civ-phoenician"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

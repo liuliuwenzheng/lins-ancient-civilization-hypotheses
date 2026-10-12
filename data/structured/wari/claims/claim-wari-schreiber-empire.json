@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Schreiber 1992 研究将瓦里表述为具有行省行政特征的中地平线扩张政体（学术综合）。",
-    "en": "Schreiber 1992 frames Wari as a Middle Horizon expansive polity with provincial administrative features (scholarly synthesis)."
+    "zh": "瓦里被框定为具行省行政特征的中视界期扩张政体（Schreiber 1992；学术综合导向，不作“帝国”定论）。",
+    "en": "Wari is framed as a Middle Horizon expansive polity with provincial administrative features (Schreiber 1992; scholarly synthesis orientation; empire label not frozen as verdict)."
   },
   "civilization_ids": [
     "civ-wari"
@@ -27,6 +27,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

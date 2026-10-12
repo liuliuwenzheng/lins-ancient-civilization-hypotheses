@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Kolata 1993 综合为英语学界提供蒂瓦纳科文明肖像式综述。",
-    "en": "Kolata 1993 provides a portrait-style English synthesis of Tiwanaku civilization."
+    "zh": "蒂瓦纳科文明英语肖像式综合见 Kolata 1993（综合导向）。",
+    "en": "Tiwanaku civilization is framed in Kolata 1993 portrait-style English synthesis (orientation)."
   },
   "civilization_ids": [
     "civ-tiwanaku"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

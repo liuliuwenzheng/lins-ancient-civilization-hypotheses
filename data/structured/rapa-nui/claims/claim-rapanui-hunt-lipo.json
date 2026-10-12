@@ -1,10 +1,10 @@
 {
   "id": "claim-rapanui-hunt-lipo",
   "entity": "claim",
-  "kind": "fact",
+  "kind": "hypothesis",
   "statement": {
-    "zh": "Hunt & Lipo 2011 等提出与“生态崩溃”叙事竞争的拓殖、大鼠与资源模型（争议性 S 级综合）。",
-    "en": "Hunt & Lipo 2011 and related work propose colonization, rat, and resource models competing with 'ecocide' narratives (contested S-tier synthesis)."
+    "zh": "Hunt & Lipo 2011 及相关工作提出殖民、鼠害与资源模型，与“生态自杀”叙事竞争（有争议的次级综合，不作定论）。",
+    "en": "Hunt & Lipo 2011 and related work propose colonization, rat, and resource models that compete with “ecocide” narratives (contested secondary synthesis; not adopted as settled fact)."
   },
   "civilization_ids": [
     "civ-rapa-nui"
@@ -17,7 +17,7 @@
   "sources": [
     "src-rapanui-hunt-lipo-2011"
   ],
-  "disclaimer": null,
+  "disclaimer": "Hypothesis: colonization / rat / resource models competing with “ecocide” narratives are contested; this pack does not adopt one collapse story as fact.",
   "editorial": {
     "derived_from": [
       "tools/wave3_shells/densify_wave3.py",
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: relabeled kind fact→hypothesis (contested model; disclaimer added)."
   }
 }

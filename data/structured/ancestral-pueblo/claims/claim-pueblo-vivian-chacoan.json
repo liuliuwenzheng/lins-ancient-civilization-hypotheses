@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Vivian 1990 建立圣胡安盆地查科式史前综合框架（Academic Press）。",
-    "en": "Vivian 1990 establishes a Chacoan prehistory synthesis for the San Juan Basin (Academic Press)."
+    "zh": "圣胡安盆地查科史前综合框架见 Vivian 1990（Academic Press；综合导向）。",
+    "en": "Chacoan prehistory of the San Juan Basin is framed in Vivian 1990 (Academic Press; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-ancestral-pueblo"
@@ -26,6 +26,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Cowgill 2015 综合提供都城都市主义、分期与社会网络的英文学界标准入口。",
-    "en": "Cowgill 2015 provides a standard Anglophone synthesis entry on urbanism, phasing, and social networks."
+    "zh": "特奥蒂瓦坎城市主义、分期与社会网络的英语综合入口见 Cowgill 2015（综合导向）。",
+    "en": "Teotihuacan urbanism, phasing, and social networks are entered via Cowgill 2015 Anglophone synthesis (orientation)."
   },
   "civilization_ids": [
     "civ-teotihuacan"
@@ -28,6 +28,6 @@
       "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

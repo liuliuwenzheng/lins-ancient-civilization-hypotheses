@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Plog 2008 提供美国西南部古代人群的通识综合（Thames and Hudson）。",
-    "en": "Plog 2008 provides an accessible synthesis of ancient peoples of the American Southwest (Thames and Hudson)."
+    "zh": "美国西南古代人群的入门综合框架见 Plog 2008（Thames & Hudson；综合导向）。",
+    "en": "Ancient peoples of the American Southwest are framed in an accessible English synthesis (Plog 2008; Thames & Hudson; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-ancestral-pueblo"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

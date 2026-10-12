@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Kirch 综合将拉皮塔人群表述为大洋洲世界祖先相关的考古复合体（Kirch 1997）。",
-    "en": "Kirch’s synthesis frames Lapita peoples as archaeologically ancestral to the Oceanic world (Kirch 1997)."
+    "zh": "拉皮塔人群在考古上被框定为大洋洲世界的祖先传统（Kirch 1997；综合导向，不作单一移民定论）。",
+    "en": "Lapita peoples are framed archaeologically as ancestral to the Oceanic world (Kirch 1997; synthesis orientation; not a single-migration verdict)."
   },
   "civilization_ids": [
     "civ-lapita-pacific"
@@ -29,6 +29,6 @@
       "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

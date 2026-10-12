@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Burger 综合将查文表述为早地平线安第斯重要仪礼与互动中心（Burger 1992）。",
-    "en": "Burger's synthesis frames Chavín as a major Early Horizon Andean ceremonial and interaction centre (Burger 1992)."
+    "zh": "查文被框定为安第斯早期视界期重要仪式与互动中心（Burger 1992；综合导向）。",
+    "en": "Chavín is framed as a major Early Horizon Andean ceremonial and interaction centre (Burger 1992; synthesis orientation)."
   },
   "civilization_ids": [
     "civ-chavin"
@@ -27,6 +27,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

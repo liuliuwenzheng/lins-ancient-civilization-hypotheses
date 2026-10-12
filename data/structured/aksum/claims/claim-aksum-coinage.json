@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "阿克苏姆铸币传统见于钱币学与 Munro-Hay 等综述（钱币目录取向）。",
-    "en": "Aksumite coinage tradition appears in numismatic catalogues and Munro-Hay syntheses (catalogue orientation)."
+    "zh": "阿克苏姆钱币传统见于钱币目录与 Munro-Hay 综合论述（目录导向，不编造馆藏号）。",
+    "en": "Aksumite coinage tradition is treated in numismatic catalogues and Munro-Hay syntheses (catalogue orientation; no forged accession numbers)."
   },
   "civilization_ids": [
     "civ-aksum"
@@ -28,6 +28,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }

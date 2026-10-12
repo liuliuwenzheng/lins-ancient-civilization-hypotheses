@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Munro-Hay 1991 提供阿克苏姆王国英文综述，含贸易与铸币议题。",
-    "en": "Munro-Hay 1991 offers an English synthesis of the Aksumite kingdom including trade and coinage themes."
+    "zh": "阿克苏姆王国的英语综合论述涵盖贸易与钱币主题（Munro-Hay 1991；综合导向，不冻结页码级发现）。",
+    "en": "Aksumite kingdom English synthesis covers trade and coinage themes (Munro-Hay 1991; synthesis orientation; no page-level finds frozen)."
   },
   "civilization_ids": [
     "civ-aksum"
@@ -25,6 +25,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. Audit D-2026-10-12-18: biblio-meta fact rewritten toward report-level orientation (no invented archaeology)."
   }
 }
