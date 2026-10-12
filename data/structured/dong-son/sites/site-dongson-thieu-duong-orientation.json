@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-thieu-duong-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "绍阳（指针）",
+    "en": "Thieu Duong (orientation)",
+    "native": null
+  },
+  "kind_note": "Dong Son cemetery orientation",
+  "region": "Thanh Hoa, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "东山墓地指针。",
+    "en": "Dong Son cemetery orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-vietnam-excavation-orientation",
+    "src-dongson-nguyen-typology-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

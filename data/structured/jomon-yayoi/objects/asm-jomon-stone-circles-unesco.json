@@ -1,0 +1,45 @@
+{
+  "id": "asm-jomon-stone-circles-unesco",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "教科文环状列石组合",
+    "en": "UNESCO stone circles frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-isedotai",
+    "site-jomon-omori-katsuyama",
+    "site-oyu-stone-circles"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "教科文组件环状列石组合。",
+    "en": "UNESCO-component stone-circle frame.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-unesco-1632-maps-deepen",
+    "src-jomon-isedotai-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

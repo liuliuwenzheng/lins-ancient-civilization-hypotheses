@@ -1,0 +1,36 @@
+{
+  "id": "period-zapotec-monte-alban-early-state",
+  "entity": "period",
+  "names": {
+    "zh": "蒙特阿尔班早期国家窗",
+    "en": "Monte Albán early-state window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "time": {
+    "label": "Period I–II early urban/state debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Period I–II early urban/state debates"
+  },
+  "summary": {
+    "zh": "I–II 期早期都城/国家讨论。",
+    "en": "Period I–II early urban/state debates.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-blanton-urban-deepen",
+    "src-zapotec-spencer-conquest"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -11,25 +11,41 @@
   "region": "Mesoamerica / Valley of Oaxaca, Mexico",
   "time_span": "Formative foundation of Monte Albán ~500 BCE through Classic Zapotec capital florescence (Blanton settlement frame)",
   "summary": {
-    "zh": "萨波特克档案（library-seed-rich）：Blanton/Marcus–Flannery + 蒙特·阿尔班与谷地聚落；仍加厚中。",
-    "en": "Zapotec archive (library-seed-rich): Blanton/Marcus–Flannery + Monte Albán and valley settlement; still thickening."
+    "zh": "萨波特克档案加厚（种子 Batch C）：蒙特阿尔班、舞者石刻、瓦哈卡谷地调查与文字；仍标 library-seed-rich。",
+    "en": "Zapotec densified (seed Batch C): Monte Albán, Danzantes, Valley of Oaxaca survey and writing; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
     "src-zapotec-blanton-et-al-ancient-oaxaca",
     "src-zapotec-blanton-feinman-kowalewski",
     "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-blanton-urban-deepen",
     "src-zapotec-casternada-inah",
     "src-zapotec-casterneda-or-inah-orientation",
+    "src-zapotec-dainzu-orientation",
+    "src-zapotec-etla-survey",
     "src-zapotec-flannery-marcus-cloud-people",
+    "src-zapotec-flannery-villages-deepen",
+    "src-zapotec-inah-monte-alban",
+    "src-zapotec-lambityeco-orientation",
     "src-zapotec-marcus-flannery-1996",
     "src-zapotec-marcus-flannery-orientation",
+    "src-zapotec-marcus-writing-deepen",
+    "src-zapotec-mitla-deepen",
     "src-zapotec-mitla-orientation",
+    "src-zapotec-monte-alban-iii-collapse",
+    "src-zapotec-san-jose-mogote-deepen",
     "src-zapotec-san-jose-mogote-orientation",
+    "src-zapotec-spencer-conquest",
     "src-zapotec-spencer-redmond-orientation",
+    "src-zapotec-umoto-danzantes-deepen",
     "src-zapotec-umoto-danzantes-orientation",
+    "src-zapotec-unesco-415-deepen",
     "src-zapotec-unesco-415-maps",
     "src-zapotec-unesco-monte-alban-415",
-    "src-zapotec-winter-orientation"
+    "src-zapotec-winter-ceramic",
+    "src-zapotec-winter-orientation",
+    "src-zapotec-zaachila-orientation"
   ],
   "site_ids": [
     "site-mitla-orientation",
@@ -37,31 +53,62 @@
     "site-monte-alban-danzantes-frame",
     "site-monte-alban-main-plaza-frame",
     "site-oaxaca-valley-survey-frame",
-    "site-san-jose-mogote"
+    "site-san-jose-mogote",
+    "site-zapotec-building-j-orientation",
+    "site-zapotec-dainzu-orientation",
+    "site-zapotec-etla-arm-orientation",
+    "site-zapotec-lambityeco-orientation",
+    "site-zapotec-mitla-palace-orientation",
+    "site-zapotec-mogote-monument-orientation",
+    "site-zapotec-south-platform-orientation",
+    "site-zapotec-zaachila-orientation"
   ],
   "period_ids": [
+    "period-zapotec-classic-florescence-deepen",
     "period-zapotec-formative-villages",
+    "period-zapotec-late-classic-transform",
+    "period-zapotec-monte-alban-early-state",
     "period-zapotec-monte-alban-florescence",
     "period-zapotec-monte-alban-i-ii",
-    "period-zapotec-monte-alban-iii"
+    "period-zapotec-monte-alban-iii",
+    "period-zapotec-rosario-tierras-largas"
   ],
   "claim_ids": [
     "claim-zapotec-blanton-settlement-mapping",
+    "claim-zapotec-building-j",
+    "claim-zapotec-ceramics",
+    "claim-zapotec-dainzu",
     "claim-zapotec-danzantes-early-writing",
+    "claim-zapotec-danzantes-reinterp",
+    "claim-zapotec-early-state",
+    "claim-zapotec-formative-villages",
     "claim-zapotec-foundation-circa-500",
+    "claim-zapotec-inah",
+    "claim-zapotec-lambityeco",
+    "claim-zapotec-late-transform-open",
     "claim-zapotec-marcus-flannery-urban-evolution",
+    "claim-zapotec-mitla",
     "claim-zapotec-mitla-later-centre",
+    "claim-zapotec-mogote",
     "claim-zapotec-monte-alban-capital",
     "claim-zapotec-san-jose-mogote-formative",
     "claim-zapotec-state-formation-debate",
+    "claim-zapotec-survey-urban",
+    "claim-zapotec-unesco",
     "claim-zapotec-unesco-monte-alban",
     "claim-zapotec-valley-survey",
-    "claim-zapotec-winter-inah-excavation"
+    "claim-zapotec-winter-inah-excavation",
+    "claim-zapotec-writing-deepen",
+    "claim-zapotec-zaachila"
   ],
   "object_ids": [
     "asm-monte-alban-plaza-architecture-frame",
     "asm-monte-alban-settlement-frame",
-    "asm-zapotec-danzantes-frame"
+    "asm-zapotec-conquest-slabs",
+    "asm-zapotec-danzantes-deepen",
+    "asm-zapotec-danzantes-frame",
+    "asm-zapotec-formative-monuments",
+    "asm-zapotec-mitla-mosaic"
   ],
   "related_ids": [
     "civ-olmec",
@@ -71,11 +118,11 @@
   "markdown_path": "data/civilizations/civ-zapotec.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_seed_batch_c.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-24"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

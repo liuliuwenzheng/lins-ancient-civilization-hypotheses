@@ -11,24 +11,40 @@
   "region": "Southwest Asia / northern Levantine coast (Syria)",
   "time_span": "Late Bronze Age floruit ca. 14th–early 12th c. BCE at Ras Shamra–Ugarit (Yon 2006 frame)",
   "summary": {
-    "zh": "乌加里特档案（library-seed-rich）：Yon/Schaeffer + Ras Shamra/外港与晚青铜档案窗；仍加厚中。",
-    "en": "Ugarit archive (library-seed-rich): Yon/Schaeffer + Ras Shamra/port and LBA archive windows; still thickening."
+    "zh": "乌加里特档案加厚（种子 Batch C）：王宫档案、字母楔形文字、港口与晚青铜国际体系；仍标 library-seed-rich。",
+    "en": "Ugarit densified (seed Batch C): palace archives, alphabetic cuneiform, harbour and LBA international system; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-ugarit-baal-cycle-orientation",
+    "src-ugarit-bordreuil-epigraphy",
     "src-ugarit-bordreuil-pardee-manual",
     "src-ugarit-courtois-orientation",
+    "src-ugarit-destruction-lba",
     "src-ugarit-dietrich-lorez-orientation",
+    "src-ugarit-egypt-hattusa-diplomacy",
     "src-ugarit-freu-political-orientation",
+    "src-ugarit-lackenbacher-letters",
     "src-ugarit-lackenbacher-malbran-orientation",
+    "src-ugarit-louvre-ugarit-orientation",
+    "src-ugarit-matoian-material",
     "src-ugarit-matoian-orientation",
+    "src-ugarit-minet-harbour-deepen",
+    "src-ugarit-mission-francaise-web",
+    "src-ugarit-pardee-ritual-deepen",
     "src-ugarit-pardee-text-orientation",
     "src-ugarit-persee-schaeffer-crai",
+    "src-ugarit-ras-ibn-hani-deepen",
     "src-ugarit-saade-geography-orientation",
     "src-ugarit-schaeffer-orientation",
+    "src-ugarit-singer-history-deepen",
     "src-ugarit-singer-political-orientation",
+    "src-ugarit-temple-baal-dagan",
+    "src-ugarit-van-soldt-archive-deepen",
     "src-ugarit-van-soldt-archives-orientation",
     "src-ugarit-watson-wyatt-1999",
     "src-ugarit-yon-2006",
+    "src-ugarit-yon-city-deepen",
     "src-ugarit-yon-mission-overview"
   ],
   "site_ids": [
@@ -36,33 +52,64 @@
     "site-ras-ibn-hani-orientation",
     "site-ras-shamra-ugarit",
     "site-ugarit-acropolis-temples-frame",
+    "site-ugarit-city-gate-orientation",
+    "site-ugarit-house-high-priest-orientation",
+    "site-ugarit-ibn-hani-palace-orientation",
     "site-ugarit-kingdom-territory-frame",
+    "site-ugarit-port-facility-orientation",
+    "site-ugarit-residential-quarter-orientation",
     "site-ugarit-royal-palace-frame",
-    "site-ugarit-south-palace-archives-frame"
+    "site-ugarit-scribal-quarter-orientation",
+    "site-ugarit-south-palace-archives-frame",
+    "site-ugarit-temple-baal-orientation",
+    "site-ugarit-temple-dagan-orientation"
   ],
   "period_ids": [
+    "period-ugarit-amarna-age",
     "period-ugarit-destruction",
     "period-ugarit-international-age",
+    "period-ugarit-late-lba-crisis",
     "period-ugarit-lba-floruit",
-    "period-ugarit-mba-lba-transition"
+    "period-ugarit-mba-deepen",
+    "period-ugarit-mba-lba-transition",
+    "period-ugarit-post-destruction-frame"
   ],
   "claim_ids": [
     "claim-ugarit-akkadian-international-letters",
+    "claim-ugarit-alphabet-deepen",
     "claim-ugarit-alphabetic-cuneiform-corpus",
+    "claim-ugarit-amarna-window",
     "claim-ugarit-archive-topography",
+    "claim-ugarit-archives-deepen",
+    "claim-ugarit-baal-cycle",
+    "claim-ugarit-city-yon",
     "claim-ugarit-destruction-horizon",
+    "claim-ugarit-destruction-open",
+    "claim-ugarit-diplomacy",
     "claim-ugarit-handbook-studies",
+    "claim-ugarit-harbour",
+    "claim-ugarit-ibn-hani",
     "claim-ugarit-kingdom-territory",
+    "claim-ugarit-louvre-orientation",
+    "claim-ugarit-material-craft",
+    "claim-ugarit-mba-background",
     "claim-ugarit-minet-port",
+    "claim-ugarit-political-singer",
     "claim-ugarit-ras-shamra-capital",
+    "claim-ugarit-ritual-texts",
     "claim-ugarit-schaeffer-founding-excavation",
     "claim-ugarit-sea-peoples-hypothesis",
+    "claim-ugarit-temples",
     "claim-ugarit-yon-city-layout"
   ],
   "object_ids": [
     "asm-ugarit-akkadian-letters-frame",
     "asm-ugarit-alphabetic-cuneiform-frame",
-    "asm-ugarit-tablet-archives-frame"
+    "asm-ugarit-baal-cycle-tablets",
+    "asm-ugarit-diplomatic-letters",
+    "asm-ugarit-harbour-assemblage",
+    "asm-ugarit-tablet-archives-frame",
+    "asm-ugarit-temple-offerings-frame"
   ],
   "related_ids": [
     "civ-anatolia-hittite",
@@ -73,11 +120,11 @@
   "markdown_path": "data/civilizations/civ-levant-ugarit.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_seed_batch_c.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-24"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

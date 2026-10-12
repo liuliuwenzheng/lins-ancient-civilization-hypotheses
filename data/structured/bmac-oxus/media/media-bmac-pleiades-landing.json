@@ -1,0 +1,32 @@
+{
+  "id": "media-bmac-pleiades-landing",
+  "entity": "media",
+  "title": {
+    "zh": "Pleiades 地名词典入口",
+    "en": "Pleiades gazetteer landing",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://pleiades.stoa.org/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-bmac-pleiades-togolok"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pleiades",
+    "upstream_url": "https://pleiades.stoa.org/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

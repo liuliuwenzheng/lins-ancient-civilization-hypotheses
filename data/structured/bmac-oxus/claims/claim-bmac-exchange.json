@@ -1,0 +1,30 @@
+{
+  "id": "claim-bmac-exchange",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "跨区域交换研究将 BMAC 置于伊朗、印度河与草原互动带（Lamberg-Karlovsky）。",
+    "en": "Interregional exchange research places BMAC in Iran–Indus–steppe interaction belts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-lamberg-deepen",
+    "src-bmac-kohl-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

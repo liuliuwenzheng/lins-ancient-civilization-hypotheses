@@ -1,0 +1,43 @@
+{
+  "id": "asm-bmac-indus-links-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "印度河联系组合",
+    "en": "Indus links frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-shortughai-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "舒尔图盖与交换联系组合。",
+    "en": "Shortughai and exchange-links frame.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-shortughai-indus",
+    "src-bmac-lamberg-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

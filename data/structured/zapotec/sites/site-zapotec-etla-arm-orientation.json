@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-etla-arm-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "埃特拉支谷（指针）",
+    "en": "Etla arm (orientation)",
+    "native": null
+  },
+  "kind_note": "Northern valley settlement arm",
+  "region": "Valley of Oaxaca",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "北支谷聚落调查指针。",
+    "en": "Northern arm settlement-survey orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-etla-survey",
+    "src-zapotec-blanton-feinman-kowalewski"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

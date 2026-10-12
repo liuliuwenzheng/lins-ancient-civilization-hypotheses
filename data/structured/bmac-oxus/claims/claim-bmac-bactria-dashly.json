@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-bactria-dashly",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "达什利等巴克特里亚绿洲点补充马尔吉亚纳之外的 BMAC 地理。",
+    "en": "Dashly and related Bactrian oasis sites complement BMAC geography beyond Margiana.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-dashly-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-dashly-orientation",
+    "src-bmac-francfort-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

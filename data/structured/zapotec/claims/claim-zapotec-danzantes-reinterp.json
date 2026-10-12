@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-danzantes-reinterp",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "舞者石刻现多被解释为战俘/祭献图像而非舞者（Urcid 等取向）。",
+    "en": "Danzantes are now widely interpreted as captive/sacrifice imagery rather than dancers (Urcid orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban-danzantes-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-umoto-danzantes-deepen",
+    "src-zapotec-umoto-danzantes-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

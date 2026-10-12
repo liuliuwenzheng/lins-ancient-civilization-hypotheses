@@ -1,0 +1,32 @@
+{
+  "id": "claim-jomon-transition-open",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "绳文—弥生过渡的人口、移民与文化连续权重仍有争议，作假说保留。",
+    "en": "Weights of demography, migration, and cultural continuity in the Jōmon–Yayoi transition remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-yayoi-early-paddy"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-mizoguchi-deepen",
+    "src-yayoi-barnes-deepen"
+  ],
+  "disclaimer": "Jōmon–Yayoi transition debated. / 绳文—弥生过渡有争议。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

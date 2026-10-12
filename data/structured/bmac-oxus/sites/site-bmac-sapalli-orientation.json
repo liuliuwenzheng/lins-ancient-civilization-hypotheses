@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-sapalli-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "萨帕利特佩（指针）",
+    "en": "Sapalli-tepa (orientation)",
+    "native": null
+  },
+  "kind_note": "Northern Bactria Bronze Age centre",
+  "region": "Surxondaryo, Uzbekistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "北巴克特里亚青铜中心指针。",
+    "en": "N. Bactria Bronze Age centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-sapalli-orientation",
+    "src-bmac-lyonnet-bactria"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

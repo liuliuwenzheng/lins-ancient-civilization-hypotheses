@@ -1,0 +1,33 @@
+{
+  "id": "site-jomon-korekawa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "是川遗址（指针）",
+    "en": "Korekawa Site (orientation)",
+    "native": null
+  },
+  "kind_note": "UNESCO 1632-017 related orientation",
+  "region": "Aomori, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "教科文相关绳文遗址指针。",
+    "en": "UNESCO-related Jomon site orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-unesco-1632-deepen",
+    "src-jomon-habu-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

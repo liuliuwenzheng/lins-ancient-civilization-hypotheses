@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-classic-gonur-period",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "经典戈努尔窗对应马尔吉亚纳宫庙繁荣阶段讨论。",
+    "en": "Classic Gonur window corresponds to Margiana palace-temple floruit discussions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-bmac-classic-gonur"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-sarianidi-gonur-deepen",
+    "src-bmac-hiebert-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-yayoi-social",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "弥生社会考古讨论稻作、阶层与冲突的共构（Mizoguchi）。",
+    "en": "Yayoi social archaeology discusses co-construction of rice agriculture, hierarchy, and conflict (Mizoguchi).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-yayoi-yoshinogari-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-mizoguchi-deepen",
+    "src-yayoi-barnes-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

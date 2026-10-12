@@ -1,0 +1,33 @@
+{
+  "id": "claim-ugarit-archives-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "王宫与祭司宅档案将乌加里特表述为多语书吏中心（van Soldt；Yon）。",
+    "en": "Palace and priestly-house archives frame Ugarit as a multilingual scribal centre (van Soldt; Yon).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-royal-palace-frame",
+    "site-ugarit-scribal-quarter-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-van-soldt-archive-deepen",
+    "src-ugarit-yon-city-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

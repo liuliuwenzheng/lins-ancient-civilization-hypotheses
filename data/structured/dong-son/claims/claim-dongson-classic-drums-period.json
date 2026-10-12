@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-classic-drums-period",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "经典铜鼓加深窗对应 Heger I 繁荣与图像程序讨论。",
+    "en": "Classic drums deepen window corresponds to Heger I florescence and iconographic-program discussions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-dongson-classic-drums-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-calo-drums-deepen-r2",
+    "src-dongson-heger-i-iconography"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-jomon-isedotai-coords",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文1632-013公布伊势堂岱坐标（WHC maps DMS），本轮按P级写入。",
+    "en": "UNESCO 1632-013 publishes Isedotai coordinates (WHC maps DMS); this pass writes them at P-grade.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-isedotai"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-unesco-1632-maps-deepen",
+    "src-jomon-isedotai-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-metallurgy",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "冶金研究讨论本地青铜生产与技术选择（Imamura 取向）。",
+    "en": "Metallurgy research discusses local bronze production and technological choices (Imamura orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-thanh-hoa-workshop-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-imamura-deepen",
+    "src-dongson-red-river-settlement"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

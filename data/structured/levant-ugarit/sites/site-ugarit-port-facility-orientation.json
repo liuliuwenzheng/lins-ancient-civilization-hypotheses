@@ -1,0 +1,33 @@
+{
+  "id": "site-ugarit-port-facility-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "港口设施（指针）",
+    "en": "Port facility (orientation)",
+    "native": null
+  },
+  "kind_note": "Minet el-Beida related harbour works",
+  "region": "Minet el-Beida",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "港口设施指针。",
+    "en": "Harbour-facility orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-minet-harbour-deepen",
+    "src-ugarit-yon-city-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

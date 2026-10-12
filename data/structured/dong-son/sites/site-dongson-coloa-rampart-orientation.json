@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-coloa-rampart-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "古螺城垣（指针）",
+    "en": "Co Loa ramparts (orientation)",
+    "native": null
+  },
+  "kind_note": "Moated/ramparted early polity centre",
+  "region": "Hanoi region, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "环壕/城垣早期政体中心指针。",
+    "en": "Moated/ramparted early-polity centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-kim-coloa-deepen",
+    "src-dongson-co-loa-kim-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-dainzu-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "达因苏（指针）",
+    "en": "Dainzú (orientation)",
+    "native": null
+  },
+  "kind_note": "Formative/Classic centre with ballcourt reliefs",
+  "region": "Tlacolula arm, Oaxaca",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "球场浮雕中心指针。",
+    "en": "Ballcourt-relief centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-dainzu-orientation",
+    "src-zapotec-blanton-urban-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

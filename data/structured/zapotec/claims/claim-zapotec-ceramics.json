@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-ceramics",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "陶器年表为蒙特阿尔班分期提供陶瓷框架（Winter 取向）。",
+    "en": "Ceramic chronologies supply the ceramic framework for Monte Albán phasing (Winter orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-winter-ceramic",
+    "src-zapotec-winter-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

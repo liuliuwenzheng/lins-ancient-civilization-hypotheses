@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-seals",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "印章与护符图像研究讨论 BMAC 视觉语言与身份标志（Vidale 等取向）。",
+    "en": "Seal and amulet iconography research discusses BMAC visual language and identity markers.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-gonur-necropolis-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-seal-iconography",
+    "src-bmac-vidale-craft"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

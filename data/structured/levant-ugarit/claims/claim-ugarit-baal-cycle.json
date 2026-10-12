@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-baal-cycle",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "巴力叙事泥板为西闪米特神话—宗教研究提供核心语料（Pardee 取向）。",
+    "en": "Baal Cycle tablets supply a core corpus for West Semitic myth–religion research (Pardee orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-house-high-priest-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-baal-cycle-orientation",
+    "src-ugarit-pardee-ritual-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

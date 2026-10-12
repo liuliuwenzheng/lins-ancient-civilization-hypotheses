@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-south-platform-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "南平台（指针）",
+    "en": "South Platform (orientation)",
+    "native": null
+  },
+  "kind_note": "Monte Albán South Platform monumental sector",
+  "region": "Monte Albán",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "南平台纪念建筑扇区指针。",
+    "en": "South Platform monumental sector orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-blanton-urban-deepen",
+    "src-zapotec-unesco-monte-alban-415"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

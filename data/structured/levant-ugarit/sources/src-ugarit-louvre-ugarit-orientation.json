@@ -1,0 +1,19 @@
+{
+  "id": "src-ugarit-louvre-ugarit-orientation",
+  "entity": "source",
+  "type": "web",
+  "citation": "Musée du Louvre — Ugarit collection / exhibition orientation pages.",
+  "url": "https://www.louvre.fr/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Louvre institutional; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

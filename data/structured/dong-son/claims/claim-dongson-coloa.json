@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-coloa",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "古螺城垣考古讨论红河三角洲早期政体中心（Kim）。",
+    "en": "Co Loa rampart archaeology discusses an early polity centre in the Red River delta (Kim).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-coloa-rampart-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-kim-coloa-deepen",
+    "src-dongson-co-loa-kim-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

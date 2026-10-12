@@ -11,30 +11,55 @@
   "region": "Mainland Southeast Asia / northern Vietnam Red River Delta and related exchange sphere",
   "time_span": "Bronze–Iron Age Đông Sơn tradition (1st millennium BCE floruit; Higham SEA Bronze Age frame)",
   "summary": {
-    "zh": "东山档案（library-seed-rich）：Higham/Calò + 清化类型地/古螺与青铜鼓传统；仍加厚中。",
-    "en": "Đông Sơn archive (library-seed-rich): Higham/Calò + Thanh Hóa type-site/Cổ Loa and bronze-drum tradition; still thickening."
+    "zh": "东山档案加厚（种子 Batch C）：铜鼓、船棺葬、红河三角洲与东南亚鼓交换圈；仍标 library-seed-rich。",
+    "en": "Đông Sơn densified (seed Batch C): bronze drums, boat burials, Red River delta and SEA drum exchange sphere; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-dongson-bellwood-deepen",
     "src-dongson-bellwood-orientation",
     "src-dongson-calo-bronze-drums-2009",
     "src-dongson-calo-drums-deepen",
+    "src-dongson-calo-drums-deepen-r2",
+    "src-dongson-chau-can-deepen",
     "src-dongson-co-loa-kim-orientation",
+    "src-dongson-dong-dau-orientation",
+    "src-dongson-han-contact-deepen",
     "src-dongson-han-period-transition",
+    "src-dongson-heger-i-iconography",
     "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-higham-deepen",
     "src-dongson-higham-early-mainland",
     "src-dongson-higham-orientation-later",
+    "src-dongson-imamura-deepen",
     "src-dongson-imamura-orientation",
+    "src-dongson-kim-coloa-deepen",
+    "src-dongson-lang-vac-deepen",
     "src-dongson-nguyen-drum-typology",
+    "src-dongson-nguyen-typology-deepen",
     "src-dongson-persee-drums",
     "src-dongson-persee-drums-1991",
+    "src-dongson-persee-drums-deepen",
+    "src-dongson-red-river-settlement",
+    "src-dongson-solheim-deepen",
     "src-dongson-solheim-orientation",
+    "src-dongson-viet-khe-deepen",
     "src-dongson-vietnam-excavation-orientation",
+    "src-dongson-vietnam-institute-deepen",
     "src-dongson-vietnam-institute-orientation"
   ],
   "site_ids": [
     "site-chau-can-orientation",
     "site-co-loa-orientation",
     "site-dong-son-thanh-hoa",
+    "site-dongson-coloa-rampart-orientation",
+    "site-dongson-dong-dau-orientation",
+    "site-dongson-go-mun-orientation",
+    "site-dongson-lang-vac-deepen",
+    "site-dongson-thanh-hoa-workshop-orientation",
+    "site-dongson-thieu-duong-orientation",
+    "site-dongson-viet-khe-boat-orientation",
+    "site-dongson-xuan-lap-orientation",
     "site-drum-exchange-sphere-frame",
     "site-lang-vac-orientation",
     "site-red-river-delta-frame",
@@ -44,7 +69,11 @@
     "period-dong-son-bronze-iron",
     "period-dong-son-classic-drums",
     "period-dong-son-early-bronze",
-    "period-dong-son-late-transition"
+    "period-dong-son-late-transition",
+    "period-dongson-classic-drums-deepen",
+    "period-dongson-go-mun-dong-dau",
+    "period-dongson-han-transition-deepen",
+    "period-dongson-phung-nguyen-bg"
   ],
   "claim_ids": [
     "claim-dong-son-boat-burials",
@@ -57,12 +86,31 @@
     "claim-dong-son-heger-typology",
     "claim-dong-son-lang-vac-cemetery",
     "claim-dong-son-red-river-core",
-    "claim-dong-son-type-site-thanh-hoa"
+    "claim-dong-son-type-site-thanh-hoa",
+    "claim-dongson-bellwood",
+    "claim-dongson-boat-burial",
+    "claim-dongson-chau-can",
+    "claim-dongson-classic-drums-period",
+    "claim-dongson-coloa",
+    "claim-dongson-drums-heger",
+    "claim-dongson-exchange",
+    "claim-dongson-go-mun",
+    "claim-dongson-han-open",
+    "claim-dongson-higham-synth",
+    "claim-dongson-lang-vac",
+    "claim-dongson-metallurgy",
+    "claim-dongson-phung-nguyen-bg",
+    "claim-dongson-thanh-hoa-core",
+    "claim-dongson-typology"
   ],
   "object_ids": [
     "asm-dong-son-boat-burial-frame",
     "asm-dong-son-bronze-drums-frame",
-    "asm-dong-son-heger-drums-frame"
+    "asm-dong-son-heger-drums-frame",
+    "asm-dongson-boat-burials-deepen",
+    "asm-dongson-coloa-polity",
+    "asm-dongson-heger-i-iconography",
+    "asm-dongson-metallurgy-frame"
   ],
   "related_ids": [
     "civ-china-bronze"
@@ -70,11 +118,11 @@
   "markdown_path": "data/civilizations/civ-dong-son.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_seed_batch_c.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-24"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

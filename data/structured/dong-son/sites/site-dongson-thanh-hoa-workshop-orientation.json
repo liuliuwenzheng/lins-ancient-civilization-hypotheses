@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-thanh-hoa-workshop-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "清化作坊区（指针）",
+    "en": "Thanh Hoa workshop sector (orientation)",
+    "native": null
+  },
+  "kind_note": "Bronze production landscape orientation",
+  "region": "Thanh Hoa, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "青铜生产地景指针。",
+    "en": "Bronze-production landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-imamura-deepen",
+    "src-dongson-red-river-settlement"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

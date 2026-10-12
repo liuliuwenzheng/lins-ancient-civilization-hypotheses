@@ -1,0 +1,44 @@
+{
+  "id": "asm-bmac-togolok-temple-asm",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "托戈洛克神庙组合",
+    "en": "Togolok temple assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-togolok-temple-orientation",
+    "site-togolok"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "神庙复合体组合。",
+    "en": "Temple-complex assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-togolok-temple",
+    "src-bmac-sarianidi-margiana-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

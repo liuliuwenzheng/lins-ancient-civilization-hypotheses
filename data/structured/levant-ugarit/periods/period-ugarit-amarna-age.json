@@ -1,0 +1,36 @@
+{
+  "id": "period-ugarit-amarna-age",
+  "entity": "period",
+  "names": {
+    "zh": "阿马尔奈时代互动窗",
+    "en": "Amarna-age interaction window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "14th c. BCE international correspondence horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "14th c. BCE international correspondence horizon"
+  },
+  "summary": {
+    "zh": "十四世纪国际通信地平。",
+    "en": "14th-c. international correspondence horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-egypt-hattusa-diplomacy",
+    "src-ugarit-lackenbacher-letters"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

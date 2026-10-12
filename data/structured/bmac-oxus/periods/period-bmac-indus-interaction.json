@@ -1,0 +1,36 @@
+{
+  "id": "period-bmac-indus-interaction",
+  "entity": "period",
+  "names": {
+    "zh": "印度河互动窗",
+    "en": "Indus interaction window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "BMAC–Indus exchange and Shortughai debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "BMAC–Indus exchange and Shortughai debates"
+  },
+  "summary": {
+    "zh": "BMAC—印度河交换与舒尔图盖讨论。",
+    "en": "BMAC–Indus exchange and Shortughai debates.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-shortughai-indus",
+    "src-bmac-lamberg-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-destruction-open",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "晚青铜毁灭层与海上民族等因素权重仍有争议，作假说保留。",
+    "en": "Weights of Sea Peoples and other factors in the LBA destruction remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ugarit-late-lba-crisis"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-destruction-lba",
+    "src-ugarit-singer-history-deepen"
+  ],
+  "disclaimer": "Destruction causality unsettled. / 毁灭因果未定。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "media-zapotec-inah-deepen",
+  "entity": "media",
+  "title": {
+    "zh": "INAH 蒙特阿尔班",
+    "en": "INAH Monte Albán",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.inah.gob.mx/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-inah-monte-alban"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "INAH",
+    "upstream_url": "https://www.inah.gob.mx/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

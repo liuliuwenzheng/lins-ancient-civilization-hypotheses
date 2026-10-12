@@ -1,0 +1,44 @@
+{
+  "id": "asm-yayoi-paddy-fields-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "水田组合加深",
+    "en": "Paddy fields deepen frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-yayoi-itazuke-deepen",
+    "site-itazuke-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "早期水田考古组合加深。",
+    "en": "Early paddy archaeology deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-yayoi-itazuke-deepen",
+    "src-yayoi-wet-rice-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

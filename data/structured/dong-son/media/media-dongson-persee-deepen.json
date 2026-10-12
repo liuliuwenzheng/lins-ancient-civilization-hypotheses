@@ -1,0 +1,32 @@
+{
+  "id": "media-dongson-persee-deepen",
+  "entity": "media",
+  "title": {
+    "zh": "Persée：铜鼓文献加深",
+    "en": "Persée: drum literature deepen",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.persee.fr/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-dongson-persee-drums-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Persée",
+    "upstream_url": "https://www.persee.fr/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

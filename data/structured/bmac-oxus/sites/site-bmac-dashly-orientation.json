@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-dashly-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "达什利绿洲（指针）",
+    "en": "Dashly oasis (orientation)",
+    "native": null
+  },
+  "kind_note": "Bactrian oasis settlement cluster",
+  "region": "Northern Afghanistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "巴克特里亚绿洲聚落指针。",
+    "en": "Bactrian oasis settlement orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-dashly-orientation",
+    "src-bmac-francfort-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

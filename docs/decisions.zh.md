@@ -914,3 +914,15 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-12-24 — 种子包 Batch C 朝更密档案加厚
+
+**决定：** 对第一波剩余五包 `levant-ugarit`、`bmac-oxus`、`zapotec`、`jomon-yayoi`、`dong-son` 从约 15 来源壳加厚至热门加厚带（约 30 来源）；**状态不升为 fact-library**（保持 `library-seed-rich`）。诚信优先：无伪造页码/发现/配图/坐标。
+
+**每包大约增量：** +15 来源 · +8 遗址 · +4 时段 · +4 对象 · +15 主张 · +2–3 媒体。
+
+**坐标补填（仅有出处）：** 新绳文教科文 1632 组件伊势堂岱、御所野、二森、大森胜山按 WHC 地图 DMS→小数写入（P 级）。
+
+**报告：** [`docs/audits/pass-2026-10-12-seed-batch-c.md`](audits/pass-2026-10-12-seed-batch-c.md) · [中文](audits/pass-2026-10-12-seed-batch-c.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

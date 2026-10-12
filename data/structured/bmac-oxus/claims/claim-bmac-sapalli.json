@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-sapalli",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "萨帕利等北巴克特里亚中心提供陶器与葬俗对照序列。",
+    "en": "Sapalli and related N. Bactria centres supply ceramic and mortuary comparison sequences.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-sapalli-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-sapalli-orientation",
+    "src-bmac-lyonnet-bactria"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

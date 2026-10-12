@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-lang-vac-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "朗瓦克加深",
+    "en": "Lang Vac deepen",
+    "native": null
+  },
+  "kind_note": "Cemetery/settlement deepen",
+  "region": "Nghe An, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "墓地/聚落加深。",
+    "en": "Cemetery/settlement deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-lang-vac-deepen",
+    "src-dongson-higham-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

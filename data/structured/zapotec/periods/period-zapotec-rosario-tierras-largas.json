@@ -1,0 +1,36 @@
+{
+  "id": "period-zapotec-rosario-tierras-largas",
+  "entity": "period",
+  "names": {
+    "zh": "罗萨里奥/大地时期窗",
+    "en": "Rosario / Tierras Largas window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "time": {
+    "label": "Early Formative village horizons",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Formative village horizons"
+  },
+  "summary": {
+    "zh": "早期形成期村落地平。",
+    "en": "Early Formative village horizons.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-flannery-villages-deepen",
+    "src-zapotec-marcus-flannery-1996"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

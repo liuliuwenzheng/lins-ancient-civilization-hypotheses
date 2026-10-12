@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-han-open",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "汉式接触与政治整合程度仍有争议，作假说保留。",
+    "en": "Degree of Han-contact political incorporation remains debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-dongson-han-transition-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-han-contact-deepen",
+    "src-dongson-han-period-transition"
+  ],
+  "disclaimer": "Han-contact transition debated. / 汉式接触过渡有争议。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

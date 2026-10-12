@@ -1,0 +1,37 @@
+{
+  "id": "site-jomon-futatsumori",
+  "entity": "site",
+  "names": {
+    "zh": "二森遗址",
+    "en": "Futatsumori Site",
+    "native": null
+  },
+  "kind_note": "UNESCO 1632-006 settlement",
+  "region": "Aomori, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "教科文1632组件聚落。",
+    "en": "UNESCO 1632 component settlement.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-futatsumori-orientation",
+    "src-jomon-unesco-1632-maps-deepen"
+  ],
+  "coordinates": {
+    "lat": 40.748611,
+    "lon": 141.229167,
+    "precision_note": "UNESCO WHC list 1632 component 1632-006 (Futatsumori Site) published DMS→decimal; access 2026-10-12; grade=P"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-exchange",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "铜鼓交换圈将红河中心与更广东南亚互动带相联系（Calo；Solheim 取向）。",
+    "en": "Drum exchange spheres link the Red River centre to wider Southeast Asian interaction belts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-drum-exchange-sphere-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-calo-drums-deepen-r2",
+    "src-dongson-solheim-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

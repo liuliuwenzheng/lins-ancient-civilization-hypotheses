@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-building-j-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "J 号建筑（指针）",
+    "en": "Building J (orientation)",
+    "native": null
+  },
+  "kind_note": "Arrowhead building / conquest slabs orientation",
+  "region": "Monte Albán",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "箭形建筑/征服石板指针。",
+    "en": "Arrowhead building / conquest-slab orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-spencer-conquest",
+    "src-zapotec-marcus-writing-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

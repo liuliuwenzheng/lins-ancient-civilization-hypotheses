@@ -1,0 +1,44 @@
+{
+  "id": "asm-zapotec-formative-monuments",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "形成期纪念碑组合",
+    "en": "Formative monuments frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-mogote-monument-orientation",
+    "site-san-jose-mogote"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "形成期早期纪念碑组合。",
+    "en": "Formative early-monument frame.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-san-jose-mogote-deepen",
+    "src-zapotec-flannery-villages-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

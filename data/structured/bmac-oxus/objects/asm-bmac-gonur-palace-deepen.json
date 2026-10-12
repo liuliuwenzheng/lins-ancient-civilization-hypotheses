@@ -1,0 +1,44 @@
+{
+  "id": "asm-bmac-gonur-palace-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "戈努尔宫庙加深组合",
+    "en": "Gonur palace-temple deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-gonur-temple-orientation",
+    "site-gonur-depe"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "宫庙建筑组合加深。",
+    "en": "Palace-temple architecture deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-sarianidi-gonur-deepen",
+    "src-bmac-hiebert-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

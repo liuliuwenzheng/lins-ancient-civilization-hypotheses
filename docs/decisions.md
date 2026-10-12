@@ -856,3 +856,15 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-12-24 — Seed densify Batch C toward denser archive
+
+**Decision:** Densify Wave-1 leftover packs `levant-ugarit`, `bmac-oxus`, `zapotec`, `jomon-yayoi`, `dong-son` from ~15-source shells toward the first hot-densify band (~30 sources); **do not promote status to `fact-library`** (keep `library-seed-rich`). Integrity over completeness: no invented pages/finds/media art/coords.
+
+**Approx. per-pack delta:** +15 sources · +8 sites · +4 periods · +4 objects · +15 claims · +2–3 media.
+
+**Coord fills (grounded only):** New Jōmon UNESCO 1632 component sites Isedotai, Goshono, Futatsumori, Omori Katsuyama written with WHC maps DMS→decimal (grade=P) on create.
+
+**Reports:** [`docs/audits/pass-2026-10-12-seed-batch-c.md`](audits/pass-2026-10-12-seed-batch-c.md) · [中文](audits/pass-2026-10-12-seed-batch-c.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

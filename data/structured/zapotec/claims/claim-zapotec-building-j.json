@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-building-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "J 号建筑征服石板被讨论为早期国家扩张的铭文证据（Spencer / Redmond）。",
+    "en": "Building J conquest slabs are discussed as epigraphic evidence of early-state expansion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-building-j-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-spencer-conquest",
+    "src-zapotec-marcus-writing-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-dongson-go-mun-dong-dau",
+  "entity": "period",
+  "names": {
+    "zh": "戈蒙—铜豆窗",
+    "en": "Go Mun–Dong Dau window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "time": {
+    "label": "Early Metal Age phases preceding classic Dong Son",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Metal Age phases preceding classic Dong Son"
+  },
+  "summary": {
+    "zh": "经典东山之前的早期金属阶段。",
+    "en": "Early Metal phases before classic Dong Son.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-higham-deepen",
+    "src-dongson-red-river-settlement"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

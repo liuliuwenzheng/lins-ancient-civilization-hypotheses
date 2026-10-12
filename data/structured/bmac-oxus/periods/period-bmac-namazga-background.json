@@ -1,0 +1,36 @@
+{
+  "id": "period-bmac-namazga-background",
+  "entity": "period",
+  "names": {
+    "zh": "纳马兹加背景窗",
+    "en": "Namazga background window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "Namazga-related ceramic background to BMAC",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Namazga-related ceramic background to BMAC"
+  },
+  "summary": {
+    "zh": "纳马兹加相关陶器背景。",
+    "en": "Namazga-related ceramic background.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-hiebert-deepen",
+    "src-bmac-kohl-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_c.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-24"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-24). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
