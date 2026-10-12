@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-deh-e-now-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "德赫诺（指针）",
+    "en": "Deh-e Now (orientation)",
+    "native": null
+  },
+  "kind_note": "Middle Elamite related settlement orientation",
+  "region": "Khuzestan, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "中埃兰相关聚落指针。",
+    "en": "Middle Elamite-related settlement orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-middle-elamite-r2",
+    "src-elam-potts-elamite-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

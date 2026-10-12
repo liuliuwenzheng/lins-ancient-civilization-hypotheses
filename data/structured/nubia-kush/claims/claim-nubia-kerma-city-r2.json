@@ -1,0 +1,33 @@
+{
+  "id": "claim-nubia-kerma-city-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "科尔玛城市与德富法巨构展示独立于埃及的努比亚复杂社会（Bonnet 等）。",
+    "en": "Kerma city and deffufa monuments exhibit a Nubian complex society independent of Egypt (Bonnet and others).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-kerma",
+    "site-nubia-western-deffufa-r2"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-bonnet-kerma-r2",
+    "src-nubia-deffufa-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-elam-susiana-survey-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "苏西亚纳调查组合",
+    "en": "Susiana survey frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-susiana-survey-frame"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "苏西亚纳聚落调查组合。",
+    "en": "Susiana settlement-survey frame.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-gasche-susiana-deepen",
+    "src-elam-potts-elamite-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

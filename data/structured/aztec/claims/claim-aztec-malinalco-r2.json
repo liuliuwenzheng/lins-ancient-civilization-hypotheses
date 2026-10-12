@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-malinalco-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "马利纳尔科悬崖圣地展示墨西加行省礼仪建筑的岩凿传统。",
+    "en": "Malinalco cliff sanctuary exhibits Mexica provincial ceremonial rock-cut architecture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-malinalco-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-malinalco-r2",
+    "src-aztec-hassig-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

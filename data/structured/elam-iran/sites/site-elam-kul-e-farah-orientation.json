@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-kul-e-farah-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "库勒法拉（指针）",
+    "en": "Kul-e Farah (orientation)",
+    "native": null
+  },
+  "kind_note": "Elamite rock-relief sanctuary",
+  "region": "Izeh, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "埃兰岩刻圣所指针。",
+    "en": "Elamite rock-relief sanctuary orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-rock-relief-r2",
+    "src-elam-alvarez-mon-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

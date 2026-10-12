@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-barkal-amun-r2",
+  "entity": "site",
+  "names": {
+    "zh": "杰贝尔巴卡尔阿蒙庙加深",
+    "en": "Jebel Barkal Amun temple deepen",
+    "native": null
+  },
+  "kind_note": "Amun temple complex at sacred mountain",
+  "region": "Karima, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "圣山阿蒙神庙加深。",
+    "en": "Sacred-mountain Amun temple deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-amun-barkal-r2",
+    "src-nubia-unesco-barkal-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

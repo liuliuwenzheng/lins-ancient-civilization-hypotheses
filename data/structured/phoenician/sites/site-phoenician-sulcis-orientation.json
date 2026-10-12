@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-sulcis-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "苏尔奇斯（指针）",
+    "en": "Sulcis/Sant'Antioco (orientation)",
+    "native": null
+  },
+  "kind_note": "Sardinian Phoenician-Punic centre",
+  "region": "Sardinia, Italy",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "撒丁腓尼基—布匿中心指针。",
+    "en": "Sardinian Phoenician–Punic centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-bondi-west-r2",
+    "src-phoenician-aubet-deepen-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

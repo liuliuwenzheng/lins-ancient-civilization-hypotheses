@@ -1,0 +1,125 @@
+{
+  "decision": "D-2026-10-12-23",
+  "date": "2026-10-12",
+  "packs": [
+    {
+      "pack": "aztec",
+      "before": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 5
+      },
+      "after": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "civ_id": "civ-aztec",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "phoenician",
+      "before": {
+        "sources": 30,
+        "sites": 16,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "after": {
+        "sources": 48,
+        "sites": 24,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "civ_id": "civ-phoenician",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "anatolia-hittite",
+      "before": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "after": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "civ_id": "civ-anatolia-hittite",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "nubia-kush",
+      "before": {
+        "sources": 30,
+        "sites": 17,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "after": {
+        "sources": 48,
+        "sites": 25,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "civ_id": "civ-nubia-kush",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "elam-iran",
+      "before": {
+        "sources": 30,
+        "sites": 16,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "after": {
+        "sources": 48,
+        "sites": 24,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "civ_id": "civ-elam-iran",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 90,
+    "sites": 40,
+    "periods": 10,
+    "objects": 60,
+    "claims": 85,
+    "media": 15
+  },
+  "status_note": "All five packs remain library-seed-rich (not promoted to fact-library)."
+}

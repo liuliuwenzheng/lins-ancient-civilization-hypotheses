@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-sariydin-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "萨里亚丁水池（指针）",
+    "en": "Sacred pool / water installation (orientation)",
+    "native": null
+  },
+  "kind_note": "Water-cult installation orientation",
+  "region": "Hattusa vicinity",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "水祭设施指针。",
+    "en": "Water-cult installation orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-water-cult-r2",
+    "src-hittite-seeher-deepen-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-elam-proto-elamite-tablets-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "原埃兰泥板加深",
+    "en": "Proto-Elamite tablets deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-tell-malyan-workshop-r2",
+    "site-anshan-tall-e-malyan"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "原埃兰行政泥板语料加深。",
+    "en": "Proto-Elamite administrative tablet corpus deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-proto-elamite-desset-r2",
+    "src-elam-malyan-sumner-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

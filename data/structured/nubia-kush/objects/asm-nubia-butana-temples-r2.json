@@ -1,0 +1,44 @@
+{
+  "id": "asm-nubia-butana-temples-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "布塔纳神庙网加深",
+    "en": "Butana temple network deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-dangeil-orientation",
+    "site-nubia-wad-ban-naga-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "布塔纳神庙网络加深。",
+    "en": "Butana temple-network deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-edwards-nubian-r2",
+    "src-nubia-emberling-nubia-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

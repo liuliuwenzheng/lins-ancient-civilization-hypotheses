@@ -1,0 +1,33 @@
+{
+  "id": "claim-nubia-butana-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "布塔纳神庙城镇网（丹盖勒、瓦德班纳加等）扩展麦罗埃核心之外的仪礼地理。",
+    "en": "Butana temple-town network (Dangeil, Wad ban Naqa, etc.) extends ritual geography beyond the Meroe core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-dangeil-orientation",
+    "site-nubia-wad-ban-naga-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-edwards-nubian-r2",
+    "src-nubia-emberling-nubia-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

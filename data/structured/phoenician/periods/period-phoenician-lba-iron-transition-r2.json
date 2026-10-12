@@ -1,0 +1,36 @@
+{
+  "id": "period-phoenician-lba-iron-transition-r2",
+  "entity": "period",
+  "names": {
+    "zh": "晚青铜—铁器过渡窗",
+    "en": "LBA–Iron transition window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "Levantine coastal LBA collapse to Iron I Phoenician emergence",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Levantine coastal LBA collapse to Iron I Phoenician emergence"
+  },
+  "summary": {
+    "zh": "黎凡特海岸晚青铜至铁器过渡讨论。",
+    "en": "Coastal LBA→Iron I emergence discussion.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-lba-collapse-r2",
+    "src-phoenician-aubet-deepen-r2"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

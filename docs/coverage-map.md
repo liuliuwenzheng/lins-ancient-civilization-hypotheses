@@ -107,7 +107,9 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 ## Product stance
 
-**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`), of which 10 hot-densified; Round-2 Batch A (5 packs) now ~48 sources / ~22–24 sites / ~19 objects / ~42–43 claims each.** Honesty of status beats vanity of count. Next: Round-2 Batch B; continue coord/media fill; open remaining Missing where archives allow.
+**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`), of which 10 hot packs completed Round-2 (~48 sources / ~22–25 sites / ~19 objects / ~43 claims each).** Honesty of status beats vanity of count. Next: continue coord/media fill toward fact-library; open remaining Missing where archives allow.
+
+> **2026-10-12 update (Round-2 B):** Hot Round-2 Batch B densify (D-2026-10-12-23) raised aztec / phoenician / anatolia-hittite / nubia-kush / elam-iran to ~48 sources / 23–25 sites / 19 objects / 43 claims; status remains `library-seed-rich` (not fact-library). No new coords this pass.
 
 > **2026-10-12 update (Round-2 A):** Hot Round-2 Batch A densify (D-2026-10-12-22) further raised teotihuacan / classic-maya / inca / angkor / aksum to ~48 sources / 22–24 sites / 19 objects / 42–43 claims; status remains `library-seed-rich` (not fact-library). Quiriguá + Uxmal coords filled (UNESCO P).
 

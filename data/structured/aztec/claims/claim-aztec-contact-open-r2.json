@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-contact-open-r2",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "接触期军事—流行病—政治崩解权重仍有争议，作假说保留。",
+    "en": "Weights of military, epidemic, and political collapse factors in the contact period remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aztec-contact-archaeology-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-contact-period-r2",
+    "src-aztec-clendinnen-deepen"
+  ],
+  "disclaimer": "Multi-causal contact collapse debated. / 接触期崩解多因有争议。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

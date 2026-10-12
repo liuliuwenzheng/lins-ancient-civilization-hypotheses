@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-kusakli-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "库沙克勒（指针）",
+    "en": "Kuşaklı/Sarissa (orientation)",
+    "native": null
+  },
+  "kind_note": "Hittite provincial city",
+  "region": "Sivas region, Turkey",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "赫梯行省城市指针。",
+    "en": "Hittite provincial city orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-glatz-landscape-r2",
+    "src-hittite-bryce-empire-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

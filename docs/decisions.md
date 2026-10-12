@@ -844,3 +844,15 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-12-23 — Hot-pack Round-2 Batch B densify toward denser archive
+
+**Decision:** Second densify pass on `aztec`, `phoenician`, `anatolia-hittite`, `nubia-kush`, `elam-iran` toward Egypt/Mesopotamia `fact-library` density; **do not promote status to `fact-library` yet** (still below Egypt). Integrity over completeness: no invented pages/finds/media art/coords.
+
+**Approx. per-pack delta:** +18 sources · +8 sites · +2 periods · +12 objects · +17 claims · +3 media (landing ≈48 / 23–25 / 10 / 19 / 43 / 8–9).
+
+**Coord fills:** none this pass (orientation sites left null; prior P/S fills retained).
+
+**Reports:** [`docs/audits/pass-2026-10-12-hot-round2-b.md`](audits/pass-2026-10-12-hot-round2-b.md) · [中文](audits/pass-2026-10-12-hot-round2-b.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

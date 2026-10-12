@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-early-postclassic-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期后经典背景窗为理解墨西加崛起提供盆地前史（陶器/聚落取向）。",
+    "en": "Early Postclassic background window supplies Basin prehistory for understanding Mexica rise (ceramic/settlement orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aztec-early-postclassic-bg-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-early-postclassic-r2",
+    "src-aztec-nichols-ceramics-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

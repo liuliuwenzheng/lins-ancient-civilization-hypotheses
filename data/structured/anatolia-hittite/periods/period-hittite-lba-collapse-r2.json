@@ -1,0 +1,36 @@
+{
+  "id": "period-hittite-lba-collapse-r2",
+  "entity": "period",
+  "names": {
+    "zh": "晚青铜崩溃讨论窗",
+    "en": "LBA collapse discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "Anatolian LBA collapse / Sea Peoples debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Anatolian LBA collapse / Sea Peoples debates"
+  },
+  "summary": {
+    "zh": "安纳托利亚晚青铜崩溃讨论。",
+    "en": "Anatolian LBA collapse debates.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-sea-peoples-r2",
+    "src-hittite-empire-collapse-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

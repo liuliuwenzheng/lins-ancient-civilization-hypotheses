@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-tharos-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "塔罗斯（指针）",
+    "en": "Tharros (orientation)",
+    "native": null
+  },
+  "kind_note": "Sardinian Phoenician-Punic coastal centre",
+  "region": "Sardinia, Italy",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "撒丁海岸中心指针。",
+    "en": "Sardinian coastal centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-bondi-west-r2",
+    "src-phoenician-markoe-art-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

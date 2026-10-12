@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-malinalco-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "马利纳尔科（指针）",
+    "en": "Malinalco (orientation)",
+    "native": null
+  },
+  "kind_note": "Mexica cliff sanctuary",
+  "region": "Estado de México, Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "墨西加悬崖圣地指针。",
+    "en": "Mexica cliff-sanctuary orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-malinalco-r2",
+    "src-aztec-hassig-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

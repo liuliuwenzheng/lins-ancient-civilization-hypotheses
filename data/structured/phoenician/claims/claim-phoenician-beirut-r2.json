@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-beirut-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "贝鲁特铁器层为黎凡特中部海岸腓尼基城市提供考古窗口。",
+    "en": "Beirut Iron Age levels supply an archaeological window on central Levantine Phoenician urbanism.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-beirut-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-deepen-r2",
+    "src-phoenician-lipinski-dictionary-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-achaemenid-open-r2",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "埃兰行政传统与阿契美尼德帝国的连续性程度仍有争议，作假说保留。",
+    "en": "Degree of continuity between Elamite administrative traditions and the Achaemenid Empire remains debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-elam-achaemenid-admin-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-achaemenid-overlap-r2",
+    "src-elam-carter-stolper-r2"
+  ],
+  "disclaimer": "Elamite–Achaemenid continuity debated. / 埃兰—阿契美尼德连续性有争议。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

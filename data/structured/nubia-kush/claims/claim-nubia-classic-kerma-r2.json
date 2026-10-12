@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-classic-kerma-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "经典科尔玛讨论窗聚焦墓地分层与城市扩张的共时关系。",
+    "en": "Classic Kerma discussion window focuses on contemporaneity of cemetery stratification and urban expansion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nubia-classic-kerma-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-kerma-classic-r2",
+    "src-nubia-bonnet-kerma-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

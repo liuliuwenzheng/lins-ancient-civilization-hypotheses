@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-tenayuca-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "特纳尤卡双阶金字塔为盆地后经典礼仪建筑提供对照类型。",
+    "en": "Tenayuca’s double-stair pyramid supplies a comparative type for Basin Postclassic ceremonial architecture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-tenayuca-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-tenayuca-r2",
+    "src-aztec-smith-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

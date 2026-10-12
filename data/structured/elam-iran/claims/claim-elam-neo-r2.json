@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-neo-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "新埃兰地平在艺术与政治上连接中埃兰与早期波斯世界（Álvarez-Mon）。",
+    "en": "Neo-Elamite horizon artistically and politically bridges Middle Elam and the early Persian world (Álvarez-Mon).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-neo-elamite-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-neo-elamite-r2",
+    "src-elam-alvarez-mon-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

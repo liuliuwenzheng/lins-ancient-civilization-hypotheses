@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-chogha-mish-acropolis-r2",
+  "entity": "site",
+  "names": {
+    "zh": "恰高米什卫城加深",
+    "en": "Chogha Mish acropolis deepen",
+    "native": null
+  },
+  "kind_note": "Prehistoric/Proto-Elamite mound",
+  "region": "Khuzestan, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "史前/原埃兰土丘加深。",
+    "en": "Prehistoric/Proto-Elamite mound deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-chogha-mish-r2",
+    "src-elam-chogha-mish-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

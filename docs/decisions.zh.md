@@ -902,3 +902,15 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-12-23 — 热门包 Round-2 Batch B 朝更密档案加厚
+
+**决定：** 对 `aztec`、`phoenician`、`anatolia-hittite`、`nubia-kush`、`elam-iran` 做第二轮加厚，逼近埃及/两河 `fact-library` 密度；**状态暂不升为 fact-library**（仍低于埃及）。诚信优先：无伪造页码/发现/配图/坐标。
+
+**每包大约增量：** +18 来源 · +8 遗址 · +2 时段 · +12 对象 · +17 主张 · +3 媒体（落地约 48 / 23–25 / 10 / 19 / 43 / 8–9）。
+
+**坐标补填：** 本轮无新填（指针遗址留空；既有 P/S 保留）。
+
+**报告：** [`docs/audits/pass-2026-10-12-hot-round2-b.md`](audits/pass-2026-10-12-hot-round2-b.md) · [中文](audits/pass-2026-10-12-hot-round2-b.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

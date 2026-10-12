@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-naqa-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "纳加神庙与罗马式凉亭展示麦罗埃艺术的跨文化互动。",
+    "en": "Naqa temples and Roman-style kiosk exhibit cross-cultural interaction in Meroitic art.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-naqa"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-naqa-kiosk-r2",
+    "src-nubia-naqa-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

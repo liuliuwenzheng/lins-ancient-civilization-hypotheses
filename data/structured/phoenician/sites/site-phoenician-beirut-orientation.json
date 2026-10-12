@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-beirut-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "贝鲁特（指针）",
+    "en": "Beirut (orientation)",
+    "native": null
+  },
+  "kind_note": "Levantine coastal Phoenician/Iron Age centre",
+  "region": "Beirut, Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "黎凡特海岸铁器中心指针。",
+    "en": "Levantine Iron Age coastal centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-deepen-r2",
+    "src-phoenician-lipinski-dictionary-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

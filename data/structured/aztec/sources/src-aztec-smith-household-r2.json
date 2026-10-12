@@ -1,0 +1,19 @@
+{
+  "id": "src-aztec-smith-household-r2",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Smith, Michael E. — Aztec household archaeology deepen beyond urban synthesis.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Household archaeology deepen.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

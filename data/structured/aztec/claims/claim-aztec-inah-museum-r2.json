@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-inah-museum-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "INAH 大神庙博物馆门户汇总发掘展示与机构研究入口（T 级）。",
+    "en": "INAH Templo Mayor Museum portal aggregates excavation display and institutional research entry points (tier T).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-templo-mayor-tenochtitlan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-matos-museum-r2",
+    "src-aztec-inah-templo-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

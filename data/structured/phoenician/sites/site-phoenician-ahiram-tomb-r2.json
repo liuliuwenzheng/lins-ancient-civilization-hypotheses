@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-ahiram-tomb-r2",
+  "entity": "site",
+  "names": {
+    "zh": "阿希兰墓加深",
+    "en": "Ahiram tomb deepen",
+    "native": null
+  },
+  "kind_note": "Byblos royal tomb / early alphabet context",
+  "region": "Byblos, Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "早期字母语境王墓加深。",
+    "en": "Early-alphabet royal-tomb context deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-alphabet-rollston-r2",
+    "src-phoenician-unesco-byblos-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

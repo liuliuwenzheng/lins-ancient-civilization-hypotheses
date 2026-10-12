@@ -1,0 +1,30 @@
+{
+  "id": "claim-nubia-torok-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Török 综论将纳帕塔—麦罗埃王权置于尼罗走廊长时段中。",
+    "en": "Török syntheses situate Napatan–Meroitic kingship in Nile-corridor long-term history.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-torok-napatan-r2",
+    "src-nubia-welsby-kingdom-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-zanbil-temenos-r2",
+  "entity": "site",
+  "names": {
+    "zh": "占比尔圣域加深",
+    "en": "Zanbil temenos deepen",
+    "native": null
+  },
+  "kind_note": "Ziggurat temenos and temples",
+  "region": "Khuzestan, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "塔庙圣域与附属神庙加深。",
+    "en": "Ziggurat temenos and temples deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-zanbil-ghirshman-r2",
+    "src-elam-unesco-zanbil-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

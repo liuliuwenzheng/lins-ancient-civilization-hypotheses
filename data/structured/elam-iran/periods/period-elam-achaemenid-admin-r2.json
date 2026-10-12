@@ -1,0 +1,36 @@
+{
+  "id": "period-elam-achaemenid-admin-r2",
+  "entity": "period",
+  "names": {
+    "zh": "阿契美尼德行政叠压窗",
+    "en": "Achaemenid administrative overlap window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "time": {
+    "label": "Elamite–Achaemenid administrative continuity debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Elamite–Achaemenid administrative continuity debates"
+  },
+  "summary": {
+    "zh": "埃兰—阿契美尼德行政连续性讨论。",
+    "en": "Elamite–Achaemenid administrative continuity debates.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-achaemenid-overlap-r2",
+    "src-elam-carter-stolper-r2"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

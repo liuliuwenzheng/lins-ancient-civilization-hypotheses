@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-iron-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "麦罗埃炼铁渣场地景被讨论为非洲早期大规模铁生产案例之一。",
+    "en": "Meroe iron-slag landscapes are discussed among early large-scale African iron-production cases.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-iron-slag-meroe-r2"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-iron-meroe-r2",
+    "src-nubia-edwards-nubian-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

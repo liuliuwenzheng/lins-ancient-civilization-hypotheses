@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-water-cult-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "水祭/圣池设施研究讨论与城市礼仪景观的关系。",
+    "en": "Water-cult / sacred-pool research discusses relations to urban ritual landscapes.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-sariydin-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-water-cult-r2",
+    "src-hittite-seeher-deepen-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

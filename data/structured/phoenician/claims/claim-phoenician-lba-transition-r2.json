@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-lba-transition-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚青铜—铁器过渡窗为腓尼基城邦兴起提供海岸背景讨论。",
+    "en": "LBA–Iron transition window supplies coastal background for Phoenician city-state emergence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-phoenician-lba-iron-transition-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-lba-collapse-r2",
+    "src-phoenician-aubet-deepen-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

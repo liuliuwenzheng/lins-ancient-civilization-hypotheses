@@ -1,0 +1,43 @@
+{
+  "id": "asm-nubia-musawwarat-enclosure-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "穆萨瓦拉特大围场组合",
+    "en": "Musawwarat Great Enclosure frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-musawwarat-es-sufra"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "大围场礼仪建筑组合。",
+    "en": "Great Enclosure ceremonial architecture frame.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-musawwarat-r2",
+    "src-nubia-musawwarat-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

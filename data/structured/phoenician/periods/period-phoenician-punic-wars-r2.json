@@ -1,0 +1,36 @@
+{
+  "id": "period-phoenician-punic-wars-r2",
+  "entity": "period",
+  "names": {
+    "zh": "布匿战争地平讨论窗",
+    "en": "Punic Wars horizon discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "Punic Wars-era archaeology/history cross-reads",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Punic Wars-era archaeology/history cross-reads"
+  },
+  "summary": {
+    "zh": "布匿战争地平考古—文献交叉。",
+    "en": "Punic Wars horizon archaeology–history cross-reads.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-punic-wars-r2",
+    "src-phoenician-docter-carthage-r2"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

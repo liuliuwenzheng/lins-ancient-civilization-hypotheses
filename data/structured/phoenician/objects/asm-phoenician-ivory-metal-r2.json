@@ -1,0 +1,41 @@
+{
+  "id": "asm-phoenician-ivory-metal-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "象牙金属工艺组合",
+    "en": "Ivory and metalwork frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "腓尼基象牙与金属工艺组合。",
+    "en": "Phoenician ivory and metalwork frame.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-markoe-art-r2",
+    "src-phoenician-lipinski-dictionary-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

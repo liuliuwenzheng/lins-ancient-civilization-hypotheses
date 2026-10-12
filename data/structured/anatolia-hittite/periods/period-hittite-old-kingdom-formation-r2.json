@@ -1,0 +1,36 @@
+{
+  "id": "period-hittite-old-kingdom-formation-r2",
+  "entity": "period",
+  "names": {
+    "zh": "古王国形成讨论窗",
+    "en": "Old Kingdom formation discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "Early Hittite political formation debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Hittite political formation debates"
+  },
+  "summary": {
+    "zh": "古王国政治形成讨论。",
+    "en": "Old Kingdom political-formation debates.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-old-kingdom-r2",
+    "src-hittite-bryce-empire-r2"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

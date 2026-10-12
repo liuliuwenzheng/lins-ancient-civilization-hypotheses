@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-pochteca-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "波奇特卡制度在民族史中被讨论为长途贸易与情报网络（Berdan 等取向）。",
+    "en": "Pochteca institutions are discussed in ethnohistory as long-distance trade and intelligence networks (Berdan orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-pochteca-barrio-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-pochteca-r2",
+    "src-aztec-berdan-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

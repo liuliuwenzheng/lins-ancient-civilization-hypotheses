@@ -1,0 +1,32 @@
+{
+  "id": "media-phoenician-byblos-r2",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：比布鲁斯",
+    "en": "UNESCO: Byblos",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/295/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-unesco-byblos-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO",
+    "upstream_url": "https://whc.unesco.org/en/list/295/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

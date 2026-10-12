@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-tophet-open-r2",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "托菲特是儿童祭献圣地还是墓地的解释仍有争议，作假说保留。",
+    "en": "Whether tophets were child-sacrifice sanctuaries or cemeteries remains debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-carthage-tophet-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-tophet-debate-r2",
+    "src-phoenician-docter-carthage-r2"
+  ],
+  "disclaimer": "Tophet interpretation unsettled. / 托菲特解释未定。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

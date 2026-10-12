@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-kawa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "卡瓦（指针）",
+    "en": "Kawa (orientation)",
+    "native": null
+  },
+  "kind_note": "Napatan Amun temple centre",
+  "region": "Northern Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "纳帕塔阿蒙神庙中心指针。",
+    "en": "Napatan Amun temple centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-welsby-kingdom-r2",
+    "src-nubia-dunham-royal-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

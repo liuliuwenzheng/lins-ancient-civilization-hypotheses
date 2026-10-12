@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-alphabet-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期字母铭文（含阿希兰语境）支撑腓尼基字母扩散讨论（Rollston / Aubet 取向）。",
+    "en": "Early alphabet inscriptions (including Ahiram contexts) underpin Phoenician alphabet-diffusion discussions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-ahiram-tomb-r2"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-alphabet-rollston-r2",
+    "src-phoenician-aubet-deepen-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

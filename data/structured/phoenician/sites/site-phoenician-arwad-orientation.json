@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-arwad-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿尔瓦德（指针）",
+    "en": "Arwad (orientation)",
+    "native": null
+  },
+  "kind_note": "Island city north of Tripoli",
+  "region": "Syria",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "北部岛城指针。",
+    "en": "Northern island-city orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-deepen-r2",
+    "src-phoenician-markoe-art-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

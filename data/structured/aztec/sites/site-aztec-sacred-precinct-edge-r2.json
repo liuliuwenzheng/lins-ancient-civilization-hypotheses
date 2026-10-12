@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-sacred-precinct-edge-r2",
+  "entity": "site",
+  "names": {
+    "zh": "神圣区边缘（指针）",
+    "en": "Sacred precinct edge (orientation)",
+    "native": null
+  },
+  "kind_note": "Templo Mayor precinct periphery orientation",
+  "region": "Mexico City",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "大神庙神圣区边缘指针。",
+    "en": "Sacred-precinct periphery orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-lopez-lujan-deepen",
+    "src-aztec-matos-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

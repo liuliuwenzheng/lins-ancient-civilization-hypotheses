@@ -1,0 +1,44 @@
+{
+  "id": "asm-hittite-treaty-tablets-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "条约泥板组合",
+    "en": "Treaty tablets frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa",
+    "site-hittite-buyukkale-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "外交条约泥板语料组合。",
+    "en": "Diplomatic treaty tablet corpus frame.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-beckman-treaties-r2",
+    "src-hittite-van-den-hout-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

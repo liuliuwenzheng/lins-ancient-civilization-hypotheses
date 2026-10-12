@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-great-temple-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大神庙建筑复合体为哈图莎上城礼仪核心之一（Seeher 取向）。",
+    "en": "The Great Temple complex is among Hattusa’s upper-city ceremonial cores (Seeher orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-temple-i-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-temple-i-r2",
+    "src-hittite-seeher-deepen-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

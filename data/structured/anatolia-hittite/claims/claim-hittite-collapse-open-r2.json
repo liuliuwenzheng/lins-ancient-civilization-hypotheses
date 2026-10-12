@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-collapse-open-r2",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "晚青铜崩溃中气候、迁移与内部因素权重仍有争议，作假说保留。",
+    "en": "Weights of climate, migration, and internal factors in LBA collapse remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-hittite-lba-collapse-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-sea-peoples-r2",
+    "src-hittite-empire-collapse-orientation"
+  ],
+  "disclaimer": "Collapse causality unsettled. / 崩溃因果未定。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

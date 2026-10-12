@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-musawwarat-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "穆萨瓦拉特大围场为布塔纳礼仪建筑提供独特平面类型。",
+    "en": "Musawwarat Great Enclosure supplies a distinctive plan type for Butana ceremonial architecture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-musawwarat-es-sufra"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-musawwarat-r2",
+    "src-nubia-musawwarat-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

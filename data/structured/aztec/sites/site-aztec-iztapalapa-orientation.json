@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-iztapalapa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "伊斯塔帕拉帕堤道（指针）",
+    "en": "Iztapalapa causeway (orientation)",
+    "native": null
+  },
+  "kind_note": "Southern lake causeway settlement",
+  "region": "Mexico City",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "南湖堤道聚落指针。",
+    "en": "Southern lake-causeway settlement orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-iztapalapa-r2",
+    "src-aztec-calnek-urban-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

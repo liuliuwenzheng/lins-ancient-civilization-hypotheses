@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-eshkaft-salman-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "埃什卡夫特萨勒曼（指针）",
+    "en": "Eshkaft-e Salman (orientation)",
+    "native": null
+  },
+  "kind_note": "Elamite rock-relief / inscription locus",
+  "region": "Izeh, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "岩刻铭文点指针。",
+    "en": "Rock-relief/inscription locus orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-rock-relief-r2",
+    "src-elam-vallat-epigraphy-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

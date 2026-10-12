@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-alaca-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿拉贾王墓组合为早期青铜礼仪精英提供物质参照（早于帝国）。",
+    "en": "Alaca royal-tomb assemblages supply Early Bronze ceremonial-elite material referents (pre-imperial).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-alacahoyuk"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-alaca-tombs-r2",
+    "src-hittite-alaca-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

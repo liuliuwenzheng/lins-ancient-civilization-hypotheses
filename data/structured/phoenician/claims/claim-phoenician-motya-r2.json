@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-motya-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "莫蒂亚岛城与托菲特为西西里腓尼基—布匿案例（发掘取向）。",
+    "en": "Motya island city and tophet form a Sicilian Phoenician–Punic case (excavation orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-motya-sicily"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-motya-whitaker-r2",
+    "src-phoenician-tophet-debate-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

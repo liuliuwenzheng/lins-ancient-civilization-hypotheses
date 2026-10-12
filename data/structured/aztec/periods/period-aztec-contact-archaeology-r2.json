@@ -1,0 +1,36 @@
+{
+  "id": "period-aztec-contact-archaeology-r2",
+  "entity": "period",
+  "names": {
+    "zh": "接触期考古讨论窗",
+    "en": "Contact-period archaeology discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "time": {
+    "label": "Spanish-contact decades archaeological/ethnohistoric cross-reads",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Spanish-contact decades archaeological/ethnohistoric cross-reads"
+  },
+  "summary": {
+    "zh": "接触期考古—民族史交叉讨论。",
+    "en": "Contact-period archaeology–ethnohistory cross-reads.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-contact-period-r2",
+    "src-aztec-sahagun-florentine-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

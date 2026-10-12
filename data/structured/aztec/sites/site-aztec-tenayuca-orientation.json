@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-tenayuca-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "特纳尤卡（指针）",
+    "en": "Tenayuca (orientation)",
+    "native": null
+  },
+  "kind_note": "Double-stair pyramid centre",
+  "region": "Tlalnepantla, Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "双阶金字塔中心指针。",
+    "en": "Double-stair pyramid centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-tenayuca-r2",
+    "src-aztec-smith-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

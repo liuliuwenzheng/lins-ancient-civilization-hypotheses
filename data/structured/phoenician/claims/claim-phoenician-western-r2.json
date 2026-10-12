@@ -1,0 +1,33 @@
+{
+  "id": "claim-phoenician-western-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "西地中海殖民考古将撒丁、西西里与北非节点纳入贸易网络（Bondì / Aubet）。",
+    "en": "Western Mediterranean colonial archaeology folds Sardinian, Sicilian, and North African nodes into trade networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-sulcis-orientation",
+    "site-phoenician-tharos-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-bondi-west-r2",
+    "src-phoenician-aubet-deepen-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

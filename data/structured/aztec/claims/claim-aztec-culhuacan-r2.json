@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-culhuacan-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "库尔瓦坎被讨论为早期墨西加政治谱系中的关键关系中心。",
+    "en": "Culhuacan is discussed as a key relational centre in early Mexica political genealogy.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-culhuacan-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-culhuacan-r2",
+    "src-aztec-early-postclassic-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

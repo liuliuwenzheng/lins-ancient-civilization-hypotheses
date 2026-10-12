@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-rock-reliefs-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "伊泽岩刻群展示埃兰礼仪图像与王室奉献传统（Álvarez-Mon）。",
+    "en": "Izeh rock-relief groups exhibit Elamite ceremonial imagery and royal dedication traditions (Álvarez-Mon).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-kul-e-farah-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-rock-relief-r2",
+    "src-elam-alvarez-mon-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

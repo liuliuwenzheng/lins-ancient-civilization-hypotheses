@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-tabo-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "塔博（指针）",
+    "en": "Tabo (orientation)",
+    "native": null
+  },
+  "kind_note": "Napatan/Meroitic island temple centre",
+  "region": "Nile, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "纳帕塔/麦罗埃岛庙指针。",
+    "en": "Napatan/Meroitic island-temple orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-welsby-kingdom-r2",
+    "src-nubia-torok-napatan-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-susa-ville-royale-r2",
+  "entity": "site",
+  "names": {
+    "zh": "苏萨王家城加深",
+    "en": "Susa Ville Royale deepen",
+    "native": null
+  },
+  "kind_note": "Susa royal city excavation sector",
+  "region": "Susa, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "苏萨王家城区扇区加深。",
+    "en": "Susa royal-city excavation sector deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-steve-gasche-r2",
+    "src-elam-unesco-susa-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

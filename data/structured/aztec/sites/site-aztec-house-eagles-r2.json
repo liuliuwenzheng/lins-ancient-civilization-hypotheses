@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-house-eagles-r2",
+  "entity": "site",
+  "names": {
+    "zh": "鹰武士之家加深",
+    "en": "House of Eagles deepen",
+    "native": null
+  },
+  "kind_note": "Elite military order building orientation",
+  "region": "Templo Mayor precinct",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "精英军事社团建筑加深。",
+    "en": "Elite military-order building deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-matos-deepen",
+    "src-aztec-hassig-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

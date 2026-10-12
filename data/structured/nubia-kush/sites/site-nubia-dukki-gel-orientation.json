@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-dukki-gel-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "杜基盖尔（指针）",
+    "en": "Dukki Gel (orientation)",
+    "native": null
+  },
+  "kind_note": "Kerma-adjacent ceremonial centre",
+  "region": "Northern Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "科尔玛邻近礼仪中心指针。",
+    "en": "Kerma-adjacent ceremonial centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-bonnet-kerma-r2",
+    "src-nubia-bonnet-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

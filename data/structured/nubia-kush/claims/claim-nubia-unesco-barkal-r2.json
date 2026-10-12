@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-unesco-barkal-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录 1073 将杰贝尔巴卡尔与纳帕塔相关遗址群列为世界遗产。",
+    "en": "UNESCO list 1073 inscribes Gebel Barkal and related Napatan sites as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-jebel-barkal"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-unesco-barkal-r2",
+    "src-nubia-unesco-gebel-barkal-1073"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

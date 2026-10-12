@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-archives-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈图莎档案与书吏文化研究将泥板传统置于帝国行政核心（van den Hout）。",
+    "en": "Hattusa archive and scribal-culture research places tablet traditions at the core of imperial administration (van den Hout).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-van-den-hout-r2",
+    "src-hittite-seeher-deepen-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-lepcis-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "大莱普提斯（指针）",
+    "en": "Lepcis Magna Phoenician horizon (orientation)",
+    "native": null
+  },
+  "kind_note": "North African Phoenician/Punic foundation horizon",
+  "region": "Libya",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "北非腓尼基/布匿建城地平指针。",
+    "en": "N. African Phoenician/Punic foundation orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-bondi-west-r2",
+    "src-phoenician-aubet-deepen-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

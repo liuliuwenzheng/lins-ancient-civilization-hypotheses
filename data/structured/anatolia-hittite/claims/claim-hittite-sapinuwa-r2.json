@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-sapinuwa-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "萨皮努瓦档案表明存在多都城/行省行政节点（Ortaköy 发掘取向）。",
+    "en": "Šapinuwa archives indicate multi-capital/provincial administrative nodes (Ortaköy excavation orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-sapinuwa-ortakoy"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-sapinuwa-archive-r2",
+    "src-hittite-kuloglu-or-ortakoy-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

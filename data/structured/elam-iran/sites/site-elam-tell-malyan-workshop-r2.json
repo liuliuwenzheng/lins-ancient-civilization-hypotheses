@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-tell-malyan-workshop-r2",
+  "entity": "site",
+  "names": {
+    "zh": "马尔扬作坊区（指针）",
+    "en": "Malyan workshop sector (orientation)",
+    "native": null
+  },
+  "kind_note": "Anshan craft/administrative sector",
+  "region": "Fars, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "安善手工业/行政扇区指针。",
+    "en": "Anshan craft/admin sector orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-malyan-sumner-r2",
+    "src-elam-proto-elamite-desset-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

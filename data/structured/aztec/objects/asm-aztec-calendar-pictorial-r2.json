@@ -1,0 +1,41 @@
+{
+  "id": "asm-aztec-calendar-pictorial-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "历法图像组合",
+    "en": "Calendar pictorial frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "托纳尔波瓦利/图像历法组合。",
+    "en": "Tonalpohualli/pictorial calendar frame.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-umbrella-calendar-r2",
+    "src-aztec-codex-borbonicus-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-23"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-23). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
