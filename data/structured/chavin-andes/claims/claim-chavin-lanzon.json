@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-lanzon",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "兰宗廊道石像是查文内部礼仪景观的核心雕塑（Rick；图像学取向）。",
+    "en": "The Lanzón gallery sculpture is a core monument of Chavín’s interior ritual landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-lanzon-gallery-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-lanzon-iconography",
+    "src-chavin-rick-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

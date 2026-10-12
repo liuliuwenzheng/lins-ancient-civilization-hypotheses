@@ -1,0 +1,36 @@
+{
+  "id": "period-mitanni-hittite-wars",
+  "entity": "period",
+  "names": {
+    "zh": "赫梯战争互动窗",
+    "en": "Hittite wars interaction window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "Suppiluliuma–Mitanni conflict horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Suppiluliuma–Mitanni conflict horizon"
+  },
+  "summary": {
+    "zh": "苏皮卢利乌马—米坦尼冲突地平。",
+    "en": "Suppiluliuma–Mitanni conflict horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-bryce-deepen",
+    "src-mitanni-beckman-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

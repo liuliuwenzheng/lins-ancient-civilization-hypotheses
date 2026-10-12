@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-teouma-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "特乌马加深",
+    "en": "Teouma deepen",
+    "native": null
+  },
+  "kind_note": "Cemetery/settlement deepen",
+  "region": "Efate, Vanuatu",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "墓地/聚落加深。",
+    "en": "Cemetery/settlement deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-bedford-deepen",
+    "src-lapita-teouma-antiquity"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

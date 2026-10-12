@@ -1,0 +1,122 @@
+{
+  "decision": "D-2026-10-12-25",
+  "pass": "seed-batch-d",
+  "date": "2026-10-12",
+  "status_kept": "library-seed-rich",
+  "packs": [
+    {
+      "pack": "nok-west-africa",
+      "before": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "after": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "coords_filled": []
+    },
+    {
+      "pack": "lapita-pacific",
+      "before": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "after": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 5
+      },
+      "coords_filled": []
+    },
+    {
+      "pack": "chavin-andes",
+      "before": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "after": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "coords_filled": []
+    },
+    {
+      "pack": "tiwanaku",
+      "before": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "after": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 25,
+        "media": 5
+      },
+      "coords_filled": []
+    },
+    {
+      "pack": "mitanni",
+      "before": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 1
+      },
+      "after": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 4
+      },
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 75,
+    "sites": 40,
+    "periods": 20,
+    "objects": 20,
+    "claims": 74,
+    "media": 15
+  },
+  "coords_filled": [],
+  "tooling": [
+    "tools/hot_densify/densify_seed_batch_d.py",
+    "tools/hot_densify/payloads_seed_batch_d.py"
+  ],
+  "notes": "No new coords this pass (orientation sites left null; prior UNESCO fills on Chavín/Tiwanaku retained). Claim ID collisions with seed IDs topped up for chavin/tiwanaku/mitanni."
+}

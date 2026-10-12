@@ -1,0 +1,44 @@
+{
+  "id": "asm-lapita-teouma-cemetery-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特乌马墓地加深",
+    "en": "Teouma cemetery deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-teouma-deepen",
+    "site-teouma"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "早期墓地生物考古组合加深。",
+    "en": "Early cemetery bioarchaeology deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-bedford-deepen",
+    "src-lapita-teouma-antiquity"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -11,29 +11,53 @@
   "region": "Southwest Asia / Upper Mesopotamia and northern Syria (Khabur–Balikh; contacts with Anatolia and Levant)",
   "time_span": "Late Bronze Age Mitanni kingdom floruit ca. 15th–13th c. BCE (Wilhelm / Bryce frames)",
   "summary": {
-    "zh": "米坦尼档案（library-seed-rich）：Wilhelm/Bryce/Amarna + 上美索不达米亚胡里安语境遗址；仍非埃及级密度。",
-    "en": "Mitanni archive (library-seed-rich): Wilhelm/Bryce/Amarna + Upper Mesopotamian Hurrian-context sites; not yet Egypt-level density."
+    "zh": "米坦尼档案加厚（种子 Batch D）：阿马尔奈外交、努济泥板、上哈布尔与马术传统；仍标 library-seed-rich。",
+    "en": "Mitanni densified (seed Batch D): Amarna diplomacy, Nuzi tablets, Upper Khabur and horse-training tradition; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-mitanni-alalakh-deepen",
     "src-mitanni-alalakh-orientation",
+    "src-mitanni-amarna-deepen",
     "src-mitanni-amarna-letters-orientation",
+    "src-mitanni-assyrian-pressure-deepen",
+    "src-mitanni-beckman-deepen",
     "src-mitanni-beckman-diplomatic-texts",
+    "src-mitanni-bryce-deepen",
     "src-mitanni-bryce-kingdom-hittites",
     "src-mitanni-cancik-kirschbaum",
+    "src-mitanni-fekheriye-deepen",
+    "src-mitanni-glyptic-deepen",
+    "src-mitanni-kikkuli-deepen",
     "src-mitanni-kikkuli-orientation",
+    "src-mitanni-nuzi-deepen",
     "src-mitanni-nuzi-orientation",
     "src-mitanni-orphaned-amarna",
+    "src-mitanni-pleiades-deepen",
     "src-mitanni-pleiades-nuzi",
+    "src-mitanni-saustatar-deepen",
     "src-mitanni-saustatar-orientation",
     "src-mitanni-stein-glyptic",
+    "src-mitanni-tell-brak-deepen",
     "src-mitanni-tell-brak-orientation",
+    "src-mitanni-von-dassow-deepen",
     "src-mitanni-von-dassow-orientation",
+    "src-mitanni-washukanni-hunt",
+    "src-mitanni-wilhelm-deepen",
     "src-mitanni-wilhelm-hurrians-1989",
     "src-mitanni-wilhelm-ria"
   ],
   "site_ids": [
     "site-alalakh-tell-atchana",
+    "site-mitanni-alalakh-deepen",
+    "site-mitanni-alalakh-palace-orientation",
+    "site-mitanni-fekheriye-deepen",
+    "site-mitanni-nuzi-archive-deepen",
+    "site-mitanni-nuzi-deepen",
+    "site-mitanni-tell-brak-deepen",
+    "site-mitanni-upper-khabur-deepen",
     "site-mitanni-upper-khabur-orientation",
+    "site-mitanni-washukanni-debate",
     "site-mitanni-washukanni-orientation",
     "site-nuzi-archives-sector",
     "site-nuzi-yorghan-tepe",
@@ -42,26 +66,49 @@
   ],
   "period_ids": [
     "period-mitanni-amarna-age",
+    "period-mitanni-amarna-deepen",
+    "period-mitanni-assyrian-collapse",
     "period-mitanni-assyrian-pressure",
     "period-mitanni-formation",
+    "period-mitanni-formation-deepen",
+    "period-mitanni-hittite-wars",
     "period-mitanni-lba"
   ],
   "claim_ids": [
     "claim-mitanni-alalakh",
     "claim-mitanni-amarna",
+    "claim-mitanni-assyrian",
     "claim-mitanni-beckman",
+    "claim-mitanni-beckman-treaties",
     "claim-mitanni-bryce",
+    "claim-mitanni-bryce-hittite-frame",
+    "claim-mitanni-cancik-assyria-edge",
+    "claim-mitanni-fekheriye",
+    "claim-mitanni-formation",
+    "claim-mitanni-glyptic",
+    "claim-mitanni-hittite-wars",
     "claim-mitanni-hurrian-kingdom",
     "claim-mitanni-kikkuli",
     "claim-mitanni-nuzi",
+    "claim-mitanni-orphaned-amarna-corpus",
+    "claim-mitanni-pleiades",
     "claim-mitanni-pleiades-nuzi",
+    "claim-mitanni-saustatar",
+    "claim-mitanni-stein-glyptic-corpus",
     "claim-mitanni-tell-brak",
+    "claim-mitanni-upper-khabur-landscape",
+    "claim-mitanni-von-dassow-social",
     "claim-mitanni-washukanni-open",
-    "claim-mitanni-wilhelm"
+    "claim-mitanni-wilhelm",
+    "claim-mitanni-wilhelm-ria-entry"
   ],
   "object_ids": [
+    "asm-mitanni-amarna-letters-deepen",
     "asm-mitanni-amarna-letters-frame",
     "asm-mitanni-diplomatic-texts-frame",
+    "asm-mitanni-glyptic-common-style",
+    "asm-mitanni-kikkuli-text",
+    "asm-mitanni-nuzi-tablets-deepen",
     "asm-mitanni-nuzi-tablets-frame"
   ],
   "related_ids": [
@@ -73,11 +120,11 @@
   "markdown_path": "data/civilizations/civ-mitanni.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-raised-fields-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "抬升田地景（指针）",
+    "en": "Raised-field landscape (orientation)",
+    "native": null
+  },
+  "kind_note": "Suka kollus agricultural landscape",
+  "region": "Katari/Tiwanaku basin",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "抬升田农业地景指针。",
+    "en": "Raised-field agricultural landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-raised-fields",
+    "src-tiwanaku-kolata-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

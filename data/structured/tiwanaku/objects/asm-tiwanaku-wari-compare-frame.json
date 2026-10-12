@@ -1,0 +1,41 @@
+{
+  "id": "asm-tiwanaku-wari-compare-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦里比较组合",
+    "en": "Wari comparison frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "中地平蒂瓦纳科—瓦里比较。",
+    "en": "Middle Horizon Tiwanaku–Wari comparison.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-wari-compare",
+    "src-tiwanaku-isbell-wari-compare"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

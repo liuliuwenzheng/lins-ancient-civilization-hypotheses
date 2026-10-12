@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-lukurmata",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卢库尔马塔次级中心扩展卡塔里河谷行政—礼仪地理。",
+    "en": "Lukurmata secondary centre extends Katari valley administrative–ceremonial geography.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-lukurmata-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-lukurmata-deepen",
+    "src-tiwanaku-stanish-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

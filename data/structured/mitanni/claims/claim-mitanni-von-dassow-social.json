@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-von-dassow-social",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "von Dassow 等社会史取向讨论将努济档案与米坦尼治下地方社会重新连接。",
+    "en": "von Dassow and related social-history work reconnects the Nuzi archive to local society under Mitanni rule.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-nuzi-archive-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-von-dassow-deepen",
+    "src-mitanni-von-dassow-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

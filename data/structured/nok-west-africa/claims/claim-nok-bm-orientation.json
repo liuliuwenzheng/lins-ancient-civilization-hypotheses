@@ -1,0 +1,30 @@
+{
+  "id": "claim-nok-bm-orientation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大英博物馆等机构页提供陶俑收藏取向入口（T 级；需注意出处伦理）。",
+    "en": "British Museum and related pages supply terracotta collection orientation (tier T; provenance ethics apply).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-british-museum-deepen",
+    "src-nok-looting-ethics"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

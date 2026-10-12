@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-vranich-construction",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Vranich 建筑/施工研究细化普马朋克与核心区石作拼装观察。",
+    "en": "Vranich architecture/construction work refines ashlar-assembly observations at Puma Punku and the core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-pumapunku-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-vranich-deepen",
+    "src-tiwanaku-pumapunku-ashlar"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

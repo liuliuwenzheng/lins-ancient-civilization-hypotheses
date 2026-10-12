@@ -1,0 +1,36 @@
+{
+  "id": "period-tiwanaku-late-formative-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "晚形成期加深窗",
+    "en": "Late Formative deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "Late Formative antecedents to classical Tiwanaku",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late Formative antecedents to classical Tiwanaku"
+  },
+  "summary": {
+    "zh": "经典期之前的晚形成期。",
+    "en": "Late Formative antecedents.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-formative-late",
+    "src-tiwanaku-janusek-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

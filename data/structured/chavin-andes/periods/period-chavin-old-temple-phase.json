@@ -1,0 +1,36 @@
+{
+  "id": "period-chavin-old-temple-phase",
+  "entity": "period",
+  "names": {
+    "zh": "旧庙阶段窗",
+    "en": "Old Temple phase window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "time": {
+    "label": "Old Temple construction/use horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Old Temple construction/use horizon"
+  },
+  "summary": {
+    "zh": "旧庙建造/使用地平。",
+    "en": "Old Temple construction/use horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-old-new-temple",
+    "src-chavin-kembel-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-classical",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "经典期加深窗对应纪念核心繁荣与精细石作。",
+    "en": "Classical deepen window corresponds to ceremonial-core florescence and fine ashlar.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-tiwanaku-classical-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-kolata-deepen",
+    "src-tiwanaku-vranich-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-mitanni-nuzi-tablets-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "努济泥板加深",
+    "en": "Nuzi tablets deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-nuzi-archive-deepen",
+    "site-nuzi-archives-sector"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "社会法律泥板组合加深。",
+    "en": "Social/legal tablet corpus deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-nuzi-deepen",
+    "src-mitanni-nuzi-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

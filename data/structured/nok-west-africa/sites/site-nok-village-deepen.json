@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-village-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "诺克村落类型加深",
+    "en": "Nok village-type deepen",
+    "native": null
+  },
+  "kind_note": "Village settlement type deepen",
+  "region": "Nok type area",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "村落聚落类型加深。",
+    "en": "Village settlement-type deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-breunig-deepen",
+    "src-nok-early-farming"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

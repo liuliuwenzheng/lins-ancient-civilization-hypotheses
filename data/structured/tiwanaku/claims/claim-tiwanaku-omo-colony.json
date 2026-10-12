@@ -1,0 +1,34 @@
+{
+  "id": "claim-tiwanaku-omo-colony",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "莫克瓜谷 Omo 等遗址文献将蒂瓦纳科中地平飞地/殖民地讨论落到可核对发掘脉络。",
+    "en": "Omo and related Moquegua-valley literature anchors Middle Horizon Tiwanaku enclave/colony discussion in excavatable contexts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-omo-deepen"
+  ],
+  "period_ids": [
+    "period-tiwanaku-middle-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-omo-moquegua",
+    "src-tiwanaku-goldstein-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-bourewa-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "布雷瓦加深",
+    "en": "Bourewa deepen",
+    "native": null
+  },
+  "kind_note": "Fiji Lapita deepen",
+  "region": "Viti Levu, Fiji",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "斐济拉皮塔加深。",
+    "en": "Fiji Lapita deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-fiji-deepen",
+    "src-lapita-nunn-environment"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

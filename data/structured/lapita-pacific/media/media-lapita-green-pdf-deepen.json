@@ -1,0 +1,32 @@
+{
+  "id": "media-lapita-green-pdf-deepen",
+  "entity": "media",
+  "title": {
+    "zh": "Green ANU PDF 加深",
+    "en": "Green ANU PDF deepen",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://openresearch-repository.anu.edu.au/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-lapita-green-anu-pdf"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "ANU Open Research",
+    "upstream_url": "https://openresearch-repository.anu.edu.au/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-pochoc-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "波乔克加深",
+    "en": "Pochoc deepen",
+    "native": null
+  },
+  "kind_note": "Related site deepen orientation",
+  "region": "Ancash region",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "相关遗址加深指针。",
+    "en": "Related site deepen orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-contreras-deepen",
+    "src-chavin-burger-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

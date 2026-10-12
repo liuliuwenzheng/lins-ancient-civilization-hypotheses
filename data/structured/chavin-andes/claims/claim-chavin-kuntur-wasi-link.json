@@ -1,0 +1,34 @@
+{
+  "id": "claim-chavin-kuntur-wasi-link",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "孔图尔瓦西等互动圈遗址为查文影响的区域比较提供指针（非等同类型学）。",
+    "en": "Kuntur Wasi and related interaction-sphere sites orient regional comparison of Chavín influence (not typological identity).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-kuntur-wasi-deepen"
+  ],
+  "period_ids": [
+    "period-chavin-early-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-kuntur-wasi-deepen",
+    "src-chavin-early-horizon-interaction"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

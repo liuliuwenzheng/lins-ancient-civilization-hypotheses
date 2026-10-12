@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-eloaua-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "埃洛瓦（指针）",
+    "en": "Eloaua (orientation)",
+    "native": null
+  },
+  "kind_note": "Mussau Lapita site orientation",
+  "region": "Mussau Islands, PNG",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "穆绍拉皮塔遗址指针。",
+    "en": "Mussau Lapita site orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-talepakemalai-deepen",
+    "src-lapita-kirch-talepakemalai"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

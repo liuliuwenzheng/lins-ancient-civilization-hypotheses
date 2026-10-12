@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-kantatallita-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "坎塔塔伊塔（指针）",
+    "en": "Kantatallita (orientation)",
+    "native": null
+  },
+  "kind_note": "Monumental sector orientation",
+  "region": "Tiwanaku",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "纪念建筑扇区指针。",
+    "en": "Monumental sector orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-vranich-deepen",
+    "src-tiwanaku-kolata-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

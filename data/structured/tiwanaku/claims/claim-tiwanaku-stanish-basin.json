@@ -3,28 +3,30 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Stanish 2003 综述的的喀喀盆地复杂社会演化，为蒂瓦纳科提供区域背景。",
-    "en": "Stanish 2003 synthesizes Titicaca-basin complex-society evolution as regional background for Tiwanaku."
+    "zh": "Stanish 盆地综论将蒂瓦纳科置于的的喀喀湖盆聚落与政治经济讨论中。",
+    "en": "Stanish’s basin synthesis situates Tiwanaku in Titicaca settlement and political-economy discussions.",
+    "native": null
   },
   "civilization_ids": [
     "civ-tiwanaku"
   ],
-  "site_ids": [],
-  "period_ids": [
-    "period-tiwanaku-formative-late"
+  "site_ids": [
+    "site-tiwanaku-capital"
   ],
+  "period_ids": [],
   "object_ids": [],
   "sources": [
+    "src-tiwanaku-stanish-deepen",
     "src-tiwanaku-stanish-2003"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

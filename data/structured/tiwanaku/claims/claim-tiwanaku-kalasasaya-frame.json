@@ -1,0 +1,35 @@
+{
+  "id": "claim-tiwanaku-kalasasaya-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卡拉萨萨亚与半地下神庙构成核心礼仪建筑群的标准导读框架。",
+    "en": "Kalasasaya and the Semi-Subterranean Temple form the standard guide frame for the core ceremonial architecture group.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-kalasasaya",
+    "site-tiwanaku-semisubterranean-orientation"
+  ],
+  "period_ids": [
+    "period-tiwanaku-classical-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-unesco-567-deepen",
+    "src-tiwanaku-vranich-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

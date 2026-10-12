@@ -1,0 +1,33 @@
+{
+  "id": "site-mitanni-fekheriye-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "费赫里耶丘加深",
+    "en": "Tell Fekheriye deepen",
+    "native": null
+  },
+  "kind_note": "Capital-region candidate deepen",
+  "region": "Upper Khabur",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "都城候选区加深。",
+    "en": "Capital-region candidate deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-fekheriye-deepen",
+    "src-mitanni-washukanni-hunt"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

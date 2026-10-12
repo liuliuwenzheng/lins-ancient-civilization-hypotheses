@@ -1,0 +1,36 @@
+{
+  "id": "period-mitanni-amarna-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "阿马尔奈时代加深窗",
+    "en": "Amarna-age deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "Tushratta correspondence horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Tushratta correspondence horizon"
+  },
+  "summary": {
+    "zh": "图什拉塔通信地平。",
+    "en": "Tushratta correspondence horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-amarna-deepen",
+    "src-mitanni-beckman-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

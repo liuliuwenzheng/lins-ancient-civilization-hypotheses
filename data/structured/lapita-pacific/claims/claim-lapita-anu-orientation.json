@@ -1,0 +1,30 @@
+{
+  "id": "claim-lapita-anu-orientation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "ANU Terra Australis 等入口提供拉皮塔专论取向（T 级）。",
+    "en": "ANU Terra Australis and related landings supply Lapita monograph orientation (tier T).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-anu-terra-deepen",
+    "src-lapita-anu-terra-australis"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

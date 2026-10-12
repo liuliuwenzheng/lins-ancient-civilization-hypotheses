@@ -1,0 +1,36 @@
+{
+  "id": "period-nok-early-farming-window",
+  "entity": "period",
+  "names": {
+    "zh": "早期农耕讨论窗",
+    "en": "Early farming discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "Early farming/settlement economy debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early farming/settlement economy debates"
+  },
+  "summary": {
+    "zh": "早期农耕与定居经济讨论。",
+    "en": "Early farming/settlement economy debates.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-early-farming",
+    "src-nok-breunig-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

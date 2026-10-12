@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-cancik-assyria-edge",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cancik-Kirschbaum 等亚述边缘文献将米坦尼晚期置于亚述压力叙事中。",
+    "en": "Cancik-Kirschbaum and related Assyrian-frontier literature situate late Mitanni in an Assyrian-pressure narrative.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mitanni-assyrian-pressure"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-cancik-kirschbaum",
+    "src-mitanni-assyrian-pressure-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

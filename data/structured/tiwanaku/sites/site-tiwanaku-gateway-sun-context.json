@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-gateway-sun-context",
+  "entity": "site",
+  "names": {
+    "zh": "太阳门语境（指针）",
+    "en": "Gateway of the Sun context (orientation)",
+    "native": null
+  },
+  "kind_note": "Monolith find/display context",
+  "region": "Kalasasaya area",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "太阳门出土/展示语境指针。",
+    "en": "Gateway find/display context orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-gateway-sun",
+    "src-tiwanaku-unesco-567-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

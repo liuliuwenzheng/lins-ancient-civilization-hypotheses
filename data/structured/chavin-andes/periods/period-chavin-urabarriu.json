@@ -1,0 +1,36 @@
+{
+  "id": "period-chavin-urabarriu",
+  "entity": "period",
+  "names": {
+    "zh": "乌拉巴里乌窗",
+    "en": "Urabarriu window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "time": {
+    "label": "Early ceramic phase debates at Chavín",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early ceramic phase debates at Chavín"
+  },
+  "summary": {
+    "zh": "早期陶器阶段讨论。",
+    "en": "Early ceramic-phase debates.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-janabarriu-ceramics",
+    "src-chavin-burger-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

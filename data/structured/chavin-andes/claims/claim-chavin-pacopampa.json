@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-pacopampa",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帕科潘帕形成期中心扩展查文北向互动地理。",
+    "en": "Pacopampa Formative centre extends Chavín’s northern interaction geography.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-pacopampa-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-pacopampa-deepen",
+    "src-chavin-contreras-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

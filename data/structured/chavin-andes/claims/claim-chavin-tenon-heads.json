@@ -3,8 +3,9 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "查文德万塔尔建筑石雕传统包括榫头头像等要素，见于教科文与综合描述（UNESCO 330；Burger 1992）。",
-    "en": "Chavín de Huántar architectural sculpture tradition includes tenon heads among other elements, as described by UNESCO and syntheses (UNESCO 330; Burger 1992)."
+    "zh": "榫头像程序构成外墙雕塑景观的标志要素。",
+    "en": "Tenon-head programs are signature elements of the exterior sculptural landscape.",
+    "native": null
   },
   "civilization_ids": [
     "civ-chavin"
@@ -13,21 +14,19 @@
     "site-chavin-huantar-type"
   ],
   "period_ids": [],
-  "object_ids": [
-    "asm-chavin-tenon-head-frame"
-  ],
+  "object_ids": [],
   "sources": [
-    "src-chavin-unesco-330",
-    "src-chavin-burger-origins-1992"
+    "src-chavin-tenon-heads-deepen",
+    "src-chavin-burger-deepen"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

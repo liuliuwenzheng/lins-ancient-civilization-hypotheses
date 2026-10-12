@@ -1,0 +1,32 @@
+{
+  "id": "media-lapita-teouma-orientation",
+  "entity": "media",
+  "title": {
+    "zh": "特乌马 Antiquity 取向",
+    "en": "Teouma Antiquity orientation",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.cambridge.org/core/journals/antiquity",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-lapita-teouma-antiquity"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Antiquity",
+    "upstream_url": "https://www.cambridge.org/core/journals/antiquity",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

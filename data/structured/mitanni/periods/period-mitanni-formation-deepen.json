@@ -1,0 +1,36 @@
+{
+  "id": "period-mitanni-formation-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "形成期加深窗",
+    "en": "Formation deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "Early Mitanni political formation debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Mitanni political formation debates"
+  },
+  "summary": {
+    "zh": "早期政治形成讨论。",
+    "en": "Early political formation debates.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-wilhelm-deepen",
+    "src-mitanni-saustatar-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

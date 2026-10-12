@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-fekheriye",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "费赫里耶丘被讨论为瓦舒卡尼候选地之一（未定）。",
+    "en": "Tell Fekheriye is discussed among Washukanni candidate loci (unconfirmed).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-fekheriye-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-fekheriye-deepen",
+    "src-mitanni-washukanni-hunt"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

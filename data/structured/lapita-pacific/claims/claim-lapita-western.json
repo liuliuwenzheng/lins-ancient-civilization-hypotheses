@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-western",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "西拉皮塔扩展窗覆盖新喀里多尼亚与瓦努阿图早期遗址（Sand；Bedford）。",
+    "en": "Western Lapita expansion window covers early New Caledonia and Vanuatu sites (Sand; Bedford).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-lapita-western-expansion"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-sand-deepen",
+    "src-lapita-bedford-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

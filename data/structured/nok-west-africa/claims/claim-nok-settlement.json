@@ -1,0 +1,34 @@
+{
+  "id": "claim-nok-settlement",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "聚落考古强调农耕经济与村落类型（早期农耕窗）。",
+    "en": "Settlement archaeology emphasizes farming economy and village types (early-farming window).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-village-deepen"
+  ],
+  "period_ids": [
+    "period-nok-early-farming-window"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-early-farming",
+    "src-nok-breunig-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

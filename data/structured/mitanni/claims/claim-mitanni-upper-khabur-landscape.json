@@ -1,0 +1,33 @@
+{
+  "id": "claim-mitanni-upper-khabur-landscape",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "上哈布尔景观指针遗址群支撑瓦舒卡尼未定前提下的区域考古讨论。",
+    "en": "Upper Khabur landscape orientation sites support regional archaeology while Washukanni remains unsettled.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-upper-khabur-deepen",
+    "site-mitanni-washukanni-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-tell-brak-deepen",
+    "src-mitanni-fekheriye-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-tiwanaku-decline-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "衰退讨论加深窗",
+    "en": "Decline discussion deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "Decline and climate-stress debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Decline and climate-stress debates"
+  },
+  "summary": {
+    "zh": "衰退与气候压力讨论。",
+    "en": "Decline and climate-stress debates.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-decline-climate",
+    "src-tiwanaku-kolata-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-black-white",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "黑白门雕塑展示双色石材与图像程序的结合。",
+    "en": "Black and White Portal sculpture exhibits combined bichrome stone and iconographic programs.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-black-white-portal-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-rick-deepen",
+    "src-chavin-burger-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

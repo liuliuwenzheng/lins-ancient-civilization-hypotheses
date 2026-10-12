@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-jos-museum-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "乔斯博物馆框架加深",
+    "en": "Jos Museum frame deepen",
+    "native": null
+  },
+  "kind_note": "Museum/collection orientation deepen",
+  "region": "Jos, Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "馆藏/伦理取向加深。",
+    "en": "Collection/ethics orientation deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-british-museum-deepen",
+    "src-nok-looting-ethics"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

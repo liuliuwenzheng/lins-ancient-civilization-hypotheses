@@ -11,31 +11,55 @@
   "region": "West Africa / central Nigeria (Jos Plateau and surrounding regions)",
   "time_span": "Iron Age terracotta-and-iron tradition ca. 1500 BCE–turn of CE (recent chronologies; Fagg discovery tradition)",
   "summary": {
-    "zh": "诺克档案（library-seed-rich）：Frankfurt/JAA 年代学 + 陶俑/铁器传统遗址入口；非洲空白仍薄但可调用。",
-    "en": "Nok archive (library-seed-rich): Frankfurt/JAA chronology + terracotta/iron tradition site entries; Africa gap still thin but callable."
+    "zh": "诺克档案加厚（种子 Batch D）：陶俑、冶铁与乔斯高原遗址群；仍标 library-seed-rich。",
+    "en": "Nok densified (seed Batch D): terracottas, iron smelting and Jos Plateau site cluster; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-nok-anama-deepen",
+    "src-nok-archaeology-mag-deepen",
     "src-nok-archaeology-magazine-feature",
+    "src-nok-breunig-deepen",
     "src-nok-breunig-renn-chronology",
+    "src-nok-british-museum-deepen",
     "src-nok-british-museum-orientation",
+    "src-nok-early-farming",
     "src-nok-fagg-1959-orientation",
+    "src-nok-fagg-deepen",
     "src-nok-fagg-orientation",
+    "src-nok-iron-deepen",
     "src-nok-iron-smelting-orientation",
     "src-nok-jaa-chronology-2016",
+    "src-nok-jaa-deepen",
     "src-nok-jaa-outline-2016",
     "src-nok-jae-outline-recent",
     "src-nok-jemaa-terracotta-tradition",
+    "src-nok-jemkur-deepen",
     "src-nok-jemkur-orientation",
+    "src-nok-katsina-ala-orientation",
+    "src-nok-late-transition",
+    "src-nok-looting-ethics",
     "src-nok-panafrican-iron-context",
+    "src-nok-panafrican-iron-deepen",
+    "src-nok-pankshin-orientation",
     "src-nok-samun-dukiya-orientation",
     "src-nok-taruga-orientation",
+    "src-nok-terracotta-style-deepen",
     "src-nok-terracotta-style-orientation"
   ],
   "site_ids": [
     "site-jemaa-nok",
     "site-jos-museum-frame",
+    "site-nok-anama-deepen",
     "site-nok-anama-orientation",
+    "site-nok-furnace-taruga-orientation",
+    "site-nok-jemaa-findspot-orientation",
+    "site-nok-jos-museum-deepen",
+    "site-nok-katsina-ala-orientation",
+    "site-nok-pankshin-orientation",
+    "site-nok-samun-deepen",
     "site-nok-type-area",
+    "site-nok-village-deepen",
     "site-nok-village-type",
     "site-samun-dukiya",
     "site-taruga-nok"
@@ -43,36 +67,59 @@
   "period_ids": [
     "period-nok-classic-terracotta",
     "period-nok-early",
+    "period-nok-early-farming-window",
+    "period-nok-iron-emergence",
     "period-nok-iron-terracotta",
-    "period-nok-late"
+    "period-nok-late",
+    "period-nok-late-transition-deepen",
+    "period-nok-terracotta-floruit-deepen"
   ],
   "claim_ids": [
+    "claim-nok-anama",
     "claim-nok-archaeology-magazine-public",
+    "claim-nok-bm-orientation",
+    "claim-nok-chronology",
     "claim-nok-early-iron-evidence",
+    "claim-nok-ethics",
+    "claim-nok-floruit",
+    "claim-nok-iron-deepen",
     "claim-nok-jaa-chronology-band",
+    "claim-nok-jaa-outline",
+    "claim-nok-jemaa-head",
     "claim-nok-jemaa-head-locality",
+    "claim-nok-katsina-ala",
+    "claim-nok-late-open",
     "claim-nok-museum-assemblages",
+    "claim-nok-panafrican-iron",
+    "claim-nok-pankshin",
+    "claim-nok-samun",
     "claim-nok-samun-dukiya-excavated",
+    "claim-nok-settlement",
     "claim-nok-state-complexity-hypothesis",
+    "claim-nok-terracotta-deepen",
     "claim-nok-terracotta-iron-tradition",
     "claim-nok-terracotta-sculpture-tradition",
     "claim-nok-type-area-jos-plateau",
     "claim-nok-west-africa-ironization"
   ],
   "object_ids": [
+    "asm-nok-ethics-collections",
+    "asm-nok-iron-furnaces-deepen",
     "asm-nok-iron-smelting-frame",
     "asm-nok-jemaa-head-frame",
-    "asm-nok-terracotta-frame"
+    "asm-nok-settlement-economy",
+    "asm-nok-terracotta-frame",
+    "asm-nok-terracotta-style-deepen"
   ],
   "related_ids": [],
   "markdown_path": "data/civilizations/civ-nok-west-africa.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

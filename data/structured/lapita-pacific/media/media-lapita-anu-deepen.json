@@ -1,0 +1,32 @@
+{
+  "id": "media-lapita-anu-deepen",
+  "entity": "media",
+  "title": {
+    "zh": "ANU Terra Australis 取向",
+    "en": "ANU Terra Australis orientation",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://press.anu.edu.au/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-lapita-anu-terra-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "ANU Press",
+    "upstream_url": "https://press.anu.edu.au/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

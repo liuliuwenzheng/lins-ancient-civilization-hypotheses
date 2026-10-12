@@ -11,58 +11,104 @@
   "region": "South America / Lake Titicaca basin (Bolivia; Peru altiplano contacts)",
   "time_span": "Middle Horizon highland centre floruit broadly mid–late 1st millennium CE (Kolata / Janusek frames)",
   "summary": {
-    "zh": "蒂瓦纳科档案（library-seed-rich）：Kolata/Janusek + 首都与腹地遗址分层；仍非埃及级密度。",
-    "en": "Tiwanaku archive (library-seed-rich): Kolata/Janusek + capital and hinterland sites; not yet Egypt-level density."
+    "zh": "蒂瓦纳科档案加厚（种子 Batch D）：卡拉萨萨亚、普马朋克、中地平扩张与教科文567；仍标 library-seed-rich。",
+    "en": "Tiwanaku densified (seed Batch D): Kalasasaya, Puma Punku, Middle Horizon expansion and UNESCO 567; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-tiwanaku-akupana-deepen",
     "src-tiwanaku-albarracin-jordan-orientation",
     "src-tiwanaku-bandelier-early",
     "src-tiwanaku-bennett-orientation",
     "src-tiwanaku-browman-orientation",
     "src-tiwanaku-couture-orientation",
+    "src-tiwanaku-decline-climate",
+    "src-tiwanaku-formative-late",
+    "src-tiwanaku-gateway-sun",
     "src-tiwanaku-goldstein-orientation",
     "src-tiwanaku-isbell-vranich-orientation",
     "src-tiwanaku-isbell-wari-compare",
     "src-tiwanaku-janusek-2008",
+    "src-tiwanaku-janusek-deepen",
     "src-tiwanaku-kolata-1993",
+    "src-tiwanaku-kolata-deepen",
     "src-tiwanaku-kolata-ed-tiwanaku",
+    "src-tiwanaku-lukurmata-deepen",
+    "src-tiwanaku-omo-moquegua",
+    "src-tiwanaku-pumapunku-ashlar",
+    "src-tiwanaku-raised-fields",
     "src-tiwanaku-stanish-2003",
+    "src-tiwanaku-stanish-deepen",
     "src-tiwanaku-unesco-567",
+    "src-tiwanaku-unesco-567-deepen",
     "src-tiwanaku-unesco-docs",
-    "src-tiwanaku-vranich-architecture"
+    "src-tiwanaku-unesco-docs-deepen",
+    "src-tiwanaku-vranich-architecture",
+    "src-tiwanaku-vranich-deepen",
+    "src-tiwanaku-wari-compare"
   ],
   "site_ids": [
     "site-tiwanaku-akupana",
     "site-tiwanaku-capital",
+    "site-tiwanaku-gateway-sun-context",
     "site-tiwanaku-kalasasaya",
+    "site-tiwanaku-kantatallita-orientation",
     "site-tiwanaku-katari-orientation",
+    "site-tiwanaku-lukurmata-deepen",
     "site-tiwanaku-lukurmata-orientation",
+    "site-tiwanaku-omo-deepen",
     "site-tiwanaku-omo-orientation",
-    "site-tiwanaku-puma-punku"
+    "site-tiwanaku-puma-punku",
+    "site-tiwanaku-pumapunku-deepen",
+    "site-tiwanaku-putuni-orientation",
+    "site-tiwanaku-raised-fields-orientation",
+    "site-tiwanaku-semisubterranean-orientation"
   ],
   "period_ids": [
     "period-tiwanaku-classical",
+    "period-tiwanaku-classical-deepen",
     "period-tiwanaku-decline",
+    "period-tiwanaku-decline-deepen",
+    "period-tiwanaku-expansion-mh",
     "period-tiwanaku-formative-late",
+    "period-tiwanaku-late-formative-deepen",
     "period-tiwanaku-middle-horizon"
   ],
   "claim_ids": [
     "claim-tiwanaku-akupana",
+    "claim-tiwanaku-classical",
     "claim-tiwanaku-compare-wari",
+    "claim-tiwanaku-decline-open",
+    "claim-tiwanaku-expansion",
+    "claim-tiwanaku-formative",
+    "claim-tiwanaku-gateway",
     "claim-tiwanaku-gateway-frame",
     "claim-tiwanaku-hinterland-volumes",
     "claim-tiwanaku-janusek",
+    "claim-tiwanaku-kalasasaya-frame",
     "claim-tiwanaku-kolata",
+    "claim-tiwanaku-kolata-synth",
+    "claim-tiwanaku-lukurmata",
     "claim-tiwanaku-moquegua",
+    "claim-tiwanaku-omo-colony",
     "claim-tiwanaku-pumapunku",
+    "claim-tiwanaku-putuni",
+    "claim-tiwanaku-raised-fields",
+    "claim-tiwanaku-semisubterranean",
     "claim-tiwanaku-stanish-basin",
     "claim-tiwanaku-titicaca-centre",
-    "claim-tiwanaku-unesco"
+    "claim-tiwanaku-unesco",
+    "claim-tiwanaku-vranich-construction",
+    "claim-tiwanaku-wari-compare"
   ],
   "object_ids": [
     "asm-tiwanaku-ashlar-pumapunku-frame",
     "asm-tiwanaku-ceremonial-core-frame",
-    "asm-tiwanaku-gateway-sun-frame"
+    "asm-tiwanaku-gateway-sun-deepen",
+    "asm-tiwanaku-gateway-sun-frame",
+    "asm-tiwanaku-pumapunku-deepen",
+    "asm-tiwanaku-raised-fields-asm",
+    "asm-tiwanaku-wari-compare-frame"
   ],
   "related_ids": [
     "civ-andes",
@@ -72,11 +118,11 @@
   "markdown_path": "data/civilizations/civ-tiwanaku.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

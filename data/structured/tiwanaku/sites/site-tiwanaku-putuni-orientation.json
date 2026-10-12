@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-putuni-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "普图尼（指针）",
+    "en": "Putuni (orientation)",
+    "native": null
+  },
+  "kind_note": "Palace/elite compound orientation",
+  "region": "Tiwanaku",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "宫苑/精英复合体指针。",
+    "en": "Palace/elite compound orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-janusek-deepen",
+    "src-tiwanaku-vranich-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

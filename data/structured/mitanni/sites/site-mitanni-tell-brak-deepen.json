@@ -1,0 +1,33 @@
+{
+  "id": "site-mitanni-tell-brak-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "布拉克丘加深",
+    "en": "Tell Brak deepen",
+    "native": null
+  },
+  "kind_note": "Mitanni-period occupation deepen",
+  "region": "Upper Khabur, Syria",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "米坦尼期占用加深。",
+    "en": "Mitanni-period occupation deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-tell-brak-deepen",
+    "src-mitanni-tell-brak-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

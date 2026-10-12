@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-post-dentate-open",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "齿印陶消失与素面陶兴起的社会含义仍有争议，作假说保留。",
+    "en": "Social meanings of dentate disappearance and plainware rise remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-lapita-post-dentate-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-post-dentate",
+    "src-lapita-summerhayes-deepen"
+  ],
+  "disclaimer": "Post-dentate transition debated. / 后齿印过渡有争议。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

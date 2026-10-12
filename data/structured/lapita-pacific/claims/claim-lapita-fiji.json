@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-fiji",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "布雷瓦等斐济遗址扩展中拉皮塔地理。",
+    "en": "Fiji sites such as Bourewa extend Central Lapita geography.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-bourewa-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-fiji-deepen",
+    "src-lapita-nunn-environment"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

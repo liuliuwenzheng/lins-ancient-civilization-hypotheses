@@ -868,3 +868,15 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-12-25 — Seed densify Batch D toward denser archive
+
+**Decision:** Densify packs `nok-west-africa`, `lapita-pacific`, `chavin-andes`, `tiwanaku`, `mitanni` from ~15-source shells toward the first hot-densify band (~30 sources); **keep `library-seed-rich`** (do not promote to fact-library). Integrity over completeness: no invented pages/finds/media art/coords.
+
+**Approx. per-pack delta:** +15 sources · +8 sites · +4 periods · +4 objects · +15 claims · +2–3 media.
+
+**Coord fills:** none this pass (orientation sites left null; prior UNESCO fills on Chavín/Tiwanaku type sites retained).
+
+**Reports:** [`docs/audits/pass-2026-10-12-seed-batch-d.md`](audits/pass-2026-10-12-seed-batch-d.md) · [中文](audits/pass-2026-10-12-seed-batch-d.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

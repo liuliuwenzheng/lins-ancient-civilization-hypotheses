@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-old-temple-period",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "旧庙阶段窗对应早期神庙建造与使用地平。",
+    "en": "Old Temple phase window corresponds to early temple construction/use horizons.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-chavin-old-temple-phase"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-old-new-temple",
+    "src-chavin-kembel-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

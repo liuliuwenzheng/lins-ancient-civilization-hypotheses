@@ -1,32 +1,32 @@
 {
   "id": "claim-mitanni-washukanni-open",
   "entity": "claim",
-  "kind": "fact",
+  "kind": "hypothesis",
   "statement": {
-    "zh": "Washukanni 都城地望仍有讨论，费赫里耶等为候选取向而非定论（Wilhelm；Bryce）。",
-    "en": "Washukanni's capital location remains debated; Tell Fekheriye and others are candidate orientations, not settled identifications (Wilhelm; Bryce)."
+    "zh": "瓦舒卡尼都城地望仍未确证，作假说/开放问题保留。",
+    "en": "Washukanni’s location remains unconfirmed; retained as open/hypothesis.",
+    "native": null
   },
   "civilization_ids": [
     "civ-mitanni"
   ],
   "site_ids": [
-    "site-mitanni-washukanni-orientation",
-    "site-tell-fekheriye-orientation"
+    "site-mitanni-washukanni-debate"
   ],
   "period_ids": [],
   "object_ids": [],
   "sources": [
-    "src-mitanni-wilhelm-hurrians-1989",
-    "src-mitanni-bryce-kingdom-hittites"
+    "src-mitanni-washukanni-hunt",
+    "src-mitanni-fekheriye-deepen"
   ],
-  "disclaimer": null,
+  "disclaimer": "Capital location unconfirmed. / 都城地望未确证。",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

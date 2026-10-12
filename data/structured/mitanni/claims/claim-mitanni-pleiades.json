@@ -1,0 +1,30 @@
+{
+  "id": "claim-mitanni-pleiades",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pleiades 等地名词典为相关遗址坐标提供可核对入口（T 级；新址坐标仍空）。",
+    "en": "Pleiades and related gazetteers supply verifiable coordinate entry points (tier T; new sites left null).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-pleiades-deepen",
+    "src-mitanni-pleiades-nuzi"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

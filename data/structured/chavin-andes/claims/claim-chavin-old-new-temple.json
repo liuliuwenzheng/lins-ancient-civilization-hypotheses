@@ -1,0 +1,34 @@
+{
+  "id": "claim-chavin-old-new-temple",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "旧庙—新庙序列重建神庙生长与改建史（Kembel / Rick）。",
+    "en": "Old–New Temple sequences reconstruct temple growth and remodeling history (Kembel / Rick).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-new-temple-orientation"
+  ],
+  "period_ids": [
+    "period-chavin-new-temple-phase"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-old-new-temple",
+    "src-chavin-kembel-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

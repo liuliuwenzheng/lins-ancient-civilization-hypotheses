@@ -1,0 +1,43 @@
+{
+  "id": "asm-chavin-tenon-heads-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "榫头像加深组合",
+    "en": "Tenon heads deepen frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "外墙榫头像程序加深。",
+    "en": "Exterior tenon-head program deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-tenon-heads-deepen",
+    "src-chavin-burger-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

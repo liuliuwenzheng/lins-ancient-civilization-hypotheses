@@ -11,68 +11,115 @@
   "region": "Oceania / Bismarck Archipelago to Remote Oceania (Vanuatu, Fiji, Tonga, Samoa)",
   "time_span": "ca. 3300–2700 BP dentate-stamped pottery dispersal (Kirch / Green research tradition)",
   "summary": {
-    "zh": "拉皮塔档案（library-seed-rich）：Kirch/Green + 近/远大洋洲关键遗址与齿印陶扩散窗；仍加厚中。",
-    "en": "Lapita archive (library-seed-rich): Kirch/Green + Near/Remote Oceania keystone sites and dentate pottery dispersal windows; still thickening."
+    "zh": "拉皮塔档案加厚（种子 Batch D）：齿印陶、近大洋洲—远大洋洲扩散与特乌马墓地；仍标 library-seed-rich。",
+    "en": "Lapita densified (seed Batch D): dentate pottery, Near–Remote Oceania dispersal and Teouma cemetery; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
     "src-lapita-anu-terra-australis",
+    "src-lapita-anu-terra-deepen",
+    "src-lapita-bedford-deepen",
     "src-lapita-bedford-vanuatu",
     "src-lapita-dating-appearance-orientation",
+    "src-lapita-dating-deepen",
+    "src-lapita-dentate-design-deepen",
+    "src-lapita-fiji-deepen",
     "src-lapita-green-anu-pdf",
+    "src-lapita-green-deepen",
     "src-lapita-green-definition",
     "src-lapita-green-retrospective",
+    "src-lapita-kirch-deepen",
     "src-lapita-kirch-on-the-road",
     "src-lapita-kirch-peoples-1997",
     "src-lapita-kirch-talepakemalai",
+    "src-lapita-nukuleka-deepen",
     "src-lapita-nunn-environment",
+    "src-lapita-obsidian-exchange",
+    "src-lapita-post-dentate",
+    "src-lapita-remote-first",
+    "src-lapita-sand-deepen",
     "src-lapita-sand-western-lapita",
+    "src-lapita-sheppard-deepen",
     "src-lapita-sheppard-orientation",
+    "src-lapita-summerhayes-deepen",
     "src-lapita-summerhayes-orientation",
+    "src-lapita-talepakemalai-deepen",
     "src-lapita-teinturier-or-fiji-orientation",
     "src-lapita-teouma-antiquity"
   ],
   "site_ids": [
     "site-bismarck-early-lapita-frame",
     "site-bourewa-or-fiji-frame",
+    "site-lapita-arafura-or-arawe-orientation",
+    "site-lapita-bourewa-deepen",
+    "site-lapita-eloaua-orientation",
+    "site-lapita-kone-orientation",
     "site-lapita-new-caledonia-type",
+    "site-lapita-nukuleka-deepen",
+    "site-lapita-reef-santa-cruz-deepen",
+    "site-lapita-teouma-deepen",
+    "site-lapita-watom-orientation",
     "site-nukuleka-orientation",
     "site-reef-santa-cruz-orientation",
     "site-talepakemalai",
     "site-teouma"
   ],
   "period_ids": [
+    "period-lapita-bismarck-early",
     "period-lapita-dispersal",
     "period-lapita-near-oceania",
     "period-lapita-post-dentate",
-    "period-lapita-remote-oceania"
+    "period-lapita-post-dentate-deepen",
+    "period-lapita-remote-colonization",
+    "period-lapita-remote-oceania",
+    "period-lapita-western-expansion"
   ],
   "claim_ids": [
+    "claim-lapita-anu-orientation",
+    "claim-lapita-bismarck-early",
     "claim-lapita-bismarck-origins",
+    "claim-lapita-dating",
+    "claim-lapita-dentate-deepen",
     "claim-lapita-dentate-definition",
     "claim-lapita-dentate-pacific-dispersal",
+    "claim-lapita-dispersal",
     "claim-lapita-environmental-context",
+    "claim-lapita-fiji",
+    "claim-lapita-green-definition",
     "claim-lapita-green-retrospective-oa",
     "claim-lapita-new-caledonia-type-name",
+    "claim-lapita-nukuleka",
+    "claim-lapita-obsidian",
     "claim-lapita-oceanic-ancestors-frame",
+    "claim-lapita-post-dentate-open",
+    "claim-lapita-reef-sc",
     "claim-lapita-remote-oceania-dispersal",
     "claim-lapita-single-migration-hypothesis",
+    "claim-lapita-talepakemalai",
     "claim-lapita-talepakemalai-near-oceania",
-    "claim-lapita-teouma-cemetery"
+    "claim-lapita-teouma",
+    "claim-lapita-teouma-cemetery",
+    "claim-lapita-watom",
+    "claim-lapita-western"
   ],
   "object_ids": [
+    "asm-lapita-dentate-design-deepen",
     "asm-lapita-dentate-design-frame",
     "asm-lapita-dentate-pottery-frame",
+    "asm-lapita-obsidian-exchange",
+    "asm-lapita-plainware-transition",
+    "asm-lapita-teouma-cemetery-deepen",
     "asm-lapita-teouma-cemetery-frame"
   ],
   "related_ids": [],
   "markdown_path": "data/civilizations/civ-lapita-pacific.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

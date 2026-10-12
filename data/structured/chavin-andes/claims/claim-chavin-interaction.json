@@ -1,0 +1,33 @@
+{
+  "id": "claim-chavin-interaction",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期地平互动圈将查文与孔图尔瓦西、帕科潘帕等中心相联系（Burger；Contreras）。",
+    "en": "Early Horizon interaction spheres link Chavín with centres such as Kuntur Wasi and Pacopampa.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-kuntur-wasi-deepen",
+    "site-chavin-pacopampa-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-early-horizon-interaction",
+    "src-chavin-contreras-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

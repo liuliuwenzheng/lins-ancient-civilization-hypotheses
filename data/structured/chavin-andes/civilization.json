@@ -11,58 +11,105 @@
   "region": "South America / north-central Peruvian Andes (Ancash; Mosna–Huachecsa)",
   "time_span": "Early Horizon ceremonial florescence ca. 1000–400 BCE (Burger / UNESCO site frame)",
   "summary": {
-    "zh": "查文档案（library-seed-rich）：Burger/Rick + 查文德万塔尔与互动圈遗址分层；仍非埃及级密度。",
-    "en": "Chavín archive (library-seed-rich): Burger/Rick + Chavín de Huántar and interaction-sphere sites; not yet Egypt-level density."
+    "zh": "查文档案加厚（种子 Batch D）：旧庙—新庙、兰宗石像、互动圈与教科文330；仍标 library-seed-rich。",
+    "en": "Chavín densified (seed Batch D): Old–New Temple, Lanzón, interaction sphere and UNESCO 330; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-chavin-burger-deepen",
     "src-chavin-burger-origins-1992",
     "src-chavin-burger-salazar-orientation",
     "src-chavin-burger-ucp-1984",
+    "src-chavin-circular-plaza-deepen",
     "src-chavin-contreras-2010",
+    "src-chavin-contreras-deepen",
+    "src-chavin-early-horizon-interaction",
+    "src-chavin-epigonal-transition",
     "src-chavin-ikehara-orientation",
+    "src-chavin-janabarriu-ceramics",
+    "src-chavin-kembel-deepen",
     "src-chavin-kembel-rick-orientation",
+    "src-chavin-kuntur-wasi-deepen",
+    "src-chavin-lanzon-iconography",
     "src-chavin-lathrap-1971",
     "src-chavin-mesia-monteverde-orientation",
     "src-chavin-miller-burger-orientation",
     "src-chavin-nesbitt-burger-2023",
+    "src-chavin-old-new-temple",
+    "src-chavin-pacopampa-deepen",
     "src-chavin-pozo-excavation-orientation",
+    "src-chavin-rick-deepen",
     "src-chavin-rick-stanford-orientation",
+    "src-chavin-stanford-portal",
+    "src-chavin-tenon-heads-deepen",
     "src-chavin-unesco-330",
+    "src-chavin-unesco-330-deepen",
     "src-chavin-unesco-media-landing",
     "src-chavin-weismantel-orientation"
   ],
   "site_ids": [
+    "site-chavin-black-white-portal-orientation",
     "site-chavin-circular-plaza",
+    "site-chavin-circular-plaza-deepen",
+    "site-chavin-gallery-labyrinth-orientation",
     "site-chavin-huantar-type",
     "site-chavin-interaction-orientation",
+    "site-chavin-kuntur-wasi-deepen",
     "site-chavin-kuntur-wasi-orientation",
+    "site-chavin-lanzon-gallery-orientation",
+    "site-chavin-new-temple-orientation",
     "site-chavin-old-temple-orientation",
+    "site-chavin-pacopampa-deepen",
     "site-chavin-pacopampa-orientation",
+    "site-chavin-pochoc-deepen",
     "site-chavin-pochoc-orientation"
   ],
   "period_ids": [
     "period-chavin-early-horizon",
     "period-chavin-epigonal",
+    "period-chavin-epigonal-deepen",
     "period-chavin-janabarriu",
-    "period-chavin-late-initial"
+    "period-chavin-late-initial",
+    "period-chavin-new-temple-phase",
+    "period-chavin-old-temple-phase",
+    "period-chavin-urabarriu"
   ],
   "claim_ids": [
+    "claim-chavin-black-white",
+    "claim-chavin-burger-synth",
     "claim-chavin-burger-synthesis",
     "claim-chavin-ceremonial-centre-frame",
+    "claim-chavin-circular-plaza",
     "claim-chavin-comparative-formative",
+    "claim-chavin-epigonal-open",
     "claim-chavin-excavation-monograph",
+    "claim-chavin-galleries",
+    "claim-chavin-interaction",
+    "claim-chavin-janabarriu",
     "claim-chavin-janabarriu-label",
     "claim-chavin-kembel-architecture",
+    "claim-chavin-kuntur-wasi-link",
+    "claim-chavin-lanzon",
     "claim-chavin-lanzon-frame",
     "claim-chavin-nesbitt-reconsider",
+    "claim-chavin-old-new-temple",
+    "claim-chavin-old-temple-period",
+    "claim-chavin-pacopampa",
     "claim-chavin-rick-program",
+    "claim-chavin-stanford-portal",
     "claim-chavin-tenon-heads",
-    "claim-chavin-unesco-listed"
+    "claim-chavin-unesco",
+    "claim-chavin-unesco-listed",
+    "claim-chavin-urabarriu"
   ],
   "object_ids": [
+    "asm-chavin-circular-plaza-asm",
+    "asm-chavin-interaction-sphere",
+    "asm-chavin-lanzon-deepen",
     "asm-chavin-lanzon-gallery-frame",
     "asm-chavin-lithic-sculpture-frame",
-    "asm-chavin-tenon-head-frame"
+    "asm-chavin-tenon-head-frame",
+    "asm-chavin-tenon-heads-deepen"
   ],
   "related_ids": [
     "civ-andes",
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-chavin.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

@@ -3,28 +3,30 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "泰勒布拉克晚青铜层为上哈布尔胡里安/米坦尼语境提供田野取向（Oates 传统）。",
-    "en": "Tell Brak LBA levels provide field orientation for Upper Khabur Hurrian/Mitanni contexts (Oates tradition)."
+    "zh": "布拉克丘米坦尼期占用扩展上哈布尔核心考古。",
+    "en": "Tell Brak Mitanni-period occupation extends Upper Khabur heartland archaeology.",
+    "native": null
   },
   "civilization_ids": [
     "civ-mitanni"
   ],
   "site_ids": [
-    "site-tell-brak-mitanni"
+    "site-mitanni-tell-brak-deepen"
   ],
   "period_ids": [],
   "object_ids": [],
   "sources": [
+    "src-mitanni-tell-brak-deepen",
     "src-mitanni-tell-brak-orientation"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

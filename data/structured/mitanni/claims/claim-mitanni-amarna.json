@@ -3,31 +3,30 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "阿马尔奈书信语料保存米坦尼与埃及等大国的外交通信（书信传统；Liverani/Moran 取向）。",
-    "en": "The Amarna letter corpus preserves Mitanni diplomatic correspondence with Egypt and other powers (letter tradition; Liverani/Moran orientation)."
+    "zh": "阿马尔奈书信中的图什拉塔通信是重建米坦尼外交的核心文献（书信语料）。",
+    "en": "Tushratta correspondence in the Amarna letters is core documentation for Mitanni diplomacy.",
+    "native": null
   },
   "civilization_ids": [
     "civ-mitanni"
   ],
   "site_ids": [],
   "period_ids": [
-    "period-mitanni-amarna-age"
+    "period-mitanni-amarna-deepen"
   ],
-  "object_ids": [
-    "asm-mitanni-amarna-letters-frame"
-  ],
+  "object_ids": [],
   "sources": [
-    "src-mitanni-amarna-letters-orientation",
+    "src-mitanni-amarna-deepen",
     "src-mitanni-orphaned-amarna"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

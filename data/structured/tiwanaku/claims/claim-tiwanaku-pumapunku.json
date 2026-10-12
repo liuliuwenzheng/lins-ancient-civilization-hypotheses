@@ -3,29 +3,30 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "普马蓬库以精琢石工建筑群著称，见于教科文与建筑研究取向（UNESCO 567；Vranich）。",
-    "en": "Pumapunku is noted for ashlar monumental architecture in UNESCO and architectural studies (UNESCO 567; Vranich)."
+    "zh": "普马朋克精细石作展示高水平切割与装配技术（Vranich 取向）。",
+    "en": "Puma Punku ashlar exhibits high-precision cutting and fitting technology (Vranich orientation).",
+    "native": null
   },
   "civilization_ids": [
     "civ-tiwanaku"
   ],
   "site_ids": [
-    "site-tiwanaku-puma-punku"
+    "site-tiwanaku-pumapunku-deepen"
   ],
   "period_ids": [],
   "object_ids": [],
   "sources": [
-    "src-tiwanaku-unesco-567",
-    "src-tiwanaku-vranich-architecture"
+    "src-tiwanaku-pumapunku-ashlar",
+    "src-tiwanaku-vranich-deepen"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

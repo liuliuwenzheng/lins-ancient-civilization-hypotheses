@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录330将查文·德万塔尔列为安第斯早期礼仪中心世界遗产。",
+    "en": "UNESCO list 330 inscribes Chavín de Huántar as a World Heritage early Andean ceremonial centre.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-unesco-330-deepen",
+    "src-chavin-unesco-330"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

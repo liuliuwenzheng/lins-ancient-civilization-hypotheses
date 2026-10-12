@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-ethics",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "盗掘与馆藏伦理文献强调陶俑流通需可追溯出处（伦理取向）。",
+    "en": "Looting and collection-ethics literature stresses traceable provenance for terracotta circulation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-jos-museum-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-looting-ethics",
+    "src-nok-british-museum-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

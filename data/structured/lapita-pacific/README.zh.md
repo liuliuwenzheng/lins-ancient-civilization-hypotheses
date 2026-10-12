@@ -2,17 +2,6 @@
 
 [English](README.md) | 中文
 
-`civ-lapita-pacific` 的只读档案实体。
+**状态：** `library-seed-rich`（种子加厚 Batch D，D-2026-10-12-25）。朝向更密 library-seed-rich，非 fact-library。
 
-**状态：** `library-seed-rich`（第一波加厚，D-2026-10-12-13）。朝可调用密度推进，非 fact-library。
-
-| 实体 | 数量 |
-|------|-----:|
-| sources | 15 |
-| sites | 7 |
-| periods | 4 |
-| objects | 3 |
-| claims | 11 |
-| media | 2 |
-
-编辑稿：`data/civilizations/civ-lapita-pacific.md`。
+计数：来源 30 · 遗址 15 · 时段 8 · 对象 7 · 主张 26 · 媒体 5

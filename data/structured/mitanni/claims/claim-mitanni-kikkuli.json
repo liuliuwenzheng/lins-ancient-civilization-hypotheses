@@ -3,8 +3,9 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "基库利训马文本经赫梯档案保存，常与米坦尼技术传统并提（文本 P 取向）。",
-    "en": "The Kikkuli horse-training text survives via Hittite archives and is often linked to Mitanni technical traditions (textual P orientation)."
+    "zh": "基库利马术文本传统将米坦尼与马政技术知识相联系。",
+    "en": "The Kikkuli horse-training text tradition links Mitanni to equine technical knowledge.",
+    "native": null
   },
   "civilization_ids": [
     "civ-mitanni"
@@ -13,16 +14,17 @@
   "period_ids": [],
   "object_ids": [],
   "sources": [
-    "src-mitanni-kikkuli-orientation"
+    "src-mitanni-kikkuli-deepen",
+    "src-mitanni-wilhelm-deepen"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

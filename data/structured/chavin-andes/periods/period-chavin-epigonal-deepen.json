@@ -1,0 +1,36 @@
+{
+  "id": "period-chavin-epigonal-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "后查文过渡加深窗",
+    "en": "Epigonal transition deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "time": {
+    "label": "Epigonal / post-Chavín debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Epigonal / post-Chavín debates"
+  },
+  "summary": {
+    "zh": "后查文过渡讨论。",
+    "en": "Epigonal / post-Chavín debates.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-epigonal-transition",
+    "src-chavin-burger-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

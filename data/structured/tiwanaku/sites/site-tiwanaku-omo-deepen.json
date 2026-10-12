@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-omo-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "奥莫/莫克瓜加深",
+    "en": "Omo / Moquegua deepen",
+    "native": null
+  },
+  "kind_note": "Pacific-slope colony deepen",
+  "region": "Moquegua, Peru",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "太平洋坡殖民点加深。",
+    "en": "Pacific-slope colony deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-omo-moquegua",
+    "src-tiwanaku-goldstein-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

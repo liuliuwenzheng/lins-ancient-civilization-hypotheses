@@ -1,0 +1,44 @@
+{
+  "id": "asm-tiwanaku-pumapunku-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "普马朋克石作加深",
+    "en": "Puma Punku ashlar deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-pumapunku-deepen",
+    "site-tiwanaku-puma-punku"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "精细石作技术加深。",
+    "en": "Ashlar technology deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-pumapunku-ashlar",
+    "src-tiwanaku-vranich-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

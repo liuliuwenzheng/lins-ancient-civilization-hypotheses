@@ -3,29 +3,30 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "von Dassow 等将阿拉拉赫讨论为米坦尼帝国统治下的城邦社会案例。",
-    "en": "von Dassow and related work discuss Alalakh as a city-society case under Mitanni imperial rule."
+    "zh": "阿拉拉赫地层与档案展示米坦尼霸权下的附庸城实践（von Dassow）。",
+    "en": "Alalakh levels and archives exhibit vassal-city practice under Mitanni hegemony (von Dassow).",
+    "native": null
   },
   "civilization_ids": [
     "civ-mitanni"
   ],
   "site_ids": [
-    "site-alalakh-tell-atchana"
+    "site-mitanni-alalakh-deepen"
   ],
   "period_ids": [],
   "object_ids": [],
   "sources": [
-    "src-mitanni-von-dassow-orientation",
-    "src-mitanni-alalakh-orientation"
+    "src-mitanni-alalakh-deepen",
+    "src-mitanni-von-dassow-deepen"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_d.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-25"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

@@ -1,0 +1,44 @@
+{
+  "id": "asm-nok-settlement-economy",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "聚落经济组合",
+    "en": "Settlement economy frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-village-deepen",
+    "site-nok-anama-deepen"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "农耕—聚落经济组合。",
+    "en": "Farming–settlement economy frame.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-early-farming",
+    "src-nok-breunig-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-lapita-post-dentate-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "后齿印过渡加深窗",
+    "en": "Post-dentate transition deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "Dentate to plainware transition debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Dentate to plainware transition debates"
+  },
+  "summary": {
+    "zh": "齿印陶至素面陶过渡讨论。",
+    "en": "Dentate→plainware transition debates.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-post-dentate",
+    "src-lapita-summerhayes-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-watom-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "瓦托姆（指针）",
+    "en": "Watom (orientation)",
+    "native": null
+  },
+  "kind_note": "Bismarck early Lapita island site",
+  "region": "New Britain, PNG",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "俾斯麦早期拉皮塔岛址指针。",
+    "en": "Bismarck early Lapita island orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-kirch-deepen",
+    "src-lapita-green-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

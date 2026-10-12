@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-late-open",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "晚期诺克转型与后续文化关系仍有争议，作假说保留。",
+    "en": "Late Nok transition and relations to successor cultures remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nok-late-transition-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-late-transition",
+    "src-nok-breunig-deepen"
+  ],
+  "disclaimer": "Late Nok transition debated. / 晚期转型有争议。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

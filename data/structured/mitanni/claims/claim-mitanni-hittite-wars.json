@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-hittite-wars",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "赫梯史料记录苏皮卢利乌马对米坦尼的战争与附庸重组（Bryce；Beckman）。",
+    "en": "Hittite sources record Suppiluliuma’s wars and vassal reorganization involving Mitanni.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mitanni-hittite-wars"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-bryce-deepen",
+    "src-mitanni-beckman-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

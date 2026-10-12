@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-new-temple-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "新庙（指针）",
+    "en": "New Temple (orientation)",
+    "native": null
+  },
+  "kind_note": "Later temple construction phase",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "晚期神庙建设阶段指针。",
+    "en": "Later temple construction-phase orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-old-new-temple",
+    "src-chavin-kembel-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

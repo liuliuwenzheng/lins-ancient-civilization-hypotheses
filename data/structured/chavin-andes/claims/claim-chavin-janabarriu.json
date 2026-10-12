@@ -1,0 +1,30 @@
+{
+  "id": "claim-chavin-janabarriu",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈纳巴里乌陶器相为查文地方编年提供陶瓷框架。",
+    "en": "Janabarriu ceramic phase supplies a ceramic frame for local Chavín chronology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-janabarriu-ceramics",
+    "src-chavin-burger-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_d.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-25"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-25). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
