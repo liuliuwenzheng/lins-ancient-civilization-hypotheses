@@ -1,0 +1,125 @@
+{
+  "decision": "D-2026-10-12-28",
+  "date": "2026-10-12",
+  "packs": [
+    {
+      "pack": "teotihuacan",
+      "before": {
+        "sources": 48,
+        "sites": 22,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 66,
+        "sites": 31,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "civ_id": "civ-teotihuacan",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "classic-maya",
+      "before": {
+        "sources": 48,
+        "sites": 24,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 66,
+        "sites": 33,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "civ_id": "civ-classic-maya",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "inca",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 66,
+        "sites": 32,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "civ_id": "civ-inca",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "angkor",
+      "before": {
+        "sources": 48,
+        "sites": 24,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 66,
+        "sites": 33,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "civ_id": "civ-angkor",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "aksum",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 42,
+        "media": 8
+      },
+      "after": {
+        "sources": 66,
+        "sites": 32,
+        "periods": 12,
+        "objects": 33,
+        "claims": 60,
+        "media": 10
+      },
+      "civ_id": "civ-aksum",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 90,
+    "sites": 45,
+    "periods": 10,
+    "objects": 70,
+    "claims": 90,
+    "media": 10
+  },
+  "status_note": "All five packs remain library-seed-rich (not promoted to fact-library)."
+}

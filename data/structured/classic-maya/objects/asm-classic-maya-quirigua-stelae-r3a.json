@@ -1,0 +1,43 @@
+{
+  "id": "asm-classic-maya-quirigua-stelae-r3a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "基里瓜石碑组合",
+    "en": "Quirigua stela assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-classic-maya-quirigua-r3a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "石碑/兽形碑组合。",
+    "en": "Stela/zoomorph assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-quirigua-r3a",
+    "src-classic-maya-martin-grube-r3a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

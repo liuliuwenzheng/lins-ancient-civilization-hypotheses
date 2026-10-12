@@ -1,0 +1,36 @@
+{
+  "id": "period-teotihuacan-epiclassic-r3a",
+  "entity": "period",
+  "names": {
+    "zh": "后经典过渡加深窗R3",
+    "en": "Epiclassic transition deepen R3",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "time": {
+    "label": "Epiclassic / Coyotlatelco debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Epiclassic / Coyotlatelco debates"
+  },
+  "summary": {
+    "zh": "后经典/科约特拉特尔科争论。",
+    "en": "Epiclassic/Coyotlatelco debates.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-epiclassic-r3a",
+    "src-teotihuacan-cowgill-r3a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

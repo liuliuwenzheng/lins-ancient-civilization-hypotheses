@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-hieroglyphic-stair-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "科潘象形文字阶梯是已知最长的玛雅纪念文本之一。",
+    "en": "The Copan Hieroglyphic Stairway is among the longest known Maya monumental texts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-classic-maya-hieroglyphic-stair-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-hieroglyphic-stair-r3a",
+    "src-classic-maya-unesco-copan-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

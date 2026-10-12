@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-imperial-apex-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帝国高峰窗对应快速扩张与行省行政制度化。",
+    "en": "The imperial apex window corresponds to rapid expansion and provincial administrative institutionalisation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-imperial-apex-r3a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-daltroy-r3a",
+    "src-inca-hyslop-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

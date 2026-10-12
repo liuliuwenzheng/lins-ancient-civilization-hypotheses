@@ -1,0 +1,36 @@
+{
+  "id": "period-angkor-suryavarman-r3a",
+  "entity": "period",
+  "names": {
+    "zh": "苏利耶跋摩二世加深窗R3",
+    "en": "Suryavarman II deepen R3",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "Angkor Wat floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Angkor Wat floruit"
+  },
+  "summary": {
+    "zh": "吴哥窟繁荣。",
+    "en": "Angkor Wat floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-wat-r3a",
+    "src-angkor-jacques-r3a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

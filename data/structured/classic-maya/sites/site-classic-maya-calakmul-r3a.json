@@ -1,0 +1,33 @@
+{
+  "id": "site-classic-maya-calakmul-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "卡拉克穆尔加深",
+    "en": "Calakmul deepen",
+    "native": null
+  },
+  "kind_note": "Snake dynasty capital",
+  "region": "Campeche",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "蛇王朝都城加深。",
+    "en": "Snake-dynasty capital deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-calakmul-r3a",
+    "src-classic-maya-martin-grube-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

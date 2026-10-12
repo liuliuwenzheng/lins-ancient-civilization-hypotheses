@@ -1,0 +1,36 @@
+{
+  "id": "period-aksum-classic-r3a",
+  "entity": "period",
+  "names": {
+    "zh": "经典阿克苏姆加深窗R3",
+    "en": "Classic Aksumite deepen R3",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "time": {
+    "label": "Classic floruit / coinage",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Classic floruit / coinage"
+  },
+  "summary": {
+    "zh": "经典繁荣/钱币。",
+    "en": "Classic floruit/coinage.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-munro-hay-r3a",
+    "src-aksum-coinage-r3a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

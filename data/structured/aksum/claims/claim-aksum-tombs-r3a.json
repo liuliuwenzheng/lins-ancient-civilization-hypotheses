@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-tombs-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "砖室墓与陵墓扇区补足石碑地面之上的地下殡葬结构。",
+    "en": "Brick-chamber tombs and mausolea complement subterranean funerary structures beneath the stelae landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-tomb-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-tomb-r3a",
+    "src-aksum-munro-hay-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

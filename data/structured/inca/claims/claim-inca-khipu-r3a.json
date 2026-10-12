@@ -1,0 +1,30 @@
+{
+  "id": "claim-inca-khipu-r3a",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "基普是印加行政记录的关键媒介，解读仍部分开放。",
+    "en": "Khipu are a key medium of Inca administrative recording; decipherment remains partly open.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-khipu-r3a",
+    "src-inca-daltroy-r3a"
+  ],
+  "disclaimer": "Khipu decipherment incomplete.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

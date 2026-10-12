@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-isla-del-sol-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "太阳岛加深",
+    "en": "Isla del Sol deepen",
+    "native": null
+  },
+  "kind_note": "Titicaca origin shrine",
+  "region": "Lake Titicaca",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "的的喀喀起源圣地加深。",
+    "en": "Titicaca origin shrine deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-isla-del-sol-r3a",
+    "src-inca-bauer-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

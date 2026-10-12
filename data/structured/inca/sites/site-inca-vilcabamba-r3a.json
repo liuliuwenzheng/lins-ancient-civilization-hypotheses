@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-vilcabamba-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "比尔卡班巴加深",
+    "en": "Vilcabamba deepen",
+    "native": null
+  },
+  "kind_note": "Neo-Inca redoubt",
+  "region": "Vilcabamba region",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "新印加据点加深。",
+    "en": "Neo-Inca redoubt deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-vilcabamba-r3a",
+    "src-inca-daltroy-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

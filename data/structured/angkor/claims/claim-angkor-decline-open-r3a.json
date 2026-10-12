@@ -1,0 +1,30 @@
+{
+  "id": "claim-angkor-decline-open-r3a",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "吴哥衰退机制（干旱、水利失败、政治迁移）仍是开放争论。",
+    "en": "Angkor decline mechanisms (drought, hydraulic failure, political shift) remain open.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-decline-r3a",
+    "src-angkor-evans-lidar-r3a"
+  ],
+  "disclaimer": "Decline causes unsettled.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

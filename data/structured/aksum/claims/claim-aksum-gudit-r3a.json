@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-gudit-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "古迪特石碑田是主石碑田之外的次级殡葬纪念景观。",
+    "en": "Gudit stelae field is a secondary funerary monumental landscape beyond the main stelae park.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-gudit-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-gudit-r3a",
+    "src-aksum-stelae-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

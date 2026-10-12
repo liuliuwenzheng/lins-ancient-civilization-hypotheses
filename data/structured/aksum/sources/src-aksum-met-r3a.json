@@ -1,0 +1,19 @@
+{
+  "id": "src-aksum-met-r3a",
+  "entity": "source",
+  "type": "web",
+  "citation": "Met Heilbrunn Aksum orientation Round-3.",
+  "url": "https://www.metmuseum.org/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Met; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

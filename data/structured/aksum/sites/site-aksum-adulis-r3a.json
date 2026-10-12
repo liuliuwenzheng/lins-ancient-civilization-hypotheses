@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-adulis-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "阿杜利斯加深",
+    "en": "Adulis deepen",
+    "native": null
+  },
+  "kind_note": "Red Sea port",
+  "region": "Eritrean coast",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "红海港口加深。",
+    "en": "Red Sea port deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-adulis-r3a",
+    "src-aksum-periplus-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

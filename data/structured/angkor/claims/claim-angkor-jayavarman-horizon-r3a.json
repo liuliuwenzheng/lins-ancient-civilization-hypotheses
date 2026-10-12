@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-jayavarman-horizon-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阇耶跋摩七世地平以巴戎、医堂与大型寺院密集建设为标志。",
+    "en": "The Jayavarman VII horizon is marked by dense building of Bayon, hospital chapels and large monasteries.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-angkor-jayavarman-vii-r3a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-bayon-r3a",
+    "src-angkor-hospital-chapels-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

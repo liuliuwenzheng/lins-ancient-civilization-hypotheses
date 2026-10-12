@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-ezana-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "埃扎纳铭文与钱币变化是讨论王室基督教化的关键证据。",
+    "en": "Ezana inscriptions and coinage changes are key evidence in royal Christianisation debates.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aksum-christian-r3a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-ezana-r3a",
+    "src-aksum-christian-art-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-teotihuacan-xolalpan-r3a",
+  "entity": "period",
+  "names": {
+    "zh": "索拉尔潘加深窗R3",
+    "en": "Xolalpan deepen R3",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "time": {
+    "label": "Xolalpan ceramic/urban floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Xolalpan ceramic/urban floruit"
+  },
+  "summary": {
+    "zh": "索拉尔潘陶瓷/城市繁荣。",
+    "en": "Xolalpan ceramic/urban floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-r3a",
+    "src-teotihuacan-thin-orange-r3a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-teotihuacan-asu-lab-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "ASU 特奥蒂瓦坎实验室门户汇总测绘与馆藏研究入口（T 级）。",
+    "en": "ASU Teotihuacan lab portals aggregate mapping and collection-research entry points (tier T).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-asu-r3a",
+    "src-teotihuacan-cowgill-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

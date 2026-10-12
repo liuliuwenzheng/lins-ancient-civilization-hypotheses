@@ -1,0 +1,36 @@
+{
+  "id": "period-classic-maya-terminal-r3a",
+  "entity": "period",
+  "names": {
+    "zh": "终末经典加深窗R3",
+    "en": "Terminal Classic deepen R3",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Terminal Classic collapse debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Terminal Classic collapse debates"
+  },
+  "summary": {
+    "zh": "终末经典崩溃争论。",
+    "en": "Terminal Classic collapse debates.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-collapse-r3a",
+    "src-classic-maya-dos-pilas-r3a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

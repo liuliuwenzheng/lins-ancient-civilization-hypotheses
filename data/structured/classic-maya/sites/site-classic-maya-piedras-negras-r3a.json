@@ -1,0 +1,33 @@
+{
+  "id": "site-classic-maya-piedras-negras-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "彼德拉斯内格拉斯加深",
+    "en": "Piedras Negras deepen",
+    "native": null
+  },
+  "kind_note": "Usumacinta rival city",
+  "region": "Guatemala",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "乌苏马辛塔对手城加深。",
+    "en": "Usumacinta rival-city deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-piedras-negras-r3a",
+    "src-classic-maya-martin-grube-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

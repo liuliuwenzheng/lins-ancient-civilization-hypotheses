@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-huanuco-pampa-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "瓦努科潘帕加深",
+    "en": "Huánuco Pampa deepen",
+    "native": null
+  },
+  "kind_note": "Administrative centre / qollqa",
+  "region": "central highlands",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "行政中心/仓廪加深。",
+    "en": "Administrative centre/qollqa deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-huanuco-pampa-r3a",
+    "src-inca-hyslop-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

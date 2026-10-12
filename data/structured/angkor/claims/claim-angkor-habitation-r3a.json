@@ -1,0 +1,30 @@
+{
+  "id": "claim-angkor-habitation-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "居住土丘与陶瓷证据支撑激光雷达所见的郊区人口。",
+    "en": "Habitation mounds and ceramics support the suburban populations seen in lidar.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-habitation-r3a",
+    "src-angkor-evans-lidar-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

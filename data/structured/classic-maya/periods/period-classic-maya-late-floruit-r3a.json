@@ -1,0 +1,36 @@
+{
+  "id": "period-classic-maya-late-floruit-r3a",
+  "entity": "period",
+  "names": {
+    "zh": "晚经典繁荣加深窗R3",
+    "en": "Late Classic floruit deepen R3",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Late Classic dynastic floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late Classic dynastic floruit"
+  },
+  "summary": {
+    "zh": "晚经典王朝繁荣。",
+    "en": "Late Classic dynastic floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-r3a",
+    "src-classic-maya-sharer-traxler-r3a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

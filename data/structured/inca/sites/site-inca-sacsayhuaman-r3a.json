@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-sacsayhuaman-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "萨克赛瓦曼加深",
+    "en": "Sacsayhuamán deepen",
+    "native": null
+  },
+  "kind_note": "Megalithic fortress walls",
+  "region": "Cusco",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "巨石要塞墙加深。",
+    "en": "Megalithic fortress walls deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-sacsayhuaman-r3a",
+    "src-inca-unesco-cusco-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

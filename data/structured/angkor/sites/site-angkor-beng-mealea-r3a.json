@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-beng-mealea-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "崩密列加深",
+    "en": "Beng Mealea deepen",
+    "native": null
+  },
+  "kind_note": "Remote temple",
+  "region": "east of Angkor",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "远程神庙加深。",
+    "en": "Remote temple deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-beng-mealea-r3a",
+    "src-angkor-wat-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

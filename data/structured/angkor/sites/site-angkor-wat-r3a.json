@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-wat-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "吴哥窟加深",
+    "en": "Angkor Wat deepen",
+    "native": null
+  },
+  "kind_note": "Suryavarman II temple-mountain",
+  "region": "Angkor",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "苏利耶跋摩二世庙山加深。",
+    "en": "Suryavarman II temple-mountain deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-wat-r3a",
+    "src-angkor-unesco-668-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

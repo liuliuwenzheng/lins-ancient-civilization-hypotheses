@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-classic-floruit-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "经典阿克苏姆窗以钱币、石碑与红海贸易繁荣为标志。",
+    "en": "The classic Aksumite window is marked by coinage, stelae and Red Sea trade floruit.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aksum-classic-r3a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-munro-hay-r3a",
+    "src-aksum-coinage-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

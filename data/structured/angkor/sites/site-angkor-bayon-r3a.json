@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-bayon-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "巴戎加深",
+    "en": "Bayon deepen",
+    "native": null
+  },
+  "kind_note": "Face-tower temple",
+  "region": "Angkor Thom",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "面塔神庙加深。",
+    "en": "Face-tower temple deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-bayon-r3a",
+    "src-angkor-unesco-668-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-tikal-unesco-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文蒂卡尔国家公园是佩滕核心王朝景观的机构级入口。",
+    "en": "UNESCO Tikal National Park is an institutional entry to the Petén core dynastic landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-classic-maya-tikal-temple-iv-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-unesco-tikal-r3a",
+    "src-classic-maya-sharer-traxler-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-tonina-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "托尼纳高地中心参与乌苏马辛塔政治的军事竞争。",
+    "en": "Tonina’s highland centre participated in military competition over Usumacinta politics.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-classic-maya-tonina-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-tonina-r3a",
+    "src-classic-maya-martin-grube-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

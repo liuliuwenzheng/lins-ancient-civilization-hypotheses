@@ -1,0 +1,30 @@
+{
+  "id": "claim-aksum-met-portal-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Met Heilbrunn 等机构文提供阿克苏姆艺术史取向（T 级）。",
+    "en": "Met Heilbrunn and institutional essays supply Aksum art-historical orientation (tier T).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-met-r3a",
+    "src-aksum-christian-art-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

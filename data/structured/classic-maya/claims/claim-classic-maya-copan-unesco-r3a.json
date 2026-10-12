@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-copan-unesco-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文科潘遗址覆盖象形文字阶梯与卫城礼仪核心。",
+    "en": "UNESCO Copan covers the Hieroglyphic Stairway and acropolis ritual core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-classic-maya-hieroglyphic-stair-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-unesco-copan-r3a",
+    "src-classic-maya-hieroglyphic-stair-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

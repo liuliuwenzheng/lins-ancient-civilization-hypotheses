@@ -107,7 +107,9 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 ## Product stance
 
-**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); 10 hot packs at Round-2 (~48 sources); Seed Batches C–F (all 21 former ~15-source packs) now ~30 sources / ~15 sites / ~26 claims each — no non-hot pack remains at ~15 sources.** Honesty of status beats vanity of count. Next: coord/media fill; open remaining Missing where archives allow; optional further deepen of library-seed-rich packs.
+**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); 5 hot packs at Round-3 Batch A (~66 sources / ~32 sites / ~33 objects / ~61 claims); other 5 hot packs still Round-2 (~48); Seed Batches C–F (21 packs) at ~30.** Honesty of status beats vanity of count. Next: Hot Round-3 Batch B; coord/media fill; open remaining Missing where archives allow.
+
+> **2026-10-12 update (Hot Round-3 A):** Hot densify Round-3 Batch A (D-2026-10-12-28) raised teotihuacan / classic-maya / inca / angkor / aksum to ~66 sources / 31–33 sites / 33 objects / 60–61 claims; status remains `library-seed-rich` (not promoted). No new coords. Batch B next.
 
 > **2026-10-12 update (Seed F):** Seed densify Batch F (D-2026-10-12-27) raised ancestral-pueblo / great-zimbabwe / west-africa-medieval / hallstatt-celtic / nuragic-sardinia / rapa-nui to ~30 sources / 15 sites / 26 claims; status remains `library-seed-rich`. **All 21 former ~15-source packs now ~30.** Rapa Nui: outbound UNESCO media only; no hosted moai imagery. No new coords this pass.
 

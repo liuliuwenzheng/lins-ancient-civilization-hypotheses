@@ -1,0 +1,30 @@
+{
+  "id": "claim-angkor-evans-lidar-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Evans 等激光雷达揭示吴哥远超庙区的低密度城市蔓延。",
+    "en": "Evans et al. lidar reveals Angkor’s low-density urban sprawl far beyond temple cores.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-evans-lidar-r3a",
+    "src-angkor-habitation-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-xalla-palace-r3a",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "萨亚复合体常被讨论为可能的宫苑/治理中心候选。",
+    "en": "Xalla is often discussed as a candidate palace/governance centre.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-xalla-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-xalla-r3a",
+    "src-teotihuacan-manzanilla-r3a"
+  ],
+  "disclaimer": "Palace identification remains interpretive.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

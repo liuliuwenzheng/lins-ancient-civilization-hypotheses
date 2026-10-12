@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-civil-war-open-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦斯卡–阿塔瓦尔帕内战削弱帝国并与西班牙入侵时间重叠。",
+    "en": "The Huáscar–Atahualpa civil war weakened the empire and overlapped Spanish invasion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-civil-war-r3a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-civil-war-r3a",
+    "src-inca-daltroy-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

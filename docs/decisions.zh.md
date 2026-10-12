@@ -964,3 +964,17 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-12-28 — 热门包 Round-3 Batch A 朝更密档案加厚
+
+**决定：** 对热门包 `teotihuacan`、`classic-maya`、`inca`、`angkor`、`aksum` 从约 48 来源 Round-2 带朝埃及/两河邻近深度加厚；**保持 `library-seed-rich`**（本轮不升 fact-library）。主张 ID 使用 `-r3a` 后缀。
+
+**每包大约增量：** +18 来源 · +9 遗址 · +2 时段 · +14 对象 · +18 主张 · +2 媒体。
+
+**落地带：** 约 66 来源 / 31–33 遗址 / 12 时段 / 33 对象 / 60–61 主张 / 10–11 媒体（埃及参照在遗址/对象/主张上仍更高）。
+
+**坐标补填：** 本轮无新填。
+
+**报告：** [`docs/audits/pass-2026-10-12-hot-round3-a.md`](audits/pass-2026-10-12-hot-round3-a.md) · [中文](audits/pass-2026-10-12-hot-round3-a.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

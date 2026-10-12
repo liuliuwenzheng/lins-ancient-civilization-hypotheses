@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-street-dead-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "死者之路加深",
+    "en": "Avenue of the Dead deepen",
+    "native": null
+  },
+  "kind_note": "Urban axis corridor",
+  "region": "Teotihuacan",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "城市轴线走廊加深。",
+    "en": "Urban-axis corridor deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-street-dead-r3a",
+    "src-teotihuacan-cowgill-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

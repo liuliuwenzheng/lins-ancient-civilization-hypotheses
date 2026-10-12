@@ -1,0 +1,43 @@
+{
+  "id": "asm-angkor-apsara-mgmt-r3a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "APSARA管理取向",
+    "en": "APSARA management orientation",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat-r3a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "遗产管理取向。",
+    "en": "Heritage-management orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-apsara-r3a",
+    "src-angkor-unesco-668-r3a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

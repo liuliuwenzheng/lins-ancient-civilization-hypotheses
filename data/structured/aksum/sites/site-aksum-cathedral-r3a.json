@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-cathedral-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "玛丽安锡安教堂取向",
+    "en": "Maryam Tsion cathedral orientation",
+    "native": null
+  },
+  "kind_note": "Christian cathedral locus",
+  "region": "Aksum",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "基督教教堂位点取向。",
+    "en": "Christian cathedral locus orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-christian-art-r3a",
+    "src-aksum-ezana-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

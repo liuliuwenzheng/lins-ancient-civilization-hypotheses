@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-pyramid-moon-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "月亮金字塔加深",
+    "en": "Moon Pyramid deepen",
+    "native": null
+  },
+  "kind_note": "Moon Pyramid / Plaza of the Moon",
+  "region": "Teotihuacan",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "月亮金字塔与广场加深。",
+    "en": "Moon Pyramid and plaza deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-sugiyama-r3a",
+    "src-teotihuacan-unesco-414-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

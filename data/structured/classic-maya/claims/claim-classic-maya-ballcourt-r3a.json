@@ -1,0 +1,30 @@
+{
+  "id": "claim-classic-maya-ballcourt-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "球场礼仪将神话、政治与公共表演编织进城市布局。",
+    "en": "Ballcourt ritual weaves myth, politics and public performance into urban layout.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-ballcourt-r3a",
+    "src-classic-maya-sharer-traxler-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-classic-maya-dos-pilas-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "多斯皮拉斯加深",
+    "en": "Dos Pilas deepen",
+    "native": null
+  },
+  "kind_note": "Petexbatun war capital",
+  "region": "Petén",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "佩滕战争都城加深。",
+    "en": "Petexbatun war-capital deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-dos-pilas-r3a",
+    "src-classic-maya-collapse-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

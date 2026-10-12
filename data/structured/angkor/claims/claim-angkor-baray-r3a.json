@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-baray-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "西/东巴莱是吴哥水利城市论的核心水库证据。",
+    "en": "West/East Barays are core reservoir evidence for Angkor hydraulic-city arguments.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-west-baray-r3a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-baray-r3a",
+    "src-angkor-evans-lidar-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

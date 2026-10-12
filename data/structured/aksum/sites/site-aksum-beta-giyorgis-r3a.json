@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-beta-giyorgis-r3a",
+  "entity": "site",
+  "names": {
+    "zh": "贝塔焦尔吉斯加深",
+    "en": "Beta Giyorgis deepen",
+    "native": null
+  },
+  "kind_note": "Hill settlement above Aksum",
+  "region": "Aksum",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "阿克苏姆上方山丘聚落加深。",
+    "en": "Hill settlement above Aksum deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-beta-giyorgis-r3a",
+    "src-aksum-biea-r3a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

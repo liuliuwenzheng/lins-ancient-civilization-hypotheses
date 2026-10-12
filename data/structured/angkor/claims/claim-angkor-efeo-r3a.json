@@ -1,0 +1,30 @@
+{
+  "id": "claim-angkor-efeo-r3a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "EFEO 保护与碑铭传统是吴哥现代研究史的重要机构线索。",
+    "en": "EFEO conservation and epigraphy traditions are key institutional threads in modern Angkor research history.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-efeo-r3a",
+    "src-angkor-jacques-r3a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-28"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
