@@ -577,3 +577,24 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified:** `export_check` OK after audit (9 packs; citation gate green).
 
 **Notes:** Integrity over speed. Open WARNs are documented for the next ranked work (cited coordinates + substance claims), not swept under a fake FAIL fix.
+
+
+### D-2026-10-12-9 — Substance tighten (Mesopotamia/Egypt) + seven-pack quality audit
+
+**Decision:** (A) Address W2 from D-2026-10-12-8 by rewriting Mesopotamia + Egypt `kind=fact` claims toward **report-level substance** (site finds / strata / assemblages first; reports as documentation). (B) Run the same FAIL/WARN quality audit on the other seven structured packs; fix clear FAILs only.
+
+**Job A:**
+- Mesopotamia: **57** fact claims rewritten; Egypt: **59**; **116** total.
+- No invented page numbers, coordinates, inventory numbers, or archaeology.
+- Author-publish-lead facts reduced to **0/63** (each pack) by the audit classifier; residual W2 = report-scoped depth still thinner than ideal.
+- Updated [`docs/audits/audit-2026-10-12-mesopotamia-egypt.md`](audits/audit-2026-10-12-mesopotamia-egypt.md).
+
+**Job B:**
+- Report: [`docs/audits/audit-2026-10-12-seven-packs.md`](audits/audit-2026-10-12-seven-packs.md) ([中文](audits/audit-2026-10-12-seven-packs.zh.md)).
+- **FAIL before fix: 4** (1 olmec ranking-as-fact book title; 3 early-maya dangling cross-pack `src-olmec-*`). **FAIL after: 0**.
+- Remediations: reword Diehl claim; copy two already-registered olmec source JSON files into early-maya for citation integrity.
+- Open WARNs: null coordinates; biblio-meta residue (esp. china-bronze); survey-as-site ontology; thin media.
+
+**Verified:** `export_check` OK (9 packs; early-maya sources 70 after copy).
+
+**Notes:** Integrity over speed. Unaffected packs not vanity-rewritten in this pass.

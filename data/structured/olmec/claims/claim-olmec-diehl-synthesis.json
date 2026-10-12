@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Diehl 2004《奥尔梅克：美洲最早的文明》为面向公众的二手综合。",
-    "en": "Diehl 2004 The Olmecs: America’s First Civilization is a public-facing secondary synthesis."
+    "zh": "Diehl 2004 是面向公众的奥尔梅克二手综合（书名含排名用语，本仓不采为定论）。",
+    "en": "Diehl 2004 is a public-facing secondary synthesis on the Olmec; the book title uses ranking language (“America’s First Civilization”) that this archive does not adopt as fact."
   },
   "civilization_ids": [
     "civ-olmec"
@@ -23,6 +23,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. | Audit FAIL fix 2026-10-12: book-title ranking not asserted as fact."
   }
 }
