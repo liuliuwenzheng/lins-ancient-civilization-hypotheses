@@ -1,0 +1,50 @@
+{
+  "id": "civ-great-zimbabwe",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "大津巴布韦",
+    "en": "Great Zimbabwe",
+    "native": "Great Zimbabwe"
+  },
+  "region": "Southern Africa / Zimbabwe plateau (Masvingo region)",
+  "time_span": "Stone-walled capital floruit broadly 11th–15th centuries CE (Pikirayi / Huffman frames)",
+  "summary": {
+    "zh": "大津巴布韦档案壳：Pikirayi/Huffman 综合 + 教科文；library-seed。",
+    "en": "Great Zimbabwe archive shell: Pikirayi/Huffman synthesis + UNESCO; library-seed."
+  },
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-huffman-2007",
+    "src-zimbabwe-garlake-1973",
+    "src-zimbabwe-ndoro-2001"
+  ],
+  "site_ids": [
+    "site-great-zimbabwe-monument",
+    "site-zimbabwe-culture-orientation"
+  ],
+  "period_ids": [
+    "period-great-zimbabwe-floruit"
+  ],
+  "claim_ids": [
+    "claim-great-zimbabwe-stone-capital"
+  ],
+  "object_ids": [
+    "asm-zimbabwe-dry-stone-frame"
+  ],
+  "related_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "markdown_path": "data/civilizations/civ-great-zimbabwe.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

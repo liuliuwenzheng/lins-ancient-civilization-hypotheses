@@ -1,0 +1,32 @@
+{
+  "id": "site-calakmul-classic",
+  "entity": "site",
+  "names": {
+    "zh": "卡拉克穆尔",
+    "en": "Calakmul",
+    "native": null
+  },
+  "kind_note": "Classic Maya superpower centre; UNESCO WH",
+  "region": "Campeche, Mexico",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "碑铭模型中常与蒂卡尔对立的卡努尔王朝中心。",
+    "en": "Kaanul dynasty rival centre to Tikal in many epigraphic models."
+  },
+  "sources": [
+    "src-classic-maya-unesco-calakmul-1061",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

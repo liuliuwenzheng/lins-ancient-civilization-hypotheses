@@ -1,0 +1,30 @@
+{
+  "id": "claim-tiwanaku-stanish-basin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Stanish 2003 综述的的喀喀盆地复杂社会演化，为蒂瓦纳科提供区域背景。",
+    "en": "Stanish 2003 synthesizes Titicaca-basin complex-society evolution as regional background for Tiwanaku."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-tiwanaku-formative-late"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-stanish-2003"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

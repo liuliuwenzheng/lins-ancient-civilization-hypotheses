@@ -1,0 +1,19 @@
+{
+  "id": "src-inca-unesco-cusco-273",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. City of Cuzco. Inscribed 1983. https://whc.unesco.org/en/list/273/",
+  "url": "https://whc.unesco.org/en/list/273/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC orientation for Cusco; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

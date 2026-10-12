@@ -1,0 +1,46 @@
+{
+  "id": "asm-wari-rectangular-enclosure-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦里矩形围场建筑框架",
+    "en": "Wari rectangular enclosure architecture frame"
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-huari-ayacucho",
+    "site-pikillacta"
+  ],
+  "period_ids": [
+    "period-wari-middle-horizon",
+    "period-wari-floruit"
+  ],
+  "summary": {
+    "zh": "规划矩形围场指针。",
+    "en": "Planned rectangular compounds pointer."
+  },
+  "sources": [
+    "src-wari-schreiber-1992",
+    "src-wari-topic-isbell",
+    "src-wari-mcewan-pikillacta"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

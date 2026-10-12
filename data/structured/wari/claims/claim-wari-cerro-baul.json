@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-cerro-baul",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Williams 等将塞罗鲍尔讨论为莫克瓜的瓦里殖民/边疆据点。",
+    "en": "Williams et al. discuss Cerro Baúl as a Wari colony/frontier site in Moquegua."
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-cerro-baul-wari"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-williams-cerro-baul"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

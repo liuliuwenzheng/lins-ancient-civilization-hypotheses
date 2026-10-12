@@ -1,0 +1,32 @@
+{
+  "id": "site-non-nok-tha",
+  "entity": "site",
+  "names": {
+    "zh": "农诺他",
+    "en": "Non Nok Tha",
+    "native": null
+  },
+  "kind_note": "NE Thailand prehistoric site with metal debates",
+  "region": "Khon Kaen region, Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "金属时代争论中的比较史前遗址。",
+    "en": "Comparative prehistoric site in metal-age debates."
+  },
+  "sources": [
+    "src-ban-chiang-non-nok-tha",
+    "src-ban-chiang-higham-sea-bronze"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

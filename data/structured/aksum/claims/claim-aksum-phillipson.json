@@ -1,0 +1,30 @@
+{
+  "id": "claim-aksum-phillipson",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Phillipson 2012 综合讨论阿克苏姆考古与非洲之角背景。",
+    "en": "Phillipson 2012 synthesizes Aksum archaeology in Horn of Africa context."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-phillipson-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

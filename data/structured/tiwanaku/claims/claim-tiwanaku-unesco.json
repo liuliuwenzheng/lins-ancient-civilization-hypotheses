@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将蒂瓦纳科表述为蒂瓦纳科文化的精神与政治中心（UNESCO 567）。",
+    "en": "UNESCO frames Tiwanaku as the spiritual and political centre of Tiwanaku culture (UNESCO 567)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-capital"
+  ],
+  "period_ids": [
+    "period-tiwanaku-middle-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-unesco-567"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

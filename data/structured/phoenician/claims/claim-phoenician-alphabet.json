@@ -1,0 +1,33 @@
+{
+  "id": "claim-phoenician-alphabet",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "比布鲁斯等海岸城市语境中的早期字母铭文传统，是腓尼基文化史的核心议题（Markoe；UNESCO Byblos）。",
+    "en": "Early alphabetic inscription traditions in coastal cities such as Byblos are a core theme of Phoenician cultural history (Markoe; UNESCO Byblos)."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-byblos-gubla"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-phoenician-alphabet-frame"
+  ],
+  "sources": [
+    "src-phoenician-markoe-2000",
+    "src-phoenician-unesco-byblos-295"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

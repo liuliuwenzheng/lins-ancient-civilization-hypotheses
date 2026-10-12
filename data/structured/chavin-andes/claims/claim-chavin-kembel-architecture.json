@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-kembel-architecture",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kembel/Rick 研究传统讨论查文庙宇建筑分期与圆形广场等空间（建筑年代学取向）。",
+    "en": "Kembel/Rick research tradition discusses temple architectural phasing and spaces such as the circular plaza (architectural chronology orientation)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-circular-plaza",
+    "site-chavin-old-temple-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-kembel-rick-orientation",
+    "src-chavin-pozo-excavation-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

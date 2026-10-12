@@ -1,0 +1,34 @@
+{
+  "id": "period-mitanni-formation",
+  "entity": "period",
+  "names": {
+    "zh": "米坦尼形成窗",
+    "en": "Mitanni formation window"
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "formation of Mitanni kingdom in LBA",
+    "approx_from_bce": 1600,
+    "approx_to_bce": 1500,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "形成。",
+    "en": "Formation."
+  },
+  "sources": [
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

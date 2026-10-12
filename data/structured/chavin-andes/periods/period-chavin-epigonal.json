@@ -1,0 +1,34 @@
+{
+  "id": "period-chavin-epigonal",
+  "entity": "period",
+  "names": {
+    "zh": "查文后/过渡窗",
+    "en": "Post-Chavín / transitional window"
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "time": {
+    "label": "after ca. 400 BCE working decline/transition",
+    "approx_from_bce": 400,
+    "approx_to_bce": 200,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "繁荣后过渡。",
+    "en": "Post-florescence transition."
+  },
+  "sources": [
+    "src-chavin-nesbitt-burger-2023",
+    "src-chavin-burger-origins-1992"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

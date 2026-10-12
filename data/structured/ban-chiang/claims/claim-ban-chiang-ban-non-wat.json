@@ -1,0 +1,30 @@
+{
+  "id": "claim-ban-chiang-ban-non-wat",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Ban Non Wat 发掘卷为东北泰史前年代与社会提供关键比较序列（Higham 等）。",
+    "en": "Ban Non Wat excavation volumes provide a key comparative sequence for NE Thailand prehistory (Higham et al.)."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-ban-non-wat"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-ban-non-wat-higham"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

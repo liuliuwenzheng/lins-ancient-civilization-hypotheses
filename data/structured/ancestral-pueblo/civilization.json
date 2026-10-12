@@ -1,0 +1,50 @@
+{
+  "id": "civ-ancestral-pueblo",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "先祖普韦布洛",
+    "en": "Ancestral Puebloan",
+    "native": "Ancestral Puebloan / Hisatsinom (Hopi preference varies)"
+  },
+  "region": "North America / Colorado Plateau (Four Corners: NM, AZ, CO, UT)",
+  "time_span": "Basketmaker–Pueblo florescence broadly 1st–13th centuries CE (Pecos Classification / Lekson frames)",
+  "summary": {
+    "zh": "先祖普韦布洛档案壳：Lekson/Plog 综合 + 查科/梅萨维德教科文；library-seed。",
+    "en": "Ancestral Puebloan archive shell: Lekson/Plog synthesis + Chaco/Mesa Verde UNESCO; library-seed."
+  },
+  "sources": [
+    "src-pueblo-unesco-chaco-353",
+    "src-pueblo-unesco-mesa-verde-27",
+    "src-pueblo-lekson-2009",
+    "src-pueblo-plog-2008",
+    "src-pueblo-nps-chaco-orientation"
+  ],
+  "site_ids": [
+    "site-chaco-canyon",
+    "site-mesa-verde"
+  ],
+  "period_ids": [
+    "period-ancestral-pueblo-floruit"
+  ],
+  "claim_ids": [
+    "claim-pueblo-chaco-mesa-verde"
+  ],
+  "object_ids": [
+    "asm-pueblo-great-house-frame"
+  ],
+  "related_ids": [
+    "civ-cahokia"
+  ],
+  "markdown_path": "data/civilizations/civ-ancestral-pueblo.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

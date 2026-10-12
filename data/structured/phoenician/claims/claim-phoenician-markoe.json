@@ -1,0 +1,30 @@
+{
+  "id": "claim-phoenician-markoe",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Markoe 2000 提供腓尼基人历史与文化的英文综述。",
+    "en": "Markoe 2000 provides an English synthesis of Phoenician history and culture."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-phoenician-iron-i-ii"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-markoe-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

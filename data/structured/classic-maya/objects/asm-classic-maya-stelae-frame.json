@@ -1,0 +1,46 @@
+{
+  "id": "asm-classic-maya-stelae-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "经典玛雅石碑—王朝文本框架",
+    "en": "Classic Maya stelae / dynastic text frame"
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-copan-classic",
+    "site-calakmul-classic"
+  ],
+  "period_ids": [
+    "period-classic-maya-floruit",
+    "period-classic-maya-late"
+  ],
+  "summary": {
+    "zh": "石碑与王朝铭文指针。",
+    "en": "Stelae and dynastic inscription pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-houston-stuart-taube"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

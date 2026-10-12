@@ -1,0 +1,32 @@
+{
+  "id": "site-nuragic-landscape-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "撒丁努拉吉景观（指针）",
+    "en": "Sardinian Nuragic landscape (orientation)",
+    "native": null
+  },
+  "kind_note": "Island-wide nuraghe distribution frame",
+  "region": "Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "全岛努拉吉分布指针；非单一点。",
+    "en": "Island-wide nuraghe distribution pointer; not a single point."
+  },
+  "sources": [
+    "src-nuragic-webster-1996",
+    "src-nuragic-blake-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

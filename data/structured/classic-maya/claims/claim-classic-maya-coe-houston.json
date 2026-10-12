@@ -1,0 +1,30 @@
+{
+  "id": "claim-classic-maya-coe-houston",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Coe & Houston 综合为玛雅文明提供不断修订的综述框架。",
+    "en": "Coe & Houston provide a continually revised synthesis of Maya civilization."
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-classic-maya-late"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-coe-houston-maya"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-tiwanaku-omo-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "奥莫等地（莫克瓜指针）",
+    "en": "Omo and Moquegua colonies (orientation)",
+    "native": null
+  },
+  "kind_note": "Tiwanaku-related settlements in Moquegua valley",
+  "region": "Moquegua, Peru",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "殖民/离散定居指针。",
+    "en": "Colonial/diaspora settlement orientation."
+  },
+  "sources": [
+    "src-tiwanaku-goldstein-orientation",
+    "src-tiwanaku-stanish-2003"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

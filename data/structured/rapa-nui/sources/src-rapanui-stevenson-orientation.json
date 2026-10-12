@@ -1,0 +1,19 @@
+{
+  "id": "src-rapanui-stevenson-orientation",
+  "entity": "source",
+  "type": "article",
+  "citation": "Stevenson, Christopher M., and collaborators — Rapa Nui chronology and settlement studies (journal tradition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Chronology/settlement orientation; no invented dates.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

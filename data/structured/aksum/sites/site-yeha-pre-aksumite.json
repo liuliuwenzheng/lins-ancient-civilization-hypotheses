@@ -1,0 +1,33 @@
+{
+  "id": "site-yeha-pre-aksumite",
+  "entity": "site",
+  "names": {
+    "zh": "叶哈（前阿克苏姆指针）",
+    "en": "Yeha (pre-Aksumite orientation)",
+    "native": "Yeha"
+  },
+  "kind_note": "Pre-Aksumite ceremonial/settlement centre",
+  "region": "Tigray, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "常作前阿克苏姆高地中心讨论。",
+    "en": "Often discussed as pre-Aksumite highland centre."
+  },
+  "sources": [
+    "src-aksum-yeha-orientation",
+    "src-aksum-phillipson-2012",
+    "src-aksum-finneran-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

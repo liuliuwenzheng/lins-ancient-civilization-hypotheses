@@ -1,0 +1,33 @@
+{
+  "id": "claim-wari-capital-ayacucho",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "文献将阿亚库乔盆地的瓦里/华里遗址表述为中地平线首都级中心（Isbell/Schreiber 传统）。",
+    "en": "Literature frames the Huari/Wari site in the Ayacucho basin as a Middle Horizon capital-scale centre (Isbell/Schreiber tradition)."
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-huari-ayacucho"
+  ],
+  "period_ids": [
+    "period-wari-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-isbell-schreiber-1978",
+    "src-wari-schreiber-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

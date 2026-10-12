@@ -1,0 +1,36 @@
+{
+  "id": "claim-angkor-khmer-capital-landscape",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将吴哥表述为高棉帝国以庙山与大型水利景观为标志的首都区域（UNESCO 668；Coe & Evans 2018）。",
+    "en": "UNESCO and scholarly syntheses frame Angkor as the Khmer imperial capital region marked by temple-mountains and large-scale hydraulic landscapes (UNESCO 668; Coe & Evans 2018)."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat",
+    "site-angkor-thom"
+  ],
+  "period_ids": [
+    "period-angkorian-floruit"
+  ],
+  "object_ids": [
+    "asm-angkor-temple-mountain-frame"
+  ],
+  "sources": [
+    "src-angkor-unesco-668",
+    "src-angkor-coe-evans-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

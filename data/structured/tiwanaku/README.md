@@ -4,15 +4,15 @@
 
 Read-only archive entities for `civ-tiwanaku`.
 
-**Status:** library-seed shell (Wave-2, D-2026-10-12-14). Honest thin pack — not fact-library density.
+**Status:** `library-seed-rich` (Wave-2 densify, D-2026-10-12-16). Toward usable archive density; not fact-library.
 
 Counts (`export_check` is authoritative):
-- sources: 5
-- sites: 2
-- periods: 1
-- objects: 1
-- claims: 1
-- media: 0
+- sources: 15
+- sites: 7
+- periods: 4
+- objects: 3
+- claims: 11
+- media: 2
 
 Markdown editorial source: `data/civilizations/civ-tiwanaku.md`.
 Run `tools/export_check.py` before serving.

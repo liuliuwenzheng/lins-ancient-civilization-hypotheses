@@ -1,0 +1,32 @@
+{
+  "id": "site-adulis-port",
+  "entity": "site",
+  "names": {
+    "zh": "阿杜利斯口岸",
+    "en": "Adulis port",
+    "native": "Adulis"
+  },
+  "kind_note": "Red Sea port linked to Aksumite trade",
+  "region": "Eritrean Red Sea coast",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "常与阿克苏姆红海贸易相联的口岸。",
+    "en": "Port often linked to Aksumite Red Sea commerce."
+  },
+  "sources": [
+    "src-aksum-munro-hay-1991",
+    "src-aksum-phillipson-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

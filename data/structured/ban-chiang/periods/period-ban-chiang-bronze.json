@@ -1,0 +1,35 @@
+{
+  "id": "period-ban-chiang-bronze",
+  "entity": "period",
+  "names": {
+    "zh": "班清青铜窗",
+    "en": "Ban Chiang Bronze window"
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "time": {
+    "label": "bronze-using phases (chronology debated)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 500,
+    "scheme_note": "Absolute metal chronology debated."
+  },
+  "summary": {
+    "zh": "青铜窗；年代有争议。",
+    "en": "Bronze window; dates contested."
+  },
+  "sources": [
+    "src-ban-chiang-c14-debate",
+    "src-ban-chiang-pigott-metal-orientation",
+    "src-ban-chiang-higham-sea-bronze"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

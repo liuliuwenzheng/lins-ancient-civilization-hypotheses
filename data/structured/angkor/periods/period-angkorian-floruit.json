@@ -1,0 +1,34 @@
+{
+  "id": "period-angkorian-floruit",
+  "entity": "period",
+  "names": {
+    "zh": "吴哥繁荣窗",
+    "en": "Angkorian floruit"
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "broadly 9th–15th centuries CE (Coe–Evans working frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Reign and temple chronologies deferred to densify."
+  },
+  "summary": {
+    "zh": "壳级吴哥窗。",
+    "en": "Shell Angkorian window."
+  },
+  "sources": [
+    "src-angkor-coe-evans-2018",
+    "src-angkor-jacques-lafond-2007"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

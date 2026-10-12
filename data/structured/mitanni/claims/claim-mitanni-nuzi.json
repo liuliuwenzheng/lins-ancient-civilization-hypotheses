@@ -1,0 +1,33 @@
+{
+  "id": "claim-mitanni-nuzi",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "努济（Yorghan Tepe）泥板档案提供胡里安化社会法律—经济证据（档案传统）。",
+    "en": "Nuzi (Yorghan Tepe) tablet archives provide Hurrianized socio-legal and economic evidence (archive tradition)."
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-nuzi-yorghan-tepe"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mitanni-nuzi-tablets-frame"
+  ],
+  "sources": [
+    "src-mitanni-nuzi-orientation",
+    "src-mitanni-stein-glyptic"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-early-korea-gyeongju-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将庆州历史区域列入世界遗产（UNESCO 976）。",
+    "en": "UNESCO lists Gyeongju Historic Areas as World Heritage (UNESCO 976)."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-gyeongju-silla"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-unesco-gyeongju"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

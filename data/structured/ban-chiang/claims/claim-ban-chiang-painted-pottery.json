@@ -1,0 +1,33 @@
+{
+  "id": "claim-ban-chiang-painted-pottery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与发掘传统将彩陶作为班清物质文化的显著类别（UNESCO 575；White）。",
+    "en": "UNESCO and excavation traditions treat painted pottery as a distinctive Ban Chiang material-culture category (UNESCO 575; White)."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-ban-chiang-udon"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-ban-chiang-painted-pottery-frame"
+  ],
+  "sources": [
+    "src-ban-chiang-unesco-575",
+    "src-ban-chiang-white-penn-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

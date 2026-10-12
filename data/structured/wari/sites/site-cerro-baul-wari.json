@@ -1,0 +1,32 @@
+{
+  "id": "site-cerro-baul-wari",
+  "entity": "site",
+  "names": {
+    "zh": "塞罗鲍尔",
+    "en": "Cerro Baúl",
+    "native": null
+  },
+  "kind_note": "Wari colony/mesa site in Moquegua",
+  "region": "Moquegua, Peru",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "常与蒂瓦纳科边疆并论的南部殖民点。",
+    "en": "Southern colony often discussed with Tiwanaku frontiers."
+  },
+  "sources": [
+    "src-wari-williams-cerro-baul",
+    "src-wari-schreiber-1992"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

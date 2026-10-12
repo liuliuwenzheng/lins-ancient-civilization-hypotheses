@@ -1,0 +1,19 @@
+{
+  "id": "src-waf-mcintosh-2005",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "McIntosh, Roderick J. 2005. Ancient Middle Niger: Urbanism and the Self-Organizing Landscape. Cambridge: Cambridge University Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Middle Niger urbanism synthesis; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "period-pre-aksumite",
+  "entity": "period",
+  "names": {
+    "zh": "前阿克苏姆窗",
+    "en": "Pre-Aksumite window"
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "time": {
+    "label": "pre-Aksumite highland complex societies",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "前阿克苏姆。",
+    "en": "Pre-Aksumite."
+  },
+  "sources": [
+    "src-aksum-yeha-orientation",
+    "src-aksum-finneran-2007",
+    "src-aksum-phillipson-2012"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

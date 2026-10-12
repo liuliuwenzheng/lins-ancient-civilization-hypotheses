@@ -1,0 +1,43 @@
+{
+  "id": "asm-rapanui-moai-ahu-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "摩艾—阿胡框架组合",
+    "en": "Moai–ahu frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapa-nui-national-park"
+  ],
+  "period_ids": [
+    "period-rapa-nui-monumental"
+  ],
+  "summary": {
+    "zh": "壳级摩艾与阿胡指针；无伪造图像或馆藏号。",
+    "en": "Shell moai–ahu pointer; no forged images or catalog numbers."
+  },
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-van-tilburg-1994"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

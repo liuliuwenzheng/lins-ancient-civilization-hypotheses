@@ -1,0 +1,531 @@
+{
+  "civ_id": "civ-chavin",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "查文档案（library-seed-rich）：Burger/Rick + 查文德万塔尔与互动圈遗址分层；仍非埃及级密度。",
+    "en": "Chavín archive (library-seed-rich): Burger/Rick + Chavín de Huántar and interaction-sphere sites; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-chavin-kembel-rick-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Kembel, Silvia Rodriguez, and John W. Rick — Chavín de Huántar architectural chronology and Formative temple studies.",
+      "url": null,
+      "notes": "Architectural chronology orientation; deepen with specific article citations."
+    },
+    {
+      "id": "src-chavin-contreras-2010",
+      "type": "article",
+      "tier": "S",
+      "citation": "Contreras, Daniel A. 2010. Landscape and Environment: Insights from the Prehispanic Central Andes. Overview of highland landscape archaeology including Chavín hinterland debates.",
+      "url": null,
+      "notes": "Landscape/hinterland orientation."
+    },
+    {
+      "id": "src-chavin-lathrap-1971",
+      "type": "article",
+      "tier": "S",
+      "citation": "Lathrap, Donald W. 1971. The Tropical Forest and the Cultural Context of Chavín. In Dumbarton Oaks conference tradition on Chavín.",
+      "url": null,
+      "notes": "Classic tropical-forest interaction hypothesis; contested; shell cites as S."
+    },
+    {
+      "id": "src-chavin-miller-burger-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Miller, George R., and Richard L. Burger — camelid and subsistence studies related to Chavín de Huántar.",
+      "url": null,
+      "notes": "Subsistence orientation pointer."
+    },
+    {
+      "id": "src-chavin-unesco-media-landing",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Chavin (Archaeological Site) — media/documents landing. https://whc.unesco.org/en/list/330/documents/",
+      "url": "https://whc.unesco.org/en/list/330/documents/",
+      "notes": "Documents landing for outbound media."
+    },
+    {
+      "id": "src-chavin-mesia-monteverde-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Mesía Montenegro, Christian — Chavín ceramic and Formative chronology studies.",
+      "url": null,
+      "notes": "Ceramic chronology orientation."
+    },
+    {
+      "id": "src-chavin-pozo-excavation-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Rick, John W., and collaborators — Stanford Chavín de Huántar Project excavation seasons (galleries, plaza, monumental architecture).",
+      "url": null,
+      "notes": "P-tradition long-term project pointer; no invented locus numbers."
+    },
+    {
+      "id": "src-chavin-weismantel-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Weismantel, Mary — Chavín visual culture and ontological approaches (scholarly essays).",
+      "url": null,
+      "notes": "Visual culture orientation; interpretive."
+    },
+    {
+      "id": "src-chavin-ikehara-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Ikehara Tsukayama, Hugo C. — Formative Ancash and Chavín interaction sphere surveys.",
+      "url": null,
+      "notes": "Regional survey orientation."
+    },
+    {
+      "id": "src-chavin-burger-salazar-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Burger, Richard L., and Lucy Salazar Burger — Chavín religion and temple studies.",
+      "url": null,
+      "notes": "Religion/temple orientation pointer."
+    }
+  ],
+  "fill_coords": {
+    "site-chavin-huantar-type": {
+      "lat": -9.594444,
+      "lon": -77.178333,
+      "precision_note": "UNESCO WHC list 330 published DMS→decimal; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-chavin-pochoc-orientation",
+      "names": {
+        "zh": "波乔克等地（指针）",
+        "en": "Pochoc and related Formative (orientation)",
+        "native": null
+      },
+      "kind_note": "Formative coastal/highland contact localities",
+      "region": "Ancash / coast contacts",
+      "coords": null,
+      "summary": {
+        "zh": "常与查文圈讨论的形成期接触地点指针。",
+        "en": "Formative contact localities often discussed with Chavín sphere."
+      },
+      "sources": [
+        "src-chavin-burger-origins-1992",
+        "src-chavin-ikehara-orientation"
+      ]
+    },
+    {
+      "id": "site-chavin-kuntur-wasi-orientation",
+      "names": {
+        "zh": "孔图尔瓦西（指针）",
+        "en": "Kuntur Wasi (orientation)",
+        "native": "Kuntur Wasi"
+      },
+      "kind_note": "Formative ceremonial centre in Cajamarca often compared with Chavín",
+      "region": "Cajamarca, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "比较形成期中心指针；不宣称查文都城。",
+        "en": "Comparative Formative centre orientation; not claimed as Chavín capital."
+      },
+      "sources": [
+        "src-chavin-burger-origins-1992",
+        "src-chavin-nesbitt-burger-2023"
+      ]
+    },
+    {
+      "id": "site-chavin-pacopampa-orientation",
+      "names": {
+        "zh": "帕科潘帕（指针）",
+        "en": "Pacopampa (orientation)",
+        "native": "Pacopampa"
+      },
+      "kind_note": "Formative highland centre with Chavín-related discussion",
+      "region": "Cajamarca highlands",
+      "coords": null,
+      "summary": {
+        "zh": "查文相关文献中的高原形成期中心指针。",
+        "en": "Highland Formative centre orientation in Chavín-related literature."
+      },
+      "sources": [
+        "src-chavin-nesbitt-burger-2023",
+        "src-chavin-ikehara-orientation"
+      ]
+    },
+    {
+      "id": "site-chavin-circular-plaza",
+      "names": {
+        "zh": "查文圆形广场区",
+        "en": "Chavín circular plaza sector",
+        "native": null
+      },
+      "kind_note": "Monumental plaza/gallery sector at type site",
+      "region": "Chavín de Huántar, Ancash",
+      "coords": null,
+      "summary": {
+        "zh": "Rick/Kembel 建筑研究讨论的广场与廊道区。",
+        "en": "Plaza and gallery sector discussed in Rick/Kembel architectural studies."
+      },
+      "sources": [
+        "src-chavin-pozo-excavation-orientation",
+        "src-chavin-unesco-330",
+        "src-chavin-kembel-rick-orientation"
+      ]
+    },
+    {
+      "id": "site-chavin-old-temple-orientation",
+      "names": {
+        "zh": "查文旧庙区（指针）",
+        "en": "Chavín Old Temple sector (orientation)",
+        "native": null
+      },
+      "kind_note": "Earlier temple construction phase label",
+      "region": "Chavín de Huántar",
+      "coords": null,
+      "summary": {
+        "zh": "旧庙阶段标签指针；绝对年代争论开放。",
+        "en": "Old Temple phase label orientation; absolute dating debates open."
+      },
+      "sources": [
+        "src-chavin-burger-ucp-1984",
+        "src-chavin-kembel-rick-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-chavin-late-initial",
+      "names": {
+        "zh": "形成期晚期/查文前窗",
+        "en": "Late Initial / pre-Chavín window"
+      },
+      "time": {
+        "label": "ca. 1200–1000 BCE working band",
+        "approx_from_bce": 1200,
+        "approx_to_bce": 1000,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "繁荣前形成期窗。",
+        "en": "Pre-florescence Formative window."
+      },
+      "sources": [
+        "src-chavin-burger-ucp-1984",
+        "src-chavin-mesia-monteverde-orientation"
+      ]
+    },
+    {
+      "id": "period-chavin-janabarriu",
+      "names": {
+        "zh": "查文佳纳巴里乌风格窗",
+        "en": "Chavín Janabarriu-style window"
+      },
+      "time": {
+        "label": "Janabarriu ceramic-style floruit (Burger sequence labels)",
+        "approx_from_bce": 900,
+        "approx_to_bce": 500,
+        "scheme_note": "Burger ceramic sequence labels; absolute refine later."
+      },
+      "summary": {
+        "zh": "陶风繁荣标签。",
+        "en": "Ceramic-style floruit label."
+      },
+      "sources": [
+        "src-chavin-burger-ucp-1984",
+        "src-chavin-burger-origins-1992"
+      ]
+    },
+    {
+      "id": "period-chavin-epigonal",
+      "names": {
+        "zh": "查文后/过渡窗",
+        "en": "Post-Chavín / transitional window"
+      },
+      "time": {
+        "label": "after ca. 400 BCE working decline/transition",
+        "approx_from_bce": 400,
+        "approx_to_bce": 200,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "繁荣后过渡。",
+        "en": "Post-florescence transition."
+      },
+      "sources": [
+        "src-chavin-nesbitt-burger-2023",
+        "src-chavin-burger-origins-1992"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-chavin-lanzon-gallery-frame",
+      "names": {
+        "zh": "兰宗石像—廊道框架组合",
+        "en": "Lanzón / gallery frame assemblage"
+      },
+      "site_ids": [
+        "site-chavin-huantar-type",
+        "site-chavin-circular-plaza"
+      ],
+      "period_ids": [
+        "period-chavin-early-horizon"
+      ],
+      "sources": [
+        "src-chavin-unesco-330",
+        "src-chavin-burger-origins-1992",
+        "src-chavin-pozo-excavation-orientation"
+      ],
+      "summary": {
+        "zh": "兰宗与廊道传统指针；无伪造馆藏号。",
+        "en": "Lanzón and gallery tradition pointer; no forged catalog numbers."
+      }
+    },
+    {
+      "id": "asm-chavin-tenon-head-frame",
+      "names": {
+        "zh": "榫头石雕框架组合",
+        "en": "Tenon-head sculpture frame"
+      },
+      "site_ids": [
+        "site-chavin-huantar-type"
+      ],
+      "period_ids": [
+        "period-chavin-early-horizon",
+        "period-chavin-janabarriu"
+      ],
+      "sources": [
+        "src-chavin-unesco-330",
+        "src-chavin-burger-origins-1992"
+      ],
+      "summary": {
+        "zh": "榫头建筑石雕指针。",
+        "en": "Tenon-head architectural sculpture pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-chavin-unesco-listed",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将查文德万塔尔列入世界遗产，强调其安第斯形成期仪礼建筑与石雕（UNESCO 330）。",
+        "en": "UNESCO lists Chavín de Huántar as World Heritage, emphasizing Formative Andean ceremonial architecture and lithic sculpture (UNESCO 330)."
+      },
+      "site_ids": [
+        "site-chavin-huantar-type"
+      ],
+      "period_ids": [
+        "period-chavin-early-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-unesco-330"
+      ]
+    },
+    {
+      "id": "claim-chavin-burger-synthesis",
+      "kind": "fact",
+      "statement": {
+        "zh": "Burger 综合将查文表述为早地平线安第斯重要仪礼与互动中心（Burger 1992）。",
+        "en": "Burger's synthesis frames Chavín as a major Early Horizon Andean ceremonial and interaction centre (Burger 1992)."
+      },
+      "site_ids": [
+        "site-chavin-huantar-type"
+      ],
+      "period_ids": [
+        "period-chavin-early-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-burger-origins-1992"
+      ]
+    },
+    {
+      "id": "claim-chavin-excavation-monograph",
+      "kind": "fact",
+      "statement": {
+        "zh": "Burger 1984 专著建立查文德万塔尔史前占用与陶瓷序列的基础田野框架（UCP Anthropology 14）。",
+        "en": "Burger 1984 establishes a foundational field frame for prehistoric occupation and ceramic sequence at Chavín de Huántar (UCP Anthropology 14)."
+      },
+      "site_ids": [
+        "site-chavin-huantar-type"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-burger-ucp-1984"
+      ]
+    },
+    {
+      "id": "claim-chavin-rick-program",
+      "kind": "fact",
+      "statement": {
+        "zh": "斯坦福 Rick 长期项目以廊道、广场与建筑声学等取径持续发掘查文德万塔尔（项目门户/论著传统）。",
+        "en": "Stanford Rick long-term project continues excavation at Chavín de Huántar via galleries, plazas, and architectural-acoustics approaches (project portal / publication tradition)."
+      },
+      "site_ids": [
+        "site-chavin-circular-plaza"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-rick-stanford-orientation",
+        "src-chavin-pozo-excavation-orientation"
+      ]
+    },
+    {
+      "id": "claim-chavin-nesbitt-reconsider",
+      "kind": "fact",
+      "statement": {
+        "zh": "Nesbitt & Burger 2023 文集在二十一世纪框架下重审查文现象与互动圈（Dumbarton Oaks / HUP）。",
+        "en": "Nesbitt & Burger 2023 reconsider the Chavín phenomenon and interaction sphere in a twenty-first-century frame (Dumbarton Oaks / HUP)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-chavin-early-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-nesbitt-burger-2023"
+      ]
+    },
+    {
+      "id": "claim-chavin-kembel-architecture",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kembel/Rick 研究传统讨论查文庙宇建筑分期与圆形广场等空间（建筑年代学取向）。",
+        "en": "Kembel/Rick research tradition discusses temple architectural phasing and spaces such as the circular plaza (architectural chronology orientation)."
+      },
+      "site_ids": [
+        "site-chavin-circular-plaza",
+        "site-chavin-old-temple-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-kembel-rick-orientation",
+        "src-chavin-pozo-excavation-orientation"
+      ]
+    },
+    {
+      "id": "claim-chavin-comparative-formative",
+      "kind": "fact",
+      "statement": {
+        "zh": "文献常将孔图尔瓦西、帕科潘帕等形成期中心与查文圈比较讨论，但不自动等同为同一政体（Burger / Nesbitt–Burger）。",
+        "en": "Literature often compares Formative centres such as Kuntur Wasi and Pacopampa with the Chavín sphere without equating them as one polity (Burger / Nesbitt–Burger)."
+      },
+      "site_ids": [
+        "site-chavin-kuntur-wasi-orientation",
+        "site-chavin-pacopampa-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-burger-origins-1992",
+        "src-chavin-nesbitt-burger-2023"
+      ]
+    },
+    {
+      "id": "claim-chavin-lanzon-frame",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文与综合著作将兰宗石像与廊道系统表述为查文仪礼建筑的标志性要素（UNESCO 330；Burger 1992）。",
+        "en": "UNESCO and syntheses frame the Lanzón and gallery system as hallmark elements of Chavín ceremonial architecture (UNESCO 330; Burger 1992)."
+      },
+      "site_ids": [
+        "site-chavin-huantar-type"
+      ],
+      "period_ids": [
+        "period-chavin-early-horizon"
+      ],
+      "object_ids": [
+        "asm-chavin-lanzon-gallery-frame"
+      ],
+      "sources": [
+        "src-chavin-unesco-330",
+        "src-chavin-burger-origins-1992"
+      ]
+    },
+    {
+      "id": "claim-chavin-tenon-heads",
+      "kind": "fact",
+      "statement": {
+        "zh": "查文德万塔尔建筑石雕传统包括榫头头像等要素，见于教科文与综合描述（UNESCO 330；Burger 1992）。",
+        "en": "Chavín de Huántar architectural sculpture tradition includes tenon heads among other elements, as described by UNESCO and syntheses (UNESCO 330; Burger 1992)."
+      },
+      "site_ids": [
+        "site-chavin-huantar-type"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-chavin-tenon-head-frame"
+      ],
+      "sources": [
+        "src-chavin-unesco-330",
+        "src-chavin-burger-origins-1992"
+      ]
+    },
+    {
+      "id": "claim-chavin-janabarriu-label",
+      "kind": "fact",
+      "statement": {
+        "zh": "Burger 陶瓷序列使用佳纳巴里乌等风格标签描述查文繁荣期陶业（Burger 1984/1992）；绝对年代仍可修订。",
+        "en": "Burger's ceramic sequence uses labels such as Janabarriu for Chavín floruit pottery (Burger 1984/1992); absolute dates remain revisable."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-chavin-janabarriu"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-chavin-burger-ucp-1984",
+        "src-chavin-burger-origins-1992"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-chavin-unesco",
+      "title": {
+        "zh": "教科文：查文考古遗址",
+        "en": "UNESCO: Chavin (Archaeological Site)",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/330/",
+      "sources": [
+        "src-chavin-unesco-330"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-chavin-unesco-docs",
+      "title": {
+        "zh": "教科文查文文档页",
+        "en": "UNESCO Chavín documents",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/330/documents/",
+      "sources": [
+        "src-chavin-unesco-media-landing"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-chavin-stanford-portal",
+      "title": {
+        "zh": "斯坦福查文项目门户",
+        "en": "Stanford Chavín project portal",
+        "native": null
+      },
+      "external_url": "https://web.stanford.edu/~johnrick/chavin_wrap/chavin/",
+      "sources": [
+        "src-chavin-rick-stanford-orientation"
+      ],
+      "attribution": "Stanford University / John Rick research pages",
+      "media_type": "document-link"
+    }
+  ]
+}

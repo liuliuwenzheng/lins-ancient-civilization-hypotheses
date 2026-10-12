@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-conchopata",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Conchopata 发掘传统以祭献与陶器生产语境著称（Isbell/Cook 取向）。",
+    "en": "Conchopata excavation tradition is noted for offering and ceramic-production contexts (Isbell/Cook orientation)."
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-conchopata"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-conchopata-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

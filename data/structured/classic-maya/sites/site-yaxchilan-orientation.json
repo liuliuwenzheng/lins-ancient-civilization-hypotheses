@@ -1,0 +1,32 @@
+{
+  "id": "site-yaxchilan-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "亚克斯奇兰（指针）",
+    "en": "Yaxchilán (orientation)",
+    "native": null
+  },
+  "kind_note": "Usumacinta Classic centre",
+  "region": "Chiapas, Mexico",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "乌苏马辛塔政体指针。",
+    "en": "Usumacinta polity orientation."
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-houston-stuart-taube"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

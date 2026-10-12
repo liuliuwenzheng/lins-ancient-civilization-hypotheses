@@ -1,0 +1,43 @@
+{
+  "id": "asm-nuragic-tower-village-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "努拉吉石塔—村落框架组合",
+    "en": "Nuragic tower–village frame"
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-su-nuraxi-barumini"
+  ],
+  "period_ids": [
+    "period-nuragic-bronze-iron"
+  ],
+  "summary": {
+    "zh": "壳级石塔与环绕村落指针。",
+    "en": "Shell tower-and-village architecture pointer."
+  },
+  "sources": [
+    "src-nuragic-unesco-833",
+    "src-nuragic-lilliu-1988"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

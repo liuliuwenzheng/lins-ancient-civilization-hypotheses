@@ -1,0 +1,33 @@
+{
+  "id": "site-chaco-canyon",
+  "entity": "site",
+  "names": {
+    "zh": "查科峡谷",
+    "en": "Chaco Canyon",
+    "native": "Chaco"
+  },
+  "kind_note": "Great-house canyon centre; UNESCO WH",
+  "region": "Northwestern New Mexico, USA",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "大屋与道路体系著名的峡谷中心；教科文名录。",
+    "en": "Canyon centre famous for great houses and road systems; UNESCO listed."
+  },
+  "sources": [
+    "src-pueblo-unesco-chaco-353",
+    "src-pueblo-lekson-2009",
+    "src-pueblo-nps-chaco-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

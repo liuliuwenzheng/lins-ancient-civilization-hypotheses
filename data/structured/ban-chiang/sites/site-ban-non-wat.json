@@ -1,0 +1,32 @@
+{
+  "id": "site-ban-non-wat",
+  "entity": "site",
+  "names": {
+    "zh": "班农瓦特",
+    "en": "Ban Non Wat",
+    "native": null
+  },
+  "kind_note": "Major excavated prehistoric settlement/cemetery",
+  "region": "Nakhon Ratchasima, Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "大型发掘序列，澄清区域年代。",
+    "en": "Large excavated sequence clarifying regional chronology."
+  },
+  "sources": [
+    "src-ban-chiang-ban-non-wat-higham",
+    "src-ban-chiang-higham-sea-bronze"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

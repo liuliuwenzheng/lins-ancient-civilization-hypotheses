@@ -1,0 +1,43 @@
+{
+  "id": "asm-zimbabwe-dry-stone-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "大津巴布韦干石墙框架组合",
+    "en": "Great Zimbabwe dry-stone architecture frame"
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-great-zimbabwe-monument"
+  ],
+  "period_ids": [
+    "period-great-zimbabwe-floruit"
+  ],
+  "summary": {
+    "zh": "壳级干石墙建筑指针。",
+    "en": "Shell dry-stone architecture pointer."
+  },
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-garlake-1973"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

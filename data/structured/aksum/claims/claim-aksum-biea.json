@@ -1,0 +1,31 @@
+{
+  "id": "claim-aksum-biea",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "东非英国研究所/Munro-Hay 发掘传统延续阿克苏姆田野工作（P 取向）。",
+    "en": "British Institute in Eastern Africa / Munro-Hay excavation traditions continue Aksum fieldwork (P orientation)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-beta-gaba-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-british-institute-orientation",
+    "src-aksum-fattovich-bard-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

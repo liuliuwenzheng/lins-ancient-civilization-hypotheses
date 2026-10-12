@@ -1,0 +1,19 @@
+{
+  "id": "src-angkor-jacques-lafond-2007",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Jacques, Claude, and Philippe Lafond. 2007. The Khmer Empire: Cities and Sanctuaries from the 5th to the 13th Century. Bangkok: River Books.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Cities and sanctuaries overview; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-early-korea-dolmen-orientation",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO / Korean dolmen heritage orientation (Gochang–Hwasun–Ganghwa related).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "T",
+  "notes": "Megalithic Mumun-related orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

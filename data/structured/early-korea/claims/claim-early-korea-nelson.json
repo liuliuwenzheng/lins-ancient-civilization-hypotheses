@@ -1,0 +1,30 @@
+{
+  "id": "claim-early-korea-nelson",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Nelson 1993 提供朝鲜考古英文入门综述。",
+    "en": "Nelson 1993 provides an English introductory synthesis of Korean archaeology."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mumun"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-nelson-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

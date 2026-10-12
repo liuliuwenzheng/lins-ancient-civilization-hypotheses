@@ -1,0 +1,32 @@
+{
+  "id": "site-rapa-nui-national-park",
+  "entity": "site",
+  "names": {
+    "zh": "拉帕努伊国家公园",
+    "en": "Rapa Nui National Park",
+    "native": "Rapa Nui"
+  },
+  "kind_note": "Island ceremonial landscape with moai / ahu; UNESCO WH",
+  "region": "Easter Island, Chile",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "摩艾与阿胡仪礼景观；教科文名录；伦理优先。",
+    "en": "Moai and ahu ceremonial landscape; UNESCO listed; ethics-first packing."
+  },
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-van-tilburg-1994"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

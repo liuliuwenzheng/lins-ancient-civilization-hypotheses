@@ -1,0 +1,32 @@
+{
+  "id": "site-aksum-cathedral-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿克苏姆教堂区（指针）",
+    "en": "Aksum cathedral precinct (orientation)",
+    "native": null
+  },
+  "kind_note": "Later ecclesiastical precinct over Aksumite landscape",
+  "region": "Aksum, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "教会景观指针；注明晚期层。",
+    "en": "Ecclesiastical landscape orientation; later layers noted."
+  },
+  "sources": [
+    "src-aksum-unesco-15",
+    "src-aksum-heldman-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

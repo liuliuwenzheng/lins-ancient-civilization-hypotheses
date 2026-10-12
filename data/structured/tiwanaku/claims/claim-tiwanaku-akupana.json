@@ -1,0 +1,33 @@
+{
+  "id": "claim-tiwanaku-akupana",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合与教科文描述将阿卡帕纳列为仪礼核心重要台地建筑（UNESCO 567；Kolata 1993）。",
+    "en": "Syntheses and UNESCO descriptions list Akapana among major ceremonial-core platforms (UNESCO 567; Kolata 1993)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-akupana"
+  ],
+  "period_ids": [
+    "period-tiwanaku-classical"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

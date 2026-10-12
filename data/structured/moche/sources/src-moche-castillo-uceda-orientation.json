@@ -1,0 +1,19 @@
+{
+  "id": "src-moche-castillo-uceda-orientation",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Castillo Butters, Luis Jaime, and Santiago Uceda Castillo — Huaca de la Luna / Huacas de Moche excavation program publications.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary excavation tradition pointer; no invented inventories.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

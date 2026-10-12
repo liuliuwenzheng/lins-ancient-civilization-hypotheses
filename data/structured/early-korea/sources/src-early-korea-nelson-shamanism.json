@@ -1,0 +1,19 @@
+{
+  "id": "src-early-korea-nelson-shamanism",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Nelson, Sarah Milledge — shamanism and Korean archaeology essays.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Interpretive orientation; keep fact claims cautious.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

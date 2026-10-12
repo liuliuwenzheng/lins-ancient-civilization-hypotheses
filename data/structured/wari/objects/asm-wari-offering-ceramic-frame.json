@@ -1,0 +1,43 @@
+{
+  "id": "asm-wari-offering-ceramic-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦里祭献陶器框架",
+    "en": "Wari offering ceramic frame"
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-conchopata"
+  ],
+  "period_ids": [
+    "period-wari-floruit"
+  ],
+  "summary": {
+    "zh": "祭献陶器传统指针。",
+    "en": "Offering ceramic tradition pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-wari-conchopata-orientation",
+    "src-wari-glowacki-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

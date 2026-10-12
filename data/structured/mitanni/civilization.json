@@ -2,7 +2,7 @@
   "id": "civ-mitanni",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "米坦尼 / 胡里安",
     "en": "Mitanni / Hurrian",
@@ -11,28 +11,58 @@
   "region": "Southwest Asia / Upper Mesopotamia and northern Syria (Khabur–Balikh; contacts with Anatolia and Levant)",
   "time_span": "Late Bronze Age Mitanni kingdom floruit ca. 15th–13th c. BCE (Wilhelm / Bryce frames)",
   "summary": {
-    "zh": "米坦尼档案壳：Wilhelm 胡里安综述 + 赫梯/埃及外交文本；library-seed。",
-    "en": "Mitanni archive shell: Wilhelm Hurrian synthesis + Hittite/Egyptian diplomatic texts; library-seed."
+    "zh": "米坦尼档案（library-seed-rich）：Wilhelm/Bryce/Amarna + 上美索不达米亚胡里安语境遗址；仍非埃及级密度。",
+    "en": "Mitanni archive (library-seed-rich): Wilhelm/Bryce/Amarna + Upper Mesopotamian Hurrian-context sites; not yet Egypt-level density."
   },
   "sources": [
-    "src-mitanni-wilhelm-hurrians-1989",
-    "src-mitanni-bryce-kingdom-hittites",
-    "src-mitanni-beckman-diplomatic-texts",
+    "src-mitanni-alalakh-orientation",
     "src-mitanni-amarna-letters-orientation",
-    "src-mitanni-nuzi-orientation"
+    "src-mitanni-beckman-diplomatic-texts",
+    "src-mitanni-bryce-kingdom-hittites",
+    "src-mitanni-cancik-kirschbaum",
+    "src-mitanni-kikkuli-orientation",
+    "src-mitanni-nuzi-orientation",
+    "src-mitanni-orphaned-amarna",
+    "src-mitanni-pleiades-nuzi",
+    "src-mitanni-saustatar-orientation",
+    "src-mitanni-stein-glyptic",
+    "src-mitanni-tell-brak-orientation",
+    "src-mitanni-von-dassow-orientation",
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-wilhelm-ria"
   ],
   "site_ids": [
+    "site-alalakh-tell-atchana",
+    "site-mitanni-upper-khabur-orientation",
+    "site-mitanni-washukanni-orientation",
+    "site-nuzi-archives-sector",
     "site-nuzi-yorghan-tepe",
-    "site-mitanni-washukanni-orientation"
+    "site-tell-brak-mitanni",
+    "site-tell-fekheriye-orientation"
   ],
   "period_ids": [
+    "period-mitanni-amarna-age",
+    "period-mitanni-assyrian-pressure",
+    "period-mitanni-formation",
     "period-mitanni-lba"
   ],
   "claim_ids": [
-    "claim-mitanni-hurrian-kingdom"
+    "claim-mitanni-alalakh",
+    "claim-mitanni-amarna",
+    "claim-mitanni-beckman",
+    "claim-mitanni-bryce",
+    "claim-mitanni-hurrian-kingdom",
+    "claim-mitanni-kikkuli",
+    "claim-mitanni-nuzi",
+    "claim-mitanni-pleiades-nuzi",
+    "claim-mitanni-tell-brak",
+    "claim-mitanni-washukanni-open",
+    "claim-mitanni-wilhelm"
   ],
   "object_ids": [
-    "asm-mitanni-diplomatic-texts-frame"
+    "asm-mitanni-amarna-letters-frame",
+    "asm-mitanni-diplomatic-texts-frame",
+    "asm-mitanni-nuzi-tablets-frame"
   ],
   "related_ids": [
     "civ-anatolia-hittite",
@@ -43,11 +73,11 @@
   "markdown_path": "data/civilizations/civ-mitanni.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

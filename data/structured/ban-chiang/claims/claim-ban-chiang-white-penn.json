@@ -1,0 +1,31 @@
+{
+  "id": "claim-ban-chiang-white-penn",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "宾大博物馆 White 项目传统是班清发掘与年代讨论的核心来源之一。",
+    "en": "Penn Museum White project tradition is a core source for Ban Chiang excavation and chronology debates."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-ban-chiang-udon"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-white-penn-orientation",
+    "src-ban-chiang-white-burial"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

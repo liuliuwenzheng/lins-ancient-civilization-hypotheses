@@ -1,0 +1,30 @@
+{
+  "id": "claim-phoenician-aubet",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Aubet 2001 综合讨论腓尼基人在西部地中海的扩张。",
+    "en": "Aubet 2001 synthesizes Phoenician expansion in the western Mediterranean."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-phoenician-western-expansion"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-west-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

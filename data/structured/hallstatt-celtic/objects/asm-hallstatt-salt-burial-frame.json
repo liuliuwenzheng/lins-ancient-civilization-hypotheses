@@ -1,0 +1,43 @@
+{
+  "id": "asm-hallstatt-salt-burial-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈尔施塔特盐矿—墓葬框架组合",
+    "en": "Hallstatt salt-mine / burial frame"
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-type"
+  ],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "summary": {
+    "zh": "壳级盐矿与墓葬传统指针。",
+    "en": "Shell salt-mine and burial-tradition pointer."
+  },
+  "sources": [
+    "src-hallstatt-unesco-806",
+    "src-hallstatt-nhm-vienna-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

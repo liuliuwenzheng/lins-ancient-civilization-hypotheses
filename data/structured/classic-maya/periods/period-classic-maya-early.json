@@ -1,0 +1,34 @@
+{
+  "id": "period-classic-maya-early",
+  "entity": "period",
+  "names": {
+    "zh": "经典玛雅早期窗",
+    "en": "Early Classic Maya"
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Early Classic dynastic consolidation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "ca. 250–600 CE working."
+  },
+  "summary": {
+    "zh": "早期经典。",
+    "en": "Early Classic."
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

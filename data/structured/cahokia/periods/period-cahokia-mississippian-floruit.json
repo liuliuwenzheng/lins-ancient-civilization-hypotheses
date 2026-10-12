@@ -1,0 +1,34 @@
+{
+  "id": "period-cahokia-mississippian-floruit",
+  "entity": "period",
+  "names": {
+    "zh": "卡霍基亚密西西比繁荣窗",
+    "en": "Cahokia Mississippian floruit"
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "time": {
+    "label": "ca. 1050–1350 CE (Pauketat / Emerson working frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "CE span; Lohmann–Stirling–Moorehead phase tables deferred."
+  },
+  "summary": {
+    "zh": "壳级密西西比繁荣窗。",
+    "en": "Shell Mississippian floruit window."
+  },
+  "sources": [
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-milner-1998"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

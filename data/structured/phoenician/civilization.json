@@ -2,7 +2,7 @@
   "id": "civ-phoenician",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "腓尼基 / 城邦与西地中海扩张",
     "en": "Phoenician (city-states and western expansion)",
@@ -11,28 +11,58 @@
   "region": "Southwest Asia / Levantine coast (Lebanon–Syria) and western Mediterranean colonies",
   "time_span": "Iron Age Levantine city-state floruit into Punic western expansion (Aubet / Markoe frames; Carthage later)",
   "summary": {
-    "zh": "腓尼基档案壳：Aubet 西地中海扩张 + 比布鲁斯教科文；library-seed。",
-    "en": "Phoenician archive shell: Aubet western Mediterranean expansion + Byblos UNESCO; library-seed."
+    "zh": "腓尼基档案（library-seed-rich）：Aubet/Markoe + 黎凡特海岸与西地中海布匿节点；仍非埃及级密度。",
+    "en": "Phoenician archive (library-seed-rich): Aubet/Markoe + Levantine coast and western Punic nodes; not yet Egypt-level density."
   },
   "sources": [
     "src-phoenician-aubet-west-2001",
+    "src-phoenician-bondi-orientation",
+    "src-phoenician-elayi-orientation",
+    "src-phoenician-gadir-orientation",
+    "src-phoenician-lipinski-orientation",
     "src-phoenician-markoe-2000",
+    "src-phoenician-motya-orientation",
+    "src-phoenician-nieto-orientation",
+    "src-phoenician-sidon-orientation",
     "src-phoenician-unesco-byblos-295",
+    "src-phoenician-unesco-byblos-docs",
+    "src-phoenician-unesco-carthage-37",
+    "src-phoenician-unesco-carthage-docs",
     "src-phoenician-unesco-tyre-299",
-    "src-phoenician-unesco-carthage-37"
+    "src-phoenician-unesco-tyre-docs"
   ],
   "site_ids": [
     "site-byblos-gubla",
-    "site-tyre-sur",
-    "site-carthage-punic"
+    "site-carthage-punic",
+    "site-gadir-cadiz-orientation",
+    "site-kition-orientation",
+    "site-motya-sicily",
+    "site-sarepta-orientation",
+    "site-sidon-saida",
+    "site-tyre-sur"
   ],
   "period_ids": [
-    "period-phoenician-iron-punic"
+    "period-phoenician-iron-i-ii",
+    "period-phoenician-iron-punic",
+    "period-phoenician-western-expansion",
+    "period-punic-floruit"
   ],
   "claim_ids": [
-    "claim-phoenician-coastal-western-expansion"
+    "claim-phoenician-alphabet",
+    "claim-phoenician-aubet",
+    "claim-phoenician-byblos-unesco",
+    "claim-phoenician-carthage-unesco",
+    "claim-phoenician-coastal-western-expansion",
+    "claim-phoenician-gadir",
+    "claim-phoenician-markoe",
+    "claim-phoenician-motya",
+    "claim-phoenician-punic-west",
+    "claim-phoenician-sidon",
+    "claim-phoenician-tyre-unesco"
   ],
   "object_ids": [
+    "asm-phoenician-alphabet-frame",
+    "asm-phoenician-harbour-trade-frame",
     "asm-phoenician-maritime-trade-frame"
   ],
   "related_ids": [
@@ -43,11 +73,11 @@
   "markdown_path": "data/civilizations/civ-phoenician.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

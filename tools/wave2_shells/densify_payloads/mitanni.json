@@ -1,0 +1,489 @@
+{
+  "civ_id": "civ-mitanni",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "米坦尼档案（library-seed-rich）：Wilhelm/Bryce/Amarna + 上美索不达米亚胡里安语境遗址；仍非埃及级密度。",
+    "en": "Mitanni archive (library-seed-rich): Wilhelm/Bryce/Amarna + Upper Mesopotamian Hurrian-context sites; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-mitanni-von-dassow-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "von Dassow, Eva — State and Society in the Late Bronze Age: Alalaḫ under the Mittani Empire.",
+      "url": null,
+      "notes": "Alalakh/Mitanni imperial society orientation."
+    },
+    {
+      "id": "src-mitanni-cancik-kirschbaum",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Cancik-Kirschbaum, Eva — Mittani and Middle Assyrian studies orientation.",
+      "url": null,
+      "notes": "Mittani–Assyria orientation."
+    },
+    {
+      "id": "src-mitanni-pleiades-nuzi",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Nuzi / Yorghan Tepe place record.",
+      "url": "https://pleiades.stoa.org/places/874724",
+      "notes": "Gazetteer orientation for Nuzi."
+    },
+    {
+      "id": "src-mitanni-alalakh-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Woolley / Yener Alalakh (Tell Atchana) excavation traditions.",
+      "url": null,
+      "notes": "Alalakh P-tradition pointer."
+    },
+    {
+      "id": "src-mitanni-tell-brak-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Oates / British School excavations at Tell Brak — Hurrian/Mitanni-period levels orientation.",
+      "url": null,
+      "notes": "Tell Brak P-tradition."
+    },
+    {
+      "id": "src-mitanni-saustatar-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Discussions of Saustatar and Mitanni expansion in secondary literature.",
+      "url": null,
+      "notes": "Dynastic orientation; no invented reign lengths."
+    },
+    {
+      "id": "src-mitanni-kikkuli-orientation",
+      "type": "digital-corpus",
+      "tier": "P",
+      "citation": "Kikkuli horse-training text tradition (Hittite archives) — Mitanni-related technical text.",
+      "url": null,
+      "notes": "Textual P pointer via Hittite copies."
+    },
+    {
+      "id": "src-mitanni-orphaned-amarna",
+      "type": "digital-corpus",
+      "tier": "P",
+      "citation": "Amarna letter corpus (EA) — Mitanni correspondence subset (British Museum / online corpora).",
+      "url": null,
+      "notes": "Diplomatic P corpus orientation."
+    },
+    {
+      "id": "src-mitanni-wilhelm-ria",
+      "type": "article",
+      "tier": "S",
+      "citation": "Wilhelm, Gernot — Reallexikon / handbook articles on Mittani and Hurrians.",
+      "url": null,
+      "notes": "Handbook article orientation."
+    },
+    {
+      "id": "src-mitanni-stein-glyptic",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Stein, Diana — Nuzi glyptic and archive studies.",
+      "url": null,
+      "notes": "Nuzi glyptic/archive orientation."
+    }
+  ],
+  "fill_coords": {},
+  "sites": [
+    {
+      "id": "site-alalakh-tell-atchana",
+      "names": {
+        "zh": "阿拉拉赫（泰勒阿查纳）",
+        "en": "Alalakh (Tell Atchana)",
+        "native": "Alalakh"
+      },
+      "kind_note": "LBA city under Mitanni then Hittite orbit",
+      "region": "Hatay, Türkiye",
+      "coords": null,
+      "summary": {
+        "zh": "米坦尼帝国社会争论的关键发掘城市。",
+        "en": "Key excavated city for Mitanni imperial society debates."
+      },
+      "sources": [
+        "src-mitanni-alalakh-orientation",
+        "src-mitanni-von-dassow-orientation",
+        "src-mitanni-bryce-kingdom-hittites"
+      ]
+    },
+    {
+      "id": "site-tell-brak-mitanni",
+      "names": {
+        "zh": "泰勒布拉克（米坦尼层指针）",
+        "en": "Tell Brak (Mitanni-period orientation)",
+        "native": null
+      },
+      "kind_note": "Urban site with LBA Hurrian/Mitanni levels",
+      "region": "NE Syria",
+      "coords": null,
+      "summary": {
+        "zh": "胡里安/米坦尼时期层位指针。",
+        "en": "Hurrian/Mitanni-period levels orientation."
+      },
+      "sources": [
+        "src-mitanni-tell-brak-orientation",
+        "src-mitanni-wilhelm-hurrians-1989"
+      ]
+    },
+    {
+      "id": "site-tell-fekheriye-orientation",
+      "names": {
+        "zh": "费赫里耶（指针）",
+        "en": "Tell Fekheriye (orientation)",
+        "native": null
+      },
+      "kind_note": "Often discussed in Washukanni location debates",
+      "region": "Khabur region",
+      "coords": null,
+      "summary": {
+        "zh": "米坦尼都城景观候选讨论；鉴定开放。",
+        "en": "Candidate discussions for Mitanni capital landscape; identification open."
+      },
+      "sources": [
+        "src-mitanni-wilhelm-hurrians-1989",
+        "src-mitanni-bryce-kingdom-hittites"
+      ]
+    },
+    {
+      "id": "site-nuzi-archives-sector",
+      "names": {
+        "zh": "努济档案区",
+        "en": "Nuzi archive sector",
+        "native": null
+      },
+      "kind_note": "Tablet archive quarter at Yorghan Tepe",
+      "region": "near Kirkuk, Iraq",
+      "coords": null,
+      "summary": {
+        "zh": "以胡里安化法律泥板著称的档案区。",
+        "en": "Archive sector famous for Hurrianized legal tablets."
+      },
+      "sources": [
+        "src-mitanni-nuzi-orientation",
+        "src-mitanni-stein-glyptic"
+      ]
+    },
+    {
+      "id": "site-mitanni-upper-khabur-orientation",
+      "names": {
+        "zh": "上哈布尔景观（指针）",
+        "en": "Upper Khabur landscape (orientation)",
+        "native": null
+      },
+      "kind_note": "Regional Mitanni heartland discussion zone",
+      "region": "Upper Khabur basin",
+      "coords": null,
+      "summary": {
+        "zh": "核心区景观指针；非单一点。",
+        "en": "Heartland landscape orientation; not a single point."
+      },
+      "sources": [
+        "src-mitanni-wilhelm-hurrians-1989",
+        "src-mitanni-cancik-kirschbaum"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-mitanni-formation",
+      "names": {
+        "zh": "米坦尼形成窗",
+        "en": "Mitanni formation window"
+      },
+      "time": {
+        "label": "formation of Mitanni kingdom in LBA",
+        "approx_from_bce": 1600,
+        "approx_to_bce": 1500,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "形成。",
+        "en": "Formation."
+      },
+      "sources": [
+        "src-mitanni-wilhelm-hurrians-1989",
+        "src-mitanni-bryce-kingdom-hittites"
+      ]
+    },
+    {
+      "id": "period-mitanni-amarna-age",
+      "names": {
+        "zh": "米坦尼阿马尔奈时代窗",
+        "en": "Mitanni Amarna-age window"
+      },
+      "time": {
+        "label": "correspondence with Egypt; great-power diplomacy",
+        "approx_from_bce": 1400,
+        "approx_to_bce": 1300,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "阿马尔奈外交。",
+        "en": "Amarna-age diplomacy."
+      },
+      "sources": [
+        "src-mitanni-amarna-letters-orientation",
+        "src-mitanni-orphaned-amarna",
+        "src-mitanni-beckman-diplomatic-texts"
+      ]
+    },
+    {
+      "id": "period-mitanni-assyrian-pressure",
+      "names": {
+        "zh": "米坦尼—中亚述压力窗",
+        "en": "Mitanni under Middle Assyrian pressure"
+      },
+      "time": {
+        "label": "decline under Assyrian and Hittite pressure",
+        "approx_from_bce": 1300,
+        "approx_to_bce": 1200,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "衰退/压力。",
+        "en": "Decline/pressure."
+      },
+      "sources": [
+        "src-mitanni-cancik-kirschbaum",
+        "src-mitanni-bryce-kingdom-hittites"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-mitanni-amarna-letters-frame",
+      "names": {
+        "zh": "米坦尼阿马尔奈书信框架",
+        "en": "Mitanni Amarna letters frame"
+      },
+      "site_ids": [
+        "site-mitanni-washukanni-orientation"
+      ],
+      "period_ids": [
+        "period-mitanni-lba",
+        "period-mitanni-amarna-age"
+      ],
+      "sources": [
+        "src-mitanni-amarna-letters-orientation",
+        "src-mitanni-orphaned-amarna",
+        "src-mitanni-beckman-diplomatic-texts"
+      ],
+      "summary": {
+        "zh": "外交书信语料指针。",
+        "en": "Diplomatic letter corpus pointer; no forged tablet numbers."
+      }
+    },
+    {
+      "id": "asm-mitanni-nuzi-tablets-frame",
+      "names": {
+        "zh": "努济泥板档案框架",
+        "en": "Nuzi tablet archive frame"
+      },
+      "site_ids": [
+        "site-nuzi-yorghan-tepe",
+        "site-nuzi-archives-sector"
+      ],
+      "period_ids": [
+        "period-mitanni-lba"
+      ],
+      "sources": [
+        "src-mitanni-nuzi-orientation",
+        "src-mitanni-stein-glyptic"
+      ],
+      "summary": {
+        "zh": "法律/经济泥板档案指针。",
+        "en": "Legal/economic tablet archive pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-mitanni-wilhelm",
+      "kind": "fact",
+      "statement": {
+        "zh": "Wilhelm 1989 等综述将米坦尼置于胡里安语世界的晚青铜大国框架。",
+        "en": "Wilhelm 1989 and related syntheses place Mitanni in a Late Bronze Hurrian great-power frame."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-mitanni-lba"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-wilhelm-hurrians-1989",
+        "src-mitanni-wilhelm-ria"
+      ]
+    },
+    {
+      "id": "claim-mitanni-amarna",
+      "kind": "fact",
+      "statement": {
+        "zh": "阿马尔奈书信语料保存米坦尼与埃及等大国的外交通信（书信传统；Liverani/Moran 取向）。",
+        "en": "The Amarna letter corpus preserves Mitanni diplomatic correspondence with Egypt and other powers (letter tradition; Liverani/Moran orientation)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-mitanni-amarna-age"
+      ],
+      "object_ids": [
+        "asm-mitanni-amarna-letters-frame"
+      ],
+      "sources": [
+        "src-mitanni-amarna-letters-orientation",
+        "src-mitanni-orphaned-amarna"
+      ]
+    },
+    {
+      "id": "claim-mitanni-bryce",
+      "kind": "fact",
+      "statement": {
+        "zh": "Bryce《赫梯王国》等二手综合讨论米坦尼与赫梯互动。",
+        "en": "Bryce Kingdom of the Hittites and related syntheses discuss Mitanni–Hittite interaction."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-mitanni-assyrian-pressure"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-bryce-kingdom-hittites"
+      ]
+    },
+    {
+      "id": "claim-mitanni-nuzi",
+      "kind": "fact",
+      "statement": {
+        "zh": "努济（Yorghan Tepe）泥板档案提供胡里安化社会法律—经济证据（档案传统）。",
+        "en": "Nuzi (Yorghan Tepe) tablet archives provide Hurrianized socio-legal and economic evidence (archive tradition)."
+      },
+      "site_ids": [
+        "site-nuzi-yorghan-tepe"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-mitanni-nuzi-tablets-frame"
+      ],
+      "sources": [
+        "src-mitanni-nuzi-orientation",
+        "src-mitanni-stein-glyptic"
+      ]
+    },
+    {
+      "id": "claim-mitanni-alalakh",
+      "kind": "fact",
+      "statement": {
+        "zh": "von Dassow 等将阿拉拉赫讨论为米坦尼帝国统治下的城邦社会案例。",
+        "en": "von Dassow and related work discuss Alalakh as a city-society case under Mitanni imperial rule."
+      },
+      "site_ids": [
+        "site-alalakh-tell-atchana"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-von-dassow-orientation",
+        "src-mitanni-alalakh-orientation"
+      ]
+    },
+    {
+      "id": "claim-mitanni-washukanni-open",
+      "kind": "fact",
+      "statement": {
+        "zh": "Washukanni 都城地望仍有讨论，费赫里耶等为候选取向而非定论（Wilhelm；Bryce）。",
+        "en": "Washukanni's capital location remains debated; Tell Fekheriye and others are candidate orientations, not settled identifications (Wilhelm; Bryce)."
+      },
+      "site_ids": [
+        "site-mitanni-washukanni-orientation",
+        "site-tell-fekheriye-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-wilhelm-hurrians-1989",
+        "src-mitanni-bryce-kingdom-hittites"
+      ]
+    },
+    {
+      "id": "claim-mitanni-beckman",
+      "kind": "fact",
+      "statement": {
+        "zh": "外交文本与条约传统（含赫梯侧）是重建米坦尼国际关系的关键来源（Letterman/Bryce 取向）。",
+        "en": "Diplomatic texts and treaty traditions (including Hittite-side) are key sources for Mitanni international relations (Letterman/Bryce orientation)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-mitanni-amarna-age"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-beckman-diplomatic-texts",
+        "src-mitanni-bryce-kingdom-hittites"
+      ]
+    },
+    {
+      "id": "claim-mitanni-kikkuli",
+      "kind": "fact",
+      "statement": {
+        "zh": "基库利训马文本经赫梯档案保存，常与米坦尼技术传统并提（文本 P 取向）。",
+        "en": "The Kikkuli horse-training text survives via Hittite archives and is often linked to Mitanni technical traditions (textual P orientation)."
+      },
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-kikkuli-orientation"
+      ]
+    },
+    {
+      "id": "claim-mitanni-tell-brak",
+      "kind": "fact",
+      "statement": {
+        "zh": "泰勒布拉克晚青铜层为上哈布尔胡里安/米坦尼语境提供田野取向（Oates 传统）。",
+        "en": "Tell Brak LBA levels provide field orientation for Upper Khabur Hurrian/Mitanni contexts (Oates tradition)."
+      },
+      "site_ids": [
+        "site-tell-brak-mitanni"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-tell-brak-orientation"
+      ]
+    },
+    {
+      "id": "claim-mitanni-pleiades-nuzi",
+      "kind": "fact",
+      "statement": {
+        "zh": "Pleiades 等地名录为努济提供地名词典取向点。",
+        "en": "Pleiades and related gazetteers provide a place-record orientation for Nuzi."
+      },
+      "site_ids": [
+        "site-nuzi-yorghan-tepe"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-mitanni-pleiades-nuzi"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-mitanni-pleiades-nuzi",
+      "title": {
+        "zh": "Pleiades：努济取向",
+        "en": "Pleiades: Nuzi orientation",
+        "native": null
+      },
+      "external_url": "https://pleiades.stoa.org/places/874724",
+      "sources": [
+        "src-mitanni-pleiades-nuzi"
+      ],
+      "attribution": "Pleiades / Stoa",
+      "media_type": "document-link"
+    }
+  ]
+}

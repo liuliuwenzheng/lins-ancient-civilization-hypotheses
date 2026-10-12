@@ -1,0 +1,43 @@
+{
+  "id": "asm-moche-fineline-ceramic-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "莫切细线彩陶框架组合",
+    "en": "Moche fineline ceramic frame"
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-huacas-de-moche"
+  ],
+  "period_ids": [
+    "period-moche-eip-floruit"
+  ],
+  "summary": {
+    "zh": "壳级细线彩陶与肖像指针；无伪造馆藏号。",
+    "en": "Shell fineline ceramic and portraiture pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-moche-donnan-mcclelland-1999",
+    "src-moche-quilter-2010"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

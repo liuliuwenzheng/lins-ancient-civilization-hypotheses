@@ -1,0 +1,32 @@
+{
+  "id": "site-sarepta-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "萨雷普塔（指针）",
+    "en": "Sarepta (orientation)",
+    "native": null
+  },
+  "kind_note": "Excavated coastal Phoenician town",
+  "region": "Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "出土较充分的海岸城镇指针。",
+    "en": "Well-excavated coastal town orientation."
+  },
+  "sources": [
+    "src-phoenician-markoe-2000",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

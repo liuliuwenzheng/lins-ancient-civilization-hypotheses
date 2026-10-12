@@ -1,0 +1,30 @@
+{
+  "id": "claim-classic-maya-martin-grube",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Martin & Grube 2008 以碑铭重建经典期低地诸王朝政治史（Chronicle of the Maya Kings and Queens）。",
+    "en": "Martin & Grube 2008 reconstruct Classic lowland dynastic political history from inscriptions (Chronicle of the Maya Kings and Queens)."
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-classic-maya-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

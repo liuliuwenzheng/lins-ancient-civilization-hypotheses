@@ -1,0 +1,34 @@
+{
+  "id": "period-inca-late-horizon",
+  "entity": "period",
+  "names": {
+    "zh": "印加晚地平线繁荣窗",
+    "en": "Inca Late Horizon floruit"
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "time": {
+    "label": "broadly 15th–early 16th centuries CE (D'Altroy working frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Expansion chronology debated; shell window only."
+  },
+  "summary": {
+    "zh": "壳级晚地平线窗。",
+    "en": "Shell Late Horizon window."
+  },
+  "sources": [
+    "src-inca-daltroy-2014",
+    "src-inca-mcewan-2006"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-mesa-verde",
+  "entity": "site",
+  "names": {
+    "zh": "梅萨维德",
+    "en": "Mesa Verde",
+    "native": null
+  },
+  "kind_note": "Cliff-dwelling mesa landscape; UNESCO WH",
+  "region": "Southwestern Colorado, USA",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "悬崖居所与台地聚落景观；教科文名录。",
+    "en": "Cliff-dwelling and mesa settlement landscape; UNESCO listed."
+  },
+  "sources": [
+    "src-pueblo-unesco-mesa-verde-27",
+    "src-pueblo-plog-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

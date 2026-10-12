@@ -1,0 +1,30 @@
+{
+  "id": "claim-early-korea-chinese-texts",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期中文文献被二手研究用于半岛政体名称与外交语境（文本取向；非发掘）。",
+    "en": "Early Chinese texts are used in secondary research for peninsula polity names and diplomatic contexts (textual orientation; not excavation)."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-proto-three-kingdoms"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-chinese-records"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

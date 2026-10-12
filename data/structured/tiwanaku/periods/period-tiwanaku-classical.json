@@ -1,0 +1,34 @@
+{
+  "id": "period-tiwanaku-classical",
+  "entity": "period",
+  "names": {
+    "zh": "蒂瓦纳科经典繁荣窗",
+    "en": "Tiwanaku classical floruit"
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "classical urban/ceremonial florescence (Kolata/Janusek)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "CE centuries; absolute tables deferred."
+  },
+  "summary": {
+    "zh": "经典繁荣。",
+    "en": "Classical floruit."
+  },
+  "sources": [
+    "src-tiwanaku-kolata-1993",
+    "src-tiwanaku-janusek-2008"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

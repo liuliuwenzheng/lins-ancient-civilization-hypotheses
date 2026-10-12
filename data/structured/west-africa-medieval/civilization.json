@@ -1,0 +1,52 @@
+{
+  "id": "civ-west-africa-medieval",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "西非中世纪诸国（加纳–马里–桑海）",
+    "en": "West African medieval empires (Ghana–Mali–Songhai)",
+    "native": "Ghāna / Mālī / Songhay"
+  },
+  "region": "West Africa / Sahel–Savanna (Senegal–Niger bend; Middle Niger)",
+  "time_span": "Sahelian empire floruit broadly 8th–16th centuries CE (Levtzion / McIntosh frames)",
+  "summary": {
+    "zh": "西非中世纪诸国档案壳：Levtzion/McIntosh + 廷巴克图/杰内教科文；library-seed。",
+    "en": "West African medieval empires shell: Levtzion/McIntosh + Timbuktu/Djenné UNESCO; library-seed."
+  },
+  "sources": [
+    "src-waf-unesco-timbuktu-119",
+    "src-waf-unesco-djenne-116",
+    "src-waf-levtzion-hopkins-2000",
+    "src-waf-mcintosh-2005",
+    "src-waf-hunwick-timbuktu-orientation"
+  ],
+  "site_ids": [
+    "site-timbuktu-medieval",
+    "site-djenne-old-towns",
+    "site-koumbi-saleh-orientation"
+  ],
+  "period_ids": [
+    "period-west-africa-sahelian-empires"
+  ],
+  "claim_ids": [
+    "claim-waf-sahelian-urban-centres"
+  ],
+  "object_ids": [
+    "asm-waf-sahel-urban-manuscript-frame"
+  ],
+  "related_ids": [
+    "civ-nok-west-africa",
+    "civ-great-zimbabwe"
+  ],
+  "markdown_path": "data/civilizations/civ-west-africa-medieval.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

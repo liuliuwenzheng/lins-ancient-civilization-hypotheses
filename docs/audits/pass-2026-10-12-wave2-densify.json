@@ -1,0 +1,267 @@
+{
+  "decision": "D-2026-10-12-16",
+  "date": "2026-10-12",
+  "packs": [
+    {
+      "pack": "chavin-andes",
+      "civ_id": "civ-chavin",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "tiwanaku",
+      "civ_id": "civ-tiwanaku",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "wari",
+      "civ_id": "civ-wari",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 1
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 1
+      }
+    },
+    {
+      "pack": "classic-maya",
+      "civ_id": "civ-classic-maya",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 3,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 8,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "aksum",
+      "civ_id": "civ-aksum",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "ban-chiang",
+      "civ_id": "civ-ban-chiang",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "early-korea",
+      "civ_id": "civ-early-korea",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "mitanni",
+      "civ_id": "civ-mitanni",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 1
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 1
+      }
+    },
+    {
+      "pack": "phoenician",
+      "civ_id": "civ-phoenician",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 3,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 8,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    }
+  ]
+}

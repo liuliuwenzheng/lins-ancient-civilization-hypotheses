@@ -1,0 +1,45 @@
+{
+  "id": "asm-mitanni-amarna-letters-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "米坦尼阿马尔奈书信框架",
+    "en": "Mitanni Amarna letters frame"
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-washukanni-orientation"
+  ],
+  "period_ids": [
+    "period-mitanni-lba",
+    "period-mitanni-amarna-age"
+  ],
+  "summary": {
+    "zh": "外交书信语料指针。",
+    "en": "Diplomatic letter corpus pointer; no forged tablet numbers."
+  },
+  "sources": [
+    "src-mitanni-amarna-letters-orientation",
+    "src-mitanni-orphaned-amarna",
+    "src-mitanni-letterman-diplomatic-texts"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

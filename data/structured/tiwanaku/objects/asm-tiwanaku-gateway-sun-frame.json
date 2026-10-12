@@ -1,0 +1,45 @@
+{
+  "id": "asm-tiwanaku-gateway-sun-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "太阳门—仪礼核心框架",
+    "en": "Gateway of the Sun / ceremonial-core frame"
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-capital",
+    "site-tiwanaku-kalasasaya"
+  ],
+  "period_ids": [
+    "period-tiwanaku-middle-horizon",
+    "period-tiwanaku-classical"
+  ],
+  "summary": {
+    "zh": "标志性石门与核心建筑指针。",
+    "en": "Iconic gateway and core architecture pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

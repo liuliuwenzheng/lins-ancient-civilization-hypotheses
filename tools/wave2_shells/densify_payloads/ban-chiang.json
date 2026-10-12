@@ -1,0 +1,507 @@
+{
+  "civ_id": "civ-ban-chiang",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "班清档案（library-seed-rich）：Higham/White + 东北泰史前遗址与金属传统；仍非埃及级密度。",
+    "en": "Ban Chiang archive (library-seed-rich): Higham/White + NE Thailand prehistoric sites and metal traditions; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-ban-chiang-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Ban Chiang Archaeological Site — documents. https://whc.unesco.org/en/list/575/documents/",
+      "url": "https://whc.unesco.org/en/list/575/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-ban-chiang-higham-thailands",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Higham, Charles. — Early cultures of mainland Southeast Asia / Thailand archaeology syntheses.",
+      "url": null,
+      "notes": "Mainland SEA synthesis orientation."
+    },
+    {
+      "id": "src-ban-chiang-white-burial",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "White, Joyce C. — Ban Chiang burial and chronology publications (Penn Museum tradition).",
+      "url": null,
+      "notes": "Burial/chronology P-tradition."
+    },
+    {
+      "id": "src-ban-chiang-penn-museum-web",
+      "type": "web",
+      "tier": "T",
+      "citation": "Penn Museum Ban Chiang Project pages — institutional orientation.",
+      "url": "https://www.penn.museum/sites/banchiang/",
+      "notes": "Project portal; tier T."
+    },
+    {
+      "id": "src-ban-chiang-pigott-brass",
+      "type": "article",
+      "tier": "S",
+      "citation": "Pigott, Vincent C. — archaeometallurgy of prehistoric Thailand.",
+      "url": null,
+      "notes": "Metallurgy orientation."
+    },
+    {
+      "id": "src-ban-chiang-non-nok-tha",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Bayard, Donn / Higham traditions — Non Nok Tha excavation reports.",
+      "url": null,
+      "notes": "Comparative NE Thailand site P-tradition."
+    },
+    {
+      "id": "src-ban-chiang-ban-non-wat-higham",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Higham, Charles F. W., and collaborators — Ban Non Wat excavation volumes.",
+      "url": null,
+      "notes": "Ban Non Wat P volumes."
+    },
+    {
+      "id": "src-ban-chiang-c14-debate",
+      "type": "article",
+      "tier": "S",
+      "citation": "Radiocarbon chronology debates for Ban Chiang metal ages (journal tradition).",
+      "url": null,
+      "notes": "Chronology debate orientation; no invented dates."
+    },
+    {
+      "id": "src-ban-chiang-glover-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Glover, Ian — early Southeast Asian metallurgy and exchange essays.",
+      "url": null,
+      "notes": "Exchange/metallurgy orientation."
+    },
+    {
+      "id": "src-ban-chiang-solheim-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Solheim, Wilhelm G. II — early pottery and Southeast Asian prehistory discussions related to Ban Chiang debates.",
+      "url": null,
+      "notes": "Research-history orientation; contested models noted."
+    }
+  ],
+  "fill_coords": {
+    "site-ban-chiang-udon": {
+      "lat": 17.407,
+      "lon": 103.238,
+      "precision_note": "UNESCO WHC list 575 published approximate centre; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-non-nok-tha",
+      "names": {
+        "zh": "农诺他",
+        "en": "Non Nok Tha",
+        "native": null
+      },
+      "kind_note": "NE Thailand prehistoric site with metal debates",
+      "region": "Khon Kaen region, Thailand",
+      "coords": null,
+      "summary": {
+        "zh": "金属时代争论中的比较史前遗址。",
+        "en": "Comparative prehistoric site in metal-age debates."
+      },
+      "sources": [
+        "src-ban-chiang-non-nok-tha",
+        "src-ban-chiang-higham-sea-bronze"
+      ]
+    },
+    {
+      "id": "site-ban-non-wat",
+      "names": {
+        "zh": "班农瓦特",
+        "en": "Ban Non Wat",
+        "native": null
+      },
+      "kind_note": "Major excavated prehistoric settlement/cemetery",
+      "region": "Nakhon Ratchasima, Thailand",
+      "coords": null,
+      "summary": {
+        "zh": "大型发掘序列，澄清区域年代。",
+        "en": "Large excavated sequence clarifying regional chronology."
+      },
+      "sources": [
+        "src-ban-chiang-ban-non-wat-higham",
+        "src-ban-chiang-higham-sea-bronze"
+      ]
+    },
+    {
+      "id": "site-ban-chiang-museum-orientation",
+      "names": {
+        "zh": "班清博物馆框架（指针）",
+        "en": "Ban Chiang museum frame (orientation)",
+        "native": null
+      },
+      "kind_note": "On-site museum / heritage presentation",
+      "region": "Udon Thani, Thailand",
+      "coords": null,
+      "summary": {
+        "zh": "遗产展示框架；非田野点。",
+        "en": "Heritage presentation frame; not a field locus."
+      },
+      "sources": [
+        "src-ban-chiang-unesco-575",
+        "src-ban-chiang-penn-museum-web"
+      ]
+    },
+    {
+      "id": "site-lopburi-metal-orientation",
+      "names": {
+        "zh": "华富里金属传统（指针）",
+        "en": "Lopburi metal-working tradition (orientation)",
+        "native": null
+      },
+      "kind_note": "Central Thailand metal production landscapes",
+      "region": "Lopburi region, Thailand",
+      "coords": null,
+      "summary": {
+        "zh": "金属生产景观指针。",
+        "en": "Metal-production landscape orientation."
+      },
+      "sources": [
+        "src-ban-chiang-pigott-brass",
+        "src-ban-chiang-pigott-metal-orientation"
+      ]
+    },
+    {
+      "id": "site-ban-chiang-related-villages",
+      "names": {
+        "zh": "班清相关村落遗址（指针）",
+        "en": "Ban Chiang-related village sites (orientation)",
+        "native": null
+      },
+      "kind_note": "Neighboring prehistoric mounds",
+      "region": "Udon Thani province",
+      "coords": null,
+      "summary": {
+        "zh": "相关土墩遗址指针。",
+        "en": "Related mound sites orientation."
+      },
+      "sources": [
+        "src-ban-chiang-white-penn-orientation",
+        "src-ban-chiang-white-hamilton-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-ban-chiang-neolithic",
+      "names": {
+        "zh": "班清新石器窗",
+        "en": "Ban Chiang Neolithic window"
+      },
+      "time": {
+        "label": "early agricultural/ceramic phases",
+        "approx_from_bce": 2000,
+        "approx_to_bce": 1500,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "新石器窗。",
+        "en": "Neolithic window."
+      },
+      "sources": [
+        "src-ban-chiang-white-penn-orientation",
+        "src-ban-chiang-higham-sea-bronze"
+      ]
+    },
+    {
+      "id": "period-ban-chiang-bronze",
+      "names": {
+        "zh": "班清青铜窗",
+        "en": "Ban Chiang Bronze window"
+      },
+      "time": {
+        "label": "bronze-using phases (chronology debated)",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 500,
+        "scheme_note": "Absolute metal chronology debated."
+      },
+      "summary": {
+        "zh": "青铜窗；年代有争议。",
+        "en": "Bronze window; dates contested."
+      },
+      "sources": [
+        "src-ban-chiang-c14-debate",
+        "src-ban-chiang-pigott-metal-orientation",
+        "src-ban-chiang-higham-sea-bronze"
+      ]
+    },
+    {
+      "id": "period-ban-chiang-iron",
+      "names": {
+        "zh": "班清铁器窗",
+        "en": "Ban Chiang Iron window"
+      },
+      "time": {
+        "label": "iron-using later prehistoric phases",
+        "approx_from_bce": 500,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "铁器窗。",
+        "en": "Iron window."
+      },
+      "sources": [
+        "src-ban-chiang-higham-sea-bronze",
+        "src-ban-chiang-ban-non-wat-higham"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-ban-chiang-painted-pottery-frame",
+      "names": {
+        "zh": "班清彩陶框架",
+        "en": "Ban Chiang painted pottery frame"
+      },
+      "site_ids": [
+        "site-ban-chiang-udon"
+      ],
+      "period_ids": [
+        "period-ban-chiang-prehistoric",
+        "period-ban-chiang-bronze"
+      ],
+      "sources": [
+        "src-ban-chiang-unesco-575",
+        "src-ban-chiang-white-penn-orientation"
+      ],
+      "summary": {
+        "zh": "彩陶传统指针。",
+        "en": "Painted pottery tradition pointer; no forged catalog numbers."
+      }
+    },
+    {
+      "id": "asm-ban-chiang-copper-alloy-frame",
+      "names": {
+        "zh": "班清铜合金框架",
+        "en": "Ban Chiang copper-alloy frame"
+      },
+      "site_ids": [
+        "site-ban-chiang-udon",
+        "site-lopburi-metal-orientation"
+      ],
+      "period_ids": [
+        "period-ban-chiang-bronze"
+      ],
+      "sources": [
+        "src-ban-chiang-pigott-metal-orientation",
+        "src-ban-chiang-pigott-brass"
+      ],
+      "summary": {
+        "zh": "铜合金冶金指针。",
+        "en": "Copper-alloy metallurgy pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-ban-chiang-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将班清考古遗址列入世界遗产（UNESCO 575）。",
+        "en": "UNESCO lists the Ban Chiang Archaeological Site as World Heritage (UNESCO 575)."
+      },
+      "site_ids": [
+        "site-ban-chiang-udon"
+      ],
+      "period_ids": [
+        "period-ban-chiang-prehistoric"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-unesco-575"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-higham",
+      "kind": "fact",
+      "statement": {
+        "zh": "Higham 东南亚青铜研究为班清提供区域金属时代背景。",
+        "en": "Higham's Southeast Asian bronze research situates Ban Chiang in regional metal-age context."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-ban-chiang-bronze"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-higham-sea-bronze"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-white-penn",
+      "kind": "fact",
+      "statement": {
+        "zh": "宾大博物馆 White 项目传统是班清发掘与年代讨论的核心来源之一。",
+        "en": "Penn Museum White project tradition is a core source for Ban Chiang excavation and chronology debates."
+      },
+      "site_ids": [
+        "site-ban-chiang-udon"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-white-penn-orientation",
+        "src-ban-chiang-white-burial"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-ban-non-wat",
+      "kind": "fact",
+      "statement": {
+        "zh": "Ban Non Wat 发掘卷为东北泰史前年代与社会提供关键比较序列（Higham 等）。",
+        "en": "Ban Non Wat excavation volumes provide a key comparative sequence for NE Thailand prehistory (Higham et al.)."
+      },
+      "site_ids": [
+        "site-ban-non-wat"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-ban-non-wat-higham"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-non-nok-tha",
+      "kind": "fact",
+      "statement": {
+        "zh": "农诺他是金属时代争论中常与班清并提的东北泰遗址（Bayard/Higham 传统）。",
+        "en": "Non Nok Tha is a NE Thailand site often paired with Ban Chiang in metal-age debates (Bayard/Higham tradition)."
+      },
+      "site_ids": [
+        "site-non-nok-tha"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-non-nok-tha",
+        "src-ban-chiang-higham-sea-bronze"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-c14-debate",
+      "kind": "fact",
+      "statement": {
+        "zh": "班清金属年代的碳十四解释存在长期学术争论，壳包不冻结单一日历（期刊传统）。",
+        "en": "Radiocarbon interpretations of Ban Chiang metal ages remain debated; this pack does not freeze one calendar (journal tradition)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-ban-chiang-bronze"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-c14-debate",
+        "src-ban-chiang-white-hamilton-orientation"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-pigott-metal",
+      "kind": "fact",
+      "statement": {
+        "zh": "Pigott 等考古冶金研究讨论泰国史前铜合金生产与交换。",
+        "en": "Pigott and related archaeometallurgy discuss prehistoric Thai copper-alloy production and exchange."
+      },
+      "site_ids": [
+        "site-lopburi-metal-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-ban-chiang-copper-alloy-frame"
+      ],
+      "sources": [
+        "src-ban-chiang-pigott-metal-orientation",
+        "src-ban-chiang-pigott-brass"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-painted-pottery",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文与发掘传统将彩陶作为班清物质文化的显著类别（UNESCO 575；White）。",
+        "en": "UNESCO and excavation traditions treat painted pottery as a distinctive Ban Chiang material-culture category (UNESCO 575; White)."
+      },
+      "site_ids": [
+        "site-ban-chiang-udon"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-ban-chiang-painted-pottery-frame"
+      ],
+      "sources": [
+        "src-ban-chiang-unesco-575",
+        "src-ban-chiang-white-penn-orientation"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-penn-portal",
+      "kind": "fact",
+      "statement": {
+        "zh": "宾大班清项目门户提供公众与研究取向链接（机构页）。",
+        "en": "Penn Ban Chiang project portal provides public and research orientation links (institutional page)."
+      },
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-penn-museum-web"
+      ]
+    },
+    {
+      "id": "claim-ban-chiang-glover",
+      "kind": "fact",
+      "statement": {
+        "zh": "Glover 等讨论将大陆东南亚早期冶金置于更广交换网络（论文/专著取向）。",
+        "en": "Glover and related discussions place early mainland Southeast Asian metallurgy in wider exchange networks (essay/monograph orientation)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-ban-chiang-bronze"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-ban-chiang-glover-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-ban-chiang-unesco",
+      "title": {
+        "zh": "教科文：班清",
+        "en": "UNESCO: Ban Chiang",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/575/",
+      "sources": [
+        "src-ban-chiang-unesco-575"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-ban-chiang-penn",
+      "title": {
+        "zh": "宾大班清项目页",
+        "en": "Penn Ban Chiang project",
+        "native": null
+      },
+      "external_url": "https://www.penn.museum/sites/banchiang/",
+      "sources": [
+        "src-ban-chiang-penn-museum-web"
+      ],
+      "attribution": "Penn Museum",
+      "media_type": "document-link"
+    }
+  ]
+}

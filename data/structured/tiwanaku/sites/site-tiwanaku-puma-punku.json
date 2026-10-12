@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-puma-punku",
+  "entity": "site",
+  "names": {
+    "zh": "普马蓬库",
+    "en": "Pumapunku",
+    "native": "Puma Punku"
+  },
+  "kind_note": "Monumental stone complex south of main core",
+  "region": "Tiwanaku, Bolivia",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "巨石建筑群；壳回避工程玄学。",
+    "en": "Monumental ashlar complex; shell avoids speculative engineering myths."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993",
+    "src-tiwanaku-vranich-architecture"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

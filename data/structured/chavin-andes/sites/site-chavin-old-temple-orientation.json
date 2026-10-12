@@ -1,0 +1,32 @@
+{
+  "id": "site-chavin-old-temple-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "查文旧庙区（指针）",
+    "en": "Chavín Old Temple sector (orientation)",
+    "native": null
+  },
+  "kind_note": "Earlier temple construction phase label",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "旧庙阶段标签指针；绝对年代争论开放。",
+    "en": "Old Temple phase label orientation; absolute dating debates open."
+  },
+  "sources": [
+    "src-chavin-burger-ucp-1984",
+    "src-chavin-kembel-rick-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

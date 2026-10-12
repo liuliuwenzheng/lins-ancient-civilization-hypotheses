@@ -1,0 +1,19 @@
+{
+  "id": "src-wari-andes-cleveland-catalogue",
+  "entity": "source",
+  "type": "web",
+  "citation": "Cleveland Museum of Art — Wari: Lords of the Ancient Andes exhibition orientation.",
+  "url": "https://www.clevelandart.org/art/exhibitions/wari-lords-ancient-andes",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Exhibition orientation; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

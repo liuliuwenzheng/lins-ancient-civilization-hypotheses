@@ -1,0 +1,32 @@
+{
+  "id": "site-cahokia-east-st-louis-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "东圣路易斯相关组群（指针）",
+    "en": "East St. Louis related cluster (orientation)",
+    "native": null
+  },
+  "kind_note": "American Bottom related Mississippian precincts",
+  "region": "American Bottom, Illinois",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "美底区相关密西西比组群指针；细节待加厚。",
+    "en": "Related Mississippian precinct orientation in the American Bottom; details deferred."
+  },
+  "sources": [
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-emerson-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

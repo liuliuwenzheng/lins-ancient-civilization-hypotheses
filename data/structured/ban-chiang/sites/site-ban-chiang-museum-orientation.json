@@ -1,0 +1,32 @@
+{
+  "id": "site-ban-chiang-museum-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "班清博物馆框架（指针）",
+    "en": "Ban Chiang museum frame (orientation)",
+    "native": null
+  },
+  "kind_note": "On-site museum / heritage presentation",
+  "region": "Udon Thani, Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "遗产展示框架；非田野点。",
+    "en": "Heritage presentation frame; not a field locus."
+  },
+  "sources": [
+    "src-ban-chiang-unesco-575",
+    "src-ban-chiang-penn-museum-web"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

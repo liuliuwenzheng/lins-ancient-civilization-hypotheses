@@ -1,0 +1,33 @@
+{
+  "id": "claim-tiwanaku-gateway-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "太阳门等石雕与卡拉萨萨亚围场在综合中作为仪礼核心标志讨论（UNESCO 567；Kolata）。",
+    "en": "The Gateway of the Sun and Kalasasaya enclosure are discussed as ceremonial-core markers in syntheses (UNESCO 567; Kolata)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-kalasasaya"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tiwanaku-gateway-sun-frame"
+  ],
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

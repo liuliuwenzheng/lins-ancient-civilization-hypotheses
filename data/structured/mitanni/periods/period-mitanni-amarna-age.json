@@ -1,0 +1,35 @@
+{
+  "id": "period-mitanni-amarna-age",
+  "entity": "period",
+  "names": {
+    "zh": "米坦尼阿马尔奈时代窗",
+    "en": "Mitanni Amarna-age window"
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "correspondence with Egypt; great-power diplomacy",
+    "approx_from_bce": 1400,
+    "approx_to_bce": 1300,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "阿马尔奈外交。",
+    "en": "Amarna-age diplomacy."
+  },
+  "sources": [
+    "src-mitanni-amarna-letters-orientation",
+    "src-mitanni-orphaned-amarna",
+    "src-mitanni-beckman-diplomatic-texts"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

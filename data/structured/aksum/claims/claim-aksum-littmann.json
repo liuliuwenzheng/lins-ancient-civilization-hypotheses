@@ -1,0 +1,30 @@
+{
+  "id": "claim-aksum-littmann",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Deutsche Aksum-Expedition（Littmann 等）构成早期科学记录传统。",
+    "en": "The Deutsche Aksum-Expedition (Littmann et al.) forms an early scientific recording tradition."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-littmann-deutsche"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

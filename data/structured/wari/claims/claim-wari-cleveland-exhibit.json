@@ -1,0 +1,29 @@
+{
+  "id": "claim-wari-cleveland-exhibit",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "克利夫兰艺术博物馆 Wari 展览为公众提供安第斯中地平线艺术与考古取向（机构门户）。",
+    "en": "Cleveland Museum of Art Wari exhibition offers public orientation to Middle Horizon Andean art and archaeology (institutional portal)."
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-andes-cleveland-catalogue",
+    "src-wari-bergh-cleveland-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

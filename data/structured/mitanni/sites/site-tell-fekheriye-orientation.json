@@ -1,0 +1,32 @@
+{
+  "id": "site-tell-fekheriye-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "费赫里耶（指针）",
+    "en": "Tell Fekheriye (orientation)",
+    "native": null
+  },
+  "kind_note": "Often discussed in Washukanni location debates",
+  "region": "Khabur region",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "米坦尼都城景观候选讨论；鉴定开放。",
+    "en": "Candidate discussions for Mitanni capital landscape; identification open."
+  },
+  "sources": [
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-gadir-cadiz-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "加的斯/加迪尔（指针）",
+    "en": "Gadir / Cádiz (orientation)",
+    "native": null
+  },
+  "kind_note": "Far-west Phoenician colony",
+  "region": "Cádiz, Spain",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "伊比利亚大西洋殖民指针。",
+    "en": "Iberian Atlantic colonial orientation."
+  },
+  "sources": [
+    "src-phoenician-gadir-orientation",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -2,7 +2,7 @@
   "id": "civ-early-korea",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "朝鲜半岛早期（无纹–早期国家）",
     "en": "Early Korea (Mumun–early states)",
@@ -11,28 +11,58 @@
   "region": "East Asia / Korean peninsula",
   "time_span": "Mumun pottery period ca. 1500–300 BCE into early historic state formation (Barnes / Nelson frames)",
   "summary": {
-    "zh": "朝鲜半岛早期档案壳：Mumun 农业社会 + Barnes 国家形成；library-seed。",
-    "en": "Early Korea archive shell: Mumun agricultural societies + Barnes state-formation; library-seed."
+    "zh": "朝鲜半岛早期档案（library-seed-rich）：Barnes/Nelson/Byington + 无纹—早期国家遗址；仍非埃及级密度。",
+    "en": "Early Korea archive (library-seed-rich): Barnes/Nelson/Byington + Mumun–early state sites; not yet Egypt-level density."
   },
   "sources": [
     "src-early-korea-barnes-2001",
-    "src-early-korea-nelson-1993",
+    "src-early-korea-barnes-state",
+    "src-early-korea-bestamo-orientation",
     "src-early-korea-byington-early-korea",
+    "src-early-korea-byington-goguryeo",
+    "src-early-korea-chinese-records",
+    "src-early-korea-dolmen-orientation",
     "src-early-korea-mumun-jar-2024",
-    "src-early-korea-unesco-gongju-baekje"
+    "src-early-korea-nelson-1993",
+    "src-early-korea-nelson-shamanism",
+    "src-early-korea-nricn-orientation",
+    "src-early-korea-rheee-orientation",
+    "src-early-korea-unesco-baekje-docs",
+    "src-early-korea-unesco-gongju-baekje",
+    "src-early-korea-unesco-gyeongju"
   ],
   "site_ids": [
+    "site-baekje-historic-orientation",
+    "site-buyeo-baekje-orientation",
+    "site-gochang-dolmen-orientation",
+    "site-gongju-baekje",
+    "site-gyeongju-silla",
     "site-mumun-settlement-orientation",
-    "site-baekje-historic-orientation"
+    "site-mumun-songguk-ri-orientation"
   ],
   "period_ids": [
-    "period-early-korea-mumun-states"
+    "period-early-korea-mumun-states",
+    "period-mumun",
+    "period-proto-three-kingdoms",
+    "period-three-kingdoms-early"
   ],
   "claim_ids": [
-    "claim-early-korea-mumun-agriculture"
+    "claim-early-korea-baekje-unesco",
+    "claim-early-korea-barnes",
+    "claim-early-korea-byington",
+    "claim-early-korea-chinese-texts",
+    "claim-early-korea-dolmens",
+    "claim-early-korea-gyeongju-unesco",
+    "claim-early-korea-mumun-agriculture",
+    "claim-early-korea-nelson",
+    "claim-early-korea-nricn",
+    "claim-early-korea-palace-tomb-frame",
+    "claim-early-korea-three-kingdoms-capitals"
   ],
   "object_ids": [
-    "asm-early-korea-mumun-megalith-frame"
+    "asm-early-korea-dolmen-frame",
+    "asm-early-korea-mumun-megalith-frame",
+    "asm-early-korea-palace-tomb-frame"
   ],
   "related_ids": [
     "civ-jomon-yayoi",
@@ -41,11 +71,11 @@
   "markdown_path": "data/civilizations/civ-early-korea.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

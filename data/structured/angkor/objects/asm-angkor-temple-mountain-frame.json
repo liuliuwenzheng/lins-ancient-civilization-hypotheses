@@ -1,0 +1,44 @@
+{
+  "id": "asm-angkor-temple-mountain-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吴哥庙山—水利框架组合",
+    "en": "Angkor temple-mountain / hydraulic frame"
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat",
+    "site-angkor-thom"
+  ],
+  "period_ids": [
+    "period-angkorian-floruit"
+  ],
+  "summary": {
+    "zh": "壳级庙山与水利景观指针。",
+    "en": "Shell temple-mountain and hydraulic-landscape pointer."
+  },
+  "sources": [
+    "src-angkor-unesco-668",
+    "src-angkor-coe-evans-2018"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

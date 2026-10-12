@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-akupana",
+  "entity": "site",
+  "names": {
+    "zh": "阿卡帕纳",
+    "en": "Akapana",
+    "native": null
+  },
+  "kind_note": "Stepped platform mound in ceremonial core",
+  "region": "Tiwanaku, Bolivia",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "仪礼核心大型台地丘。",
+    "en": "Major platform mound of the ceremonial core."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993",
+    "src-tiwanaku-vranich-architecture"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

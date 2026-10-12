@@ -1,0 +1,34 @@
+{
+  "id": "claim-classic-maya-stelae-texts",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "石碑与宫廷铭文是重建经典期王朝史的核心证据类型（Martin & Grube；Houston/Stuart/Taube 取向）。",
+    "en": "Stelae and court inscriptions are core evidence types for reconstructing Classic dynastic history (Martin & Grube; Houston/Stuart/Taube orientation)."
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-copan-classic"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-classic-maya-stelae-frame"
+  ],
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-houston-stuart-taube"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "period-proto-three-kingdoms",
+  "entity": "period",
+  "names": {
+    "zh": "原三国/早期国家窗",
+    "en": "Proto–Three Kingdoms / early states"
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "time": {
+    "label": "state formation on the peninsula",
+    "approx_from_bce": 300,
+    "approx_to_bce": null,
+    "scheme_note": "BCE/CE boundary coarse."
+  },
+  "summary": {
+    "zh": "早期国家窗。",
+    "en": "Early states window."
+  },
+  "sources": [
+    "src-early-korea-barnes-2001",
+    "src-early-korea-byington-early-korea"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

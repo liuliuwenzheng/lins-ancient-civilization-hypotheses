@@ -1,0 +1,37 @@
+{
+  "id": "claim-inca-cusco-machu-picchu",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将库斯科与马丘比丘表述为印加（Tawantinsuyu）晚期帝国高地建筑与政治中心的代表（UNESCO 273、274；D'Altroy 2014）。",
+    "en": "UNESCO and scholarly syntheses frame Cusco and Machu Picchu as representative highland architectural and political centres of the late Inca (Tawantinsuyu) empire (UNESCO 273, 274; D'Altroy 2014)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-cusco-inca",
+    "site-machu-picchu"
+  ],
+  "period_ids": [
+    "period-inca-late-horizon"
+  ],
+  "object_ids": [
+    "asm-inca-masonry-road-frame"
+  ],
+  "sources": [
+    "src-inca-unesco-cusco-273",
+    "src-inca-unesco-machu-picchu-274",
+    "src-inca-daltroy-2014"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

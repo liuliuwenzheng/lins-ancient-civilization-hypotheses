@@ -1,0 +1,34 @@
+{
+  "id": "period-aztec-late-postclassic",
+  "entity": "period",
+  "names": {
+    "zh": "阿兹特克晚后经典繁荣窗",
+    "en": "Aztec Late Postclassic floruit"
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "time": {
+    "label": "broadly 14th–early 16th centuries CE (Smith working frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Triple Alliance chronology; Spanish contact endpoint noted but not moralized."
+  },
+  "summary": {
+    "zh": "壳级晚后经典窗。",
+    "en": "Shell Late Postclassic window."
+  },
+  "sources": [
+    "src-aztec-smith-2012",
+    "src-aztec-matos-templo-mayor"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

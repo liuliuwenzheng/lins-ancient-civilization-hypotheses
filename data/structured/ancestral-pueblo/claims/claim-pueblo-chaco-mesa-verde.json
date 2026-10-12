@@ -1,0 +1,36 @@
+{
+  "id": "claim-pueblo-chaco-mesa-verde",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将查科文化与梅萨维德表述为美国西南部先祖普韦布洛建筑与聚落传统的代表性景观（UNESCO 353、27）。",
+    "en": "UNESCO frames Chaco Culture and Mesa Verde as representative landscapes of Ancestral Puebloan architecture and settlement in the U.S. Southwest (UNESCO 353, 27)."
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-chaco-canyon",
+    "site-mesa-verde"
+  ],
+  "period_ids": [
+    "period-ancestral-pueblo-floruit"
+  ],
+  "object_ids": [
+    "asm-pueblo-great-house-frame"
+  ],
+  "sources": [
+    "src-pueblo-unesco-chaco-353",
+    "src-pueblo-unesco-mesa-verde-27"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

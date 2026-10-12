@@ -1,0 +1,44 @@
+{
+  "id": "asm-early-korea-palace-tomb-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "早期王陵—宫城框架",
+    "en": "Early royal tomb / palace-city frame"
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-gyeongju-silla",
+    "site-gongju-baekje"
+  ],
+  "period_ids": [
+    "period-three-kingdoms-early"
+  ],
+  "summary": {
+    "zh": "王陵与都城景观指针。",
+    "en": "Royal tomb and capital landscape pointer."
+  },
+  "sources": [
+    "src-early-korea-unesco-gyeongju",
+    "src-early-korea-unesco-baekje-docs"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

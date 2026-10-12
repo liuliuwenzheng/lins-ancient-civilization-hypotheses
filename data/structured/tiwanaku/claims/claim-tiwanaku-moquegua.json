@@ -1,0 +1,31 @@
+{
+  "id": "claim-tiwanaku-moquegua",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Goldstein 等研究讨论莫克瓜河谷与蒂瓦纳科相关的殖民/飞地定居（研究传统）。",
+    "en": "Goldstein and related studies discuss Moquegua valley settlements linked to Tiwanaku colonization/diaspora (research tradition)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-omo-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-goldstein-orientation",
+    "src-tiwanaku-stanish-2003"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

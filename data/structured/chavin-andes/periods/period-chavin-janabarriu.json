@@ -1,0 +1,34 @@
+{
+  "id": "period-chavin-janabarriu",
+  "entity": "period",
+  "names": {
+    "zh": "查文佳纳巴里乌风格窗",
+    "en": "Chavín Janabarriu-style window"
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "time": {
+    "label": "Janabarriu ceramic-style floruit (Burger sequence labels)",
+    "approx_from_bce": 900,
+    "approx_to_bce": 500,
+    "scheme_note": "Burger ceramic sequence labels; absolute refine later."
+  },
+  "summary": {
+    "zh": "陶风繁荣标签。",
+    "en": "Ceramic-style floruit label."
+  },
+  "sources": [
+    "src-chavin-burger-ucp-1984",
+    "src-chavin-burger-origins-1992"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-tiwanaku-hinterland-volumes",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kolata 主编腹地卷从考古与古生态讨论蒂瓦纳科与周边（Smithsonian 传统）。",
+    "en": "Kolata-edited hinterland volumes discuss Tiwanaku and surroundings via archaeology and paleoecology (Smithsonian tradition)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-lukurmata-orientation",
+    "site-tiwanaku-katari-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-kolata-ed-tiwanaku"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "civ-hallstatt-celtic",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "哈尔施塔特—早期凯尔特",
+    "en": "Hallstatt / early Celtic",
+    "native": "Hallstatt"
+  },
+  "region": "Europe / Alpine–Danubian zone (Austria; south Germany; Bohemia contacts)",
+  "time_span": "Hallstatt C–D / early La Tène broadly 8th–5th centuries BCE (Cunliffe / Kristiansen frames)",
+  "summary": {
+    "zh": "哈尔施塔特档案壳：Cunliffe 综合 + 哈尔施塔特–达赫施泰因教科文；library-seed。",
+    "en": "Hallstatt archive shell: Cunliffe synthesis + Hallstatt–Dachstein UNESCO; library-seed."
+  },
+  "sources": [
+    "src-hallstatt-unesco-806",
+    "src-hallstatt-cunliffe-1997",
+    "src-hallstatt-kristiansen-larsson-2005",
+    "src-hallstatt-collis-2003",
+    "src-hallstatt-nhm-vienna-orientation"
+  ],
+  "site_ids": [
+    "site-hallstatt-type",
+    "site-hallstatt-princely-orientation"
+  ],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "claim_ids": [
+    "claim-hallstatt-type-salt-landscape"
+  ],
+  "object_ids": [
+    "asm-hallstatt-salt-burial-frame"
+  ],
+  "related_ids": [
+    "civ-aegean",
+    "civ-nuragic-sardinia"
+  ],
+  "markdown_path": "data/civilizations/civ-hallstatt-celtic.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

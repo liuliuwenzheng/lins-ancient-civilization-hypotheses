@@ -1,0 +1,31 @@
+{
+  "id": "claim-ban-chiang-c14-debate",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "班清金属年代的碳十四解释存在长期学术争论，壳包不冻结单一日历（期刊传统）。",
+    "en": "Radiocarbon interpretations of Ban Chiang metal ages remain debated; this pack does not freeze one calendar (journal tradition)."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ban-chiang-bronze"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-c14-debate",
+    "src-ban-chiang-white-hamilton-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

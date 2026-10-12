@@ -1,0 +1,34 @@
+{
+  "id": "period-ban-chiang-iron",
+  "entity": "period",
+  "names": {
+    "zh": "班清铁器窗",
+    "en": "Ban Chiang Iron window"
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "time": {
+    "label": "iron-using later prehistoric phases",
+    "approx_from_bce": 500,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "铁器窗。",
+    "en": "Iron window."
+  },
+  "sources": [
+    "src-ban-chiang-higham-sea-bronze",
+    "src-ban-chiang-ban-non-wat-higham"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

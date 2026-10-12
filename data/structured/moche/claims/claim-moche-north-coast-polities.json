@@ -1,0 +1,35 @@
+{
+  "id": "claim-moche-north-coast-polities",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "学术综合将莫切表述为秘鲁北部海岸早期中间期以大型金字塔神庙与细线彩陶为标志的复杂社会（Quilter 2010；Huacas de Moche 发掘传统）。",
+    "en": "Scholarly syntheses frame Moche as Early Intermediate complex societies of Peru's north coast marked by monumental huacas and fineline ceramics (Quilter 2010; Huacas de Moche excavation tradition)."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-huacas-de-moche"
+  ],
+  "period_ids": [
+    "period-moche-eip-floruit"
+  ],
+  "object_ids": [
+    "asm-moche-fineline-ceramic-frame"
+  ],
+  "sources": [
+    "src-moche-quilter-2010",
+    "src-moche-castillo-uceda-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

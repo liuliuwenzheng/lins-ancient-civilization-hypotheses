@@ -1,0 +1,30 @@
+{
+  "id": "claim-mitanni-pleiades-nuzi",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pleiades 等地名录为努济提供地名词典取向点。",
+    "en": "Pleiades and related gazetteers provide a place-record orientation for Nuzi."
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-nuzi-yorghan-tepe"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-pleiades-nuzi"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

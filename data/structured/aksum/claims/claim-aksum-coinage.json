@@ -1,0 +1,33 @@
+{
+  "id": "claim-aksum-coinage",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿克苏姆铸币传统见于钱币学与 Munro-Hay 等综述（钱币目录取向）。",
+    "en": "Aksumite coinage tradition appears in numismatic catalogues and Munro-Hay syntheses (catalogue orientation)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aksumite-classic"
+  ],
+  "object_ids": [
+    "asm-aksum-coinage-frame"
+  ],
+  "sources": [
+    "src-aksum-coinage-orientation",
+    "src-aksum-munro-hay-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

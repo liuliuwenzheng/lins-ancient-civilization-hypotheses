@@ -1,0 +1,31 @@
+{
+  "id": "claim-tiwanaku-pumapunku",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "普马蓬库以精琢石工建筑群著称，见于教科文与建筑研究取向（UNESCO 567；Vranich）。",
+    "en": "Pumapunku is noted for ashlar monumental architecture in UNESCO and architectural studies (UNESCO 567; Vranich)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-puma-punku"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-vranich-architecture"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

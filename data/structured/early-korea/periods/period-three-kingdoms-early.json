@@ -1,0 +1,35 @@
+{
+  "id": "period-three-kingdoms-early",
+  "entity": "period",
+  "names": {
+    "zh": "三国时代早窗",
+    "en": "Early Three Kingdoms window"
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "time": {
+    "label": "Goguryeo–Baekje–Silla early historic",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "三国早窗。",
+    "en": "Early Three Kingdoms."
+  },
+  "sources": [
+    "src-early-korea-unesco-gyeongju",
+    "src-early-korea-unesco-baekje-docs",
+    "src-early-korea-barnes-state"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

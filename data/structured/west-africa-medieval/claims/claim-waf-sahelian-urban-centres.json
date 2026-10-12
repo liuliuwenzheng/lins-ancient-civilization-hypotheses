@@ -1,0 +1,37 @@
+{
+  "id": "claim-waf-sahelian-urban-centres",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将廷巴克图、杰内等表述为西非萨赫勒中世纪商业—学术—城市网络的关键节点（UNESCO 119、116；Levtzion & Hopkins 2000）。",
+    "en": "UNESCO and scholarly syntheses frame Timbuktu, Djenné, and related nodes as key centres in West Africa's medieval Sahelian commercial–scholarly–urban networks (UNESCO 119, 116; Levtzion & Hopkins 2000)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-timbuktu-medieval",
+    "site-djenne-old-towns"
+  ],
+  "period_ids": [
+    "period-west-africa-sahelian-empires"
+  ],
+  "object_ids": [
+    "asm-waf-sahel-urban-manuscript-frame"
+  ],
+  "sources": [
+    "src-waf-unesco-timbuktu-119",
+    "src-waf-unesco-djenne-116",
+    "src-waf-levtzion-hopkins-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

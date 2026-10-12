@@ -1,0 +1,33 @@
+{
+  "id": "site-great-zimbabwe-monument",
+  "entity": "site",
+  "names": {
+    "zh": "大津巴布韦国家纪念地",
+    "en": "Great Zimbabwe National Monument",
+    "native": "Great Zimbabwe"
+  },
+  "kind_note": "Dry-stone walled capital; UNESCO WH",
+  "region": "Masvingo Province, Zimbabwe",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "干石墙都城与山丘建筑群；教科文名录。",
+    "en": "Dry-stone walled capital and hill complex; UNESCO listed."
+  },
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-garlake-1973"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

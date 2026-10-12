@@ -1,0 +1,32 @@
+{
+  "id": "site-tiwanaku-kalasasaya",
+  "entity": "site",
+  "names": {
+    "zh": "卡拉萨萨亚",
+    "en": "Kalasasaya",
+    "native": null
+  },
+  "kind_note": "Temple enclosure in ceremonial core",
+  "region": "Tiwanaku, Bolivia",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "常与太阳门讨论并置的庙宇围场。",
+    "en": "Temple enclosure often paired with Gateway of the Sun discussions."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-janusek-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

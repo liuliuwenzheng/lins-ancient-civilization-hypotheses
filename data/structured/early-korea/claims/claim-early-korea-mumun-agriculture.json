@@ -3,34 +3,31 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "考古研究将朝鲜半岛无纹陶器时期表述为以农业定居、素面陶器与支石墓等为标志的青铜时代社会转型，并讨论其后早期国家形成（Nelson 1993；Barnes 2001；JAR 2024）。",
-    "en": "Research frames the Mumun pottery period on the Korean peninsula as a Bronze Age social transformation marked by agricultural sedentism, plain pottery, and megalithic burials, with later early-state formation discussed in syntheses (Nelson 1993; Barnes 2001; JAR 2024)."
+    "zh": "研究传统将无纹时代与半岛农业村落、支石墓传统相联系（Nelson；Mumun 专论）。",
+    "en": "Research traditions link the Mumun period to agricultural villages and dolmen traditions on the peninsula (Nelson; Mumun studies)."
   },
   "civilization_ids": [
     "civ-early-korea"
   ],
   "site_ids": [
-    "site-mumun-settlement-orientation"
+    "site-mumun-songguk-ri-orientation"
   ],
   "period_ids": [
-    "period-early-korea-mumun-states"
+    "period-mumun"
   ],
-  "object_ids": [
-    "asm-early-korea-mumun-megalith-frame"
-  ],
+  "object_ids": [],
   "sources": [
     "src-early-korea-nelson-1993",
-    "src-early-korea-barnes-2001",
     "src-early-korea-mumun-jar-2024"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

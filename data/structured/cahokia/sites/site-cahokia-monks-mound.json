@@ -1,0 +1,33 @@
+{
+  "id": "site-cahokia-monks-mound",
+  "entity": "site",
+  "names": {
+    "zh": "卡霍基亚（修士丘）",
+    "en": "Cahokia (Monks Mound)",
+    "native": "Cahokia"
+  },
+  "kind_note": "Mississippian ceremonial–urban centre; UNESCO WH",
+  "region": "Collinsville area, Illinois, USA",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "密西西比河洪泛平原大型土墩中心；教科文名录。",
+    "en": "Large earthen-mound centre on the Mississippi floodplain; UNESCO listed."
+  },
+  "sources": [
+    "src-cahokia-unesco-198",
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-fowler-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

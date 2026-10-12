@@ -1,0 +1,19 @@
+{
+  "id": "src-classic-maya-inomatica-orientation",
+  "entity": "source",
+  "type": "digital-corpus",
+  "citation": "Inomata, Takeshi — Ceibal and lowland early-to-classic research tradition.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Ceibal research orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

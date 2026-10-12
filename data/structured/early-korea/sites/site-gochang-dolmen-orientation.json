@@ -1,0 +1,32 @@
+{
+  "id": "site-gochang-dolmen-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "高敞支石墓等（指针）",
+    "en": "Gochang dolmens (orientation)",
+    "native": null
+  },
+  "kind_note": "Megalithic cemeteries of Mumun horizon",
+  "region": "North Jeolla, Korea",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "支石墓景观指针。",
+    "en": "Dolmen landscape orientation."
+  },
+  "sources": [
+    "src-early-korea-dolmen-orientation",
+    "src-early-korea-nelson-1993"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

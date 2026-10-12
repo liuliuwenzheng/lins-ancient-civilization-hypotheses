@@ -1,0 +1,19 @@
+{
+  "id": "src-aztec-lopez-austin-lopez-lujan",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "López Austin, Alfredo, and Leonardo López Luján — Mexica religion, cosmology, and Templo Mayor studies.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Religion and Templo Mayor scholarship pointer.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-sidon-saida",
+  "entity": "site",
+  "names": {
+    "zh": "西顿",
+    "en": "Sidon",
+    "native": "Ṣaydā"
+  },
+  "kind_note": "Levantine Phoenician city",
+  "region": "Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "黎凡特腓尼基主要城市，持续发掘。",
+    "en": "Major Levantine Phoenician city with ongoing excavations."
+  },
+  "sources": [
+    "src-phoenician-sidon-orientation",
+    "src-phoenician-markoe-2000",
+    "src-phoenician-elayi-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

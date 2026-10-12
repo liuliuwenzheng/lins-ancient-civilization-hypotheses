@@ -1,0 +1,34 @@
+{
+  "id": "period-mitanni-assyrian-pressure",
+  "entity": "period",
+  "names": {
+    "zh": "米坦尼—中亚述压力窗",
+    "en": "Mitanni under Middle Assyrian pressure"
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "decline under Assyrian and Hittite pressure",
+    "approx_from_bce": 1300,
+    "approx_to_bce": 1200,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "衰退/压力。",
+    "en": "Decline/pressure."
+  },
+  "sources": [
+    "src-mitanni-cancik-kirschbaum",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

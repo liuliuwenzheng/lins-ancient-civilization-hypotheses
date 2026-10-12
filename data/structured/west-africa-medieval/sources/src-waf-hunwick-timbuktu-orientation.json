@@ -1,0 +1,19 @@
+{
+  "id": "src-waf-hunwick-timbuktu-orientation",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Hunwick, John O. — Timbuktu and the Songhay Empire / Arabic chronicle translations and studies (Brill tradition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Songhay chronicle and Timbuktu scholarship pointer; deepen with specific edition citations.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

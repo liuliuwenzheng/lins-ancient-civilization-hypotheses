@@ -1,0 +1,35 @@
+{
+  "id": "period-aksumite-classic",
+  "entity": "period",
+  "names": {
+    "zh": "阿克苏姆经典繁荣窗",
+    "en": "Classic Aksumite floruit"
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "time": {
+    "label": "stelae, coinage, Red Sea trade florescence",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "经典繁荣。",
+    "en": "Classic floruit."
+  },
+  "sources": [
+    "src-aksum-phillipson-2012",
+    "src-aksum-munro-hay-1991",
+    "src-aksum-coinage-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

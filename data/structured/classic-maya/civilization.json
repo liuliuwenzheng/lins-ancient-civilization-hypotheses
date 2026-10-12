@@ -2,7 +2,7 @@
   "id": "civ-classic-maya",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "经典玛雅",
     "en": "Classic Maya",
@@ -11,29 +11,59 @@
   "region": "Mesoamerica / Maya lowlands (southern Mexico, Guatemala, Belize, western Honduras)",
   "time_span": "Classic period floruit broadly 250–900 CE (Martin–Grube / Coe–Houston frames)",
   "summary": {
-    "zh": "经典玛雅档案壳：Martin–Grube 王表 + Coe/Houston 综述；与早期玛雅包并立。",
-    "en": "Classic Maya archive shell: Martin–Grube dynastic chronicle + Coe/Houston synthesis; alongside early-maya pack."
+    "zh": "经典玛雅档案（library-seed-rich）：Martin–Grube/Coe–Houston + 低地多政体遗址；仍非埃及级密度。",
+    "en": "Classic Maya archive (library-seed-rich): Martin–Grube/Coe–Houston + lowland multi-polity sites; not yet Egypt-level density."
   },
   "sources": [
-    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-boot-epigraphy",
+    "src-classic-maya-chase-caracol-1987",
     "src-classic-maya-coe-houston-maya",
-    "src-classic-maya-unesco-tikal-64",
+    "src-classic-maya-culbert-orientation",
+    "src-classic-maya-demarest-orientation",
+    "src-classic-maya-houston-stuart-taube",
+    "src-classic-maya-inomatica-orientation",
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-mesoweb",
+    "src-classic-maya-sharer-traxler",
+    "src-classic-maya-unesco-calakmul-1061",
+    "src-classic-maya-unesco-copan-129",
     "src-classic-maya-unesco-palenque-411",
-    "src-classic-maya-chase-caracol-1987"
+    "src-classic-maya-unesco-tikal-64",
+    "src-classic-maya-unesco-tikal-docs"
   ],
   "site_ids": [
-    "site-tikal-classic",
+    "site-calakmul-biosphere-orientation",
+    "site-calakmul-classic",
+    "site-caracol-belize",
+    "site-ceibal-orientation",
+    "site-copan-classic",
     "site-palenque-classic",
-    "site-caracol-belize"
+    "site-tikal-classic",
+    "site-yaxchilan-orientation"
   ],
   "period_ids": [
-    "period-classic-maya-floruit"
+    "period-classic-maya-early",
+    "period-classic-maya-floruit",
+    "period-classic-maya-late",
+    "period-classic-maya-terminal"
   ],
   "claim_ids": [
-    "claim-classic-maya-dynastic-polities"
+    "claim-classic-maya-calakmul-unesco",
+    "claim-classic-maya-caracol",
+    "claim-classic-maya-coe-houston",
+    "claim-classic-maya-copan-unesco",
+    "claim-classic-maya-dynastic-polities",
+    "claim-classic-maya-martin-grube",
+    "claim-classic-maya-multi-polity",
+    "claim-classic-maya-palenque-unesco",
+    "claim-classic-maya-stelae-texts",
+    "claim-classic-maya-terminal-debate",
+    "claim-classic-maya-tikal-unesco"
   ],
   "object_ids": [
-    "asm-classic-maya-dynastic-texts-frame"
+    "asm-classic-maya-dynastic-texts-frame",
+    "asm-classic-maya-palace-court-frame",
+    "asm-classic-maya-stelae-frame"
   ],
   "related_ids": [
     "civ-early-maya",
@@ -44,11 +74,11 @@
   "markdown_path": "data/civilizations/civ-classic-maya.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

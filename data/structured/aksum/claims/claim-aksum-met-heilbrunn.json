@@ -1,0 +1,28 @@
+{
+  "id": "claim-aksum-met-heilbrunn",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大都会 Heilbrunn 时间线等机构页面提供阿克苏姆公众取向（tier T）。",
+    "en": "Met Heilbrunn timeline and similar institutional pages provide public Aksum orientation (tier T)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-met-heilbrunn-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

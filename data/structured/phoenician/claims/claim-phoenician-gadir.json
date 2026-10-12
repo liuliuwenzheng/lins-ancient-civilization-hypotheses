@@ -1,0 +1,31 @@
+{
+  "id": "claim-phoenician-gadir",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "加迪尔/加的斯在文献与考古中作为远西腓尼基殖民点讨论（Aubet；伊比利亚研究取向）。",
+    "en": "Gadir/Cádiz is discussed in texts and archaeology as a far-west Phoenician colonial node (Aubet; Iberian research orientation)."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-gadir-cadiz-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-gadir-orientation",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

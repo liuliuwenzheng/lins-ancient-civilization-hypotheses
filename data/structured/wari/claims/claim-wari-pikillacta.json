@@ -1,0 +1,31 @@
+{
+  "id": "claim-wari-pikillacta",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "McEwan 等研究将皮基利亚克塔表述为库斯科附近瓦里大型规划建筑群（发掘/专著传统）。",
+    "en": "McEwan and related work frame Pikillacta as a large planned Wari architectural complex near Cusco (excavation/monograph tradition)."
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-pikillacta"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-mcewan-pikillacta",
+    "src-wari-schreiber-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

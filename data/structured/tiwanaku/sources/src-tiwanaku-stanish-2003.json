@@ -1,0 +1,19 @@
+{
+  "id": "src-tiwanaku-stanish-2003",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Stanish, Charles. 2003. Ancient Titicaca: The Evolution of Complex Society in Southern Peru and Northern Bolivia. Berkeley: University of California Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Titicaca basin complex-society synthesis.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-aztec-templo-mayor-offerings-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "大神庙祭献框架组合",
+    "en": "Templo Mayor offerings frame"
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-templo-mayor-tenochtitlan"
+  ],
+  "period_ids": [
+    "period-aztec-late-postclassic"
+  ],
+  "summary": {
+    "zh": "壳级祭献与双神庙建筑指针；无伪造馆藏号。",
+    "en": "Shell offerings and twin-temple architecture pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-aztec-matos-templo-mayor",
+    "src-aztec-lopez-austin-lopez-lujan"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

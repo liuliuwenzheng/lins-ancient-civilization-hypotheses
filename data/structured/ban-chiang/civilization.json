@@ -2,7 +2,7 @@
   "id": "civ-ban-chiang",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "班清（泰国）",
     "en": "Ban Chiang (Thailand)",
@@ -11,27 +11,57 @@
   "region": "Mainland Southeast Asia / Khorat Plateau, northeast Thailand (Mekong watershed)",
   "time_span": "Prehistoric settlement and cemetery continuum often framed mid–late 2nd to 1st millennium BCE (UNESCO / White–Higham research tradition; absolute debates open)",
   "summary": {
-    "zh": "班清档案壳：教科文史前定居/墓地 + White/Higham 研究传统；与东山包区分。",
-    "en": "Ban Chiang archive shell: UNESCO prehistoric settlement/cemetery + White/Higham research tradition; distinct from Đông Sơn pack."
+    "zh": "班清档案（library-seed-rich）：Higham/White + 东北泰史前遗址与金属传统；仍非埃及级密度。",
+    "en": "Ban Chiang archive (library-seed-rich): Higham/White + NE Thailand prehistoric sites and metal traditions; not yet Egypt-level density."
   },
   "sources": [
-    "src-ban-chiang-unesco-575",
-    "src-ban-chiang-white-penn-orientation",
+    "src-ban-chiang-ban-non-wat-higham",
+    "src-ban-chiang-c14-debate",
+    "src-ban-chiang-glover-orientation",
     "src-ban-chiang-higham-sea-bronze",
+    "src-ban-chiang-higham-thailands",
+    "src-ban-chiang-non-nok-tha",
+    "src-ban-chiang-penn-museum-web",
+    "src-ban-chiang-pigott-brass",
+    "src-ban-chiang-pigott-metal-orientation",
+    "src-ban-chiang-solheim-orientation",
+    "src-ban-chiang-unesco-575",
+    "src-ban-chiang-unesco-docs",
+    "src-ban-chiang-white-burial",
     "src-ban-chiang-white-hamilton-orientation",
-    "src-ban-chiang-pigott-metal-orientation"
+    "src-ban-chiang-white-penn-orientation"
   ],
   "site_ids": [
+    "site-ban-chiang-museum-orientation",
+    "site-ban-chiang-related-villages",
     "site-ban-chiang-udon",
-    "site-ban-non-wat-orientation"
+    "site-ban-non-wat",
+    "site-ban-non-wat-orientation",
+    "site-lopburi-metal-orientation",
+    "site-non-nok-tha"
   ],
   "period_ids": [
+    "period-ban-chiang-bronze",
+    "period-ban-chiang-iron",
+    "period-ban-chiang-neolithic",
     "period-ban-chiang-prehistoric"
   ],
   "claim_ids": [
-    "claim-ban-chiang-prehistoric-settlement"
+    "claim-ban-chiang-ban-non-wat",
+    "claim-ban-chiang-c14-debate",
+    "claim-ban-chiang-glover",
+    "claim-ban-chiang-higham",
+    "claim-ban-chiang-non-nok-tha",
+    "claim-ban-chiang-painted-pottery",
+    "claim-ban-chiang-penn-portal",
+    "claim-ban-chiang-pigott-metal",
+    "claim-ban-chiang-prehistoric-settlement",
+    "claim-ban-chiang-unesco",
+    "claim-ban-chiang-white-penn"
   ],
   "object_ids": [
+    "asm-ban-chiang-copper-alloy-frame",
+    "asm-ban-chiang-painted-pottery-frame",
     "asm-ban-chiang-pottery-metal-frame"
   ],
   "related_ids": [
@@ -41,11 +71,11 @@
   "markdown_path": "data/civilizations/civ-ban-chiang.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

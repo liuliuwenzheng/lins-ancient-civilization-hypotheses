@@ -1,0 +1,487 @@
+{
+  "civ_id": "civ-wari",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "瓦里档案（library-seed-rich）：Schreiber/Isbell + 都城与行省遗址；仍非埃及级密度。",
+    "en": "Wari archive (library-seed-rich): Schreiber/Isbell + capital and provincial sites; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-wari-schreiber-wari-empire",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Schreiber, Katharina J. — Wari imperialism and provincial administration studies (beyond 1992 core).",
+      "url": null,
+      "notes": "Provincial administration orientation."
+    },
+    {
+      "id": "src-wari-topic-isbell",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Isbell, William H., and Gordon F. McEwan, eds. 1991. Huari Administrative Structure: Prehistoric Monumental Architecture and State Government. Washington, DC: Dumbarton Oaks.",
+      "url": null,
+      "notes": "Classic DO volume on Huari administration."
+    },
+    {
+      "id": "src-wari-glowacki-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Glowacki, Mary — Wari ceramics and chronological studies.",
+      "url": null,
+      "notes": "Ceramic chronology orientation."
+    },
+    {
+      "id": "src-wari-tung-bioarch",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Tung, Tiffiny A. — Wari bioarchaeology and violence studies.",
+      "url": null,
+      "notes": "Bioarchaeology orientation."
+    },
+    {
+      "id": "src-wari-williams-cerro-baul",
+      "type": "article",
+      "tier": "S",
+      "citation": "Williams, Patrick Ryan — Cerro Baúl Wari colony research.",
+      "url": null,
+      "notes": "Moquegua colony orientation."
+    },
+    {
+      "id": "src-wari-jennings-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Jennings, Justin — Wari and Middle Horizon essays / beyond empire debates.",
+      "url": null,
+      "notes": "Beyond-empire debate orientation."
+    },
+    {
+      "id": "src-wari-andes-cleveland-catalogue",
+      "type": "web",
+      "tier": "T",
+      "citation": "Cleveland Museum of Art — Wari: Lords of the Ancient Andes exhibition orientation.",
+      "url": "https://www.clevelandart.org/art/exhibitions/wari-lords-ancient-andes",
+      "notes": "Exhibition orientation; tier T."
+    },
+    {
+      "id": "src-wari-menzel-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Menzel, Dorothy — classic stylistic seriation for Middle Horizon Wari.",
+      "url": null,
+      "notes": "Classic seriation orientation."
+    },
+    {
+      "id": "src-wari-brewster-wray-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Brewster-Wray, Connie — Huari urban architecture studies.",
+      "url": null,
+      "notes": "Urban architecture orientation."
+    },
+    {
+      "id": "src-wari-conchopata-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Isbell, William H., and Anita G. Cook — Conchopata excavation and offering traditions.",
+      "url": null,
+      "notes": "Conchopata P-tradition pointer."
+    }
+  ],
+  "fill_coords": {},
+  "sites": [
+    {
+      "id": "site-conchopata",
+      "names": {
+        "zh": "孔乔帕塔",
+        "en": "Conchopata",
+        "native": null
+      },
+      "kind_note": "Wari-related site near Ayacucho with offering contexts",
+      "region": "Ayacucho, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "瓦里附近祭献与制陶语境。",
+        "en": "Offering and ceramic production contexts near Huari."
+      },
+      "sources": [
+        "src-wari-conchopata-orientation",
+        "src-wari-isbell-schreiber-1978"
+      ]
+    },
+    {
+      "id": "site-cerro-baul-wari",
+      "names": {
+        "zh": "塞罗鲍尔",
+        "en": "Cerro Baúl",
+        "native": null
+      },
+      "kind_note": "Wari colony/mesa site in Moquegua",
+      "region": "Moquegua, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "常与蒂瓦纳科边疆并论的南部殖民点。",
+        "en": "Southern colony often discussed with Tiwanaku frontiers."
+      },
+      "sources": [
+        "src-wari-williams-cerro-baul",
+        "src-wari-schreiber-1992"
+      ]
+    },
+    {
+      "id": "site-viracochapampa-orientation",
+      "names": {
+        "zh": "维拉科查潘帕（指针）",
+        "en": "Viracochapampa (orientation)",
+        "native": null
+      },
+      "kind_note": "Wari-related planned architectural compound",
+      "region": "Huamachuco area, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "行省规划建筑指针。",
+        "en": "Provincial planned architecture orientation."
+      },
+      "sources": [
+        "src-wari-schreiber-1992",
+        "src-wari-topic-isbell"
+      ]
+    },
+    {
+      "id": "site-jincamocco-orientation",
+      "names": {
+        "zh": "金卡莫科（指针）",
+        "en": "Jincamocco (orientation)",
+        "native": null
+      },
+      "kind_note": "Wari provincial site in Carhuarazo valley",
+      "region": "Ayacucho hinterland",
+      "coords": null,
+      "summary": {
+        "zh": "Schreiber 研究中的行省遗址。",
+        "en": "Provincial site from Schreiber research."
+      },
+      "sources": [
+        "src-wari-schreiber-1992",
+        "src-wari-schreiber-wari-empire"
+      ]
+    },
+    {
+      "id": "site-wari-azangaro-orientation",
+      "names": {
+        "zh": "阿桑加罗等地（指针）",
+        "en": "Azángaro and related (orientation)",
+        "native": null
+      },
+      "kind_note": "Highland sites in Wari discussion",
+      "region": "Central highlands Peru",
+      "coords": null,
+      "summary": {
+        "zh": "额外高地指针节点。",
+        "en": "Additional highland orientation nodes."
+      },
+      "sources": [
+        "src-wari-isbell-schreiber-1978",
+        "src-wari-jennings-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-wari-early-mh",
+      "names": {
+        "zh": "瓦里中地平线早窗",
+        "en": "Wari early Middle Horizon"
+      },
+      "time": {
+        "label": "early MH expansion/formation",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "中地平线早窗。",
+        "en": "Early MH window."
+      },
+      "sources": [
+        "src-wari-schreiber-1992",
+        "src-wari-menzel-orientation"
+      ]
+    },
+    {
+      "id": "period-wari-floruit",
+      "names": {
+        "zh": "瓦里繁荣窗",
+        "en": "Wari floruit"
+      },
+      "time": {
+        "label": "provincial architecture and capital florescence",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "繁荣。",
+        "en": "Floruit."
+      },
+      "sources": [
+        "src-wari-topic-isbell",
+        "src-wari-schreiber-1992"
+      ]
+    },
+    {
+      "id": "period-wari-late-mh",
+      "names": {
+        "zh": "瓦里中地平线晚窗",
+        "en": "Wari late Middle Horizon"
+      },
+      "time": {
+        "label": "late MH reorganization/decline debates",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "晚窗争论。",
+        "en": "Late MH debates."
+      },
+      "sources": [
+        "src-wari-jennings-orientation",
+        "src-wari-isbell-schreiber-1978"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-wari-rectangular-enclosure-frame",
+      "names": {
+        "zh": "瓦里矩形围场建筑框架",
+        "en": "Wari rectangular enclosure architecture frame"
+      },
+      "site_ids": [
+        "site-huari-ayacucho",
+        "site-pikillacta"
+      ],
+      "period_ids": [
+        "period-wari-middle-horizon",
+        "period-wari-floruit"
+      ],
+      "sources": [
+        "src-wari-schreiber-1992",
+        "src-wari-topic-isbell",
+        "src-wari-mcewan-pikillacta"
+      ],
+      "summary": {
+        "zh": "规划矩形围场指针。",
+        "en": "Planned rectangular compounds pointer."
+      }
+    },
+    {
+      "id": "asm-wari-offering-ceramic-frame",
+      "names": {
+        "zh": "瓦里祭献陶器框架",
+        "en": "Wari offering ceramic frame"
+      },
+      "site_ids": [
+        "site-conchopata"
+      ],
+      "period_ids": [
+        "period-wari-floruit"
+      ],
+      "sources": [
+        "src-wari-conchopata-orientation",
+        "src-wari-glowacki-orientation"
+      ],
+      "summary": {
+        "zh": "祭献陶器传统指针。",
+        "en": "Offering ceramic tradition pointer; no forged catalog numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-wari-schreiber-empire",
+      "kind": "fact",
+      "statement": {
+        "zh": "Schreiber 1992 研究将瓦里表述为具有行省行政特征的中地平线扩张政体（学术综合）。",
+        "en": "Schreiber 1992 frames Wari as a Middle Horizon expansive polity with provincial administrative features (scholarly synthesis)."
+      },
+      "site_ids": [
+        "site-huari-ayacucho"
+      ],
+      "period_ids": [
+        "period-wari-middle-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-wari-schreiber-1992"
+      ]
+    },
+    {
+      "id": "claim-wari-pikillacta",
+      "kind": "fact",
+      "statement": {
+        "zh": "McEwan 等研究将皮基利亚克塔表述为库斯科附近瓦里大型规划建筑群（发掘/专著传统）。",
+        "en": "McEwan and related work frame Pikillacta as a large planned Wari architectural complex near Cusco (excavation/monograph tradition)."
+      },
+      "site_ids": [
+        "site-pikillacta"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-wari-mcewan-pikillacta",
+        "src-wari-schreiber-1992"
+      ]
+    },
+    {
+      "id": "claim-wari-do-volume",
+      "kind": "fact",
+      "statement": {
+        "zh": "Isbell & McEwan 1991 Dumbarton Oaks 卷讨论瓦里行政结构与纪念建筑。",
+        "en": "Isbell & McEwan 1991 Dumbarton Oaks volume discusses Wari administrative structure and monumental architecture."
+      },
+      "site_ids": [
+        "site-huari-ayacucho"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-wari-topic-isbell"
+      ]
+    },
+    {
+      "id": "claim-wari-conchopata",
+      "kind": "fact",
+      "statement": {
+        "zh": "Conchopata 发掘传统以祭献与陶器生产语境著称（Isbell/Cook 取向）。",
+        "en": "Conchopata excavation tradition is noted for offering and ceramic-production contexts (Isbell/Cook orientation)."
+      },
+      "site_ids": [
+        "site-conchopata"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-wari-conchopata-orientation"
+      ]
+    },
+    {
+      "id": "claim-wari-cerro-baul",
+      "kind": "fact",
+      "statement": {
+        "zh": "Williams 等将塞罗鲍尔讨论为莫克瓜的瓦里殖民/边疆据点。",
+        "en": "Williams et al. discuss Cerro Baúl as a Wari colony/frontier site in Moquegua."
+      },
+      "site_ids": [
+        "site-cerro-baul-wari"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-wari-williams-cerro-baul"
+      ]
+    },
+    {
+      "id": "claim-wari-menzel-seriation",
+      "kind": "fact",
+      "statement": {
+        "zh": "Menzel 风格分期为中地平线瓦里陶瓷年代学提供经典框架（研究史）。",
+        "en": "Menzel's stylistic seriation provides a classic frame for Middle Horizon Wari ceramic chronology (research history)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-wari-early-mh"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-wari-menzel-orientation"
+      ]
+    },
+    {
+      "id": "claim-wari-jennings-debate",
+      "kind": "fact",
+      "statement": {
+        "zh": "Jennings 等讨论推动“超越帝国”等关于瓦里政治组织形式的辩论。",
+        "en": "Jennings and related work advance debates on Wari political organization, including beyond-empire models."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-wari-late-mh"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-wari-jennings-orientation"
+      ]
+    },
+    {
+      "id": "claim-wari-cleveland-exhibit",
+      "kind": "fact",
+      "statement": {
+        "zh": "克利夫兰艺术博物馆 Wari 展览为公众提供安第斯中地平线艺术与考古取向（机构门户）。",
+        "en": "Cleveland Museum of Art Wari exhibition offers public orientation to Middle Horizon Andean art and archaeology (institutional portal)."
+      },
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-wari-andes-cleveland-catalogue",
+        "src-wari-bergh-cleveland-orientation"
+      ]
+    },
+    {
+      "id": "claim-wari-rectangular-plan",
+      "kind": "fact",
+      "statement": {
+        "zh": "学术综合常以矩形围场与网格规划建筑作为瓦里行省中心的建筑标志（Schreiber；Isbell & McEwan）。",
+        "en": "Syntheses often treat rectangular enclosures and orthogonal planning as architectural markers of Wari provincial centres (Schreiber; Isbell & McEwan)."
+      },
+      "site_ids": [
+        "site-pikillacta",
+        "site-huari-ayacucho"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-wari-rectangular-enclosure-frame"
+      ],
+      "sources": [
+        "src-wari-schreiber-1992",
+        "src-wari-topic-isbell"
+      ]
+    },
+    {
+      "id": "claim-wari-capital-ayacucho",
+      "kind": "fact",
+      "statement": {
+        "zh": "文献将阿亚库乔盆地的瓦里/华里遗址表述为中地平线首都级中心（Isbell/Schreiber 传统）。",
+        "en": "Literature frames the Huari/Wari site in the Ayacucho basin as a Middle Horizon capital-scale centre (Isbell/Schreiber tradition)."
+      },
+      "site_ids": [
+        "site-huari-ayacucho"
+      ],
+      "period_ids": [
+        "period-wari-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-wari-isbell-schreiber-1978",
+        "src-wari-schreiber-1992"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-wari-cleveland",
+      "title": {
+        "zh": "克利夫兰：瓦里展览取向",
+        "en": "Cleveland: Wari exhibition orientation",
+        "native": null
+      },
+      "external_url": "https://www.clevelandart.org/art/exhibitions/wari-lords-ancient-andes",
+      "sources": [
+        "src-wari-andes-cleveland-catalogue"
+      ],
+      "attribution": "Cleveland Museum of Art",
+      "media_type": "document-link"
+    }
+  ]
+}

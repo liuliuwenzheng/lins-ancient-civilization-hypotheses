@@ -1,0 +1,19 @@
+{
+  "id": "src-cahokia-milner-1998",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Milner, George R. 1998. The Cahokia Chiefdom: The Archaeology of a Mississippian Society. Washington, DC: Smithsonian Institution Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Mississippian chiefdom synthesis; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-tiwanaku-ashlar-pumapunku-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "普马蓬库精琢石工框架",
+    "en": "Pumapunku ashlar masonry frame"
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-puma-punku"
+  ],
+  "period_ids": [
+    "period-tiwanaku-classical"
+  ],
+  "summary": {
+    "zh": "精琢石工传统指针；回避伪考古主张。",
+    "en": "Ashlar masonry tradition pointer; avoid pseudoarchaeology claims."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-vranich-architecture"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

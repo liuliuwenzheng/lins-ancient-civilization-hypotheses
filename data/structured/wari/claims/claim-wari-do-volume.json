@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-do-volume",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Isbell & McEwan 1991 Dumbarton Oaks 卷讨论瓦里行政结构与纪念建筑。",
+    "en": "Isbell & McEwan 1991 Dumbarton Oaks volume discusses Wari administrative structure and monumental architecture."
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-huari-ayacucho"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-topic-isbell"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

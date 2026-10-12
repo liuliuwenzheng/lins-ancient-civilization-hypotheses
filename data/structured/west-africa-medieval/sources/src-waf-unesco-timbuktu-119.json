@@ -1,0 +1,19 @@
+{
+  "id": "src-waf-unesco-timbuktu-119",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Timbuktu. Inscribed 1988. https://whc.unesco.org/en/list/119/",
+  "url": "https://whc.unesco.org/en/list/119/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC orientation for Timbuktu; Mali empire–era scholarly centre; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

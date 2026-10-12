@@ -1,0 +1,19 @@
+{
+  "id": "src-rapanui-van-tilburg-1994",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Van Tilburg, Jo Anne. 1994. Easter Island: Archaeology, Ecology and Culture. London: British Museum Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "BM Press synthesis; print; moai research orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

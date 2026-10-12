@@ -1,0 +1,31 @@
+{
+  "id": "claim-early-korea-barnes",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Barnes 2001 等综合讨论朝鲜半岛国家形成与东亚比较背景。",
+    "en": "Barnes 2001 and related syntheses discuss peninsula state formation in East Asian comparative context."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-proto-three-kingdoms"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-barnes-2001",
+    "src-early-korea-barnes-state"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

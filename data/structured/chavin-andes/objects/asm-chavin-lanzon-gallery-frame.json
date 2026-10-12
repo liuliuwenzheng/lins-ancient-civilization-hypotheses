@@ -1,0 +1,45 @@
+{
+  "id": "asm-chavin-lanzon-gallery-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "兰宗石像—廊道框架组合",
+    "en": "Lanzón / gallery frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type",
+    "site-chavin-circular-plaza"
+  ],
+  "period_ids": [
+    "period-chavin-early-horizon"
+  ],
+  "summary": {
+    "zh": "兰宗与廊道传统指针；无伪造馆藏号。",
+    "en": "Lanzón and gallery tradition pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-chavin-unesco-330",
+    "src-chavin-burger-origins-1992",
+    "src-chavin-pozo-excavation-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

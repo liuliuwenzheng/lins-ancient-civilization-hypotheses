@@ -1,0 +1,35 @@
+{
+  "id": "claim-hallstatt-type-salt-landscape",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将哈尔施塔特表述为阿尔卑斯盐矿与铁器时代早期精英墓葬传统的类型景观（UNESCO 806；Cunliffe 1997）。",
+    "en": "UNESCO and scholarly syntheses frame Hallstatt as a type landscape of Alpine salt mining and Early Iron Age elite burial traditions (UNESCO 806; Cunliffe 1997)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-type"
+  ],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "object_ids": [
+    "asm-hallstatt-salt-burial-frame"
+  ],
+  "sources": [
+    "src-hallstatt-unesco-806",
+    "src-hallstatt-cunliffe-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

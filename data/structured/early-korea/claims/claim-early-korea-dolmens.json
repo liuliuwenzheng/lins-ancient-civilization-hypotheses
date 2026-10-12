@@ -1,0 +1,33 @@
+{
+  "id": "claim-early-korea-dolmens",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "高敞等地支石墓景观被用作无纹—青铜时代纪念性墓葬传统的取向（遗产/考古取向）。",
+    "en": "Gochang and related dolmen landscapes orient Mumun–Bronze Age monumental burial traditions (heritage/archaeology orientation)."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-gochang-dolmen-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-early-korea-dolmen-frame"
+  ],
+  "sources": [
+    "src-early-korea-dolmen-orientation",
+    "src-early-korea-nelson-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

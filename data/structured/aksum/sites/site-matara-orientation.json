@@ -1,0 +1,32 @@
+{
+  "id": "site-matara-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "马塔拉（指针）",
+    "en": "Matara (orientation)",
+    "native": null
+  },
+  "kind_note": "Aksumite town in Eritrea",
+  "region": "Eritrea",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "厄立特里亚阿克苏姆城市指针。",
+    "en": "Aksumite urban orientation in Eritrea."
+  },
+  "sources": [
+    "src-aksum-phillipson-2012",
+    "src-aksum-manzo-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

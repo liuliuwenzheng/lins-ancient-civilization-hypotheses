@@ -708,3 +708,47 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Chavín pack uses distinct site id `site-chavin-huantar-type` so it does not collide with Andes comparative `site-chavin-de-huantar`. Honesty of thin shells beats fake density.
 
+### D-2026-10-12-15 — Wave-3 shells
+
+**Decision:** Open **eleven Wave-3 `library-seed` shells** that close major remaining geographic gaps from the coverage map (North America, southern/West Africa medieval, Europe beyond Aegean, Pacific Rapa Nui ethics-first, Andes Moche/Inca, Mesoamerica Aztec, SEA Angkor), without thinning existing packs. Same integrity rules: real P/S/T sources only; abstract/TOC-level claims; no invented finds, coordinates, page numbers, or media art.
+
+**Wave-3 pack ids:** `cahokia`, `ancestral-pueblo`, `great-zimbabwe`, `west-africa-medieval`, `hallstatt-celtic`, `nuragic-sardinia`, `rapa-nui`, `inca`, `moche`, `aztec`, `angkor` (each `civ-*` + structured pack; 5 Sources; 2–3 Sites; 1 Period; 1 Object; 1 sourced Claim; 0 media).
+
+**Not opened (remain Missing):** Iberian Copper/Bronze; fuller La Tène; Mixtec; Funan split; Cyprus LBA densify; Ife/Benin; broader Polynesian chiefdoms; later Christian Nubia split if needed.
+
+**Docs:** Coverage map + README listings updated. Generator: `tools/wave3_shells/generate_wave3.py`.
+
+**Verified:** `export_check` OK (**40** packs after Wave-3 open + Wave-2 densify in D-2026-10-12-16; citation gate green when both land).
+
+**Notes:** West African medieval kept as one Ghana–Mali–Songhai pack for cleaner Sahel coverage. Rapa Nui packed ethics-first (no forged moai imagery).
+
+
+### D-2026-10-12-16 — Wave-2 densify to `library-seed-rich`
+
+**Decision:** Densify all nine Wave-2 packs opened in D-2026-10-12-14 from `library-seed` toward usable archive density (`library-seed-rich`). Same recipe as Wave-1 densify: ~+10 Sources, +5 Sites, +3 Periods, +2 Objects, +10 Claims, +1–3 outbound media. Integrity over completeness: no invented archaeology, page numbers, coordinates, or media art.
+
+**Per-pack after counts (structured JSON):**
+
+| Pack | sources | sites | periods | objects | claims | media |
+|------|--------:|------:|--------:|--------:|-------:|------:|
+| chavin-andes | 15 | 7 | 4 | 3 | 11 | 3 |
+| tiwanaku | 15 | 7 | 4 | 3 | 11 | 2 |
+| wari | 15 | 7 | 4 | 3 | 11 | 1 |
+| classic-maya | 15 | 8 | 4 | 3 | 11 | 3 |
+| aksum | 15 | 7 | 4 | 3 | 11 | 2 |
+| ban-chiang | 15 | 7 | 4 | 3 | 11 | 2 |
+| early-korea | 15 | 7 | 4 | 3 | 11 | 2 |
+| mitanni | 15 | 7 | 4 | 3 | 11 | 1 |
+| phoenician | 15 | 8 | 4 | 3 | 11 | 3 |
+| **Delta totals** | **+90** | **+45** | **+27** | **+18** | **+90** | **+19** |
+
+**Coordinates:** UNESCO WHC published points filled where available (Chavín 330, Tiwanaku 567, Tikal/Palenque, Aksum 15, Ban Chiang 575, Byblos/Tyre/Carthage, etc.). Ambiguous sites left **null**.
+
+**Media:** Outbound-link-only landings (UNESCO / institutional portals). `local_path` remains null.
+
+**Docs:** Coverage map updated; `civ-*.md` + pack READMEs synced. Machine summary: [`docs/audits/pass-2026-10-12-wave2-densify.json`](audits/pass-2026-10-12-wave2-densify.json).
+
+**Verified:** `export_check` OK (**40** packs; citation gate green).
+
+**Notes:** Still far from Egypt/Mesopotamia `fact-library` density. Prefer honest thin over fake dense. Tooling: `tools/wave2_shells/densify_wave2.py` + `densify_payloads/*.json`.
+

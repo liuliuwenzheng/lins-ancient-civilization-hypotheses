@@ -1,0 +1,31 @@
+{
+  "id": "claim-phoenician-sidon",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "西顿发掘传统为黎凡特腓尼基城市考古提供田野证据（DGA/BM 取向）。",
+    "en": "Sidon excavation traditions provide field evidence for Levantine Phoenician urban archaeology (DGA/BM orientation)."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-sidon-saida"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-sidon-orientation",
+    "src-phoenician-elayi-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-calakmul-biosphere-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "卡拉克穆尔周边（指针）",
+    "en": "Calakmul hinterland (orientation)",
+    "native": null
+  },
+  "kind_note": "Regional settlement around Calakmul",
+  "region": "Campeche/Petén borderlands",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "腹地聚落指针。",
+    "en": "Hinterland settlement orientation."
+  },
+  "sources": [
+    "src-classic-maya-unesco-calakmul-1061",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

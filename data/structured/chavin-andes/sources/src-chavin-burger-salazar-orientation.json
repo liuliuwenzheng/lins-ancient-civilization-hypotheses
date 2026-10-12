@@ -1,0 +1,19 @@
+{
+  "id": "src-chavin-burger-salazar-orientation",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Burger, Richard L., and Lucy Salazar Burger — Chavín religion and temple studies.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Religion/temple orientation pointer.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -4,6 +4,15 @@
 
 `civ-aksum` 的只读档案实体。
 
-**状态：** library-seed 壳（第二波，D-2026-10-12-14）。诚实薄包，非 fact-library 密度。
+**状态：** `library-seed-rich`（第二波加厚，D-2026-10-12-16）。朝可调用密度推进，非 fact-library。
 
-计数以 `export_check` 为准。编辑稿：`data/civilizations/civ-aksum.md`。
+| 实体 | 数量 |
+|------|-----:|
+| sources | 15 |
+| sites | 7 |
+| periods | 4 |
+| objects | 3 |
+| claims | 11 |
+| media | 2 |
+
+编辑稿：`data/civilizations/civ-aksum.md`。

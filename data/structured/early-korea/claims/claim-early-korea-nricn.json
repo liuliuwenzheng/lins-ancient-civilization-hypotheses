@@ -1,0 +1,28 @@
+{
+  "id": "claim-early-korea-nricn",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "韩国国立文化财研究院等机构门户提供发掘与保护取向（tier T）。",
+    "en": "Korea National Research Institute of Cultural Heritage portals provide excavation and conservation orientation (tier T)."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-nricn-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

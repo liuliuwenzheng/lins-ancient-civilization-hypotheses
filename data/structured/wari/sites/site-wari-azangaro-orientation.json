@@ -1,0 +1,32 @@
+{
+  "id": "site-wari-azangaro-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿桑加罗等地（指针）",
+    "en": "Azángaro and related (orientation)",
+    "native": null
+  },
+  "kind_note": "Highland sites in Wari discussion",
+  "region": "Central highlands Peru",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "额外高地指针节点。",
+    "en": "Additional highland orientation nodes."
+  },
+  "sources": [
+    "src-wari-isbell-schreiber-1978",
+    "src-wari-jennings-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

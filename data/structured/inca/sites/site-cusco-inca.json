@@ -1,0 +1,32 @@
+{
+  "id": "site-cusco-inca",
+  "entity": "site",
+  "names": {
+    "zh": "库斯科",
+    "en": "Cusco (Cuzco)",
+    "native": "Qosqo"
+  },
+  "kind_note": "Inca imperial capital; UNESCO WH",
+  "region": "Cusco Region, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "印加帝国都城；教科文名录。",
+    "en": "Inca imperial capital; UNESCO listed."
+  },
+  "sources": [
+    "src-inca-unesco-cusco-273",
+    "src-inca-daltroy-2014"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

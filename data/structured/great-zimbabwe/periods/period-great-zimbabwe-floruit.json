@@ -1,0 +1,34 @@
+{
+  "id": "period-great-zimbabwe-floruit",
+  "entity": "period",
+  "names": {
+    "zh": "大津巴布韦繁荣窗",
+    "en": "Great Zimbabwe floruit"
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "time": {
+    "label": "broadly 11th–15th centuries CE (Pikirayi working frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Absolute phase debates open; shell window only."
+  },
+  "summary": {
+    "zh": "壳级大津巴布韦窗。",
+    "en": "Shell Great Zimbabwe window."
+  },
+  "sources": [
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-huffman-2007"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

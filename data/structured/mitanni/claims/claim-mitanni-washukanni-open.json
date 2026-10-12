@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-washukanni-open",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Washukanni 都城地望仍有讨论，费赫里耶等为候选取向而非定论（Wilhelm；Bryce）。",
+    "en": "Washukanni's capital location remains debated; Tell Fekheriye and others are candidate orientations, not settled identifications (Wilhelm; Bryce)."
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-washukanni-orientation",
+    "site-tell-fekheriye-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

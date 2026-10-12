@@ -1,0 +1,33 @@
+{
+  "id": "claim-aksum-yeha",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "叶哈常被作为前阿克苏姆高地中心在研究传统中讨论（Phillipson；Finneran）。",
+    "en": "Yeha is often discussed as a pre-Aksumite highland centre in research traditions (Phillipson; Finneran)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-yeha-pre-aksumite"
+  ],
+  "period_ids": [
+    "period-pre-aksumite"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-phillipson-2012",
+    "src-aksum-finneran-2007"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

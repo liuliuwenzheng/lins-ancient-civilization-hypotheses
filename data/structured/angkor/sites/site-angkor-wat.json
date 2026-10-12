@@ -1,0 +1,32 @@
+{
+  "id": "site-angkor-wat",
+  "entity": "site",
+  "names": {
+    "zh": "吴哥窟",
+    "en": "Angkor Wat",
+    "native": "Angkor Wat"
+  },
+  "kind_note": "State temple / temple-mountain; UNESCO WH component",
+  "region": "Siem Reap Province, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "国家庙山；教科文吴哥名录核心组成部分。",
+    "en": "State temple-mountain; core component of UNESCO Angkor listing."
+  },
+  "sources": [
+    "src-angkor-unesco-668",
+    "src-angkor-coe-evans-2018"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

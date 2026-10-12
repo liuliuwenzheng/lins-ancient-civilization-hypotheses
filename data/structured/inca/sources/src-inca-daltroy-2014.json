@@ -1,0 +1,19 @@
+{
+  "id": "src-inca-daltroy-2014",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "D'Altroy, Terence N. 2014. The Incas. 2nd ed. The Peoples of America. Chichester: Wiley-Blackwell.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Standard English synthesis; print; shell TOC-level.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

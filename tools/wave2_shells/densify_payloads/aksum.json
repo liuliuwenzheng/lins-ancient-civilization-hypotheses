@@ -1,0 +1,511 @@
+{
+  "civ_id": "civ-aksum",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "阿克苏姆档案（library-seed-rich）：Phillipson/Munro-Hay + 石碑原野与红海口岸；仍非埃及级密度。",
+    "en": "Aksum archive (library-seed-rich): Phillipson/Munro-Hay + stelae field and Red Sea ports; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-aksum-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Aksum — documents. https://whc.unesco.org/en/list/15/documents/",
+      "url": "https://whc.unesco.org/en/list/15/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-aksum-finneran-2007",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Finneran, Niall. 2007. The Archaeology of Ethiopia. London: Routledge.",
+      "url": null,
+      "notes": "Ethiopia archaeology synthesis including Aksum."
+    },
+    {
+      "id": "src-aksum-burstein-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Burstein, Stanley M. — Ancient African Civilizations / Aksum source readers.",
+      "url": null,
+      "notes": "Source-reader orientation."
+    },
+    {
+      "id": "src-aksum-kobishchanov-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Kobishchanov, Yuri M. — Axum (English translation tradition).",
+      "url": null,
+      "notes": "Classic Axum monograph orientation."
+    },
+    {
+      "id": "src-aksum-heldman-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Heldman, Marilyn — Aksumite art and manuscript traditions.",
+      "url": null,
+      "notes": "Art/manuscript orientation."
+    },
+    {
+      "id": "src-aksum-manzo-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Manzo, Andrea — northern Horn archaeology and Aksumite contacts.",
+      "url": null,
+      "notes": "Northern Horn contacts orientation."
+    },
+    {
+      "id": "src-aksum-british-institute-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "British Institute in Eastern Africa / Munro-Hay excavation traditions at Aksum.",
+      "url": null,
+      "notes": "P-tradition pointer."
+    },
+    {
+      "id": "src-aksum-yeha-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "Yeha / pre-Aksumite research orientation (Ethiopian Heritage / academic portals).",
+      "url": null,
+      "notes": "Pre-Aksumite Yeha orientation; URL deferred if unstable."
+    },
+    {
+      "id": "src-aksum-coinage-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Aksumite coinage catalogues and Munro-Hay numismatic studies.",
+      "url": null,
+      "notes": "Coinage orientation; no forged catalog numbers."
+    },
+    {
+      "id": "src-aksum-littmann-deutsche",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Littmann, Enno, et al. — Deutsche Aksum-Expedition publications (early P tradition).",
+      "url": null,
+      "notes": "Early German expedition reports."
+    }
+  ],
+  "fill_coords": {
+    "site-aksum-stelae-field": {
+      "lat": 14.132,
+      "lon": 38.72,
+      "precision_note": "UNESCO WHC list 15 published approximate centre; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-yeha-pre-aksumite",
+      "names": {
+        "zh": "叶哈（前阿克苏姆指针）",
+        "en": "Yeha (pre-Aksumite orientation)",
+        "native": "Yeha"
+      },
+      "kind_note": "Pre-Aksumite ceremonial/settlement centre",
+      "region": "Tigray, Ethiopia",
+      "coords": null,
+      "summary": {
+        "zh": "常作前阿克苏姆高地中心讨论。",
+        "en": "Often discussed as pre-Aksumite highland centre."
+      },
+      "sources": [
+        "src-aksum-yeha-orientation",
+        "src-aksum-phillipson-2012",
+        "src-aksum-finneran-2007"
+      ]
+    },
+    {
+      "id": "site-matara-orientation",
+      "names": {
+        "zh": "马塔拉（指针）",
+        "en": "Matara (orientation)",
+        "native": null
+      },
+      "kind_note": "Aksumite town in Eritrea",
+      "region": "Eritrea",
+      "coords": null,
+      "summary": {
+        "zh": "厄立特里亚阿克苏姆城市指针。",
+        "en": "Aksumite urban orientation in Eritrea."
+      },
+      "sources": [
+        "src-aksum-phillipson-2012",
+        "src-aksum-manzo-orientation"
+      ]
+    },
+    {
+      "id": "site-beta-gaba-orientation",
+      "names": {
+        "zh": "贝塔·加巴等地（指针）",
+        "en": "Beta Giyorgis / related hills (orientation)",
+        "native": null
+      },
+      "kind_note": "Hills overlooking Aksum stelae field",
+      "region": "Aksum, Ethiopia",
+      "coords": null,
+      "summary": {
+        "zh": "石碑原野周边聚落丘。",
+        "en": "Settlement hills around stelae field."
+      },
+      "sources": [
+        "src-aksum-british-institute-orientation",
+        "src-aksum-fattovich-bard-orientation"
+      ]
+    },
+    {
+      "id": "site-adulis-port",
+      "names": {
+        "zh": "阿杜利斯口岸",
+        "en": "Adulis port",
+        "native": "Adulis"
+      },
+      "kind_note": "Red Sea port linked to Aksumite trade",
+      "region": "Eritrean Red Sea coast",
+      "coords": null,
+      "summary": {
+        "zh": "常与阿克苏姆红海贸易相联的口岸。",
+        "en": "Port often linked to Aksumite Red Sea commerce."
+      },
+      "sources": [
+        "src-aksum-munro-hay-1991",
+        "src-aksum-phillipson-2012"
+      ]
+    },
+    {
+      "id": "site-aksum-cathedral-orientation",
+      "names": {
+        "zh": "阿克苏姆教堂区（指针）",
+        "en": "Aksum cathedral precinct (orientation)",
+        "native": null
+      },
+      "kind_note": "Later ecclesiastical precinct over Aksumite landscape",
+      "region": "Aksum, Ethiopia",
+      "coords": null,
+      "summary": {
+        "zh": "教会景观指针；注明晚期层。",
+        "en": "Ecclesiastical landscape orientation; later layers noted."
+      },
+      "sources": [
+        "src-aksum-unesco-15",
+        "src-aksum-heldman-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-pre-aksumite",
+      "names": {
+        "zh": "前阿克苏姆窗",
+        "en": "Pre-Aksumite window"
+      },
+      "time": {
+        "label": "pre-Aksumite highland complex societies",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "前阿克苏姆。",
+        "en": "Pre-Aksumite."
+      },
+      "sources": [
+        "src-aksum-yeha-orientation",
+        "src-aksum-finneran-2007",
+        "src-aksum-phillipson-2012"
+      ]
+    },
+    {
+      "id": "period-aksumite-classic",
+      "names": {
+        "zh": "阿克苏姆经典繁荣窗",
+        "en": "Classic Aksumite floruit"
+      },
+      "time": {
+        "label": "stelae, coinage, Red Sea trade florescence",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "经典繁荣。",
+        "en": "Classic floruit."
+      },
+      "sources": [
+        "src-aksum-phillipson-2012",
+        "src-aksum-munro-hay-1991",
+        "src-aksum-coinage-orientation"
+      ]
+    },
+    {
+      "id": "period-aksumite-late",
+      "names": {
+        "zh": "阿克苏姆晚期窗",
+        "en": "Late Aksumite window"
+      },
+      "time": {
+        "label": "late Aksumite transformation",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "晚期窗。",
+        "en": "Late window."
+      },
+      "sources": [
+        "src-aksum-phillipson-2012",
+        "src-aksum-finneran-2007"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-aksum-giant-stelae-frame",
+      "names": {
+        "zh": "阿克苏姆巨型石碑框架",
+        "en": "Aksum giant stelae frame"
+      },
+      "site_ids": [
+        "site-aksum-stelae-field"
+      ],
+      "period_ids": [
+        "period-aksumite-floruit",
+        "period-aksumite-classic"
+      ],
+      "sources": [
+        "src-aksum-unesco-15",
+        "src-aksum-phillipson-2012"
+      ],
+      "summary": {
+        "zh": "巨型石碑指针。",
+        "en": "Monumental stelae pointer; no forged numbers."
+      }
+    },
+    {
+      "id": "asm-aksum-coinage-frame",
+      "names": {
+        "zh": "阿克苏姆铸币框架",
+        "en": "Aksumite coinage frame"
+      },
+      "site_ids": [
+        "site-aksum-stelae-field",
+        "site-adulis-port"
+      ],
+      "period_ids": [
+        "period-aksumite-classic"
+      ],
+      "sources": [
+        "src-aksum-coinage-orientation",
+        "src-aksum-munro-hay-1991"
+      ],
+      "summary": {
+        "zh": "铸币传统指针。",
+        "en": "Coinage tradition pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-aksum-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将阿克苏姆列入世界遗产，突出石碑原野等遗存（UNESCO 15）。",
+        "en": "UNESCO lists Aksum as World Heritage, highlighting the stelae field among other remains (UNESCO 15)."
+      },
+      "site_ids": [
+        "site-aksum-stelae-field"
+      ],
+      "period_ids": [
+        "period-aksumite-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-unesco-15"
+      ]
+    },
+    {
+      "id": "claim-aksum-phillipson",
+      "kind": "fact",
+      "statement": {
+        "zh": "Phillipson 2012 综合讨论阿克苏姆考古与非洲之角背景。",
+        "en": "Phillipson 2012 synthesizes Aksum archaeology in Horn of Africa context."
+      },
+      "site_ids": [
+        "site-aksum-stelae-field"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-phillipson-2012"
+      ]
+    },
+    {
+      "id": "claim-aksum-munro-hay",
+      "kind": "fact",
+      "statement": {
+        "zh": "Munro-Hay 1991 提供阿克苏姆王国英文综述，含贸易与铸币议题。",
+        "en": "Munro-Hay 1991 offers an English synthesis of the Aksumite kingdom including trade and coinage themes."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-aksumite-classic"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-munro-hay-1991"
+      ]
+    },
+    {
+      "id": "claim-aksum-adulis",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合将阿杜利斯讨论为与阿克苏姆相联的红海口岸（Munro-Hay；Phillipson）。",
+        "en": "Syntheses discuss Adulis as a Red Sea port linked to Aksum (Munro-Hay; Phillipson)."
+      },
+      "site_ids": [
+        "site-adulis-port"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-munro-hay-1991",
+        "src-aksum-phillipson-2012"
+      ]
+    },
+    {
+      "id": "claim-aksum-yeha",
+      "kind": "fact",
+      "statement": {
+        "zh": "叶哈常被作为前阿克苏姆高地中心在研究传统中讨论（Phillipson；Finneran）。",
+        "en": "Yeha is often discussed as a pre-Aksumite highland centre in research traditions (Phillipson; Finneran)."
+      },
+      "site_ids": [
+        "site-yeha-pre-aksumite"
+      ],
+      "period_ids": [
+        "period-pre-aksumite"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-phillipson-2012",
+        "src-aksum-finneran-2007"
+      ]
+    },
+    {
+      "id": "claim-aksum-coinage",
+      "kind": "fact",
+      "statement": {
+        "zh": "阿克苏姆铸币传统见于钱币学与 Munro-Hay 等综述（钱币目录取向）。",
+        "en": "Aksumite coinage tradition appears in numismatic catalogues and Munro-Hay syntheses (catalogue orientation)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-aksumite-classic"
+      ],
+      "object_ids": [
+        "asm-aksum-coinage-frame"
+      ],
+      "sources": [
+        "src-aksum-coinage-orientation",
+        "src-aksum-munro-hay-1991"
+      ]
+    },
+    {
+      "id": "claim-aksum-littmann",
+      "kind": "fact",
+      "statement": {
+        "zh": "Deutsche Aksum-Expedition（Littmann 等）构成早期科学记录传统。",
+        "en": "The Deutsche Aksum-Expedition (Littmann et al.) forms an early scientific recording tradition."
+      },
+      "site_ids": [
+        "site-aksum-stelae-field"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-littmann-deutsche"
+      ]
+    },
+    {
+      "id": "claim-aksum-biea",
+      "kind": "fact",
+      "statement": {
+        "zh": "东非英国研究所/Munro-Hay 发掘传统延续阿克苏姆田野工作（P 取向）。",
+        "en": "British Institute in Eastern Africa / Munro-Hay excavation traditions continue Aksum fieldwork (P orientation)."
+      },
+      "site_ids": [
+        "site-beta-gaba-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-british-institute-orientation",
+        "src-aksum-fattovich-bard-orientation"
+      ]
+    },
+    {
+      "id": "claim-aksum-stelae-monumental",
+      "kind": "fact",
+      "statement": {
+        "zh": "巨型石碑是教科文与综合描述中阿克苏姆纪念建筑的核心类别（UNESCO 15；Phillipson）。",
+        "en": "Giant stelae are a core monumental category in UNESCO and synthetic descriptions of Aksum (UNESCO 15; Phillipson)."
+      },
+      "site_ids": [
+        "site-aksum-stelae-field"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-aksum-giant-stelae-frame"
+      ],
+      "sources": [
+        "src-aksum-unesco-15",
+        "src-aksum-phillipson-2012"
+      ]
+    },
+    {
+      "id": "claim-aksum-met-heilbrunn",
+      "kind": "fact",
+      "statement": {
+        "zh": "大都会 Heilbrunn 时间线等机构页面提供阿克苏姆公众取向（tier T）。",
+        "en": "Met Heilbrunn timeline and similar institutional pages provide public Aksum orientation (tier T)."
+      },
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aksum-met-heilbrunn-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-aksum-unesco",
+      "title": {
+        "zh": "教科文：阿克苏姆",
+        "en": "UNESCO: Aksum",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/15/",
+      "sources": [
+        "src-aksum-unesco-15"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-aksum-unesco-docs",
+      "title": {
+        "zh": "教科文阿克苏姆文档",
+        "en": "UNESCO Aksum documents",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/15/documents/",
+      "sources": [
+        "src-aksum-unesco-docs"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

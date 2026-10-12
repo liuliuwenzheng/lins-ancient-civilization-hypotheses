@@ -1,0 +1,50 @@
+{
+  "id": "civ-rapa-nui",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "拉帕努伊（复活节岛）",
+    "en": "Rapa Nui (Easter Island)",
+    "native": "Rapa Nui"
+  },
+  "region": "Oceania / southeastern Pacific (Chilean Polynesia)",
+  "time_span": "Polynesian settlement to monumental moai florescence broadly late 1st–early 2nd millennium CE (Hunt–Lipo / Martinsson-Wallin frames; ethics-first)",
+  "summary": {
+    "zh": "拉帕努伊档案壳：伦理优先；Hunt–Lipo/Martinsson-Wallin + 教科文；library-seed。",
+    "en": "Rapa Nui archive shell: ethics-first; Hunt–Lipo/Martinsson-Wallin + UNESCO; library-seed."
+  },
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-hunt-lipo-2011",
+    "src-rapanui-martinsson-wallin-orientation",
+    "src-rapanui-van-tilburg-1994",
+    "src-rapanui-stevenson-orientation"
+  ],
+  "site_ids": [
+    "site-rapa-nui-national-park",
+    "site-rapanui-orongo-orientation"
+  ],
+  "period_ids": [
+    "period-rapa-nui-monumental"
+  ],
+  "claim_ids": [
+    "claim-rapanui-moai-landscape"
+  ],
+  "object_ids": [
+    "asm-rapanui-moai-ahu-frame"
+  ],
+  "related_ids": [
+    "civ-lapita-pacific"
+  ],
+  "markdown_path": "data/civilizations/civ-rapa-nui.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

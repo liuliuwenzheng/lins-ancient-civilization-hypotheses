@@ -1,0 +1,34 @@
+{
+  "id": "period-phoenician-western-expansion",
+  "entity": "period",
+  "names": {
+    "zh": "腓尼基西扩窗",
+    "en": "Phoenician western expansion window"
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "central/western Mediterranean colonization",
+    "approx_from_bce": 900,
+    "approx_to_bce": 600,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "西扩。",
+    "en": "Western expansion."
+  },
+  "sources": [
+    "src-phoenician-aubet-west-2001",
+    "src-phoenician-nieto-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将阿克苏姆列入世界遗产，突出石碑原野等遗存（UNESCO 15）。",
+    "en": "UNESCO lists Aksum as World Heritage, highlighting the stelae field among other remains (UNESCO 15)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [
+    "period-aksumite-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-unesco-15"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

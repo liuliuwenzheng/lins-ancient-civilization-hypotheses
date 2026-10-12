@@ -1,0 +1,32 @@
+{
+  "id": "site-angkor-thom",
+  "entity": "site",
+  "names": {
+    "zh": "吴哥城",
+    "en": "Angkor Thom",
+    "native": "Angkor Thom"
+  },
+  "kind_note": "Late Angkorian fortified urban core",
+  "region": "Siem Reap Province, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "晚期吴哥设防城市核心。",
+    "en": "Late Angkorian fortified urban core."
+  },
+  "sources": [
+    "src-angkor-unesco-668",
+    "src-angkor-jacques-lafond-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

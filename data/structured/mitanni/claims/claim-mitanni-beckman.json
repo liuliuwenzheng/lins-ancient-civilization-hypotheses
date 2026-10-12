@@ -1,0 +1,31 @@
+{
+  "id": "claim-mitanni-beckman",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "外交文本与条约传统（含赫梯侧）是重建米坦尼国际关系的关键来源（Letterman/Bryce 取向）。",
+    "en": "Diplomatic texts and treaty traditions (including Hittite-side) are key sources for Mitanni international relations (Letterman/Bryce orientation)."
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mitanni-amarna-age"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-beckman-diplomatic-texts",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

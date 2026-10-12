@@ -1,0 +1,32 @@
+{
+  "id": "site-rapanui-orongo-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "奥龙戈（指针）",
+    "en": "Orongo (orientation)",
+    "native": "Orongo"
+  },
+  "kind_note": "Ceremonial village associated with birdman cult narratives",
+  "region": "Southwestern Rapa Nui",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "与鸟人仪礼叙述相关的仪礼村指针。",
+    "en": "Ceremonial-village orientation linked to birdman-cult narratives."
+  },
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-martinsson-wallin-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

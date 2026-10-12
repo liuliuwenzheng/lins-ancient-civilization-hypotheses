@@ -1,0 +1,32 @@
+{
+  "id": "site-ban-chiang-related-villages",
+  "entity": "site",
+  "names": {
+    "zh": "班清相关村落遗址（指针）",
+    "en": "Ban Chiang-related village sites (orientation)",
+    "native": null
+  },
+  "kind_note": "Neighboring prehistoric mounds",
+  "region": "Udon Thani province",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "相关土墩遗址指针。",
+    "en": "Related mound sites orientation."
+  },
+  "sources": [
+    "src-ban-chiang-white-penn-orientation",
+    "src-ban-chiang-white-hamilton-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

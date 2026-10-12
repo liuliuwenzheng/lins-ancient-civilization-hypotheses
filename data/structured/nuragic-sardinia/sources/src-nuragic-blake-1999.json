@@ -1,0 +1,19 @@
+{
+  "id": "src-nuragic-blake-1999",
+  "entity": "source",
+  "type": "article",
+  "citation": "Blake, Emma. 1999. Identity-Mapping in the Sardinian Bronze Age. European Journal of Archaeology 2(1): 35–55.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Identity and landscape discussion; article orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

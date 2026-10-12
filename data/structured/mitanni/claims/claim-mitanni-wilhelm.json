@@ -1,0 +1,31 @@
+{
+  "id": "claim-mitanni-wilhelm",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Wilhelm 1989 等综述将米坦尼置于胡里安语世界的晚青铜大国框架。",
+    "en": "Wilhelm 1989 and related syntheses place Mitanni in a Late Bronze Hurrian great-power frame."
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mitanni-lba"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-wilhelm-ria"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

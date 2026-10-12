@@ -1,0 +1,52 @@
+{
+  "id": "civ-moche",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "莫切",
+    "en": "Moche",
+    "native": "Moche / Mochica"
+  },
+  "region": "South America / north coast Peru (Moche–Chicama–Lambayeque valleys)",
+  "time_span": "Early Intermediate / Moche florescence broadly 1st–8th centuries CE (Quilter / Castillo frames)",
+  "summary": {
+    "zh": "莫切档案壳：Quilter/Castillo + 太阳/月亮金字塔发掘传统；library-seed。",
+    "en": "Moche archive shell: Quilter/Castillo + Huacas de Moche excavation tradition; library-seed."
+  },
+  "sources": [
+    "src-moche-quilter-2010",
+    "src-moche-castillo-uceda-orientation",
+    "src-moche-donnan-mcclelland-1999",
+    "src-moche-bourget-2006",
+    "src-moche-huacas-project-web"
+  ],
+  "site_ids": [
+    "site-huacas-de-moche",
+    "site-sipan-orientation"
+  ],
+  "period_ids": [
+    "period-moche-eip-floruit"
+  ],
+  "claim_ids": [
+    "claim-moche-north-coast-polities"
+  ],
+  "object_ids": [
+    "asm-moche-fineline-ceramic-frame"
+  ],
+  "related_ids": [
+    "civ-andes",
+    "civ-chavin",
+    "civ-inca"
+  ],
+  "markdown_path": "data/civilizations/civ-moche.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

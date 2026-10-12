@@ -1,0 +1,32 @@
+{
+  "id": "site-koumbi-saleh-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "昆比萨利赫（指针）",
+    "en": "Koumbi Saleh (orientation)",
+    "native": "Koumbi Saleh"
+  },
+  "kind_note": "Often identified with medieval Ghana capital in Arabic sources",
+  "region": "Southeast Mauritania / Mali border zone",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "阿拉伯文献中常与加纳都城相联系的遗址指针；鉴定讨论开放。",
+    "en": "Site orientation often linked to medieval Ghana's capital in Arabic sources; identification debates open."
+  },
+  "sources": [
+    "src-waf-levtzion-hopkins-2000",
+    "src-waf-mcintosh-2005"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

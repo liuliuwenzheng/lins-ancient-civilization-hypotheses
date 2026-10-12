@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-circular-plaza",
+  "entity": "site",
+  "names": {
+    "zh": "查文圆形广场区",
+    "en": "Chavín circular plaza sector",
+    "native": null
+  },
+  "kind_note": "Monumental plaza/gallery sector at type site",
+  "region": "Chavín de Huántar, Ancash",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "Rick/Kembel 建筑研究讨论的广场与廊道区。",
+    "en": "Plaza and gallery sector discussed in Rick/Kembel architectural studies."
+  },
+  "sources": [
+    "src-chavin-pozo-excavation-orientation",
+    "src-chavin-unesco-330",
+    "src-chavin-kembel-rick-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

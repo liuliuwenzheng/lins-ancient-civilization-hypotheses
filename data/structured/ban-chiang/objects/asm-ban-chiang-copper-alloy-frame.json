@@ -1,0 +1,44 @@
+{
+  "id": "asm-ban-chiang-copper-alloy-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "班清铜合金框架",
+    "en": "Ban Chiang copper-alloy frame"
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-ban-chiang-udon",
+    "site-lopburi-metal-orientation"
+  ],
+  "period_ids": [
+    "period-ban-chiang-bronze"
+  ],
+  "summary": {
+    "zh": "铜合金冶金指针。",
+    "en": "Copper-alloy metallurgy pointer."
+  },
+  "sources": [
+    "src-ban-chiang-pigott-metal-orientation",
+    "src-ban-chiang-pigott-brass"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-moche-bourget-2006",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Bourget, Steve. 2006. Sex, Death, and Sacrifice in Moche Religion and Visual Culture. Austin: University of Texas Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Religion and visual culture study; print; contested interpretations noted.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

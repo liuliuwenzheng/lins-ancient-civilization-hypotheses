@@ -1,0 +1,32 @@
+{
+  "id": "site-sipan-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "西潘（指针）",
+    "en": "Sipán (orientation)",
+    "native": "Sipán"
+  },
+  "kind_note": "Elite Moche burial complex (Lambayeque)",
+  "region": "Lambayeque, Peru",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "莫切精英墓葬发现指针；与皇家陵墓博物馆传统相关。",
+    "en": "Elite Moche burial discovery orientation; linked to Museo Tumbas Reales tradition."
+  },
+  "sources": [
+    "src-moche-quilter-2010",
+    "src-moche-donnan-mcclelland-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

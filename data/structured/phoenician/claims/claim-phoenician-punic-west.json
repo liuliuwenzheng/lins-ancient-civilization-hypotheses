@@ -1,0 +1,33 @@
+{
+  "id": "claim-phoenician-punic-west",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "迦太基等节点代表腓尼基西扩后的布匿地中海网络（UNESCO Carthage；Aubet）。",
+    "en": "Nodes such as Carthage represent the Punic Mediterranean network after Phoenician western expansion (UNESCO Carthage; Aubet)."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-carthage-punic"
+  ],
+  "period_ids": [
+    "period-punic-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-unesco-carthage-37",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

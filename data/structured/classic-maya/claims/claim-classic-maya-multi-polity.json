@@ -1,0 +1,34 @@
+{
+  "id": "claim-classic-maya-multi-polity",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "碑铭与综合强调经典期低地为多政体竞争格局，而非单一帝国（Martin & Grube；Sharer & Traxler）。",
+    "en": "Epigraphy and syntheses emphasize Classic lowlands as multi-polity competition rather than a single empire (Martin & Grube; Sharer & Traxler)."
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-calakmul-classic"
+  ],
+  "period_ids": [
+    "period-classic-maya-late"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

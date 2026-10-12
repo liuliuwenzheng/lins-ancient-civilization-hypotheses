@@ -1,0 +1,19 @@
+{
+  "id": "src-waf-levtzion-hopkins-2000",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Levtzion, Nehemia, and J. F. P. Hopkins, eds. 2000. Corpus of Early Arabic Sources for West African History. Princeton: Markus Wiener. (Reprint of 1981 Cambridge edition.)",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Arabic-source corpus for Ghana/Mali/Songhai; print; shell uses corpus orientation only.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

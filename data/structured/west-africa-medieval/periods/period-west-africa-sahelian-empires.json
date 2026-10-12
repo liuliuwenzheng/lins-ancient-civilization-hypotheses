@@ -1,0 +1,34 @@
+{
+  "id": "period-west-africa-sahelian-empires",
+  "entity": "period",
+  "names": {
+    "zh": "萨赫勒帝国繁荣窗",
+    "en": "Sahelian empire floruit"
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "time": {
+    "label": "broadly 8th–16th centuries CE (Ghana–Mali–Songhai working sequence)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Empire sequence labels only; absolute reign tables deferred."
+  },
+  "summary": {
+    "zh": "壳级萨赫勒帝国窗。",
+    "en": "Shell Sahelian empire window."
+  },
+  "sources": [
+    "src-waf-levtzion-hopkins-2000",
+    "src-waf-hunwick-timbuktu-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-unesco-listed",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将查文德万塔尔列入世界遗产，强调其安第斯形成期仪礼建筑与石雕（UNESCO 330）。",
+    "en": "UNESCO lists Chavín de Huántar as World Heritage, emphasizing Formative Andean ceremonial architecture and lithic sculpture (UNESCO 330)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [
+    "period-chavin-early-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-unesco-330"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

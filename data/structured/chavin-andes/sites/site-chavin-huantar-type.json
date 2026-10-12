@@ -20,7 +20,11 @@
     "src-chavin-burger-origins-1992",
     "src-chavin-burger-ucp-1984"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -9.594444,
+    "lon": -77.178333,
+    "precision_note": "UNESCO WHC list 330 published DMS→decimal; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave2_shells/generate_wave2.py",
@@ -28,6 +32,6 @@
       "docs/decisions.md#d-2026-10-12-14"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-16."
   }
 }

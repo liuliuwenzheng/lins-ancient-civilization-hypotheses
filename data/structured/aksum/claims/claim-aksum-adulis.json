@@ -1,0 +1,31 @@
+{
+  "id": "claim-aksum-adulis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合将阿杜利斯讨论为与阿克苏姆相联的红海口岸（Munro-Hay；Phillipson）。",
+    "en": "Syntheses discuss Adulis as a Red Sea port linked to Aksum (Munro-Hay; Phillipson)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-adulis-port"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-munro-hay-1991",
+    "src-aksum-phillipson-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

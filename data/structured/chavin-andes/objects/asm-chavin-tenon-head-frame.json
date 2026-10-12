@@ -1,0 +1,44 @@
+{
+  "id": "asm-chavin-tenon-head-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "榫头石雕框架组合",
+    "en": "Tenon-head sculpture frame"
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [
+    "period-chavin-early-horizon",
+    "period-chavin-janabarriu"
+  ],
+  "summary": {
+    "zh": "榫头建筑石雕指针。",
+    "en": "Tenon-head architectural sculpture pointer."
+  },
+  "sources": [
+    "src-chavin-unesco-330",
+    "src-chavin-burger-origins-1992"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

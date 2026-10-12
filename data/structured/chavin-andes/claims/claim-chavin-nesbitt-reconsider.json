@@ -1,0 +1,30 @@
+{
+  "id": "claim-chavin-nesbitt-reconsider",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Nesbitt & Burger 2023 文集在二十一世纪框架下重审查文现象与互动圈（Dumbarton Oaks / HUP）。",
+    "en": "Nesbitt & Burger 2023 reconsider the Chavín phenomenon and interaction sphere in a twenty-first-century frame (Dumbarton Oaks / HUP)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-chavin-early-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-nesbitt-burger-2023"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-mitanni-bryce",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bryce《赫梯王国》等二手综合讨论米坦尼与赫梯互动。",
+    "en": "Bryce Kingdom of the Hittites and related syntheses discuss Mitanni–Hittite interaction."
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mitanni-assyrian-pressure"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

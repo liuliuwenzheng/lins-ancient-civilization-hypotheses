@@ -1,0 +1,19 @@
+{
+  "id": "src-ban-chiang-c14-debate",
+  "entity": "source",
+  "type": "article",
+  "citation": "Radiocarbon chronology debates for Ban Chiang metal ages (journal tradition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Chronology debate orientation; no invented dates.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

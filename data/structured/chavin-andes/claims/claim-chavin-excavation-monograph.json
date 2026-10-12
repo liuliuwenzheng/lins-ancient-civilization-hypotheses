@@ -1,0 +1,30 @@
+{
+  "id": "claim-chavin-excavation-monograph",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Burger 1984 专著建立查文德万塔尔史前占用与陶瓷序列的基础田野框架（UCP Anthropology 14）。",
+    "en": "Burger 1984 establishes a foundational field frame for prehistoric occupation and ceramic sequence at Chavín de Huántar (UCP Anthropology 14)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-burger-ucp-1984"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

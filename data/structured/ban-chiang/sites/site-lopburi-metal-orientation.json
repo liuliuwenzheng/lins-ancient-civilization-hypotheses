@@ -1,0 +1,32 @@
+{
+  "id": "site-lopburi-metal-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "华富里金属传统（指针）",
+    "en": "Lopburi metal-working tradition (orientation)",
+    "native": null
+  },
+  "kind_note": "Central Thailand metal production landscapes",
+  "region": "Lopburi region, Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "金属生产景观指针。",
+    "en": "Metal-production landscape orientation."
+  },
+  "sources": [
+    "src-ban-chiang-pigott-brass",
+    "src-ban-chiang-pigott-metal-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

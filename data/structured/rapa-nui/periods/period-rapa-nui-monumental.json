@@ -1,0 +1,34 @@
+{
+  "id": "period-rapa-nui-monumental",
+  "entity": "period",
+  "names": {
+    "zh": "拉帕努伊纪念建筑繁荣窗",
+    "en": "Rapa Nui monumental floruit"
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "time": {
+    "label": "late 1st–early 2nd millennium CE working window (debated)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Settlement and collapse models contested; shell window only."
+  },
+  "summary": {
+    "zh": "壳级拉帕努伊窗；年代争论开放。",
+    "en": "Shell Rapa Nui window; chronological debates open."
+  },
+  "sources": [
+    "src-rapanui-hunt-lipo-2011",
+    "src-rapanui-stevenson-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

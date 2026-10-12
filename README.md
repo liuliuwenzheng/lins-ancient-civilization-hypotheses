@@ -94,15 +94,17 @@ lins-ancient-civilization-hypotheses/
 
 Templates are marked clearly; they are **not** filled with invented case studies.
 
-**Library status (2026-10-12):** **29** structured packs under `data/structured/` — **9 dense** (`fact-library`) + **11 Wave-1** (`library-seed-rich`) + **9 Wave-2 shells** (`library-seed`). Coverage map: [`docs/coverage-map.md`](docs/coverage-map.md) · [中文](docs/coverage-map.zh.md). Depth: [`docs/entry-depth.md`](docs/entry-depth.md). Decisions: [`docs/decisions.md`](docs/decisions.md) (D-2026-10-12-14).
+**Library status (2026-10-12):** **40** structured packs under `data/structured/` — **9 dense** (`fact-library`) + **11 Wave-1** (`library-seed-rich`) + **9 Wave-2** (`library-seed-rich`) + **11 Wave-3 shells** (`library-seed`). Coverage map: [`docs/coverage-map.md`](docs/coverage-map.md) · [中文](docs/coverage-map.zh.md). Depth: [`docs/entry-depth.md`](docs/entry-depth.md). Decisions: [`docs/decisions.md`](docs/decisions.md) (D-2026-10-12-15 / D-2026-10-12-16).
 
 **Dense (9):** mesopotamia · egypt · andes · indus · china-bronze · sanxingdui · aegean · olmec · early-maya
 
 **Wave-1 (11, densified):** elam-iran · nubia-kush · anatolia-hittite · levant-ugarit · bmac-oxus · nok-west-africa · teotihuacan · zapotec · lapita-pacific · dong-son · jomon-yayoi
 
-**Wave-2 shells (9):** chavin-andes · tiwanaku · wari · classic-maya · aksum · ban-chiang · early-korea · mitanni · phoenician
+**Wave-2 (9, densified):** chavin-andes · tiwanaku · wari · classic-maya · aksum · ban-chiang · early-korea · mitanni · phoenician
 
-API/UI auto-discover all packs; Wave-2 shells are intentionally thin — integrity over fake density.
+**Wave-3 shells (11):** cahokia · ancestral-pueblo · great-zimbabwe · west-africa-medieval · hallstatt-celtic · nuragic-sardinia · rapa-nui · inca · moche · aztec · angkor
+
+API/UI auto-discover all packs; Wave-3 shells are intentionally thin — integrity over fake density.
 
 - **Design taste** — makers’ principles + UI/API/README checklist: [`docs/design-taste.md`](docs/design-taste.md) · [中文](docs/design-taste.zh.md)
 - **Entry depth** — required sections, source minimums, status ladder: [`docs/entry-depth.md`](docs/entry-depth.md) · [中文](docs/entry-depth.zh.md)

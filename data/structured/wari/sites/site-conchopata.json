@@ -1,0 +1,32 @@
+{
+  "id": "site-conchopata",
+  "entity": "site",
+  "names": {
+    "zh": "孔乔帕塔",
+    "en": "Conchopata",
+    "native": null
+  },
+  "kind_note": "Wari-related site near Ayacucho with offering contexts",
+  "region": "Ayacucho, Peru",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "瓦里附近祭献与制陶语境。",
+    "en": "Offering and ceramic production contexts near Huari."
+  },
+  "sources": [
+    "src-wari-conchopata-orientation",
+    "src-wari-isbell-schreiber-1978"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

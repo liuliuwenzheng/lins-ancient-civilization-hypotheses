@@ -19,7 +19,11 @@
     "src-classic-maya-unesco-palenque-411",
     "src-classic-maya-martin-grube-2008"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.484,
+    "lon": -92.045,
+    "precision_note": "UNESCO WHC list 411 published approximate centre; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave2_shells/generate_wave2.py",
@@ -27,6 +31,6 @@
       "docs/decisions.md#d-2026-10-12-14"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-16."
   }
 }

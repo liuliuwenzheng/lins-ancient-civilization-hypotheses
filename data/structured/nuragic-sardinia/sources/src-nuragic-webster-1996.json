@@ -1,0 +1,19 @@
+{
+  "id": "src-nuragic-webster-1996",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Webster, Gary S. 1996. A Prehistory of Sardinia 2300–500 BC. Sheffield: Sheffield Academic Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "English-language Sardinia prehistory synthesis; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

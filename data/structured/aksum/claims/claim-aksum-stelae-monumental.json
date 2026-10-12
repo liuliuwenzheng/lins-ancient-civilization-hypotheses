@@ -1,0 +1,33 @@
+{
+  "id": "claim-aksum-stelae-monumental",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "巨型石碑是教科文与综合描述中阿克苏姆纪念建筑的核心类别（UNESCO 15；Phillipson）。",
+    "en": "Giant stelae are a core monumental category in UNESCO and synthetic descriptions of Aksum (UNESCO 15; Phillipson)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aksum-giant-stelae-frame"
+  ],
+  "sources": [
+    "src-aksum-unesco-15",
+    "src-aksum-phillipson-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "asm-phoenician-alphabet-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "腓尼基字母—铭文框架",
+    "en": "Phoenician alphabet / inscription frame"
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-byblos-gubla",
+    "site-sidon-saida"
+  ],
+  "period_ids": [
+    "period-phoenician-iron-punic",
+    "period-phoenician-iron-i-ii"
+  ],
+  "summary": {
+    "zh": "字母与铭文传统指针。",
+    "en": "Alphabet and inscription tradition pointer; no forged texts."
+  },
+  "sources": [
+    "src-phoenician-markoe-2000",
+    "src-phoenician-unesco-byblos-295"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

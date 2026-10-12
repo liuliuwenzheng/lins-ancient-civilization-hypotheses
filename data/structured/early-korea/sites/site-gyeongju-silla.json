@@ -1,0 +1,32 @@
+{
+  "id": "site-gyeongju-silla",
+  "entity": "site",
+  "names": {
+    "zh": "庆州新罗历史区",
+    "en": "Gyeongju Silla historic areas",
+    "native": null
+  },
+  "kind_note": "Silla capital landscape; UNESCO WH",
+  "region": "North Gyeongsang, Korea",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "新罗早期历史都城景观。",
+    "en": "Early historic Silla capital landscape."
+  },
+  "sources": [
+    "src-early-korea-unesco-gyeongju",
+    "src-early-korea-barnes-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-tiwanaku-katari-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "卡塔里盆地聚落（指针）",
+    "en": "Katari basin settlements (orientation)",
+    "native": null
+  },
+  "kind_note": "Near-capital settlement archaeology",
+  "region": "Titicaca basin, Bolivia",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "近都聚落框架。",
+    "en": "Near-capital settlement frame."
+  },
+  "sources": [
+    "src-tiwanaku-albarracin-jordan-orientation",
+    "src-tiwanaku-kolata-ed-tiwanaku"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "period-tiwanaku-decline",
+  "entity": "period",
+  "names": {
+    "zh": "蒂瓦纳科衰退/转型窗",
+    "en": "Tiwanaku decline / transition"
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "late Middle Horizon decline and reorganization",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "衰退/转型。",
+    "en": "Decline/transition."
+  },
+  "sources": [
+    "src-tiwanaku-janusek-2008",
+    "src-tiwanaku-isbell-wari-compare"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

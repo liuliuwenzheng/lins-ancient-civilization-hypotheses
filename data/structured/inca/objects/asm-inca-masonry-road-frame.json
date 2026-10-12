@@ -1,0 +1,44 @@
+{
+  "id": "asm-inca-masonry-road-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "印加石工—道路框架组合",
+    "en": "Inca masonry–road frame"
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-cusco-inca",
+    "site-machu-picchu"
+  ],
+  "period_ids": [
+    "period-inca-late-horizon"
+  ],
+  "summary": {
+    "zh": "壳级精细石工与道路网指针。",
+    "en": "Shell fine masonry and road-network pointer."
+  },
+  "sources": [
+    "src-inca-unesco-cusco-273",
+    "src-inca-hyslop-1990"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

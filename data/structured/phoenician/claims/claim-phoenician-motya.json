@@ -1,0 +1,31 @@
+{
+  "id": "claim-phoenician-motya",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "莫蒂亚是西西里腓尼基—布匿殖民节点的发掘案例（发掘传统）。",
+    "en": "Motya is an excavated Phoenician–Punic colonial node in Sicily (excavation tradition)."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-motya-sicily"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-motya-orientation",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

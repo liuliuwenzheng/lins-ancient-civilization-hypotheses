@@ -1,0 +1,53 @@
+{
+  "id": "civ-inca",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "印加",
+    "en": "Inca (Tawantinsuyu)",
+    "native": "Tawantinsuyu"
+  },
+  "region": "South America / Andean highlands and coast (Cusco heartland; empire span)",
+  "time_span": "Late Horizon empire floruit broadly 15th–early 16th centuries CE (D'Altroy / McEwan frames)",
+  "summary": {
+    "zh": "印加档案壳：D'Altroy/McEwan + 库斯科/马丘比丘教科文；library-seed。",
+    "en": "Inca archive shell: D'Altroy/McEwan + Cusco/Machu Picchu UNESCO; library-seed."
+  },
+  "sources": [
+    "src-inca-unesco-cusco-273",
+    "src-inca-unesco-machu-picchu-274",
+    "src-inca-daltroy-2014",
+    "src-inca-mcewan-2006",
+    "src-inca-hyslop-1990"
+  ],
+  "site_ids": [
+    "site-cusco-inca",
+    "site-machu-picchu"
+  ],
+  "period_ids": [
+    "period-inca-late-horizon"
+  ],
+  "claim_ids": [
+    "claim-inca-cusco-machu-picchu"
+  ],
+  "object_ids": [
+    "asm-inca-masonry-road-frame"
+  ],
+  "related_ids": [
+    "civ-andes",
+    "civ-wari",
+    "civ-tiwanaku",
+    "civ-moche"
+  ],
+  "markdown_path": "data/civilizations/civ-inca.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

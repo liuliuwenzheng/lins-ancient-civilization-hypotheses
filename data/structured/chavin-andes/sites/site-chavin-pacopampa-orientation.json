@@ -1,0 +1,32 @@
+{
+  "id": "site-chavin-pacopampa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "帕科潘帕（指针）",
+    "en": "Pacopampa (orientation)",
+    "native": "Pacopampa"
+  },
+  "kind_note": "Formative highland centre with Chavín-related discussion",
+  "region": "Cajamarca highlands",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "查文相关文献中的高原形成期中心指针。",
+    "en": "Highland Formative centre orientation in Chavín-related literature."
+  },
+  "sources": [
+    "src-chavin-nesbitt-burger-2023",
+    "src-chavin-ikehara-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

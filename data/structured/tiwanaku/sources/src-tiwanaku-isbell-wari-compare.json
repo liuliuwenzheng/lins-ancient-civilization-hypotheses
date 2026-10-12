@@ -1,0 +1,19 @@
+{
+  "id": "src-tiwanaku-isbell-wari-compare",
+  "entity": "source",
+  "type": "article",
+  "citation": "Isbell, William H. — comparative Middle Horizon discussions of Tiwanaku and Wari.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Comparative Middle Horizon orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

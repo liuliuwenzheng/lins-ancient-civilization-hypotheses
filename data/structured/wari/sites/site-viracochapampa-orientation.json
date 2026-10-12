@@ -1,0 +1,32 @@
+{
+  "id": "site-viracochapampa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "维拉科查潘帕（指针）",
+    "en": "Viracochapampa (orientation)",
+    "native": null
+  },
+  "kind_note": "Wari-related planned architectural compound",
+  "region": "Huamachuco area, Peru",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "行省规划建筑指针。",
+    "en": "Provincial planned architecture orientation."
+  },
+  "sources": [
+    "src-wari-schreiber-1992",
+    "src-wari-topic-isbell"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

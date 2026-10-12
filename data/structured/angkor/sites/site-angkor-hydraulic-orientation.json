@@ -1,0 +1,32 @@
+{
+  "id": "site-angkor-hydraulic-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "吴哥水利景观（指针）",
+    "en": "Angkor hydraulic landscape (orientation)",
+    "native": null
+  },
+  "kind_note": "Baray / canal urban-agrarian landscape frame",
+  "region": "Greater Angkor region",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "巴莱与运河城市—农业景观指针；激光雷达研究相关。",
+    "en": "Baray and canal urban–agrarian landscape pointer; lidar research related."
+  },
+  "sources": [
+    "src-angkor-evans-lidar-orientation",
+    "src-angkor-coe-evans-2018"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

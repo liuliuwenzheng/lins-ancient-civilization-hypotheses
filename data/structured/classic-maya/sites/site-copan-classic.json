@@ -1,0 +1,32 @@
+{
+  "id": "site-copan-classic",
+  "entity": "site",
+  "names": {
+    "zh": "科潘",
+    "en": "Copán",
+    "native": null
+  },
+  "kind_note": "Classic Maya polity centre; UNESCO WH",
+  "region": "western Honduras",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "东南经典中心，以雕塑与象形文字阶梯著称。",
+    "en": "Southeastern Classic centre famous for sculpture and hieroglyphic stairway."
+  },
+  "sources": [
+    "src-classic-maya-unesco-copan-129",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

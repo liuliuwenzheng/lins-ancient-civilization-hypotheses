@@ -1,0 +1,19 @@
+{
+  "id": "src-zimbabwe-garlake-1973",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Garlake, Peter S. 1973. Great Zimbabwe. London: Thames and Hudson.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Classic accessible monograph; print; shell TOC-level.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-chavin-janabarriu-label",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Burger 陶瓷序列使用佳纳巴里乌等风格标签描述查文繁荣期陶业（Burger 1984/1992）；绝对年代仍可修订。",
+    "en": "Burger's ceramic sequence uses labels such as Janabarriu for Chavín floruit pottery (Burger 1984/1992); absolute dates remain revisable."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-chavin-janabarriu"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-burger-ucp-1984",
+    "src-chavin-burger-origins-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

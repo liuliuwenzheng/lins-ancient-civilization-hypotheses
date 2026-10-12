@@ -1,0 +1,19 @@
+{
+  "id": "src-chavin-ikehara-orientation",
+  "entity": "source",
+  "type": "article",
+  "citation": "Ikehara Tsukayama, Hugo C. — Formative Ancash and Chavín interaction sphere surveys.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Regional survey orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

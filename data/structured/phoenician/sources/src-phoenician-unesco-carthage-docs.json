@@ -1,0 +1,19 @@
+{
+  "id": "src-phoenician-unesco-carthage-docs",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Archaeological Site of Carthage — documents. https://whc.unesco.org/en/list/37/documents/",
+  "url": "https://whc.unesco.org/en/list/37/documents/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Carthage documents.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

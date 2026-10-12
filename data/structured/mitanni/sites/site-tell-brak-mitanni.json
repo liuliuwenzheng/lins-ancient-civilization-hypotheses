@@ -1,0 +1,32 @@
+{
+  "id": "site-tell-brak-mitanni",
+  "entity": "site",
+  "names": {
+    "zh": "泰勒布拉克（米坦尼层指针）",
+    "en": "Tell Brak (Mitanni-period orientation)",
+    "native": null
+  },
+  "kind_note": "Urban site with LBA Hurrian/Mitanni levels",
+  "region": "NE Syria",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "胡里安/米坦尼时期层位指针。",
+    "en": "Hurrian/Mitanni-period levels orientation."
+  },
+  "sources": [
+    "src-mitanni-tell-brak-orientation",
+    "src-mitanni-wilhelm-hurrians-1989"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-ban-chiang-glover",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Glover 等讨论将大陆东南亚早期冶金置于更广交换网络（论文/专著取向）。",
+    "en": "Glover and related discussions place early mainland Southeast Asian metallurgy in wider exchange networks (essay/monograph orientation)."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ban-chiang-bronze"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-glover-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

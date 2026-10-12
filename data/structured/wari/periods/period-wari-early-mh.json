@@ -1,0 +1,34 @@
+{
+  "id": "period-wari-early-mh",
+  "entity": "period",
+  "names": {
+    "zh": "瓦里中地平线早窗",
+    "en": "Wari early Middle Horizon"
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "time": {
+    "label": "early MH expansion/formation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "中地平线早窗。",
+    "en": "Early MH window."
+  },
+  "sources": [
+    "src-wari-schreiber-1992",
+    "src-wari-menzel-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

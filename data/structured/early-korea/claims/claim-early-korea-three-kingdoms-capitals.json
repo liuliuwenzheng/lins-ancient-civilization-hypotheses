@@ -1,0 +1,35 @@
+{
+  "id": "claim-early-korea-three-kingdoms-capitals",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "庆州与公州/扶余等历史区域代表三国时代都城考古景观（UNESCO；Barnes）。",
+    "en": "Gyeongju and Gongju/Buyeo historic areas represent Three Kingdoms capital archaeological landscapes (UNESCO; Barnes)."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-gyeongju-silla",
+    "site-gongju-baekje"
+  ],
+  "period_ids": [
+    "period-three-kingdoms-early"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-unesco-gyeongju",
+    "src-early-korea-unesco-baekje-docs",
+    "src-early-korea-barnes-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

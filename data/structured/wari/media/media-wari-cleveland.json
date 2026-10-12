@@ -1,0 +1,32 @@
+{
+  "id": "media-wari-cleveland",
+  "entity": "media",
+  "title": {
+    "zh": "克利夫兰：瓦里展览取向",
+    "en": "Cleveland: Wari exhibition orientation",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.clevelandart.org/art/exhibitions/wari-lords-ancient-andes",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-wari-andes-cleveland-catalogue"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cleveland Museum of Art",
+    "upstream_url": "https://www.clevelandart.org/art/exhibitions/wari-lords-ancient-andes",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-tiwanaku-compare-wari",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "中地平线研究常比较蒂瓦纳科与瓦里的扩张模式（Isbell 等）。",
+    "en": "Middle Horizon research often compares Tiwanaku and Wari expansion models (Isbell et al.)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-tiwanaku-decline"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-isbell-wari-compare",
+    "src-tiwanaku-janusek-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

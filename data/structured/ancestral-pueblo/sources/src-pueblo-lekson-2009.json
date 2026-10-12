@@ -1,0 +1,19 @@
+{
+  "id": "src-pueblo-lekson-2009",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Lekson, Stephen H. 2009. A History of the Ancient Southwest. Santa Fe: School for Advanced Research Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Regional synthesis of Southwest archaeology; print; TOC-level for shell.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

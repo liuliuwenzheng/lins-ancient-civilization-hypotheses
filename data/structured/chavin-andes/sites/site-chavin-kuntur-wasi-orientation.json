@@ -1,0 +1,32 @@
+{
+  "id": "site-chavin-kuntur-wasi-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "孔图尔瓦西（指针）",
+    "en": "Kuntur Wasi (orientation)",
+    "native": "Kuntur Wasi"
+  },
+  "kind_note": "Formative ceremonial centre in Cajamarca often compared with Chavín",
+  "region": "Cajamarca, Peru",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "比较形成期中心指针；不宣称查文都城。",
+    "en": "Comparative Formative centre orientation; not claimed as Chavín capital."
+  },
+  "sources": [
+    "src-chavin-burger-origins-1992",
+    "src-chavin-nesbitt-burger-2023"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

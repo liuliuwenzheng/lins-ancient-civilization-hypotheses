@@ -20,7 +20,11 @@
     "src-aksum-phillipson-2012",
     "src-aksum-munro-hay-1991"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 14.132,
+    "lon": 38.72,
+    "precision_note": "UNESCO WHC list 15 published approximate centre; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave2_shells/generate_wave2.py",
@@ -28,6 +32,6 @@
       "docs/decisions.md#d-2026-10-12-14"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-16."
   }
 }

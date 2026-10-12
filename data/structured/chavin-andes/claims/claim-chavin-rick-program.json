@@ -1,0 +1,31 @@
+{
+  "id": "claim-chavin-rick-program",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "斯坦福 Rick 长期项目以廊道、广场与建筑声学等取径持续发掘查文德万塔尔（项目门户/论著传统）。",
+    "en": "Stanford Rick long-term project continues excavation at Chavín de Huántar via galleries, plazas, and architectural-acoustics approaches (project portal / publication tradition)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-circular-plaza"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-rick-stanford-orientation",
+    "src-chavin-pozo-excavation-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

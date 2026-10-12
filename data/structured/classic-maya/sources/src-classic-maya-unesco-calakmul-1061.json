@@ -1,0 +1,19 @@
+{
+  "id": "src-classic-maya-unesco-calakmul-1061",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Ancient Maya City of Calakmul, Campeche. Inscribed 2002. https://whc.unesco.org/en/list/1061/",
+  "url": "https://whc.unesco.org/en/list/1061/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC Calakmul.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

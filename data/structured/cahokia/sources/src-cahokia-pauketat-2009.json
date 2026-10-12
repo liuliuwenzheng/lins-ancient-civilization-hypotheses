@@ -1,0 +1,19 @@
+{
+  "id": "src-cahokia-pauketat-2009",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Pauketat, Timothy R. 2009. Cahokia: Ancient America's Great City on the Mississippi. New York: Viking / Penguin.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Accessible synthesis of Cahokia urbanism; print; shell uses TOC-level scope.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

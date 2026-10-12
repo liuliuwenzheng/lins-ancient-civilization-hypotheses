@@ -1,0 +1,32 @@
+{
+  "id": "site-motya-sicily",
+  "entity": "site",
+  "names": {
+    "zh": "莫蒂亚",
+    "en": "Motya (Mozia)",
+    "native": null
+  },
+  "kind_note": "Phoenician–Punic island colony",
+  "region": "Marsala lagoon, Sicily",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "西西里西部殖民节点。",
+    "en": "Western colonial node in Sicily."
+  },
+  "sources": [
+    "src-phoenician-motya-orientation",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -2,7 +2,7 @@
   "id": "civ-aksum",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "阿克苏姆",
     "en": "Aksum (Axum)",
@@ -11,27 +11,57 @@
   "region": "Northeast Africa / northern Ethiopian highlands (Tigray) and Red Sea trade sphere",
   "time_span": "Aksumite kingdom floruit broadly 1st–8th c. CE (UNESCO / Phillipson frames)",
   "summary": {
-    "zh": "阿克苏姆档案壳：Phillipson 综合 + 教科文石碑群；library-seed。",
-    "en": "Aksum archive shell: Phillipson synthesis + UNESCO stelae field; library-seed."
+    "zh": "阿克苏姆档案（library-seed-rich）：Phillipson/Munro-Hay + 石碑原野与红海口岸；仍非埃及级密度。",
+    "en": "Aksum archive (library-seed-rich): Phillipson/Munro-Hay + stelae field and Red Sea ports; not yet Egypt-level density."
   },
   "sources": [
-    "src-aksum-unesco-15",
-    "src-aksum-phillipson-2012",
-    "src-aksum-munro-hay-1991",
+    "src-aksum-british-institute-orientation",
+    "src-aksum-burstein-orientation",
+    "src-aksum-coinage-orientation",
     "src-aksum-fattovich-bard-orientation",
-    "src-aksum-met-heilbrunn-orientation"
+    "src-aksum-finneran-2007",
+    "src-aksum-heldman-orientation",
+    "src-aksum-kobishchanov-orientation",
+    "src-aksum-littmann-deutsche",
+    "src-aksum-manzo-orientation",
+    "src-aksum-met-heilbrunn-orientation",
+    "src-aksum-munro-hay-1991",
+    "src-aksum-phillipson-2012",
+    "src-aksum-unesco-15",
+    "src-aksum-unesco-docs",
+    "src-aksum-yeha-orientation"
   ],
   "site_ids": [
+    "site-adulis-orientation",
+    "site-adulis-port",
+    "site-aksum-cathedral-orientation",
     "site-aksum-stelae-field",
-    "site-adulis-orientation"
+    "site-beta-gaba-orientation",
+    "site-matara-orientation",
+    "site-yeha-pre-aksumite"
   ],
   "period_ids": [
-    "period-aksumite-floruit"
+    "period-aksumite-classic",
+    "period-aksumite-floruit",
+    "period-aksumite-late",
+    "period-pre-aksumite"
   ],
   "claim_ids": [
-    "claim-aksum-highland-kingdom"
+    "claim-aksum-adulis",
+    "claim-aksum-biea",
+    "claim-aksum-coinage",
+    "claim-aksum-highland-kingdom",
+    "claim-aksum-littmann",
+    "claim-aksum-met-heilbrunn",
+    "claim-aksum-munro-hay",
+    "claim-aksum-phillipson",
+    "claim-aksum-stelae-monumental",
+    "claim-aksum-unesco",
+    "claim-aksum-yeha"
   ],
   "object_ids": [
+    "asm-aksum-coinage-frame",
+    "asm-aksum-giant-stelae-frame",
     "asm-aksum-stelae-frame"
   ],
   "related_ids": [
@@ -41,11 +71,11 @@
   "markdown_path": "data/civilizations/civ-aksum.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

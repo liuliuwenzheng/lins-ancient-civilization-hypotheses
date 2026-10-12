@@ -1,0 +1,33 @@
+{
+  "id": "site-templo-mayor-tenochtitlan",
+  "entity": "site",
+  "names": {
+    "zh": "特诺奇蒂特兰大神庙",
+    "en": "Templo Mayor (Tenochtitlan)",
+    "native": "Huey Teocalli"
+  },
+  "kind_note": "Mexica twin-temple ceremonial centre",
+  "region": "Mexico City, Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "墨西卡双神庙仪礼中心；INAH 长期发掘。",
+    "en": "Mexica twin-temple ceremonial centre; long-term INAH excavations."
+  },
+  "sources": [
+    "src-aztec-matos-templo-mayor",
+    "src-aztec-inah-templo-mayor-web",
+    "src-aztec-smith-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

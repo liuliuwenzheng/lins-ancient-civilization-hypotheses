@@ -1,0 +1,52 @@
+{
+  "id": "civ-nuragic-sardinia",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "努拉吉（撒丁）",
+    "en": "Nuragic Sardinia",
+    "native": "Nuragic / Nuraghe"
+  },
+  "region": "Europe / Sardinia (Mediterranean island)",
+  "time_span": "Nuragic florescence broadly Mid–Late Bronze to Early Iron Age (Lilliu / Webster frames)",
+  "summary": {
+    "zh": "努拉吉档案壳：Lilliu/Webster + 巴鲁米尼苏努拉西教科文；library-seed。",
+    "en": "Nuragic archive shell: Lilliu/Webster + Su Nuraxi di Barumini UNESCO; library-seed."
+  },
+  "sources": [
+    "src-nuragic-unesco-833",
+    "src-nuragic-lilliu-1988",
+    "src-nuragic-webster-1996",
+    "src-nuragic-blake-1999",
+    "src-nuragic-trump-orientation"
+  ],
+  "site_ids": [
+    "site-su-nuraxi-barumini",
+    "site-nuragic-landscape-orientation"
+  ],
+  "period_ids": [
+    "period-nuragic-bronze-iron"
+  ],
+  "claim_ids": [
+    "claim-nuragic-su-nuraxi-type"
+  ],
+  "object_ids": [
+    "asm-nuragic-tower-village-frame"
+  ],
+  "related_ids": [
+    "civ-aegean",
+    "civ-phoenician",
+    "civ-hallstatt-celtic"
+  ],
+  "markdown_path": "data/civilizations/civ-nuragic-sardinia.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

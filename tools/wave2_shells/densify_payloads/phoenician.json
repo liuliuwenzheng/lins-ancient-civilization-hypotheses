@@ -1,0 +1,535 @@
+{
+  "civ_id": "civ-phoenician",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "腓尼基档案（library-seed-rich）：Aubet/Markoe + 黎凡特海岸与西地中海布匿节点；仍非埃及级密度。",
+    "en": "Phoenician archive (library-seed-rich): Aubet/Markoe + Levantine coast and western Punic nodes; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-phoenician-unesco-byblos-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Byblos — documents. https://whc.unesco.org/en/list/295/documents/",
+      "url": "https://whc.unesco.org/en/list/295/documents/",
+      "notes": "Byblos documents."
+    },
+    {
+      "id": "src-phoenician-unesco-tyre-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Tyre — documents. https://whc.unesco.org/en/list/299/documents/",
+      "url": "https://whc.unesco.org/en/list/299/documents/",
+      "notes": "Tyre documents."
+    },
+    {
+      "id": "src-phoenician-unesco-carthage-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Archaeological Site of Carthage — documents. https://whc.unesco.org/en/list/37/documents/",
+      "url": "https://whc.unesco.org/en/list/37/documents/",
+      "notes": "Carthage documents."
+    },
+    {
+      "id": "src-phoenician-elayi-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Elayi, Josette — Phoenician history and Tyre/Sidon studies.",
+      "url": null,
+      "notes": "Political history orientation."
+    },
+    {
+      "id": "src-phoenician-lipinski-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Lipiński, Edward — Itineraria Phoenicia and related onomastic studies.",
+      "url": null,
+      "notes": "Onomastic/itinerary orientation."
+    },
+    {
+      "id": "src-phoenician-bondi-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bondì, Sandro Filippo — Phoenician–Punic archaeology handbooks (Italian tradition).",
+      "url": null,
+      "notes": "Handbook orientation."
+    },
+    {
+      "id": "src-phoenician-nieto-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Mediterranean trade and Phoenician expansion articles (journal tradition).",
+      "url": null,
+      "notes": "Trade expansion orientation."
+    },
+    {
+      "id": "src-phoenician-sidon-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Sidon excavation traditions (British Museum / DGA Lebanon collaborations).",
+      "url": null,
+      "notes": "Sidon P-tradition pointer."
+    },
+    {
+      "id": "src-phoenician-motya-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Motya (Mozia) excavation traditions — western Phoenician colony.",
+      "url": null,
+      "notes": "Sicilian Punic/Phoenician colony orientation."
+    },
+    {
+      "id": "src-phoenician-gadir-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Gadir/Cádiz Phoenician colonial archaeology orientation.",
+      "url": null,
+      "notes": "Iberian colonial orientation."
+    }
+  ],
+  "fill_coords": {
+    "site-byblos-gubla": {
+      "lat": 34.123,
+      "lon": 35.647,
+      "precision_note": "UNESCO WHC list 295 published approximate centre; access 2026-10-12"
+    },
+    "site-tyre-sur": {
+      "lat": 33.27,
+      "lon": 35.196,
+      "precision_note": "UNESCO WHC list 299 published approximate centre; access 2026-10-12"
+    },
+    "site-carthage-punic": {
+      "lat": 36.853,
+      "lon": 10.323,
+      "precision_note": "UNESCO WHC list 37 published approximate centre; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-sidon-saida",
+      "names": {
+        "zh": "西顿",
+        "en": "Sidon",
+        "native": "Ṣaydā"
+      },
+      "kind_note": "Levantine Phoenician city",
+      "region": "Lebanon",
+      "coords": null,
+      "summary": {
+        "zh": "黎凡特腓尼基主要城市，持续发掘。",
+        "en": "Major Levantine Phoenician city with ongoing excavations."
+      },
+      "sources": [
+        "src-phoenician-sidon-orientation",
+        "src-phoenician-markoe-2000",
+        "src-phoenician-elayi-orientation"
+      ]
+    },
+    {
+      "id": "site-motya-sicily",
+      "names": {
+        "zh": "莫蒂亚",
+        "en": "Motya (Mozia)",
+        "native": null
+      },
+      "kind_note": "Phoenician–Punic island colony",
+      "region": "Marsala lagoon, Sicily",
+      "coords": null,
+      "summary": {
+        "zh": "西西里西部殖民节点。",
+        "en": "Western colonial node in Sicily."
+      },
+      "sources": [
+        "src-phoenician-motya-orientation",
+        "src-phoenician-aubet-west-2001"
+      ]
+    },
+    {
+      "id": "site-gadir-cadiz-orientation",
+      "names": {
+        "zh": "加的斯/加迪尔（指针）",
+        "en": "Gadir / Cádiz (orientation)",
+        "native": null
+      },
+      "kind_note": "Far-west Phoenician colony",
+      "region": "Cádiz, Spain",
+      "coords": null,
+      "summary": {
+        "zh": "伊比利亚大西洋殖民指针。",
+        "en": "Iberian Atlantic colonial orientation."
+      },
+      "sources": [
+        "src-phoenician-gadir-orientation",
+        "src-phoenician-aubet-west-2001"
+      ]
+    },
+    {
+      "id": "site-sarepta-orientation",
+      "names": {
+        "zh": "萨雷普塔（指针）",
+        "en": "Sarepta (orientation)",
+        "native": null
+      },
+      "kind_note": "Excavated coastal Phoenician town",
+      "region": "Lebanon",
+      "coords": null,
+      "summary": {
+        "zh": "出土较充分的海岸城镇指针。",
+        "en": "Well-excavated coastal town orientation."
+      },
+      "sources": [
+        "src-phoenician-markoe-2000",
+        "src-phoenician-aubet-west-2001"
+      ]
+    },
+    {
+      "id": "site-kition-orientation",
+      "names": {
+        "zh": "基提翁（指针）",
+        "en": "Kition (orientation)",
+        "native": null
+      },
+      "kind_note": "Phoenician presence on Cyprus",
+      "region": "Larnaca, Cyprus",
+      "coords": null,
+      "summary": {
+        "zh": "塞浦路斯腓尼基节点指针。",
+        "en": "Cypriot Phoenician node orientation."
+      },
+      "sources": [
+        "src-phoenician-markoe-2000",
+        "src-phoenician-lipinski-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-phoenician-iron-i-ii",
+      "names": {
+        "zh": "腓尼基铁器 I–II 窗",
+        "en": "Phoenician Iron I–II window"
+      },
+      "time": {
+        "label": "Levantine Iron Age city florescence",
+        "approx_from_bce": 1200,
+        "approx_to_bce": 600,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "黎凡特铁器窗。",
+        "en": "Iron Age Levantine window."
+      },
+      "sources": [
+        "src-phoenician-markoe-2000",
+        "src-phoenician-elayi-orientation"
+      ]
+    },
+    {
+      "id": "period-phoenician-western-expansion",
+      "names": {
+        "zh": "腓尼基西扩窗",
+        "en": "Phoenician western expansion window"
+      },
+      "time": {
+        "label": "central/western Mediterranean colonization",
+        "approx_from_bce": 900,
+        "approx_to_bce": 600,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "西扩。",
+        "en": "Western expansion."
+      },
+      "sources": [
+        "src-phoenician-aubet-west-2001",
+        "src-phoenician-nieto-orientation"
+      ]
+    },
+    {
+      "id": "period-punic-floruit",
+      "names": {
+        "zh": "布匿繁荣窗",
+        "en": "Punic floruit window"
+      },
+      "time": {
+        "label": "Carthaginian/Punic western Mediterranean",
+        "approx_from_bce": 600,
+        "approx_to_bce": 200,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "布匿繁荣。",
+        "en": "Punic floruit."
+      },
+      "sources": [
+        "src-phoenician-unesco-carthage-37",
+        "src-phoenician-aubet-west-2001",
+        "src-phoenician-bondi-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-phoenician-alphabet-frame",
+      "names": {
+        "zh": "腓尼基字母—铭文框架",
+        "en": "Phoenician alphabet / inscription frame"
+      },
+      "site_ids": [
+        "site-byblos-gubla",
+        "site-sidon-saida"
+      ],
+      "period_ids": [
+        "period-phoenician-iron-punic",
+        "period-phoenician-iron-i-ii"
+      ],
+      "sources": [
+        "src-phoenician-markoe-2000",
+        "src-phoenician-unesco-byblos-295"
+      ],
+      "summary": {
+        "zh": "字母与铭文传统指针。",
+        "en": "Alphabet and inscription tradition pointer; no forged texts."
+      }
+    },
+    {
+      "id": "asm-phoenician-harbour-trade-frame",
+      "names": {
+        "zh": "腓尼基港口—贸易框架",
+        "en": "Phoenician harbour–trade frame"
+      },
+      "site_ids": [
+        "site-tyre-sur",
+        "site-carthage-punic",
+        "site-gadir-cadiz-orientation"
+      ],
+      "period_ids": [
+        "period-phoenician-western-expansion",
+        "period-punic-floruit"
+      ],
+      "sources": [
+        "src-phoenician-aubet-west-2001",
+        "src-phoenician-markoe-2000"
+      ],
+      "summary": {
+        "zh": "港口与长程贸易指针。",
+        "en": "Harbour and long-distance trade pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-phoenician-byblos-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将比布鲁斯列入世界遗产（UNESCO 295）。",
+        "en": "UNESCO lists Byblos as World Heritage (UNESCO 295)."
+      },
+      "site_ids": [
+        "site-byblos-gubla"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-unesco-byblos-295"
+      ]
+    },
+    {
+      "id": "claim-phoenician-tyre-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将推罗列入世界遗产（UNESCO 299）。",
+        "en": "UNESCO lists Tyre as World Heritage (UNESCO 299)."
+      },
+      "site_ids": [
+        "site-tyre-sur"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-unesco-tyre-299"
+      ]
+    },
+    {
+      "id": "claim-phoenician-carthage-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将迦太基考古遗址列入世界遗产（UNESCO 37）。",
+        "en": "UNESCO lists the Archaeological Site of Carthage as World Heritage (UNESCO 37)."
+      },
+      "site_ids": [
+        "site-carthage-punic"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-unesco-carthage-37"
+      ]
+    },
+    {
+      "id": "claim-phoenician-aubet",
+      "kind": "fact",
+      "statement": {
+        "zh": "Aubet 2001 综合讨论腓尼基人在西部地中海的扩张。",
+        "en": "Aubet 2001 synthesizes Phoenician expansion in the western Mediterranean."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-phoenician-western-expansion"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-aubet-west-2001"
+      ]
+    },
+    {
+      "id": "claim-phoenician-markoe",
+      "kind": "fact",
+      "statement": {
+        "zh": "Markoe 2000 提供腓尼基人历史与文化的英文综述。",
+        "en": "Markoe 2000 provides an English synthesis of Phoenician history and culture."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-phoenician-iron-i-ii"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-markoe-2000"
+      ]
+    },
+    {
+      "id": "claim-phoenician-sidon",
+      "kind": "fact",
+      "statement": {
+        "zh": "西顿发掘传统为黎凡特腓尼基城市考古提供田野证据（DGA/BM 取向）。",
+        "en": "Sidon excavation traditions provide field evidence for Levantine Phoenician urban archaeology (DGA/BM orientation)."
+      },
+      "site_ids": [
+        "site-sidon-saida"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-sidon-orientation",
+        "src-phoenician-elayi-orientation"
+      ]
+    },
+    {
+      "id": "claim-phoenician-motya",
+      "kind": "fact",
+      "statement": {
+        "zh": "莫蒂亚是西西里腓尼基—布匿殖民节点的发掘案例（发掘传统）。",
+        "en": "Motya is an excavated Phoenician–Punic colonial node in Sicily (excavation tradition)."
+      },
+      "site_ids": [
+        "site-motya-sicily"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-motya-orientation",
+        "src-phoenician-aubet-west-2001"
+      ]
+    },
+    {
+      "id": "claim-phoenician-gadir",
+      "kind": "fact",
+      "statement": {
+        "zh": "加迪尔/加的斯在文献与考古中作为远西腓尼基殖民点讨论（Aubet；伊比利亚研究取向）。",
+        "en": "Gadir/Cádiz is discussed in texts and archaeology as a far-west Phoenician colonial node (Aubet; Iberian research orientation)."
+      },
+      "site_ids": [
+        "site-gadir-cadiz-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-gadir-orientation",
+        "src-phoenician-aubet-west-2001"
+      ]
+    },
+    {
+      "id": "claim-phoenician-alphabet",
+      "kind": "fact",
+      "statement": {
+        "zh": "比布鲁斯等海岸城市语境中的早期字母铭文传统，是腓尼基文化史的核心议题（Markoe；UNESCO Byblos）。",
+        "en": "Early alphabetic inscription traditions in coastal cities such as Byblos are a core theme of Phoenician cultural history (Markoe; UNESCO Byblos)."
+      },
+      "site_ids": [
+        "site-byblos-gubla"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-phoenician-alphabet-frame"
+      ],
+      "sources": [
+        "src-phoenician-markoe-2000",
+        "src-phoenician-unesco-byblos-295"
+      ]
+    },
+    {
+      "id": "claim-phoenician-punic-west",
+      "kind": "fact",
+      "statement": {
+        "zh": "迦太基等节点代表腓尼基西扩后的布匿地中海网络（UNESCO Carthage；Aubet）。",
+        "en": "Nodes such as Carthage represent the Punic Mediterranean network after Phoenician western expansion (UNESCO Carthage; Aubet)."
+      },
+      "site_ids": [
+        "site-carthage-punic"
+      ],
+      "period_ids": [
+        "period-punic-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-phoenician-unesco-carthage-37",
+        "src-phoenician-aubet-west-2001"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-phoenician-byblos",
+      "title": {
+        "zh": "教科文：比布鲁斯",
+        "en": "UNESCO: Byblos",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/295/",
+      "sources": [
+        "src-phoenician-unesco-byblos-295"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-phoenician-tyre",
+      "title": {
+        "zh": "教科文：推罗",
+        "en": "UNESCO: Tyre",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/299/",
+      "sources": [
+        "src-phoenician-unesco-tyre-299"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-phoenician-carthage",
+      "title": {
+        "zh": "教科文：迦太基",
+        "en": "UNESCO: Carthage",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/37/",
+      "sources": [
+        "src-phoenician-unesco-carthage-37"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

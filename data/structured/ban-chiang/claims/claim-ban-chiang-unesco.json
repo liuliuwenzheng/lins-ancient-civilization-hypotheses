@@ -1,0 +1,32 @@
+{
+  "id": "claim-ban-chiang-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将班清考古遗址列入世界遗产（UNESCO 575）。",
+    "en": "UNESCO lists the Ban Chiang Archaeological Site as World Heritage (UNESCO 575)."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-ban-chiang-udon"
+  ],
+  "period_ids": [
+    "period-ban-chiang-prehistoric"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-unesco-575"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

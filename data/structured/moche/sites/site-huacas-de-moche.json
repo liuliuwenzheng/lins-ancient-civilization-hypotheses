@@ -1,0 +1,33 @@
+{
+  "id": "site-huacas-de-moche",
+  "entity": "site",
+  "names": {
+    "zh": "莫切太阳与月亮金字塔",
+    "en": "Huacas de Moche (Sol y Luna)",
+    "native": "Huacas de Moche"
+  },
+  "kind_note": "Moche ceremonial–urban capital complex",
+  "region": "La Libertad, Peru",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "莫切仪礼—城市核心建筑群；长期发掘项目。",
+    "en": "Moche ceremonial–urban core complex; long-term excavation project."
+  },
+  "sources": [
+    "src-moche-castillo-uceda-orientation",
+    "src-moche-huacas-project-web",
+    "src-moche-quilter-2010"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

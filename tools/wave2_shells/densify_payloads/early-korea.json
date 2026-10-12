@@ -1,0 +1,506 @@
+{
+  "civ_id": "civ-early-korea",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "朝鲜半岛早期档案（library-seed-rich）：Barnes/Nelson/Byington + 无纹—早期国家遗址；仍非埃及级密度。",
+    "en": "Early Korea archive (library-seed-rich): Barnes/Nelson/Byington + Mumun–early state sites; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-early-korea-unesco-gyeongju",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Gyeongju Historic Areas. Inscribed 2000. https://whc.unesco.org/en/list/976/",
+      "url": "https://whc.unesco.org/en/list/976/",
+      "notes": "Silla capital landscape orientation."
+    },
+    {
+      "id": "src-early-korea-unesco-baekje-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Baekje Historic Areas. https://whc.unesco.org/en/list/1477/",
+      "url": "https://whc.unesco.org/en/list/1477/",
+      "notes": "Baekje historic areas."
+    },
+    {
+      "id": "src-early-korea-byington-goguryeo",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Byington, Mark E. — Early Korea Project volumes on state formation and neighbors.",
+      "url": null,
+      "notes": "Early Korea Project orientation."
+    },
+    {
+      "id": "src-early-korea-bestamo-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bale, Martin T. / Korean Mumun archaeology articles.",
+      "url": null,
+      "notes": "Mumun settlement orientation."
+    },
+    {
+      "id": "src-early-korea-rheee-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Rhee, Song-nai / Choi — Korean archaeology handbook chapters.",
+      "url": null,
+      "notes": "Handbook orientation."
+    },
+    {
+      "id": "src-early-korea-nelson-shamanism",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Nelson, Sarah Milledge — shamanism and Korean archaeology essays.",
+      "url": null,
+      "notes": "Interpretive orientation; keep fact claims cautious."
+    },
+    {
+      "id": "src-early-korea-chinese-records",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Early Chinese textual references to peninsula polities (secondary discussion tradition).",
+      "url": null,
+      "notes": "Textual orientation; not primary excavation."
+    },
+    {
+      "id": "src-early-korea-nricn-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "National Research Institute of Cultural Heritage (Korea) — excavation orientation portals.",
+      "url": null,
+      "notes": "Institutional orientation; URL may vary."
+    },
+    {
+      "id": "src-early-korea-dolmen-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO / Korean dolmen heritage orientation (Gochang–Hwasun–Ganghwa related).",
+      "url": null,
+      "notes": "Megalithic Mumun-related orientation."
+    },
+    {
+      "id": "src-early-korea-barnes-state",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Barnes, Gina L. — state formation in Korea and Japan comparative chapters.",
+      "url": null,
+      "notes": "Comparative state-formation orientation."
+    }
+  ],
+  "fill_coords": {},
+  "sites": [
+    {
+      "id": "site-gyeongju-silla",
+      "names": {
+        "zh": "庆州新罗历史区",
+        "en": "Gyeongju Silla historic areas",
+        "native": null
+      },
+      "kind_note": "Silla capital landscape; UNESCO WH",
+      "region": "North Gyeongsang, Korea",
+      "coords": null,
+      "summary": {
+        "zh": "新罗早期历史都城景观。",
+        "en": "Early historic Silla capital landscape."
+      },
+      "sources": [
+        "src-early-korea-unesco-gyeongju",
+        "src-early-korea-barnes-2001"
+      ]
+    },
+    {
+      "id": "site-gongju-baekje",
+      "names": {
+        "zh": "公州百济历史区",
+        "en": "Gongju Baekje historic areas",
+        "native": null
+      },
+      "kind_note": "Baekje capital-related; UNESCO WH",
+      "region": "South Chungcheong, Korea",
+      "coords": null,
+      "summary": {
+        "zh": "百济历史都城相关区域。",
+        "en": "Baekje historic capital-related areas."
+      },
+      "sources": [
+        "src-early-korea-unesco-gongju-baekje",
+        "src-early-korea-unesco-baekje-docs"
+      ]
+    },
+    {
+      "id": "site-buyeo-baekje-orientation",
+      "names": {
+        "zh": "扶余百济（指针）",
+        "en": "Buyeo Baekje (orientation)",
+        "native": null
+      },
+      "kind_note": "Later Baekje capital zone",
+      "region": "South Chungcheong, Korea",
+      "coords": null,
+      "summary": {
+        "zh": "后期百济都城指针。",
+        "en": "Later Baekje capital orientation."
+      },
+      "sources": [
+        "src-early-korea-unesco-baekje-docs",
+        "src-early-korea-byington-early-korea"
+      ]
+    },
+    {
+      "id": "site-mumun-songguk-ri-orientation",
+      "names": {
+        "zh": "松菊里等无纹聚落（指针）",
+        "en": "Songguk-ri and Mumun settlements (orientation)",
+        "native": null
+      },
+      "kind_note": "Mumun agricultural settlements",
+      "region": "southern peninsula",
+      "coords": null,
+      "summary": {
+        "zh": "无纹聚落传统指针。",
+        "en": "Mumun settlement tradition orientation."
+      },
+      "sources": [
+        "src-early-korea-mumun-jar-2024",
+        "src-early-korea-nelson-1993",
+        "src-early-korea-bestamo-orientation"
+      ]
+    },
+    {
+      "id": "site-gochang-dolmen-orientation",
+      "names": {
+        "zh": "高敞支石墓等（指针）",
+        "en": "Gochang dolmens (orientation)",
+        "native": null
+      },
+      "kind_note": "Megalithic cemeteries of Mumun horizon",
+      "region": "North Jeolla, Korea",
+      "coords": null,
+      "summary": {
+        "zh": "支石墓景观指针。",
+        "en": "Dolmen landscape orientation."
+      },
+      "sources": [
+        "src-early-korea-dolmen-orientation",
+        "src-early-korea-nelson-1993"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-mumun",
+      "names": {
+        "zh": "无纹陶器时代窗",
+        "en": "Mumun pottery period window"
+      },
+      "time": {
+        "label": "Mumun agricultural societies",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 300,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "无纹窗。",
+        "en": "Mumun window."
+      },
+      "sources": [
+        "src-early-korea-nelson-1993",
+        "src-early-korea-mumun-jar-2024"
+      ]
+    },
+    {
+      "id": "period-proto-three-kingdoms",
+      "names": {
+        "zh": "原三国/早期国家窗",
+        "en": "Proto–Three Kingdoms / early states"
+      },
+      "time": {
+        "label": "state formation on the peninsula",
+        "approx_from_bce": 300,
+        "approx_to_bce": null,
+        "scheme_note": "BCE/CE boundary coarse."
+      },
+      "summary": {
+        "zh": "早期国家窗。",
+        "en": "Early states window."
+      },
+      "sources": [
+        "src-early-korea-barnes-2001",
+        "src-early-korea-byington-early-korea"
+      ]
+    },
+    {
+      "id": "period-three-kingdoms-early",
+      "names": {
+        "zh": "三国时代早窗",
+        "en": "Early Three Kingdoms window"
+      },
+      "time": {
+        "label": "Goguryeo–Baekje–Silla early historic",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "三国早窗。",
+        "en": "Early Three Kingdoms."
+      },
+      "sources": [
+        "src-early-korea-unesco-gyeongju",
+        "src-early-korea-unesco-baekje-docs",
+        "src-early-korea-barnes-state"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-early-korea-dolmen-frame",
+      "names": {
+        "zh": "半岛支石墓框架",
+        "en": "Peninsula dolmen frame"
+      },
+      "site_ids": [
+        "site-gochang-dolmen-orientation",
+        "site-mumun-settlement-orientation"
+      ],
+      "period_ids": [
+        "period-mumun",
+        "period-early-korea-mumun-states"
+      ],
+      "sources": [
+        "src-early-korea-dolmen-orientation",
+        "src-early-korea-nelson-1993"
+      ],
+      "summary": {
+        "zh": "支石墓传统指针。",
+        "en": "Dolmen cemetery tradition pointer."
+      }
+    },
+    {
+      "id": "asm-early-korea-palace-tomb-frame",
+      "names": {
+        "zh": "早期王陵—宫城框架",
+        "en": "Early royal tomb / palace-city frame"
+      },
+      "site_ids": [
+        "site-gyeongju-silla",
+        "site-gongju-baekje"
+      ],
+      "period_ids": [
+        "period-three-kingdoms-early"
+      ],
+      "sources": [
+        "src-early-korea-unesco-gyeongju",
+        "src-early-korea-unesco-baekje-docs"
+      ],
+      "summary": {
+        "zh": "王陵与都城景观指针。",
+        "en": "Royal tomb and capital landscape pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-early-korea-barnes",
+      "kind": "fact",
+      "statement": {
+        "zh": "Barnes 2001 等综合讨论朝鲜半岛国家形成与东亚比较背景。",
+        "en": "Barnes 2001 and related syntheses discuss peninsula state formation in East Asian comparative context."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-proto-three-kingdoms"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-barnes-2001",
+        "src-early-korea-barnes-state"
+      ]
+    },
+    {
+      "id": "claim-early-korea-nelson",
+      "kind": "fact",
+      "statement": {
+        "zh": "Nelson 1993 提供朝鲜考古英文入门综述。",
+        "en": "Nelson 1993 provides an English introductory synthesis of Korean archaeology."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-mumun"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-nelson-1993"
+      ]
+    },
+    {
+      "id": "claim-early-korea-baekje-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将百济历史区域列入世界遗产（UNESCO 1477）。",
+        "en": "UNESCO lists Baekje Historic Areas as World Heritage (UNESCO 1477)."
+      },
+      "site_ids": [
+        "site-gongju-baekje"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-unesco-gongju-baekje",
+        "src-early-korea-unesco-baekje-docs"
+      ]
+    },
+    {
+      "id": "claim-early-korea-gyeongju-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将庆州历史区域列入世界遗产（UNESCO 976）。",
+        "en": "UNESCO lists Gyeongju Historic Areas as World Heritage (UNESCO 976)."
+      },
+      "site_ids": [
+        "site-gyeongju-silla"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-unesco-gyeongju"
+      ]
+    },
+    {
+      "id": "claim-early-korea-mumun-agriculture",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究传统将无纹时代与半岛农业村落、支石墓传统相联系（Nelson；Mumun 专论）。",
+        "en": "Research traditions link the Mumun period to agricultural villages and dolmen traditions on the peninsula (Nelson; Mumun studies)."
+      },
+      "site_ids": [
+        "site-mumun-songguk-ri-orientation"
+      ],
+      "period_ids": [
+        "period-mumun"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-nelson-1993",
+        "src-early-korea-mumun-jar-2024"
+      ]
+    },
+    {
+      "id": "claim-early-korea-byington",
+      "kind": "fact",
+      "statement": {
+        "zh": "Byington Early Korea Project 卷辑讨论早期国家与周边关系。",
+        "en": "Byington Early Korea Project volumes discuss early states and neighboring relations."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-proto-three-kingdoms"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-byington-early-korea",
+        "src-early-korea-byington-goguryeo"
+      ]
+    },
+    {
+      "id": "claim-early-korea-dolmens",
+      "kind": "fact",
+      "statement": {
+        "zh": "高敞等地支石墓景观被用作无纹—青铜时代纪念性墓葬传统的取向（遗产/考古取向）。",
+        "en": "Gochang and related dolmen landscapes orient Mumun–Bronze Age monumental burial traditions (heritage/archaeology orientation)."
+      },
+      "site_ids": [
+        "site-gochang-dolmen-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-early-korea-dolmen-frame"
+      ],
+      "sources": [
+        "src-early-korea-dolmen-orientation",
+        "src-early-korea-nelson-1993"
+      ]
+    },
+    {
+      "id": "claim-early-korea-three-kingdoms-capitals",
+      "kind": "fact",
+      "statement": {
+        "zh": "庆州与公州/扶余等历史区域代表三国时代都城考古景观（UNESCO；Barnes）。",
+        "en": "Gyeongju and Gongju/Buyeo historic areas represent Three Kingdoms capital archaeological landscapes (UNESCO; Barnes)."
+      },
+      "site_ids": [
+        "site-gyeongju-silla",
+        "site-gongju-baekje"
+      ],
+      "period_ids": [
+        "period-three-kingdoms-early"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-unesco-gyeongju",
+        "src-early-korea-unesco-baekje-docs",
+        "src-early-korea-barnes-2001"
+      ]
+    },
+    {
+      "id": "claim-early-korea-chinese-texts",
+      "kind": "fact",
+      "statement": {
+        "zh": "早期中文文献被二手研究用于半岛政体名称与外交语境（文本取向；非发掘）。",
+        "en": "Early Chinese texts are used in secondary research for peninsula polity names and diplomatic contexts (textual orientation; not excavation)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-proto-three-kingdoms"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-chinese-records"
+      ]
+    },
+    {
+      "id": "claim-early-korea-nricn",
+      "kind": "fact",
+      "statement": {
+        "zh": "韩国国立文化财研究院等机构门户提供发掘与保护取向（tier T）。",
+        "en": "Korea National Research Institute of Cultural Heritage portals provide excavation and conservation orientation (tier T)."
+      },
+      "site_ids": [],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-early-korea-nricn-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-early-korea-baekje",
+      "title": {
+        "zh": "教科文：百济历史区域",
+        "en": "UNESCO: Baekje Historic Areas",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/1477/",
+      "sources": [
+        "src-early-korea-unesco-baekje-docs"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-early-korea-gyeongju",
+      "title": {
+        "zh": "教科文：庆州历史区域",
+        "en": "UNESCO: Gyeongju Historic Areas",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/976/",
+      "sources": [
+        "src-early-korea-unesco-gyeongju"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

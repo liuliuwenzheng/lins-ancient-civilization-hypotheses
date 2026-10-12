@@ -1,0 +1,35 @@
+{
+  "id": "claim-cahokia-mississippian-centre",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将卡霍基亚土墩群表述为北美密西西比文化的大型仪礼—城市中心（UNESCO 198；Pauketat 2009）。",
+    "en": "UNESCO and scholarly syntheses frame Cahokia Mounds as a major Mississippian ceremonial–urban centre in North America (UNESCO 198; Pauketat 2009)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-monks-mound"
+  ],
+  "period_ids": [
+    "period-cahokia-mississippian-floruit"
+  ],
+  "object_ids": [
+    "asm-cahokia-mound-plaza-frame"
+  ],
+  "sources": [
+    "src-cahokia-unesco-198",
+    "src-cahokia-pauketat-2009"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

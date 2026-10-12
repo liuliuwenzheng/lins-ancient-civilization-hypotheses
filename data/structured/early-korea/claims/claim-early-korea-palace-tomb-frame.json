@@ -1,0 +1,37 @@
+{
+  "id": "claim-early-korea-palace-tomb-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "庆州与百济历史区域的王陵—宫城景观是三国早期考古的核心类别（UNESCO；Barnes）。",
+    "en": "Royal tomb and palace-city landscapes at Gyeongju and Baekje historic areas are core categories of early Three Kingdoms archaeology (UNESCO; Barnes)."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-gyeongju-silla",
+    "site-gongju-baekje"
+  ],
+  "period_ids": [
+    "period-three-kingdoms-early"
+  ],
+  "object_ids": [
+    "asm-early-korea-palace-tomb-frame"
+  ],
+  "sources": [
+    "src-early-korea-unesco-gyeongju",
+    "src-early-korea-unesco-baekje-docs",
+    "src-early-korea-barnes-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

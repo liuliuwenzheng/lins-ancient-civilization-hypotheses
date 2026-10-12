@@ -1,0 +1,32 @@
+{
+  "id": "site-tlatelolco-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "特拉特洛尔科（指针）",
+    "en": "Tlatelolco (orientation)",
+    "native": "Tlatelolco"
+  },
+  "kind_note": "Sister city / market centre of the Mexica capital zone",
+  "region": "Mexico City, Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "墨西卡都城区姊妹城/市场中心指针。",
+    "en": "Sister-city / market-centre orientation in the Mexica capital zone."
+  },
+  "sources": [
+    "src-aztec-smith-2012",
+    "src-aztec-unesco-mexico-city-412"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

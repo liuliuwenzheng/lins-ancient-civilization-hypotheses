@@ -1,0 +1,35 @@
+{
+  "id": "claim-great-zimbabwe-stone-capital",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将大津巴布韦表述为南部非洲铁器时代重要的干石墙都城与津巴布韦文化中心（UNESCO 364；Pikirayi 2001）。",
+    "en": "UNESCO and scholarly syntheses frame Great Zimbabwe as a major dry-stone capital and Zimbabwe Culture centre of the southern African Iron Age (UNESCO 364; Pikirayi 2001)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-great-zimbabwe-monument"
+  ],
+  "period_ids": [
+    "period-great-zimbabwe-floruit"
+  ],
+  "object_ids": [
+    "asm-zimbabwe-dry-stone-frame"
+  ],
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-pikirayi-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

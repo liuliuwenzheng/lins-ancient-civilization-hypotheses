@@ -1,0 +1,30 @@
+{
+  "id": "claim-ban-chiang-higham",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Higham 东南亚青铜研究为班清提供区域金属时代背景。",
+    "en": "Higham's Southeast Asian bronze research situates Ban Chiang in regional metal-age context."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ban-chiang-bronze"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-higham-sea-bronze"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-mumun-songguk-ri-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "松菊里等无纹聚落（指针）",
+    "en": "Songguk-ri and Mumun settlements (orientation)",
+    "native": null
+  },
+  "kind_note": "Mumun agricultural settlements",
+  "region": "southern peninsula",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "无纹聚落传统指针。",
+    "en": "Mumun settlement tradition orientation."
+  },
+  "sources": [
+    "src-early-korea-mumun-jar-2024",
+    "src-early-korea-nelson-1993",
+    "src-early-korea-bestamo-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

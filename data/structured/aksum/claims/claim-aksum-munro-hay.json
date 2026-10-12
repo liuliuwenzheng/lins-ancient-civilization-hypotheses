@@ -1,0 +1,30 @@
+{
+  "id": "claim-aksum-munro-hay",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Munro-Hay 1991 提供阿克苏姆王国英文综述，含贸易与铸币议题。",
+    "en": "Munro-Hay 1991 offers an English synthesis of the Aksumite kingdom including trade and coinage themes."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aksumite-classic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-munro-hay-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

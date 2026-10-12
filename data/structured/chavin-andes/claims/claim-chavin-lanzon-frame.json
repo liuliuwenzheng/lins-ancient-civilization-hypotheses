@@ -1,0 +1,35 @@
+{
+  "id": "claim-chavin-lanzon-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与综合著作将兰宗石像与廊道系统表述为查文仪礼建筑的标志性要素（UNESCO 330；Burger 1992）。",
+    "en": "UNESCO and syntheses frame the Lanzón and gallery system as hallmark elements of Chavín ceremonial architecture (UNESCO 330; Burger 1992)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [
+    "period-chavin-early-horizon"
+  ],
+  "object_ids": [
+    "asm-chavin-lanzon-gallery-frame"
+  ],
+  "sources": [
+    "src-chavin-unesco-330",
+    "src-chavin-burger-origins-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "asm-phoenician-harbour-trade-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "腓尼基港口—贸易框架",
+    "en": "Phoenician harbour–trade frame"
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-tyre-sur",
+    "site-carthage-punic",
+    "site-gadir-cadiz-orientation"
+  ],
+  "period_ids": [
+    "period-phoenician-western-expansion",
+    "period-punic-floruit"
+  ],
+  "summary": {
+    "zh": "港口与长程贸易指针。",
+    "en": "Harbour and long-distance trade pointer."
+  },
+  "sources": [
+    "src-phoenician-aubet-west-2001",
+    "src-phoenician-markoe-2000"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

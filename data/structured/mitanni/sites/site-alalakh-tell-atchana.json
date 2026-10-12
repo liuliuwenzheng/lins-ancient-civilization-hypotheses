@@ -1,0 +1,33 @@
+{
+  "id": "site-alalakh-tell-atchana",
+  "entity": "site",
+  "names": {
+    "zh": "阿拉拉赫（泰勒阿查纳）",
+    "en": "Alalakh (Tell Atchana)",
+    "native": "Alalakh"
+  },
+  "kind_note": "LBA city under Mitanni then Hittite orbit",
+  "region": "Hatay, Türkiye",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "米坦尼帝国社会争论的关键发掘城市。",
+    "en": "Key excavated city for Mitanni imperial society debates."
+  },
+  "sources": [
+    "src-mitanni-alalakh-orientation",
+    "src-mitanni-von-dassow-orientation",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

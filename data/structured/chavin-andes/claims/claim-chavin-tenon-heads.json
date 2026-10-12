@@ -1,0 +1,33 @@
+{
+  "id": "claim-chavin-tenon-heads",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "查文德万塔尔建筑石雕传统包括榫头头像等要素，见于教科文与综合描述（UNESCO 330；Burger 1992）。",
+    "en": "Chavín de Huántar architectural sculpture tradition includes tenon heads among other elements, as described by UNESCO and syntheses (UNESCO 330; Burger 1992)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-chavin-tenon-head-frame"
+  ],
+  "sources": [
+    "src-chavin-unesco-330",
+    "src-chavin-burger-origins-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

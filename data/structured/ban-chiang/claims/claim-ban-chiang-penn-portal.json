@@ -1,0 +1,28 @@
+{
+  "id": "claim-ban-chiang-penn-portal",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "宾大班清项目门户提供公众与研究取向链接（机构页）。",
+    "en": "Penn Ban Chiang project portal provides public and research orientation links (institutional page)."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-penn-museum-web"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

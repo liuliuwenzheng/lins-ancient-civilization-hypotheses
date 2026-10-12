@@ -1,0 +1,19 @@
+{
+  "id": "src-moche-huacas-project-web",
+  "entity": "source",
+  "type": "web",
+  "citation": "Proyecto Huacas del Sol y de la Luna / Universidad Nacional de Trujillo — institutional project orientation.",
+  "url": "https://www.huacasdemoche.pe/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Project portal orientation; tier T; deepen with peer-reviewed reports.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

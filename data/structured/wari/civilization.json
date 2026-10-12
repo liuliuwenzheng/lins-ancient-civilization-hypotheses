@@ -2,7 +2,7 @@
   "id": "civ-wari",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "瓦里（瓦里/华里）",
     "en": "Wari (Huari)",
@@ -11,28 +11,58 @@
   "region": "South America / central highland Peru (Ayacucho) with Middle Horizon provinces",
   "time_span": "Middle Horizon expansion ca. 600–1000 CE (Schreiber / Isbell frames)",
   "summary": {
-    "zh": "瓦里档案壳：Schreiber 帝国主义研究 + Isbell 都城讨论；library-seed。",
-    "en": "Wari archive shell: Schreiber imperialism study + Isbell capital discussion; library-seed."
+    "zh": "瓦里档案（library-seed-rich）：Schreiber/Isbell + 都城与行省遗址；仍非埃及级密度。",
+    "en": "Wari archive (library-seed-rich): Schreiber/Isbell + capital and provincial sites; not yet Egypt-level density."
   },
   "sources": [
-    "src-wari-schreiber-1992",
-    "src-wari-isbell-schreiber-1978",
-    "src-wari-mcewan-pikillacta",
+    "src-wari-andes-cleveland-catalogue",
+    "src-wari-bergh-cleveland-orientation",
+    "src-wari-brewster-wray-orientation",
+    "src-wari-conchopata-orientation",
+    "src-wari-glowacki-orientation",
     "src-wari-isbell-knobloch-orientation",
-    "src-wari-bergh-cleveland-orientation"
+    "src-wari-isbell-schreiber-1978",
+    "src-wari-jennings-orientation",
+    "src-wari-mcewan-pikillacta",
+    "src-wari-menzel-orientation",
+    "src-wari-schreiber-1992",
+    "src-wari-schreiber-wari-empire",
+    "src-wari-topic-isbell",
+    "src-wari-tung-bioarch",
+    "src-wari-williams-cerro-baul"
   ],
   "site_ids": [
+    "site-cerro-baul-wari",
+    "site-conchopata",
     "site-huari-ayacucho",
-    "site-pikillacta"
+    "site-jincamocco-orientation",
+    "site-pikillacta",
+    "site-viracochapampa-orientation",
+    "site-wari-azangaro-orientation"
   ],
   "period_ids": [
+    "period-wari-early-mh",
+    "period-wari-floruit",
+    "period-wari-late-mh",
     "period-wari-middle-horizon"
   ],
   "claim_ids": [
-    "claim-wari-middle-horizon-expansion"
+    "claim-wari-capital-ayacucho",
+    "claim-wari-cerro-baul",
+    "claim-wari-cleveland-exhibit",
+    "claim-wari-conchopata",
+    "claim-wari-do-volume",
+    "claim-wari-jennings-debate",
+    "claim-wari-menzel-seriation",
+    "claim-wari-middle-horizon-expansion",
+    "claim-wari-pikillacta",
+    "claim-wari-rectangular-plan",
+    "claim-wari-schreiber-empire"
   ],
   "object_ids": [
-    "asm-wari-provincial-architecture-frame"
+    "asm-wari-offering-ceramic-frame",
+    "asm-wari-provincial-architecture-frame",
+    "asm-wari-rectangular-enclosure-frame"
   ],
   "related_ids": [
     "civ-andes",
@@ -42,11 +72,11 @@
   "markdown_path": "data/civilizations/civ-wari.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

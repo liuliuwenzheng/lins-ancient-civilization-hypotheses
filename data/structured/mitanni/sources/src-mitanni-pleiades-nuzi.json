@@ -1,0 +1,19 @@
+{
+  "id": "src-mitanni-pleiades-nuzi",
+  "entity": "source",
+  "type": "atlas",
+  "citation": "Pleiades. Nuzi / Yorghan Tepe place record.",
+  "url": "https://pleiades.stoa.org/places/874724",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Gazetteer orientation for Nuzi.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

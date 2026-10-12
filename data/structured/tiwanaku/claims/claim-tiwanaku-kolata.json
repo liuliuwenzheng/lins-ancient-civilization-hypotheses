@@ -1,0 +1,30 @@
+{
+  "id": "claim-tiwanaku-kolata",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kolata 1993 综合为英语学界提供蒂瓦纳科文明肖像式综述。",
+    "en": "Kolata 1993 provides a portrait-style English synthesis of Tiwanaku civilization."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-capital"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-kolata-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -19,7 +19,11 @@
     "src-ban-chiang-unesco-575",
     "src-ban-chiang-white-penn-orientation"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.407,
+    "lon": 103.238,
+    "precision_note": "UNESCO WHC list 575 published approximate centre; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave2_shells/generate_wave2.py",
@@ -27,6 +31,6 @@
       "docs/decisions.md#d-2026-10-12-14"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-16."
   }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "site-su-nuraxi-barumini",
+  "entity": "site",
+  "names": {
+    "zh": "巴鲁米尼苏努拉西",
+    "en": "Su Nuraxi di Barumini",
+    "native": "Su Nuraxi"
+  },
+  "kind_note": "Nuraghe complex type site; UNESCO WH",
+  "region": "Medio Campidano, Sardinia, Italy",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "努拉吉石塔聚落类型址；教科文名录。",
+    "en": "Nuraghe stone-tower settlement type site; UNESCO listed."
+  },
+  "sources": [
+    "src-nuragic-unesco-833",
+    "src-nuragic-lilliu-1988",
+    "src-nuragic-webster-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

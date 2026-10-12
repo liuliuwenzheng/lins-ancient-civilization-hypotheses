@@ -1,0 +1,34 @@
+{
+  "id": "period-nuragic-bronze-iron",
+  "entity": "period",
+  "names": {
+    "zh": "努拉吉青铜—早期铁器窗",
+    "en": "Nuragic Bronze–Early Iron window"
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "time": {
+    "label": "Mid–Late Bronze to Early Iron Age (Webster / Lilliu working labels)",
+    "approx_from_bce": 1700,
+    "approx_to_bce": 700,
+    "scheme_note": "Absolute subdivision deferred; shell window only."
+  },
+  "summary": {
+    "zh": "壳级努拉吉窗。",
+    "en": "Shell Nuragic window."
+  },
+  "sources": [
+    "src-nuragic-webster-1996",
+    "src-nuragic-lilliu-1988"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

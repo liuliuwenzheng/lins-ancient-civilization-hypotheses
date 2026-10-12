@@ -2,7 +2,7 @@
 
 [中文](coverage-map.zh.md) | English
 
-**Decision:** [D-2026-10-12-12](decisions.md#d-2026-10-12-12--global-coverage-map--wave-1-shells) (Wave-1 opened) · [D-2026-10-12-13](decisions.md#d-2026-10-12-13--wave-1-densify-to-library-seed-rich) (Wave-1 densified) · [D-2026-10-12-14](decisions.md#d-2026-10-12-14--wave-2-shells) (Wave-2 opened)  
+**Decision:** [D-2026-10-12-12](decisions.md#d-2026-10-12-12--global-coverage-map--wave-1-shells) (Wave-1 opened) · [D-2026-10-12-13](decisions.md#d-2026-10-12-13--wave-1-densify-to-library-seed-rich) (Wave-1 densified) · [D-2026-10-12-14](decisions.md#d-2026-10-12-14--wave-2-shells) (Wave-2 opened) · [D-2026-10-12-15](decisions.md#d-2026-10-12-15--wave-3-shells) (Wave-3 opened) · [D-2026-10-12-16](decisions.md#d-2026-10-12-16--wave-2-densify-to-library-seed-rich) (Wave-2 densified)  
 **Deliberation:** [`deliberations/delib-2026-10-12-global-coverage.md`](../deliberations/delib-2026-10-12-global-coverage.md)
 
 ## Scope
@@ -20,26 +20,26 @@ This project catalogs **complex societies / early civilizations with archaeologi
 | Label | Meaning |
 |-------|---------|
 | **Dense** | `fact-library` structured pack with substantial Sources/Sites/Claims |
-| **Shell** | `library-seed` Wave-1/Wave-2 pack — real Sources, minimal Sites/Claims, sections may be empty |
-| **Expanding** | `library-seed-rich` — densified Wave-1 pack (usable archive density; not yet `fact-library`) |
-| **Missing** | Not opened yet; listed for Wave-2/3 planning |
+| **Shell** | `library-seed` Wave-3 (and earlier undensified) pack — real Sources, minimal Sites/Claims, sections may be empty |
+| **Expanding** | `library-seed-rich` — densified Wave-1/Wave-2 pack (usable archive density; not yet `fact-library`) |
+| **Missing** | Not opened yet; listed for later waves |
 
 ## Matrix by world region
 
 | Region | HAVE (dense) | HAVE (expanding) | MISSING (priority) | Wave |
 |--------|--------------|------------------|--------------------|------|
 | **Mesopotamia / SW Iran** | Mesopotamia | Elam (`library-seed-rich`) | Later Iranian empires (Achaemenid+) as separate packs | 1 densified; 2 later |
-| **Nile / NE Africa** | Egypt | Nubia–Kush (`library-seed-rich`); Aksum (`library-seed`) | Later Christian Nubia split if needed | 1 densified; 2 opened |
-| **Anatolia / Levant / E Med** | Aegean | Hittite; Ugarit (`library-seed-rich`); Mitanni; Phoenician (`library-seed`) | Cyprus Late Bronze; Carthage densify | 1 densified; 2 opened |
+| **Nile / NE Africa** | Egypt | Nubia–Kush; Aksum (`library-seed-rich`) | Later Christian Nubia split if needed | 1–2 densified |
+| **Anatolia / Levant / E Med** | Aegean | Hittite; Ugarit; Mitanni; Phoenician (`library-seed-rich`) | Cyprus Late Bronze further densify | 1–2 densified |
 | **Central / South Asia** | Indus | BMAC/Oxus (`library-seed-rich`) | Vedic/early Historic Ganga; Gandhara; Sri Lanka early | 1 densified; 2–3 |
-| **East Asia** | China Bronze; Sanxingdui | Jōmon/Yayoi (`library-seed-rich`); Early Korea (`library-seed`) | Later Zhou–Han overview split | 1 densified; 2 opened |
-| **Southeast Asia** | — | Đông Sơn (`library-seed-rich`); Ban Chiang (`library-seed`) | Angkor/Funan later | 1 densified; 2 opened |
-| **West / Sahel Africa** | — | Nok (`library-seed-rich`) | Ghana/Mali empires (medieval); Great Zimbabwe; Ife/Benin | 1 densified; 2–3 |
-| **Mesoamerica** | Olmec; Early Maya | Teotihuacan; Zapotec (`library-seed-rich`); Classic Maya (`library-seed`) | Aztec/Mexica; Mixtec | 1 densified; 2 opened |
-| **Andes / South America** | Andes (Caral–Norte Chico) | Chavín; Tiwanaku; Wari (`library-seed`) | Moche; Inca | 2 opened; 3 later |
-| **Oceania / Pacific** | — | Lapita (`library-seed-rich`) | Polynesian chiefdoms; Rapa Nui (careful, thin archive ethics) | 1 densified; 3 |
-| **Europe (beyond Aegean)** | — | — | Iberia Copper/Bronze; Hallstatt/La Tène; Nuragic | 3 |
-| **North America** | — | — | Mississippian / Cahokia; Ancestral Puebloan (complex society bar) | 3 |
+| **East Asia** | China Bronze; Sanxingdui | Jōmon/Yayoi; Early Korea (`library-seed-rich`) | Later Zhou–Han overview split | 1–2 densified |
+| **Southeast Asia** | — | Đông Sơn; Ban Chiang (`library-seed-rich`); Angkor (`library-seed`) | Funan split if needed | 1–2 densified; 3 opened |
+| **West / Sahel Africa** | — | Nok (`library-seed-rich`); West Africa medieval (`library-seed`); Great Zimbabwe (`library-seed`) | Ife/Benin later | 1 densified; 3 opened |
+| **Mesoamerica** | Olmec; Early Maya | Teotihuacan; Zapotec; Classic Maya (`library-seed-rich`); Aztec (`library-seed`) | Mixtec later | 1–2 densified; 3 opened |
+| **Andes / South America** | Andes (Caral–Norte Chico) | Chavín; Tiwanaku; Wari (`library-seed-rich`); Moche; Inca (`library-seed`) | — | 2 densified; 3 opened |
+| **Oceania / Pacific** | — | Lapita (`library-seed-rich`); Rapa Nui (`library-seed`) | Broader Polynesian chiefdoms | 1 densified; 3 opened |
+| **Europe (beyond Aegean)** | — | Hallstatt; Nuragic (`library-seed`) | Iberia Copper/Bronze; fuller La Tène | 3 opened |
+| **North America** | — | Cahokia; Ancestral Puebloan (`library-seed`) | Broader Mississippian peers | 3 opened |
 
 ## Wave-1 packs (opened D-2026-10-12-12; densified D-2026-10-12-13)
 
@@ -63,32 +63,48 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 `mesopotamia`, `egypt`, `andes`, `indus`, `china-bronze`, `sanxingdui`, `aegean`, `olmec`, `early-maya` — continue thickening; **do not thin** to “match” shells.
 
-## Wave-2 packs (opened D-2026-10-12-14)
+## Wave-2 packs (opened D-2026-10-12-14; densified D-2026-10-12-16)
 
-Status: **`library-seed`**. Typical shell density: **5 Sources**, **2–3 Sites**, **1 Period**, **1 Object**, **1 sourced Claim**, **0 media**. Coords null unless a registered source publishes them. **No invented finds, page numbers, or media art.** Generator: `tools/wave2_shells/generate_wave2.py`.
+Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15 Sources**, **7–8 Sites**, **4 Periods**, **~11 Claims**, **1–3 outbound media**. Coords only from UNESCO WHC published DMS (or left null). **No invented finds, page numbers, or media art.** Tooling: `tools/wave2_shells/densify_wave2.py`.
 
 | Pack id | Civilization id | Status | Region gap closed |
 |---------|-----------------|--------|-------------------|
-| `chavin-andes` | `civ-chavin` | library-seed | Early Horizon Andes (beside Caral pack) |
-| `tiwanaku` | `civ-tiwanaku` | library-seed | Titicaca highland Middle Horizon |
-| `wari` | `civ-wari` | library-seed | Ayacucho / Middle Horizon expansion |
-| `classic-maya` | `civ-classic-maya` | library-seed | Classic lowland Maya (beside early-maya) |
-| `aksum` | `civ-aksum` | library-seed | Ethiopian highland / Red Sea kingdom |
-| `ban-chiang` | `civ-ban-chiang` | library-seed | NE Thailand prehistoric (beside Đông Sơn) |
-| `early-korea` | `civ-early-korea` | library-seed | Mumun–early states peninsula |
-| `mitanni` | `civ-mitanni` | library-seed | LBA Hurrian / Upper Mesopotamia |
-| `phoenician` | `civ-phoenician` | library-seed | Levantine coast + western Punic nodes |
+| `chavin-andes` | `civ-chavin` | library-seed-rich | Early Horizon Andes (beside Caral pack) |
+| `tiwanaku` | `civ-tiwanaku` | library-seed-rich | Titicaca highland Middle Horizon |
+| `wari` | `civ-wari` | library-seed-rich | Ayacucho / Middle Horizon expansion |
+| `classic-maya` | `civ-classic-maya` | library-seed-rich | Classic lowland Maya (beside early-maya) |
+| `aksum` | `civ-aksum` | library-seed-rich | Ethiopian highland / Red Sea kingdom |
+| `ban-chiang` | `civ-ban-chiang` | library-seed-rich | NE Thailand prehistoric (beside Đông Sơn) |
+| `early-korea` | `civ-early-korea` | library-seed-rich | Mumun–early states peninsula |
+| `mitanni` | `civ-mitanni` | library-seed-rich | LBA Hurrian / Upper Mesopotamia |
+| `phoenician` | `civ-phoenician` | library-seed-rich | Levantine coast + western Punic nodes |
 
-## Wave-3 (later / still Missing)
+## Wave-3 packs (opened D-2026-10-12-15)
 
-Mississippian/Cahokia; Ancestral Puebloan; Great Zimbabwe; West African medieval empires (Ghana/Mali); Iberian Bronze; Hallstatt/La Tène; Nuragic; Rapa Nui (ethics-first); full Inca; Moche; Aztec/Mexica; Mixtec; Angkor/Funan; Cyprus Late Bronze; later Christian Nubia split if needed.
+Status: **`library-seed`**. Typical shell density: **5 Sources**, **2–3 Sites**, **1 Period**, **1 Object**, **1 sourced Claim**, **0 media**. Coords null unless a registered source publishes them. **No invented finds, page numbers, or media art.** Generator: `tools/wave3_shells/generate_wave3.py`.
+
+| Pack id | Civilization id | Status | Region gap closed |
+|---------|-----------------|--------|-------------------|
+| `cahokia` | `civ-cahokia` | library-seed | Mississippian / American Bottom |
+| `ancestral-pueblo` | `civ-ancestral-pueblo` | library-seed | Colorado Plateau / Chaco–Mesa Verde |
+| `great-zimbabwe` | `civ-great-zimbabwe` | library-seed | Southern African Iron Age capital |
+| `west-africa-medieval` | `civ-west-africa-medieval` | library-seed | Ghana–Mali–Songhai Sahelian empires |
+| `hallstatt-celtic` | `civ-hallstatt-celtic` | library-seed | Alpine Early Iron Age / Hallstatt |
+| `nuragic-sardinia` | `civ-nuragic-sardinia` | library-seed | Sardinian Nuragic towers |
+| `rapa-nui` | `civ-rapa-nui` | library-seed | Polynesian Rapa Nui (ethics-first) |
+| `inca` | `civ-inca` | library-seed | Tawantinsuyu Late Horizon |
+| `moche` | `civ-moche` | library-seed | North-coast Peru EIP |
+| `aztec` | `civ-aztec` | library-seed | Mexica / Triple Alliance |
+| `angkor` | `civ-angkor` | library-seed | Khmer Angkorian capital landscape |
+
+**Still Missing (later):** Iberian Copper/Bronze; fuller La Tène; Mixtec; Funan split; Cyprus LBA densify; Ife/Benin; broader Polynesian chiefdoms; later Christian Nubia split if needed.
 
 ## How users see packs now
 
-- **API:** `GET /api/v1/civilizations` auto-discovers every `data/structured/*/civilization.json` — Wave-2 packs appear with `status: library-seed`.
+- **API:** `GET /api/v1/civilizations` auto-discovers every `data/structured/*/civilization.json` — Wave-3 shells appear with `status: library-seed`; Wave-2 with `library-seed-rich`.
 - **UI:** `/ui` loads the same list; filter by name. Shells are intentionally thin.
-- **Gate:** `tools/export_check.py` — citation fail-closed for all packs (**29** after Wave-2).
+- **Gate:** `tools/export_check.py` — citation fail-closed for all packs (**40** after Wave-3 + Wave-2 densify).
 
 ## Product stance
 
-**29 packs callable: 9 dense + 11 Wave-1 rich + 9 Wave-2 shells.** Honesty of status beats vanity of count. Next: densify Wave-2 toward `library-seed-rich`, continue Wave-1/media/coord fill, then Wave-3 openings where archives allow.
+**40 packs callable: 9 dense + 11 Wave-1 rich + 9 Wave-2 rich + 11 Wave-3 shells.** Honesty of status beats vanity of count. Next: densify Wave-3 toward `library-seed-rich`, continue coord/media fill on earlier packs, open remaining Missing where archives allow.

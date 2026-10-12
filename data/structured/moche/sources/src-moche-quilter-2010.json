@@ -1,0 +1,19 @@
+{
+  "id": "src-moche-quilter-2010",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Quilter, Jeffrey. 2010. The Moche of Ancient Peru: Media and Messages. Cambridge, MA: Peabody Museum Press / Harvard University.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Accessible Moche synthesis; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

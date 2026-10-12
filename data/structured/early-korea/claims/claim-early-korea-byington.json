@@ -1,0 +1,31 @@
+{
+  "id": "claim-early-korea-byington",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Byington Early Korea Project 卷辑讨论早期国家与周边关系。",
+    "en": "Byington Early Korea Project volumes discuss early states and neighboring relations."
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-proto-three-kingdoms"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-byington-early-korea",
+    "src-early-korea-byington-goguryeo"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

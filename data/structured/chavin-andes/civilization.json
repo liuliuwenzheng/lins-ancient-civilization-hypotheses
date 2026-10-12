@@ -2,7 +2,7 @@
   "id": "civ-chavin",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "查文（早地平线安第斯）",
     "en": "Chavín (Early Horizon Andes)",
@@ -11,28 +11,58 @@
   "region": "South America / north-central Peruvian Andes (Ancash; Mosna–Huachecsa)",
   "time_span": "Early Horizon ceremonial florescence ca. 1000–400 BCE (Burger / UNESCO site frame)",
   "summary": {
-    "zh": "查文档案壳（library-seed）：Burger 综合 + 查文德万塔尔教科文；与北奇科安第斯包并立。",
-    "en": "Chavín archive shell (library-seed): Burger synthesis + Chavín de Huántar UNESCO; alongside Caral–Norte Chico Andes pack."
+    "zh": "查文档案（library-seed-rich）：Burger/Rick + 查文德万塔尔与互动圈遗址分层；仍非埃及级密度。",
+    "en": "Chavín archive (library-seed-rich): Burger/Rick + Chavín de Huántar and interaction-sphere sites; not yet Egypt-level density."
   },
   "sources": [
-    "src-chavin-unesco-330",
     "src-chavin-burger-origins-1992",
+    "src-chavin-burger-salazar-orientation",
     "src-chavin-burger-ucp-1984",
+    "src-chavin-contreras-2010",
+    "src-chavin-ikehara-orientation",
+    "src-chavin-kembel-rick-orientation",
+    "src-chavin-lathrap-1971",
+    "src-chavin-mesia-monteverde-orientation",
+    "src-chavin-miller-burger-orientation",
     "src-chavin-nesbitt-burger-2023",
-    "src-chavin-rick-stanford-orientation"
+    "src-chavin-pozo-excavation-orientation",
+    "src-chavin-rick-stanford-orientation",
+    "src-chavin-unesco-330",
+    "src-chavin-unesco-media-landing",
+    "src-chavin-weismantel-orientation"
   ],
   "site_ids": [
+    "site-chavin-circular-plaza",
     "site-chavin-huantar-type",
-    "site-chavin-interaction-orientation"
+    "site-chavin-interaction-orientation",
+    "site-chavin-kuntur-wasi-orientation",
+    "site-chavin-old-temple-orientation",
+    "site-chavin-pacopampa-orientation",
+    "site-chavin-pochoc-orientation"
   ],
   "period_ids": [
-    "period-chavin-early-horizon"
+    "period-chavin-early-horizon",
+    "period-chavin-epigonal",
+    "period-chavin-janabarriu",
+    "period-chavin-late-initial"
   ],
   "claim_ids": [
-    "claim-chavin-ceremonial-centre-frame"
+    "claim-chavin-burger-synthesis",
+    "claim-chavin-ceremonial-centre-frame",
+    "claim-chavin-comparative-formative",
+    "claim-chavin-excavation-monograph",
+    "claim-chavin-janabarriu-label",
+    "claim-chavin-kembel-architecture",
+    "claim-chavin-lanzon-frame",
+    "claim-chavin-nesbitt-reconsider",
+    "claim-chavin-rick-program",
+    "claim-chavin-tenon-heads",
+    "claim-chavin-unesco-listed"
   ],
   "object_ids": [
-    "asm-chavin-lithic-sculpture-frame"
+    "asm-chavin-lanzon-gallery-frame",
+    "asm-chavin-lithic-sculpture-frame",
+    "asm-chavin-tenon-head-frame"
   ],
   "related_ids": [
     "civ-andes",
@@ -42,11 +72,11 @@
   "markdown_path": "data/civilizations/civ-chavin.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/generate_wave2.py",
+      "tools/wave2_shells/densify_wave2.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-14"
+      "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

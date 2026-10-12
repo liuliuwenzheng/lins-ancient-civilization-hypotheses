@@ -1,0 +1,44 @@
+{
+  "id": "asm-waf-sahel-urban-manuscript-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "萨赫勒城市—手稿传统框架组合",
+    "en": "Sahel urban–manuscript tradition frame"
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-timbuktu-medieval",
+    "site-djenne-old-towns"
+  ],
+  "period_ids": [
+    "period-west-africa-sahelian-empires"
+  ],
+  "summary": {
+    "zh": "壳级城市与手稿传统指针；无伪造馆藏号。",
+    "en": "Shell urban and manuscript-tradition pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-waf-unesco-timbuktu-119",
+    "src-waf-unesco-djenne-116"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

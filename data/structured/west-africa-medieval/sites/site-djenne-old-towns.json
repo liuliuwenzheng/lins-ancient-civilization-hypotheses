@@ -1,0 +1,32 @@
+{
+  "id": "site-djenne-old-towns",
+  "entity": "site",
+  "names": {
+    "zh": "杰内老城",
+    "en": "Old Towns of Djenné",
+    "native": "Djenné"
+  },
+  "kind_note": "Middle Niger urban mudbrick tradition; UNESCO WH",
+  "region": "Mopti Region, Mali",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "中尼日尔泥砖城市传统；教科文名录。",
+    "en": "Middle Niger mudbrick urban tradition; UNESCO listed."
+  },
+  "sources": [
+    "src-waf-unesco-djenne-116",
+    "src-waf-mcintosh-2005"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/generate_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-15"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-mitanni-nuzi-tablets-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "努济泥板档案框架",
+    "en": "Nuzi tablet archive frame"
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-nuzi-yorghan-tepe",
+    "site-nuzi-archives-sector"
+  ],
+  "period_ids": [
+    "period-mitanni-lba"
+  ],
+  "summary": {
+    "zh": "法律/经济泥板档案指针。",
+    "en": "Legal/economic tablet archive pointer."
+  },
+  "sources": [
+    "src-mitanni-nuzi-orientation",
+    "src-mitanni-stein-glyptic"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

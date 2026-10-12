@@ -1,0 +1,511 @@
+{
+  "civ_id": "civ-tiwanaku",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "蒂瓦纳科档案（library-seed-rich）：Kolata/Janusek + 首都与腹地遗址分层；仍非埃及级密度。",
+    "en": "Tiwanaku archive (library-seed-rich): Kolata/Janusek + capital and hinterland sites; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-tiwanaku-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Tiwanaku — documents landing. https://whc.unesco.org/en/list/567/documents/",
+      "url": "https://whc.unesco.org/en/list/567/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-tiwanaku-browman-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Browman, David L. — Tiwanaku expansion and altiplano exchange studies.",
+      "url": null,
+      "notes": "Expansion/exchange orientation."
+    },
+    {
+      "id": "src-tiwanaku-goldstein-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Goldstein, Paul S. — Tiwanaku colonies and Moquegua valley studies.",
+      "url": null,
+      "notes": "Colonial/diaspora orientation in Moquegua."
+    },
+    {
+      "id": "src-tiwanaku-vranich-architecture",
+      "type": "article",
+      "tier": "S",
+      "citation": "Vranich, Alexei — Tiwanaku ceremonial core architectural analyses.",
+      "url": null,
+      "notes": "Architecture orientation."
+    },
+    {
+      "id": "src-tiwanaku-stanish-2003",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Stanish, Charles. 2003. Ancient Titicaca: The Evolution of Complex Society in Southern Peru and Northern Bolivia. Berkeley: University of California Press.",
+      "url": null,
+      "notes": "Titicaca basin complex-society synthesis."
+    },
+    {
+      "id": "src-tiwanaku-albarracin-jordan-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Albarracin-Jordan, Juan — Tiwanaku settlement archaeology in the Katari basin.",
+      "url": null,
+      "notes": "Settlement archaeology orientation."
+    },
+    {
+      "id": "src-tiwanaku-couture-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Couture, Nicole C. — elite residential and putuni sector studies at Tiwanaku.",
+      "url": null,
+      "notes": "Elite residential orientation."
+    },
+    {
+      "id": "src-tiwanaku-isbell-wari-compare",
+      "type": "article",
+      "tier": "S",
+      "citation": "Isbell, William H. — comparative Middle Horizon discussions of Tiwanaku and Wari.",
+      "url": null,
+      "notes": "Comparative Middle Horizon orientation."
+    },
+    {
+      "id": "src-tiwanaku-bandelier-early",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bandelier, Adolph F. — early descriptive work on Tiahuanaco (historical research tradition).",
+      "url": null,
+      "notes": "Early research-history pointer; not modern excavation standard."
+    },
+    {
+      "id": "src-tiwanaku-bennett-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Bennett, Wendell C. — early scientific excavations at Tiwanaku (American Museum tradition).",
+      "url": null,
+      "notes": "Early P-tradition pointer."
+    }
+  ],
+  "fill_coords": {
+    "site-tiwanaku-capital": {
+      "lat": -16.554722,
+      "lon": -68.673333,
+      "precision_note": "UNESCO WHC list 567 published DMS→decimal; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-tiwanaku-akupana",
+      "names": {
+        "zh": "阿卡帕纳",
+        "en": "Akapana",
+        "native": null
+      },
+      "kind_note": "Stepped platform mound in ceremonial core",
+      "region": "Tiwanaku, Bolivia",
+      "coords": null,
+      "summary": {
+        "zh": "仪礼核心大型台地丘。",
+        "en": "Major platform mound of the ceremonial core."
+      },
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-kolata-1993",
+        "src-tiwanaku-vranich-architecture"
+      ]
+    },
+    {
+      "id": "site-tiwanaku-kalasasaya",
+      "names": {
+        "zh": "卡拉萨萨亚",
+        "en": "Kalasasaya",
+        "native": null
+      },
+      "kind_note": "Temple enclosure in ceremonial core",
+      "region": "Tiwanaku, Bolivia",
+      "coords": null,
+      "summary": {
+        "zh": "常与太阳门讨论并置的庙宇围场。",
+        "en": "Temple enclosure often paired with Gateway of the Sun discussions."
+      },
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-janusek-2008"
+      ]
+    },
+    {
+      "id": "site-tiwanaku-puma-punku",
+      "names": {
+        "zh": "普马蓬库",
+        "en": "Pumapunku",
+        "native": "Puma Punku"
+      },
+      "kind_note": "Monumental stone complex south of main core",
+      "region": "Tiwanaku, Bolivia",
+      "coords": null,
+      "summary": {
+        "zh": "巨石建筑群；壳回避工程玄学。",
+        "en": "Monumental ashlar complex; shell avoids speculative engineering myths."
+      },
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-kolata-1993",
+        "src-tiwanaku-vranich-architecture"
+      ]
+    },
+    {
+      "id": "site-tiwanaku-omo-orientation",
+      "names": {
+        "zh": "奥莫等地（莫克瓜指针）",
+        "en": "Omo and Moquegua colonies (orientation)",
+        "native": null
+      },
+      "kind_note": "Tiwanaku-related settlements in Moquegua valley",
+      "region": "Moquegua, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "殖民/离散定居指针。",
+        "en": "Colonial/diaspora settlement orientation."
+      },
+      "sources": [
+        "src-tiwanaku-goldstein-orientation",
+        "src-tiwanaku-stanish-2003"
+      ]
+    },
+    {
+      "id": "site-tiwanaku-katari-orientation",
+      "names": {
+        "zh": "卡塔里盆地聚落（指针）",
+        "en": "Katari basin settlements (orientation)",
+        "native": null
+      },
+      "kind_note": "Near-capital settlement archaeology",
+      "region": "Titicaca basin, Bolivia",
+      "coords": null,
+      "summary": {
+        "zh": "近都聚落框架。",
+        "en": "Near-capital settlement frame."
+      },
+      "sources": [
+        "src-tiwanaku-albarracin-jordan-orientation",
+        "src-tiwanaku-kolata-ed-tiwanaku"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-tiwanaku-formative-late",
+      "names": {
+        "zh": "的的喀喀形成期晚窗",
+        "en": "Late Titicaca Formative window"
+      },
+      "time": {
+        "label": "late Formative leading into Tiwanaku (Stanish/Kolata labels)",
+        "approx_from_bce": 200,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "形成期晚窗。",
+        "en": "Late Formative precursor window."
+      },
+      "sources": [
+        "src-tiwanaku-stanish-2003",
+        "src-tiwanaku-janusek-2008"
+      ]
+    },
+    {
+      "id": "period-tiwanaku-classical",
+      "names": {
+        "zh": "蒂瓦纳科经典繁荣窗",
+        "en": "Tiwanaku classical floruit"
+      },
+      "time": {
+        "label": "classical urban/ceremonial florescence (Kolata/Janusek)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "CE centuries; absolute tables deferred."
+      },
+      "summary": {
+        "zh": "经典繁荣。",
+        "en": "Classical floruit."
+      },
+      "sources": [
+        "src-tiwanaku-kolata-1993",
+        "src-tiwanaku-janusek-2008"
+      ]
+    },
+    {
+      "id": "period-tiwanaku-decline",
+      "names": {
+        "zh": "蒂瓦纳科衰退/转型窗",
+        "en": "Tiwanaku decline / transition"
+      },
+      "time": {
+        "label": "late Middle Horizon decline and reorganization",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "衰退/转型。",
+        "en": "Decline/transition."
+      },
+      "sources": [
+        "src-tiwanaku-janusek-2008",
+        "src-tiwanaku-isbell-wari-compare"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-tiwanaku-gateway-sun-frame",
+      "names": {
+        "zh": "太阳门—仪礼核心框架",
+        "en": "Gateway of the Sun / ceremonial-core frame"
+      },
+      "site_ids": [
+        "site-tiwanaku-capital",
+        "site-tiwanaku-kalasasaya"
+      ],
+      "period_ids": [
+        "period-tiwanaku-middle-horizon",
+        "period-tiwanaku-classical"
+      ],
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-kolata-1993"
+      ],
+      "summary": {
+        "zh": "标志性石门与核心建筑指针。",
+        "en": "Iconic gateway and core architecture pointer; no forged catalog numbers."
+      }
+    },
+    {
+      "id": "asm-tiwanaku-ashlar-pumapunku-frame",
+      "names": {
+        "zh": "普马蓬库精琢石工框架",
+        "en": "Pumapunku ashlar masonry frame"
+      },
+      "site_ids": [
+        "site-tiwanaku-puma-punku"
+      ],
+      "period_ids": [
+        "period-tiwanaku-classical"
+      ],
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-vranich-architecture"
+      ],
+      "summary": {
+        "zh": "精琢石工传统指针；回避伪考古主张。",
+        "en": "Ashlar masonry tradition pointer; avoid pseudoarchaeology claims."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-tiwanaku-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将蒂瓦纳科表述为蒂瓦纳科文化的精神与政治中心（UNESCO 567）。",
+        "en": "UNESCO frames Tiwanaku as the spiritual and political centre of Tiwanaku culture (UNESCO 567)."
+      },
+      "site_ids": [
+        "site-tiwanaku-capital"
+      ],
+      "period_ids": [
+        "period-tiwanaku-middle-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-unesco-567"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-kolata",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kolata 1993 综合为英语学界提供蒂瓦纳科文明肖像式综述。",
+        "en": "Kolata 1993 provides a portrait-style English synthesis of Tiwanaku civilization."
+      },
+      "site_ids": [
+        "site-tiwanaku-capital"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-kolata-1993"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-janusek",
+      "kind": "fact",
+      "statement": {
+        "zh": "Janusek 2008 剑桥个案综合讨论古代蒂瓦纳科城市与社会。",
+        "en": "Janusek 2008 Cambridge case study discusses ancient Tiwanaku urbanism and society."
+      },
+      "site_ids": [
+        "site-tiwanaku-capital"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-janusek-2008"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-akupana",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合与教科文描述将阿卡帕纳列为仪礼核心重要台地建筑（UNESCO 567；Kolata 1993）。",
+        "en": "Syntheses and UNESCO descriptions list Akapana among major ceremonial-core platforms (UNESCO 567; Kolata 1993)."
+      },
+      "site_ids": [
+        "site-tiwanaku-akupana"
+      ],
+      "period_ids": [
+        "period-tiwanaku-classical"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-kolata-1993"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-pumapunku",
+      "kind": "fact",
+      "statement": {
+        "zh": "普马蓬库以精琢石工建筑群著称，见于教科文与建筑研究取向（UNESCO 567；Vranich）。",
+        "en": "Pumapunku is noted for ashlar monumental architecture in UNESCO and architectural studies (UNESCO 567; Vranich)."
+      },
+      "site_ids": [
+        "site-tiwanaku-puma-punku"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-vranich-architecture"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-moquegua",
+      "kind": "fact",
+      "statement": {
+        "zh": "Goldstein 等研究讨论莫克瓜河谷与蒂瓦纳科相关的殖民/飞地定居（研究传统）。",
+        "en": "Goldstein and related studies discuss Moquegua valley settlements linked to Tiwanaku colonization/diaspora (research tradition)."
+      },
+      "site_ids": [
+        "site-tiwanaku-omo-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-goldstein-orientation",
+        "src-tiwanaku-stanish-2003"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-stanish-basin",
+      "kind": "fact",
+      "statement": {
+        "zh": "Stanish 2003 综述的的喀喀盆地复杂社会演化，为蒂瓦纳科提供区域背景。",
+        "en": "Stanish 2003 synthesizes Titicaca-basin complex-society evolution as regional background for Tiwanaku."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-tiwanaku-formative-late"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-stanish-2003"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-hinterland-volumes",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kolata 主编腹地卷从考古与古生态讨论蒂瓦纳科与周边（Smithsonian 传统）。",
+        "en": "Kolata-edited hinterland volumes discuss Tiwanaku and surroundings via archaeology and paleoecology (Smithsonian tradition)."
+      },
+      "site_ids": [
+        "site-tiwanaku-lukurmata-orientation",
+        "site-tiwanaku-katari-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-kolata-ed-tiwanaku"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-compare-wari",
+      "kind": "fact",
+      "statement": {
+        "zh": "中地平线研究常比较蒂瓦纳科与瓦里的扩张模式（Isbell 等）。",
+        "en": "Middle Horizon research often compares Tiwanaku and Wari expansion models (Isbell et al.)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-tiwanaku-decline"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-tiwanaku-isbell-wari-compare",
+        "src-tiwanaku-janusek-2008"
+      ]
+    },
+    {
+      "id": "claim-tiwanaku-gateway-frame",
+      "kind": "fact",
+      "statement": {
+        "zh": "太阳门等石雕与卡拉萨萨亚围场在综合中作为仪礼核心标志讨论（UNESCO 567；Kolata）。",
+        "en": "The Gateway of the Sun and Kalasasaya enclosure are discussed as ceremonial-core markers in syntheses (UNESCO 567; Kolata)."
+      },
+      "site_ids": [
+        "site-tiwanaku-kalasasaya"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-tiwanaku-gateway-sun-frame"
+      ],
+      "sources": [
+        "src-tiwanaku-unesco-567",
+        "src-tiwanaku-kolata-1993"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-tiwanaku-unesco",
+      "title": {
+        "zh": "教科文：蒂瓦纳科",
+        "en": "UNESCO: Tiwanaku",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/567/",
+      "sources": [
+        "src-tiwanaku-unesco-567"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-tiwanaku-unesco-docs",
+      "title": {
+        "zh": "教科文蒂瓦纳科文档",
+        "en": "UNESCO Tiwanaku documents",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/567/documents/",
+      "sources": [
+        "src-tiwanaku-unesco-docs"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

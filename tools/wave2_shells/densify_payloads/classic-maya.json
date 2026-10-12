@@ -1,0 +1,527 @@
+{
+  "civ_id": "civ-classic-maya",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "经典玛雅档案（library-seed-rich）：Martin–Grube/Coe–Houston + 低地多政体遗址；仍非埃及级密度。",
+    "en": "Classic Maya archive (library-seed-rich): Martin–Grube/Coe–Houston + lowland multi-polity sites; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-classic-maya-unesco-copan-129",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Maya Site of Copan. Inscribed 1980. https://whc.unesco.org/en/list/129/",
+      "url": "https://whc.unesco.org/en/list/129/",
+      "notes": "WHC Copán."
+    },
+    {
+      "id": "src-classic-maya-unesco-calakmul-1061",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Ancient Maya City of Calakmul, Campeche. Inscribed 2002. https://whc.unesco.org/en/list/1061/",
+      "url": "https://whc.unesco.org/en/list/1061/",
+      "notes": "WHC Calakmul."
+    },
+    {
+      "id": "src-classic-maya-houston-stuart-taube",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Houston, Stephen; Stuart, David; Taube, Karl — Classic Maya court, writing, and religion studies.",
+      "url": null,
+      "notes": "Epigraphy/religion orientation."
+    },
+    {
+      "id": "src-classic-maya-sharer-traxler",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Sharer, Robert J., and Loa P. Traxler. 2006. The Ancient Maya. 6th ed. Stanford: Stanford University Press.",
+      "url": null,
+      "notes": "Standard handbook synthesis."
+    },
+    {
+      "id": "src-classic-maya-demarest-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Demarest, Arthur — Classic Maya collapse and Petexbatun studies.",
+      "url": null,
+      "notes": "Collapse/Petexbatun orientation."
+    },
+    {
+      "id": "src-classic-maya-inomatica-orientation",
+      "type": "digital-corpus",
+      "tier": "S",
+      "citation": "Inomata, Takeshi — Ceibal and lowland early-to-classic research tradition.",
+      "url": null,
+      "notes": "Ceibal research orientation."
+    },
+    {
+      "id": "src-classic-maya-mesoweb",
+      "type": "web",
+      "tier": "T",
+      "citation": "Mesoweb / FAMSI resources — Classic Maya epigraphy and site reports orientation.",
+      "url": "https://www.mesoweb.com/",
+      "notes": "Tertiary digital orientation."
+    },
+    {
+      "id": "src-classic-maya-boot-epigraphy",
+      "type": "article",
+      "tier": "S",
+      "citation": "Boot, Erik — Classic Maya epigraphic studies and name decipherment notes.",
+      "url": null,
+      "notes": "Epigraphy orientation."
+    },
+    {
+      "id": "src-classic-maya-culbert-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Culbert, T. Patrick, ed. — Classic Maya political history / ceramics volumes.",
+      "url": null,
+      "notes": "Political history orientation."
+    },
+    {
+      "id": "src-classic-maya-unesco-tikal-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Tikal National Park — documents. https://whc.unesco.org/en/list/64/documents/",
+      "url": "https://whc.unesco.org/en/list/64/documents/",
+      "notes": "Tikal documents landing."
+    }
+  ],
+  "fill_coords": {
+    "site-tikal-classic": {
+      "lat": 17.222,
+      "lon": -89.623,
+      "precision_note": "UNESCO WHC list 64 published approximate centre; access 2026-10-12"
+    },
+    "site-palenque-classic": {
+      "lat": 17.484,
+      "lon": -92.045,
+      "precision_note": "UNESCO WHC list 411 published approximate centre; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-copan-classic",
+      "names": {
+        "zh": "科潘",
+        "en": "Copán",
+        "native": null
+      },
+      "kind_note": "Classic Maya polity centre; UNESCO WH",
+      "region": "western Honduras",
+      "coords": null,
+      "summary": {
+        "zh": "东南经典中心，以雕塑与象形文字阶梯著称。",
+        "en": "Southeastern Classic centre famous for sculpture and hieroglyphic stairway."
+      },
+      "sources": [
+        "src-classic-maya-unesco-copan-129",
+        "src-classic-maya-martin-grube-2008"
+      ]
+    },
+    {
+      "id": "site-calakmul-classic",
+      "names": {
+        "zh": "卡拉克穆尔",
+        "en": "Calakmul",
+        "native": null
+      },
+      "kind_note": "Classic Maya superpower centre; UNESCO WH",
+      "region": "Campeche, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "碑铭模型中常与蒂卡尔对立的卡努尔王朝中心。",
+        "en": "Kaanul dynasty rival centre to Tikal in many epigraphic models."
+      },
+      "sources": [
+        "src-classic-maya-unesco-calakmul-1061",
+        "src-classic-maya-martin-grube-2008"
+      ]
+    },
+    {
+      "id": "site-calakmul-biosphere-orientation",
+      "names": {
+        "zh": "卡拉克穆尔周边（指针）",
+        "en": "Calakmul hinterland (orientation)",
+        "native": null
+      },
+      "kind_note": "Regional settlement around Calakmul",
+      "region": "Campeche/Petén borderlands",
+      "coords": null,
+      "summary": {
+        "zh": "腹地聚落指针。",
+        "en": "Hinterland settlement orientation."
+      },
+      "sources": [
+        "src-classic-maya-unesco-calakmul-1061",
+        "src-classic-maya-sharer-traxler"
+      ]
+    },
+    {
+      "id": "site-yaxchilan-orientation",
+      "names": {
+        "zh": "亚克斯奇兰（指针）",
+        "en": "Yaxchilán (orientation)",
+        "native": null
+      },
+      "kind_note": "Usumacinta Classic centre",
+      "region": "Chiapas, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "乌苏马辛塔政体指针。",
+        "en": "Usumacinta polity orientation."
+      },
+      "sources": [
+        "src-classic-maya-martin-grube-2008",
+        "src-classic-maya-houston-stuart-taube"
+      ]
+    },
+    {
+      "id": "site-ceibal-orientation",
+      "names": {
+        "zh": "塞巴尔（指针）",
+        "en": "Ceibal (orientation)",
+        "native": null
+      },
+      "kind_note": "Pasión drainage centre with long sequence",
+      "region": "Petén, Guatemala",
+      "coords": null,
+      "summary": {
+        "zh": "长序列低地中心指针。",
+        "en": "Long-sequence lowland centre orientation."
+      },
+      "sources": [
+        "src-classic-maya-inomatica-orientation",
+        "src-classic-maya-sharer-traxler"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-classic-maya-early",
+      "names": {
+        "zh": "经典玛雅早期窗",
+        "en": "Early Classic Maya"
+      },
+      "time": {
+        "label": "Early Classic dynastic consolidation",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "ca. 250–600 CE working."
+      },
+      "summary": {
+        "zh": "早期经典。",
+        "en": "Early Classic."
+      },
+      "sources": [
+        "src-classic-maya-martin-grube-2008",
+        "src-classic-maya-sharer-traxler"
+      ]
+    },
+    {
+      "id": "period-classic-maya-late",
+      "names": {
+        "zh": "经典玛雅晚期窗",
+        "en": "Late Classic Maya"
+      },
+      "time": {
+        "label": "Late Classic florescence of lowland courts",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "ca. 600–800/900 CE working."
+      },
+      "summary": {
+        "zh": "晚期经典繁荣。",
+        "en": "Late Classic floruit."
+      },
+      "sources": [
+        "src-classic-maya-martin-grube-2008",
+        "src-classic-maya-coe-houston-maya"
+      ]
+    },
+    {
+      "id": "period-classic-maya-terminal",
+      "names": {
+        "zh": "经典玛雅终末窗",
+        "en": "Terminal Classic Maya"
+      },
+      "time": {
+        "label": "Terminal Classic transformations/collapse debates",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "终末经典争论。",
+        "en": "Terminal Classic debates."
+      },
+      "sources": [
+        "src-classic-maya-demarest-orientation",
+        "src-classic-maya-culbert-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-classic-maya-stelae-frame",
+      "names": {
+        "zh": "经典玛雅石碑—王朝文本框架",
+        "en": "Classic Maya stelae / dynastic text frame"
+      },
+      "site_ids": [
+        "site-tikal-classic",
+        "site-copan-classic",
+        "site-calakmul-classic"
+      ],
+      "period_ids": [
+        "period-classic-maya-floruit",
+        "period-classic-maya-late"
+      ],
+      "sources": [
+        "src-classic-maya-martin-grube-2008",
+        "src-classic-maya-houston-stuart-taube"
+      ],
+      "summary": {
+        "zh": "石碑与王朝铭文指针。",
+        "en": "Stelae and dynastic inscription pointer; no forged catalog numbers."
+      }
+    },
+    {
+      "id": "asm-classic-maya-palace-court-frame",
+      "names": {
+        "zh": "经典玛雅宫廷建筑框架",
+        "en": "Classic Maya palace–court architecture frame"
+      },
+      "site_ids": [
+        "site-palenque-classic",
+        "site-tikal-classic"
+      ],
+      "period_ids": [
+        "period-classic-maya-late"
+      ],
+      "sources": [
+        "src-classic-maya-coe-houston-maya",
+        "src-classic-maya-martin-grube-2008"
+      ],
+      "summary": {
+        "zh": "宫廷建筑指针。",
+        "en": "Palace and court architecture pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-classic-maya-martin-grube",
+      "kind": "fact",
+      "statement": {
+        "zh": "Martin & Grube 2008 以碑铭重建经典期低地诸王朝政治史（Chronicle of the Maya Kings and Queens）。",
+        "en": "Martin & Grube 2008 reconstruct Classic lowland dynastic political history from inscriptions (Chronicle of the Maya Kings and Queens)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-classic-maya-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-martin-grube-2008"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-tikal-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将蒂卡尔国家公园列为世界遗产，涵盖经典期大型城市与庙宇复合体（UNESCO 64）。",
+        "en": "UNESCO lists Tikal National Park for its Classic urban and temple complexes (UNESCO 64)."
+      },
+      "site_ids": [
+        "site-tikal-classic"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-unesco-tikal-64"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-palenque-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将帕伦克列为世界遗产，突出经典期建筑与铭文（UNESCO 411）。",
+        "en": "UNESCO lists Palenque for Classic architecture and inscriptions (UNESCO 411)."
+      },
+      "site_ids": [
+        "site-palenque-classic"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-unesco-palenque-411"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-copan-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将科潘玛雅遗址列入名录（UNESCO 129）。",
+        "en": "UNESCO lists the Maya Site of Copán (UNESCO 129)."
+      },
+      "site_ids": [
+        "site-copan-classic"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-unesco-copan-129"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-calakmul-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将卡拉克穆尔古代玛雅城市列入名录（UNESCO 1061）。",
+        "en": "UNESCO lists the Ancient Maya City of Calakmul (UNESCO 1061)."
+      },
+      "site_ids": [
+        "site-calakmul-classic"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-unesco-calakmul-1061"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-coe-houston",
+      "kind": "fact",
+      "statement": {
+        "zh": "Coe & Houston 综合为玛雅文明提供不断修订的综述框架。",
+        "en": "Coe & Houston provide a continually revised synthesis of Maya civilization."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-classic-maya-late"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-coe-houston-maya"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-caracol",
+      "kind": "fact",
+      "statement": {
+        "zh": "Chase 发掘传统将卡拉科尔讨论为伯利兹经典期重要政体（1987 以降报告传统）。",
+        "en": "Chase excavation tradition discusses Caracol as a major Belize Classic polity (report tradition from 1987 on)."
+      },
+      "site_ids": [
+        "site-caracol-belize"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-chase-caracol-1987"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-multi-polity",
+      "kind": "fact",
+      "statement": {
+        "zh": "碑铭与综合强调经典期低地为多政体竞争格局，而非单一帝国（Martin & Grube；Sharer & Traxler）。",
+        "en": "Epigraphy and syntheses emphasize Classic lowlands as multi-polity competition rather than a single empire (Martin & Grube; Sharer & Traxler)."
+      },
+      "site_ids": [
+        "site-tikal-classic",
+        "site-calakmul-classic"
+      ],
+      "period_ids": [
+        "period-classic-maya-late"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-martin-grube-2008",
+        "src-classic-maya-sharer-traxler"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-terminal-debate",
+      "kind": "fact",
+      "statement": {
+        "zh": "Demarest 等研究传统讨论终末经典转型与“崩溃”模型的多样性。",
+        "en": "Demarest and related traditions discuss diversity of Terminal Classic transformation and collapse models."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-classic-maya-terminal"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-classic-maya-demarest-orientation",
+        "src-classic-maya-culbert-orientation"
+      ]
+    },
+    {
+      "id": "claim-classic-maya-stelae-texts",
+      "kind": "fact",
+      "statement": {
+        "zh": "石碑与宫廷铭文是重建经典期王朝史的核心证据类型（Martin & Grube；Houston/Stuart/Taube 取向）。",
+        "en": "Stelae and court inscriptions are core evidence types for reconstructing Classic dynastic history (Martin & Grube; Houston/Stuart/Taube orientation)."
+      },
+      "site_ids": [
+        "site-tikal-classic",
+        "site-copan-classic"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-classic-maya-stelae-frame"
+      ],
+      "sources": [
+        "src-classic-maya-martin-grube-2008",
+        "src-classic-maya-houston-stuart-taube"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-classic-maya-tikal",
+      "title": {
+        "zh": "教科文：蒂卡尔",
+        "en": "UNESCO: Tikal",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/64/",
+      "sources": [
+        "src-classic-maya-unesco-tikal-64"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-classic-maya-palenque",
+      "title": {
+        "zh": "教科文：帕伦克",
+        "en": "UNESCO: Palenque",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/411/",
+      "sources": [
+        "src-classic-maya-unesco-palenque-411"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-classic-maya-copan",
+      "title": {
+        "zh": "教科文：科潘",
+        "en": "UNESCO: Copán",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/129/",
+      "sources": [
+        "src-classic-maya-unesco-copan-129"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

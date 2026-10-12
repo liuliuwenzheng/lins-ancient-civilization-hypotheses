@@ -1,0 +1,32 @@
+{
+  "id": "site-gongju-baekje",
+  "entity": "site",
+  "names": {
+    "zh": "公州百济历史区",
+    "en": "Gongju Baekje historic areas",
+    "native": null
+  },
+  "kind_note": "Baekje capital-related; UNESCO WH",
+  "region": "South Chungcheong, Korea",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "百济历史都城相关区域。",
+    "en": "Baekje historic capital-related areas."
+  },
+  "sources": [
+    "src-early-korea-unesco-gongju-baekje",
+    "src-early-korea-unesco-baekje-docs"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/densify_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-16"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}
