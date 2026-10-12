@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-huaca-luna-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "月亮金字塔加深",
+    "en": "Huaca de la Luna deepen",
+    "native": null
+  },
+  "kind_note": "Ceremonial huaca / murals",
+  "region": "Huacas de Moche, Trujillo",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "礼仪金字塔与壁画加深。",
+    "en": "Ceremonial huaca and murals deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-uceda-pubs-deepen-e",
+    "src-moche-huacas-project-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

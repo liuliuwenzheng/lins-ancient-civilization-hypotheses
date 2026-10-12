@@ -1,0 +1,34 @@
+{
+  "id": "claim-cahokia-pauketat-city-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pauketat 将卡霍基亚论证为北美东部前哥伦布城市级中心。",
+    "en": "Pauketat argues Cahokia as a pre-Columbian urban-scale centre in eastern North America.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-monks-mound-deepen-e"
+  ],
+  "period_ids": [
+    "period-cahokia-mississippian-floruit-e"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-pauketat-deepen-e",
+    "src-cahokia-alt-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

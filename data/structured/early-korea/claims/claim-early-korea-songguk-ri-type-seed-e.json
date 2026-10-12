@@ -1,0 +1,32 @@
+{
+  "id": "claim-early-korea-songguk-ri-type-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "松菊里是无纹定居考古学中广泛引用的类型聚落。",
+    "en": "Songguk-ri is a widely cited type settlement in Mumun settlement archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-early-korea-songguk-ri-deepen-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-songguk-ri-deepen-e",
+    "src-early-korea-mumun-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

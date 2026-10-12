@@ -1,0 +1,33 @@
+{
+  "id": "site-early-korea-gyeongju-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "庆州新罗加深",
+    "en": "Gyeongju Silla deepen",
+    "native": null
+  },
+  "kind_note": "Silla capital tombs / historic areas",
+  "region": "Gyeongju",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "新罗都城古坟与历史区加深。",
+    "en": "Silla capital tombs/historic areas deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-early-korea-silla-gyeongju-deepen-e",
+    "src-early-korea-unesco-gyeongju-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

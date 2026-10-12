@@ -1,0 +1,33 @@
+{
+  "id": "site-ban-chiang-penn-lab-orientation-e",
+  "entity": "site",
+  "names": {
+    "zh": "宾大研究语境（指针）",
+    "en": "Penn research context (orientation)",
+    "native": null
+  },
+  "kind_note": "Penn Museum research/collections context",
+  "region": "Philadelphia (collections)",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "宾大研究/馆藏语境指针。",
+    "en": "Penn research/collections context orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-ban-chiang-penn-deepen-e",
+    "src-ban-chiang-white-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-moche-polities-debate-e",
+  "entity": "period",
+  "names": {
+    "zh": "北海岸政体讨论窗",
+    "en": "North-coast polities debate",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "Single state vs multiple polities debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Single state vs multiple polities debates"
+  },
+  "summary": {
+    "zh": "单一国家 vs 多政体争论。",
+    "en": "Single-state vs multiple-polities debates.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-castillo-deepen-e",
+    "src-moche-swenson-deepen-e"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "media-wari-cleveland-lords-e",
+  "entity": "media",
+  "title": {
+    "zh": "克利夫兰 Lords of the Andes 取向",
+    "en": "Cleveland Lords of the Andes orientation",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.clevelandart.org/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-wari-bergh-cleveland-deepen-e"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cleveland Museum of Art",
+    "upstream_url": "https://www.clevelandart.org/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

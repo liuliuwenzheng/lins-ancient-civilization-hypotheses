@@ -1,0 +1,33 @@
+{
+  "id": "site-early-korea-ganghwa-dolmen-e",
+  "entity": "site",
+  "names": {
+    "zh": "江华支石墓（指针）",
+    "en": "Ganghwa dolmen (orientation)",
+    "native": null
+  },
+  "kind_note": "Ganghwa dolmen cluster orientation",
+  "region": "Ganghwa",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "江华支石墓群指针。",
+    "en": "Ganghwa dolmen-cluster orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-early-korea-gochang-dolmen-e",
+    "src-early-korea-dolmen-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

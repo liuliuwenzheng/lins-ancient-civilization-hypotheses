@@ -1,0 +1,43 @@
+{
+  "id": "asm-ban-chiang-penn-collection-e",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "宾大班清馆藏取向",
+    "en": "Penn Ban Chiang collection orientation",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-ban-chiang-penn-lab-orientation-e"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "宾大馆藏研究取向。",
+    "en": "Penn collection research orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-ban-chiang-penn-deepen-e",
+    "src-ban-chiang-white-deepen-e"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

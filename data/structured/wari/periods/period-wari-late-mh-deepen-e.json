@@ -1,0 +1,36 @@
+{
+  "id": "period-wari-late-mh-deepen-e",
+  "entity": "period",
+  "names": {
+    "zh": "中地平晚期加深窗",
+    "en": "Late Middle Horizon deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "time": {
+    "label": "Late MH transformation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late MH transformation"
+  },
+  "summary": {
+    "zh": "中地平晚期转变。",
+    "en": "Late MH transformation.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-jennings-deepen-e",
+    "src-wari-menzel-seriation-deepen-e"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-cahokia-mississippian-floruit-e",
+  "entity": "period",
+  "names": {
+    "zh": "密西西比繁荣加深窗",
+    "en": "Mississippian floruit deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "time": {
+    "label": "Regional Mississippian centre floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Regional Mississippian centre floruit"
+  },
+  "summary": {
+    "zh": "区域密西西比中心繁荣。",
+    "en": "Regional Mississippian centre floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-pauketat-deepen-e",
+    "src-cahokia-american-bottom-deepen-e"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-wari-cerro-baul-colony-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "塞罗鲍尔文献将瓦里莫克瓜存在理解为与蒂瓦纳科对峙语境下的殖民据点。",
+    "en": "Cerro Baúl literature reads Wari Moquegua presence as a colony in a Tiwanaku-frontier context.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-cerro-baul-deepen-e"
+  ],
+  "period_ids": [
+    "period-wari-floruit-deepen-e"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-williams-cerro-baul-deepen-e",
+    "src-wari-tiwanaku-compare-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

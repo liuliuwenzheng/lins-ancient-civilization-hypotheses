@@ -1,0 +1,36 @@
+{
+  "id": "period-cahokia-moorehead-deepen-e",
+  "entity": "period",
+  "names": {
+    "zh": "穆尔黑德期加深窗",
+    "en": "Moorehead phase deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "time": {
+    "label": "Moorehead / later transformation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Moorehead / later transformation"
+  },
+  "summary": {
+    "zh": "穆尔黑德及后期转变。",
+    "en": "Moorehead / later transformation.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-phase-labels-deepen-e",
+    "src-cahokia-milner-deepen-e"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

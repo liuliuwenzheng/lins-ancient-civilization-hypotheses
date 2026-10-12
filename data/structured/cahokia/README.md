@@ -2,17 +2,8 @@
 
 [中文](README.zh.md) | English
 
-Read-only archive entities for `civ-cahokia`.
+**Status:** `library-seed-rich` (seed densify Batch E, D-2026-10-12-26). Toward denser library-seed-rich; not fact-library.
 
-**Status:** `library-seed-rich` (Wave-3 densify, D-2026-10-12-17). Toward usable archive density; not fact-library.
+Counts: sources 30 · sites 15 · periods 8 · objects 7 · claims 26 · media 6
 
-Counts (`export_check` is authoritative):
-- sources: 15
-- sites: 7
-- periods: 4
-- objects: 3
-- claims: 11
-- media: 3
-
-Markdown editorial source: `data/civilizations/civ-cahokia.md`.
-Run `tools/export_check.py` before serving.
+Markdown: `data/civilizations/civ-cahokia.md`. Run `tools/export_check.py`.

@@ -107,7 +107,9 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 ## Product stance
 
-**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); 10 hot packs at Round-2 (~48 sources); Seed Batches C+D (10 packs) now ~30 sources / ~14–15 sites / ~26 claims each.** Honesty of status beats vanity of count. Next: remaining Wave-2/3 thin packs; continue coord/media fill; open remaining Missing where archives allow.
+**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); 10 hot packs at Round-2 (~48 sources); Seed Batches C–E (15 packs) now ~30 sources / ~14–15 sites / ~26 claims each.** Honesty of status beats vanity of count. Next: remaining Wave-2/3 thin packs; continue coord/media fill; open remaining Missing where archives allow.
+
+> **2026-10-12 update (Seed E):** Seed densify Batch E (D-2026-10-12-26) raised wari / ban-chiang / early-korea / moche / cahokia to ~30 sources / 15 sites / 26 claims; status remains `library-seed-rich`. No new coords this pass.
 
 > **2026-10-12 update (Seed D):** Seed densify Batch D (D-2026-10-12-25) raised nok-west-africa / lapita-pacific / chavin-andes / tiwanaku / mitanni to ~30 sources / 14–15 sites / 26 claims; status remains `library-seed-rich`. No new coords this pass.
 

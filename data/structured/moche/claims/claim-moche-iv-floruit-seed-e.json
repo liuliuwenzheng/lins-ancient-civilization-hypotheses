@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-iv-floruit-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "莫切 IV 常被描述为细线叙事与纪念建筑的繁荣窗口。",
+    "en": "Moche IV is often described as a floruit window for fineline narrative and monumental building.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-iv-deepen-e"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-quilter-deepen-e",
+    "src-moche-donnan-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

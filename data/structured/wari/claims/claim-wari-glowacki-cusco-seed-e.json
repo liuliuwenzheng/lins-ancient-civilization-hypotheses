@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-glowacki-cusco-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Glowacki 等将库斯科盆地瓦里遗存与皮基拉塔行政功能联系起来。",
+    "en": "Glowacki and peers link Cuzco-basin Wari remains to Pikillacta’s administrative role.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-pikillacta-deepen-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-glowacki-cusco-deepen-e",
+    "src-wari-mcewan-pikillacta-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

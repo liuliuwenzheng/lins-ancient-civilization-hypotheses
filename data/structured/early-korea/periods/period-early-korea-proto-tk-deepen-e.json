@@ -1,0 +1,36 @@
+{
+  "id": "period-early-korea-proto-tk-deepen-e",
+  "entity": "period",
+  "names": {
+    "zh": "原三国加深窗",
+    "en": "Proto–Three Kingdoms deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "time": {
+    "label": "Proto–Three Kingdoms transition",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Proto–Three Kingdoms transition"
+  },
+  "summary": {
+    "zh": "原三国过渡。",
+    "en": "Proto–Three Kingdoms transition.",
+    "native": null
+  },
+  "sources": [
+    "src-early-korea-proto-three-kingdoms-e",
+    "src-early-korea-barnes-deepen-e"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

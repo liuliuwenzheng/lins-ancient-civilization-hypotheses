@@ -1,0 +1,32 @@
+{
+  "id": "claim-ban-chiang-c14-debate-seed-e",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "班清碳十四早期偏早主张与后来修订之间仍有史学争论。",
+    "en": "Historiographic debate continues between early Ban Chiang radiocarbon claims and later revisions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ban-chiang-c14-debate-e"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-c14-deepen-e",
+    "src-ban-chiang-solheim-deepen-e"
+  ],
+  "disclaimer": "Dating debate; early ultra-early claims revised.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

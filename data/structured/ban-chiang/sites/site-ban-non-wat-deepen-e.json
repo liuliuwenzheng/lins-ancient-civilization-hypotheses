@@ -1,0 +1,33 @@
+{
+  "id": "site-ban-non-wat-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "班农瓦加深",
+    "en": "Ban Non Wat deepen",
+    "native": null
+  },
+  "kind_note": "Excavated prehistoric settlement/cemetery",
+  "region": "Nakhon Ratchasima region",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "发掘史前聚落/墓地加深。",
+    "en": "Excavated prehistoric settlement/cemetery deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-ban-chiang-ban-non-wat-deepen-e",
+    "src-ban-chiang-higham-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-pataraya-coast-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帕塔拉亚等海岸坡前哨为瓦里向太平洋坡的投射提供指针（非完整行省模型）。",
+    "en": "Pataraya and related coastal-slope outposts orient Wari projection toward the Pacific slope (not a full provincial model).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-pataraya-orientation-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-schreiber-deepen-e",
+    "src-wari-jennings-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

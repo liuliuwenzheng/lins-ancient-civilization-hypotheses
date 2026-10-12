@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-el-brujo-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔布鲁霍加深",
+    "en": "El Brujo deepen",
+    "native": null
+  },
+  "kind_note": "Cao Viejo / El Brujo complex",
+  "region": "Chicama valley",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "曹维耶霍/布鲁霍复合体加深。",
+    "en": "Cao Viejo/El Brujo complex deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-el-brujo-deepen-e",
+    "src-moche-bourget-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

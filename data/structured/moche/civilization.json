@@ -11,58 +11,105 @@
   "region": "South America / north coast Peru (Moche–Chicama–Lambayeque valleys)",
   "time_span": "Early Intermediate / Moche florescence broadly 1st–8th centuries CE (Quilter / Castillo frames)",
   "summary": {
-    "zh": "莫切档案（library-seed-rich）：Quilter/Donnan/Castillo–Uceda + 太阳月亮金字塔项目；仍非埃及级密度。",
-    "en": "Moche archive (library-seed-rich): Quilter/Donnan/Castillo–Uceda + Huacas de Moche project; not yet Egypt-level density."
+    "zh": "莫切档案加厚（种子 Batch E）：太阳/月亮金字塔、西潘、细线彩陶与北海岸政体；仍标 library-seed-rich。",
+    "en": "Moche densified (seed Batch E): Huacas del Sol/Luna, Sipán, fineline ceramics and north-coast polities; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
     "src-moche-alva-sipan-orientation",
+    "src-moche-benson-deepen-e",
     "src-moche-benson-orientation",
     "src-moche-bourget-2006",
+    "src-moche-bourget-deepen-e",
     "src-moche-bourget-jones-orientation",
+    "src-moche-castillo-deepen-e",
     "src-moche-castillo-uceda-orientation",
+    "src-moche-chapdelaine-deepen-e",
     "src-moche-chapdelaine-orientation",
+    "src-moche-donnan-deepen-e",
     "src-moche-donnan-mcclelland-1999",
+    "src-moche-el-brujo-deepen-e",
+    "src-moche-galindo-deepen-e",
+    "src-moche-huacas-project-deepen-e",
     "src-moche-huacas-project-web",
     "src-moche-huacas-web-docs",
     "src-moche-lockard-orientation",
+    "src-moche-pacatnamu-deepen-e",
+    "src-moche-phase-labels-deepen-e",
     "src-moche-pillsbury-orientation",
     "src-moche-quilter-2010",
+    "src-moche-quilter-deepen-e",
+    "src-moche-shimada-deepen-e",
     "src-moche-shimada-orientation",
+    "src-moche-sipan-deepen-e",
+    "src-moche-swenson-deepen-e",
     "src-moche-swenson-orientation",
-    "src-moche-uceda-castillo-pubs"
+    "src-moche-uceda-castillo-pubs",
+    "src-moche-uceda-pubs-deepen-e"
   ],
   "site_ids": [
     "site-huacas-de-moche",
+    "site-moche-el-brujo-deepen-e",
     "site-moche-el-brujo-orientation",
+    "site-moche-galindo-deepen-e",
     "site-moche-galindo-orientation",
     "site-moche-huaca-de-la-luna-sector",
+    "site-moche-huaca-luna-deepen-e",
+    "site-moche-huaca-sol-orientation-e",
+    "site-moche-pacatnamu-deepen-e",
     "site-moche-pacatnamu-orientation",
+    "site-moche-san-jose-moro-deepen-e",
     "site-moche-san-jose-moro-orientation",
+    "site-moche-sipan-deepen-e",
+    "site-moche-urban-sectors-e",
     "site-sipan-orientation"
   ],
   "period_ids": [
+    "period-moche-early-phases-deepen-e",
     "period-moche-eip-floruit",
     "period-moche-i-iii",
     "period-moche-iv",
-    "period-moche-v-late"
+    "period-moche-iv-deepen-e",
+    "period-moche-polities-debate-e",
+    "period-moche-v-late",
+    "period-moche-v-late-deepen-e"
   ],
   "claim_ids": [
     "claim-moche-bourget-sacrifice",
+    "claim-moche-bourget-sacrifice-seed-e",
     "claim-moche-chapdelaine-urban",
+    "claim-moche-chapdelaine-urban-seed-e",
     "claim-moche-donnan-fineline",
     "claim-moche-el-brujo",
+    "claim-moche-el-brujo-seed-e",
+    "claim-moche-fineline-narrative-seed-e",
+    "claim-moche-galindo-late-seed-e",
+    "claim-moche-huaca-sol-adobe-seed-e",
     "claim-moche-huacas-project",
+    "claim-moche-huacas-project-seed-e",
+    "claim-moche-iv-floruit-seed-e",
     "claim-moche-north-coast-polities",
     "claim-moche-north-coast-polities-dense",
+    "claim-moche-pacatnamu-seed-e",
     "claim-moche-phase-labels",
+    "claim-moche-phase-labels-seed-e",
+    "claim-moche-polities-open-seed-e",
+    "claim-moche-quilter-synth-seed-e",
     "claim-moche-quilter-synthesis",
     "claim-moche-san-jose-moro",
-    "claim-moche-sipan"
+    "claim-moche-san-jose-moro-seed-e",
+    "claim-moche-shimada-craft-seed-e",
+    "claim-moche-sipan",
+    "claim-moche-sipan-tombs-seed-e"
   ],
   "object_ids": [
     "asm-moche-fineline-ceramic-frame",
+    "asm-moche-fineline-deepen-e",
     "asm-moche-fineline-narrative-frame",
-    "asm-moche-huaca-platforms-frame"
+    "asm-moche-huaca-platforms-e",
+    "asm-moche-huaca-platforms-frame",
+    "asm-moche-sacrifice-iconography-e",
+    "asm-moche-sipan-regalia-e"
   ],
   "related_ids": [
     "civ-andes",
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-moche.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_seed_batch_e.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-26"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

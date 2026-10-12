@@ -1,0 +1,32 @@
+{
+  "id": "media-ban-chiang-penn-deepen-e",
+  "entity": "media",
+  "title": {
+    "zh": "宾大：班清加深",
+    "en": "Penn: Ban Chiang deepen",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.penn.museum/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-ban-chiang-penn-deepen-e"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Penn Museum",
+    "upstream_url": "https://www.penn.museum/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

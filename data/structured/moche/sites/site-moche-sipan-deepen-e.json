@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-sipan-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "西潘加深",
+    "en": "Sipán deepen",
+    "native": null
+  },
+  "kind_note": "Royal tomb complex",
+  "region": "Lambayeque valley",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "王陵复合体加深。",
+    "en": "Royal-tomb complex deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-sipan-deepen-e",
+    "src-moche-quilter-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

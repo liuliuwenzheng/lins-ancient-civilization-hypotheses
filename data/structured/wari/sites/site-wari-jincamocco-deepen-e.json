@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-jincamocco-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "金卡莫科加深",
+    "en": "Jincamocco deepen",
+    "native": null
+  },
+  "kind_note": "Provincial Wari centre orientation",
+  "region": "Lucanas, Ayacucho",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "行省中心指针加深。",
+    "en": "Provincial-centre orientation deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-schreiber-deepen-e",
+    "src-wari-azangaro-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

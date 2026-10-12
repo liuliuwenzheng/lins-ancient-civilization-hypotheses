@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-pataraya-orientation-e",
+  "entity": "site",
+  "names": {
+    "zh": "帕塔拉亚（指针）",
+    "en": "Pataraya (orientation)",
+    "native": null
+  },
+  "kind_note": "Coastal-slope Wari outpost orientation",
+  "region": "Nasca drainage, Peru",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "海岸坡前哨指针。",
+    "en": "Coastal-slope outpost orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-schreiber-deepen-e",
+    "src-wari-jennings-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

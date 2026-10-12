@@ -1,0 +1,30 @@
+{
+  "id": "claim-cahokia-milner-chiefdom-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Milner 酋邦框架为卡霍基亚社会复杂化提供经典综述入口。",
+    "en": "Milner’s chiefdom frame supplies a classic survey entry to Cahokia social complexity.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-milner-deepen-e",
+    "src-cahokia-american-bottom-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

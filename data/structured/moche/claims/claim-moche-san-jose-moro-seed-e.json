@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-san-jose-moro-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "圣何塞德莫罗精英墓地是南莫切礼仪与政治讨论的关键遗址。",
+    "en": "San José de Moro elite cemeteries are key sites for southern Moche ritual and political discussion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-san-jose-moro-deepen-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-castillo-deepen-e",
+    "src-moche-donnan-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

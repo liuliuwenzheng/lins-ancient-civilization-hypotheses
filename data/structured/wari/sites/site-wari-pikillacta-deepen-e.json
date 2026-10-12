@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-pikillacta-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "皮基拉塔扇区加深",
+    "en": "Pikillacta sector deepen",
+    "native": null
+  },
+  "kind_note": "Cuzco-region administrative grid",
+  "region": "Lucre basin, Cuzco",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "库斯科区行政网格加深。",
+    "en": "Cuzco-region administrative-grid deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-mcewan-pikillacta-deepen-e",
+    "src-wari-glowacki-cusco-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

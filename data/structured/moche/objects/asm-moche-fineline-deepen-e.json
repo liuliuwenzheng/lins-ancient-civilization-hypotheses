@@ -1,0 +1,43 @@
+{
+  "id": "asm-moche-fineline-deepen-e",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "细线彩陶加深",
+    "en": "Fineline ceramic deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-san-jose-moro-deepen-e"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "细线叙事彩陶加深。",
+    "en": "Fineline narrative ceramics deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-donnan-deepen-e",
+    "src-moche-benson-deepen-e"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

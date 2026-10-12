@@ -1,0 +1,36 @@
+{
+  "id": "period-moche-iv-deepen-e",
+  "entity": "period",
+  "names": {
+    "zh": "莫切IV加深窗",
+    "en": "Moche IV deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "Moche IV floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Moche IV floruit"
+  },
+  "summary": {
+    "zh": "莫切 IV 繁荣。",
+    "en": "Moche IV floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-quilter-deepen-e",
+    "src-moche-uceda-pubs-deepen-e"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

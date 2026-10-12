@@ -11,57 +11,104 @@
   "region": "North America / American Bottom (Illinois; Mississippi River floodplain)",
   "time_span": "Mississippian florescence ca. 1050–1350 CE (Pauketat / Emerson frames)",
   "summary": {
-    "zh": "卡霍基亚档案（library-seed-rich）：Pauketat/Emerson/Milner/Fowler + 教科文；密西西比大型中心，仍非埃及级密度。",
-    "en": "Cahokia archive (library-seed-rich): Pauketat/Emerson/Milner/Fowler + UNESCO; major Mississippian centre; not yet Egypt-level density."
+    "zh": "卡霍基亚档案加厚（种子 Batch E）：僧侣墩、木垣、土墩72与教科文198；仍标 library-seed-rich。",
+    "en": "Cahokia densified (seed Batch E): Monks Mound, Woodhenge, Mound 72 and UNESCO 198; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
     "src-cahokia-alt-2010",
+    "src-cahokia-alt-deepen-e",
+    "src-cahokia-american-bottom-deepen-e",
     "src-cahokia-barrier-orientation",
     "src-cahokia-collins-orientation",
+    "src-cahokia-east-st-louis-deepen-e",
     "src-cahokia-emerson-1997",
+    "src-cahokia-emerson-deepen-e",
     "src-cahokia-emerson-pauketat-orientation",
     "src-cahokia-fowler-1997",
+    "src-cahokia-fowler-deepen-e",
     "src-cahokia-holley-orientation",
+    "src-cahokia-iseminger-deepen-e",
     "src-cahokia-iseminger-orientation",
+    "src-cahokia-kelly-deepen-e",
     "src-cahokia-kelly-orientation",
     "src-cahokia-milner-1998",
+    "src-cahokia-milner-deepen-e",
+    "src-cahokia-mound72-deepen-e",
+    "src-cahokia-nps-deepen-e",
     "src-cahokia-nps-orientation",
     "src-cahokia-pauketat-2004",
     "src-cahokia-pauketat-2009",
+    "src-cahokia-pauketat-deepen-e",
+    "src-cahokia-phase-labels-deepen-e",
     "src-cahokia-unesco-198",
-    "src-cahokia-unesco-docs"
+    "src-cahokia-unesco-198-deepen-e",
+    "src-cahokia-unesco-docs",
+    "src-cahokia-unesco-docs-deepen-e",
+    "src-cahokia-woodhenge-deepen-e"
   ],
   "site_ids": [
+    "site-cahokia-east-st-louis-deepen-e",
     "site-cahokia-east-st-louis-orientation",
+    "site-cahokia-mitchell-deepen-e",
     "site-cahokia-mitchell-orientation",
     "site-cahokia-monks-mound",
+    "site-cahokia-monks-mound-deepen-e",
     "site-cahokia-mound-72-orientation",
+    "site-cahokia-mound72-deepen-e",
+    "site-cahokia-plaza-grand-e",
+    "site-cahokia-powell-mound-deepen-e",
     "site-cahokia-powell-mound-orientation",
     "site-cahokia-st-louis-mound-group-orientation",
+    "site-cahokia-st-louis-mounds-e",
+    "site-cahokia-woodhenge-deepen-e",
     "site-cahokia-woodhenge-orientation"
   ],
   "period_ids": [
     "period-cahokia-lohmann",
+    "period-cahokia-lohmann-deepen-e",
     "period-cahokia-mississippian-floruit",
+    "period-cahokia-mississippian-floruit-e",
+    "period-cahokia-moorehead-deepen-e",
     "period-cahokia-moorehead-sand-prairie",
-    "period-cahokia-stirling"
+    "period-cahokia-stirling",
+    "period-cahokia-stirling-deepen-e"
   ],
   "claim_ids": [
+    "claim-cahokia-alt-identity-seed-e",
     "claim-cahokia-american-bottom",
+    "claim-cahokia-american-bottom-seed-e",
+    "claim-cahokia-decline-open-seed-e",
+    "claim-cahokia-east-st-louis-seed-e",
     "claim-cahokia-emerson-power",
+    "claim-cahokia-emerson-power-seed-e",
     "claim-cahokia-fowler-atlas",
+    "claim-cahokia-fowler-atlas-seed-e",
     "claim-cahokia-milner-chiefdom",
+    "claim-cahokia-milner-chiefdom-seed-e",
     "claim-cahokia-mississippian-centre",
     "claim-cahokia-monks-mound-frame",
+    "claim-cahokia-monks-mound-scale-seed-e",
     "claim-cahokia-mound72-mortuary",
+    "claim-cahokia-mound72-mortuary-seed-e",
+    "claim-cahokia-nps-portal-seed-e",
     "claim-cahokia-pauketat-city",
+    "claim-cahokia-pauketat-city-seed-e",
     "claim-cahokia-phase-labels",
+    "claim-cahokia-phase-labels-seed-e",
+    "claim-cahokia-plaza-planning-seed-e",
     "claim-cahokia-unesco-listed",
-    "claim-cahokia-woodhenge"
+    "claim-cahokia-unesco-listing-seed-e",
+    "claim-cahokia-woodhenge",
+    "claim-cahokia-woodhenge-seed-e"
   ],
   "object_ids": [
+    "asm-cahokia-monks-mound-e",
     "asm-cahokia-monks-mound-frame",
     "asm-cahokia-mound-plaza-frame",
+    "asm-cahokia-mound72-mortuary-e",
+    "asm-cahokia-plaza-planning-e",
+    "asm-cahokia-woodhenge-e",
     "asm-cahokia-woodhenge-frame"
   ],
   "related_ids": [
@@ -70,11 +117,11 @@
   "markdown_path": "data/civilizations/civ-cahokia.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_seed_batch_e.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-26"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

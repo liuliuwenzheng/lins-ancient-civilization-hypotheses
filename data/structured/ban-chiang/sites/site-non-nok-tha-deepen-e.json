@@ -1,0 +1,33 @@
+{
+  "id": "site-non-nok-tha-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "农诺塔加深",
+    "en": "Non Nok Tha deepen",
+    "native": null
+  },
+  "kind_note": "Comparative NE Thai prehistoric site",
+  "region": "Khon Kaen region",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "东北泰比较史前遗址加深。",
+    "en": "Comparative NE Thai prehistoric site deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-ban-chiang-non-nok-tha-deepen-e",
+    "src-ban-chiang-higham-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

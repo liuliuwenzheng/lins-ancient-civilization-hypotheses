@@ -11,25 +11,41 @@
   "region": "South America / central highland Peru (Ayacucho) with Middle Horizon provinces",
   "time_span": "Middle Horizon expansion ca. 600–1000 CE (Schreiber / Isbell frames)",
   "summary": {
-    "zh": "瓦里档案（library-seed-rich）：Schreiber/Isbell + 都城与行省遗址；仍非埃及级密度。",
-    "en": "Wari archive (library-seed-rich): Schreiber/Isbell + capital and provincial sites; not yet Egypt-level density."
+    "zh": "瓦里档案加厚（种子 Batch E）：阿亚库乔都城、皮基拉塔、塞罗鲍尔与中地平行省；仍标 library-seed-rich。",
+    "en": "Wari densified (seed Batch E): Ayacucho capital, Pikillacta, Cerro Baúl and Middle Horizon provinces; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
     "src-wari-andes-cleveland-catalogue",
+    "src-wari-azangaro-deepen-e",
+    "src-wari-bergh-cleveland-deepen-e",
     "src-wari-bergh-cleveland-orientation",
     "src-wari-brewster-wray-orientation",
+    "src-wari-cleveland-web-deepen-e",
+    "src-wari-conchopata-deepen-e",
     "src-wari-conchopata-orientation",
+    "src-wari-glowacki-cusco-deepen-e",
     "src-wari-glowacki-orientation",
     "src-wari-isbell-knobloch-orientation",
     "src-wari-isbell-schreiber-1978",
+    "src-wari-isbell-schreiber-deepen-e",
+    "src-wari-jennings-deepen-e",
     "src-wari-jennings-orientation",
     "src-wari-mcewan-pikillacta",
+    "src-wari-mcewan-pikillacta-deepen-e",
     "src-wari-menzel-orientation",
+    "src-wari-menzel-seriation-deepen-e",
     "src-wari-schreiber-1992",
+    "src-wari-schreiber-deepen-e",
     "src-wari-schreiber-wari-empire",
+    "src-wari-tiwanaku-compare-e",
     "src-wari-topic-isbell",
+    "src-wari-topic-isbell-deepen-e",
     "src-wari-tung-bioarch",
-    "src-wari-williams-cerro-baul"
+    "src-wari-tung-bioarch-deepen-e",
+    "src-wari-viracochapampa-deepen-e",
+    "src-wari-williams-cerro-baul",
+    "src-wari-williams-cerro-baul-deepen-e"
   ],
   "site_ids": [
     "site-cerro-baul-wari",
@@ -38,31 +54,62 @@
     "site-jincamocco-orientation",
     "site-pikillacta",
     "site-viracochapampa-orientation",
-    "site-wari-azangaro-orientation"
+    "site-wari-azangaro-deepen-e",
+    "site-wari-azangaro-orientation",
+    "site-wari-cerro-baul-deepen-e",
+    "site-wari-conchopata-deepen-e",
+    "site-wari-huari-core-deepen-e",
+    "site-wari-jincamocco-deepen-e",
+    "site-wari-pataraya-orientation-e",
+    "site-wari-pikillacta-deepen-e",
+    "site-wari-viracochapampa-deepen-e"
   ],
   "period_ids": [
+    "period-wari-collapse-debate-e",
     "period-wari-early-mh",
+    "period-wari-early-mh-deepen-e",
     "period-wari-floruit",
+    "period-wari-floruit-deepen-e",
     "period-wari-late-mh",
+    "period-wari-late-mh-deepen-e",
     "period-wari-middle-horizon"
   ],
   "claim_ids": [
+    "claim-wari-azangaro-hinterland-seed-e",
     "claim-wari-capital-ayacucho",
     "claim-wari-cerro-baul",
+    "claim-wari-cerro-baul-colony-seed-e",
+    "claim-wari-cleveland-arts-seed-e",
     "claim-wari-cleveland-exhibit",
+    "claim-wari-collapse-open-seed-e",
     "claim-wari-conchopata",
+    "claim-wari-conchopata-offering-seed-e",
     "claim-wari-do-volume",
+    "claim-wari-glowacki-cusco-seed-e",
+    "claim-wari-huari-capital-seed-e",
     "claim-wari-jennings-debate",
+    "claim-wari-jennings-hegemony-seed-e",
+    "claim-wari-menzel-mh-seriation-seed-e",
     "claim-wari-menzel-seriation",
     "claim-wari-middle-horizon-expansion",
+    "claim-wari-pataraya-coast-seed-e",
     "claim-wari-pikillacta",
+    "claim-wari-pikillacta-grid-seed-e",
     "claim-wari-rectangular-plan",
-    "claim-wari-schreiber-empire"
+    "claim-wari-rectangular-plan-seed-e",
+    "claim-wari-schreiber-empire",
+    "claim-wari-schreiber-provincial-seed-e",
+    "claim-wari-tung-bioarch-seed-e",
+    "claim-wari-viracochapampa-north-seed-e"
   ],
   "object_ids": [
+    "asm-wari-face-neck-jar-e",
+    "asm-wari-offering-ceramic-e",
     "asm-wari-offering-ceramic-frame",
     "asm-wari-provincial-architecture-frame",
-    "asm-wari-rectangular-enclosure-frame"
+    "asm-wari-provincial-enclosure-e",
+    "asm-wari-rectangular-enclosure-frame",
+    "asm-wari-tapestry-textile-e"
   ],
   "related_ids": [
     "civ-andes",
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-wari.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_seed_batch_e.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-26"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

@@ -1,0 +1,35 @@
+{
+  "id": "claim-wari-schreiber-provincial-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Schreiber 等将瓦里行省行政理解为矩形规划中心与腹地控制的组合。",
+    "en": "Schreiber and peers frame Wari provincial administration as planned rectangular centres plus hinterland control.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-jincamocco-deepen-e",
+    "site-wari-pikillacta-deepen-e"
+  ],
+  "period_ids": [
+    "period-wari-floruit-deepen-e"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-schreiber-deepen-e",
+    "src-wari-isbell-schreiber-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

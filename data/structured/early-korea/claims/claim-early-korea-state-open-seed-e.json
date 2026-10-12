@@ -1,0 +1,32 @@
+{
+  "id": "claim-early-korea-state-open-seed-e",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "早期国家形成机制（征服、联盟、礼制）仍是开放假说场。",
+    "en": "Mechanisms of early state formation (conquest, alliance, ritual) remain an open hypothesis field.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-early-korea-state-formation-e"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-barnes-deepen-e",
+    "src-early-korea-byington-deepen-e"
+  ],
+  "disclaimer": "State-formation mechanisms unsettled.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

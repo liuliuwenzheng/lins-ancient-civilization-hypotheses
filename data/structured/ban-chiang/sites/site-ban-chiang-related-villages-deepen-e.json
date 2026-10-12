@@ -1,0 +1,33 @@
+{
+  "id": "site-ban-chiang-related-villages-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "相关村落群加深",
+    "en": "Related villages deepen",
+    "native": null
+  },
+  "kind_note": "NE Thai related prehistoric villages",
+  "region": "Udon / Sakon Nakhon region",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "东北泰相关史前村落加深。",
+    "en": "Related NE Thai prehistoric villages deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-ban-chiang-white-deepen-e",
+    "src-ban-chiang-higham-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

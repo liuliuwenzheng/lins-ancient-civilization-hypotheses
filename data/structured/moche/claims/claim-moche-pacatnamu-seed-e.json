@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-pacatnamu-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帕卡特纳穆为杰奎特佩克河口莫切–后莫切礼仪景观提供指针。",
+    "en": "Pacatnamu orients Moche–post-Moche ceremonial landscape at the Jequetepeque mouth.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-pacatnamu-deepen-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-pacatnamu-deepen-e",
+    "src-moche-castillo-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

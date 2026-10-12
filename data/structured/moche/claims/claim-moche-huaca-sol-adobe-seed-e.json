@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-huaca-sol-adobe-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "太阳金字塔土坯体量是莫切河谷纪念性劳动组织的可见尺度。",
+    "en": "Huaca del Sol’s adobe mass is a visible scale of monumental labour organisation in the Moche valley.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-huaca-sol-orientation-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-huacas-project-deepen-e",
+    "src-moche-chapdelaine-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

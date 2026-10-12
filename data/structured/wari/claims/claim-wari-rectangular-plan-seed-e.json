@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-rectangular-plan-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "矩形围场规划是识别瓦里行省建筑的常用形态指标。",
+    "en": "Rectangular enclosure planning is a common morphological marker used to identify Wari provincial architecture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-wari-provincial-enclosure-e"
+  ],
+  "sources": [
+    "src-wari-topic-isbell-deepen-e",
+    "src-wari-schreiber-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

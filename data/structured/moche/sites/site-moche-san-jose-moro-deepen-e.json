@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-san-jose-moro-deepen-e",
+  "entity": "site",
+  "names": {
+    "zh": "圣何塞德莫罗加深",
+    "en": "San José de Moro deepen",
+    "native": null
+  },
+  "kind_note": "Elite cemetery / southern Moche",
+  "region": "Jequetepeque valley",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "精英墓地/南莫切加深。",
+    "en": "Elite cemetery / southern Moche deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-castillo-deepen-e",
+    "src-moche-donnan-deepen-e"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

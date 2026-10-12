@@ -1,0 +1,45 @@
+{
+  "id": "asm-wari-face-neck-jar-e",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦里面颈罐组合",
+    "en": "Wari face-neck jar assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-conchopata-deepen-e"
+  ],
+  "period_ids": [
+    "period-wari-floruit-deepen-e"
+  ],
+  "summary": {
+    "zh": "面颈罐与中地平陶器类型指针。",
+    "en": "Face-neck jar and MH ceramic-type orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-menzel-seriation-deepen-e",
+    "src-wari-conchopata-deepen-e"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

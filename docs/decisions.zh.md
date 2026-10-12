@@ -938,3 +938,15 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-12-26 — 种子包 Batch E 朝更密档案加厚
+
+**决定：** 对 `wari`、`ban-chiang`、`early-korea`、`moche`、`cahokia` 从约 15 来源壳加厚至热门加厚带（约 30 来源）；**保持 `library-seed-rich`**（不升 fact-library）。诚信优先：无伪造页码/发现/配图/坐标。主张 ID 使用 `-seed-e` 后缀以避免与种子 ID 碰撞（Batch D 教训）。
+
+**每包大约增量：** +15 来源 · +8 遗址 · +4 时段 · +4 对象 · +15 主张 · +3 媒体。
+
+**坐标补填：** 本轮无新填（指针遗址留空；班清/卡霍基亚既有教科文坐标保留）。
+
+**报告：** [`docs/audits/pass-2026-10-12-seed-batch-e.md`](audits/pass-2026-10-12-seed-batch-e.md) · [中文](audits/pass-2026-10-12-seed-batch-e.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

@@ -1,0 +1,30 @@
+{
+  "id": "claim-cahokia-alt-identity-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Alt 等实践/认同研究追问“成为卡霍基亚人”的日常与迁徙维度。",
+    "en": "Alt and related practice/identity work asks how everyday life and migration made “Cahokians.”",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-alt-deepen-e",
+    "src-cahokia-pauketat-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

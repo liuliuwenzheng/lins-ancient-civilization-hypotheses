@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-huacas-project-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "月亮金字塔项目门户汇总壁画、牺牲与城市发掘入口（T 级）。",
+    "en": "The Huaca de la Luna project portal aggregates murals, sacrifice and urban-excavation entry points (tier T).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-huaca-luna-deepen-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-huacas-project-deepen-e",
+    "src-moche-uceda-pubs-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

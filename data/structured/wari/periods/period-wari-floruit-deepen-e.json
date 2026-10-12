@@ -1,0 +1,36 @@
+{
+  "id": "period-wari-floruit-deepen-e",
+  "entity": "period",
+  "names": {
+    "zh": "瓦里繁荣加深窗",
+    "en": "Wari floruit deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "time": {
+    "label": "Administrative floruit / provincial peak",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Administrative floruit / provincial peak"
+  },
+  "summary": {
+    "zh": "行政繁荣与行省高峰。",
+    "en": "Administrative floruit / provincial peak.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-schreiber-deepen-e",
+    "src-wari-mcewan-pikillacta-deepen-e"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

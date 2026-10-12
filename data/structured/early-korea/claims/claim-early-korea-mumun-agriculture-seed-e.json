@@ -1,0 +1,32 @@
+{
+  "id": "claim-early-korea-mumun-agriculture-seed-e",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "无纹农业聚落文献强调稻作/杂谷与定居强化的并行。",
+    "en": "Mumun agricultural-settlement literature stresses parallel intensification of rice/millets and sedentism.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-early-korea-mumun-settlement-deepen-e"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-early-korea-mumun-deepen-e",
+    "src-early-korea-nelson-deepen-e"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_e.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-26"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
