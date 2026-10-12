@@ -19,13 +19,17 @@
     "src-mesopotamia-postgate-abu-salabikh-1983",
     "src-mesopotamia-postgate-1992"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 32.252627,
+    "lon": 45.054447,
+    "precision_note": "Pleiades place 912950 (Tell Abu Salabikh) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site; later ASE volumes not yet registered."
+    "derived_on": "2026-10-12",
+    "notes": "New site; later ASE volumes not yet registered. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

@@ -1,0 +1,31 @@
+{
+  "id": "media-adams-heartland-isac",
+  "entity": "media",
+  "title": {
+    "zh": "Adams《Heartland of Cities》ISAC 开放 PDF",
+    "en": "Adams Heartland of Cities open PDF (ISAC)",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-adams-1981"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "University of Chicago ISAC",
+    "upstream_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/heartland_of_cities.pdf",
+    "notes": "Outbound open PDF only; no rehosted binary. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-adams-1981.md",
+      "data/structured/mesopotamia/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

@@ -20,13 +20,17 @@
     "src-indus-meadow-harappa-1991",
     "src-indus-kenoyer-1991"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.628056,
+    "lon": 72.863889,
+    "precision_note": "GeoNames Harappa archaeological/prehistoric site N30 37 41 E72 51 50 (decimal); accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
       "sources/src-indus-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

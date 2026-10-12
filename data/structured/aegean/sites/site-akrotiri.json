@@ -18,14 +18,18 @@
     "src-aegean-doumas-thera-1983",
     "src-aegean-manning-science-2006"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 36.351534,
+    "lon": 25.403744,
+    "precision_note": "Pleiades place 599478 (Akrotiri) representative point; CSV dump 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "derived_on": "2026-10-12",
+    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

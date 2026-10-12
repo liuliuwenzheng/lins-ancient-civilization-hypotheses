@@ -1,0 +1,31 @@
+{
+  "id": "media-schliemann-mycenae-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Schliemann《迈锡尼》叙事 Archive",
+    "en": "Schliemann Mycenae narrative Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/mycenaenarrative00schl",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-aegean-schliemann-mycenae-1878"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive digitization",
+    "upstream_url": "https://archive.org/details/mycenaenarrative00schl",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-schliemann-mycenae-1878.md",
+      "data/structured/aegean/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

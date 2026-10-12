@@ -18,13 +18,17 @@
   "sources": [
     "src-egypt-naville-deir-el-bahari-i-1895"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 25.73755,
+    "lon": 32.607503,
+    "precision_note": "Pleiades place 512504673 (Deir el-Bahari) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "New site for density pass 3; no invented coordinates."
+    "notes": "New site for density pass 3; no invented coordinates. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "media-petrie-abydos-i-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Petrie《阿拜多斯》第一册 Internet Archive",
+    "en": "Petrie Abydos Part I Internet Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/abydos1petr",
+  "local_path": null,
+  "object_ids": [
+    "asm-abydos-temenos-eef"
+  ],
+  "sources": [
+    "src-egypt-petrie-abydos-i-1902"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive / Egypt Exploration Fund memoir digitization",
+    "upstream_url": "https://archive.org/details/abydos1petr",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-abydos-i-1902.md",
+      "data/structured/egypt/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

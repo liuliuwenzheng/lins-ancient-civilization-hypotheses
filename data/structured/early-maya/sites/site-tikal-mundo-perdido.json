@@ -20,13 +20,17 @@
     "src-maya-sharer-traxler-2006",
     "src-maya-coe-houston-2015"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.222049,
+    "lon": -89.623542,
+    "precision_note": "GeoNames Sitio Arqueológico Tikal (S.ANS) 17.222049, -89.623542 — site-level centroid for Tikal complex incl. Mundo Perdido; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

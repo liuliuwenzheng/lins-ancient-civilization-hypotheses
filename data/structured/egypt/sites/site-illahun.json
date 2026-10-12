@@ -18,13 +18,17 @@
   "sources": [
     "src-egypt-petrie-illahun-kahun-gurob-1891"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 29.23602,
+    "lon": 30.983289,
+    "precision_note": "Pleiades place 736953 (el-Lahun) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "New site for density pass 3; no invented coordinates."
+    "notes": "New site for density pass 3; no invented coordinates. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

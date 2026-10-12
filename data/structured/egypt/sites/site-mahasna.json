@@ -18,13 +18,17 @@
   "sources": [
     "src-egypt-garstang-mahasna-bet-khallaf-1903"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 26.260644,
+    "lon": 31.840123,
+    "precision_note": "Pleiades place 868515125 (el-Mahasna) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "New site for density pass 3; no invented coordinates."
+    "notes": "New site for density pass 3; no invented coordinates. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

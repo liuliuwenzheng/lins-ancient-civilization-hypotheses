@@ -1,0 +1,31 @@
+{
+  "id": "media-lanning-peru-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Lanning《印加之前的秘鲁》Internet Archive",
+    "en": "Lanning Peru Before the Incas Internet Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/perubeforeincas00lann",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-andes-lanning-peru-before-1967"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive digitization",
+    "upstream_url": "https://archive.org/details/perubeforeincas00lann",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-lanning-peru-before-1967.md",
+      "data/structured/andes/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

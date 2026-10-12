@@ -19,13 +19,17 @@
     "src-mesopotamia-strommenger-habuba-kabira-1980",
     "src-mesopotamia-algaze-2008"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 36.150189,
+    "lon": 38.060867,
+    "precision_note": "Pleiades place 923122730 (Tell Habuba Kabira) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site outside southern alluvium but sourced for Uruk-related contact; coords omitted."
+    "derived_on": "2026-10-12",
+    "notes": "New site outside southern alluvium but sourced for Uruk-related contact; coords omitted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

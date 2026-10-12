@@ -22,14 +22,18 @@
     "src-maya-matheny-tigre-mirador-1990",
     "src-maya-hansen-tigre-mirador"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.75611,
+    "lon": -89.92088,
+    "precision_note": "GeoNames 3592548 El Mirador (S.ANS archaeological/prehistoric site); accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

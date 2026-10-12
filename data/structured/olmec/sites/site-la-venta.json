@@ -23,14 +23,18 @@
     "src-olmec-rust-sharer-la-venta-1988",
     "src-olmec-stirling-bae-138-1943"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 18.125,
+    "lon": -93.991667,
+    "precision_note": "GeoNames Ruinas Arqueológicas La Venta (S.ANS) 18.125, -93.9916667; accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-olmec.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

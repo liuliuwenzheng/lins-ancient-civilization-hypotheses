@@ -1,0 +1,33 @@
+{
+  "id": "media-petrie-amarna-heidelberg",
+  "entity": "media",
+  "title": {
+    "zh": "Petrie《泰勒阿玛尔纳》海德堡数字化",
+    "en": "Petrie Tell el-Amarna Heidelberg digitization",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://digi.ub.uni-heidelberg.de/diglit/petrie1894",
+  "local_path": null,
+  "object_ids": [
+    "asm-amarna-petrie-1894"
+  ],
+  "sources": [
+    "src-egypt-petrie-tell-el-amarna-1894"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "University Library Heidelberg",
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/petrie1894",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-tell-el-amarna-1894.md",
+      "data/structured/egypt/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

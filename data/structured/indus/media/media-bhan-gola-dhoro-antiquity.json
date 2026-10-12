@@ -1,0 +1,31 @@
+{
+  "id": "media-bhan-gola-dhoro-antiquity",
+  "entity": "media",
+  "title": {
+    "zh": "Bhan 等戈拉多罗 Antiquity 项目页",
+    "en": "Bhan et al. Gola Dhoro Antiquity project gallery",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://antiquity.ac.uk/projgall/bhan304",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-indus-bhan-gola-dhoro-antiquity-2005"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Antiquity Project Gallery",
+    "upstream_url": "https://antiquity.ac.uk/projgall/bhan304",
+    "notes": "Outbound project-gallery page only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-bhan-gola-dhoro-antiquity-2005.md",
+      "data/structured/indus/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

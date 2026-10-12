@@ -1,0 +1,31 @@
+{
+  "id": "media-green-nissen-zatu-heidelberg",
+  "entity": "media",
+  "title": {
+    "zh": "Green & Nissen ZATU 海德堡 Propylaeum",
+    "en": "Green & Nissen ZATU Heidelberg Propylaeum-DOK",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archiv.ub.uni-heidelberg.de/propylaeumdok/1234/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-green-nissen-zatu-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Heidelberg Propylaeum-DOK",
+    "upstream_url": "https://archiv.ub.uni-heidelberg.de/propylaeumdok/1234/",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-green-nissen-zatu-1987.md",
+      "data/structured/mesopotamia/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

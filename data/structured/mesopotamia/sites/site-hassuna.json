@@ -18,13 +18,17 @@
   "sources": [
     "src-mesopotamia-lloyd-safar-hassuna-1945"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 36.464,
+    "lon": 42.9635,
+    "precision_note": "Pleiades place 130631535 (Tell Hassuna) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

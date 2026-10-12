@@ -1,0 +1,31 @@
+{
+  "id": "media-blomster-pottery-science",
+  "entity": "media",
+  "title": {
+    "zh": "Blomster 等奥尔梅克陶器 Science 2005",
+    "en": "Blomster et al. Olmec pottery Science 2005",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.science.org/doi/10.1126/science.1107599",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-olmec-blomster-neff-glascock-2005"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Science / AAAS",
+    "upstream_url": "https://www.science.org/doi/10.1126/science.1107599",
+    "notes": "Outbound DOI/landing page only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-blomster-neff-glascock-2005.md",
+      "data/structured/olmec/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

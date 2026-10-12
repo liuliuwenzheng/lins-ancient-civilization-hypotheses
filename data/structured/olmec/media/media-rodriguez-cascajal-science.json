@@ -1,0 +1,31 @@
+{
+  "id": "media-rodriguez-cascajal-science",
+  "entity": "media",
+  "title": {
+    "zh": "Rodríguez 等卡斯卡哈尔碑 Science 2006",
+    "en": "Rodríguez et al. Cascajal block Science 2006",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://doi.org/10.1126/science.1131492",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-olmec-rodriguez-cascajal-science-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Science / AAAS",
+    "upstream_url": "https://doi.org/10.1126/science.1131492",
+    "notes": "Outbound DOI only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-rodriguez-cascajal-science-2006.md",
+      "data/structured/olmec/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

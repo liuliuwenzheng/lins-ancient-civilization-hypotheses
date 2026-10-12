@@ -20,13 +20,17 @@
     "src-mesopotamia-moorey-kish-1978",
     "src-mesopotamia-roaf-1990"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 32.546088,
+    "lon": 44.593164,
+    "precision_note": "Pleiades place 894028 (Kish) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Upgraded from orientation-only; no invented find inventory numbers."
+    "derived_on": "2026-10-12",
+    "notes": "Upgraded from orientation-only; no invented find inventory numbers. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

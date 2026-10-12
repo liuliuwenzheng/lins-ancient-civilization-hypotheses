@@ -1,0 +1,31 @@
+{
+  "id": "media-manning-thera-plos-2022",
+  "entity": "media",
+  "title": {
+    "zh": "Manning 等圣托里尼年代 PLOS ONE 2022",
+    "en": "Manning et al. Thera chronology PLOS ONE 2022",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274835",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-aegean-manning-thera-plos-2022"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": "CC-BY",
+    "attribution": "PLOS ONE (CC-BY)",
+    "upstream_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274835",
+    "notes": "Outbound open-access article; license CC-BY per PLOS. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-manning-thera-plos-2022.md",
+      "data/structured/aegean/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

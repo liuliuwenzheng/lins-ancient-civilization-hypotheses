@@ -598,3 +598,31 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified:** `export_check` OK (9 packs; early-maya sources 70 after copy).
 
 **Notes:** Integrity over speed. Unaffected packs not vanity-rewritten in this pass.
+
+
+### D-2026-10-12-10 — Cited coordinates + outbound media thicken (nine packs)
+
+**Decision:** Address open W1 (null coordinates) and W4 (thin media) from D-2026-10-12-8/9 with an **honest partial fill** across all nine structured packs. Integrity over completeness.
+
+**Coordinates (84 sites filled; rest left null):**
+| Pack | Filled | Still null |
+|------|-------:|----------:|
+| mesopotamia | 29 | 14 |
+| egypt | 22 | 21 |
+| aegean | 20 | 20 |
+| early-maya | 6 | 34 |
+| indus | 3 | 35 |
+| olmec | 2 | 35 |
+| andes | 1 | 40 |
+| china-bronze | 1 | 38 |
+| sanxingdui | 0 | 36 |
+
+**Sources used:** Pleiades places CSV dump (representative points + place id in `precision_note`); UNESCO WHC published DMS (Caral 1269, Moenjodaro 138, Dholavira 1645, Yinxu 1114-001, San Bartolo Tentative 5738); GeoNames `S.ANS` archaeological sites (El Mirador, La Venta, Chalcatzingo, Harappa, Cuello, Ceibal, Uaxactún, Tikal). Ambiguous title matches and survey/locus/pointer records were **not** filled.
+
+**Media (+30 outbound records; total 28→58):** Rights status `outbound-link-only` (Archive.org / Heidelberg / ISAC / Met Publications / Field Museum / UNESCO / registered DOI landings / PLOS CC-BY). No forged artifact images; `local_path` remains null.
+
+**Audits updated:** [`audit-2026-10-12-mesopotamia-egypt.md`](audits/audit-2026-10-12-mesopotamia-egypt.md), [`audit-2026-10-12-seven-packs.md`](audits/audit-2026-10-12-seven-packs.md) (+ zh).
+
+**Verified:** `export_check` OK (9 packs; citation gate green).
+
+**Notes:** Honest partial fill > fake completeness. Sanxingdui coordinates intentionally remain all-null this pass.

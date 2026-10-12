@@ -21,14 +21,18 @@
     "src-maya-aoyama-ceibal-lithics",
     "src-maya-inomata-aguada-fenix-nature-2020"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 16.510729,
+    "lon": -90.061921,
+    "precision_note": "GeoNames Sitio Arqueológico El Ceibal (S.ANS) 16.510729, -90.061921; accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

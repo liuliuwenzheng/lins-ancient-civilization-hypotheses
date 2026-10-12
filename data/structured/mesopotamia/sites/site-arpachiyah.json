@@ -18,12 +18,16 @@
   "sources": [
     "src-mesopotamia-mallowan-arpachiyah-1935"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 36.49324,
+    "lon": 42.95255,
+    "precision_note": "Pleiades place 722211788 (Tell Arpachiyah) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "sources/src-mesopotamia-mallowan-arpachiyah-1935.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Coordinates not asserted; density pass 4."
+    "notes": "Coordinates not asserted; density pass 4. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

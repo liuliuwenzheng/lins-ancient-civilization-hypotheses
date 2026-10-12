@@ -1,0 +1,31 @@
+{
+  "id": "media-sandweiss-jaguay-science",
+  "entity": "media",
+  "title": {
+    "zh": "Sandweiss 等哈瓜伊湾 Science 论文",
+    "en": "Sandweiss et al. Quebrada Jaguay Science article",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.science.org/doi/10.1126/science.281.5384.1830",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-andes-sandweiss-jaguay-science-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Science / AAAS",
+    "upstream_url": "https://www.science.org/doi/10.1126/science.281.5384.1830",
+    "notes": "Outbound DOI/landing page only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-sandweiss-jaguay-science-1998.md",
+      "data/structured/andes/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

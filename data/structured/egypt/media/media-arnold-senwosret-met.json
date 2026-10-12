@@ -1,0 +1,31 @@
+{
+  "id": "media-arnold-senwosret-met",
+  "entity": "media",
+  "title": {
+    "zh": "Arnold《塞努塞尔特一世金字塔》（大都会出版）",
+    "en": "Arnold The Pyramid of Senwosret I (Met Publications)",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.metmuseum.org/en/met-publications/the-pyramid-of-senwosret-i",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-egypt-arnold-senwosret-i-1988"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Metropolitan Museum of Art Publications",
+    "upstream_url": "https://www.metmuseum.org/en/met-publications/the-pyramid-of-senwosret-i",
+    "notes": "Outbound Met Publications landing page only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-arnold-senwosret-i-1988.md",
+      "data/structured/egypt/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

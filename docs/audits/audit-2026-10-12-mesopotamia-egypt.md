@@ -193,3 +193,35 @@ Recorded as **D-2026-10-12-8** in [`docs/decisions.md`](../decisions.md) / [`doc
 
 - Mesopotamia: `claim-meso-brak-uruk-colony`, `claim-meso-first-city-ranking`, `claim-meso-hassuna-first-village`, `claim-meso-jerwan-first-aqueduct`, `claim-meso-leilan-climate-collapse`, `claim-meso-nuzi-as-early-urban`, `claim-meso-uruk-expansion-model`
 - Egypt: `claim-egypt-amarna-unique-planned-capital`, `claim-egypt-fayum-as-nile-state-cradle`, `claim-egypt-memphis-capital-precision`, `claim-egypt-narmer-single-unification`, `claim-egypt-tasian-before-badarian`, `claim-egypt-uj-earliest-writing`
+
+
+---
+
+## Follow-up — cited coordinates + media thicken (Job C, same day)
+
+**Decision link:** **D-2026-10-12-10**.
+
+**Policy:** Coordinates only from Pleiades CSV dump (representative points), UNESCO WHC published DMS, or GeoNames `S.ANS` archaeological/prehistoric sites. Media = outbound `document-link` / `external-catalog` with rights metadata only. **No invented lat/lon, inventory numbers, or forged images.**
+
+### Mesopotamia + Egypt coordinates
+
+| Pack | Filled | Still null | Notes |
+|------|-------:|----------:|-------|
+| Mesopotamia | **29** / 43 | **14** | Nulls include survey zones, loci (`site-assur-anu-adad`, `site-babylon-merkes`, …), and sites without a clean gazetteer hit (`site-khafajah`, `site-chagar-bazar`, `site-ishchali`, `site-shuruppak-fara`, `site-tell-agrab`, …) |
+| Egypt | **22** / 43 | **21** | Nulls include sub-loci and unmatched Predynastic cemeteries (`site-badari`, `site-dahshur`, `site-buto`, `site-bubastis`, `site-tarkhan`, …) |
+
+Each filled site records `coordinates.precision_note` with the gazetteer id. `site-mari` uses Pleiades Ishtar Temple at Mari as an approximate Tell Hariri centroid (noted). `site-kahun` shares the Pleiades el-Lahun point with `site-illahun` (noted as adjacent town).
+
+### Mesopotamia + Egypt media
+
+| Pack | Before | After | Added (examples) |
+|------|-------:|------:|------------------|
+| Mesopotamia | 1 | **6** | ISAC Adams PDF; Woolley UE IV Archive; Layard Archive; Field Museum Kish catalog; Green & Nissen ZATU Heidelberg |
+| Egypt | 2 | **7** | Petrie Abydos I / Naqada–Ballas Archive; Naville Deir el-Bahari Heidelberg; Arnold Senwosret Met Pubs; Petrie Amarna Heidelberg |
+
+### W1 / W4 status
+
+- **W1:** Partially addressed — honest partial fill, not vanity completeness. Remaining nulls stay null.
+- **W4:** Improved but still outbound-only (by design).
+
+**Gate:** `export_check` OK after Job C.

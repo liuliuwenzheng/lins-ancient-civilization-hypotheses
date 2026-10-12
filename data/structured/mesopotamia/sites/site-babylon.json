@@ -18,13 +18,17 @@
   "sources": [
     "src-mesopotamia-koldewey-babylon-1914"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 32.537297,
+    "lon": 44.424978,
+    "precision_note": "Pleiades place 893951 (Babylon) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "New site unit for density pass 3; coordinates omitted (no invented coords)."
+    "notes": "New site unit for density pass 3; coordinates omitted (no invented coords). Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

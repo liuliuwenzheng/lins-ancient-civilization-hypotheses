@@ -19,13 +19,17 @@
     "src-egypt-borchardt-sahure-plates-1913",
     "src-egypt-lehner-complete-pyramids-1997"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 29.883229,
+    "lon": 31.20974,
+    "precision_note": "Pleiades place 442642787 (Abusir South) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

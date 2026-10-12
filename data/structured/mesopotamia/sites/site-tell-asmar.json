@@ -20,13 +20,17 @@
     "src-mesopotamia-frankfort-oic13-1932",
     "src-mesopotamia-adams-diyala-1965"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 33.48448,
+    "lon": 44.72814,
+    "precision_note": "Pleiades place 90720956 (Eshnunna) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site; coords omitted."
+    "derived_on": "2026-10-12",
+    "notes": "New site; coords omitted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

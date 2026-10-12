@@ -19,13 +19,17 @@
     "src-aegean-seager-pseira-1910",
     "src-aegean-immeros-or-betancourt-pseira"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 35.18635,
+    "lon": 25.85953,
+    "precision_note": "Pleiades place 590017 (Pseira (settlement)) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

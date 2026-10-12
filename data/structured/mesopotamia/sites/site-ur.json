@@ -19,13 +19,17 @@
     "src-mesopotamia-woolley-ur-iv-1955",
     "src-mesopotamia-hall-woolley-alubaid-1927"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.961318,
+    "lon": 46.10542,
+    "precision_note": "Pleiades place 912985 (Ur(i)) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Key sites § Ur; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Key sites § Ur; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

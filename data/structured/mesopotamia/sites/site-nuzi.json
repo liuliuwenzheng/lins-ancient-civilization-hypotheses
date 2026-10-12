@@ -18,12 +18,16 @@
   "sources": [
     "src-mesopotamia-starr-nuzi-1939"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 35.370799,
+    "lon": 44.25477,
+    "precision_note": "Pleiades place 894054 ([Nuzi]) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "sources/src-mesopotamia-starr-nuzi-1939.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Coordinates not asserted; density pass 4."
+    "notes": "Coordinates not asserted; density pass 4. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

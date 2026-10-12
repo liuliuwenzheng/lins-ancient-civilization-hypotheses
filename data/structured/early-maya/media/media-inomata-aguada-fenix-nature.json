@@ -1,0 +1,31 @@
+{
+  "id": "media-inomata-aguada-fenix-nature",
+  "entity": "media",
+  "title": {
+    "zh": "Inomata 等阿瓜达菲尼克斯 Nature 2020",
+    "en": "Inomata et al. Aguada Fénix Nature 2020",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://doi.org/10.1038/s41586-020-2379-4",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-maya-inomata-aguada-fenix-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Nature",
+    "upstream_url": "https://doi.org/10.1038/s41586-020-2379-4",
+    "notes": "Outbound DOI only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-inomata-aguada-fenix-deepen.md",
+      "data/structured/early-maya/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

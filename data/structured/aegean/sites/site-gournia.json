@@ -19,13 +19,17 @@
     "src-aegean-hawes-gournia-1908",
     "src-aegean-pendlebury-crete-1939"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 35.10932,
+    "lon": 25.79267,
+    "precision_note": "Pleiades place 771100776 (Gournia) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

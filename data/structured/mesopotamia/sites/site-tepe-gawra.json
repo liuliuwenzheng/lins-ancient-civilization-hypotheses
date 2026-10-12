@@ -19,13 +19,17 @@
     "src-mesopotamia-speiser-gawra-i-1935",
     "src-mesopotamia-tobler-gawra-ii-1950"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 36.495821,
+    "lon": 43.260437,
+    "precision_note": "Pleiades place 944606650 (Tepe Gawra) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

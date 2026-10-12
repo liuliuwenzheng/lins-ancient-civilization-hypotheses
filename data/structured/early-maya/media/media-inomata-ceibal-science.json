@@ -1,0 +1,31 @@
+{
+  "id": "media-inomata-ceibal-science",
+  "entity": "media",
+  "title": {
+    "zh": "Inomata 等塞瓦尔 Science 2013",
+    "en": "Inomata et al. Ceibal Science 2013",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.science.org/doi/10.1126/science.1234493",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-maya-inomata-ceibal-science-2013"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Science / AAAS",
+    "upstream_url": "https://www.science.org/doi/10.1126/science.1234493",
+    "notes": "Outbound DOI/landing page only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-inomata-ceibal-science-2013.md",
+      "data/structured/early-maya/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

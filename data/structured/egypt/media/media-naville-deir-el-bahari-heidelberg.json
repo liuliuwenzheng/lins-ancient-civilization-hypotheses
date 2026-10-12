@@ -1,0 +1,31 @@
+{
+  "id": "media-naville-deir-el-bahari-heidelberg",
+  "entity": "media",
+  "title": {
+    "zh": "Naville《戴尔巴哈里》第一册海德堡",
+    "en": "Naville Deir el-Bahari Part I Heidelberg",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://digi.ub.uni-heidelberg.de/diglit/naville1895bd1",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-egypt-naville-deir-el-bahari-i-1895"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "University Library Heidelberg",
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/naville1895bd1",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-naville-deir-el-bahari-i-1895.md",
+      "data/structured/egypt/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

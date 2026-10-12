@@ -18,13 +18,17 @@
   "sources": [
     "src-mesopotamia-oates-choga-mami-1969"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 33.883336,
+    "lon": 45.449979,
+    "precision_note": "Pleiades place 166031522 (Choga Mami) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

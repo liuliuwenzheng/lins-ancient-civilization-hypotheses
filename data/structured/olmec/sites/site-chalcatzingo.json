@@ -19,14 +19,18 @@
     "src-olmec-flannery-marcus-olmec-oaxaca",
     "src-olmec-clark-pye-nga-2000"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 18.675278,
+    "lon": -98.766667,
+    "precision_note": "GeoNames Chalcatzingo archaeological/prehistoric site N18 40 31 W98 46 0 (decimal); accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-olmec.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

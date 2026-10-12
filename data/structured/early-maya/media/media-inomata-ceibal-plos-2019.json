@@ -1,0 +1,31 @@
+{
+  "id": "media-inomata-ceibal-plos-2019",
+  "entity": "media",
+  "title": {
+    "zh": "Inomata 等塞瓦尔台地 PLOS ONE 2019",
+    "en": "Inomata et al. Ceibal plateau PLOS ONE 2019",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221943",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-maya-inomata-ceibal-plateau-2019"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": "CC-BY",
+    "attribution": "PLOS ONE (CC-BY)",
+    "upstream_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221943",
+    "notes": "Outbound open-access article; license CC-BY per PLOS. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-inomata-ceibal-plateau-2019.md",
+      "data/structured/early-maya/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

@@ -19,13 +19,17 @@
     "src-mesopotamia-hall-woolley-alubaid-1927",
     "src-mesopotamia-woolley-ur-iv-1955"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.972253,
+    "lon": 46.030514,
+    "precision_note": "Pleiades place 339709658 (Tell al-Ubaid) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site; coords omitted."
+    "derived_on": "2026-10-12",
+    "notes": "New site; coords omitted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

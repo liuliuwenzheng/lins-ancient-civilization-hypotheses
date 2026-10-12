@@ -1,0 +1,31 @@
+{
+  "id": "media-mackay-1938-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Mackay《摩亨佐达罗续掘》Archive",
+    "en": "Mackay Further Excavations at Mohenjo-daro Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/in.gov.ignca.18225",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-indus-mackay-1938"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive / IGNCA digitization",
+    "upstream_url": "https://archive.org/details/in.gov.ignca.18225",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-mackay-1938.md",
+      "data/structured/indus/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "media-gibson-kish-field-museum",
+  "entity": "media",
+  "title": {
+    "zh": "菲尔德博物馆基什藏品目录入口",
+    "en": "Field Museum Kish Collection catalog entry",
+    "native": null
+  },
+  "media_type": "external-catalog",
+  "external_url": "https://www.fieldmuseum.org/page/kish-collection",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-gibson-kish-1972"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Field Museum of Natural History",
+    "upstream_url": "https://www.fieldmuseum.org/page/kish-collection",
+    "notes": "Outbound catalog only; individual image rights remain with the museum. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-gibson-kish-1972.md",
+      "data/structured/mesopotamia/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

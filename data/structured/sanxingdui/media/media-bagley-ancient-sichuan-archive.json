@@ -1,0 +1,31 @@
+{
+  "id": "media-bagley-ancient-sichuan-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Bagley《古代四川》图录 Archive",
+    "en": "Bagley Ancient Sichuan catalogue Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/ancientsichuantr0000unse",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-bagley-ancient-sichuan-2001"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive digitization",
+    "upstream_url": "https://archive.org/details/ancientsichuantr0000unse",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-bagley-ancient-sichuan-2001.md",
+      "data/structured/sanxingdui/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

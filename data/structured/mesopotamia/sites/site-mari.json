@@ -19,13 +19,17 @@
     "src-mesopotamia-parrot-mari-ishtar-1956",
     "src-mesopotamia-roaf-1990"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 34.55126,
+    "lon": 40.885941,
+    "precision_note": "Pleiades place 682549108 (Ishtar Temple at Mari) published location within Tell Hariri; approximate site centroid; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site; palace archives not claimed from this single volume."
+    "derived_on": "2026-10-12",
+    "notes": "New site; palace archives not claimed from this single volume. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

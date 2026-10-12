@@ -18,13 +18,17 @@
   "sources": [
     "src-egypt-petrie-diospolis-parva-1901"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 26.016881,
+    "lon": 32.312497,
+    "precision_note": "Pleiades place 756566 (Diospolis Mikra) representative point for Hu/Diospolis Parva area; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

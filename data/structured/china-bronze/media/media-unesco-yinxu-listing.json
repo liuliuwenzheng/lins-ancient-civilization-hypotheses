@@ -1,0 +1,31 @@
+{
+  "id": "media-unesco-yinxu-listing",
+  "entity": "media",
+  "title": {
+    "zh": "教科文殷墟世界遗产条目",
+    "en": "UNESCO Yin Xu World Heritage listing",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/1114/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-china-unesco-yinxu-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/1114/",
+    "notes": "Heritage listing outbound only; OUV marketing ≠ archaeological verdict. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-unesco-yinxu-2006.md",
+      "data/structured/china-bronze/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

@@ -18,13 +18,17 @@
   "sources": [
     "src-mesopotamia-lloyd-safar-uqair-1943"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 32.781785,
+    "lon": 44.664385,
+    "precision_note": "Pleiades place 678637578 (Tell Uqair) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

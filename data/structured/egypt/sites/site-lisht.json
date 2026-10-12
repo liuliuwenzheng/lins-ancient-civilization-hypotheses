@@ -18,12 +18,16 @@
   "sources": [
     "src-egypt-arnold-senwosret-i-1988"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 29.56751,
+    "lon": 31.223226,
+    "precision_note": "Pleiades place 797229144 (Lisht) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "sources/src-egypt-arnold-senwosret-i-1988.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Coordinates not asserted; density pass 4."
+    "notes": "Coordinates not asserted; density pass 4. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

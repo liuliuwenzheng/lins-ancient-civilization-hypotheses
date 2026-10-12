@@ -20,13 +20,17 @@
     "src-mesopotamia-crawford-sumerian-world-2013",
     "src-mesopotamia-roaf-1990"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 31.560386,
+    "lon": 46.177635,
+    "precision_note": "Pleiades place 912855 ([Girsu]/Tello(h)) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Renamed focus to Girsu/Tello with Parrot; was orientation-only Lagash/Girsu bundle."
+    "derived_on": "2026-10-12",
+    "notes": "Renamed focus to Girsu/Tello with Parrot; was orientation-only Lagash/Girsu bundle. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

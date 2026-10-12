@@ -20,13 +20,17 @@
     "src-egypt-bard-archaeology-2015",
     "src-egypt-petrie-tarkhan-i-1913"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 29.849491,
+    "lon": 31.255061,
+    "precision_note": "Pleiades place 736963 (Memphis) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-22; bibliographic details verified via WebSearch/catalogs; coordinates omitted (not asserted from checked pages)."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-22; bibliographic details verified via WebSearch/catalogs; coordinates omitted (not asserted from checked pages). Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

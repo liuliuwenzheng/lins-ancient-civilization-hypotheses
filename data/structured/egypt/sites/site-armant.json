@@ -18,13 +18,17 @@
   "sources": [
     "src-egypt-mond-myers-armant-1937"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 25.61988,
+    "lon": 32.54305,
+    "precision_note": "Pleiades place 786036 (Hermonthis) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

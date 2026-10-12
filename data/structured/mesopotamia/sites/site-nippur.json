@@ -20,13 +20,17 @@
     "src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978",
     "src-mesopotamia-roaf-1990"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 32.126763,
+    "lon": 45.230564,
+    "precision_note": "Pleiades place 912910 (Nippur/Nufar) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Upgraded from orientation-only in density pass; coords omitted (not asserted from checked pages)."
+    "derived_on": "2026-10-12",
+    "notes": "Upgraded from orientation-only in density pass; coords omitted (not asserted from checked pages). Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

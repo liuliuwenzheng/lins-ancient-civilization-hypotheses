@@ -20,13 +20,17 @@
     "src-aegean-shelmerdine-companion-2008",
     "src-aegean-cline-oxford-handbook-2010"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 35.097965,
+    "lon": 26.260811,
+    "precision_note": "Pleiades place 650881089 (Zakros) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-aegean-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

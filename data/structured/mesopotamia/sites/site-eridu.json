@@ -19,13 +19,17 @@
     "src-mesopotamia-safar-lloyd-mustafa-eridu-1981",
     "src-mesopotamia-crawford-sumerian-world-2013"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.819991,
+    "lon": 45.995643,
+    "precision_note": "Pleiades place 912845 (Eridu) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site in density pass; coords omitted."
+    "derived_on": "2026-10-12",
+    "notes": "New site in density pass; coords omitted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

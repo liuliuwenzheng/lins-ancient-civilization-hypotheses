@@ -21,13 +21,17 @@
     "src-indus-unesco-moenjodaro-1980",
     "src-indus-kenoyer-1991"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 27.329167,
+    "lon": 68.138889,
+    "precision_note": "UNESCO WHC list 138 Moenjodaro published DMS N27 19 45 E68 8 20 (decimal); maps page / periodic reporting"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
       "sources/src-indus-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

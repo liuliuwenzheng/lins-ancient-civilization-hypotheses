@@ -1,0 +1,31 @@
+{
+  "id": "media-coe-jaguars-children-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Coe《美洲豹之子》Archive",
+    "en": "Coe The Jaguar’s Children Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/jaguarschildrenp00coem",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-olmec-coe-jaguars-children-1965"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive digitization",
+    "upstream_url": "https://archive.org/details/jaguarschildrenp00coem",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-coe-jaguars-children-1965.md",
+      "data/structured/olmec/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

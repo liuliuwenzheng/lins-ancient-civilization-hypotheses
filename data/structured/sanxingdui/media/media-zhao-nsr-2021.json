@@ -1,0 +1,31 @@
+{
+  "id": "media-zhao-nsr-2021",
+  "entity": "media",
+  "title": {
+    "zh": "赵殿增等三星堆 NSR 2021",
+    "en": "Zhao Sanxingdui National Science Review 2021",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://doi.org/10.1093/nsr/nwab071",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-zhao-nsr-2021"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "National Science Review / OUP",
+    "upstream_url": "https://doi.org/10.1093/nsr/nwab071",
+    "notes": "Outbound DOI only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-zhao-nsr-2021.md",
+      "data/structured/sanxingdui/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

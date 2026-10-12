@@ -177,3 +177,35 @@ Leilan：发掘季报告事实与干旱崩溃模型假说已正确分栏。纳�
 
 - 两河：`claim-meso-brak-uruk-colony`、`claim-meso-first-city-ranking`、`claim-meso-hassuna-first-village`、`claim-meso-jerwan-first-aqueduct`、`claim-meso-leilan-climate-collapse`、`claim-meso-nuzi-as-early-urban`、`claim-meso-uruk-expansion-model`
 - 埃及：`claim-egypt-amarna-unique-planned-capital`、`claim-egypt-fayum-as-nile-state-cradle`、`claim-egypt-memphis-capital-precision`、`claim-egypt-narmer-single-unification`、`claim-egypt-tasian-before-badarian`、`claim-egypt-uj-earliest-writing`
+
+
+---
+
+## 后续 — 有出处坐标 + 媒体加厚（Job C，同日）
+
+**决策链接：** **D-2026-10-12-10**。
+
+**原则：** 坐标仅来自 Pleiades CSV 代表点、UNESCO WHC 公布 DMS，或 GeoNames `S.ANS` 考古遗址。媒体仅为带权利元数据的 outbound `document-link` / `external-catalog`。**禁止编造经纬度、馆藏号或伪造器物图。**
+
+### 两河 + 埃及坐标
+
+| 包 | 已填 | 仍空 | 说明 |
+|------|-----:|-----:|------|
+| 两河 | **29** / 43 | **14** | 空值含调查区、locus，以及无干净地名词典命中者 |
+| 埃及 | **22** / 43 | **21** | 空值含子点与未匹配的前王朝墓地等 |
+
+每条已填遗址的 `coordinates.precision_note` 记录地名词典 id。
+
+### 两河 + 埃及媒体
+
+| 包 | 之前 | 之后 | 新增示例 |
+|------|-----:|-----:|----------|
+| 两河 | 1 | **6** | ISAC Adams PDF；Woolley UE IV；Layard；菲尔德博物馆基什目录；ZATU 海德堡 |
+| 埃及 | 2 | **7** | Petrie 阿拜多斯/纳卡达 Archive；Naville 海德堡；Arnold 大都会出版；Petrie 阿玛尔纳海德堡 |
+
+### W1 / W4 状态
+
+- **W1：** 部分处理 — 诚实半填，非虚荣补全。
+- **W4：** 有改善，仍仅为 outbound（设计如此）。
+
+**闸门：** Job C 后 `export_check` 通过。

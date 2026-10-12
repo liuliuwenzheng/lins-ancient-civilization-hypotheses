@@ -20,13 +20,17 @@
     "src-mesopotamia-nissen-damerow-englund-1993",
     "src-mesopotamia-crawford-sumerian-world-2013"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 32.718155,
+    "lon": 44.779617,
+    "precision_note": "Pleiades place 733910291 (Jemdet Nasr) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Upgraded from orientation-only with Matthews 2002 P report."
+    "derived_on": "2026-10-12",
+    "notes": "Upgraded from orientation-only with Matthews 2002 P report. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

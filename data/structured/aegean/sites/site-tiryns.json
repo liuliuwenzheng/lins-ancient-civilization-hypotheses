@@ -21,13 +21,17 @@
     "src-aegean-cline-oxford-handbook-2010",
     "src-aegean-mountjoy-mycenaean-pottery-1986"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 37.599283,
+    "lon": 22.799986,
+    "precision_note": "Pleiades place 570740 (Tiryns) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-aegean-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

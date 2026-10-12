@@ -1,0 +1,31 @@
+{
+  "id": "media-rao-lothal-vol2-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Rao《洛塔尔》卷二 Archive",
+    "en": "Rao Lothal volume 2 Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/in.ernet.dli.2015.532560",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-indus-rao-lothal-vol2-1985"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive digitization",
+    "upstream_url": "https://archive.org/details/in.ernet.dli.2015.532560",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-rao-lothal-vol2-1985.md",
+      "data/structured/indus/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

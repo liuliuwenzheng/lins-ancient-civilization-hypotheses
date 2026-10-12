@@ -20,13 +20,17 @@
     "src-mesopotamia-algaze-2008",
     "src-mesopotamia-liverani-uruk-2006"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 31.323375,
+    "lon": 45.639052,
+    "precision_note": "Pleiades place 912986 (Uruk/Orchoe) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Key sites § Uruk; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Key sites § Uruk; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

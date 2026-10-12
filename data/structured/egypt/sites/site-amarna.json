@@ -21,13 +21,17 @@
     "src-egypt-frankfort-pendlebury-akhenaten-ii-1933",
     "src-egypt-pendlebury-akhenaten-iii-1951"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 27.6441,
+    "lon": 30.898182,
+    "precision_note": "Pleiades place 149576487 (Amarna) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

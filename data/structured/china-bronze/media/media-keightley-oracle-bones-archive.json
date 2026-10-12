@@ -1,0 +1,31 @@
+{
+  "id": "media-keightley-oracle-bones-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Keightley《商史资料》Archive",
+    "en": "Keightley Sources of Shang History Archive",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/sourcesofshanghi0000keig",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive digitization",
+    "upstream_url": "https://archive.org/details/sourcesofshanghi0000keig",
+    "notes": "Outbound document digitization only. No forged artifact images; no unverified uploads."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-keightley-oracle-bones-1978.md",
+      "data/structured/china-bronze/"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-10 media thicken; outbound rights metadata only."
+  }
+}

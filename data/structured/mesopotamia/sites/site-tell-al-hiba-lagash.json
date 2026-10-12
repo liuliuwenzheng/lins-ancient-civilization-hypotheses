@@ -20,13 +20,17 @@
     "src-mesopotamia-crawford-sumerian-world-2013",
     "src-mesopotamia-roaf-1990"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 31.419342,
+    "lon": 46.40968,
+    "precision_note": "Pleiades place 959120263 (Lagash) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site separate from Girsu/Tello; modern Penn–Cambridge LAP reports not yet registered as src-* in this pass."
+    "derived_on": "2026-10-12",
+    "notes": "New site separate from Girsu/Tello; modern Penn–Cambridge LAP reports not yet registered as src-* in this pass. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
   }
 }

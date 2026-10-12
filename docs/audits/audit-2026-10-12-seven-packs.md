@@ -129,3 +129,44 @@ English | [中文](audit-2026-10-12-seven-packs.zh.md)
 ## Decision link
 
 Recorded as **D-2026-10-12-9** in [`docs/decisions.md`](../decisions.md) / [`docs/decisions.zh.md`](../decisions.zh.md).
+
+
+---
+
+## Follow-up — cited coordinates + media thicken (Job C, same day)
+
+**Decision link:** **D-2026-10-12-10**. Same gazetteer/media integrity rules as Mesopotamia/Egypt Job C.
+
+### Coordinates filled (seven packs)
+
+| Pack | Filled | Still null | Gazetteer basis (examples) |
+|------|-------:|----------:|------------------------------|
+| andes | **1** / 41 | **40** | UNESCO WHC 1269 Caral DMS only — other Norte Chico sites left null pending clear GeoNames/UNESCO hits |
+| indus | **3** / 38 | **35** | UNESCO Moenjodaro 138 + Dholavira 1645; GeoNames Harappa S.ANS |
+| china-bronze | **1** / 39 | **38** | UNESCO WHC 1114-001 Yinxu Palace area DMS; Erlitou etc. left null (no clean GeoNames S.ANS in this pass) |
+| sanxingdui | **0** / 36 | **36** | No clean Pleiades/GeoNames/UNESCO inscribed centroid verified this pass — **honest skip** |
+| aegean | **20** / 40 | **20** | Pleiades (Knossos palace, Mycenae, Nestor’s Palace, Phaistos, Tiryns, Troy/Ilium, Akrotiri, Mallia, Zakros, Kommos, …); loci/frames left null |
+| olmec | **2** / 37 | **35** | GeoNames La Venta Ruinas S.ANS; Chalcatzingo S.ANS; San Lorenzo left null (no clear S.ANS match this pass) |
+| early-maya | **6** / 40 | **34** | GeoNames El Mirador / Ceibal / Uaxactún / Tikal / Cuello S.ANS; UNESCO Tentative 5738 San Bartolo DMS |
+
+### Media added (seven packs)
+
+| Pack | Before | After |
+|------|-------:|------:|
+| andes | 6 | **8** |
+| indus | 5 | **8** |
+| china-bronze | 1 | **4** |
+| sanxingdui | 1 | **4** |
+| aegean | 4 | **7** |
+| olmec | 4 | **7** |
+| early-maya | 4 | **7** |
+
+Examples: UNESCO Yinxu / Shu tentative listings; Archive.org Schliemann Mycenae / Bagley Ancient Sichuan / Li Chi Anyang; PLOS/Nature/Science DOIs already registered as sources.
+
+### Shared WARN status after Job C
+
+- **W1:** Partially addressed across packs; remaining empties documented — do not invent.
+- **W2 / W3:** Unchanged this pass (substance / ontology).
+- **W4:** Improved; still outbound-link-only by design.
+
+**Gate:** `export_check` OK (9 packs; citation gate green). Media total **58** (was 28 at D-2026-10-12-7 baseline).
