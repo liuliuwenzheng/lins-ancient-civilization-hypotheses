@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Layard 1853《尼尼微与巴比伦废墟中的发现》是其第二次大英博物馆远征的历史性一手记述。",
-    "en": "Layard’s Discoveries in the Ruins of Nineveh and Babylon (1853) is the historical primary narrative of his second British Museum expedition."
+    "zh": "Layard 第二次大英博物馆尼尼微与巴比伦考察见其 1853 年纪事《尼尼微与巴比伦废墟中的发现》（历史性一手叙述；现代标准不同）。",
+    "en": "Layard’s second British Museum expedition to Nineveh and Babylon is documented in his 1853 narrative Discoveries in the Ruins of Nineveh and Babylon (historical primary narrative; modern standards differ)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Softened: expedition narrative; flagged historical standards."
   }
 }

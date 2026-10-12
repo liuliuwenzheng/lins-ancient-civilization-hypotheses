@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Frankfort《塞提一世衣冠冢》(1933) 报告阿拜多斯奥西睿昂建筑与铭文。",
-    "en": "Frankfort, The Cenotaph of Seti I (1933), reports the Osireion architecture and inscriptions at Abydos."
+    "zh": "阿拜多斯奥西里昂（塞提一世衣冠冢）建筑与铭文见 Frankfort 1933。",
+    "en": "At Abydos, the Osireion (cenotaph of Seti I) architecture and inscriptions are documented in Frankfort 1933."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-egypt-frankfort-cenotaph-seti-1933.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Osireion architecture first."
   }
 }

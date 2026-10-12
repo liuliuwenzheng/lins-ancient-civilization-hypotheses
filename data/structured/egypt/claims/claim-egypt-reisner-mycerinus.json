@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Reisner《Mycerinus》(1931) 作为哈佛–波士顿美院联合远征的正式报告，公布吉萨第三金字塔（孟卡拉）金字塔庙、河谷庙与王后金字塔礼拜堂的发掘成果。",
-    "en": "Reisner’s Mycerinus (1931), the Harvard–MFA joint expedition’s final report, publishes excavation results for the Menkaure pyramid temple, valley temple, and queens’ pyramid chapels at Giza."
+    "zh": "吉萨孟卡拉金字塔庙、谷庙与王后金字塔礼拜堂发掘结果见 Reisner《孟卡拉》（1931，哈佛—美艺馆联合队正式报告）。",
+    "en": "At Giza, excavation results for the Menkaure pyramid temple, valley temple, and queens’ pyramid chapels are documented in Reisner Mycerinus (1931, Harvard–MFA joint expedition final report)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only. | Substance tighten 2026-10-12: Tightened: Menkaure temples first."
   }
 }

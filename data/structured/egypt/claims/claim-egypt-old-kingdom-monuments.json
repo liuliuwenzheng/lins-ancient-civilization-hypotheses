@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "古王国阶段，王陵纪念性建筑（萨卡拉阶梯金字塔至吉萨金字塔群）是国家能力与王权意识形态的集中物质表达（通论见 Lehner、Edwards、Shaw 古王国章）。",
-    "en": "In the Old Kingdom, royal monumental tombs (Saqqara Step Pyramid through the Giza pyramids) concentrate expressions of state capacity and royal ideology (surveys: Lehner, Edwards, Shaw Old Kingdom chapter)."
+    "zh": "通论/调查（Lehner；Edwards；Shaw 古王国章）将古王国王室纪念性陵墓——自萨卡拉阶梯金字塔至吉萨金字塔——表述为国家能力与王室意识形态表达的集中体现。",
+    "en": "Surveys (Lehner; Edwards; Shaw Old Kingdom chapter) frame Old Kingdom royal monumental tombs—from Saqqara Step Pyramid through the Giza pyramids—as concentrations of state capacity and royal ideology expressions."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -30,7 +30,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+    "derived_on": "2026-10-12",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only. | Substance tighten 2026-10-12: W3 soften: lead with survey framing attribution."
   }
 }

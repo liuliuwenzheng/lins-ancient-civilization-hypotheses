@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Woolley《乌尔发掘》VI（1974）报告乌尔三朝建筑（除塔庙外），含杜吉/布尔辛陵、城墙与乌尔纳姆石碑。",
-    "en": "Woolley UE VI (1974) reports Ur III buildings at Ur other than the ziggurat, including Dungi/Bur-Sin mausolea, city wall, and the Stela of Ur-Nammu."
+    "zh": "乌尔除塔庙外的乌尔第三王朝建筑——含已刊敦吉/布尔辛陵、城墙与乌尔纳姆石碑语境——见 Woolley UE VI（1974）。",
+    "en": "At Ur, Ur III buildings other than the ziggurat—including Dungi/Bur-Sin mausolea, city wall, and the Stela of Ur-Nammu contexts as published—are documented in Woolley UE VI (1974)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -28,6 +28,6 @@
       "sources/src-mesopotamia-woolley-ur-vi-1974.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Ur III buildings first."
   }
 }

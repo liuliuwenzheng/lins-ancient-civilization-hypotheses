@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Gibson《基什城与地区》(1972) 综合菲尔德博物馆—牛津记录与区域调查，重建基什城址与周边。",
-    "en": "Gibson The City and Area of Kish (1972) synthesizes Field Museum–Oxford records and area survey to reconstruct Kish and its hinterland."
+    "zh": "基什及其腹地可由菲尔德博物馆—牛津记录与区域调查重建，见 Gibson《基什城及地区》（1972）。",
+    "en": "Kish and its hinterland can be reconstructed from Field Museum–Oxford records and area survey, as synthesized in Gibson The City and Area of Kish (1972)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Kish hinterland reconstruction first."
   }
 }

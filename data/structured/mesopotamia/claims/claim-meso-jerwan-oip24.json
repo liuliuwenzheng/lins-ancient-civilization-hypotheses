@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Jacobsen & Lloyd《杰尔万的辛那赫里布渡槽》OIP 24（1935）报告 1933 年发掘的石砌渡槽及戈梅尔渠首相关工作。",
-    "en": "Jacobsen & Lloyd Sennacherib’s Aqueduct at Jerwan (OIP 24, 1935) reports the 1933 excavation of the stone aqueduct and related Gomel canal-head work."
+    "zh": "杰尔万 1933 年发掘的辛那赫里布石砌水道及戈梅尔渠首相关工程见 Jacobsen & Lloyd OIP 24（1935）。「世界第一水道」排名留假说栏。",
+    "en": "At Jerwan, the 1933 excavation of Sennacherib’s stone aqueduct and related Gomel canal-head work is documented in Jacobsen & Lloyd OIP 24 (1935). “World’s first aqueduct” rankings stay in the hypothesis column."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: aqueduct excavation first."
   }
 }

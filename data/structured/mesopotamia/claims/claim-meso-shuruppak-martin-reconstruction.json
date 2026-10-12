@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Martin 1988 年基于早期发掘与残存记录对舒鲁帕克（法拉）做城市重建式综合（强二手）。",
-    "en": "Martin 1988 offers a reconstruction-style synthesis of Shuruppak (Fara) from early excavations and surviving records (strong secondary)."
+    "zh": "舒鲁帕克（法拉）可由早期发掘与现存记录重建，见 Martin 1988（强二级；不能替代已佚原始田野簿）。",
+    "en": "Shuruppak (Fara) can be reconstructed from early excavations and surviving records, as synthesized in Martin 1988 (strong secondary; not a substitute for lost primary fieldbooks)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about Martin 1988 publication character."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about Martin 1988 publication character. | Substance tighten 2026-10-12: Tightened: reconstruction framed as secondary."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "法国队于 1877–1933 年在特罗（吉尔苏）进行约二十次发掘战役；Parrot 1948 年专著综合其战役史与已刊发现。",
-    "en": "French teams conducted about twenty excavation campaigns at Tello (Girsu) between 1877 and 1933; Parrot 1948 synthesizes campaign history and published finds."
+    "zh": "特罗（吉尔苏）在 1877–1933 年间约二十季法国发掘出土建筑与器物；Parrot 1948 综合季史与已刊材料。吉尔苏与希巴（拉格什本城）不得混为一处。",
+    "en": "At Tello (Girsu), about twenty French excavation campaigns between 1877 and 1933 recovered architecture and finds; Parrot 1948 synthesizes campaign history and published materials. Girsu remains distinct from Tell al-Hiba (Lagash city proper)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about excavation history as synthesized by Parrot."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about excavation history as synthesized by Parrot. | Substance tighten 2026-10-12: Tightened: campaign finds first; site distinction kept."
   }
 }

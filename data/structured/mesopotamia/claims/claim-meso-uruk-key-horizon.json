@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "第四千纪乌鲁克阶段是讨论南部早期城市化、复杂行政与对外联系的关键节点。",
-    "en": "The 4th-millennium Uruk period is a key horizon for southern urbanization, administration, and external linkage."
+    "zh": "通论（Algaze、Liverani、Pollock）将第四千纪乌鲁克阶段表述为讨论南部早期城市化、复杂行政与对外联系的关键节点。",
+    "en": "Handbooks (Algaze, Liverani, Pollock) frame the 4th-millennium Uruk period as a key horizon for southern urbanization, administration, and external linkage."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+    "derived_on": "2026-10-12",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only. | Substance tighten 2026-10-12: W3 soften: lead with handbook framing."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Petrie《吉萨的金字塔与神庙》（1883）是对吉萨金字塔与神庙的早期科学测量与发掘记述。",
-    "en": "Petrie’s The Pyramids and Temples of Gizeh (1883) is an early scientific survey/excavation account of the Giza pyramids and temples."
+    "zh": "吉萨金字塔与神庙的早期科学测绘/发掘记述见 Petrie《吉萨金字塔与神庙》（1883）。",
+    "en": "At Giza, an early scientific survey/excavation account of the pyramids and temples is documented in Petrie The Pyramids and Temples of Gizeh (1883)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -28,6 +28,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: Giza survey/excavation first."
   }
 }

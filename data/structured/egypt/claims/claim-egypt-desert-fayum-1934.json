@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Caton-Thompson & Gardner《Desert Fayum》(1934) 报告法尤姆北部新石器调查与科姆 W、科姆 K 等发掘。",
-    "en": "Caton-Thompson & Gardner, The Desert Fayum (1934), report northern Fayum Neolithic survey and excavations including Kom W and Kom K."
+    "zh": "法尤姆北部新石器调查与发掘（含科姆 W、科姆 K 组合）见 Caton-Thompson & Gardner《沙漠法尤姆》（1934）。",
+    "en": "In the northern Fayum, Neolithic survey and excavations including Kom W and Kom K assemblages are documented in Caton-Thompson & Gardner The Desert Fayum (1934)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -28,6 +28,6 @@
       "sources/src-egypt-caton-thompson-desert-fayum-1934.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Fayum Neolithic assemblages first."
   }
 }

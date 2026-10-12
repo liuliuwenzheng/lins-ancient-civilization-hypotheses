@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Loud & Altman《霍尔萨巴德》II（OIP 40，1938）公布杜尔-沙鲁金卫城与城区发掘。",
-    "en": "Loud & Altman’s Khorsabad Part 2 (OIP 40, 1938) publishes the citadel and town of Dur-Sharrukin."
+    "zh": "豪尔萨巴德（杜尔沙鲁金）卫城与城区建筑见 Loud & Altman OIP 40（1938）。",
+    "en": "At Khorsabad (Dur-Sharrukin), the citadel and town architecture are documented in Loud & Altman OIP 40 (1938)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: citadel/town first."
   }
 }

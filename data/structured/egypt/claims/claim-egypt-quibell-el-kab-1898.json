@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Quibell《El Kab》（1898）是埃及研究账户对埃尔卡布的正式报告。",
-    "en": "Quibell’s El Kab (1898) is the Egyptian Research Account primary report on El Kab."
+    "zh": "埃尔卡布发掘见 Quibell《埃尔卡布》（1898，ERA 正式报告）。",
+    "en": "At El Kab, excavations are documented in Quibell El Kab (1898, Egyptian Research Account primary report)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: El Kab excavations first."
   }
 }

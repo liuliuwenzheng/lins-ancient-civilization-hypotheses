@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Parrot《马里考古使命》II.1（1958）正式刊布马里宫殿建筑平面与构造。",
-    "en": "Parrot, Mission archéologique de Mari II.1 (1958), publishes the architecture of the Mari palace."
+    "zh": "马里王宫建筑见 Parrot《马里考古队》II.1（1958）。",
+    "en": "At Mari, the palace architecture is documented in Parrot Mission archéologique de Mari II.1 (1958)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,6 +25,6 @@
       "sources/src-mesopotamia-parrot-mari-palais-arch-1958.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: palace architecture first."
   }
 }

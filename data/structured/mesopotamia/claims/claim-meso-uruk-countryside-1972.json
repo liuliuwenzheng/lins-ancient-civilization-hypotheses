@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Adams & Nissen《乌鲁克乡村》(1972) 报告 1967 年乌鲁克/瓦尔卡周边地表勘察与聚落—水道格局。",
-    "en": "Adams & Nissen The Uruk Countryside (1972) reports the 1967 surface reconnaissance and settlement–watercourse patterning around Uruk/Warka."
+    "zh": "乌鲁克/瓦尔卡周边 1967 年地表踏查记录了聚落—水道格局，见 Adams & Nissen《乌鲁克乡村》（1972）。",
+    "en": "Around Uruk/Warka, the 1967 surface reconnaissance recorded settlement–watercourse patterning, as documented in Adams & Nissen The Uruk Countryside (1972)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: survey patterning first."
   }
 }

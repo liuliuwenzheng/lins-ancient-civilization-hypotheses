@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Strommenger 1980 介绍德国东方学会在哈布巴卡比拉发掘的第四千纪规划城镇及其南部/乌鲁克相关物质文化。",
-    "en": "Strommenger 1980 presents the Deutsche Orient-Gesellschaft excavation of a fourth-millennium planned town at Habuba Kabira with southern/Uruk-related material culture."
+    "zh": "哈布巴卡比拉的第四千纪规划城镇及南部/乌鲁克相关物质文化见 Strommenger 1980（DOG 发掘）。",
+    "en": "At Habuba Kabira, a fourth-millennium planned town with southern/Uruk-related material culture is documented in Strommenger 1980 (DOG excavations)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about excavated town as presented by Strommenger; not an endorsement of expansion models."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about excavated town as presented by Strommenger; not an endorsement of expansion models. | Substance tighten 2026-10-12: Tightened: planned town assemblage first."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Woolley《乌尔发掘》第 IV 卷报告乌尔第三王朝之前的遗址层位与器物。",
-    "en": "Woolley Ur Excavations IV covers sites and objects prior in date to the Third Dynasty of Ur."
+    "zh": "乌尔早于乌尔第三王朝的地点与器物见 Woolley《乌尔发掘》IV。",
+    "en": "At Ur, sites and objects prior in date to the Third Dynasty of Ur are documented in Woolley Ur Excavations IV."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+    "derived_on": "2026-10-12",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only. | Substance tighten 2026-10-12: Tightened: pre-Ur III materials first."
   }
 }

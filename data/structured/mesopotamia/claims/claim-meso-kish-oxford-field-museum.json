@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "牛津–菲尔德博物馆联合远征在基什发掘；Mackay 1925 年公布 A 墓地专报，Moorey 1978 年基于残存记录做强二手重建与牛津藏品目录。",
-    "en": "The Oxford–Field Museum joint expedition excavated Kish; Mackay 1925 published the A Cemetery report, and Moorey 1978 provides a strong secondary reconstruction with an Oxford object catalogue."
+    "zh": "基什牛津—菲尔德博物馆联合发掘出土墓地与聚落语境；A 墓地见 Mackay 1925，Moorey 1978 为强二级重建并含牛津器物目录（不编造馆藏号）。",
+    "en": "At Kish, the Oxford–Field Museum joint expedition excavated cemetery and settlement contexts; the A Cemetery is documented in Mackay 1925, with Moorey 1978 providing a strong secondary reconstruction and Oxford object catalogue (no invented inventory numbers)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -28,7 +28,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about Kish expedition publication history."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about Kish expedition publication history. | Substance tighten 2026-10-12: Tightened: Kish excavation contexts first."
   }
 }

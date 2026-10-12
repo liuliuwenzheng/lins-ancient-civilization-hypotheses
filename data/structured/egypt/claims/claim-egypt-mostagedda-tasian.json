@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Brunton 1937《Mostagedda and the Tasian Culture》报告大英博物馆中埃及远征材料并界定塔西安器物组合。",
-    "en": "Brunton 1937 Mostagedda and the Tasian Culture reports the BM Middle Egypt expedition material and defines the Tasian assemblage."
+    "zh": "莫斯塔盖达大英博物馆中埃及材料界定了塔西亚组合，见 Brunton 1937。塔西亚早于巴达里的相对排序若有争议则留假说栏。",
+    "en": "At Mostagedda, British Museum Middle Egypt expedition material defining the Tasian assemblage is documented in Brunton 1937. Relative ordering of Tasian before Badarian stays in the hypothesis column where contested."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Tasian assemblage first."
   }
 }

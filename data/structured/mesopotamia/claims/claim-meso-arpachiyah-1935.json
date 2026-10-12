@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Mallowan & Rose（1935）《Iraq》2 报告 1933 年阿尔帕契亚发掘的哈拉夫圆屋与彩陶。",
-    "en": "Mallowan & Rose (1935) Iraq 2 report Halaf tholoi and painted pottery from the 1933 Arpachiyah excavations."
+    "zh": "阿尔帕契亚 1933 年发掘出土哈拉夫圆屋（tholoi）与彩陶，见 Mallowan & Rose 1935（Iraq 2）。",
+    "en": "At Arpachiyah, the 1933 excavations yielded Halaf tholoi and painted pottery, as documented in Mallowan & Rose 1935 (Iraq 2)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,6 +27,6 @@
       "sources/src-mesopotamia-mallowan-arpachiyah-1935.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Halaf assemblage first."
   }
 }

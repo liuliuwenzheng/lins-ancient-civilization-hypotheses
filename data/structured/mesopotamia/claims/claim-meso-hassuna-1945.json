@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Lloyd & Safar 1945 JNES 报告伊拉克古物局 1943–1944 在哈苏纳的发掘并界定哈苏纳文化层序。",
-    "en": "Lloyd & Safar 1945 JNES report the Iraqi Directorate’s 1943–1944 excavations at Tell Hassuna and define the Hassuna cultural sequence."
+    "zh": "哈苏纳 1943–1944 年伊拉克古物局发掘界定了哈苏纳文化序列及相关出土，见 Lloyd & Safar 1945（JNES）。「两河第一村落」留假说栏。",
+    "en": "At Tell Hassuna, the 1943–1944 Iraqi Directorate excavations defined the Hassuna cultural sequence and associated finds, as documented in Lloyd & Safar 1945 (JNES). “First village in Mesopotamia” claims stay in the hypothesis column."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Hassuna sequence first."
   }
 }

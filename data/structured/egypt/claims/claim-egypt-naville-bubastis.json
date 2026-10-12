@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Naville《Bubastis》(1891) 公布 EEF 1887–1889 在布巴斯提斯的发掘。",
-    "en": "Naville Bubastis (1891) publishes the EEF 1887–1889 excavations at Bubastis."
+    "zh": "布巴斯提斯 EEF 1887–1889 年发掘见 Naville《布巴斯提斯》（1891）。",
+    "en": "At Bubastis, the EEF 1887–1889 excavations are documented in Naville Bubastis (1891)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Bubastis excavations first."
   }
 }

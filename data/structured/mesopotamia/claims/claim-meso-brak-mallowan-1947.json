@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Mallowan 1947《Iraq》第 9 卷报告布拉克与查加巴扎尔的发掘，包括眼庙等相关语境。",
-    "en": "Mallowan 1947 Iraq volume 9 reports excavations at Tell Brak and Chagar Bazar, including Eye Temple–related contexts."
+    "zh": "布拉克（及相关查加尔巴扎尔工作）的眼庙及相关第四–第三千纪语境见 Mallowan 1947（Iraq 9）。北部「殖民」解读留假说栏。",
+    "en": "At Tell Brak (and related Chagar Bazar work), Eye Temple–related and other 4th–3rd millennium contexts are documented in Mallowan 1947 (Iraq 9). Northern “colony” readings stay in the hypothesis column."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Eye Temple contexts first; colony not fact."
   }
 }

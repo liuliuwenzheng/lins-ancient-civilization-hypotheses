@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Parrot《马里考古团》第 I 卷（1956）正式报告马里伊什塔尔神庙发掘；宫殿档案卷为另册，不在本主张范围内。",
-    "en": "Parrot’s Mission archéologique de Mari vol. I (1956) is the primary report on the Temple of Ishtar at Mari; palace-archive volumes are separate and out of scope for this claim."
+    "zh": "马里伊什塔尔神庙建筑与出土见 Parrot《马里考古队》I（1956）；王宫档案卷另册，不在本主张范围。",
+    "en": "At Mari, the Temple of Ishtar architecture and finds are documented in Parrot Mission archéologique de Mari vol. I (1956); palace-archive volumes are separate and out of scope for this claim."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about Mari Ishtar temple volume scope."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about Mari Ishtar temple volume scope. | Substance tighten 2026-10-12: Tightened: Ishtar temple first."
   }
 }

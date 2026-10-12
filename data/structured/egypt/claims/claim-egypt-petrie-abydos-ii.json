@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Petrie《阿拜多斯》II（1903，EEF Memoir 24）是阿拜多斯田野的正式续卷报告。",
-    "en": "Petrie’s Abydos Part II (1903, EEF Memoir 24) is the primary continuation volume for Abydos fieldwork."
+    "zh": "阿拜多斯后续田野工作见 Petrie《阿拜多斯》II（1903，EEF Memoir 24）。",
+    "en": "At Abydos, continued fieldwork is documented in Petrie Abydos Part II (1903, EEF Memoir 24)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -28,6 +28,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: Abydos fieldwork first."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Winlock《德尔拜赫里发掘 1911–1931》(1942) 综合大都会博物馆队在该址的工作。",
-    "en": "Winlock, Excavations at Deir el Bahri, 1911–1931 (1942), synthesizes the Metropolitan Museum campaigns at the site."
+    "zh": "代尔拜赫里大都会博物馆 1911–1931 年工作见 Winlock 1942 综合。",
+    "en": "At Deir el-Bahri, Metropolitan Museum campaigns of 1911–1931 are synthesized in Winlock 1942."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -25,6 +25,6 @@
       "sources/src-egypt-winlock-deir-el-bahri-1942.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: MMA campaigns first."
   }
 }

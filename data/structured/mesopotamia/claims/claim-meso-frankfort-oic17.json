@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Frankfort OIC 17（1934）公布 OI 伊拉克远征 1932/33 季初步结果。",
-    "en": "Frankfort OIC 17 (1934) publishes 1932/33-season preliminary results of the OI Iraq Expedition."
+    "zh": "东方研究所伊拉克队 1932/33 季初步结果（当时记录的迪亚拉/豪尔萨巴德工作）见 Frankfort OIC 17（1934）。",
+    "en": "1932/33-season preliminary results of the Oriental Institute Iraq Expedition (Diyala/Khorsabad work as then recorded) are documented in Frankfort OIC 17 (1934)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -28,6 +28,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: season results first."
   }
 }

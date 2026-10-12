@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Mond & Myers《Temples of Armant》(1940) 公布阿尔曼特神庙区初步调查（与 1937 墓地报告分册）。",
-    "en": "Mond & Myers Temples of Armant (1940) publishes a preliminary temple-area survey (distinct from the 1937 cemeteries volume)."
+    "zh": "阿尔曼特神庙区初步调查（有别于 1937 墓地卷）见 Mond & Myers《阿尔曼特神庙》（1940）。",
+    "en": "At Armant, a preliminary temple-area survey (distinct from the 1937 cemeteries volume) is documented in Mond & Myers Temples of Armant (1940)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -27,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: temple-area survey first."
   }
 }

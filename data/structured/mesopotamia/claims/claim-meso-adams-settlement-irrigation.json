@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Adams 的区域地表调查综合重建幼发拉底中部洪泛平原上的聚落与灌渠/土地利用格局。",
-    "en": "Adams’s survey synthesis reconstructs settlement and irrigation/land-use patterning on the central Euphrates floodplain."
+    "zh": "幼发拉底中游洪泛平原上的聚落与灌溉/土地利用格局，见此处所引 Adams 调查综合。",
+    "en": "On the central Euphrates floodplain, settlement and irrigation/land-use patterning are reconstructed from survey synthesis in Adams’s published work cited here."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -23,7 +23,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+    "derived_on": "2026-10-12",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only. | Substance tighten 2026-10-12: Tightened: floodplain patterning first."
   }
 }

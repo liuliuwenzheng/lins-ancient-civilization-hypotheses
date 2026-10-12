@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Speiser《特佩高拉》I（1935）与 Tobler《特佩高拉》II（1950）是该遗址联合发掘的正式层位报告。",
-    "en": "Speiser Excavations at Tepe Gawra I (1935) and Tobler Volume II (1950) are the primary final level reports of the joint expedition."
+    "zh": "高拉土丘联合发掘的连续居住层见 Speiser《高拉发掘》I（1935）与 Tobler 第 II 卷（1950）。",
+    "en": "At Tepe Gawra, successive occupational levels from the joint expedition are documented in Speiser Excavations at Tepe Gawra I (1935) and Tobler Volume II (1950)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,7 +26,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: occupational levels first."
   }
 }

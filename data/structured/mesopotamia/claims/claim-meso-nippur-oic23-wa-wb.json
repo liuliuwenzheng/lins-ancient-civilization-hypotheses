@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Gibson 等《尼普尔发掘：第十二季》（OIC 23，1978）公布 Area WA 神庙序列与 Area WB 行政/居住建筑，并含旧巴比伦—加喜特陶器与泥板目录。",
-    "en": "Gibson et al., Excavations at Nippur: Twelfth Season (OIC 23, 1978), publish Area WA temple remains and Area WB administrative/residential buildings, including Old Babylonian–Kassite pottery treatments and a tablet catalogue."
+    "zh": "尼普尔 WA 区神庙遗存与 WB 区行政/居住建筑（含已刊古巴比伦—加喜特陶器处理与泥板目录）见 Gibson 等 OIC 23（1978）。",
+    "en": "At Nippur, Area WA temple remains and Area WB administrative/residential buildings (including Old Babylonian–Kassite pottery treatments and a tablet catalogue as published) are documented in Gibson et al. OIC 23 (1978)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: WA/WB contexts first."
   }
 }

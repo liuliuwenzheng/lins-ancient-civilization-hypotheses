@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Safar、Mustafa 与 Lloyd 1981 年《埃利都》报告公布 1946–1949 年发掘所见欧贝德相关深地层序等成果。",
-    "en": "Safar, Mustafa & Lloyd’s 1981 Eridu report publishes the deep Ubaid-related sequence and related results from the 1946–1949 excavations."
+    "zh": "埃利都 1946–1949 年发掘的欧贝德相关深地层序及建筑/器物见 Safar、Mustafa & Lloyd 1981。",
+    "en": "At Eridu, a deep Ubaid-related stratigraphic sequence and associated architecture/objects from the 1946–1949 excavations are documented in Safar, Mustafa & Lloyd 1981."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about Eridu final report content scope."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about Eridu final report content scope. | Substance tighten 2026-10-12: Tightened: Ubaid sequence first."
   }
 }

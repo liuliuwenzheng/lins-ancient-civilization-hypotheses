@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "de Morgan《Fouilles à Dahchour》(1895) 报告 1894 年达赫舒尔发掘季。",
-    "en": "de Morgan Fouilles à Dahchour (1895) reports the 1894 Dahshur excavation season."
+    "zh": "达赫舒尔 1894 年发掘季见 de Morgan《达赫舒尔发掘》（1895）。",
+    "en": "At Dahshur, the 1894 excavation season is documented in de Morgan Fouilles à Dahchour (1895)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Dahshur season first."
   }
 }

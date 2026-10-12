@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Andrae《亚述城安努—阿达德神庙》WVDOG 10（1909）公布该神庙建筑。",
-    "en": "Andrae Der Anu-Adad-Tempel in Assur (WVDOG 10, 1909) publishes the Anu-Adad temple architecture."
+    "zh": "阿舒尔的阿努—阿达德神庙建筑见 Andrae WVDOG 10（1909）。",
+    "en": "At Assur, the Anu-Adad temple architecture is documented in Andrae WVDOG 10 (1909)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: temple architecture first."
   }
 }

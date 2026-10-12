@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Lloyd & Safar 1943 报告伊拉克古物局在乌盖尔的发掘，包括欧贝德聚落、乌鲁克彩绘神庙与早王朝墓地等语境。",
-    "en": "Lloyd & Safar 1943 report Iraqi Directorate excavations at Tell Uqair, including Ubaid settlement, an Uruk painted temple, and Early Dynastic cemetery contexts."
+    "zh": "乌盖尔伊拉克古物局发掘记录了欧贝德聚落、乌鲁克彩绘神庙与早王朝墓地语境，见 Lloyd & Safar 1943。",
+    "en": "At Tell Uqair, Iraqi Directorate excavations recorded Ubaid settlement, an Uruk painted temple, and Early Dynastic cemetery contexts, as documented in Lloyd & Safar 1943."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Ubaid/Uruk/ED contexts first."
   }
 }

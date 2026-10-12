@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Starr《努兹》两卷（图版 1937；文本 1939）报告约尔甘泰帕 1927–1931 年发掘。",
-    "en": "Starr’s Nuzi report (plates 1937; text 1939) documents the 1927–1931 excavations at Yorgan Tepa."
+    "zh": "约尔甘特帕（努齐）1927–1931 年发掘见 Starr《努齐》报告（图版 1937；正文 1939）。努齐「早期城市」排名留假说栏。",
+    "en": "At Yorgan Tepa (Nuzi), the 1927–1931 excavations are documented in Starr’s Nuzi report (plates 1937; text 1939). “Early urban” rankings for Nuzi stay in the hypothesis column."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,6 +25,6 @@
       "sources/src-mesopotamia-starr-nuzi-1939.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Nuzi excavation first."
   }
 }

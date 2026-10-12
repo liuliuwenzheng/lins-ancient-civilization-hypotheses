@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Zettler（1992）BBVO 11 基于发掘与档案材料研究尼普尔乌尔三朝伊南娜神庙的运作与组织。",
-    "en": "Zettler (1992) BBVO 11 studies the operation and organization of the Ur III Inanna temple at Nippur from excavation and archival evidence."
+    "zh": "尼普尔乌尔第三王朝伊南娜神庙的运作与组织，见 Zettler 1992（BBVO 11）基于发掘与档案的研究。",
+    "en": "At Nippur, the Ur III Inanna temple’s operation and organization are studied from excavation and archival evidence in Zettler 1992 (BBVO 11)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,6 +27,6 @@
       "sources/src-mesopotamia-zettler-inanna-nippur-1992.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Inanna temple operation first."
   }
 }

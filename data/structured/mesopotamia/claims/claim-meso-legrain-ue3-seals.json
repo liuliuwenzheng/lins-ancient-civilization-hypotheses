@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Legrain《乌尔发掘》III（1936）正式公布乌尔古朴印章印痕。",
-    "en": "Legrain’s Ur Excavations III (1936) is the primary publication of archaic seal-impressions from Ur."
+    "zh": "乌尔古风印痕见 Legrain《乌尔发掘》III（1936）。",
+    "en": "Archaic seal-impressions from Ur are documented in Legrain Ur Excavations III (1936)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: seal-impressions first."
   }
 }

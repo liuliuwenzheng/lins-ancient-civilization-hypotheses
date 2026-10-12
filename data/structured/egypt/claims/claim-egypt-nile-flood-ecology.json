@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "早期埃及农业与聚落须参照尼罗河洪水节律、洪泛平原土壤与低地水利约束来理解（Butzer 文化生态学框架）。",
-    "en": "Early Egyptian agriculture and settlement must be understood against Nile flood rhythms, floodplain soils, and lowland hydraulic constraints (Butzer’s cultural-ecology framing)."
+    "zh": "Butzer 文化生态框架认为，理解早期埃及农业与聚落须对照尼罗河洪水节律、洪泛土壤与低地水力约束。",
+    "en": "Butzer’s cultural-ecology framing holds that early Egyptian agriculture and settlement must be understood against Nile flood rhythms, floodplain soils, and lowland hydraulic constraints."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -22,7 +22,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+    "derived_on": "2026-10-12",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only. | Substance tighten 2026-10-12: W3 soften: explicit Butzer attribution."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Postgate《阿布萨拉比赫发掘》第 1 卷（1983）公布西丘地表清理的建筑与器物记录。",
-    "en": "Postgate’s Abu Salabikh Excavations vol. 1 (1983) publishes architectural and object records from West Mound surface clearance."
+    "zh": "阿布萨拉比赫西丘地表清理记录了建筑与器物（组合级），见 Postgate《阿布萨拉比赫发掘》第 1 卷（1983）。",
+    "en": "At Abu Salabikh, West Mound surface clearance recorded architecture and finds (assemblage-level), as documented in Postgate ASE vol. 1 (1983)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about ASE 1 scope."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about ASE 1 scope. | Substance tighten 2026-10-12: Tightened: substance-first from ASE 1 / object summary; no new page-level detail."
   }
 }

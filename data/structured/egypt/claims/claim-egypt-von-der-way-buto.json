@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "von der Way《Tell el-Faraʻîn – Buto I》(AV 83, 1997) 正式公布 1983–1989 年布托早期（前王朝–早王朝）层位发掘成果。",
-    "en": "von der Way’s Tell el-Faraʻîn – Buto I (AV 83, 1997) formally publishes early (Predynastic–Early Dynastic) context results from the 1983–1989 Buto campaigns."
+    "zh": "法拉因（布托）1983–1989 季前王朝—早王朝语境见 von der Way《布托》I（AV 83，1997）。",
+    "en": "At Tell el-Faraʻîn (Buto), Predynastic–Early Dynastic contexts from the 1983–1989 campaigns are documented in von der Way Buto I (AV 83, 1997)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -28,7 +28,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only. | Substance tighten 2026-10-12: Tightened: Buto PD–ED contexts first."
   }
 }

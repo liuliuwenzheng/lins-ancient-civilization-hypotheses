@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Hrouda 编《Isin–Išān Baḥrīyāt》I（1977）公布慕尼黑队 1973–1974 季伊辛发掘成果。",
-    "en": "Hrouda (ed.) Isin–Išān Baḥrīyāt I (1977) publishes the Munich expedition’s 1973–1974 Isin results."
+    "zh": "伊辛（Išān Baḥrīyāt）慕尼黑队 1973–1974 年结果（已刊建筑与出土）见 Hrouda（编）《伊辛》I（1977）。",
+    "en": "At Isin (Išān Baḥrīyāt), the 1973–1974 Munich expedition results (architecture and finds as published) are documented in Hrouda (ed.) Isin–Išān Baḥrīyāt I (1977)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Isin expedition results first."
   }
 }

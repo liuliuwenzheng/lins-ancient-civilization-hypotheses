@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Quibell《Archaic Mastabas》(1923) 公布萨卡拉 1912–1914 古风马斯塔巴。",
-    "en": "Quibell Archaic Mastabas (1923) publishes Saqqara archaic mastabas from the 1912–1914 seasons."
+    "zh": "萨卡拉 1912–1914 季古风马斯塔巴见 Quibell《古风马斯塔巴》（1923）。",
+    "en": "At Saqqara, archaic mastabas from the 1912–1914 seasons are documented in Quibell Archaic Mastabas (1923)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: archaic mastabas first."
   }
 }

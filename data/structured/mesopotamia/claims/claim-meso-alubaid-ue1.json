@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Hall 与 Woolley《乌尔发掘》第 I 卷（1927）报告 al-‘Ubaid 的神庙与墓地等工作。",
-    "en": "Hall & Woolley’s Ur Excavations I (1927) reports temple and cemetery work at al-‘Ubaid."
+    "zh": "欧贝德遗址的神庙与墓地语境见 Hall & Woolley《乌尔发掘》I（1927）。",
+    "en": "At al-‘Ubaid, temple and cemetery contexts are documented in Hall & Woolley Ur Excavations I (1927)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -28,7 +28,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about UE I scope."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about UE I scope. | Substance tighten 2026-10-12: Tightened: temple/cemetery finds first."
   }
 }

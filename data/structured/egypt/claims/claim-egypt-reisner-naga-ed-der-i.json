@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Reisner 1908《纳加埃德戴尔早王朝墓地》I 是赫斯特埃及远征对该处早王朝墓地的正式报告。",
-    "en": "Reisner 1908 The Early Dynastic Cemeteries of Naga-ed-Dêr Part I is the Hearst Egyptian Expedition primary report on those cemeteries."
+    "zh": "纳加埃德戴尔早王朝墓地发掘见 Reisner 1908《纳加埃德戴尔早王朝墓地》I（Hearst 埃及队）。",
+    "en": "At Naga-ed-Dêr, Early Dynastic cemetery excavations are documented in Reisner 1908 The Early Dynastic Cemeteries of Naga-ed-Dêr Part I (Hearst Egyptian Expedition)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -28,6 +28,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: Naga-ed-Dêr cemeteries first."
   }
 }

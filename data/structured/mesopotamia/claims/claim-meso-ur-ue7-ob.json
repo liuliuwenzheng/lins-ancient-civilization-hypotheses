@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Woolley & Mallowan《乌尔发掘》VII（1976）刊布乌尔古巴比伦时期层位与器物。",
-    "en": "Woolley & Mallowan UE VII (1976) publishes Old Babylonian levels and finds at Ur."
+    "zh": "乌尔古巴比伦层位与出土见 Woolley & Mallowan UE VII（1976）。",
+    "en": "At Ur, Old Babylonian levels and finds are documented in Woolley & Mallowan UE VII (1976)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,6 +25,6 @@
       "sources/src-mesopotamia-woolley-ur-vii-1976.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: OB levels first."
   }
 }

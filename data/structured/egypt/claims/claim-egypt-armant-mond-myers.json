@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Mond & Myers《Cemeteries of Armant》I（1937）是阿尔曼特墓地的 EES 正式报告。",
-    "en": "Mond & Myers Cemeteries of Armant I (1937) is the EES primary memoir for the Armant cemeteries."
+    "zh": "阿尔曼特墓地发掘见 Mond & Myers《阿尔曼特墓地》I（1937，EES 正式报告）。",
+    "en": "At Armant, cemetery excavations are documented in Mond & Myers Cemeteries of Armant I (1937, EES primary memoir)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Armant cemeteries first."
   }
 }

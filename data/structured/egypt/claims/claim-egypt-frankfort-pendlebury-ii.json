@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Frankfort & Pendlebury《阿肯那顿之城》II（1933）公布北郊与沙漠祭坛 1926–1932 季结果。",
-    "en": "Frankfort & Pendlebury City of Akhenaten II (1933) publishes 1926–1932 results for the North Suburb and desert altars."
+    "zh": "阿玛尔纳 1926–1932 年北郊与沙漠祭坛结果见 Frankfort & Pendlebury《阿肯那顿之城》II（1933）。",
+    "en": "At Amarna, 1926–1932 results for the North Suburb and desert altars are documented in Frankfort & Pendlebury City of Akhenaten II (1933)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -27,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: North Suburb/altars first."
   }
 }

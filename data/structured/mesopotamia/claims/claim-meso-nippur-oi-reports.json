@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "东方研究所联合远征以 OIP 78 与 OIP 97 正式报告公布尼普尔恩利尔神庙/书吏区与北神庙等发掘成果。",
-    "en": "Oriental Institute joint expeditions published Nippur Temple of Enlil/Scribal Quarter and North Temple results in OIP 78 and OIP 97 final reports."
+    "zh": "尼普尔恩利尔神庙/书吏区与北神庙结果见东方研究所联合队 OIP 78、OIP 97 正式报告。",
+    "en": "At Nippur, Temple of Enlil / Scribal Quarter and North Temple results from Oriental Institute joint expeditions are documented in OIP 78 and OIP 97 final reports."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about published excavation reports."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about published excavation reports. | Substance tighten 2026-10-12: Tightened: temple/quarter results first."
   }
 }

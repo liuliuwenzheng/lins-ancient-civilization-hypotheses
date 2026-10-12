@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Oates 1969《Iraq》初步报告公布乔加马米 1967–68 发掘的萨马拉相关聚落证据。",
-    "en": "Oates’s 1969 Iraq preliminary report publishes Samarran-related settlement evidence from the 1967–68 Choga Mami excavations."
+    "zh": "乔加马米 1967–68 年发掘出土萨马拉相关聚落证据，见 Oates 1969 Iraq 初步报告。",
+    "en": "At Choga Mami, the 1967–68 excavations yielded Samarran-related settlement evidence, as documented in Oates’s 1969 Iraq preliminary report."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Samarran settlement evidence first."
   }
 }

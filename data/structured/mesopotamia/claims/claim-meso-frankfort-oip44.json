@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Frankfort OIP 44（1939）刊布阿斯马尔与哈法杰的第三千纪雕像。",
-    "en": "Frankfort OIP 44 (1939) publishes third-millennium sculpture from Tell Asmar and Khafajah."
+    "zh": "阿斯马尔与哈法杰的第三千纪雕像见 Frankfort OIP 44（1939）。",
+    "en": "Third-millennium sculpture from Tell Asmar and Khafajah is documented in Frankfort OIP 44 (1939)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -28,6 +28,6 @@
       "sources/src-mesopotamia-frankfort-oip44-1939.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: sculpture assemblage first."
   }
 }

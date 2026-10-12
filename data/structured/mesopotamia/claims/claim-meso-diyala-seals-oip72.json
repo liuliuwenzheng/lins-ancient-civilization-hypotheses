@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Frankfort《迪亚拉层位圆柱印章》OIP 72（1955）按出土层位刊布迪亚拉四址印章。",
-    "en": "Frankfort Stratified Cylinder Seals from the Diyala Region (OIP 72, 1955) publishes Diyala seals in stratigraphic order from four sites."
+    "zh": "迪亚拉四遗址的有地层圆柱印章见 Frankfort OIP 72（1955）。",
+    "en": "Stratified cylinder seals from four Diyala sites are documented in Frankfort OIP 72 (1955)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -29,6 +29,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: stratified seals first."
   }
 }

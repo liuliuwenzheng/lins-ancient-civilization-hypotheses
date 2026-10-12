@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "杰姆代特奈斯尔遗址的 1920 年代发掘材料经 Matthews 2002 正式出版；该地名亦用作晚乌鲁克之后过渡阶段的器物组合/期名。",
-    "en": "Materials from the 1920s excavations at Jemdet Nasr were finally published by Matthews 2002; the site-name also labels a post–Late Uruk transitional assemblage/period."
+    "zh": "杰姆代特奈斯尔 1920 年代发掘材料见 Matthews 2002；该地名在文献中亦用作晚乌鲁克之后过渡组合/分期标签。此处不断言「最早文字」排名。",
+    "en": "At Jemdet Nasr, materials from the 1920s excavations are documented in Matthews 2002; the site-name also labels a post–Late Uruk transitional assemblage/period in the literature. Absolute rankings of “first writing” are not asserted here."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -28,7 +28,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about publication and period naming practice."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about publication and period naming practice. | Substance tighten 2026-10-12: Tightened: site materials + period label; no primacy."
   }
 }

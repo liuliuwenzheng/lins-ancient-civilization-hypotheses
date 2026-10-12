@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Mallowan（1937）《Iraq》4/2 报告 1936 年查加尔巴扎尔第二季发掘与哈布尔地区调查。",
-    "en": "Mallowan (1937) Iraq 4/2 reports the 1936 second campaign at Chagar Bazar and Habur regional survey."
+    "zh": "查加尔巴扎尔 1936 年第二季记录了聚落语境，并含哈布尔地区调查，见 Mallowan 1937（Iraq 4/2）。",
+    "en": "At Chagar Bazar, the 1936 second campaign recorded settlement contexts, with related Habur regional survey, as documented in Mallowan 1937 (Iraq 4/2)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,6 +25,6 @@
       "sources/src-mesopotamia-mallowan-chagar-bazar-1937.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: campaign contexts first."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Delougaz、Hill & Lloyd《迪亚拉私宅与墓葬》OIP 88（1967）正式刊布哈法杰、阿斯马尔与阿格拉卜私宅/墓葬建筑。",
-    "en": "Delougaz, Hill & Lloyd Private Houses and Graves in the Diyala Region (OIP 88, 1967) publishes house and grave architecture from Khafajah, Tell Asmar, and Tell Agrab."
+    "zh": "哈法杰、阿斯马尔与阿格拉卜的私宅与墓葬建筑见 Delougaz、Hill & Lloyd OIP 88（1967）。",
+    "en": "At Khafajah, Tell Asmar, and Tell Agrab, private-house and grave architecture is documented in Delougaz, Hill & Lloyd OIP 88 (1967)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -28,6 +28,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: house/grave architecture first."
   }
 }

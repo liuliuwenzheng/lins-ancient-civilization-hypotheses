@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Brunton《Qau and Badari》I（1927）报告卡乌–巴达里地区沙漠边缘墓地发掘。",
-    "en": "Brunton Qau and Badari I (1927) reports desert-edge cemetery excavations in the Qau–Badari district."
+    "zh": "考—巴达里地区沙漠边缘墓地发掘见 Brunton《考与巴达里》I（1927）。",
+    "en": "In the Qau–Badari district, desert-edge cemetery excavations are documented in Brunton Qau and Badari I (1927)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,7 +26,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: desert-edge cemeteries first."
   }
 }

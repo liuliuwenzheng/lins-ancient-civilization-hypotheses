@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Peet《阿拜多斯墓地》II（1914）报告 1911–1912 季阿拜多斯墓地发掘。",
-    "en": "Peet, The Cemeteries of Abydos II (1914), reports Abydos cemetery excavations of 1911–1912."
+    "zh": "阿拜多斯 1911–1912 年墓地发掘见 Peet《阿拜多斯墓地》II（1914）。",
+    "en": "At Abydos, cemetery excavations of 1911–1912 are documented in Peet The Cemeteries of Abydos II (1914)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -25,6 +25,6 @@
       "sources/src-egypt-peet-abydos-cemeteries-ii-1914.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Abydos cemeteries first."
   }
 }

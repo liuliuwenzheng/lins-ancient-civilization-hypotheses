@@ -26,7 +26,7 @@ English | [中文](audit-2026-10-12-mesopotamia-egypt.zh.md)
 | **WARN** | **44** | **46** | Mostly intentional null coordinates; see lists |
 | **PASS (claims ref/kind)** | 70/70 | 69/69 | All claim `sources[]` non-empty and resolve in-pack + registry |
 
-**JSON remediations this pass:** **none** (no clear FAILs to relabel/trim/drop). Open WARNs remain documented below.
+**JSON remediations (initial audit pass):** **none** (no clear FAILs). **Follow-up Job A:** 116 fact statements rewritten toward report-level substance (see below).
 
 ---
 
@@ -157,6 +157,31 @@ Mesopotamia 1 + Egypt 2 outbound catalog/document links only. Aligns with no-for
 5. Only then resume multi-pack volume density (per D-2026-10-12-7: unaudited volume is not the default).
 
 ---
+
+
+---
+
+## Follow-up — substance tighten (Job A, same day)
+
+**Decision link:** also feeds **D-2026-10-12-9**.
+
+**Action:** Rewrote selected `kind=fact` claims so the grammatical subject is **site finds / strata / assemblages**, with the excavation or survey report as documentation — not “Book X publishes Y” as the claim itself.
+
+| Pack | Fact claims rewritten | Method |
+|------|----------------------:|--------|
+| Mesopotamia | **57** | Flip biblio-meta → report-level substance; W3 handbook framings now lead with attribution |
+| Egypt | **59** | Same |
+| **Total** | **116** | No new page numbers, coordinates, inventory numbers, or archaeology invented |
+
+**W2 status after tighten:** author-publish-lead facts **0/63** (Mesopotamia) and **0/63** (Egypt) by the same classifier used in the original WARN. Citations remain in `sources[]` and often as “as documented in …”.
+
+**Still-open WARNs (honest):**
+- **W1** — all 86 sites still `coordinates: null` (intentional).
+- **W2 residual** — many facts are still *report-scoped* (what a named campaign documented) rather than deep page-level stratigraphy; further substance needs new *sourced* reading, not vanity prose.
+- **W3** — soft interpretive facts rewritten to lead with handbook/survey attribution; keep watching.
+- **W4** — media still thin.
+
+**Gate:** `export_check` OK after Job A.
 
 ## Decision link
 

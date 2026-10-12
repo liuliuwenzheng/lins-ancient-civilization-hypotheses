@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Naville《德尔拜赫里神庙》II（1896）续刊中平台北半与乌木神龛等相关建筑记录。",
-    "en": "Naville Temple of Deir el Bahari Part II (1896) continues architectural publication of the middle platform northern half and ebony shrine contexts."
+    "zh": "代尔拜赫里中层平台北半与乌木神龛语境续见 Naville《代尔拜赫里神庙》II（1896）。",
+    "en": "At Deir el-Bahari, architectural publication of the middle platform northern half and ebony shrine contexts continues in Naville Temple of Deir el Bahari Part II (1896)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: middle platform/shrine first."
   }
 }

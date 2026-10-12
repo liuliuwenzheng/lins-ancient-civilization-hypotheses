@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Petrie《Memphis I》(1909) 报告 1908 季孟斐斯神庙区等相关工作。",
-    "en": "Petrie Memphis I (1909) reports the 1908 Memphis temple-area and related work."
+    "zh": "孟菲斯 1908 年神庙区及相关工作见 Petrie《孟菲斯》I（1909）。",
+    "en": "At Memphis, the 1908 temple-area and related work is documented in Petrie Memphis I (1909)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Memphis temple-area first."
   }
 }

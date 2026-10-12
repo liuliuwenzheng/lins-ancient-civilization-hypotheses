@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Weiss 等 1990《美国考古学杂志》94(4) 公布叙利亚莱兰丘 1985 季发掘。",
-    "en": "Weiss et al. 1990 in American Journal of Archaeology 94(4) publish the 1985 excavation season at Tell Leilan, Syria."
+    "zh": "叙利亚莱兰 1985 年发掘季记录了建筑与出土，见 Weiss 等 1990（AJA 94/4）。干旱崩溃模型留假说栏。",
+    "en": "At Tell Leilan (Syria), the 1985 excavation season recorded architecture and finds, as documented in Weiss et al. 1990 (AJA 94/4). Drought-collapse models stay in the hypothesis column."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: 1985 season finds first; collapse model separate."
   }
 }

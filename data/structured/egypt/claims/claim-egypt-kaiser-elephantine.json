@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Kaiser 等在 MDAIK 26（1970）发表象岛「城镇与神庙」项目首份正式发掘季报，开启 DAI 长期田野系列。",
-    "en": "Kaiser et al. published the inaugural formal season report of the Elephantine town-and-temple project in MDAIK 26 (1970), beginning the DAI long-term field series."
+    "zh": "象岛城镇—神庙项目首季正式结果见 Kaiser 等 MDAIK 26（1970），开启 DAI 长期田野系列。",
+    "en": "At Elephantine, the town-and-temple project’s inaugural formal season results are documented in Kaiser et al. MDAIK 26 (1970), beginning the DAI long-term field series."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -28,7 +28,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-22; fact claims cite registered sources only. | Substance tighten 2026-10-12: Tightened: Elephantine season results first."
   }
 }

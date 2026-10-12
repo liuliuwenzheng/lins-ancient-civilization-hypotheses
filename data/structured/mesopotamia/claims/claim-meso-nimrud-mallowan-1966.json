@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Mallowan《尼姆鲁德及其遗存》（1966，两卷）是英国伊拉克考古学校对卡尔胡发掘的正式综合报告。",
-    "en": "Mallowan’s Nimrud and Its Remains (1966, 2 vols.) is the British School of Archaeology in Iraq primary synthesis of the Kalhu excavations."
+    "zh": "卡尔胡（尼姆鲁德）伊拉克英国考古学校发掘见 Mallowan《尼姆鲁德及其遗存》（1966，两卷）综合。",
+    "en": "At Kalhu (Nimrud), British School of Archaeology in Iraq excavations are synthesized in Mallowan Nimrud and Its Remains (1966, 2 vols.)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: Kalhu excavations first."
   }
 }

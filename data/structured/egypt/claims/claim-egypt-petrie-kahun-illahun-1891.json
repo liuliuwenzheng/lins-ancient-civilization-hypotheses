@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Petrie《伊拉洪、卡洪与古罗布》（1891）正式公布中王国拉亨/卡洪工人镇及相关遗址。",
-    "en": "Petrie’s Illahun, Kahun and Gurob (1891) is the primary publication of the Middle Kingdom Lahun/Kahun workers’ town and related sites."
+    "zh": "拉洪/卡洪及相关遗址中王国工匠镇及相关语境见 Petrie《伊拉洪、卡洪与古罗布》（1891）。",
+    "en": "At Lahun/Kahun and related sites, the Middle Kingdom workers’ town and associated contexts are documented in Petrie Illahun, Kahun and Gurob (1891)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -27,6 +27,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: workers’ town first."
   }
 }

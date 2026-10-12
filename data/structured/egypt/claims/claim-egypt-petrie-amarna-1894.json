@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Petrie《Tell el Amarna》(1894) 报告 1891–92 季宫殿、城镇与制造业等出土。",
-    "en": "Petrie Tell el Amarna (1894) reports 1891–92 palace, town, and manufacture contexts."
+    "zh": "阿玛尔纳 1891–92 年宫殿、城镇与手工业语境见 Petrie《泰勒阿玛尔纳》（1894）。",
+    "en": "At Amarna, 1891–92 palace, town, and manufacture contexts are documented in Petrie Tell el Amarna (1894)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only."
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: palace/town/manufacture first."
   }
 }

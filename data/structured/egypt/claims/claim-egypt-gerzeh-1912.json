@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Petrie、Wainwright & Mackay 1912 报告格尔zeh前王朝墓地（同卷含 Labyrinth/Mazghuneh 部分）。",
-    "en": "Petrie, Wainwright & Mackay 1912 report the Predynastic Gerzeh cemetery (same volume includes Labyrinth/Mazghuneh sections)."
+    "zh": "格尔泽前王朝墓地见 Petrie、Wainwright & Mackay 1912（同卷含迷宫/马兹古内节）。",
+    "en": "At Gerzeh, the Predynastic cemetery is documented in Petrie, Wainwright & Mackay 1912 (same volume includes Labyrinth/Mazghuneh sections)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Gerzeh cemetery first."
   }
 }

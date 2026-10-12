@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Loud《霍尔萨巴德》I（OIP 38，1936）公布萨尔贡二世宫殿、宫殿神庙与城门区发掘，并含 Frankfort、Jacobsen 章节。",
-    "en": "Loud’s Khorsabad Part 1 (OIP 38, 1936) publishes excavations in Sargon II’s palace, palace temples, and a city gate, with chapters by Frankfort and Jacobsen."
+    "zh": "豪尔萨巴德（杜尔沙鲁金）萨尔贡二世宫殿、宫殿神庙与城门发掘见 Loud OIP 38（1936），含 Frankfort、Jacobsen 章节。",
+    "en": "At Khorsabad (Dur-Sharrukin), excavations in Sargon II’s palace, palace temples, and a city gate are documented in Loud OIP 38 (1936), with chapters by Frankfort and Jacobsen."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: palace/gate architecture first."
   }
 }

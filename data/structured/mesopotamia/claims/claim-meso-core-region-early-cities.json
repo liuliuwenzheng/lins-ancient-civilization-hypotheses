@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "低地两河冲积平原是早期城市、文字行政与国家社会的核心考古—历史研究区；本条以南部苏美尔/乌鲁克为中心。",
-    "en": "Lowland Mesopotamia (Tigris–Euphrates alluvium) is a core region for early cities, administrative writing, and state societies; this entry centers southern Sumer/Uruk developments."
+    "zh": "通论（Pollock、Nissen、Algaze、Postgate、Potts）将低地两河冲积平原表述为早期城市、文字行政与国家社会的核心研究区；本条以南部苏美尔/乌鲁克为中心。",
+    "en": "Handbooks (Pollock, Nissen, Algaze, Postgate, Potts) frame lowland Mesopotamia (Tigris–Euphrates alluvium) as a core region for early cities, administrative writing, and state societies; this entry centers southern Sumer/Uruk developments."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -27,7 +27,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only."
+    "derived_on": "2026-10-12",
+    "notes": "Statements paraphrased from cited sections of civ-mesopotamia.md only. | Substance tighten 2026-10-12: W3 soften: lead with handbook framing attribution."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Reuther《巴比伦内城（Merkes）》（1926，WVDOG 47）报告德国东方学会对巴比伦梅尔克斯区的发掘。",
-    "en": "Reuther, Die Innenstadt von Babylon (Merkes) (1926, WVDOG 47), reports DOG excavations in Babylon’s Merkes district."
+    "zh": "巴比伦 Merkes 城区德意志东方学会发掘记录了城内建筑与出土，见 Reuther WVDOG 47（1926）。",
+    "en": "In Babylon’s Merkes district, Deutsche Orient-Gesellschaft excavations recorded urban interior architecture and finds, as documented in Reuther WVDOG 47 (1926)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-mesopotamia-reuther-merkes-1926.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Merkes urban contexts first."
   }
 }

@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Woolley《乌尔发掘》II（1934）是乌尔皇家墓地（含 PG 系列等）的正式发掘报告（文本+图版）。",
-    "en": "Woolley’s Ur Excavations II (1934) is the primary Joint Expedition report (text + plates) on the Ur Royal Cemetery, including the PG series as published."
+    "zh": "乌尔皇家墓地建筑、墓葬及相关出土（含已刊 PG 系列；组合级，不编造馆藏号）见 Woolley《乌尔发掘》II（1934）。",
+    "en": "At Ur, the Royal Cemetery architecture, burials, and related finds (including the PG series as published; assemblage-level, no invented museum numbers) are documented in Woolley Ur Excavations II (1934)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -29,6 +29,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: Royal Cemetery assemblage first."
   }
 }

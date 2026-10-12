@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Koldewey《巴比伦发掘》（1914 英译本）综合德意志东方学会在巴比伦的发掘结果（历史性发掘标准）。",
-    "en": "Koldewey’s The Excavations at Babylon (1914 English ed.) synthesizes Deutsche Orient-Gesellschaft results at Babylon (historical excavation standards)."
+    "zh": "巴比伦德意志东方学会发掘结果（历史发掘标准）见 Koldewey《巴比伦发掘》（1914 英译本）综合。",
+    "en": "At Babylon, Deutsche Orient-Gesellschaft excavation results (historical excavation standards) are synthesized in Koldewey The Excavations at Babylon (1914 English ed.)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -26,6 +26,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: Babylon DOG results first."
   }
 }

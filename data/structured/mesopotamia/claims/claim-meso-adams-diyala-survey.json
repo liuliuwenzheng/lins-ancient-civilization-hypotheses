@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Adams《巴格达背后的土地》（1965）综合迪亚拉平原聚落史地表调查，与迪亚拉发掘点互补。",
-    "en": "Adams’s Land Behind Baghdad (1965) synthesizes Diyala plains settlement history from survey, complementary to excavated Diyala sites."
+    "zh": "迪亚拉平原由调查重建的聚落史（与发掘遗址互补）见 Adams《巴格达背后的土地》（1965）。",
+    "en": "On the Diyala plains, settlement history reconstructed from survey (complementary to excavated Diyala sites) is documented in Adams Land Behind Baghdad (1965)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Fact about Adams Diyala survey synthesis."
+    "derived_on": "2026-10-12",
+    "notes": "Fact about Adams Diyala survey synthesis. | Substance tighten 2026-10-12: Tightened: Diyala survey settlement history first."
   }
 }

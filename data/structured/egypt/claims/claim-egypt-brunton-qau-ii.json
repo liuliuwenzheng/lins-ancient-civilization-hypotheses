@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Brunton《Qau and Badari》II（1928，ERA 45）续刊卡乌—巴达里墓地材料。",
-    "en": "Brunton, Qau and Badari II (1928, ERA 45), continues publication of the Qau–Badari cemeteries."
+    "zh": "考—巴达里地区墓地续刊见 Brunton《考与巴达里》II（1928，ERA 45）。",
+    "en": "In the Qau–Badari district, continued cemetery publication is documented in Brunton Qau and Badari II (1928, ERA 45)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -26,6 +26,6 @@
       "sources/src-egypt-brunton-qau-badari-ii-1928.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: Qau–Badari cemeteries first."
   }
 }

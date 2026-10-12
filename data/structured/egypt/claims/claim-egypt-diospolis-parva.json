@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Petrie《Diospolis Parva》(1901) 报告阿巴迪耶与胡的墓地发掘。",
-    "en": "Petrie Diospolis Parva (1901) reports cemetery excavations at Abadiyeh and Hu."
+    "zh": "阿巴迪耶与胡的墓地发掘见 Petrie《小狄奥斯波利斯》（1901）。",
+    "en": "At Abadiyeh and Hu, cemetery excavations are documented in Petrie Diospolis Parva (1901)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Abadiyeh/Hu cemeteries first."
   }
 }

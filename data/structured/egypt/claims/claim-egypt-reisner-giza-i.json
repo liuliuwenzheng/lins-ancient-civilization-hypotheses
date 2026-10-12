@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Reisner《吉萨墓地史》卷 I（1942）系统刊布吉萨墓园马斯塔巴类型与布局。",
-    "en": "Reisner, A History of the Giza Necropolis I (1942), systematically publishes mastaba typology and cemetery layout at Giza."
+    "zh": "吉萨马斯塔巴类型学与墓地布局系统见 Reisner《吉萨墓地史》I（1942）。",
+    "en": "At Giza, mastaba typology and cemetery layout are systematically documented in Reisner A History of the Giza Necropolis I (1942)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -27,6 +27,6 @@
       "sources/src-egypt-reisner-giza-necropolis-i-1942.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable. | Substance tighten 2026-10-12: Tightened: mastaba typology/layout first."
   }
 }

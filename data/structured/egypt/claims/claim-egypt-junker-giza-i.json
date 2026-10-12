@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Junker《Gîza》I（1929）正式公布吉萨西墓地第四王朝马斯塔巴发掘。",
-    "en": "Junker’s Gîza I (1929) is the primary publication of Dynasty IV mastabas in the Giza West Cemetery."
+    "zh": "吉萨西墓地第四王朝马斯塔巴见 Junker《吉萨》I（1929）。",
+    "en": "At Giza West Cemetery, Dynasty IV mastabas are documented in Junker Gîza I (1929)."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -28,6 +28,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Paraphrased from cited registered sources only; density pass 3."
+    "notes": "Paraphrased from cited registered sources only; density pass 3. | Substance tighten 2026-10-12: Tightened: Giza mastabas first."
   }
 }

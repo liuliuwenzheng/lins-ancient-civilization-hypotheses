@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "希拉孔波利斯是上埃及前王朝–早王朝关键中心；Quibell 1900 与 Quibell & Green 1902 报告神庙区发掘与主窖藏（与纳尔迈调色板及相关早期王权器物传统关联）。",
-    "en": "Hierakonpolis is a key Upper Egyptian Predynastic–Early Dynastic center; Quibell 1900 and Quibell & Green 1902 report temple-area work and the Main Deposit (linked to the Narmer Palette and related early royal objects)."
+    "zh": "希拉孔波利斯（Kom el-Ahmar）神庙区工作与主窖藏——关联纳尔迈调色板及相关早期王室器物（组合级）——见 Quibell 1900 与 Quibell & Green 1902。一战统一解读留假说栏；不托管伪造调色板图。",
+    "en": "At Hierakonpolis (Kom el-Ahmar), temple-area work and the Main Deposit—linked to the Narmer Palette and related early royal objects at assemblage level—are documented in Quibell 1900 and Quibell & Green 1902. Single-battle unification readings stay in the hypothesis column; no forged palette imagery is hosted."
   },
   "civilization_ids": [
     "civ-ancient-egypt"
@@ -30,7 +30,7 @@
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-egypt-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only."
+    "derived_on": "2026-10-12",
+    "notes": "Statements paraphrased from cited sections of civ-ancient-egypt.md only. | Substance tighten 2026-10-12: Tightened: Main Deposit substance first."
   }
 }

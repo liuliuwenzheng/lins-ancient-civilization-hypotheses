@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "Wilson OIP 138（2012）正式出版芝加哥大学比斯马亚（阿达卜）1903–1905 发掘此前未充分刊布的田野与器物材料。",
-    "en": "Wilson OIP 138 (2012) publishes previously under-published field and object materials from the University of Chicago Bismaya (Adab) excavations of 1903–1905."
+    "zh": "比斯马亚（阿达布）芝加哥大学 1903–1905 年田野与器物材料（含神庙相关铭文，组合级）见 Wilson OIP 138（2012）。",
+    "en": "At Bismaya (Adab), University of Chicago 1903–1905 field and object materials (including temple-related inscriptions at assemblage level) are documented in Wilson OIP 138 (2012)."
   },
   "civilization_ids": [
     "civ-mesopotamia"
@@ -25,7 +25,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. | Substance tighten 2026-10-12: Tightened: Adab finds first; OIP 138 as documentation."
   }
 }
