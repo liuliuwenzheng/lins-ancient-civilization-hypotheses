@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-purple-dye",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "推罗紫染产业是古典文献与考古共同指向的腓尼基特色手工业。",
+    "en": "Tyrian purple-dye industry is a Phoenician craft specialty jointly indicated by classical texts and archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-tyre-sur"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-markoe-deepen",
+    "src-phoenician-tyre-excavation-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

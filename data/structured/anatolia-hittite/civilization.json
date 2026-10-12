@@ -11,57 +11,104 @@
   "region": "Southwest Asia / central Anatolia (Türkiye); northern Syria contacts",
   "time_span": "ca. 17th–12th centuries BCE Hittite kingdom/empire floruit (Bryce 2005 narrative frame)",
   "summary": {
-    "zh": "赫梯档案（library-seed-rich）：Bryce/Seeher + 哈图沙/阿拉贾/萨皮努瓦等遗址与王国—帝国窗；仍加厚中。",
-    "en": "Hittite archive (library-seed-rich): Bryce/Seeher + Hattusa/Alaca/Sapinuwa sites and kingdom–empire windows; still thickening."
+    "zh": "赫梯档案加厚（Batch B）：哈图沙都城、泥板档案、亚兹勒卡亚圣所与帝国扩张；仍非 fact-library。",
+    "en": "Hittite densified (Batch B): Hattusa capital, tablet archives, Yazılıkaya sanctuary and imperial expansion; not yet fact-library.",
+    "native": null
   },
   "sources": [
+    "src-hittite-alaca-deepen",
+    "src-hittite-beckman-deepen",
     "src-hittite-beckman-text-orientation",
     "src-hittite-bryce-2005",
+    "src-hittite-bryce-deepen",
     "src-hittite-collins-2007",
+    "src-hittite-collins-deepen",
+    "src-hittite-empire-collapse-orientation",
     "src-hittite-glatz-anatolia-orientation",
+    "src-hittite-glatz-deepen",
+    "src-hittite-hattusa-unesco-docs",
+    "src-hittite-karum-trade-deepen",
     "src-hittite-kuloglu-or-ortakoy-orientation",
+    "src-hittite-met-heilbrunn",
+    "src-hittite-neve-deepen",
     "src-hittite-neve-hattusa-orientation",
+    "src-hittite-ortakoy-deepen",
+    "src-hittite-ozguc-deepen",
     "src-hittite-ozguc-kultepe-orientation",
     "src-hittite-pleiades-alaca-991964195",
     "src-hittite-pleiades-hattusa-283602441",
     "src-hittite-pleiades-kanes-58129442",
     "src-hittite-pleiades-sapinuwa-964671598",
     "src-hittite-pleiades-yazilikaya-478681498",
+    "src-hittite-seeher-deepen",
     "src-hittite-seeher-hattusa-2006",
     "src-hittite-unesco-hattusa",
-    "src-hittite-van-den-hout-text-orientation"
+    "src-hittite-van-den-hout-deepen",
+    "src-hittite-van-den-hout-text-orientation",
+    "src-hittite-yazilikaya-deepen"
   ],
   "site_ids": [
     "site-alacahoyuk",
     "site-hattusa",
     "site-hattusa-lower-city-frame",
     "site-hattusa-temple-district-frame",
+    "site-hittite-alaca-deepen",
+    "site-hittite-buyukkale-orientation",
+    "site-hittite-kultepe-karum-deepen",
+    "site-hittite-lions-gate-orientation",
+    "site-hittite-nisantepe-orientation",
+    "site-hittite-sapinuwa-deepen",
+    "site-hittite-upper-city-temples",
+    "site-hittite-yazilikaya-deepen",
     "site-kultepe-kanes",
     "site-sapinuwa-ortakoy",
     "site-yazilikaya"
   ],
   "period_ids": [
     "period-anatolia-assyrian-colony",
+    "period-hittite-collapse-window",
     "period-hittite-empire",
+    "period-hittite-empire-deepen",
+    "period-hittite-karum-age-deepen",
     "period-hittite-kingdom-empire",
-    "period-hittite-old-kingdom"
+    "period-hittite-old-kingdom",
+    "period-hittite-old-kingdom-deepen"
   ],
   "claim_ids": [
+    "claim-hittite-alaca-deepen",
     "claim-hittite-alaca-elite-tombs",
+    "claim-hittite-archives-deepen",
+    "claim-hittite-beckman-diplomacy",
+    "claim-hittite-bryce-deepen",
+    "claim-hittite-collapse-hypothesis",
+    "claim-hittite-collins-deepen",
     "claim-hittite-empire-collapse-frame",
+    "claim-hittite-glatz-landscape",
     "claim-hittite-hattusa-capital",
     "claim-hittite-hattusa-unesco-capital",
     "claim-hittite-hattusa-urban-chronology",
     "claim-hittite-kanes-karum-archives",
+    "claim-hittite-karum-deepen",
     "claim-hittite-landscape-empire-orientation",
+    "claim-hittite-lions-gate",
+    "claim-hittite-met-heilbrunn",
+    "claim-hittite-sapinuwa-deepen",
     "claim-hittite-sapinuwa-provincial-archives",
+    "claim-hittite-seeher-urban",
     "claim-hittite-tablet-archives-reconstruction",
     "claim-hittite-temple-district-architecture",
+    "claim-hittite-temple-district-deepen",
+    "claim-hittite-unesco-docs",
+    "claim-hittite-yazilikaya-deepen",
     "claim-hittite-yazilikaya-rock-sanctuary"
   ],
   "object_ids": [
+    "asm-hattusa-archives-deepen",
     "asm-hattusa-archives-frame",
+    "asm-hattusa-temple-district-deepen",
     "asm-hattusa-temple-district-frame",
+    "asm-kanes-karum-tablets",
+    "asm-yazilikaya-relief-deepen",
     "asm-yazilikaya-relief-frame"
   ],
   "related_ids": [
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-anatolia-hittite.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_hot_batch_b.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-21"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
   }
 }

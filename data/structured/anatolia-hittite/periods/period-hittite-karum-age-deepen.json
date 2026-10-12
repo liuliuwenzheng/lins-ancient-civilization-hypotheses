@@ -1,0 +1,36 @@
+{
+  "id": "period-hittite-karum-age-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "商站时代加深窗",
+    "en": "Karum Age deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "Old Assyrian trade colonies in Anatolia",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Old Assyrian trade colonies in Anatolia"
+  },
+  "summary": {
+    "zh": "安纳托利亚古亚述商站窗。",
+    "en": "Old Assyrian trade-colony window in Anatolia.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-ozguc-deepen",
+    "src-hittite-karum-trade-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

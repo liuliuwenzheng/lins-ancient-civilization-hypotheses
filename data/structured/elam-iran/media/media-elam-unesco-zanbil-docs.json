@@ -1,0 +1,32 @@
+{
+  "id": "media-elam-unesco-zanbil-docs",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：恰高·占比尔文件",
+    "en": "UNESCO: Chogha Zanbil documents",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/113/documents/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-elam-unesco-zanbil-docs"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO",
+    "upstream_url": "https://whc.unesco.org/en/list/113/documents/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

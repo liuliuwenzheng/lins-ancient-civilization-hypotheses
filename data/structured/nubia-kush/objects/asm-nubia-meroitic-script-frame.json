@@ -1,0 +1,44 @@
+{
+  "id": "asm-nubia-meroitic-script-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "麦罗埃文字组合",
+    "en": "Meroitic script assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-meroe",
+    "site-nubia-naqa-deepen"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "麦罗埃文铭文传统指针。",
+    "en": "Meroitic epigraphic tradition pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-rilly-deepen",
+    "src-nubia-torok-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

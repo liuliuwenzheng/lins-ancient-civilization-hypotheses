@@ -1,0 +1,30 @@
+{
+  "id": "claim-elam-oxford-handbook-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《牛津古代伊朗手册》埃兰章节将埃兰置于更广伊朗考古序列。",
+    "en": "Oxford Handbook of Ancient Iran Elam chapters place Elam in a wider Iranian archaeological sequence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-oxford-handbook-iran-deepen",
+    "src-elam-potts-oxford-handbook-iran-2013"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

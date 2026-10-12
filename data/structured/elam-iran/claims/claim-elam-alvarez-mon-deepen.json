@@ -1,0 +1,30 @@
+{
+  "id": "claim-elam-alvarez-mon-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《埃兰世界》手册汇集近年专题研究（Álvarez-Mon 编）。",
+    "en": "The Elamite World handbook collects recent specialist studies (Álvarez-Mon ed.).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-alvarez-mon-deepen",
+    "src-elam-alvarez-mon-elamite-world-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

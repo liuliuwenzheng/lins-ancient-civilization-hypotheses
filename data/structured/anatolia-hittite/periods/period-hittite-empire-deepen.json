@@ -1,0 +1,36 @@
+{
+  "id": "period-hittite-empire-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "帝国加深窗",
+    "en": "Empire deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "New Kingdom / Empire international politics",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "New Kingdom / Empire international politics"
+  },
+  "summary": {
+    "zh": "帝国期国际政治窗。",
+    "en": "Empire international-politics window.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-bryce-deepen",
+    "src-hittite-beckman-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

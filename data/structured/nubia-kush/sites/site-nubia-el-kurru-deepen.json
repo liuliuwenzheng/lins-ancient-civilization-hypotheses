@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-el-kurru-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "库鲁加深",
+    "en": "El-Kurru deepen",
+    "native": null
+  },
+  "kind_note": "Early Napatan royal cemetery",
+  "region": "Napata region",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "早期纳帕塔王室墓地加深。",
+    "en": "Early Napatan royal cemetery deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-el-kurru-deepen",
+    "src-nubia-dunham-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-proto-elamite-admin-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "原埃兰行政指针",
+    "en": "Proto-Elamite admin orientation",
+    "native": null
+  },
+  "kind_note": "Administrative tablet find contexts (Susa / highland)",
+  "region": "Susa and Fars",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "行政泥板出土语境指针。",
+    "en": "Administrative tablet find-context orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-proto-elamite-deepen",
+    "src-elam-potts-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

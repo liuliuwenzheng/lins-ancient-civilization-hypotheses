@@ -8,49 +8,47 @@ region: "Southwest Asia / Levantine coast (Lebanon–Syria) and western Mediterr
 time_span: "Iron Age Levantine city-state floruit into Punic western expansion (Aubet / Markoe frames; Carthage later)"
 status: library-seed-rich
 summary: |
-  Phoenician archive (library-seed-rich): Aubet/Markoe + Levantine coast and western Punic nodes; not yet Egypt-level density.
-sources: ["src-phoenician-aubet-west-2001", "src-phoenician-bondi-orientation", "src-phoenician-elayi-orientation", "src-phoenician-gadir-orientation", "src-phoenician-lipinski-orientation", "src-phoenician-markoe-2000", "src-phoenician-motya-orientation", "src-phoenician-nieto-orientation", "src-phoenician-sidon-orientation", "src-phoenician-unesco-byblos-295", "src-phoenician-unesco-byblos-docs", "src-phoenician-unesco-carthage-37", "src-phoenician-unesco-carthage-docs", "src-phoenician-unesco-tyre-299", "src-phoenician-unesco-tyre-docs"]
+  Phoenician densified (Batch B): Levantine mother-cities, alphabet diffusion, western Punic nodes; not yet fact-library.
+sources: ["src-phoenician-alphabet-ahiram-deepen", "src-phoenician-aubet-deepen", "src-phoenician-aubet-west-2001", "src-phoenician-bondi-deepen", "src-phoenician-bondi-orientation", "src-phoenician-byblos-excavation-deepen", "src-phoenician-carthage-excavation-deepen", "src-phoenician-elayi-deepen", "src-phoenician-elayi-orientation", "src-phoenician-gadir-deepen", "src-phoenician-gadir-orientation", "src-phoenician-kition-deepen", "src-phoenician-lipinski-deepen", "src-phoenician-lipinski-orientation", "src-phoenician-markoe-2000", "src-phoenician-markoe-deepen", "src-phoenician-motya-orientation", "src-phoenician-nieto-orientation", "src-phoenician-sarepta-deepen", "src-phoenician-sidon-orientation", "src-phoenician-tyre-excavation-deepen", "src-phoenician-unesco-byblos-295", "src-phoenician-unesco-byblos-docs", "src-phoenician-unesco-byblos-docs-deepen", "src-phoenician-unesco-carthage-37", "src-phoenician-unesco-carthage-docs", "src-phoenician-unesco-carthage-docs-deepen", "src-phoenician-unesco-tyre-299", "src-phoenician-unesco-tyre-docs", "src-phoenician-unesco-tyre-docs-deepen"]
 related_ids: ["civ-levant-ugarit", "civ-ancient-egypt", "civ-anatolia-hittite"]
-notes: "Densified to library-seed-rich D-2026-10-12-16. Honest thin > fake dense."
+notes: "Hot densify Batch B D-2026-10-12-21. Toward fact-library; status remains library-seed-rich."
 ---
 
 # Phoenician (city-states and western expansion) / 腓尼基 / 城邦与西地中海扩张
 
-> **Status:** `library-seed-rich` (Wave-2 densify, D-2026-10-12-16). Not yet `fact-library` / Egypt-level density.
-> **Depth:** follow [`docs/entry-depth.md`](../../docs/entry-depth.md). Hypotheses stay in `kind=hypothesis`.
+> **Status:** `library-seed-rich` (hot densify Batch B, D-2026-10-12-21). Not yet Egypt-level `fact-library`.
+> **Depth:** [`docs/entry-depth.md`](../../docs/entry-depth.md). Hypotheses stay `kind=hypothesis`.
 > **Coverage map:** [`docs/coverage-map.md`](../../docs/coverage-map.md).
 
 ## Summary
 
-**EN:** Phoenician archive (library-seed-rich): Aubet/Markoe + Levantine coast and western Punic nodes; not yet Egypt-level density.
+**EN:** Phoenician densified (Batch B): Levantine mother-cities, alphabet diffusion, western Punic nodes; not yet fact-library.
 
-**ZH:** 腓尼基档案（library-seed-rich）：Aubet/Markoe + 黎凡特海岸与西地中海布匿节点；仍非埃及级密度。
+**ZH:** 腓尼基档案加厚（Batch B）：黎凡特母城、字母扩散与西部布匿节点；仍非 fact-library。
 
 ## Counts (structured)
 
 | Entity | Count |
 |--------|------:|
-| sources | 15 |
-| sites | 8 |
-| periods | 4 |
-| objects | 3 |
-| claims | 11 |
-| media | 3 |
-
-## Geography & environment
-
-Region (editorial label): Southwest Asia / Levantine coast (Lebanon–Syria) and western Mediterranean colonies.
-
-Site coordinates are filled only from UNESCO WHC published DMS or Pleiades CSV place ids; otherwise left null.
+| sources | 30 |
+| sites | 16 |
+| periods | 8 |
+| objects | 7 |
+| claims | 26 |
+| media | 6 |
 
 ## Chronology / periodization
 
-| Period / phase | Approx. range (as in cited scheme) | Notes |
-|----------------|-------------------------------------|-------|
+| Period / phase | Approx. range | Notes |
+|----------------|---------------|-------|
+| Alphabet diffusion window | Early Phoenician script and Mediterranean diffusion | Early script and Mediterranean diffusion window. |
 | Phoenician Iron I–II window | Levantine Iron Age city florescence | Iron Age Levantine window. |
 | Phoenician Iron Age–Punic expansion window | Iron Age Levantine floruit into western Punic expansion (Aubet/Markoe) | Shell long overview window. |
+| LBA–Iron transition window | Late Bronze collapse to Early Iron Phoenician florescence | LBA collapse to Early Iron florescence window. |
+| Western colonization window | Western Mediterranean colonial network (Gadir, Motya, Carthage frame) | Western Mediterranean colonial-network window. |
 | Phoenician western expansion window | central/western Mediterranean colonization | Western expansion. |
 | Punic floruit window | Carthaginian/Punic western Mediterranean | Punic floruit. |
+| Punic Wars horizon window | Carthaginian–Roman conflict horizon (historical frame) | Carthaginian–Roman conflict horizon window. |
 
 ## Key sites
 
@@ -58,42 +56,80 @@ Site coordinates are filled only from UNESCO WHC published DMS or Pleiades CSV p
 - **Carthage** (`site-carthage-punic`): Major western Punic capital; UNESCO listed. [coords filled]
 - **Gadir / Cádiz (orientation)** (`site-gadir-cadiz-orientation`): Iberian Atlantic colonial orientation. [coords null]
 - **Kition (orientation)** (`site-kition-orientation`): Cypriot Phoenician node orientation. [coords null]
-- **Motya (Mozia)** (`site-motya-sicily`): Western colonial node in Sicily. [coords null]
+- **Motya (Mozia)** (`site-motya-sicily`): Western colonial node in Sicily. [coords filled]
+- **Ahiram sarcophagus context orientation** (`site-phoenician-ahiram-byblos-orientation`): Early alphabet inscription find-context orientation. [coords null]
+- **Carthage harbours orientation** (`site-phoenician-carthage-harbours-orientation`): Circular military and commercial harbour orientation. [coords null]
+- **Carthage tophet orientation** (`site-phoenician-carthage-tophet-orientation`): Punic sacred precinct / tophet orientation. [coords null]
+- **Gadir deepen** (`site-phoenician-gadir-deepen`): Far-western colony deepen. [coords null]
+- **Kition deepen** (`site-phoenician-kition-deepen`): Cyprus harbour/temple centre deepen. [coords null]
+- **Motya deepen** (`site-phoenician-motya-deepen`): Western Sicily island-city deepen. [coords null]
+- **Sarepta deepen** (`site-phoenician-sarepta-deepen`): Coastal industrial/settlement deepen. [coords null]
+- **Tyre island-city orientation** (`site-phoenician-tyre-island-orientation`): Island-city and causeway landscape orientation. [coords null]
 - **Sarepta (orientation)** (`site-sarepta-orientation`): Well-excavated coastal town orientation. [coords null]
-- **Sidon** (`site-sidon-saida`): Major Levantine Phoenician city with ongoing excavations. [coords null]
+- **Sidon** (`site-sidon-saida`): Major Levantine Phoenician city with ongoing excavations. [coords filled]
 - **Tyre (Ṣūr)** (`site-tyre-sur`): Major Iron Age Phoenician city; UNESCO listed. [coords filled]
 
 ## Registered sources
 
+- `src-phoenician-alphabet-ahiram-deepen` — article (tier S)
+- `src-phoenician-aubet-deepen` — monograph (tier S)
 - `src-phoenician-aubet-west-2001` — monograph (tier S)
+- `src-phoenician-bondi-deepen` — monograph (tier S)
 - `src-phoenician-bondi-orientation` — monograph (tier S)
+- `src-phoenician-byblos-excavation-deepen` — excavation-report (tier P)
+- `src-phoenician-carthage-excavation-deepen` — excavation-report (tier P)
+- `src-phoenician-elayi-deepen` — monograph (tier S)
 - `src-phoenician-elayi-orientation` — monograph (tier S)
+- `src-phoenician-gadir-deepen` — article (tier S)
 - `src-phoenician-gadir-orientation` — article (tier S)
+- `src-phoenician-kition-deepen` — article (tier S)
+- `src-phoenician-lipinski-deepen` — monograph (tier S)
 - `src-phoenician-lipinski-orientation` — monograph (tier S)
 - `src-phoenician-markoe-2000` — monograph (tier S)
+- `src-phoenician-markoe-deepen` — monograph (tier S)
 - `src-phoenician-motya-orientation` — excavation-report (tier P)
 - `src-phoenician-nieto-orientation` — article (tier S)
+- `src-phoenician-sarepta-deepen` — excavation-report (tier P)
 - `src-phoenician-sidon-orientation` — excavation-report (tier P)
+- `src-phoenician-tyre-excavation-deepen` — excavation-report (tier P)
 - `src-phoenician-unesco-byblos-295` — web (tier T)
+- `src-phoenician-unesco-byblos-docs-deepen` — web (tier T)
 - `src-phoenician-unesco-byblos-docs` — web (tier T)
 - `src-phoenician-unesco-carthage-37` — web (tier T)
+- `src-phoenician-unesco-carthage-docs-deepen` — web (tier T)
 - `src-phoenician-unesco-carthage-docs` — web (tier T)
 - `src-phoenician-unesco-tyre-299` — web (tier T)
+- `src-phoenician-unesco-tyre-docs-deepen` — web (tier T)
 - `src-phoenician-unesco-tyre-docs` — web (tier T)
 
 ## Claims (EN)
 
+- (fact) The Byblos Ahiram sarcophagus inscription is key material evidence for early Phoenician alphabet.
 - (fact) Early alphabetic inscription traditions in coastal cities such as Byblos are a core theme of Phoenician cultural history (Markoe; UNESCO Byblos).
+- (fact) Aubet’s Phoenicians and the West is a standard English synthesis of the western colonial network (deepen).
 - (fact) Aubet 2001 synthesizes Phoenician expansion in the western Mediterranean.
 - (fact) UNESCO lists Byblos as World Heritage (UNESCO 295).
+- (fact) Carthage tophet and harbour remains support discussion of Punic urban religion and port economy.
 - (fact) UNESCO lists the Archaeological Site of Carthage as World Heritage (UNESCO 37).
 - (fact) Syntheses frame Phoenician as a Levantine coastal city-state tradition with Iron Age colonial expansion into the western Mediterranean, with Byblos, Tyre, and Carthage among key nodes (Aubet 2001; UNESCO 295/299/37).
+- (fact) Elayi’s city-state history emphasizes the interweave of Sidon/Tyre political history with archaeology.
+- (fact) Gadir/Cádiz tradition extends Phoenician colonization to an Atlantic gateway (deepen).
 - (fact) Gadir/Cádiz is discussed in texts and archaeology as a far-west Phoenician colonial node (Aubet; Iberian research orientation).
-- (fact) Markoe 2000 provides an English synthesis of Phoenician history and culture.
+- (fact) Kition illustrates a Cypriot Phoenician temple–harbour complex (deepen).
+- (fact) Markoe’s Phoenicians supplies a general-history synthesis of city-states and arts (deepen).
+- (fact) Phoenician history and culture are framed in Markoe 2000 English synthesis (orientation).
+- (fact) Motya is a key western Sicilian Phoenician–Punic island-city node (deepen).
 - (fact) Motya is an excavated Phoenician–Punic colonial node in Sicily (excavation tradition).
+- (hypothesis) Causal weight of the Punic Wars in ending western networks remains discussed between history and archaeology.
 - (fact) Nodes such as Carthage represent the Punic Mediterranean network after Phoenician western expansion (UNESCO Carthage; Aubet).
+- (fact) Tyrian purple-dye industry is a Phoenician craft specialty jointly indicated by classical texts and archaeology.
+- (fact) Sarepta excavations supply a P-grade sample of a Levantine coastal industrial settlement (Pritchard tradition).
 - (fact) Sidon excavation traditions provide field evidence for Levantine Phoenician urban archaeology (DGA/BM orientation).
+- (fact) Tyre’s island-city and later causeway landscape are core spatial structures of a Levantine mother-city.
 - (fact) UNESCO lists Tyre as World Heritage (UNESCO 299).
+- (fact) UNESCO Byblos documents page aggregates World Heritage protection materials.
+- (fact) UNESCO Carthage documents page aggregates World Heritage protection materials.
+- (fact) UNESCO Tyre documents page aggregates World Heritage protection materials.
 
 ## Integrity
 

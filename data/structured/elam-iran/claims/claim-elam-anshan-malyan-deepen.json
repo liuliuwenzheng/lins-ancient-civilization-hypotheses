@@ -1,0 +1,33 @@
+{
+  "id": "claim-elam-anshan-malyan-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Tall-e Malyan 被鉴定为安善，支撑苏萨—安善双中心模型（Sumner 传统）。",
+    "en": "Tall-e Malyan is identified as Anshan, supporting the Susa–Anshan dual-centre model (Sumner tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-anshan-tall-e-malyan",
+    "site-elam-malyan-anshan-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-sumner-malyan-deepen",
+    "src-elam-potts-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

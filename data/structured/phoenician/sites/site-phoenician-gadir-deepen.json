@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-gadir-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "加迪尔加深",
+    "en": "Gadir deepen",
+    "native": null
+  },
+  "kind_note": "Far-western Phoenician colony",
+  "region": "Cádiz, Spain",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "远西殖民点加深。",
+    "en": "Far-western colony deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-gadir-deepen",
+    "src-phoenician-aubet-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

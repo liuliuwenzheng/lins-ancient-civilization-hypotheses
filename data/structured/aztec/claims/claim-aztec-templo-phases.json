@@ -1,0 +1,34 @@
+{
+  "id": "claim-aztec-templo-phases",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大神庙连续扩建阶段为墨西加首都仪礼中心提供建筑年代学框架。",
+    "en": "Templo Mayor successive enlargement phases supply an architectural chronology for the Mexica capital’s ritual centre.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-templo-mayor-tenochtitlan"
+  ],
+  "period_ids": [
+    "period-aztec-templo-mayor-phases"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-matos-deepen",
+    "src-aztec-lopez-lujan-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

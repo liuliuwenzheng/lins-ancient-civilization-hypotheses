@@ -1,0 +1,32 @@
+{
+  "id": "media-hittite-met-heilbrunn",
+  "entity": "media",
+  "title": {
+    "zh": "Met：赫梯时间线",
+    "en": "Met: Hittites timeline",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.metmuseum.org/toah/hd/htit/hd_htit.htm",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-hittite-met-heilbrunn"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Met Museum",
+    "upstream_url": "https://www.metmuseum.org/toah/hd/htit/hd_htit.htm",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

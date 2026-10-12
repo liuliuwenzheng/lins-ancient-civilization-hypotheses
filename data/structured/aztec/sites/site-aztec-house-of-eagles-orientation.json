@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-house-of-eagles-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "鹰战士屋指针",
+    "en": "House of the Eagles orientation",
+    "native": null
+  },
+  "kind_note": "Elite ritual structure at Templo Mayor",
+  "region": "Templo Mayor precinct",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "大神庙精英仪式建筑指针。",
+    "en": "Elite ritual structure orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-lopez-lujan-deepen",
+    "src-aztec-matos-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-collapse-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "赫梯帝国崩溃与晚青铜危机的具体机制仍在讨论（假说空间）。",
+    "en": "Specific mechanisms of Hittite imperial collapse within the LBA crisis remain discussed.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-hittite-collapse-window"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-empire-collapse-orientation",
+    "src-hittite-glatz-deepen"
+  ],
+  "disclaimer": "No single settled collapse mechanism. / 崩溃机制无单一定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

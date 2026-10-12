@@ -1,0 +1,35 @@
+{
+  "id": "claim-phoenician-alphabet-ahiram",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "比布鲁斯阿希拉姆石棺铭文是早期腓尼基字母的关键物证（铭文传统）。",
+    "en": "The Byblos Ahiram sarcophagus inscription is key material evidence for early Phoenician alphabet.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-ahiram-byblos-orientation",
+    "site-byblos-gubla"
+  ],
+  "period_ids": [
+    "period-phoenician-alphabet-diffusion"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-alphabet-ahiram-deepen",
+    "src-phoenician-byblos-excavation-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

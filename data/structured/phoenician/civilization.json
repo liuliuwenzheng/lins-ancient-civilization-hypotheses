@@ -11,25 +11,41 @@
   "region": "Southwest Asia / Levantine coast (Lebanon–Syria) and western Mediterranean colonies",
   "time_span": "Iron Age Levantine city-state floruit into Punic western expansion (Aubet / Markoe frames; Carthage later)",
   "summary": {
-    "zh": "腓尼基档案（library-seed-rich）：Aubet/Markoe + 黎凡特海岸与西地中海布匿节点；仍非埃及级密度。",
-    "en": "Phoenician archive (library-seed-rich): Aubet/Markoe + Levantine coast and western Punic nodes; not yet Egypt-level density."
+    "zh": "腓尼基档案加厚（Batch B）：黎凡特母城、字母扩散与西部布匿节点；仍非 fact-library。",
+    "en": "Phoenician densified (Batch B): Levantine mother-cities, alphabet diffusion, western Punic nodes; not yet fact-library.",
+    "native": null
   },
   "sources": [
+    "src-phoenician-alphabet-ahiram-deepen",
+    "src-phoenician-aubet-deepen",
     "src-phoenician-aubet-west-2001",
+    "src-phoenician-bondi-deepen",
     "src-phoenician-bondi-orientation",
+    "src-phoenician-byblos-excavation-deepen",
+    "src-phoenician-carthage-excavation-deepen",
+    "src-phoenician-elayi-deepen",
     "src-phoenician-elayi-orientation",
+    "src-phoenician-gadir-deepen",
     "src-phoenician-gadir-orientation",
+    "src-phoenician-kition-deepen",
+    "src-phoenician-lipinski-deepen",
     "src-phoenician-lipinski-orientation",
     "src-phoenician-markoe-2000",
+    "src-phoenician-markoe-deepen",
     "src-phoenician-motya-orientation",
     "src-phoenician-nieto-orientation",
+    "src-phoenician-sarepta-deepen",
     "src-phoenician-sidon-orientation",
+    "src-phoenician-tyre-excavation-deepen",
     "src-phoenician-unesco-byblos-295",
     "src-phoenician-unesco-byblos-docs",
+    "src-phoenician-unesco-byblos-docs-deepen",
     "src-phoenician-unesco-carthage-37",
     "src-phoenician-unesco-carthage-docs",
+    "src-phoenician-unesco-carthage-docs-deepen",
     "src-phoenician-unesco-tyre-299",
-    "src-phoenician-unesco-tyre-docs"
+    "src-phoenician-unesco-tyre-docs",
+    "src-phoenician-unesco-tyre-docs-deepen"
   ],
   "site_ids": [
     "site-byblos-gubla",
@@ -37,33 +53,64 @@
     "site-gadir-cadiz-orientation",
     "site-kition-orientation",
     "site-motya-sicily",
+    "site-phoenician-ahiram-byblos-orientation",
+    "site-phoenician-carthage-harbours-orientation",
+    "site-phoenician-carthage-tophet-orientation",
+    "site-phoenician-gadir-deepen",
+    "site-phoenician-kition-deepen",
+    "site-phoenician-motya-deepen",
+    "site-phoenician-sarepta-deepen",
+    "site-phoenician-tyre-island-orientation",
     "site-sarepta-orientation",
     "site-sidon-saida",
     "site-tyre-sur"
   ],
   "period_ids": [
+    "period-phoenician-alphabet-diffusion",
     "period-phoenician-iron-i-ii",
     "period-phoenician-iron-punic",
+    "period-phoenician-lba-transition",
+    "period-phoenician-western-colonies",
     "period-phoenician-western-expansion",
-    "period-punic-floruit"
+    "period-punic-floruit",
+    "period-punic-wars-horizon"
   ],
   "claim_ids": [
     "claim-phoenician-alphabet",
+    "claim-phoenician-alphabet-ahiram",
     "claim-phoenician-aubet",
+    "claim-phoenician-aubet-deepen",
     "claim-phoenician-byblos-unesco",
+    "claim-phoenician-carthage-tophet",
     "claim-phoenician-carthage-unesco",
     "claim-phoenician-coastal-western-expansion",
+    "claim-phoenician-elayi-city-states",
     "claim-phoenician-gadir",
+    "claim-phoenician-gadir-deepen",
+    "claim-phoenician-kition-deepen",
     "claim-phoenician-markoe",
+    "claim-phoenician-markoe-deepen",
     "claim-phoenician-motya",
+    "claim-phoenician-motya-deepen",
+    "claim-phoenician-punic-wars-hypothesis",
     "claim-phoenician-punic-west",
+    "claim-phoenician-purple-dye",
+    "claim-phoenician-sarepta-deepen",
     "claim-phoenician-sidon",
-    "claim-phoenician-tyre-unesco"
+    "claim-phoenician-tyre-island-deepen",
+    "claim-phoenician-tyre-unesco",
+    "claim-phoenician-unesco-byblos-docs",
+    "claim-phoenician-unesco-carthage-docs",
+    "claim-phoenician-unesco-tyre-docs"
   ],
   "object_ids": [
+    "asm-phoenician-alphabet-deepen",
     "asm-phoenician-alphabet-frame",
+    "asm-phoenician-harbour-deepen",
     "asm-phoenician-harbour-trade-frame",
-    "asm-phoenician-maritime-trade-frame"
+    "asm-phoenician-maritime-trade-frame",
+    "asm-phoenician-purple-dye-frame",
+    "asm-phoenician-tophet-frame"
   ],
   "related_ids": [
     "civ-levant-ugarit",
@@ -73,11 +120,11 @@
   "markdown_path": "data/civilizations/civ-phoenician.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_hot_batch_b.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-21"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
   }
 }

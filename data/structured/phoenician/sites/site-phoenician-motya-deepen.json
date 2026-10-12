@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-motya-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "莫蒂亚加深",
+    "en": "Motya deepen",
+    "native": null
+  },
+  "kind_note": "Western Sicily Phoenician–Punic island city",
+  "region": "San Pantaleo, Sicily",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "西西里西部岛城加深。",
+    "en": "Western Sicily island-city deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-motya-orientation",
+    "src-phoenician-aubet-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-nubia-post-meroitic-frame",
+  "entity": "period",
+  "names": {
+    "zh": "后麦罗埃变迁窗",
+    "en": "Post-Meroitic transformation window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Post-Meroitic / early medieval Nubia transition frame",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Post-Meroitic / early medieval Nubia transition frame"
+  },
+  "summary": {
+    "zh": "后麦罗埃至早期中世纪努比亚过渡窗。",
+    "en": "Post-Meroitic to early medieval Nubia transition frame.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-edwards-deepen",
+    "src-nubia-emberling-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

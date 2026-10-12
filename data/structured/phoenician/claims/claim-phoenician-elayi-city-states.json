@@ -1,0 +1,33 @@
+{
+  "id": "claim-phoenician-elayi-city-states",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Elayi 城邦史研究强调西顿/推罗等母城政治史与考古的交织。",
+    "en": "Elayi’s city-state history emphasizes the interweave of Sidon/Tyre political history with archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-sidon-saida",
+    "site-tyre-sur"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-elayi-deepen",
+    "src-phoenician-elayi-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

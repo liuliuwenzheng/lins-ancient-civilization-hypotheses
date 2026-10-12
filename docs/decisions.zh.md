@@ -878,3 +878,15 @@
 
 **验证：** `export_check` OK。
 
+### D-2026-10-12-21 — 热门包 Batch B 朝 fact-library 加厚
+
+**决定：** 对用户优先的五包 `aztec`、`phoenician`、`anatolia-hittite`、`nubia-kush`、`elam-iran` 做朝 `fact-library` 的加厚（配方同 Batch A / D-2026-10-12-19）；**状态暂不升为 fact-library**（深度未达埃及/两河级）。诚信优先：无伪造页码/发现/配图。
+
+**每包大约增量：** +15 来源 · +8 遗址 · +4 时段 · +4 对象 · +15 主张 · +3 媒体（合计 +75/+40/+20/+20/+75/+15）。
+
+**坐标补填（仅有出处）：** 特拉特洛尔科、特斯科科（S/维基）；莫蒂亚、西顿（S/维基）；科尔玛（S/维基）。框架/指针遗址仍空。
+
+**报告：** [`docs/audits/pass-2026-10-12-hot-batch-b.md`](audits/pass-2026-10-12-hot-batch-b.md) · [中文](audits/pass-2026-10-12-hot-batch-b.zh.md)
+
+**验证：** `export_check` OK（40 包）。
+

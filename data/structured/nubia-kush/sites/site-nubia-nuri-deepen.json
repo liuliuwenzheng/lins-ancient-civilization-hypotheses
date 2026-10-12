@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-nuri-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "努里加深",
+    "en": "Nuri deepen",
+    "native": null
+  },
+  "kind_note": "Napatan pyramid cemetery",
+  "region": "Napata region",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "纳帕塔金字塔墓地加深。",
+    "en": "Napatan pyramid cemetery deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-nuri-deepen",
+    "src-nubia-dunham-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

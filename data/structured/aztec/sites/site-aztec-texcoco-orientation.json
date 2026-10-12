@@ -19,7 +19,11 @@
     "src-aztec-smith-2012",
     "src-aztec-hassig-orientation"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 19.5119,
+    "lon": -98.8828,
+    "precision_note": "English Wikipedia primary coordinates for Texcoco de Mora (ancient Texcoco vicinity); access 2026-10-12; grade=S low-precision orientation"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave3_shells/densify_wave3.py",
@@ -27,6 +31,6 @@
       "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense. | Coords filled D-2026-10-12-21."
   }
 }

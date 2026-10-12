@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-musawwarat-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "穆萨瓦拉特加深",
+    "en": "Musawwarat deepen",
+    "native": null
+  },
+  "kind_note": "Great Enclosure / temple complex",
+  "region": "Butana, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "大围墙/神庙复合体加深。",
+    "en": "Great Enclosure / temple-complex deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-musawwarat-deepen",
+    "src-nubia-torok-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

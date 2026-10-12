@@ -1,0 +1,36 @@
+{
+  "id": "period-elam-proto-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "原埃兰加深窗",
+    "en": "Proto-Elamite deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "time": {
+    "label": "Proto-Elamite writing and highland–lowland interaction",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Proto-Elamite writing and highland–lowland interaction"
+  },
+  "summary": {
+    "zh": "原埃兰文字与高地—低地互动窗。",
+    "en": "Proto-Elamite writing and highland–lowland interaction.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-proto-elamite-deepen",
+    "src-elam-potts-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

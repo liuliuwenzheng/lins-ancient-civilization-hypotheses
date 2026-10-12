@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-aubet-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Aubet《腓尼基人与西方》是西部殖民网络的标准英语综合（加深）。",
+    "en": "Aubet’s Phoenicians and the West is a standard English synthesis of the western colonial network (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-phoenician-western-colonies"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-deepen",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

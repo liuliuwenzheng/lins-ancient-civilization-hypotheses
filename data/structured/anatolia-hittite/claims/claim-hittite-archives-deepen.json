@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-archives-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈图沙泥板档案为帝国行政、条约与仪式提供成文证据（van den Hout；Beckman）。",
+    "en": "Hattusa tablet archives supply written evidence for imperial administration, treaties, and ritual.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-van-den-hout-deepen",
+    "src-hittite-beckman-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

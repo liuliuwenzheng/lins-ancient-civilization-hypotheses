@@ -1,0 +1,44 @@
+{
+  "id": "asm-yazilikaya-relief-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "亚兹勒卡亚浮雕加深",
+    "en": "Yazılıkaya relief deepen assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-yazilikaya",
+    "site-hittite-yazilikaya-deepen"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "神祇行进浮雕指针。",
+    "en": "Divine-procession relief pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-yazilikaya-deepen",
+    "src-hittite-seeher-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

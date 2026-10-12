@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-nisantepe-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "尼尚特佩碑铭指针",
+    "en": "Nişantaş inscription orientation",
+    "native": null
+  },
+  "kind_note": "Hieroglyphic inscription landscape",
+  "region": "Hattusa",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "象形铭文景观指针。",
+    "en": "Hieroglyphic inscription landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-seeher-deepen",
+    "src-hittite-van-den-hout-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-chinampa-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "索奇米尔科等湖田景观支撑盆地集约农业讨论（教科文 412 相关）。",
+    "en": "Xochimilco and related chinampa landscapes support Basin intensive-agriculture discussion (UNESCO 412-related).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-xochimilco-chinampa-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-chinampa-deepen",
+    "src-aztec-unesco-mexico-city-412"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

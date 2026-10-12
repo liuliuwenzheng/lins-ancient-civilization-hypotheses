@@ -1,0 +1,35 @@
+{
+  "id": "claim-nubia-napatan-cemeteries-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "库鲁与努里王室墓地是纳帕塔期葬仪考古的核心（Dunham 传统）。",
+    "en": "El-Kurru and Nuri royal cemeteries are core to Napatan funerary archaeology (Dunham tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-el-kurru",
+    "site-nuri",
+    "site-nubia-el-kurru-deepen",
+    "site-nubia-nuri-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-dunham-deepen",
+    "src-nubia-el-kurru-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

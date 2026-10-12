@@ -11,58 +11,105 @@
   "region": "Southwest Asia / southwestern Iran (Khuzestan–Fars; Susiana and Anshan)",
   "time_span": "ca. 3rd millennium BCE through Neo-Elamite into Achaemenid contexts (Potts 2016 overview)",
   "summary": {
-    "zh": "埃兰档案（library-seed-rich）：Potts/Carter–Stolper + 苏萨/安善/占比尔等关键遗址与分层时段；仍非埃及级密度。",
-    "en": "Elam archive (library-seed-rich): Potts/Carter–Stolper + key Susa/Anshan/Zanbil sites and phased periods; not yet Egypt-level density."
+    "zh": "埃兰档案加厚（Batch B）：苏萨—安善双中心、恰高·占比尔塔庙与原埃兰文字；仍非 fact-library。",
+    "en": "Elam densified (Batch B): Susa–Anshan dual centres, Chogha Zanbil ziggurat and Proto-Elamite writing; not yet fact-library.",
+    "native": null
   },
   "sources": [
+    "src-elam-alvarez-mon-deepen",
     "src-elam-alvarez-mon-elamite-world-2018",
     "src-elam-carter-stolper-1984",
+    "src-elam-carter-stolper-deepen",
+    "src-elam-chogha-mish-deepen",
+    "src-elam-gasche-susiana-deepen",
     "src-elam-gasche-susiana-orientation",
+    "src-elam-met-heilbrunn",
+    "src-elam-middle-elamite-deepen",
+    "src-elam-negahban-deepen",
     "src-elam-negahban-haft-tepe-orientation",
+    "src-elam-neo-elamite-deepen",
+    "src-elam-oxford-handbook-iran-deepen",
     "src-elam-pleiades-chogha-mish-912829",
     "src-elam-pleiades-kabnak-379400932",
     "src-elam-pleiades-malyan-922729",
     "src-elam-pleiades-susa-912936",
     "src-elam-pleiades-zanbil-459393126",
     "src-elam-potts-2016",
+    "src-elam-potts-deepen",
     "src-elam-potts-oxford-handbook-iran-2013",
+    "src-elam-proto-elamite-deepen",
+    "src-elam-steve-gasche-deepen",
     "src-elam-steve-gasche-susa-orientation",
+    "src-elam-sumner-malyan-deepen",
     "src-elam-sumner-malyan-orientation",
     "src-elam-unesco-susa-1455",
-    "src-elam-unesco-tchogha-zanbil"
+    "src-elam-unesco-susa-docs",
+    "src-elam-unesco-tchogha-zanbil",
+    "src-elam-unesco-zanbil-docs"
   ],
   "site_ids": [
     "site-anshan-tall-e-malyan",
     "site-chogha-bonut",
     "site-chogha-mish",
+    "site-elam-chogha-mish-deepen",
     "site-elam-fars-highland-frame",
+    "site-elam-haft-tepe-deepen",
+    "site-elam-malyan-anshan-deepen",
+    "site-elam-neo-elamite-orientation",
+    "site-elam-proto-elamite-admin-orientation",
+    "site-elam-susa-acropolis-deepen",
+    "site-elam-susa-royal-city-orientation",
     "site-elam-susiana-survey-frame",
+    "site-elam-zanbil-ziggurat-deepen",
     "site-haft-tepe-kabnak",
     "site-susa",
     "site-tchogha-zanbil"
   ],
   "period_ids": [
+    "period-elam-achaemenid-overlap",
     "period-elam-middle",
     "period-elam-neo",
+    "period-elam-neo-deepen",
+    "period-elam-old-middle-deepen",
     "period-elam-overview",
+    "period-elam-proto-deepen",
     "period-elam-proto-old"
   ],
   "claim_ids": [
+    "claim-elam-alvarez-mon-deepen",
+    "claim-elam-anshan-malyan-deepen",
     "claim-elam-anshan-malyan-identified",
+    "claim-elam-carter-stolper-deepen",
+    "claim-elam-chogha-mish-deepen",
     "claim-elam-chogha-mish-susiana-sequence",
+    "claim-elam-dual-capital-deepen",
     "claim-elam-dual-capital-susa-anshan",
+    "claim-elam-haft-tepe-deepen",
     "claim-elam-haft-tepe-kabnak-centre",
     "claim-elam-handbook-world-orientation",
+    "claim-elam-met-heilbrunn",
+    "claim-elam-neo-elamite-deepen",
     "claim-elam-neo-elamite-into-achaemenid",
+    "claim-elam-oxford-handbook-deepen",
+    "claim-elam-potts-deepen",
+    "claim-elam-proto-elamite-deepen",
     "claim-elam-proto-elamite-writing-frame",
+    "claim-elam-susa-acropolis-deepen",
     "claim-elam-susa-acropolis-memoir-tradition",
     "claim-elam-susa-unesco-stratified-mounds",
     "claim-elam-susiana-anshan-frame",
+    "claim-elam-unesco-susa-docs",
+    "claim-elam-unesco-zanbil-docs",
+    "claim-elam-zanbil-deepen",
     "claim-elam-zanbil-untash-ziggurat"
   ],
   "object_ids": [
+    "asm-elam-haft-tepe-deepen",
     "asm-elam-haft-tepe-frame",
+    "asm-elam-proto-elamite-tablets",
+    "asm-elam-susa-anshan-deepen",
     "asm-elam-susa-anshan-frame",
+    "asm-elam-zanbil-ziggurat-deepen",
     "asm-elam-zanbil-ziggurat-frame"
   ],
   "related_ids": [
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-elam-iran.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_hot_batch_b.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-21"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
   }
 }

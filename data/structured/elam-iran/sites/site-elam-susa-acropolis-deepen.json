@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-susa-acropolis-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "苏萨卫城加深",
+    "en": "Susa acropolis deepen",
+    "native": null
+  },
+  "kind_note": "Acropolis mound long sequence",
+  "region": "Susa, Khuzestan",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "卫城长序列加深。",
+    "en": "Acropolis long-sequence deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-steve-gasche-deepen",
+    "src-elam-potts-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

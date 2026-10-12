@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-buyukkale-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "大城堡指针",
+    "en": "Büyükkale orientation",
+    "native": null
+  },
+  "kind_note": "Royal citadel at Hattusa",
+  "region": "Boğazkale, Turkey",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "哈图沙王室城堡指针。",
+    "en": "Hattusa royal citadel orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-seeher-deepen",
+    "src-hittite-bryce-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

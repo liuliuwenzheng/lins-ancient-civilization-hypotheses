@@ -1,0 +1,43 @@
+{
+  "id": "asm-aztec-tribute-codex-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "贡赋法典组合",
+    "en": "Tribute–codex assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-tenochtitlan-island-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "贡赋与地名字形传统指针。",
+    "en": "Tribute and place-glyph tradition pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-codex-mendoza-orientation",
+    "src-aztec-berdan-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

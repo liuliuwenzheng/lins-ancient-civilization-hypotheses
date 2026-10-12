@@ -1,0 +1,36 @@
+{
+  "id": "period-aztec-contact-conquest",
+  "entity": "period",
+  "names": {
+    "zh": "接触—征服窗",
+    "en": "Contact–conquest window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "time": {
+    "label": "Spanish contact and 1521 fall of Tenochtitlan",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Spanish contact and 1521 fall of Tenochtitlan"
+  },
+  "summary": {
+    "zh": "接触与 1521 陷落窗。",
+    "en": "Contact and 1521 fall window.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-clendinnen-deepen",
+    "src-aztec-sahagun-florentine-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

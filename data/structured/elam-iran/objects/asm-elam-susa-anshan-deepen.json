@@ -1,0 +1,44 @@
+{
+  "id": "asm-elam-susa-anshan-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "苏萨—安善加深组合",
+    "en": "Susa–Anshan deepen assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-susa",
+    "site-anshan-tall-e-malyan"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "双中心政治地理指针。",
+    "en": "Dual-centre political-geography pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-sumner-malyan-deepen",
+    "src-elam-steve-gasche-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

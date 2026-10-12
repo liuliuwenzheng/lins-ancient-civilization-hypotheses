@@ -1,0 +1,34 @@
+{
+  "id": "claim-elam-proto-elamite-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "原埃兰行政泥板传统是早期书写与行政的关键证据（加深）。",
+    "en": "Proto-Elamite administrative tablets are key evidence for early writing and administration (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-proto-elamite-admin-orientation"
+  ],
+  "period_ids": [
+    "period-elam-proto-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-proto-elamite-deepen",
+    "src-elam-potts-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

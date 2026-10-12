@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-haft-tepe-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "哈夫特·特佩加深",
+    "en": "Haft Tepe deepen",
+    "native": null
+  },
+  "kind_note": "Middle Elamite centre (Kabnak)",
+  "region": "Khuzestan",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "中埃兰中心加深。",
+    "en": "Middle Elamite centre deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-negahban-deepen",
+    "src-elam-middle-elamite-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

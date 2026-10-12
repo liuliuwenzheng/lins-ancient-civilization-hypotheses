@@ -1,0 +1,33 @@
+{
+  "id": "claim-nubia-barkal-amun",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "杰贝尔·巴卡尔阿蒙神庙复合体是纳帕塔王权意识形态的核心景观。",
+    "en": "The Jebel Barkal Amun temple complex is a core landscape of Napatan royal ideology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-jebel-barkal",
+    "site-nubia-barkal-amun-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-welsby-deepen",
+    "src-nubia-unesco-gebel-barkal-1073"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

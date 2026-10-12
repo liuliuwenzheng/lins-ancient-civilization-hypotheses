@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-chogha-mish-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "恰高·米什加深",
+    "en": "Chogha Mish deepen",
+    "native": null
+  },
+  "kind_note": "Susiana prehistoric–protohistoric sequence",
+  "region": "Khuzestan",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "苏西亚那史前—原史序列加深。",
+    "en": "Susiana prehistoric–protohistoric deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-chogha-mish-deepen",
+    "src-elam-gasche-susiana-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

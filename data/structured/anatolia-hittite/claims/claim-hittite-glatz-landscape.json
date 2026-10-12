@@ -1,0 +1,30 @@
+{
+  "id": "claim-hittite-glatz-landscape",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Glatz 等景观考古讨论帝国权力在安纳托利亚高原的空间表达。",
+    "en": "Glatz’s landscape archaeology discusses spatial expressions of imperial power on the Anatolian plateau.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-glatz-deepen",
+    "src-hittite-glatz-anatolia-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

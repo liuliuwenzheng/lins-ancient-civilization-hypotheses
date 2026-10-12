@@ -1,0 +1,35 @@
+{
+  "id": "claim-hittite-karum-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "居尔tepe—卡内什商站泥板记录古亚述与安纳托利亚的贸易网络。",
+    "en": "Kültepe–Kaneš karum tablets document Old Assyrian–Anatolian trade networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-kultepe-kanes",
+    "site-hittite-kultepe-karum-deepen"
+  ],
+  "period_ids": [
+    "period-hittite-karum-age-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-ozguc-deepen",
+    "src-hittite-karum-trade-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

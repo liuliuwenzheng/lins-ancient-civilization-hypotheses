@@ -1,0 +1,30 @@
+{
+  "id": "claim-aztec-codex-mendoza",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《门多萨手卷》贡赋与地名字形传统是晚期后古典行政地理的民族史指针。",
+    "en": "Codex Mendoza tribute and place-glyph tradition is an ethnohistoric pointer to Late Postclassic administrative geography.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-codex-mendoza-orientation",
+    "src-aztec-berdan-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

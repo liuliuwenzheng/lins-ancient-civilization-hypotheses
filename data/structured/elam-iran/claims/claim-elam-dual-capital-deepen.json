@@ -1,0 +1,33 @@
+{
+  "id": "claim-elam-dual-capital-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "苏萨与安善双中心是理解埃兰政治地理的核心框架（加深）。",
+    "en": "Susa–Anshan dual centres are a core frame for Elamite political geography (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-susa",
+    "site-anshan-tall-e-malyan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-potts-deepen",
+    "src-elam-sumner-malyan-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

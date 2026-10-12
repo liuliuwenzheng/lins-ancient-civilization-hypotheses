@@ -1,0 +1,33 @@
+{
+  "id": "claim-hittite-alaca-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿拉贾早期精英墓与后续赫梯期占用构成长序列遗址案例。",
+    "en": "Alacahöyük early elite tombs and later Hittite occupation form a long-sequence site case.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-alacahoyuk",
+    "site-hittite-alaca-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-alaca-deepen",
+    "src-hittite-bryce-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

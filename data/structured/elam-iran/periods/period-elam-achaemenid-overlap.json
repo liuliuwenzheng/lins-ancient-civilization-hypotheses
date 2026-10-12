@@ -1,0 +1,36 @@
+{
+  "id": "period-elam-achaemenid-overlap",
+  "entity": "period",
+  "names": {
+    "zh": "埃兰—阿契美尼德重叠窗",
+    "en": "Elam–Achaemenid overlap window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "time": {
+    "label": "Elamite administrative/cultural continuity under early Achaemenids",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Elamite administrative/cultural continuity under early Achaemenids"
+  },
+  "summary": {
+    "zh": "早期阿契美尼德下埃兰行政/文化连续窗。",
+    "en": "Elamite admin/cultural continuity under early Achaemenids.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-neo-elamite-deepen",
+    "src-elam-oxford-handbook-iran-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

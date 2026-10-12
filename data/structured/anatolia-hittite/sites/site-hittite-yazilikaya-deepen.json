@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-yazilikaya-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "亚兹勒卡亚加深",
+    "en": "Yazılıkaya deepen",
+    "native": null
+  },
+  "kind_note": "Rock sanctuary with divine procession reliefs",
+  "region": "Near Hattusa",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "岩刻圣所加深。",
+    "en": "Rock-sanctuary deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-yazilikaya-deepen",
+    "src-hittite-seeher-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

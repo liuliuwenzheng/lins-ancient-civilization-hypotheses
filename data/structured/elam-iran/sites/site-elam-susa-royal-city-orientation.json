@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-susa-royal-city-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "苏萨王城指针",
+    "en": "Susa royal city orientation",
+    "native": null
+  },
+  "kind_note": "Ville Royale / royal city sector orientation",
+  "region": "Susa",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "王城区指针。",
+    "en": "Royal-city sector orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-steve-gasche-deepen",
+    "src-elam-carter-stolper-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

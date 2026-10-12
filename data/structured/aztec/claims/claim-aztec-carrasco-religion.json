@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-carrasco-religion",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Carrasco 等宗教宇宙观研究连接圣区建筑与仪式文本。",
+    "en": "Carrasco’s religion and cosmology work links sacred-precinct architecture with ritual texts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-templo-mayor-tenochtitlan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-carrasco-deepen",
+    "src-aztec-carrasco-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

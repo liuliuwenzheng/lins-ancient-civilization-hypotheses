@@ -1,0 +1,30 @@
+{
+  "id": "claim-nubia-handbook-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《牛津古代努比亚手册》汇集近年专题研究取向（Emberling & Williams）。",
+    "en": "The Oxford Handbook of Ancient Nubia collects recent specialist orientations (Emberling & Williams).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-emberling-deepen",
+    "src-nubia-emberling-williams-2021"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

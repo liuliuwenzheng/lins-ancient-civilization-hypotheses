@@ -1,0 +1,33 @@
+{
+  "id": "claim-elam-chogha-mish-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "恰高·米什为苏西亚那史前至原史序列提供 P 级样本。",
+    "en": "Chogha Mish supplies a P-grade sample of the Susiana prehistoric to protohistoric sequence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-chogha-mish",
+    "site-elam-chogha-mish-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-chogha-mish-deepen",
+    "src-elam-gasche-susiana-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "asm-nubia-napatan-pyramids-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳帕塔金字塔加深",
+    "en": "Napatan pyramids deepen assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-el-kurru-deepen",
+    "site-nubia-nuri-deepen",
+    "site-el-kurru",
+    "site-nuri"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "纳帕塔王室金字塔指针。",
+    "en": "Napatan royal pyramid pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-dunham-deepen",
+    "src-nubia-el-kurru-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

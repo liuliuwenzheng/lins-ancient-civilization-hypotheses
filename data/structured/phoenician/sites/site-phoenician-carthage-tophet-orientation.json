@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-carthage-tophet-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "迦太基托菲特指针",
+    "en": "Carthage tophet orientation",
+    "native": null
+  },
+  "kind_note": "Punic sacred precinct / tophet",
+  "region": "Carthage, Tunisia",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "布匿圣区/托菲特指针。",
+    "en": "Punic sacred precinct / tophet orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-carthage-excavation-deepen",
+    "src-phoenician-aubet-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

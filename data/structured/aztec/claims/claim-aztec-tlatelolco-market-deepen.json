@@ -1,0 +1,33 @@
+{
+  "id": "claim-aztec-tlatelolco-market-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "特拉特洛尔科市场区是双子城经济考古的关键节点（加深）。",
+    "en": "The Tlatelolco market precinct is a key node for twin-city economic archaeology (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-tlatelolco-deepen",
+    "site-tlatelolco-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-tlatelolco-deepen",
+    "src-aztec-smith-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

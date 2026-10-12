@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-conquest-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "1521 陷落的具体军事—流行病学因果权重仍在讨论（研究假说空间）。",
+    "en": "Relative weight of military versus epidemiological causes in the 1521 fall remains discussed.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aztec-contact-conquest"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-clendinnen-deepen",
+    "src-aztec-hassig-deepen"
+  ],
+  "disclaimer": "No single settled conquest mechanism. / 征服机制无单一定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

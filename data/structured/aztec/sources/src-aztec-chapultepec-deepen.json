@@ -1,0 +1,19 @@
+{
+  "id": "src-aztec-chapultepec-deepen",
+  "entity": "source",
+  "type": "article",
+  "citation": "Chapultepec sacred hill / aqueduct landscape archaeology orientation.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Chapultepec deepen orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

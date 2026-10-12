@@ -1,0 +1,36 @@
+{
+  "id": "period-phoenician-alphabet-diffusion",
+  "entity": "period",
+  "names": {
+    "zh": "字母扩散窗",
+    "en": "Alphabet diffusion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "Early Phoenician script and Mediterranean diffusion",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Phoenician script and Mediterranean diffusion"
+  },
+  "summary": {
+    "zh": "早期腓尼基字母与地中海扩散窗。",
+    "en": "Early script and Mediterranean diffusion window.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-alphabet-ahiram-deepen",
+    "src-phoenician-byblos-excavation-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

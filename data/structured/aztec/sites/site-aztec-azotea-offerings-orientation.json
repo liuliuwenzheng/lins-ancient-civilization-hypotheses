@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-azotea-offerings-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "屋顶/平台祭献指针",
+    "en": "Platform offering deposits orientation",
+    "native": null
+  },
+  "kind_note": "Templo Mayor offering deposits",
+  "region": "Templo Mayor",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "大神庙祭献堆积指针。",
+    "en": "Templo Mayor offering-deposit orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-lopez-lujan-deepen",
+    "src-aztec-lopez-lujan-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

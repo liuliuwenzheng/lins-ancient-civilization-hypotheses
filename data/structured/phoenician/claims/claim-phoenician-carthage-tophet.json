@@ -1,0 +1,33 @@
+{
+  "id": "claim-phoenician-carthage-tophet",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "迦太基托菲特与港湾遗存支撑布匿都市宗教与港口经济讨论。",
+    "en": "Carthage tophet and harbour remains support discussion of Punic urban religion and port economy.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-carthage-tophet-orientation",
+    "site-phoenician-carthage-harbours-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-carthage-excavation-deepen",
+    "src-phoenician-bondi-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

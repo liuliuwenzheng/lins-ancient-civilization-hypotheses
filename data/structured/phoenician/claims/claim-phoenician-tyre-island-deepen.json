@@ -1,0 +1,33 @@
+{
+  "id": "claim-phoenician-tyre-island-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "推罗岛城与后续堤道景观是黎凡特腓尼基母城的核心空间结构。",
+    "en": "Tyre’s island-city and later causeway landscape are core spatial structures of a Levantine mother-city.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-tyre-sur",
+    "site-phoenician-tyre-island-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-tyre-excavation-deepen",
+    "src-phoenician-elayi-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

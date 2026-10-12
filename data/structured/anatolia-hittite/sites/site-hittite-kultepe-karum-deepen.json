@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-kultepe-karum-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "居尔tepe商站加深",
+    "en": "Kültepe karum deepen",
+    "native": null
+  },
+  "kind_note": "Old Assyrian merchant colony archives",
+  "region": "Kayseri region, Turkey",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "古亚述商站档案加深。",
+    "en": "Old Assyrian karum archive deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-ozguc-deepen",
+    "src-hittite-karum-trade-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

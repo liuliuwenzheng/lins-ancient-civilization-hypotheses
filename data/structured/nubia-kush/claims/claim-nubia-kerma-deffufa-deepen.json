@@ -1,0 +1,35 @@
+{
+  "id": "claim-nubia-kerma-deffufa-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "科尔玛西德富法等纪念性建筑支撑早期努比亚城市复合体讨论（Bonnet 传统）。",
+    "en": "Kerma’s Western Deffufa and related monuments support discussion of an early Nubian urban complex (Bonnet tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-kerma",
+    "site-nubia-western-deffufa-orientation"
+  ],
+  "period_ids": [
+    "period-nubia-kerma-classic-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-bonnet-deepen",
+    "src-nubia-edwards-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

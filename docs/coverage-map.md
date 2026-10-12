@@ -107,7 +107,7 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 ## Product stance
 
-**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`).** Honesty of status beats vanity of count. Next: continue coord/media fill toward fact-library density on expanding packs; open remaining Missing where archives allow.
+**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`), of which 10 hot-densified (~30 sources; Batches A+B).** Honesty of status beats vanity of count. Next: continue coord/media fill toward fact-library density on remaining expanding packs; open remaining Missing where archives allow.
 
-> **2026-10-12 update:** Hot Batch A densify (D-2026-10-12-19) raised teotihuacan / classic-maya / inca / angkor / aksum toward denser `library-seed-rich` (~30 sources each). 嘻嘻 coords ingest (D-2026-10-12-20): +27 fills, 7 P-upgrades; Yufu left empty.
+> **2026-10-12 update:** Hot Batch A densify (D-2026-10-12-19) raised teotihuacan / classic-maya / inca / angkor / aksum toward denser `library-seed-rich` (~30 sources each). 嘻嘻 coords ingest (D-2026-10-12-20): +27 fills, 7 P-upgrades; Yufu left empty. Hot Batch B densify (D-2026-10-12-21) raised aztec / phoenician / anatolia-hittite / nubia-kush / elam-iran to the same denser band (~30 sources / 15–17 sites / ~26 claims each); status remains `library-seed-rich`.
 

@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-coyolxauhqui-stone-context",
+  "entity": "site",
+  "names": {
+    "zh": "Coyolxauhqui 石刻出土语境",
+    "en": "Coyolxauhqui stone find context",
+    "native": null
+  },
+  "kind_note": "Monolith find context at Templo Mayor",
+  "region": "Templo Mayor, Mexico City",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "大神庙石刻出土语境指针。",
+    "en": "Templo Mayor monolith find-context orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-matos-templo-mayor",
+    "src-aztec-matos-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

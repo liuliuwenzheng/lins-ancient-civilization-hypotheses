@@ -1,0 +1,33 @@
+{
+  "id": "claim-nubia-musawwarat-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "穆萨瓦拉特大围墙复合体是布塔纳麦罗埃仪礼景观的关键遗址。",
+    "en": "Musawwarat’s Great Enclosure complex is a key Butana Meroitic ritual landscape site.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-musawwarat-es-sufra",
+    "site-nubia-musawwarat-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-musawwarat-deepen",
+    "src-nubia-torok-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

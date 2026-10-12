@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-western-deffufa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "西德富法指针",
+    "en": "Western Deffufa orientation",
+    "native": null
+  },
+  "kind_note": "Monumental mudbrick temple/structure at Kerma",
+  "region": "Kerma, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "科尔玛纪念性土坯建筑指针。",
+    "en": "Kerma monumental mudbrick structure orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-bonnet-deepen",
+    "src-nubia-edwards-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-nubia-napatan-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "纳帕塔加深窗",
+    "en": "Napatan deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Napatan state and 25th Dynasty horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Napatan state and 25th Dynasty horizon"
+  },
+  "summary": {
+    "zh": "纳帕塔国家与第二十五王朝视界。",
+    "en": "Napatan state and 25th Dynasty horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-welsby-deepen",
+    "src-nubia-twenty-fifth-dynasty-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

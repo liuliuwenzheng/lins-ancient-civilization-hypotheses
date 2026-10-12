@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-unesco-meroe-docs",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文麦罗埃岛文件页汇总世界遗产保护材料。",
+    "en": "UNESCO Island of Meroe documents page aggregates World Heritage protection materials.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-meroe"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-unesco-meroe-docs",
+    "src-nubia-unesco-island-meroe-2011"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

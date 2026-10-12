@@ -11,58 +11,105 @@
   "region": "Mesoamerica / Basin of Mexico (Tenochtitlan–Tlatelolco)",
   "time_span": "Late Postclassic Triple Alliance floruit broadly 14th–early 16th centuries CE (Smith / Matos Moctezuma frames)",
   "summary": {
-    "zh": "阿兹特克/墨西卡档案（library-seed-rich）：Smith/Matos + 大神庙 INAH + 墨西哥城教科文；仍非埃及级密度。",
-    "en": "Aztec/Mexica archive (library-seed-rich): Smith/Matos + Templo Mayor INAH + Mexico City UNESCO; not yet Egypt-level density."
+    "zh": "阿兹特克/墨西加档案加厚（热门 Batch B）：大神庙祭献、三重同盟城市、市场与法典传统；仍低于埃及级 fact-library。",
+    "en": "Aztec/Mexica densified (hot Batch B): Templo Mayor offerings, Triple Alliance cities, markets and ethnohistoric traditions; still below Egypt-level fact-library.",
+    "native": null
   },
   "sources": [
+    "src-aztec-berdan-deepen",
     "src-aztec-berdan-orientation",
+    "src-aztec-carrasco-deepen",
     "src-aztec-carrasco-orientation",
+    "src-aztec-chapultepec-deepen",
+    "src-aztec-chinampa-deepen",
+    "src-aztec-clendinnen-deepen",
     "src-aztec-clendinnen-orientation",
+    "src-aztec-codex-mendoza-orientation",
+    "src-aztec-hassig-deepen",
     "src-aztec-hassig-orientation",
+    "src-aztec-inah-templo-deepen",
     "src-aztec-inah-templo-mayor-web",
     "src-aztec-lopez-austin-lopez-lujan",
+    "src-aztec-lopez-lujan-deepen",
     "src-aztec-lopez-lujan-orientation",
+    "src-aztec-matos-deepen",
     "src-aztec-matos-inah-more",
     "src-aztec-matos-templo-mayor",
+    "src-aztec-sahagun-florentine-deepen",
     "src-aztec-sahagun-orientation",
     "src-aztec-smith-2012",
+    "src-aztec-smith-deepen",
     "src-aztec-smith-urban",
+    "src-aztec-tlatelolco-deepen",
     "src-aztec-townsend-orientation",
+    "src-aztec-triple-alliance-deepen",
+    "src-aztec-unesco-412-docs",
     "src-aztec-unesco-docs",
     "src-aztec-unesco-mexico-city-412"
   ],
   "site_ids": [
+    "site-aztec-azotea-offerings-orientation",
     "site-aztec-chapultepec-orientation",
+    "site-aztec-coyolxauhqui-stone-context",
+    "site-aztec-house-of-eagles-orientation",
+    "site-aztec-huey-tzompantli-orientation",
     "site-aztec-tenochtitlan-island-orientation",
+    "site-aztec-texcoco-deepen",
     "site-aztec-texcoco-orientation",
+    "site-aztec-tlacopan-deepen",
     "site-aztec-tlacopan-orientation",
+    "site-aztec-tlatelolco-deepen",
     "site-aztec-tlatelolco-market-orientation",
+    "site-aztec-xochimilco-chinampa-orientation",
     "site-templo-mayor-tenochtitlan",
     "site-tlatelolco-orientation"
   ],
   "period_ids": [
+    "period-aztec-contact-conquest",
     "period-aztec-early-mexica",
+    "period-aztec-imperial-expansion",
     "period-aztec-late-postclassic",
+    "period-aztec-mexica-migration-frame",
     "period-aztec-spanish-contact",
+    "period-aztec-templo-mayor-phases",
     "period-aztec-triple-alliance"
   ],
   "claim_ids": [
+    "claim-aztec-berdan-tribute",
+    "claim-aztec-carrasco-religion",
+    "claim-aztec-chinampa-deepen",
     "claim-aztec-clendinnen",
+    "claim-aztec-codex-mendoza",
+    "claim-aztec-conquest-hypothesis",
     "claim-aztec-hassig-warfare",
+    "claim-aztec-hassig-warfare-deepen",
+    "claim-aztec-inah-portal",
     "claim-aztec-inah-web",
     "claim-aztec-lopez-lujan-offerings",
+    "claim-aztec-lopez-lujan-offerings-deepen",
+    "claim-aztec-matos-deepen",
     "claim-aztec-matos-templo",
     "claim-aztec-sahagun",
+    "claim-aztec-sahagun-deepen",
     "claim-aztec-smith-aztecs",
+    "claim-aztec-smith-urban-deepen",
     "claim-aztec-templo-mayor-centre",
+    "claim-aztec-templo-phases",
     "claim-aztec-tlatelolco-market",
+    "claim-aztec-tlatelolco-market-deepen",
     "claim-aztec-triple-alliance",
-    "claim-aztec-unesco-centro"
+    "claim-aztec-triple-alliance-deepen",
+    "claim-aztec-unesco-centro",
+    "claim-aztec-unesco-docs-deepen"
   ],
   "object_ids": [
+    "asm-aztec-chinampa-economy-frame",
     "asm-aztec-codex-ethnohistory-frame",
     "asm-aztec-templo-mayor-frame",
-    "asm-aztec-templo-mayor-offerings-frame"
+    "asm-aztec-templo-mayor-offerings-deepen",
+    "asm-aztec-templo-mayor-offerings-frame",
+    "asm-aztec-tribute-codex-frame",
+    "asm-aztec-warfare-insignia-frame"
   ],
   "related_ids": [
     "civ-teotihuacan",
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-aztec.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_hot_batch_b.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-21"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
   }
 }

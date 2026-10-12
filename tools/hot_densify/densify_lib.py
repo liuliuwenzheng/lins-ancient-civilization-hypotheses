@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
-"""Shared helpers for hot-pack densify toward fact-library (D-2026-10-12-19)."""
+"""Shared helpers for hot-pack densify toward fact-library (Batch B: D-2026-10-12-21)."""
 from __future__ import annotations
 import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 TODAY = "2026-10-12"
-DECISION = "D-2026-10-12-19"
+DECISION = "D-2026-10-12-21"
 ED = {
     "derived_from": [
-        "tools/hot_densify/densify_hot_batch_a.py",
+        "tools/hot_densify/densify_hot_batch_b.py",
         "docs/coverage-map.md",
         f"docs/decisions.md#{DECISION.lower()}",
     ],
     "derived_on": TODAY,
     "notes": (
-        f"Hot-pack densify Batch A toward fact-library ({DECISION}). "
+        f"Hot-pack densify Batch B toward fact-library ({DECISION}). "
         "No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
     ),
 }
@@ -167,7 +167,6 @@ def apply_pack(pack_name: str, payload: dict) -> dict:
     period_ids = sorted(p.stem for p in (pack_dir / "periods").glob("*.json"))
     claim_ids = sorted(p.stem for p in (pack_dir / "claims").glob("*.json"))
     object_ids = sorted(p.stem for p in (pack_dir / "objects").glob("*.json"))
-    # Keep library-seed-rich unless payload explicitly sets fact-library AND counts warrant it
     status = payload.get("status", "library-seed-rich")
     civ["status"] = status
     if payload.get("summary"):

@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-barkal-amun-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "巴卡尔阿蒙神庙指针",
+    "en": "Barkal Amun temple orientation",
+    "native": null
+  },
+  "kind_note": "Amun temple complex at Jebel Barkal",
+  "region": "Napata region",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "纳帕塔阿蒙神庙指针。",
+    "en": "Napata Amun temple orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-welsby-deepen",
+    "src-nubia-unesco-gebel-barkal-1073"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

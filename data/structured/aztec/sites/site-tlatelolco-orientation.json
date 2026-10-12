@@ -19,7 +19,11 @@
     "src-aztec-smith-2012",
     "src-aztec-unesco-mexico-city-412"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 19.451,
+    "lon": -99.137,
+    "precision_note": "English Wikipedia primary coordinates for Plaza de las Tres Culturas / Tlatelolco vicinity; access 2026-10-12; grade=S orientation"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave3_shells/generate_wave3.py",
@@ -27,6 +31,6 @@
       "docs/decisions.md#d-2026-10-12-15"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-21."
   }
 }

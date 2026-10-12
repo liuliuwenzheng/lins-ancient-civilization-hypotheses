@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-malyan-anshan-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "安善/马利安加深",
+    "en": "Malyan / Anshan deepen",
+    "native": null
+  },
+  "kind_note": "Highland capital identified with Anshan",
+  "region": "Fars, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "高地都城安善加深。",
+    "en": "Highland capital Anshan deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-sumner-malyan-deepen",
+    "src-elam-potts-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

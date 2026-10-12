@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-potts-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Potts《埃兰考古》是埃兰考古的标准英语综合（加深）。",
+    "en": "Potts’s Archaeology of Elam is a standard English archaeological synthesis (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-susa"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-potts-deepen",
+    "src-elam-potts-2016"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

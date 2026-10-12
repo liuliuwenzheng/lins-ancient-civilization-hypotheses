@@ -11,25 +11,41 @@
   "region": "Northeast Africa / Middle Nile (southern Egypt and Sudan)",
   "time_span": "Kerma Bronze Age through Napatan–Meroitic Kush (Edwards 2004 overview)",
   "summary": {
-    "zh": "努比亚/库施档案（library-seed-rich）：Edwards/Welsby + Kerma/纳帕塔/麦罗埃关键遗址与阶段窗；仍加厚中。",
-    "en": "Nubia/Kush archive (library-seed-rich): Edwards/Welsby + Kerma/Napata/Meroe keystone sites and phase windows; still thickening."
+    "zh": "努比亚/库施档案加厚（Batch B）：科尔玛—纳帕塔—麦罗埃长序列、金字塔与麦罗埃文；仍非 fact-library。",
+    "en": "Nubia/Kush densified (Batch B): Kerma–Napata–Meroe long sequence, pyramids and Meroitic script; not yet fact-library.",
+    "native": null
   },
   "sources": [
+    "src-nubia-bonnet-deepen",
     "src-nubia-bonnet-honegger-kerma-orientation",
     "src-nubia-bonnet-kerma-orientation",
     "src-nubia-dunham-barkal-orientation",
+    "src-nubia-dunham-deepen",
     "src-nubia-edwards-2004",
+    "src-nubia-edwards-deepen",
+    "src-nubia-el-kurru-deepen",
+    "src-nubia-emberling-deepen",
     "src-nubia-emberling-williams-2021",
+    "src-nubia-met-heilbrunn",
+    "src-nubia-musawwarat-deepen",
+    "src-nubia-naqa-deepen",
+    "src-nubia-nuri-deepen",
     "src-nubia-oxford-handbook-chapters-orientation",
     "src-nubia-pleiades-barkal-508356079",
     "src-nubia-pleiades-meroe-805630",
     "src-nubia-pleiades-musawwarat-805632",
     "src-nubia-pleiades-naqa-805635",
+    "src-nubia-rilly-deepen",
     "src-nubia-rilly-meroitic-orientation",
     "src-nubia-torok-1997",
+    "src-nubia-torok-deepen",
+    "src-nubia-twenty-fifth-dynasty-deepen",
+    "src-nubia-unesco-barkal-docs",
     "src-nubia-unesco-gebel-barkal-1073",
     "src-nubia-unesco-island-meroe-2011",
-    "src-nubia-welsby-1996"
+    "src-nubia-unesco-meroe-docs",
+    "src-nubia-welsby-1996",
+    "src-nubia-welsby-deepen"
   ],
   "site_ids": [
     "site-el-kurru",
@@ -39,31 +55,62 @@
     "site-meroe",
     "site-musawwarat-es-sufra",
     "site-naqa",
+    "site-nubia-barkal-amun-orientation",
+    "site-nubia-el-kurru-deepen",
+    "site-nubia-kerma-cemetery-deepen",
+    "site-nubia-meroe-pyramids-deepen",
+    "site-nubia-musawwarat-deepen",
+    "site-nubia-naqa-deepen",
+    "site-nubia-nuri-deepen",
+    "site-nubia-western-deffufa-orientation",
     "site-nuri",
     "site-sanam"
   ],
   "period_ids": [
     "period-nubia-kerma",
+    "period-nubia-kerma-classic-deepen",
     "period-nubia-kush-overview",
     "period-nubia-meroitic",
-    "period-nubia-napatan"
+    "period-nubia-meroitic-deepen",
+    "period-nubia-napatan",
+    "period-nubia-napatan-deepen",
+    "period-nubia-post-meroitic-frame"
   ],
   "claim_ids": [
+    "claim-nubia-25th-dynasty-deepen",
+    "claim-nubia-barkal-amun",
     "claim-nubia-barkal-unesco-napatan",
+    "claim-nubia-edwards-deepen",
     "claim-nubia-handbook-2021-orientation",
+    "claim-nubia-handbook-deepen",
+    "claim-nubia-kerma-deffufa-deepen",
     "claim-nubia-kerma-deffufa-urban",
     "claim-nubia-kerma-meroe-sequence",
     "claim-nubia-long-sequence-edwards",
+    "claim-nubia-meroe-pyramids-deepen",
     "claim-nubia-meroe-unesco-island",
     "claim-nubia-meroitic-script-archive-medium",
+    "claim-nubia-meroitic-script-deepen",
+    "claim-nubia-met-heilbrunn",
+    "claim-nubia-musawwarat-deepen",
     "claim-nubia-musawwarat-temple-complex",
+    "claim-nubia-napatan-cemeteries-deepen",
     "claim-nubia-napatan-royal-cemeteries",
+    "claim-nubia-naqa-deepen",
     "claim-nubia-naqa-temple-settlement",
-    "claim-nubia-twenty-fifth-dynasty-frame"
+    "claim-nubia-post-meroitic-hypothesis",
+    "claim-nubia-twenty-fifth-dynasty-frame",
+    "claim-nubia-unesco-barkal-docs",
+    "claim-nubia-unesco-meroe-docs",
+    "claim-nubia-welsby-deepen"
   ],
   "object_ids": [
+    "asm-nubia-butana-temples-frame",
+    "asm-nubia-kerma-deffufa-deepen",
     "asm-nubia-kerma-deffufa-frame",
     "asm-nubia-meroe-pyramids-frame",
+    "asm-nubia-meroitic-script-frame",
+    "asm-nubia-napatan-pyramids-deepen",
     "asm-nubia-napatan-pyramids-frame"
   ],
   "related_ids": [
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-nubia-kush.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_hot_batch_b.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-21"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
   }
 }

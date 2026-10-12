@@ -20,7 +20,11 @@
     "src-phoenician-markoe-2000",
     "src-phoenician-elayi-orientation"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 33.5631,
+    "lon": 35.3689,
+    "precision_note": "English Wikipedia / common gazetteer coordinates for Sidon (Ṣaydā) vicinity; access 2026-10-12; grade=S low-precision"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave2_shells/densify_wave2.py",
@@ -28,6 +32,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. | Coords filled D-2026-10-12-21."
   }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-xochimilco-chinampa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "索奇米尔科湖田指针",
+    "en": "Xochimilco chinampa orientation",
+    "native": null
+  },
+  "kind_note": "Chinampa agricultural landscape",
+  "region": "Xochimilco, Basin of Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "湖田农业景观指针（教科文 412 相关）。",
+    "en": "Chinampa landscape orientation (UNESCO 412-related).",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-chinampa-deepen",
+    "src-aztec-unesco-mexico-city-412"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

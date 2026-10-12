@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-temple-district-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈图沙上城神庙区体现帝国期都城的多神庙规划（Neve 传统）。",
+    "en": "Hattusa Upper City temple district reflects multi-temple planning in the imperial capital (Neve tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-upper-city-temples"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-neve-deepen",
+    "src-hittite-seeher-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

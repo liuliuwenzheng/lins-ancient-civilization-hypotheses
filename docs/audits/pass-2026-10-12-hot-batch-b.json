@@ -1,0 +1,132 @@
+{
+  "decision": "D-2026-10-12-21",
+  "date": "2026-10-12",
+  "packs": [
+    {
+      "pack": "aztec",
+      "before": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "after": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 5
+      },
+      "civ_id": "civ-aztec",
+      "status": "library-seed-rich",
+      "coords_filled": [
+        "site-tlatelolco-orientation",
+        "site-aztec-texcoco-orientation"
+      ]
+    },
+    {
+      "pack": "phoenician",
+      "before": {
+        "sources": 15,
+        "sites": 8,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "after": {
+        "sources": 30,
+        "sites": 16,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "civ_id": "civ-phoenician",
+      "status": "library-seed-rich",
+      "coords_filled": [
+        "site-motya-sicily",
+        "site-sidon-saida"
+      ]
+    },
+    {
+      "pack": "anatolia-hittite",
+      "before": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "after": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "civ_id": "civ-anatolia-hittite",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "nubia-kush",
+      "before": {
+        "sources": 15,
+        "sites": 9,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "after": {
+        "sources": 30,
+        "sites": 17,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "civ_id": "civ-nubia-kush",
+      "status": "library-seed-rich",
+      "coords_filled": [
+        "site-kerma"
+      ]
+    },
+    {
+      "pack": "elam-iran",
+      "before": {
+        "sources": 15,
+        "sites": 8,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "after": {
+        "sources": 30,
+        "sites": 16,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "civ_id": "civ-elam-iran",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 75,
+    "sites": 40,
+    "periods": 20,
+    "objects": 20,
+    "claims": 75,
+    "media": 15
+  }
+}

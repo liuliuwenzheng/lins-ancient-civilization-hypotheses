@@ -1,0 +1,36 @@
+{
+  "id": "period-elam-old-middle-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "古—中埃兰加深窗",
+    "en": "Old–Middle Elamite deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "time": {
+    "label": "Old to Middle Elamite state and Chogha Zanbil horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Old to Middle Elamite state and Chogha Zanbil horizon"
+  },
+  "summary": {
+    "zh": "古至中埃兰国家与占比尔视界。",
+    "en": "Old–Middle Elamite state and Zanbil horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-middle-elamite-deepen",
+    "src-elam-carter-stolper-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

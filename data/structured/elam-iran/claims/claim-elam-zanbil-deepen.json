@@ -1,0 +1,33 @@
+{
+  "id": "claim-elam-zanbil-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "恰高·占比尔塔庙是中埃兰温塔什—纳皮里沙建筑计划的标志（UNESCO 113）。",
+    "en": "Chogha Zanbil ziggurat is the signature of Untash-Napirisha’s Middle Elamite building programme (UNESCO 113).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-tchogha-zanbil",
+    "site-elam-zanbil-ziggurat-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-middle-elamite-deepen",
+    "src-elam-unesco-tchogha-zanbil"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-sarepta-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "萨雷普塔加深",
+    "en": "Sarepta deepen",
+    "native": null
+  },
+  "kind_note": "Coastal industrial/settlement site",
+  "region": "Sarafand, Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "沿岸工业/聚落加深。",
+    "en": "Coastal industrial/settlement deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-sarepta-deepen",
+    "src-phoenician-markoe-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

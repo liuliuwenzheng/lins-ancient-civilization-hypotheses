@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-smith-urban-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Smith 的阿兹特克城市与考古综合支撑盆地城市体系讨论（加深）。",
+    "en": "Smith’s Aztec urban archaeology supports discussion of the Basin urban system (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-tenochtitlan-island-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-smith-deepen",
+    "src-aztec-smith-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

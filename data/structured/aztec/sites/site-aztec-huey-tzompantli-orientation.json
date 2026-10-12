@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-huey-tzompantli-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "大头骨架指针",
+    "en": "Huey Tzompantli orientation",
+    "native": null
+  },
+  "kind_note": "Skull rack / sacrificial architecture orientation",
+  "region": "Templo Mayor precinct, Mexico City",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "大神庙区头骨架建筑指针。",
+    "en": "Skull-rack architecture orientation in the sacred precinct.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-matos-deepen",
+    "src-aztec-lopez-lujan-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

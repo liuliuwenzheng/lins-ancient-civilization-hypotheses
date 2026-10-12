@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-kition-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "基提翁加深",
+    "en": "Kition deepen",
+    "native": null
+  },
+  "kind_note": "Cyprus Phoenician harbour/temple centre",
+  "region": "Larnaca, Cyprus",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "塞浦路斯港庙中心加深。",
+    "en": "Cyprus harbour/temple centre deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-kition-deepen",
+    "src-phoenician-markoe-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

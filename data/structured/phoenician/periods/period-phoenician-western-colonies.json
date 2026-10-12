@@ -1,0 +1,36 @@
+{
+  "id": "period-phoenician-western-colonies",
+  "entity": "period",
+  "names": {
+    "zh": "西部殖民窗",
+    "en": "Western colonization window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "Western Mediterranean colonial network (Gadir, Motya, Carthage frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Western Mediterranean colonial network (Gadir, Motya, Carthage frame)"
+  },
+  "summary": {
+    "zh": "西地中海殖民网络窗。",
+    "en": "Western Mediterranean colonial-network window.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-deepen",
+    "src-phoenician-gadir-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

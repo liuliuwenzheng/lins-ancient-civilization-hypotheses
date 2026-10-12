@@ -1,0 +1,36 @@
+{
+  "id": "period-punic-wars-horizon",
+  "entity": "period",
+  "names": {
+    "zh": "布匿战争视界窗",
+    "en": "Punic Wars horizon window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "Carthaginian–Roman conflict horizon (historical frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Carthaginian–Roman conflict horizon (historical frame)"
+  },
+  "summary": {
+    "zh": "迦太基—罗马冲突视界窗。",
+    "en": "Carthaginian–Roman conflict horizon window.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-bondi-deepen",
+    "src-phoenician-carthage-excavation-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -820,3 +820,15 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK.
 
+### D-2026-10-12-21 — Hot-pack Batch B densify toward fact-library
+
+**Decision:** Densify user-priority packs `aztec`, `phoenician`, `anatolia-hittite`, `nubia-kush`, `elam-iran` toward the `fact-library` band (same recipe as Batch A / D-2026-10-12-19); **do not promote status to `fact-library` yet** (depth still below Egypt/Mesopotamia). Integrity over completeness: no invented pages/finds/media art.
+
+**Approx. per-pack delta:** +15 sources · +8 sites · +4 periods · +4 objects · +15 claims · +3 media (totals +75/+40/+20/+20/+75/+15).
+
+**Coord fills (grounded only):** Tlatelolco, Texcoco (S/Wikipedia); Motya, Sidon (S/Wikipedia); Kerma (S/Wikipedia). Orientation frames left null.
+
+**Reports:** [`docs/audits/pass-2026-10-12-hot-batch-b.md`](audits/pass-2026-10-12-hot-batch-b.md) · [中文](audits/pass-2026-10-12-hot-batch-b.zh.md)
+
+**Verified:** `export_check` OK (40 packs).
+

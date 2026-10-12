@@ -1,0 +1,33 @@
+{
+  "id": "claim-elam-neo-elamite-deepen",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "新埃兰至阿契美尼德过渡涉及行政与文化连续，具体过程仍在讨论。",
+    "en": "Neo-Elamite to Achaemenid transition involves administrative and cultural continuity; specifics remain discussed.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-elam-neo-deepen",
+    "period-elam-achaemenid-overlap"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-neo-elamite-deepen",
+    "src-elam-alvarez-mon-deepen"
+  ],
+  "disclaimer": "No single settled transition mechanism. / 过渡机制无单一定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

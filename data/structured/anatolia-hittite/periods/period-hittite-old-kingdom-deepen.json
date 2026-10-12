@@ -1,0 +1,36 @@
+{
+  "id": "period-hittite-old-kingdom-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "古王国加深窗",
+    "en": "Old Kingdom deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "Old Hittite Kingdom political consolidation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Old Hittite Kingdom political consolidation"
+  },
+  "summary": {
+    "zh": "古赫梯王国巩固窗。",
+    "en": "Old Hittite Kingdom consolidation window.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-bryce-deepen",
+    "src-hittite-collins-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

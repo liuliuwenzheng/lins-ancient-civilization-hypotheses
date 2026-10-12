@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-tyre-island-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "推罗岛城指针",
+    "en": "Tyre island-city orientation",
+    "native": null
+  },
+  "kind_note": "Island metropolis and causeway landscape",
+  "region": "Tyre, Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "岛城与堤道景观指针。",
+    "en": "Island-city and causeway landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-tyre-excavation-deepen",
+    "src-phoenician-elayi-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

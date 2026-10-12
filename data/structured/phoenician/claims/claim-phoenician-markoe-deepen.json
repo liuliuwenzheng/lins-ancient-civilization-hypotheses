@@ -1,0 +1,30 @@
+{
+  "id": "claim-phoenician-markoe-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Markoe《腓尼基人》提供面向通史的城邦与艺术综合（加深）。",
+    "en": "Markoe’s Phoenicians supplies a general-history synthesis of city-states and arts (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-markoe-deepen",
+    "src-phoenician-markoe-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

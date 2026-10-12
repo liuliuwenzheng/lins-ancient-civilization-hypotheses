@@ -1,0 +1,36 @@
+{
+  "id": "period-nubia-meroitic-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "麦罗埃加深窗",
+    "en": "Meroitic deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Meroitic kingdom, script, and Butana centres",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Meroitic kingdom, script, and Butana centres"
+  },
+  "summary": {
+    "zh": "麦罗埃王国、文字与布塔纳中心。",
+    "en": "Meroitic kingdom, script, and Butana centres.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-rilly-deepen",
+    "src-nubia-torok-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

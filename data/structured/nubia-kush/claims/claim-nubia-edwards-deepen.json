@@ -1,0 +1,30 @@
+{
+  "id": "claim-nubia-edwards-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Edwards《努比亚的过去》是长序列努比亚考古的标准英语综合（加深）。",
+    "en": "Edwards’s Nubian Past is a standard English long-sequence synthesis (deepen).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-edwards-deepen",
+    "src-nubia-edwards-2004"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

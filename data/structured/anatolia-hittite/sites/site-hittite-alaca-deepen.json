@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-alaca-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "阿拉贾加深",
+    "en": "Alacahöyük deepen",
+    "native": null
+  },
+  "kind_note": "Early elite tombs and later Hittite occupation",
+  "region": "Çorum region",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "早期精英墓与赫梯期占用加深。",
+    "en": "Early elite tombs and Hittite-period deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-alaca-deepen",
+    "src-hittite-bryce-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

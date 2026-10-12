@@ -1,0 +1,44 @@
+{
+  "id": "asm-phoenician-purple-dye-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "紫染产业组合",
+    "en": "Purple-dye industry assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-tyre-sur",
+    "site-phoenician-tyre-island-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "推罗紫染产业指针。",
+    "en": "Tyrian purple-dye industry pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-markoe-deepen",
+    "src-phoenician-tyre-excavation-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

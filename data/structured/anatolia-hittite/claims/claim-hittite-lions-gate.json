@@ -1,0 +1,33 @@
+{
+  "id": "claim-hittite-lions-gate",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "狮门等纪念性城门是哈图沙城市景观的标志性建筑元素。",
+    "en": "The Lion Gate and related monumental gates are signature elements of the Hattusa urban landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-lions-gate-orientation",
+    "site-hattusa"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-seeher-deepen",
+    "src-hittite-unesco-hattusa"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-21"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch B toward fact-library (D-2026-10-12-21). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}
