@@ -1,0 +1,43 @@
+{
+  "id": "asm-western-zhou-landscape-power",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "西周景观与权力文献组合",
+    "en": "Western Zhou landscape-and-power literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-zhouyuan",
+    "site-fengxi-zhangjiapo"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "summary": {
+    "zh": "Li Feng 2006 与 Rawson 1990 等西周政治地理/礼器讨论（文献组合）。",
+    "en": "Li Feng 2006 and Rawson 1990 discussions of Western Zhou political geography/ritual bronzes (literature assemblage)."
+  },
+  "sources": [
+    "src-china-li-feng-landscape-power-2006",
+    "src-china-rawson-western-zhou-ritual-bronzes-1990"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Li 2006; Rawson 1990",
+    "upstream_url": "https://doi.org/10.1017/CBO9780511489655",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

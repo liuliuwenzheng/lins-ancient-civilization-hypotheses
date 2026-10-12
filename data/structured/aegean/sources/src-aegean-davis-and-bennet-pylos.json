@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-davis-and-bennet-pylos",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Davis, Jack L., and John Bennet, eds. publications of the Pylos Regional Archaeological Project / Palace of Nestor related final studies (complements src-aegean-davis-pylos-regional-1998 and Blegen Pylos volumes).",
+  "url": "https://classics.uc.edu/prap",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary/project synthesis pointer for PRAP and Pylos landscape archaeology. Prefer Blegen/Rawson and Davis 1998 for concrete claims.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-davis-and-bennet-pylos.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

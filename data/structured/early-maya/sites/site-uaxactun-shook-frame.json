@@ -1,0 +1,32 @@
+{
+  "id": "site-uaxactun-shook-frame",
+  "entity": "site",
+  "names": {
+    "zh": "瓦哈克通 Shook/Carnegie 指针",
+    "en": "Uaxactun Shook/Carnegie frame",
+    "native": null
+  },
+  "kind_note": "Carnegie field-literature pointer",
+  "region": "Petén, Guatemala / Uaxactun",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Carnegie/Shook 田野文献指针；细节引 Ricketson/Smith。",
+    "en": "Carnegie/Shook field-literature pointer; details cite Ricketson/Smith."
+  },
+  "sources": [
+    "src-maya-shook-uaxactun",
+    "src-maya-ricketson-uaxactun",
+    "src-maya-smith-uaxactun"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-unesco-tentative-shu-state",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Tentative List documentation for Archaeological Sites of the Ancient Shu State (Sanxingdui / Jinsha serial nomination materials).",
+  "url": "https://whc.unesco.org/en/tentativelists/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Heritage tentative-list pointer deepening unesco-tentative-2013. Heritage title ≠ archaeological verdict.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-unesco-tentative-shu-state.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

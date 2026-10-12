@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-bagley-ancient-sichuan-2001",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bagley 主编 2001《Ancient Sichuan》为西雅图艺术博物馆/普林斯顿体系展览图录。",
+    "en": "Bagley ed. 2001 Ancient Sichuan is the Seattle Art Museum / Princeton exhibition catalog volume."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-exhibition-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sxd-ancient-sichuan-catalog"
+  ],
+  "sources": [
+    "src-sanxingdui-bagley-ancient-sichuan-princeton-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

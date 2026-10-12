@@ -1,0 +1,41 @@
+{
+  "id": "asm-sxd-zhao-research",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "赵殿增三星堆研究文献组合",
+    "en": "Zhao Sanxingdui research literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-zhao-research-frame"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "summary": {
+    "zh": "赵殿增 2006 研究文集论点（文献组合）。",
+    "en": "Arguments in Zhao 2006 research volume (literature assemblage)."
+  },
+  "sources": [
+    "src-sanxingdui-zhao-dianzeng-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Zhao 2006",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

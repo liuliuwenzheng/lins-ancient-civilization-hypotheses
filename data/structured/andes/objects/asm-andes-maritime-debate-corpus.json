@@ -1,0 +1,41 @@
+{
+  "id": "asm-andes-maritime-debate-corpus",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "海洋生计基础模型讨论文献组合",
+    "en": "Maritime-foundations debate literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "二手综合与评论中的海洋生计模型讨论（文献组合，非出土单元）。",
+    "en": "Secondary syntheses and critiques of the maritime-foundations model (literature assemblage, not a find unit)."
+  },
+  "sources": [
+    "src-andes-moseley-incas-ancestors-2001",
+    "src-andes-sandweiss-coastal-adaptations-2008",
+    "src-andes-quilter-ancient-central-andes-2014"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Moseley 2001; Sandweiss 2008; Quilter 2014",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

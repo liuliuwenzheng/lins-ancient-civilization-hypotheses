@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-schliemann-mycenae-1878",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Schliemann 1878《迈锡尼》叙事报告 1876 年 A 圆圈墓等发掘（历史性文本）。",
+    "en": "Schliemann 1878 Mycenae narrates the 1876 Grave Circle A (and related) excavations (historical text)."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae-grave-circle-a-schliemann"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-grave-circle-a-schliemann"
+  ],
+  "sources": [
+    "src-aegean-schliemann-mycenae-1878"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

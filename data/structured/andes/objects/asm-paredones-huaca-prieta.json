@@ -1,0 +1,42 @@
+{
+  "id": "asm-paredones-huaca-prieta",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "帕雷多内斯–瓦卡普列塔 2006–2013 组合",
+    "en": "Paredones–Huaca Prieta 2006–2013 assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-paredones",
+    "site-huaca-prieta-dillehay"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "Dillehay 2017 卷公布的建筑、动植物与纺织等材料类别（组合级）。",
+    "en": "Architecture, ecofacts, and textile classes as published in Dillehay 2017 (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-dillehay-huaca-prieta-2017"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Dillehay ed. 2017",
+    "upstream_url": "https://utpress.utexas.edu/9781477313213/",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "claim-aegean-homer-equals-excavation",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Schliemann 的发掘已实证荷马史诗为逐字历史记录。",
+    "en": "Schliemann’s excavations proved Homeric epic to be a literal historical record."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-schliemann-mycenae-1878",
+    "src-aegean-schliemann-tiryns-1885"
+  ],
+  "disclaimer": "Hypothesis: Homeric–archaeology equations are interpretive and widely problematized; excavation reports document finds, not epic historicity.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

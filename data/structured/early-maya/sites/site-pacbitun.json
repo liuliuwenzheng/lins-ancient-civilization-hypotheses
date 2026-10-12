@@ -1,0 +1,30 @@
+{
+  "id": "site-pacbitun",
+  "entity": "site",
+  "names": {
+    "zh": "帕克比通 / Pacbitun",
+    "en": "Pacbitun",
+    "native": null
+  },
+  "kind_note": "Belize Valley Maya center with Middle Preclassic ceremonial architecture",
+  "region": "Cayo District, Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Powis 等 2019 LAA 报告主广场下中前古典礼仪建筑。",
+    "en": "Powis et al. 2019 LAA report Middle Preclassic ceremonial architecture beneath the main plaza."
+  },
+  "sources": [
+    "src-maya-powis-pacbitun-2019"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

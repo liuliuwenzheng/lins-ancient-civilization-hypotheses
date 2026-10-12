@@ -1,0 +1,30 @@
+{
+  "id": "site-olmec-jaguars-children-frame",
+  "entity": "site",
+  "names": {
+    "zh": "Jaguar’s Children 图录指针",
+    "en": "Jaguar’s Children catalog frame",
+    "native": null
+  },
+  "kind_note": "Exhibition-catalog pointer (Central Mexican Olmec-style)",
+  "region": "Central Mexico (collection/exhibition)",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Coe 1965 图录指针；非海湾腹地发掘报告。",
+    "en": "Coe 1965 catalog pointer; not a Gulf heartland excavation report."
+  },
+  "sources": [
+    "src-olmec-coe-jaguars-children-1965"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

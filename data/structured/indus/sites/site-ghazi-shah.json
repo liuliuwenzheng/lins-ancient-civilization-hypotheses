@@ -1,0 +1,30 @@
+{
+  "id": "site-ghazi-shah",
+  "entity": "site",
+  "names": {
+    "zh": "加齐沙阿 / Ghazi Shah",
+    "en": "Ghazi Shah",
+    "native": null
+  },
+  "kind_note": "Early–Mature Indus site in Sindh Kohistan/piedmont",
+  "region": "Sindh, Pakistan (Dadu District / Kirthar piedmont)",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Flam 1996 中期报告 1985–1987 季：阿姆里相与后续印度河成分。",
+    "en": "Flam 1996 interim report of 1985–1987 seasons: Amrian and later Indus components."
+  },
+  "sources": [
+    "src-indus-flam-ghazi-shah-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

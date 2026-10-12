@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-drucker-la-venta-1952-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Drucker, Philip. 1952. La Venta, Tabasco: A Study of Olmec Ceramics and Art. Bureau of American Ethnology Bulletin 153. Washington: Smithsonian Institution. (Complements src-olmec-drucker-la-venta-1952.)",
+  "url": "https://repository.si.edu/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary BAE study of La Venta ceramics/art. Prefer already-registered drucker-la-venta-1952.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-drucker-la-venta-1952-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

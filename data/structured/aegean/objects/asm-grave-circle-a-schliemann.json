@@ -1,0 +1,42 @@
+{
+  "id": "asm-grave-circle-a-schliemann",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "A 圆圈墓 Schliemann 叙事组合",
+    "en": "Grave Circle A Schliemann narrative assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae-grave-circle-a-schliemann",
+    "site-mycenae"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "1878 叙事中的 A 圆圈墓发现类别（历史性；须现代校正）。",
+    "en": "Grave Circle A find classes in the 1878 narrative (historical; needs modern correction)."
+  },
+  "sources": [
+    "src-aegean-schliemann-mycenae-1878"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Schliemann 1878 Mycenae",
+    "upstream_url": "https://archive.org/details/mycenaenarrative00schl",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-dales-kenoyer-pottery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Dales & Kenoyer 1986 宾大博物馆专论正式公布摩亨佐-达罗陶器研究（含 Alcock 对 1950 材料的记述）。",
+    "en": "Dales & Kenoyer 1986 Penn Museum monograph formally publishes the Mohenjo-daro pottery study (including Alcock on 1950 material)."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro-pottery-corpus"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mohenjo-daro-pottery-1986"
+  ],
+  "sources": [
+    "src-indus-dales-kenoyer-pottery-1986"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

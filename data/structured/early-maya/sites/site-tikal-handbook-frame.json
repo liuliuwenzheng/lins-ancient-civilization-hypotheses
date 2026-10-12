@@ -1,0 +1,31 @@
+{
+  "id": "site-tikal-handbook-frame",
+  "entity": "site",
+  "names": {
+    "zh": "蒂卡尔手册指针（Coe）",
+    "en": "Tikal handbook frame (Coe)",
+    "native": null
+  },
+  "kind_note": "Literature pointer for Coe Tikal handbook",
+  "region": "Petén, Guatemala / Tikal",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Coe《蒂卡尔手册》二手指针；陶器年代仍引 Tikal Reports。",
+    "en": "Pointer to Coe Tikal handbook; ceramic chronology still cites Tikal Reports."
+  },
+  "sources": [
+    "src-maya-coe-tikal-handbook",
+    "src-maya-culbert-tikal-25a-1993"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

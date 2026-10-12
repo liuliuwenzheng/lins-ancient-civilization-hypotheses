@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-miller-technological-style-2007",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Miller, Heather M.-L. 2007. Archaeological Approaches to Technology. Amsterdam; Boston: Elsevier / Academic Press. ISBN 978-0-12-369446-1.",
+  "url": "https://www.elsevier.com/books/archaeological-approaches-to-technology/miller/978-0-12-369446-1",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary methodological monograph with Indus craft/technology case discussion drawing on Harappa/HARP experience. Not a site excavation report; use for craft-technology framing only.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-miller-technological-style-2007.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-jinsha-discoveries-frame",
+  "entity": "site",
+  "names": {
+    "zh": "金沙发现综合指针（2006）",
+    "en": "Jinsha discoveries synthesis frame (2006)",
+    "native": null
+  },
+  "kind_note": "Literature pointer for 2006 Jinsha synthesis",
+  "region": "Chengdu, Sichuan / Jinsha",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "2006 金沙考古发现类综合指针；细节仍引田野简报。",
+    "en": "Pointer to 2006 Jinsha discoveries synthesis; details still cite field briefs."
+  },
+  "sources": [
+    "src-jinsha-discoveries-2006",
+    "src-jinsha-kaogu-faxian-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

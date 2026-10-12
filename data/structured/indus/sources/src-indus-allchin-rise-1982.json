@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-allchin-rise-1982",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Allchin, Bridget, and Raymond Allchin. 1982. The Rise of Civilization in India and Pakistan. Cambridge World Archaeology. Cambridge: Cambridge University Press. ISBN 978-0-521-28550-6.",
+  "url": "https://doi.org/10.1017/CBO9780511552953",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Cambridge World Archaeology secondary handbook on South Asian civilization trajectories including Indus. Supersedes some earlier Allchin 1968 framings; still secondary to site reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-allchin-rise-1982.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

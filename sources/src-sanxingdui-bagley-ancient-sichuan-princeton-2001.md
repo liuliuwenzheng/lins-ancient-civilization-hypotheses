@@ -1,0 +1,23 @@
+---
+id: src-sanxingdui-bagley-ancient-sichuan-princeton-2001
+type: monograph
+citation: "Bagley, Robert W., ed. 2001. Ancient Sichuan: Treasures from a Lost Civilization. Seattle: Seattle Art Museum in association with Princeton University Press. ISBN 978-0-691-08851-8."
+url: "https://press.princeton.edu/books/hardcover/9780691088518/ancient-sichuan"
+access_date: "2026-10-12"
+reliability_tier: S
+notes: "Exhibition catalog/edited volume (SAM/Princeton). Complements already-registered bagley-ancient-sichuan-2001 with ISBN-stable Princeton path. Secondary exhibition literature."
+---
+
+# Source: `src-sanxingdui-bagley-ancient-sichuan-princeton-2001`
+
+| Field | Value |
+|-------|--------|
+| Type | monograph |
+| Tier | S |
+| Citation | Bagley, Robert W., ed. 2001. Ancient Sichuan: Treasures from a Lost Civilization. Seattle: Seattle Art Museum in association with Princeton University Press. ISBN 978-0-691-08851-8. |
+| URL | https://press.princeton.edu/books/hardcover/9780691088518/ancient-sichuan |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+Exhibition catalog/edited volume (SAM/Princeton). Complements already-registered bagley-ancient-sichuan-2001 with ISBN-stable Princeton path. Secondary exhibition literature.

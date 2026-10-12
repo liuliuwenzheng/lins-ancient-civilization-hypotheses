@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-coe-jaguars-children",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Coe 1965《美洲豹的孩子》是关于前古典中墨西哥奥尔梅克风格器物的博物馆图录专书。",
+    "en": "Coe 1965 The Jaguar’s Children is a museum catalog monograph on Pre-Classic Central Mexican Olmec-style objects."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-olmec-jaguars-children-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-jaguars-children-catalog"
+  ],
+  "sources": [
+    "src-olmec-coe-jaguars-children-1965"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

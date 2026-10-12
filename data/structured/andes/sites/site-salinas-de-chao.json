@@ -1,0 +1,30 @@
+{
+  "id": "site-salinas-de-chao",
+  "entity": "site",
+  "names": {
+    "zh": "查奥盐沼 / Las Salinas de Chao",
+    "en": "Las Salinas de Chao",
+    "native": null
+  },
+  "kind_note": "Late Preceramic monumental complex (Chao Valley)",
+  "region": "North coast Peru / Chao Valley",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Alva 1986 MAVA 34 报告查奥谷前陶平台、广场与下沉圆形庭院。",
+    "en": "Alva 1986 MAVA 34 reports Preceramic platforms, plaza, and sunken circular courts in the Chao Valley."
+  },
+  "sources": [
+    "src-andes-alva-salinas-chao-1986"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-china-bagley-new-perspectives-shang-1999",
+  "entity": "source",
+  "type": "article",
+  "citation": "Bagley, Robert W. 1999. “Shang Archaeology.” In The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C., edited by Michael Loewe and Edward L. Shaughnessy, 124–231. Cambridge: Cambridge University Press.",
+  "url": "https://doi.org/10.1017/CHOL9780521470308.005",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Bagley’s Shang Archaeology chapter in CHAC (already pointed from loewe-shaughnessy pack source). Registered separately here for explicit chapter-level citation in china-bronze density pass 4. Secondary survey.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-bagley-new-perspectives-shang-1999.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

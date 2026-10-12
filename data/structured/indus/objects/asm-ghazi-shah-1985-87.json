@@ -1,0 +1,42 @@
+{
+  "id": "asm-ghazi-shah-1985-87",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "加齐沙阿 1985–1987 发掘组合",
+    "en": "Ghazi Shah 1985–1987 excavation assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-ghazi-shah"
+  ],
+  "period_ids": [
+    "period-indus-regionalization",
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Flam 中期报告中的地层与器物类别（组合级）。",
+    "en": "Stratigraphic and artifact classes as in Flam’s interim report (assemblage-level)."
+  },
+  "sources": [
+    "src-indus-flam-ghazi-shah-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Flam 1996",
+    "upstream_url": "https://ehrafarchaeology.yale.edu/document?id=aq43-009",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

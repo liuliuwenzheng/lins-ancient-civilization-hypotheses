@@ -1,0 +1,43 @@
+{
+  "id": "asm-grove-hinterland",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Grove 边缘/高地文献组合",
+    "en": "Grove hinterland/highland literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-olmec-hinterland-grove-frame",
+    "site-chalcatzingo"
+  ],
+  "period_ids": [
+    "period-olmec-middle-formative"
+  ],
+  "summary": {
+    "zh": "Grove 区域视角与查尔卡钦戈关联讨论（文献组合）。",
+    "en": "Grove regional perspectives and Chalcatzingo-linked discussion (literature assemblage)."
+  },
+  "sources": [
+    "src-olmec-grove-regional-perspectives-1993",
+    "src-olmec-grove-chalcatzingo-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Grove regional literature",
+    "upstream_url": "https://www.doaks.org/",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

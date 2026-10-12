@@ -1,0 +1,42 @@
+{
+  "id": "asm-mohenjo-daro-pottery-1986",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "摩亨佐-达罗陶器组合（Dales/Kenoyer 1986）",
+    "en": "Mohenjo-daro pottery assemblage (Dales/Kenoyer 1986)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro-pottery-corpus",
+    "site-mohenjo-daro"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "1986 专论公布的陶器形制/技术类别（组合级；含 1950 材料记述）。",
+    "en": "Ceramic form/technology classes as published in the 1986 monograph (assemblage-level; includes 1950 material account)."
+  },
+  "sources": [
+    "src-indus-dales-kenoyer-pottery-1986"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Dales & Kenoyer 1986",
+    "upstream_url": "https://www.penn.museum/research/publications/publication/852",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

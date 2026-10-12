@@ -1,0 +1,41 @@
+{
+  "id": "asm-cahal-pech-egroup",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡哈尔佩奇 E 组组合",
+    "en": "Cahal Pech E-Group assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-cahal-pech-egroup"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic"
+  ],
+  "summary": {
+    "zh": "伯利兹河谷前古典 E 组/早期纪念性建筑文献中的建筑类别（组合级）。",
+    "en": "Architectural classes in Belize Valley Preclassic E-Group / early monumentality literature (assemblage-level)."
+  },
+  "sources": [
+    "src-maya-awe-cahal-pech-egroup"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Awe et al. LAA E-Group literature",
+    "upstream_url": "https://doi.org/10.1017/laq.2017.12",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

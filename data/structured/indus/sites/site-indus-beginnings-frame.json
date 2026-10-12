@@ -1,0 +1,30 @@
+{
+  "id": "site-indus-beginnings-frame",
+  "entity": "site",
+  "names": {
+    "zh": "印度河开端框架指针（Possehl 1999）",
+    "en": "Indus beginnings frame pointer (Possehl 1999)",
+    "native": null
+  },
+  "kind_note": "Literature pointer for Early Harappan / origins synthesis",
+  "region": "Greater Indus region (multi-site)",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Possehl《印度河时代：开端》二手综合指针；具体遗址仍须引一手报告。",
+    "en": "Pointer to Possehl Indus Age: The Beginnings secondary synthesis; site facts still require primary reports."
+  },
+  "sources": [
+    "src-indus-possehl-indus-age-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

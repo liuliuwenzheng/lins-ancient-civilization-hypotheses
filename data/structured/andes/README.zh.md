@@ -2,10 +2,15 @@
 
 [English](README.md) | 中文
 
-仅派生自 `data/civilizations/civ-andes.md` 与已登记来源。无新考古发明。不伪造文物图。
+`civ-andes` 的只读档案实体。
 
-**第二轮密度 D-2026-10-11-29：** 来源 38 · 遗址 22 · 分期 7 · 器物组合 24 · 主张 36 · 媒体 6（外链；以 `export_check` 为准）。
+计数（D-2026-10-12-4 第四轮密度加深；以 `export_check` 为准）：
+- 来源: 58
+- 遗址: 35
+- 分期: 7
+- 器物组合: 38
+- 主张: 54
+- 媒体: 6
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Markdown 编辑真源：`data/civilizations/civ-andes.md`。
+服务前运行 `tools/export_check.py`。

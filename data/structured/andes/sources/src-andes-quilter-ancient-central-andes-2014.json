@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-quilter-ancient-central-andes-2014",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Quilter, Jeffrey. 2014. The Ancient Central Andes. Routledge World Archaeology. London; New York: Routledge. ISBN 978-0-415-67310-5 (pbk).",
+  "url": "https://www.routledge.com/The-Ancient-Central-Andes/Quilter/p/book/9780415673105",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary Routledge handbook covering Central Andean prehistory from Preceramic through Inca. Use for comparative framing; site-level facts require primary reports already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-quilter-ancient-central-andes-2014.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

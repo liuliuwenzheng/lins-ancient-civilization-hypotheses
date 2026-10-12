@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-fairservis-roots-1971",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Fairservis, Walter A., Jr. 1971. The Roots of Ancient India: The Archaeology of Early Indian Civilization. New York: Macmillan.",
+  "url": "https://archive.org/details/rootsofancientin00fair",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary mid-20th-century synthesis of South Asian early civilizations including Indus. Research-history value; many chronological and interpretive claims superseded.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-fairservis-roots-1971.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "asm-sxd-flad-urbanism-tech",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Flad 城市化即技术文献组合",
+    "en": "Flad urbanism-as-technology literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [
+    "period-sxd-culture-phases-sun"
+  ],
+  "summary": {
+    "zh": "ARA 2018 城市化—技术讨论（文献组合）。",
+    "en": "ARA 2018 urbanism-as-technology discussion (literature assemblage)."
+  },
+  "sources": [
+    "src-sanxingdui-flad-ara-urbanism-2018",
+    "src-sanxingdui-flad-urbanism-2018"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Flad 2018 ARA",
+    "upstream_url": "https://doi.org/10.1016/j.ara.2016.09.001",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "site-soconusco-rosenswig-frame",
+  "entity": "site",
+  "names": {
+    "zh": "索科努斯科互动指针（Rosenswig）",
+    "en": "Soconusco interaction frame (Rosenswig)",
+    "native": null
+  },
+  "kind_note": "Literature pointer for Early Formative Soconusco–Olmec interaction",
+  "region": "Soconusco / Pacific Chiapas–Guatemala coast",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Rosenswig 2010 互动模型指针；具体遗址仍须田野报告。",
+    "en": "Pointer to Rosenswig 2010 interaction model; site facts still need field reports."
+  },
+  "sources": [
+    "src-olmec-rosenswig-beginnings-2010"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

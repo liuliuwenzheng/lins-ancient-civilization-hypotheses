@@ -1,0 +1,32 @@
+{
+  "id": "site-san-lorenzo-sculpture-corpus",
+  "entity": "site",
+  "names": {
+    "zh": "圣洛伦佐纪念雕塑语料单元",
+    "en": "San Lorenzo monumental sculpture corpus unit",
+    "native": null
+  },
+  "kind_note": "Archive unit for Cyphers sculpture corpus",
+  "region": "Veracruz, Mexico / San Lorenzo Tenochtitlán",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Cyphers 圣洛伦佐纪念雕塑语料单元。",
+    "en": "Archive unit for Cyphers San Lorenzo monumental sculpture corpus."
+  },
+  "sources": [
+    "src-olmec-cyphers-escultura-monumental-2004",
+    "src-olmec-cyphers-escultura-2004",
+    "src-olmec-coe-diehl-san-lorenzo-1980"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "claim-maya-mirador-first-state-settled",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "米拉多盆地是玛雅「第一个国家」，已成定论。",
+    "en": "The Mirador Basin was the first Maya state as settled fact."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-hansen-mirador-architecture",
+    "src-maya-matheny-mirador-nwaf45-1980"
+  ],
+  "disclaimer": "Hypothesis: Mirador “first state” claims remain contested; keep in hypothesis column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

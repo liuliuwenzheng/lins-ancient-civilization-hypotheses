@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-mylonas-circle-b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mylonas 1972–73 雅典考古学会两卷本正式报告迈锡尼 B 圆圈墓。",
+    "en": "Mylonas 1972–73 Archaeological Society two-volume work is the primary report of Mycenae Grave Circle B."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae-grave-circle-b"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-grave-circle-b"
+  ],
+  "sources": [
+    "src-aegean-mylonas-grave-circle-b-1973"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

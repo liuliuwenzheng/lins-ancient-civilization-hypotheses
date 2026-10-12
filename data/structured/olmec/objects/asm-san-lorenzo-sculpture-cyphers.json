@@ -1,0 +1,43 @@
+{
+  "id": "asm-san-lorenzo-sculpture-cyphers",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "圣洛伦佐纪念雕塑组合（Cyphers）",
+    "en": "San Lorenzo monumental sculpture assemblage (Cyphers)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo-sculpture-corpus",
+    "site-san-lorenzo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "summary": {
+    "zh": "Cyphers 语料中的纪念雕塑类别（组合级）。",
+    "en": "Monumental sculpture classes in Cyphers corpus publications (assemblage-level)."
+  },
+  "sources": [
+    "src-olmec-cyphers-escultura-monumental-2004",
+    "src-olmec-cyphers-escultura-2004"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cyphers sculpture corpus",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

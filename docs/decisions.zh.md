@@ -531,3 +531,34 @@
 
 **说明：** 努兹不作第三千纪南部城市；法尤姆新石器≠尼罗河国家唯一摇篮；奥西睿昂为新王国纪念建筑。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
 
+### D-2026-10-12-4 — 其余七包第四轮档案密度加深
+
+**决定：** 在两河 + 埃及第四轮（D-2026-10-12-3）之后，对其余七包做**同标准第四轮**可核验密度加深：仅登记可核验 P/S；扩展遗址/组合/主张；争议进假说栏；同步各 `civ-*.md` 关键遗址、来源列表与研究史；全仓 `export_check` 必须通过。诚信优于速度。至此九包第四轮密度加深完成。
+
+**本轮主要新 P（及必要 S）：**
+
+**安第斯：** Dillehay 瓦卡普列塔 2017；Bonavia 洛斯加维拉内斯 1982；Pozorski 瓦伊努纳 1990；Alva 查奥盐沼 1986；Izumi 希利亚科托 1972；Lanning 1967；Moseley 祖先综论 2001；Quilter 中央安第斯 2014；Dillehay 采集—农耕 2011；Sandweiss 2008 海洋模型评论
+
+**印度河：** Dales & Kenoyer 陶器 1986；Flam 加齐沙阿 1996；Law 溯源 2011；Possehl 开端 1999；Lal 1997；Fairservis 1971；Allchin 兴起 1982；Chakrabarti 1995；Miller 技术方法 2007；Kenoyer 贸易技术 1997 WA
+
+**中国青铜：** 小屯南地甲骨；殷墟发现与研究 1994；Keightley 祖先景观 2000；Li Feng 西周景观 2006；郑州铜器窖藏 1999；殷墟青铜器 1985；郭家庄 1998；Rawson Sackler 西周；Bagley CHAC 章；Underhill 手工业 2002
+
+**三星堆：** 文物一/二号坑简报；3–8 号坑 2021 指针；金沙 2006 综合/资料集加深；Bagley Ancient Sichuan；赵殿增 2006；Flad ARA 2018；Ge & Linduff；UNESCO 预备清单加深
+
+**爱琴：** Schliemann 梯林斯 1885 / 迈锡尼 1878；Mylonas B 圆圈墓；Wace 室墓 1932；Seager 普塞拉 1910；INSTAP 普塞拉指针；Mountjoy 1999；Hood/PRAP 指针
+
+**奥尔梅克：** Coe Jaguar’s Children 1965；Rosenswig 2010；Grove 区域视角；Cyphers 雕塑语料加深；Pool 聚落指针；Diehl/Stirling/Drucker/Blomster/Taube 加深
+
+**早期玛雅：** Altar Peabody 三卷；Pacbitun 2019；Cahal Pech E 组；Coe 蒂卡尔手册；Shook/Carnegie 指针；Rice；Maya Cosmos；Cival/Holmul 加深
+
+**结构化结果（以 `export_check` 为准）：**
+- **andes：** 来源 48→58；遗址 29→35；器物组合 32→38；主张 45→54
+- **indus：** 来源 48→58；遗址 26→32；器物组合 30→36；主张 41→50
+- **china-bronze：** 来源 48→58；遗址 27→33；器物组合 31→37；主张 42→51
+- **sanxingdui：** 来源 48→58；遗址 24→30；器物组合 30→36；主张 39→48
+- **aegean：** 来源 48→58；遗址 28→34；器物组合 30→36；主张 40→49
+- **olmec：** 来源 48→58；遗址 25→31；器物组合 31→37；主张 37→44
+- **early-maya：** 来源 48→58；遗址 28→34；器物组合 31→37；主张 40→49
+- 两河/埃及本提交不变（已在 main 完成第四轮）。出处闸门通过。
+
+**说明：** 争议项（加维拉内斯玉米优先；印度河帝国/破译；夏＝二里头；三星堆＝商殖民；荷马信史/锡拉单年；奥尔梅克母文化/Cascajal 已释读；中前古典完整神王/米拉多第一国家）留假说栏。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。

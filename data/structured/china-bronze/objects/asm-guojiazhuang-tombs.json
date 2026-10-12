@@ -1,0 +1,41 @@
+{
+  "id": "asm-guojiazhuang-tombs",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "郭家庄商代墓葬组合",
+    "en": "Guojiazhuang Shang tomb assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-guojiazhuang"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "1998 报告公布的郭家庄墓葬与随葬类别（组合级）。",
+    "en": "Guojiazhuang tombs and burial goods classes as published 1998 (assemblage-level)."
+  },
+  "sources": [
+    "src-china-guojiazhuang-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "CASS Guojiazhuang 1998",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

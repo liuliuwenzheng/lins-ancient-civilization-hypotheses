@@ -1,0 +1,42 @@
+{
+  "id": "asm-rosenswig-interaction",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Rosenswig 早期互动文献组合",
+    "en": "Rosenswig Early Formative interaction literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-soconusco-rosenswig-frame",
+    "site-san-lorenzo"
+  ],
+  "period_ids": [
+    "period-olmec-early-formative"
+  ],
+  "summary": {
+    "zh": "2010 剑桥专著中的跨区域互动论点（文献组合）。",
+    "en": "Inter-regional interaction arguments in the 2010 Cambridge monograph (literature assemblage)."
+  },
+  "sources": [
+    "src-olmec-rosenswig-beginnings-2010"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Rosenswig 2010",
+    "upstream_url": "https://doi.org/10.1017/CBO9780511675881",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

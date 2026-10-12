@@ -1,0 +1,31 @@
+{
+  "id": "site-xiaotunnan",
+  "entity": "site",
+  "names": {
+    "zh": "小屯南地 / Xiaotun South (Xiaotunnan)",
+    "en": "Xiaotun South (Xiaotunnan)",
+    "native": null
+  },
+  "kind_note": "Late Shang oracle-bone find locality within Yinxu",
+  "region": "Anyang, Henan / Yinxu",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "1973 小屯南地甲骨；中华书局 1980–1983 五册正式著录。",
+    "en": "1973 Xiaotunnan oracle bones; Zhonghua 1980–1983 five-volume primary publication."
+  },
+  "sources": [
+    "src-china-xiaotunnan-jiagu-1980",
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

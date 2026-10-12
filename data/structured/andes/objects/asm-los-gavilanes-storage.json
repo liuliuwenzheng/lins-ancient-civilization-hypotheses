@@ -1,0 +1,41 @@
+{
+  "id": "asm-los-gavilanes-storage",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "洛斯加维拉内斯贮粮坑组合",
+    "en": "Los Gavilanes storage-pit assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-los-gavilanes"
+  ],
+  "period_ids": [
+    "period-andes-cotton-preceramic-close"
+  ],
+  "summary": {
+    "zh": "Bonavia 1982 公布的前陶贮粮坑与相关植物遗存（组合级）。",
+    "en": "Preceramic storage pits and associated botanical remains as published by Bonavia 1982 (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-bonavia-gavilanes-1982"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Bonavia 1982",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

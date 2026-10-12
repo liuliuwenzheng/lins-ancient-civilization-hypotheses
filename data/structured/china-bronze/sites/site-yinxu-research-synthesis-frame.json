@@ -1,0 +1,30 @@
+{
+  "id": "site-yinxu-research-synthesis-frame",
+  "entity": "site",
+  "names": {
+    "zh": "殷墟发现与研究综合指针",
+    "en": "Yinxu discoveries-and-research synthesis frame",
+    "native": null
+  },
+  "kind_note": "Literature pointer for CASS 1994 Yinxu synthesis",
+  "region": "Anyang, Henan / Yinxu (multi-locus)",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "社科院 1994《殷墟的发现与研究》二手综合指针。",
+    "en": "Pointer to CASS 1994 Discoveries and Research at Yinxu secondary synthesis."
+  },
+  "sources": [
+    "src-china-yinxu-faxian-yanjiu-1994"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

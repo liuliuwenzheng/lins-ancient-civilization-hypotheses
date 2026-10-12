@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-dillehay-huaca-prieta-2017",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Dillehay, Tom D., ed. 2017. Where the Land Meets the Sea: Fourteen Millennia of Human History at Huaca Prieta, Peru. Austin: University of Texas Press. ISBN 978-1-4773-1149-3.",
+  "url": "https://utpress.utexas.edu/9781477313213/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary edited final volume on 2006–2013 interdisciplinary excavations at Huaca Prieta, Paredones, and lower Chicama Preceramic domestic sites. Publisher page verified 2026-10-12. Comparative north-coast Preceramic — not a Norte Chico core site.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-dillehay-huaca-prieta-2017.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

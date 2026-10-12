@@ -1,0 +1,42 @@
+{
+  "id": "asm-keightley-ancestral-landscape",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "贞人世界/祖先景观文献组合",
+    "en": "Ancestral-landscape literature assemblage (Keightley)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yinxu-xiaotun"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "Keightley 2000 对晚商时间—空间—共同体的甲骨分析（文献组合）。",
+    "en": "Keightley 2000 oracle-bone analysis of Late Shang time–space–community (literature assemblage)."
+  },
+  "sources": [
+    "src-china-keightley-ancestral-landscape-2000",
+    "src-china-keightley-oracle-bones-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Keightley 2000",
+    "upstream_url": "https://ieas.berkeley.edu/publications/ancestral-landscape-time-space-and-community-late-shang-china-ca-1200-1045-bc",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

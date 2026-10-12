@@ -1,0 +1,30 @@
+{
+  "id": "site-western-zhou-sackler-frame",
+  "entity": "site",
+  "names": {
+    "zh": "西周礼器 Sackler 目录指针",
+    "en": "Western Zhou ritual bronze Sackler catalog frame",
+    "native": null
+  },
+  "kind_note": "Collection-catalog pointer (not a field site)",
+  "region": "Multi-region Western Zhou (collection)",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "Rawson 1990 Sackler 西周礼器目录指针；非田野遗址。",
+    "en": "Pointer to Rawson 1990 Sackler Western Zhou ritual bronze catalog; not a field site."
+  },
+  "sources": [
+    "src-china-rawson-western-zhou-ritual-bronzes-1990"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

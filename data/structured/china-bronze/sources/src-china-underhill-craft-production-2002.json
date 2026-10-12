@@ -1,0 +1,17 @@
+{
+  "id": "src-china-underhill-craft-production-2002",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Underhill, Anne P. 2002. Craft Production and Social Change in Northern China. New York: Kluwer Academic / Plenum. ISBN 978-0-306-46753-0.",
+  "url": "https://link.springer.com/book/10.1007/978-1-4615-0641-6",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary monograph on craft production and social change in northern China (Neolithic–Bronze Age framing). Complements Underhill Companion 2013 already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-underhill-craft-production-2002.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

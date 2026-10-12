@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-coe-tikal-handbook",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Coe, William R. 1967 / later editions. Tikal: A Handbook of the Ancient Maya Ruins. Philadelphia: University Museum, University of Pennsylvania. (Site handbook based on Tikal Project work.)",
+  "url": "https://www.penn.museum/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary site handbook for Tikal visitors/scholars based on University Museum Tikal Project. Prefer Culbert Tikal Reports already registered for ceramic chronology claims.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-coe-tikal-handbook.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

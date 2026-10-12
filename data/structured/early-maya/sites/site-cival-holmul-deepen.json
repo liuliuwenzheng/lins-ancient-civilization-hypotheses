@@ -1,0 +1,32 @@
+{
+  "id": "site-cival-holmul-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "西瓦尔–奥尔穆尔加深单元",
+    "en": "Cival–Holmul deepen unit",
+    "native": null
+  },
+  "kind_note": "Preclassic centers in Holmul region",
+  "region": "Petén, Guatemala / Holmul region",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Estrada-Belli 西瓦尔/奥尔穆尔前古典文献加深单元。",
+    "en": "Deepen unit for Estrada-Belli Cival/Holmul Preclassic literature."
+  },
+  "sources": [
+    "src-maya-estrada-belli-cival-deepen",
+    "src-maya-estrada-belli-cival-2006",
+    "src-maya-estrada-belli-holmul"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

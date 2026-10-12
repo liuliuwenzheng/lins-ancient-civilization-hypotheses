@@ -1,0 +1,31 @@
+{
+  "id": "site-huaca-prieta-dillehay",
+  "entity": "site",
+  "names": {
+    "zh": "瓦卡普列塔（Dillehay 再发掘单元）",
+    "en": "Huaca Prieta (Dillehay re-excavation unit)",
+    "native": null
+  },
+  "kind_note": "Archive unit for 2006–2013 Huaca Prieta campaigns",
+  "region": "North coast Peru / Chicama Valley",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "作为 Dillehay 2017 正式报告单元登记，补 Bird 1985 之后的再发掘档案；不编造探方号。",
+    "en": "Registered as the Dillehay 2017 report unit complementing Bird 1985; no invented unit numbers."
+  },
+  "sources": [
+    "src-andes-dillehay-huaca-prieta-2017",
+    "src-andes-bird-huaca-prieta-1985"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

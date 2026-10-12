@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-immeros-or-betancourt-pseira",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Betancourt, Philip P., and Costis Davaras, eds. Pseira volumes (INSTAP Academic Press series) publishing modern Pseira excavations that re-study Seager’s site.",
+  "url": "https://instapstudycenter.net/archaeological-projects/ascsa-projects/pseira/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Modern INSTAP Pseira final-report series pointer. Primary relative to renewed excavations; cite specific volume numbers when making find-level claims (no invented volume claims here beyond series existence).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-immeros-or-betancourt-pseira.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

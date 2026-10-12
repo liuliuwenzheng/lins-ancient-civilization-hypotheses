@@ -1,0 +1,28 @@
+{
+  "id": "claim-indus-script-fully-deciphered",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "印度河文字已被完全释读。",
+    "en": "The Indus script has been fully deciphered."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-indus-parpola-1994",
+    "src-indus-possehl-2002"
+  ],
+  "disclaimer": "Hypothesis: no broadly accepted full decipherment; registered sources treat the script as undeciphered. Not a fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

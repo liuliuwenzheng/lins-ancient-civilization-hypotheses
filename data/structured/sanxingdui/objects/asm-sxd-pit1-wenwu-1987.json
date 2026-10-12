@@ -1,0 +1,42 @@
+{
+  "id": "asm-sxd-pit1-wenwu-1987",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三星堆一号坑文物简报组合",
+    "en": "Sanxingdui Pit 1 Wenwu-brief assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pit1-wenwu",
+    "site-sanxingdui-pits-1-2"
+  ],
+  "period_ids": [
+    "period-sxd-pits-1986-excavator"
+  ],
+  "summary": {
+    "zh": "文物 1987(10) 公布的一号坑器物/堆积类别（组合级）。",
+    "en": "Pit 1 find/deposit classes as in Wenwu 1987(10) (assemblage-level)."
+  },
+  "sources": [
+    "src-sanxingdui-wenwu-pit1-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Wenwu 1987(10)",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

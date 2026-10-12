@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-wenwu-pit2-1989",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《文物》1989 年第 5 期公布三星堆二号祭祀坑发掘简报。",
+    "en": "Wenwu 1989(5) publishes the brief excavation report of Sanxingdui Sacrificial Pit No. 2."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pit2-wenwu"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sxd-pit2-wenwu-1989"
+  ],
+  "sources": [
+    "src-sanxingdui-wenwu-pit2-1989"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

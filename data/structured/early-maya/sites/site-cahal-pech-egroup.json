@@ -1,0 +1,31 @@
+{
+  "id": "site-cahal-pech-egroup",
+  "entity": "site",
+  "names": {
+    "zh": "卡哈尔佩奇 E 组单元",
+    "en": "Cahal Pech E-Group unit",
+    "native": null
+  },
+  "kind_note": "Preclassic E-Group / early monumentality archive unit",
+  "region": "Cayo District, Belize / Cahal Pech",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Awe 等伯利兹河谷前古典 E 组/早期纪念性建筑文献单元。",
+    "en": "Archive unit for Awe et al. Belize Valley Preclassic E-Group / early monumentality literature."
+  },
+  "sources": [
+    "src-maya-awe-cahal-pech-egroup",
+    "src-maya-healy-cahal-pech"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

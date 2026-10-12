@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-guojiazhuang-1998",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "社科院考古所 1998《安阳殷墟郭家庄商代墓葬》报告 1982–1992 年发掘。",
+    "en": "CASS 1998 Guojiazhuang report publishes Shang tombs excavated 1982–1992 at Yinxu."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-guojiazhuang"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-guojiazhuang-tombs"
+  ],
+  "sources": [
+    "src-china-guojiazhuang-1998"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

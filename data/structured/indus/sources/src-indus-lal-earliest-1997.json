@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-lal-earliest-1997",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Lal, B. B. 1997. The Earliest Civilization of South Asia (Rise, Maturity and Decline). New Delhi: Aryan Books International. ISBN 978-81-7305-083-1.",
+  "url": "https://archive.org/details/in.ernet.dli.2015.218356",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary synthesis by former ASI Director General covering Harappan rise–maturity–decline. Historical secondary; absolute dates and culture-history labels require cross-check with later radiocarbon frameworks.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-lal-earliest-1997.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

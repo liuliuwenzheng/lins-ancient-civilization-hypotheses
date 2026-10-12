@@ -1,0 +1,30 @@
+{
+  "id": "site-los-gavilanes",
+  "entity": "site",
+  "names": {
+    "zh": "洛斯加维拉内斯 / Los Gavilanes",
+    "en": "Los Gavilanes",
+    "native": null
+  },
+  "kind_note": "Preceramic storage-pit complex (Huarmey)",
+  "region": "North-central coast Peru / Huarmey Valley",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Bonavia 1982 正式报告瓦尔梅谷前陶贮粮坑与植物遗存；早期玉米主张仍有争议。",
+    "en": "Bonavia 1982 primary monograph on Huarmey Preceramic storage pits and botanical remains; early maize claims remain debated."
+  },
+  "sources": [
+    "src-andes-bonavia-gavilanes-1982"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-maya-altar-is-only-classic",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "祭坛遗址仅有古典期，无前古典占用。",
+    "en": "Altar de Sacrificios has only Classic occupation and no Preclassic."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-altar-de-sacrificios"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-adams-altar-ceramics-1971",
+    "src-maya-willey-altar-conclusions-1973"
+  ],
+  "disclaimer": "Hypothesis contrary to ceramic sequence publications that include Preclassic complexes; do not assert Classic-only occupation.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

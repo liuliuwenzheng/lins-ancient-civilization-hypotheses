@@ -1,0 +1,30 @@
+{
+  "id": "site-indus-allchin-rise-frame",
+  "entity": "site",
+  "names": {
+    "zh": "奥尔钦文明兴起手册指针",
+    "en": "Allchin Rise handbook frame",
+    "native": null
+  },
+  "kind_note": "Literature pointer for Allchin & Allchin 1982",
+  "region": "India–Pakistan (multi-site)",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Allchin & Allchin 1982 Cambridge 手册指针。",
+    "en": "Pointer to Allchin & Allchin 1982 Cambridge handbook."
+  },
+  "sources": [
+    "src-indus-allchin-rise-1982"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

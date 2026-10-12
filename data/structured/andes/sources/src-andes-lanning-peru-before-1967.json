@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-lanning-peru-before-1967",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Lanning, Edward P. 1967. Peru Before the Incas. Englewood Cliffs, N.J.: Prentice-Hall.",
+  "url": "https://archive.org/details/perubeforeincas00lann",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Classic secondary survey of Peruvian prehistory including Preceramic coastal sequences. Historical handbook; absolute dates and culture-names outdated — use for research history, not as a dating authority.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-lanning-peru-before-1967.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

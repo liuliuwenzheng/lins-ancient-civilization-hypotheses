@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-powis-pacbitun-2019",
+  "entity": "source",
+  "type": "article",
+  "citation": "Powis, Terry G., et al. 2019. “Early Maya Ceremonial Architecture at Pacbitun, Belize.” Latin American Antiquity (reported 2019 LAA article on Middle Preclassic platform beneath the main plaza).",
+  "url": "https://doi.org/10.1017/laq.2019.18",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Peer-reviewed LAA report on Early/Middle Preclassic ceremonial architecture at Pacbitun. DOI landing verified via Cambridge Core search 2026-10-12; treat architectural details as in the article — no invented structure numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-powis-pacbitun-2019.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

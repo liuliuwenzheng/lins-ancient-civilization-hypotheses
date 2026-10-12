@@ -40,8 +40,18 @@ sources:
   - src-andes-engel-begonias-1987
   - src-andes-haas-creamer-power-2006
   - src-andes-shady-caral-social-values-2008
+  - src-andes-dillehay-huaca-prieta-2017
+  - src-andes-bonavia-gavilanes-1982
+  - src-andes-pozorski-huaynuna-1990
+  - src-andes-alva-salinas-chao-1986
+  - src-andes-izumi-shillacoto-1972
+  - src-andes-lanning-peru-before-1967
+  - src-andes-moseley-incas-ancestors-2001
+  - src-andes-quilter-ancient-central-andes-2014
+  - src-andes-dillehay-foraging-farming-andes-2011
+  - src-andes-sandweiss-coastal-adaptations-2008
 related_ids: ["civ-olmec", "civ-early-maya"]
-notes: "fact-library + archive density D-2026-10-11-24 (sites + primary sources). Scope = Norte Chico Late Archaic (Caral–Supe and neighboring valleys), NOT later Andean empires (Chavín, Moche, Wari, Inca). City vs ceremonial center / state vs complex society / maritime foundations / maize staple / environmental demise / oldest-civilization marketing = open debates (Notes + hypothesis claims). No invented page numbers/coordinates; no forged images."
+notes: "fourth density D-2026-10-12-4; fact-library + archive density D-2026-10-11-24 (sites + primary sources). Scope = Norte Chico Late Archaic (Caral–Supe and neighboring valleys), NOT later Andean empires (Chavín, Moche, Wari, Inca). City vs ceremonial center / state vs complex society / maritime foundations / maize staple / environmental demise / oldest-civilization marketing = open debates (Notes + hypothesis claims). No invented page numbers/coordinates; no forged images."
 ---
 
 # 安第斯早期文明（卡拉尔–北奇科） / Andean early civilizations (Caral–Norte Chico)
@@ -146,6 +156,21 @@ Peruvian period labels (Archaic / Preceramic / Initial Period) are not perfectly
 - **Quebrada Jaguay**, **Quebrada Tacahuay** — Science 1998 south-coast comparative [`src-andes-sandweiss-jaguay-science-1998`][`src-andes-keefer-tacahuay-science-1998`].
 - **Monte Verde** — Dillehay 1997 vol. 2 (comparative, not Norte Chico) [`src-andes-dillehay-monte-verde-ii-1997`].
 
+### Density pass 4 (D-2026-10-12-4)
+
+- **洛斯加维拉内斯 / Los Gavilanes** — Bonavia 1982 [`src-andes-bonavia-gavilanes-1982`]。
+- **瓦伊努纳 / Huaynuná** — Pozorski & Pozorski JFA 1990 [`src-andes-pozorski-huaynuna-1990`]。
+- **查奥盐沼 / Las Salinas de Chao** — Alva MAVA 34 1986 [`src-andes-alva-salinas-chao-1986`]。
+- **希利亚科托 / Shillacoto** — Izumi et al. Bulletin 3 1972 [`src-andes-izumi-shillacoto-1972`]。
+- **帕雷多内斯·瓦卡普列塔再发掘** — Dillehay 2017 [`src-andes-dillehay-huaca-prieta-2017`]。
+
+- **Los Gavilanes** — Bonavia 1982 [`src-andes-bonavia-gavilanes-1982`].
+- **Huaynuná** — Pozorski & Pozorski JFA 1990 [`src-andes-pozorski-huaynuna-1990`].
+- **Las Salinas de Chao** — Alva MAVA 34 1986 [`src-andes-alva-salinas-chao-1986`].
+- **Shillacoto** — Izumi et al. Bulletin 3 1972 [`src-andes-izumi-shillacoto-1972`].
+- **Paredones / Huaca Prieta re-excavation** — Dillehay 2017 [`src-andes-dillehay-huaca-prieta-2017`].
+
+
 ## Urbanism, architecture & institutions
 
 晚古风 Norte Chico 遗址群的共性包括：大规模纪念性建筑、广泛居住建筑、无陶 [`src-andes-haas-creamer-ruiz-norte-chico-2004`]。Science 2001 将卡拉尔的纪念性「公司性 / corporate」建筑与「城市聚落 / urban settlement」表述并置——**「城市」在此为论文用语，是否等于旧大陆城市定义，见 Notes 开放争议** [`src-andes-shady-haas-creamer-caral-2001`]。福塔莱萨 Fieldiana 报告确认阶梯金字塔式平台丘、沉陷圆形广场（sunken circular plazas）、竖立独石（huancas）等纪念性要素；平台丘与沉陷圆形广场配对的模式至少可追溯到公元前第三千纪；卡瓦列特、波韦尼尔等处可见 U 形布局倾向 [`src-andes-creamer-ruiz-perales-haas-fortaleza-2013`]。纪念性建筑常用 **shicra**（纤维网袋装填河卵石/石块）作为填充/建造技术，并因此保存可用于测年的植物纤维 [`src-andes-creamer-ruiz-perales-haas-fortaleza-2013`]。阿斯佩罗平台丘被 Moseley & Willey、Feldman 解读为需要动员劳动力的「公司性」工程，并据此讨论社会不平等萌芽——**属学术模型** [`src-andes-moseley-willey-aspero-1973`][`src-andes-feldman-andean-state-1987`]。Shady & Leyva 2003 书名使用「ciudad sagrada / Estado prístino」等表述，登记为项目诠释传统，**不写入本条事实定论栏** [`src-andes-shady-leyva-caral-supe-2003`]。Haas & Creamer（2004）在 Silverman 手册中提供中安第斯晚古风文化转型的二手综合框架 [`src-andes-haas-creamer-silverman-2004`]。
@@ -206,57 +231,70 @@ Second density pass (2026-10-11 / D-2026-10-11-29) also registers Bird Huaca Pri
 
 Third density pass (2026-10-12 / D-2026-10-12-2) also registers Samaniego Cerro Sechín; Pozorski Antiquity 1992 / square-room 2011; Burger Huaricoto; Izumi Kotosh Andes 2/4; Sandweiss Jaguay / Keefer Tacahuay Science 1998; Dillehay Monte Verde II; Donnan 1985 volume. Casma "earliest state" and square-room=power-emblem stay hypotheses.
 
+第四轮密度加深（2026-10-12 / D-2026-10-12-4）另登记：Dillehay 瓦卡普列塔 2017；Bonavia 洛斯加维拉内斯 1982；Pozorski 瓦伊努纳 1990；Alva 查奥盐沼 1986；Izumi 希利亚科托 1972；Lanning 1967；Moseley 祖先综论 2001；Quilter 中央安第斯 2014；Dillehay 采集—农耕 2011；Sandweiss 2008 海洋模型评论。加维拉内斯玉米优先、查奥＝原生国家中心、海洋模型已定论等留假说栏。
+
+Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Dillehay Huaca Prieta 2017; Bonavia Los Gavilanes 1982; Pozorski Huaynuná 1990; Alva Salinas de Chao 1986; Izumi Shillacoto 1972; Lanning 1967; Moseley Ancestors 2001; Quilter Central Andes 2014; Dillehay Foraging–Farming 2011; Sandweiss 2008 maritime-model critique. Gavilanes maize-priority, Chao=pristine state center, and “maritime model settled” stay hypotheses.
+
 ## Sources
 
-- `src-andes-benfer-paloma-1990` — article; Benfer, Robert A., Jr. 1990. “The Preceramic Period Site of Paloma, Peru: Bioindications of Improving Adaptation to S... (tier S)
-- `src-andes-bird-huaca-prieta-1985` — excavation-report; Bird, Junius B.; John Hyslop (archaeological editor); with textile sections by Junius B. Bird, completed by Milica Di... (tier P)
-- `src-andes-burger-chavin-1995` — monograph; Burger, Richard L. 1995. Chavin and the Origins of Andean Civilization. London: Thames and Hudson. 248 p. ISBN 0-500-... (tier S)
-- `src-andes-burger-salazar-huaricoto-1985` — article; Burger, Richard L., and Lucy Salazar-Burger. 1985. "The Early Ceremonial Center of Huaricoto." In Early Ceremonial Ar... (tier P)
-- `src-andes-chu-bandurria-2011` — excavation-report; Chu Barrera, Alejandro José. 2011. “Household Organization and Social Inequality at Bandurria, a Late Preceramic Vill... (tier P)
-- `src-andes-chu-bandurria-boletin-2006` — article; Chu Barrera, Alejandro. 2006. “Arquitectura monumental precerámica de Bandurria, Huacho” / “Monumental Preceramic Arc... (tier S)
-- `src-andes-creamer-ruiz-haas-pativilca-2007` — excavation-report; Creamer, Winifred; Ruiz, Alvaro; Haas, Jonathan. 2007. Archaeological Investigation of Late Archaic Sites (3000–1800 ... (tier P)
-- `src-andes-creamer-ruiz-perales-haas-fortaleza-2013` — excavation-report; Creamer, Winifred; Ruiz Rubio, Alvaro; Perales Munguía, Manuel F.; Haas, Jonathan. 2013. “The Fortaleza Valley, Peru:... (tier P)
-- `src-andes-dillehay-monte-verde-ii-1997` — excavation-report; Dillehay, Tom D. 1997. Monte Verde: A Late Pleistocene Settlement in Chile. Volume 2: The Archaeological Context and ... (tier P)
-- `src-andes-donnan-early-ceremonial-1985` — monograph; Donnan, Christopher B., ed. 1985. Early Ceremonial Architecture in the Andes: A Conference at Dumbarton Oaks, 8th to ... (tier S)
-- `src-andes-engel-asia-1963` — excavation-report; Engel, Frédéric André. 1963. “A Preceramic Settlement on the Central Coast of Peru: Asia, Unit I.” Transactions of th... (tier P)
-- `src-andes-engel-begonias-1987` — monograph; Engel, Frédéric André. 1987. De las begonias al maíz: vida y producción en el Perú antiguo. Lima: Centro de Investiga... (tier S)
-- `src-andes-feldman-andean-state-1987` — monograph; Feldman, Robert A. 1987. “Architectural Evidence for the Development of Nonegalitarian Social Systems in Coastal Peru... (tier S)
-- `src-andes-feldman-aspero-dissertation-1980` — excavation-report; Feldman, Robert A. 1980. “Aspero, Peru: Architecture, Subsistence Economy and Other Artifacts of a Preceramic Maritim... (tier P)
-- `src-andes-feldman-corporate-architecture-1985` — article; Feldman, Robert A. 1985. “Preceramic Corporate Architecture: Evidence for the Development of Non-Egalitarian Social S... (tier S)
-- `src-andes-fuchs-sechin-bajo-2009` — article; Fuchs, Peter R.; Renate Patzschke; Germán Yenque; and Jesús Briceño. 2009. “Del Arcaico Tardío al Formativo Temprano:... (tier P)
-- `src-andes-fung-late-preceramic-1988` — article; Fung Pineda, Rosa. 1988. “The Late Preceramic and Initial Period.” In Peruvian Prehistory: An Overview of Pre-Inca an... (tier S)
-- `src-andes-grieder-la-galgada-1988` — excavation-report; Grieder, Terence; Alberto Bueno Mendoza; C. Earle Smith Jr.; and Robert M. Malina. 1988. La Galgada, Peru: A Preceram... (tier P)
-- `src-andes-haas-creamer-pnas-maize-2013` — article; Haas, Jonathan; Creamer, Winifred; Huamán Mesía, Luis; Goldstein, David; Reinhard, Karl; Vergel Rodríguez, Cindy. 201... (tier S)
-- `src-andes-haas-creamer-power-2006` — article; Haas, Jonathan; Creamer, Winifred. 2006. “Crucible of Andean Civilization: The Peruvian Coast from 3000 to 1800 BC.” ... (tier S)
-- `src-andes-haas-creamer-ruiz-norte-chico-2004` — article; Haas, Jonathan; Creamer, Winifred; Ruiz, Alvaro. 2004. “Dating the Late Archaic occupation of the Norte Chico region ... (tier S)
-- `src-andes-haas-creamer-silverman-2004` — monograph; Haas, Jonathan; Creamer, Winifred. 2004. “Cultural Transformations in the Central Andean Late Archaic.” In Andean Arc... (tier S)
-- `src-andes-izumi-sono-kotosh-andes2-1963` — excavation-report; Izumi, Seiichi, and Toshihiko Sono. 1963. Andes 2: Excavations at Kotosh, Peru, 1960. Tokyo: University of Tokyo / Ka... (tier P)
-- `src-andes-izumi-terada-kotosh-andes4-1972` — excavation-report; Izumi, Seiichi, and Kazuo Terada, eds. 1972. Andes 4: Excavations at Kotosh, Peru, 1963 and 1966. Tokyo: University o... (tier P)
-- `src-andes-keefer-tacahuay-science-1998` — article; Keefer, David K., Susan D. deFrance, Michael E. Moseley, James B. Richardson III, Dennis R. Satterlee, and Amy Day-Le... (tier P)
-- `src-andes-kosok-1965` — monograph; Kosok, Paul. 1965. Life, Land and Water in Ancient Peru: An Account of the Discovery, Exploration and Mapping of Anci... (tier S)
-- `src-andes-moseley-maritime-1975` — monograph; Moseley, Michael Edward. 1975. The Maritime Foundations of Andean Civilization. Menlo Park, Calif.: Cummings Publishi... (tier S)
-- `src-andes-moseley-maritime-foundations-reappraised-1992` — article; Moseley, Michael E. 1992. “Maritime Foundations and Multilinear Evolution: Retrospect and Prospect.” Andean Past 3: 5... (tier S)
-- `src-andes-moseley-willey-aspero-1973` — article; Moseley, M. Edward; Willey, Gordon R. 1973. “Aspero, Peru: A Reexamination of the Site and Its Implications.” America... (tier S)
-- `src-andes-pozorski-antiquity-casma-1992` — article; Pozorski, Shelia, and Thomas Pozorski. 1992. "Early Civilization in the Casma Valley, Peru." Antiquity 66 (253): 845–... (tier P)
-- `src-andes-pozorski-casma-1987` — excavation-report; Pozorski, Shelia, and Thomas Pozorski. 1987. Early Settlement and Subsistence in the Casma Valley, Peru. Iowa City: U... (tier P)
-- `src-andes-pozorski-initial-period-casma-2002` — article; Pozorski, Shelia, and Thomas Pozorski. 2002. “The Sechín Alto Complex and Its Place within Casma Valley Initial Perio... (tier S)
-- `src-andes-pozorski-square-room-2011` — article; Pozorski, Shelia, and Thomas Pozorski. 2011. "The Square-Room Unit as an Emblem of Power and Authority in the Initial... (tier P)
-- `src-andes-quilter-el-paraiso-1991` — article; Quilter, Jeffrey; Ojeda E., Bernardino; Pearsall, Deborah M.; Sandweiss, Daniel H.; Jones, John G.; Wing, Elizabeth S... (tier S)
-- `src-andes-quilter-paloma-1989` — monograph; Quilter, Jeffrey. 1989. Life and Death at Paloma: Society and Mortuary Practices in a Preceramic Peruvian Village. Io... (tier S)
-- `src-andes-raymond-maritime-reconsideration-1981` — article; Raymond, J. Scott. 1981. “The Maritime Foundations of Andean Civilization: A Reconsideration of the Evidence.” Americ... (tier S)
-- `src-andes-samaniego-cerro-sechin-1985` — article; Samaniego, Lorenzo, Enrique Vergara, and Henning Bischof. 1985. "New Evidence on Cerro Sechín, Casma Valley, Peru." I... (tier P)
-- `src-andes-sandweiss-jaguay-science-1998` — article; Sandweiss, Daniel H., Heather McInnis, Richard L. Burger, Asunción Cano, Bernardino Ojeda, Rolando Paredes, María del... (tier P)
-- `src-andes-sandweiss-pnas-2009` — article; Sandweiss, Daniel H.; Shady Solís, Ruth; Moseley, Michael E.; Keefer, David K.; Ortloff, Charles R. 2009. “Environmen... (tier S)
-- `src-andes-shady-caral-1997` — monograph; Shady Solís, Ruth Martha. 1997. La ciudad sagrada de Caral-Supe en los albores de la civilización en el Perú. Lima: U... (tier S)
-- `src-andes-shady-caral-social-values-2008` — monograph; Shady Solís, Ruth. 2008. The Social and Cultural Values of Caral-Supe, the Oldest Civilization of Peru and the Americ... (tier S)
-- `src-andes-shady-haas-creamer-caral-2001` — article; Shady Solís, Ruth; Haas, Jonathan; Creamer, Winifred. 2001. “Dating Caral, a Preceramic Site in the Supe Valley on th... (tier S)
-- `src-andes-shady-leyva-caral-supe-2003` — monograph; Shady, Ruth; Leyva, Carlos (eds.). 2003. La ciudad sagrada de Caral-Supe: los orígenes de la civilización andina y la... (tier S)
-- `src-andes-unesco-caral-2009` — web; UNESCO World Heritage Centre. “Sacred City of Caral-Supe.” World Heritage List, property ID 1269. Inscribed 2009 (cri... (tier T)
-- `src-andes-vega-centeno-boletin-lampay-2006` — article; Vega-Centeno Sara-Lafosse, Rafael. 2006. “Consumo y ritual en la construcción de espacios públicos para el Periodo Ar... (tier S)
-- `src-andes-vega-centeno-cerro-lampay-2010` — article; Vega-Centeno Sara-Lafosse, Rafael. 2010. “Cerro Lampay: Architectural Design and Human Interaction in the North Centr... (tier P)
-- `src-andes-willey-corbett-early-supe-1954` — excavation-report; Willey, Gordon R.; Corbett, John M. 1954. Early Ancón and Early Supe Culture: Chavín Horizon Sites of the Central Per... (tier P)
-- `src-andes-zechenter-supe-1988` — excavation-report; Zechenter, Elizabeth M. 1988. “Subsistence Strategies in the Supe Valley of the Peruvian Central Coast During the Com... (tier P)
-
+- `src-andes-alva-salinas-chao-1986` — excavation-report; Alva, Walter. 1986. Las Salinas de Chao: Frühe Siedlung in Nord-Peru / Asentamiento temprano en el Norte de... (tier P)
+- `src-andes-benfer-paloma-1990` — article; Benfer, Robert A., Jr. 1990. “The Preceramic Period Site of Paloma, Peru: Bioindications of Improving Adapt... (tier S)
+- `src-andes-bird-huaca-prieta-1985` — excavation-report; Bird, Junius B.; John Hyslop (archaeological editor); with textile sections by Junius B. Bird, completed by... (tier P)
+- `src-andes-bonavia-gavilanes-1982` — excavation-report; Bonavia, Duccio. 1982. Precerámico peruano: Los Gavilanes: Mar, desierto y oasis en la historia del hombre.... (tier P)
+- `src-andes-burger-chavin-1995` — monograph; Burger, Richard L. 1995. Chavin and the Origins of Andean Civilization. London: Thames and Hudson. 248 p. I... (tier S)
+- `src-andes-burger-salazar-huaricoto-1985` — article; Burger, Richard L., and Lucy Salazar-Burger. 1985. \"The Early Ceremonial Center of Huaricoto.\" In Early C... (tier P)
+- `src-andes-chu-bandurria-2011` — excavation-report; Chu Barrera, Alejandro José. 2011. “Household Organization and Social Inequality at Bandurria, a Late Prece... (tier P)
+- `src-andes-chu-bandurria-boletin-2006` — article; Chu Barrera, Alejandro. 2006. “Arquitectura monumental precerámica de Bandurria, Huacho” / “Monumental Prec... (tier S)
+- `src-andes-creamer-ruiz-haas-pativilca-2007` — excavation-report; Creamer, Winifred; Ruiz, Alvaro; Haas, Jonathan. 2007. Archaeological Investigation of Late Archaic Sites (... (tier P)
+- `src-andes-creamer-ruiz-perales-haas-fortaleza-2013` — excavation-report; Creamer, Winifred; Ruiz Rubio, Alvaro; Perales Munguía, Manuel F.; Haas, Jonathan. 2013. “The Fortaleza Val... (tier P)
+- `src-andes-dillehay-foraging-farming-andes-2011` — monograph; Dillehay, Tom D., ed. 2011. From Foraging to Farming in the Andes: New Insights from Human Paleobiology and... (tier S)
+- `src-andes-dillehay-huaca-prieta-2017` — excavation-report; Dillehay, Tom D., ed. 2017. Where the Land Meets the Sea: Fourteen Millennia of Human History at Huaca Prie... (tier P)
+- `src-andes-dillehay-monte-verde-ii-1997` — excavation-report; Dillehay, Tom D. 1997. Monte Verde: A Late Pleistocene Settlement in Chile. Volume 2: The Archaeological Co... (tier P)
+- `src-andes-donnan-early-ceremonial-1985` — monograph; Donnan, Christopher B., ed. 1985. Early Ceremonial Architecture in the Andes: A Conference at Dumbarton Oak... (tier S)
+- `src-andes-engel-asia-1963` — excavation-report; Engel, Frédéric André. 1963. “A Preceramic Settlement on the Central Coast of Peru: Asia, Unit I.” Transact... (tier P)
+- `src-andes-engel-begonias-1987` — monograph; Engel, Frédéric André. 1987. De las begonias al maíz: vida y producción en el Perú antiguo. Lima: Centro de... (tier S)
+- `src-andes-feldman-andean-state-1987` — monograph; Feldman, Robert A. 1987. “Architectural Evidence for the Development of Nonegalitarian Social Systems in Co... (tier S)
+- `src-andes-feldman-aspero-dissertation-1980` — excavation-report; Feldman, Robert A. 1980. “Aspero, Peru: Architecture, Subsistence Economy and Other Artifacts of a Preceram... (tier P)
+- `src-andes-feldman-corporate-architecture-1985` — article; Feldman, Robert A. 1985. “Preceramic Corporate Architecture: Evidence for the Development of Non-Egalitaria... (tier S)
+- `src-andes-fuchs-sechin-bajo-2009` — article; Fuchs, Peter R.; Renate Patzschke; Germán Yenque; and Jesús Briceño. 2009. “Del Arcaico Tardío al Formativo... (tier P)
+- `src-andes-fung-late-preceramic-1988` — article; Fung Pineda, Rosa. 1988. “The Late Preceramic and Initial Period.” In Peruvian Prehistory: An Overview of P... (tier S)
+- `src-andes-grieder-la-galgada-1988` — excavation-report; Grieder, Terence; Alberto Bueno Mendoza; C. Earle Smith Jr.; and Robert M. Malina. 1988. La Galgada, Peru: ... (tier P)
+- `src-andes-haas-creamer-pnas-maize-2013` — article; Haas, Jonathan; Creamer, Winifred; Huamán Mesía, Luis; Goldstein, David; Reinhard, Karl; Vergel Rodríguez, ... (tier S)
+- `src-andes-haas-creamer-power-2006` — article; Haas, Jonathan; Creamer, Winifred. 2006. “Crucible of Andean Civilization: The Peruvian Coast from 3000 to ... (tier S)
+- `src-andes-haas-creamer-ruiz-norte-chico-2004` — article; Haas, Jonathan; Creamer, Winifred; Ruiz, Alvaro. 2004. “Dating the Late Archaic occupation of the Norte Chi... (tier S)
+- `src-andes-haas-creamer-silverman-2004` — monograph; Haas, Jonathan; Creamer, Winifred. 2004. “Cultural Transformations in the Central Andean Late Archaic.” In ... (tier S)
+- `src-andes-izumi-shillacoto-1972` — excavation-report; Izumi, Seiichi; Pedro J. Cuculiza; and Chiaki Kano. 1972. Excavations at Shillacoto, Huánuco, Peru. The Uni... (tier P)
+- `src-andes-izumi-sono-kotosh-andes2-1963` — excavation-report; Izumi, Seiichi, and Toshihiko Sono. 1963. Andes 2: Excavations at Kotosh, Peru, 1960. Tokyo: University of ... (tier P)
+- `src-andes-izumi-terada-kotosh-andes4-1972` — excavation-report; Izumi, Seiichi, and Kazuo Terada, eds. 1972. Andes 4: Excavations at Kotosh, Peru, 1963 and 1966. Tokyo: Un... (tier P)
+- `src-andes-keefer-tacahuay-science-1998` — article; Keefer, David K., Susan D. deFrance, Michael E. Moseley, James B. Richardson III, Dennis R. Satterlee, and ... (tier P)
+- `src-andes-kosok-1965` — monograph; Kosok, Paul. 1965. Life, Land and Water in Ancient Peru: An Account of the Discovery, Exploration and Mappi... (tier S)
+- `src-andes-lanning-peru-before-1967` — monograph; Lanning, Edward P. 1967. Peru Before the Incas. Englewood Cliffs, N.J.: Prentice-Hall. (tier S)
+- `src-andes-moseley-incas-ancestors-2001` — monograph; Moseley, Michael E. 2001. The Incas and Their Ancestors: The Archaeology of Peru. Revised edition. London: ... (tier S)
+- `src-andes-moseley-maritime-1975` — monograph; Moseley, Michael Edward. 1975. The Maritime Foundations of Andean Civilization. Menlo Park, Calif.: Cumming... (tier S)
+- `src-andes-moseley-maritime-foundations-reappraised-1992` — article; Moseley, Michael E. 1992. “Maritime Foundations and Multilinear Evolution: Retrospect and Prospect.” Andean... (tier S)
+- `src-andes-moseley-willey-aspero-1973` — article; Moseley, M. Edward; Willey, Gordon R. 1973. “Aspero, Peru: A Reexamination of the Site and Its Implications... (tier S)
+- `src-andes-pozorski-antiquity-casma-1992` — article; Pozorski, Shelia, and Thomas Pozorski. 1992. \"Early Civilization in the Casma Valley, Peru.\" Antiquity 66... (tier P)
+- `src-andes-pozorski-casma-1987` — excavation-report; Pozorski, Shelia, and Thomas Pozorski. 1987. Early Settlement and Subsistence in the Casma Valley, Peru. Io... (tier P)
+- `src-andes-pozorski-huaynuna-1990` — article; Pozorski, Thomas, and Shelia Pozorski. 1990. “Huaynuná, a Late Cotton Preceramic Site on the North Coast of... (tier P)
+- `src-andes-pozorski-initial-period-casma-2002` — article; Pozorski, Shelia, and Thomas Pozorski. 2002. “The Sechín Alto Complex and Its Place within Casma Valley Ini... (tier S)
+- `src-andes-pozorski-square-room-2011` — article; Pozorski, Shelia, and Thomas Pozorski. 2011. \"The Square-Room Unit as an Emblem of Power and Authority in ... (tier P)
+- `src-andes-quilter-ancient-central-andes-2014` — monograph; Quilter, Jeffrey. 2014. The Ancient Central Andes. Routledge World Archaeology. London; New York: Routledge... (tier S)
+- `src-andes-quilter-el-paraiso-1991` — article; Quilter, Jeffrey; Ojeda E., Bernardino; Pearsall, Deborah M.; Sandweiss, Daniel H.; Jones, John G.; Wing, E... (tier S)
+- `src-andes-quilter-paloma-1989` — monograph; Quilter, Jeffrey. 1989. Life and Death at Paloma: Society and Mortuary Practices in a Preceramic Peruvian V... (tier S)
+- `src-andes-raymond-maritime-reconsideration-1981` — article; Raymond, J. Scott. 1981. “The Maritime Foundations of Andean Civilization: A Reconsideration of the Evidenc... (tier S)
+- `src-andes-samaniego-cerro-sechin-1985` — article; Samaniego, Lorenzo, Enrique Vergara, and Henning Bischof. 1985. \"New Evidence on Cerro Sechín, Casma Valle... (tier P)
+- `src-andes-sandweiss-coastal-adaptations-2008` — article; Sandweiss, Daniel H. 2008. “Early Fishing and Inland Monuments: Challenging the Maritime Foundations of And... (tier S)
+- `src-andes-sandweiss-jaguay-science-1998` — article; Sandweiss, Daniel H., Heather McInnis, Richard L. Burger, Asunción Cano, Bernardino Ojeda, Rolando Paredes,... (tier P)
+- `src-andes-sandweiss-pnas-2009` — article; Sandweiss, Daniel H.; Shady Solís, Ruth; Moseley, Michael E.; Keefer, David K.; Ortloff, Charles R. 2009. “... (tier S)
+- `src-andes-shady-caral-1997` — monograph; Shady Solís, Ruth Martha. 1997. La ciudad sagrada de Caral-Supe en los albores de la civilización en el Per... (tier S)
+- `src-andes-shady-caral-social-values-2008` — monograph; Shady Solís, Ruth. 2008. The Social and Cultural Values of Caral-Supe, the Oldest Civilization of Peru and ... (tier S)
+- `src-andes-shady-haas-creamer-caral-2001` — article; Shady Solís, Ruth; Haas, Jonathan; Creamer, Winifred. 2001. “Dating Caral, a Preceramic Site in the Supe Va... (tier S)
+- `src-andes-shady-leyva-caral-supe-2003` — monograph; Shady, Ruth; Leyva, Carlos (eds.). 2003. La ciudad sagrada de Caral-Supe: los orígenes de la civilización a... (tier S)
+- `src-andes-unesco-caral-2009` — web; UNESCO World Heritage Centre. “Sacred City of Caral-Supe.” World Heritage List, property ID 1269. Inscribed... (tier T)
+- `src-andes-vega-centeno-boletin-lampay-2006` — article; Vega-Centeno Sara-Lafosse, Rafael. 2006. “Consumo y ritual en la construcción de espacios públicos para el ... (tier S)
+- `src-andes-vega-centeno-cerro-lampay-2010` — article; Vega-Centeno Sara-Lafosse, Rafael. 2010. “Cerro Lampay: Architectural Design and Human Interaction in the N... (tier P)
+- `src-andes-willey-corbett-early-supe-1954` — excavation-report; Willey, Gordon R.; Corbett, John M. 1954. Early Ancón and Early Supe Culture: Chavín Horizon Sites of the C... (tier P)
+- `src-andes-zechenter-supe-1988` — excavation-report; Zechenter, Elizabeth M. 1988. “Subsistence Strategies in the Supe Valley of the Peruvian Central Coast Duri... (tier P)
 ## Related civilizations
 
 - `civ-olmec` — Mesoamerican Formative peer shell; chronological overlap in late 2nd–1st millennia BCE is loose; **no contact claim**

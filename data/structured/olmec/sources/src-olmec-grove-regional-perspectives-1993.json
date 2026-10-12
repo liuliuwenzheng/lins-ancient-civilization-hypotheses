@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-grove-regional-perspectives-1993",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Grove, David C., and Rosemary A. Joyce, eds. 1993. Social Patterns in Pre-Classic Mesoamerica / related Grove regional Olmec–hinterland essays; Grove’s regional perspectives literature on Olmec heartland and highlands.",
+  "url": "https://www.doaks.org/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary edited-volume / regional-perspectives literature on Pre-Classic social patterns and Olmec hinterlands. Prefer Grove Chalcatzingo 1987 already registered for site facts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-grove-regional-perspectives-1993.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

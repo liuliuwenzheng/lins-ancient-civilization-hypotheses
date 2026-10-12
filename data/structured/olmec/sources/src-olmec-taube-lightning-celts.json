@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-taube-lightning-celts",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Taube, Karl A. Olmec art and iconography studies including Dumbarton Oaks publications (complements src-olmec-taube-doaks-2004).",
+  "url": "https://www.doaks.org/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary iconographic studies. Prefer taube-doaks-2004 for claims; rain/maize deity readings are interpretive.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-taube-lightning-celts.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

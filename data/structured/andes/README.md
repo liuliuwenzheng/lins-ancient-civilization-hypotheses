@@ -1,11 +1,16 @@
-# Structured pack — Andes early civilization (Caral–Norte Chico)
+# Structured pack — Andean early civilizations (Caral–Norte Chico)
 
 [中文](README.zh.md) | English
 
-Derived only from `data/civilizations/civ-andes.md` and registered sources. No new archaeological inventions. No forged artifact images.
+Read-only archive entities for `civ-andes`.
 
-**Second density pass D-2026-10-11-29:** sources 38 · sites 22 · periods 7 · objects 24 · claims 36 · media 6 (outbound links; `export_check` authoritative).
+Counts (fourth density pass D-2026-10-12-4; `export_check` is authoritative):
+- sources: 58
+- sites: 35
+- periods: 7
+- objects: 38
+- claims: 54
+- media: 6
 
-```bash
-.venv/bin/python tools/export_check.py
-```
+Markdown editorial source: `data/civilizations/civ-andes.md`.
+Run `tools/export_check.py` before serving.

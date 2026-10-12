@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-xia-equals-erlitou",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "二里头文化即文献「夏」的考古学对应，已成定论。",
+    "en": "Erlitou culture is the settled archaeological correlate of textual Xia."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-erlitou"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-china-thorp-erlitou-xia-1991",
+    "src-china-liu-chen-state-formation-2003",
+    "src-china-bagley-new-perspectives-shang-1999"
+  ],
+  "disclaimer": "Hypothesis: Xia–Erlitou equation remains contested in registered sources; keep out of fact column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

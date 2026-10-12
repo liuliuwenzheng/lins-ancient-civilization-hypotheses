@@ -1,0 +1,42 @@
+{
+  "id": "asm-tiryns-palace-1885",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "梯林斯宫殿组合（Schliemann 1885）",
+    "en": "Tiryns palace assemblage (Schliemann 1885)"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-tiryns-schliemann",
+    "site-tiryns"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "1885 卷公布的宫殿建筑与发现类别（组合级）。",
+    "en": "Palace architecture and find classes as published 1885 (assemblage-level)."
+  },
+  "sources": [
+    "src-aegean-schliemann-tiryns-1885"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Schliemann 1885 Tiryns",
+    "upstream_url": "https://catalog.hathitrust.org/Record/000611518",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

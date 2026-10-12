@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-izumi-shillacoto-1972",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Izumi, Seiichi; Pedro J. Cuculiza; and Chiaki Kano. 1972. Excavations at Shillacoto, Huánuco, Peru. The University Museum, University of Tokyo, Bulletin No. 3. Tokyo: University of Tokyo.",
+  "url": "https://umdb.um.u-tokyo.ac.jp/DImages/Kankoubutsu/IBulletin/no03/no03000.html",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary University of Tokyo Bulletin 3 on 1967–69 Shillacoto excavations (Huánuco). Publishes Mito–Wairajirca–Kotosh–Higueras phase sequence paralleling Kotosh. Highland comparative — do not collapse into Norte Chico chronology.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-izumi-shillacoto-1972.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

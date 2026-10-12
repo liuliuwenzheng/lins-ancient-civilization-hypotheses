@@ -1,0 +1,28 @@
+{
+  "id": "claim-china-anyange-sole-capital-always",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "安阳殷墟在整个晚商始终是唯一都城，洹北等址不构成都城迁徙问题。",
+    "en": "Anyang Yinxu was always the sole Late Shang capital; Huanbei etc. raise no capital-shift issues."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-china-yinxu-faxian-yanjiu-1994",
+    "src-china-huanbei-overview-tang-2004"
+  ],
+  "disclaimer": "Hypothesis: Huanbei and related Early Shang / Middle Shang capital debates remain active; do not collapse into a single settled narrative.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

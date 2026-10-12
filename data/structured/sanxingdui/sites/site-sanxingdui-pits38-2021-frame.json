@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-pits38-2021-frame",
+  "entity": "site",
+  "names": {
+    "zh": "三星堆 3–8 号坑 2021 简报指针",
+    "en": "Sanxingdui pits 3–8 2021 briefs frame",
+    "native": null
+  },
+  "kind_note": "Pointer for 2021 pits 3–8 brief stream",
+  "region": "Guanghan, Sichuan / Sanxingdui",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "2021 官方简报流指针；与已登记 pit3-8 源交叉。",
+    "en": "Pointer for 2021 official brief stream; cross-links registered pit3-8 sources."
+  },
+  "sources": [
+    "src-sanxingdui-kaogu-pits38-2021-deepen",
+    "src-sanxingdui-pit3-8-kaogu-briefs-2021"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-pit1-wenwu",
+  "entity": "site",
+  "names": {
+    "zh": "三星堆一号坑（文物简报单元）",
+    "en": "Sanxingdui Pit 1 (Wenwu brief unit)",
+    "native": null
+  },
+  "kind_note": "1986 Pit 1 archive unit",
+  "region": "Guanghan, Sichuan / Sanxingdui",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "文物 1987(10) 一号坑简报单元；功能标签仍有讨论。",
+    "en": "Wenwu 1987(10) Pit 1 brief unit; functional label still debated."
+  },
+  "sources": [
+    "src-sanxingdui-wenwu-pit1-1987",
+    "src-sanxingdui-pit1-brief-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

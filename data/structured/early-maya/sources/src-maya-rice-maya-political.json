@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-rice-maya-political",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Rice, Prudence M. Maya political geography / Itza and related Late/Terminal Classic–Postclassic studies; Preclassic political implications discussed comparatively in Rice’s broader oeuvre.",
+  "url": "https://upf.com/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary political-geography literature. Use cautiously for Preclassic claims; prefer Inomata/Estrada-Belli/Hansen primary reports for early Maya centers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-rice-maya-political.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

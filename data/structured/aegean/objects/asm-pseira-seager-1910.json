@@ -1,0 +1,42 @@
+{
+  "id": "asm-pseira-seager-1910",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "普塞拉聚落组合（Seager 1910）",
+    "en": "Pseira settlement assemblage (Seager 1910)"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pseira"
+  ],
+  "period_ids": [
+    "period-aegean-neopalatial",
+    "period-aegean-middle-bronze"
+  ],
+  "summary": {
+    "zh": "Seager 1910 公布的岛屿聚落材料类别（组合级）。",
+    "en": "Islet settlement material classes as published by Seager 1910 (assemblage-level)."
+  },
+  "sources": [
+    "src-aegean-seager-pseira-1910"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Seager 1910",
+    "upstream_url": "https://www.penn.museum/research/publications/publication/830",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

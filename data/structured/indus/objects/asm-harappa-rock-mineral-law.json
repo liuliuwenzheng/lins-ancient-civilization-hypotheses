@@ -1,0 +1,42 @@
+{
+  "id": "asm-harappa-rock-mineral-law",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈拉帕岩矿溯源组合（Law）",
+    "en": "Harappa rock–mineral provenience assemblage (Law)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa-rock-mineral",
+    "site-harappa"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "Law 2011 地质溯源所论岩石/矿物原料类别（组合级）。",
+    "en": "Rock/mineral raw-material classes discussed in Law 2011 provenience study (assemblage-level)."
+  },
+  "sources": [
+    "src-indus-law-rihn-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Law 2011 RIHN OP 11",
+    "upstream_url": "https://www.harappa.com/sites/default/files/essays/Randall%20Law%202011%20Frontmatter%20_1.pdf",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

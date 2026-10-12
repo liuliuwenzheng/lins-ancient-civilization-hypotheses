@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-seager-pseira",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Seager 1910 宾大大学博物馆报告公布克里特普塞拉岛 1906–07 发掘。",
+    "en": "Seager 1910 University Museum report publishes the 1906–07 excavations on Pseira, Crete."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pseira"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-pseira-seager-1910"
+  ],
+  "sources": [
+    "src-aegean-seager-pseira-1910"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

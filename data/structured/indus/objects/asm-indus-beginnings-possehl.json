@@ -1,0 +1,42 @@
+{
+  "id": "asm-indus-beginnings-possehl",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "印度河开端综合文献组合",
+    "en": "Indus beginnings synthesis literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-indus-beginnings-frame"
+  ],
+  "period_ids": [
+    "period-indus-regionalization"
+  ],
+  "summary": {
+    "zh": "Possehl/Allchin 开端与兴起二手综合（文献组合）。",
+    "en": "Possehl/Allchin secondary beginnings/rise syntheses (literature assemblage)."
+  },
+  "sources": [
+    "src-indus-possehl-indus-age-1999",
+    "src-indus-allchin-rise-1982"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Possehl 1999; Allchin & Allchin 1982",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

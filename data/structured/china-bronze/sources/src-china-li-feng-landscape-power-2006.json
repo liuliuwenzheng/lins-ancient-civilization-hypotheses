@@ -1,0 +1,17 @@
+{
+  "id": "src-china-li-feng-landscape-power-2006",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Li, Feng. 2006. Landscape and Power in Early China: The Crisis and Fall of the Western Zhou, 1045–771 BC. Cambridge: Cambridge University Press. ISBN 978-0-521-85272-2.",
+  "url": "https://doi.org/10.1017/CBO9780511489655",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary Cambridge study of Western Zhou political geography and collapse. Not a substitute for Fengxi/Zhouyuan/Liulihe excavation reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-li-feng-landscape-power-2006.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

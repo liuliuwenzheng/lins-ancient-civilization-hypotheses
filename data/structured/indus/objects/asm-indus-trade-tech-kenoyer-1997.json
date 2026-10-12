@@ -1,0 +1,41 @@
+{
+  "id": "asm-indus-trade-tech-kenoyer-1997",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "印度河贸易与技术讨论组合（Kenoyer 1997 WA）",
+    "en": "Indus trade and technology discussion assemblage (Kenoyer 1997 WA)"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "World Archaeology 1997 文中的贸易/技术论点所依材料类别（组合级）。",
+    "en": "Trade/technology material classes discussed in Kenoyer 1997 World Archaeology (assemblage-level)."
+  },
+  "sources": [
+    "src-indus-kenoyer-indus-cities-trade-1997"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Kenoyer 1997 WA",
+    "upstream_url": "https://doi.org/10.1080/00438243.1997.9980377",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

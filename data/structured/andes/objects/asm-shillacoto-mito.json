@@ -1,0 +1,41 @@
+{
+  "id": "asm-shillacoto-mito",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "希利亚科托 Mito 相礼仪建筑组合",
+    "en": "Shillacoto Mito-phase ceremonial assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-shillacoto"
+  ],
+  "period_ids": [
+    "period-andes-late-archaic-norte-chico"
+  ],
+  "summary": {
+    "zh": "东京大学 Bulletin 3 公布的 Mito 相等礼仪建筑材料（组合级）。",
+    "en": "Mito-phase ceremonial architecture as published in University of Tokyo Bulletin 3 (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-izumi-shillacoto-1972"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Izumi et al. 1972",
+    "upstream_url": "https://umdb.um.u-tokyo.ac.jp/DImages/Kankoubutsu/IBulletin/no03/no03000.html",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

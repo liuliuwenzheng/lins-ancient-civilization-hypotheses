@@ -1,0 +1,31 @@
+{
+  "id": "site-tres-zapotes-settlement-frame",
+  "entity": "site",
+  "names": {
+    "zh": "特雷斯萨波特斯聚落指针",
+    "en": "Tres Zapotes settlement frame",
+    "native": null
+  },
+  "kind_note": "Settlement-archaeology pointer",
+  "region": "Veracruz, Mexico / Tres Zapotes",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Pool 聚落考古指针；细节引已登记 Tres Zapotes 报告。",
+    "en": "Pool settlement-archaeology pointer; details cite registered Tres Zapotes reports."
+  },
+  "sources": [
+    "src-olmec-pool-settlement-archaeology",
+    "src-olmec-pool-tres-zapotes-2003"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

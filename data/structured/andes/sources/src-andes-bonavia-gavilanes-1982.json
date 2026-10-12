@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-bonavia-gavilanes-1982",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Bonavia, Duccio. 1982. Precerámico peruano: Los Gavilanes: Mar, desierto y oasis en la historia del hombre. Lima: Corporación Financiera de Desarrollo (COFIDE) / Instituto Arqueológico Alemán.",
+  "url": "https://doi.org/10.2307/280394",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary full monograph on Los Gavilanes (Huarmey Valley) Preceramic grain-storage pits and botanical remains. American Antiquity review metadata verifies 1982 Lima publication. Early maize claims remain debated — do not elevate contested paleobotany to fact without cross-check.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-bonavia-gavilanes-1982.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

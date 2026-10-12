@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-pits-only-sacrifice",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "一号、二号坑的唯一功能是「祭祀坑」。",
+    "en": "Pits 1 and 2 functioned only as sacrificial pits."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pit1-wenwu",
+    "site-sanxingdui-pit2-wenwu"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-wenwu-pit1-1987",
+    "src-sanxingdui-wenwu-pit2-1989"
+  ],
+  "disclaimer": "Hypothesis: excavators used “sacrificial pit” terminology; alternative discard/termination ritual readings remain discussed.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "site-mycenae-grave-circle-b",
+  "entity": "site",
+  "names": {
+    "zh": "迈锡尼 B 圆圈墓",
+    "en": "Mycenae Grave Circle B",
+    "native": null
+  },
+  "kind_note": "Middle Helladic–early Mycenaean shaft-grave circle",
+  "region": "Argolid, Greece / Mycenae",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Mylonas 1972–73 正式报告 1952–54 发掘的 B 圆圈墓。",
+    "en": "Mylonas 1972–73 primary report of Grave Circle B excavated 1952–54."
+  },
+  "sources": [
+    "src-aegean-mylonas-grave-circle-b-1973"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

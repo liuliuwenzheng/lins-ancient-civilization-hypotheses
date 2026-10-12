@@ -1,0 +1,42 @@
+{
+  "id": "asm-tikal-handbook-coe",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "蒂卡尔手册文献组合",
+    "en": "Tikal handbook literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-tikal-handbook-frame"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic",
+    "period-maya-early-classic-onset"
+  ],
+  "summary": {
+    "zh": "Coe 蒂卡尔手册中的遗址概述（文献组合）。",
+    "en": "Site overview classes in Coe’s Tikal handbook (literature assemblage)."
+  },
+  "sources": [
+    "src-maya-coe-tikal-handbook"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Coe Tikal handbook",
+    "upstream_url": "https://www.penn.museum/",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

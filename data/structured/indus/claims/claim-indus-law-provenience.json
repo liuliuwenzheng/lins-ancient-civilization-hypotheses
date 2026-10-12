@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-law-provenience",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Law 2011 RIHN 专题报告哈拉帕岩石/矿物组合的地质溯源与跨区域互动研究。",
+    "en": "Law 2011 RIHN occasional paper publishes geologic provenience of Harappa’s rock/mineral assemblage and inter-regional interaction analysis."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa-rock-mineral"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-harappa-rock-mineral-law"
+  ],
+  "sources": [
+    "src-indus-law-rihn-2011"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-china-rawson-western-zhou-ritual-bronzes-1990",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Rawson, Jessica. 1990. Western Zhou Ritual Bronzes from the Arthur M. Sackler Collections. 2 vols. Ancient Chinese Bronzes from the Arthur M. Sackler Collections. Washington, D.C.; Cambridge, Mass.: Arthur M. Sackler Foundation / Harvard University Press.",
+  "url": "https://www.hup.harvard.edu/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary/catalogue synthesis of Western Zhou ritual bronzes in the Sackler Collections with typological discussion. Collection catalog — not a field excavation report; do not invent findspots.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-rawson-western-zhou-ritual-bronzes-1990.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

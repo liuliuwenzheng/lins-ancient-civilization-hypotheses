@@ -1,0 +1,31 @@
+{
+  "id": "site-harappa-rock-mineral",
+  "entity": "site",
+  "names": {
+    "zh": "哈拉帕岩矿原料单元（Law）",
+    "en": "Harappa rock–mineral provenience unit (Law)",
+    "native": null
+  },
+  "kind_note": "Archive unit for Law 2011 provenience study",
+  "region": "Punjab, Pakistan — Harappa",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Law 2011 哈拉帕岩石/矿物地质溯源与跨区域互动研究的档案单元。",
+    "en": "Archive unit for Law 2011 geologic provenience of Harappa’s rock and mineral assemblage."
+  },
+  "sources": [
+    "src-indus-law-rihn-2011",
+    "src-indus-meadow-harappa-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

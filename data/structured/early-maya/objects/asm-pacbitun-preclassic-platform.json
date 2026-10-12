@@ -1,0 +1,41 @@
+{
+  "id": "asm-pacbitun-preclassic-platform",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "帕克比通前古典礼仪平台组合",
+    "en": "Pacbitun Preclassic ceremonial platform assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-pacbitun"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic"
+  ],
+  "summary": {
+    "zh": "2019 LAA 报告的中前古典礼仪建筑材料（组合级）。",
+    "en": "Middle Preclassic ceremonial architecture material as in 2019 LAA (assemblage-level)."
+  },
+  "sources": [
+    "src-maya-powis-pacbitun-2019"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Powis et al. 2019 LAA",
+    "upstream_url": "https://doi.org/10.1017/laq.2019.18",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-pit2-wenwu",
+  "entity": "site",
+  "names": {
+    "zh": "三星堆二号坑（文物简报单元）",
+    "en": "Sanxingdui Pit 2 (Wenwu brief unit)",
+    "native": null
+  },
+  "kind_note": "1986 Pit 2 archive unit",
+  "region": "Guanghan, Sichuan / Sanxingdui",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "文物 1989(5) 二号坑简报单元。",
+    "en": "Wenwu 1989(5) Pit 2 brief unit."
+  },
+  "sources": [
+    "src-sanxingdui-wenwu-pit2-1989",
+    "src-sanxingdui-pit2-brief-1989"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

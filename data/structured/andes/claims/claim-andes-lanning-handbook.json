@@ -1,0 +1,27 @@
+{
+  "id": "claim-andes-lanning-handbook",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lanning 1967《印加之前的秘鲁》是涵盖前陶海岸序列的经典二手通论（年代框架已过时）。",
+    "en": "Lanning 1967 Peru Before the Incas is a classic secondary survey including Preceramic coastal sequences (chronology outdated)."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-lanning-peru-before-1967"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-indus-fairservis-lal-handbooks",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Fairservis/Lal 通论文献组合",
+    "en": "Fairservis/Lal handbook literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-indus-lal-synthesis-frame"
+  ],
+  "period_ids": [
+    "period-indus-integration"
+  ],
+  "summary": {
+    "zh": "多部二手通论中的印度河城市/文明叙述（文献组合）。",
+    "en": "Indus city/civilization narratives in multiple secondary handbooks (literature assemblage)."
+  },
+  "sources": [
+    "src-indus-fairservis-roots-1971",
+    "src-indus-lal-earliest-1997",
+    "src-indus-chakrabarti-ancient-cities-1995"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Fairservis 1971; Lal 1997; Chakrabarti 1995",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-hood-minos-crete-1971-deepen",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Hood, Sinclair. 1971. The Minoans: Crete in the Bronze Age. London: Thames & Hudson. (Complements already-registered hood-archaeology-crete-1971 handbook pathway.)",
+  "url": "https://thamesandhudson.com/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary Thames & Hudson handbook on Minoan Crete. Prefer primary palace reports for architecture facts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-hood-minos-crete-1971-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

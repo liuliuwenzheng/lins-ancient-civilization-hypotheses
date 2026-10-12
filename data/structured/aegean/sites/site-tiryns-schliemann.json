@@ -1,0 +1,31 @@
+{
+  "id": "site-tiryns-schliemann",
+  "entity": "site",
+  "names": {
+    "zh": "梯林斯（Schliemann/Dörpfeld 单元）",
+    "en": "Tiryns (Schliemann/Dörpfeld unit)",
+    "native": null
+  },
+  "kind_note": "Mycenaean palace excavation unit (1884–85 publication)",
+  "region": "Argolid, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Schliemann 1885《梯林斯》公布宫殿发掘；方法历史性。",
+    "en": "Schliemann 1885 Tiryns publishes the palace excavations; historical methods."
+  },
+  "sources": [
+    "src-aegean-schliemann-tiryns-1885",
+    "src-aegean-hope-simpson-mycenaean-greece-1981"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-grave-circle-b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迈锡尼 B 圆圈墓组合",
+    "en": "Mycenae Grave Circle B assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae-grave-circle-b",
+    "site-mycenae"
+  ],
+  "period_ids": [
+    "period-aegean-early-bronze",
+    "period-aegean-middle-bronze"
+  ],
+  "summary": {
+    "zh": "Mylonas 正式报告公布的竖穴墓与随葬类别（组合级）。",
+    "en": "Shaft graves and burial-good classes as published by Mylonas (assemblage-level)."
+  },
+  "sources": [
+    "src-aegean-mylonas-grave-circle-b-1973"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Mylonas 1972–73",
+    "upstream_url": "https://www.e-mycenae.org/grave-circle-b/",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-seager-pseira-1910",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Seager, Richard B. 1910. Excavations on the Island of Pseira, Crete. Anthropological Publications Vol. III, No. 1. Philadelphia: The University Museum, University of Pennsylvania.",
+  "url": "https://www.penn.museum/research/publications/publication/830",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary University Museum report on 1906–07 Pseira excavations (Minoan settlement). Penn Museum publications page verified 2026-10-12. Later INSTAP Pseira volumes refine contexts — use Seager for early published architecture/finds.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-seager-pseira-1910.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

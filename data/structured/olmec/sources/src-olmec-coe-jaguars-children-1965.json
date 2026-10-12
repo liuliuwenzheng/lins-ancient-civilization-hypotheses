@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-coe-jaguars-children-1965",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Coe, Michael D. 1965. The Jaguar’s Children: Pre-Classic Central Mexico. New York: Museum of Primitive Art. (Distributed by New York Graphic Society.)",
+  "url": "https://archive.org/details/jaguarschildrenp00coem",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Exhibition/catalogue monograph on Pre-Classic Central Mexican (Olmec-style) objects. Secondary/catalog; not a Gulf heartland excavation final report. Internet Archive copy verified 2026-10-12.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-coe-jaguars-children-1965.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

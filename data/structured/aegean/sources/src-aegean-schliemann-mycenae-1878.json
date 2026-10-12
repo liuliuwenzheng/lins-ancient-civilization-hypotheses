@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-schliemann-mycenae-1878",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Schliemann, Heinrich. 1878. Mycenae: A Narrative of Researches and Discoveries at Mycenae and Tiryns. New York: Scribner, Armstrong & Co. (English narrative of 1876 Grave Circle A excavations).",
+  "url": "https://archive.org/details/mycenaenarrative00schl",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary narrative of Schliemann’s 1876 Mycenae Grave Circle A work. Historical; object attributions and chronology outdated — research-history and find-class value only.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-schliemann-mycenae-1878.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

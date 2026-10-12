@@ -1,0 +1,30 @@
+{
+  "id": "site-sanxingdui-zhao-research-frame",
+  "entity": "site",
+  "names": {
+    "zh": "赵殿增研究史指针",
+    "en": "Zhao Dianzeng research-history frame",
+    "native": null
+  },
+  "kind_note": "Literature pointer for Zhao 2006",
+  "region": "Guanghan / Chengdu Plain research history",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "赵殿增 2006《三星堆考古研究》研究史指针。",
+    "en": "Pointer to Zhao 2006 Archaeological Studies of Sanxingdui."
+  },
+  "sources": [
+    "src-sanxingdui-zhao-dianzeng-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

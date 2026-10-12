@@ -1,0 +1,32 @@
+{
+  "id": "site-altar-de-sacrificios",
+  "entity": "site",
+  "names": {
+    "zh": "祭坛遗址 / Altar de Sacrificios",
+    "en": "Altar de Sacrificios",
+    "native": null
+  },
+  "kind_note": "Pasión River Maya center (Peabody excavations 1959–1963)",
+  "region": "Petén, Guatemala / Pasión River",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Willey/Adams Peabody Papers 报告 1959–1963 发掘的器物、陶器与总结。",
+    "en": "Willey/Adams Peabody Papers report 1959–1963 artifacts, ceramics, and conclusions."
+  },
+  "sources": [
+    "src-maya-willey-altar-artifacts-1972",
+    "src-maya-adams-altar-ceramics-1971",
+    "src-maya-willey-altar-conclusions-1973"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

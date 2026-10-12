@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-flad-ara-urbanism-2018",
+  "entity": "source",
+  "type": "article",
+  "citation": "Flad, Rowan. 2018. “Urbanism as Technology in Early China.” Archaeological Research in Asia 14: 121–134. https://doi.org/10.1016/j.ara.2016.09.001",
+  "url": "https://doi.org/10.1016/j.ara.2016.09.001",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Peer-reviewed ARA article on urbanism-as-technology with early China / Chengdu Plain relevance. DOI verified 2026-10-12.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-flad-ara-urbanism-2018.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

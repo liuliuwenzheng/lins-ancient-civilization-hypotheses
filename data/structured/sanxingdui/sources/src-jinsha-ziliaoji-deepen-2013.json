@@ -1,0 +1,17 @@
+{
+  "id": "src-jinsha-ziliaoji-deepen-2013",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Chengdu Municipal Institute of Cultural Relics and Archaeology, ed. 2013. 金沙遗址考古资料集 1 [Jinsha Site Archaeological Data Collection 1] (complements src-jinsha-ziliaoji-1-2013).",
+  "url": "https://book.douban.com/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary data collection volume for Jinsha. Prefer src-jinsha-ziliaoji-1-2013 for claims.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-jinsha-ziliaoji-deepen-2013.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

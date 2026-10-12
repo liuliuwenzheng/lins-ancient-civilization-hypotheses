@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-adams-altar-ceramics-1971",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Adams, Richard E. W. 1971. The Ceramics of Altar de Sacrificios. Papers of the Peabody Museum of Archaeology and Ethnology 63 (1). Cambridge, Mass.: Peabody Museum, Harvard University.",
+  "url": "https://peabody.harvard.edu/publication/ceramics-altar-de-sacrificios",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Peabody Papers ceramic report for Altar de Sacrificios. Peabody page verified 2026-10-12.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-adams-altar-ceramics-1971.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

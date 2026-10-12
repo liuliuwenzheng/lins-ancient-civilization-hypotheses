@@ -1,0 +1,29 @@
+{
+  "id": "claim-indus-empire-unified",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "印度河文明是中央集权的统一帝国。",
+    "en": "The Indus Civilization was a centralized, unified empire."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-indus-lal-earliest-1997",
+    "src-indus-chakrabarti-ancient-cities-1995",
+    "src-indus-kenoyer-1991"
+  ],
+  "disclaimer": "Hypothesis: political organization (empire vs. heterarchy/city-states) remains debated; Kenoyer and others caution against simple empire models. Keep out of fact column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

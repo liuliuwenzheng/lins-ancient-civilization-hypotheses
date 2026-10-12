@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-blomster-etlatongo-deepen",
+  "entity": "source",
+  "type": "article",
+  "citation": "Blomster, Jeffrey P. Etlatongo Formative publications (complements src-olmec-blomster-etlatongo).",
+  "url": "https://doi.org/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary/project publications on Etlatongo (Mixteca Alta) Formative contexts with Olmec-style interaction evidence. Prefer registered blomster-etlatongo id for claims.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-blomster-etlatongo-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

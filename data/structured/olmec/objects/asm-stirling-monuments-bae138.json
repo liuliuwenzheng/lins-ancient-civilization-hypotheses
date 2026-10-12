@@ -1,0 +1,40 @@
+{
+  "id": "asm-stirling-monuments-bae138",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Stirling 南部墨西哥石碑组合（BAE 138）",
+    "en": "Stirling southern Mexico monuments assemblage (BAE 138)"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-olmec-formative-floruit"
+  ],
+  "summary": {
+    "zh": "BAE 138 公布的石质纪念物类别（组合级）。",
+    "en": "Stone monument classes as published in BAE 138 (assemblage-level)."
+  },
+  "sources": [
+    "src-olmec-stirling-bae-138-deepen",
+    "src-olmec-stirling-bae-138-1943"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Stirling BAE 138",
+    "upstream_url": "https://repository.si.edu/",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

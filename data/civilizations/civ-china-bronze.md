@@ -40,8 +40,18 @@ sources:
   - src-china-yuanqu-shangcheng-vol2-2014
   - src-china-cass-xia-shang-2003
   - src-china-unesco-yinxu-2006
+  - src-china-xiaotunnan-jiagu-1980
+  - src-china-yinxu-faxian-yanjiu-1994
+  - src-china-keightley-ancestral-landscape-2000
+  - src-china-li-feng-landscape-power-2006
+  - src-china-zhengzhou-bronze-hoards-1999
+  - src-china-yinxu-bronzes-1985
+  - src-china-guojiazhuang-1998
+  - src-china-rawson-western-zhou-ritual-bronzes-1990
+  - src-china-bagley-new-perspectives-shang-1999
+  - src-china-underhill-craft-production-2002
 related_ids: ["civ-sanxingdui", "civ-aegean", "civ-indus-valley"]
-notes: "second density D-2026-10-11-30; fact-library + archive density D-2026-10-11-25 (sites + primary sources). Xia historicity = open debate (Notes + hypothesis claims; Thorp 1991 minimal definition). Central Plains bronze frame ≠ Sanxingdui polity identity. XSZCP absolute bands = contested scheme. No invented page numbers/coordinates; no forged images."
+notes: "fourth density D-2026-10-12-4; second density D-2026-10-11-30; fact-library + archive density D-2026-10-11-25 (sites + primary sources). Xia historicity = open debate (Notes + hypothesis claims; Thorp 1991 minimal definition). Central Plains bronze frame ≠ Sanxingdui polity identity. XSZCP absolute bands = contested scheme. No invented page numbers/coordinates; no forged images."
 ---
 
 # 中国青铜时代（中原总览） / China Bronze Age (Central Plains overview)
@@ -133,6 +143,21 @@ The table aligns **conventional archaeological period names** with registered se
 - **Xiaomintun** — Yinxu foundry [`src-china-xiaomintun-foundry-2008`].
 - **Guicheng**, **Qianzhangda** — Shandong Western Zhou / Shang–Zhou remains [`src-china-guicheng-survey-excavation`][`src-china-qianzhangda-tengzhou-2005`].
 
+### Density pass 4 (D-2026-10-12-4)
+
+- **小屯南地 / Xiaotunnan** — 《小屯南地甲骨》1980–1983 [`src-china-xiaotunnan-jiagu-1980`]。
+- **郑州铜器窖藏** — 1999 报告 [`src-china-zhengzhou-bronze-hoards-1999`]。
+- **郭家庄** — 1998 报告 [`src-china-guojiazhuang-1998`]。
+- **殷墟青铜器著录** — 1985 卷 [`src-china-yinxu-bronzes-1985`]。
+- **二手加深** — Keightley 2000；Li Feng 2006；Rawson Sackler 西周；Bagley CHAC 章；Underhill 2002；《殷墟的发现与研究》1994。
+
+- **Xiaotunnan** — Oracle Bones from South of Xiaotun 1980–1983 [`src-china-xiaotunnan-jiagu-1980`].
+- **Zhengzhou bronze hoards** — 1999 report [`src-china-zhengzhou-bronze-hoards-1999`].
+- **Guojiazhuang** — 1998 report [`src-china-guojiazhuang-1998`].
+- **Yinxu bronzes catalog** — 1985 volume [`src-china-yinxu-bronzes-1985`].
+- **Secondary deepen** — Keightley 2000; Li Feng 2006; Rawson Sackler Western Zhou; Bagley CHAC chapter; Underhill 2002; Yinxu Discoveries and Research 1994.
+
+
 ## Urbanism, architecture & institutions
 
 中原第二千纪出现以二里头、二里岗与安阳为代表的都会/中心聚落与礼仪—政治建筑传统。Campbell（2014）明确以「都市形成的多样性」为分析对象，并将中原中心放在从长江到蒙古高原边缘、从黄海到青藏高原/甘肃走廊的互动带中理解 [`src-china-campbell-bronze-age-2014`]。Liu & Chen（2012）强调社会政治演化的多中心与政体间竞争 [`src-china-liu-chen-archaeology-2012`]。Xu Hong 综述二里头的都城布局与礼仪空间 [`src-china-underhill-companion-2013`]。Thorp（1991）讨论二里头建筑与墓葬材料时坚持考古最小定义 [`src-china-thorp-erlitou-xia-1991`]。晚商安阳的宫殿区、宗庙/祭祀与王陵制度，见于 Chang、Thorp 2006 与 Liu & Chen 晚商专章的综合叙述；具体基址编号以正式发掘报告为准，本条不编造 [`src-china-chang-shang-civilization-1980`][`src-china-thorp-early-bronze-age-2006`][`src-china-liu-chen-archaeology-2012`][`src-china-li-chi-anyang-1977`]。「国家 / state」在 Liu & Chen、Campbell 等书中是分析概念——**本条将其标记为学术用语，而非对所有第二千纪政体的统一法律定性**。
@@ -200,57 +225,70 @@ Second density pass (D-2026-10-11-30) also registers: Fu Hao tomb 1980; Taosi 19
 
 Third density pass (2026-10-12 / D-2026-10-12-2) also registers Zhouyuan CHAR 2017 / Fengchu brief; Liulihe Yan cemetery; Tianma–Qucun; Sufutun; Xiaomintun foundry; Guicheng; Qianzhangda. Fengchu "she palace" reading stays hypothesis.
 
+第四轮密度加深（2026-10-12 / D-2026-10-12-4）另登记：小屯南地甲骨；殷墟发现与研究 1994；Keightley 祖先景观 2000；Li Feng 西周景观 2006；郑州铜器窖藏 1999；殷墟青铜器 1985；郭家庄 1998；Rawson Sackler 西周礼器；Bagley CHAC 章；Underhill 手工业 2002。夏＝二里头、窖藏仅紧急、殷墟始终唯一都城等留假说栏。
+
+Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Xiaotunnan oracle bones; Yinxu Discoveries and Research 1994; Keightley Ancestral Landscape 2000; Li Feng Western Zhou landscape 2006; Zhengzhou bronze hoards 1999; Yinxu Bronzes 1985; Guojiazhuang 1998; Rawson Sackler Western Zhou; Bagley CHAC chapter; Underhill craft 2002. Xia=Erlitou, hoards=emergency-only, and Yinxu-always-sole-capital stay hypotheses.
+
 ## Sources
 
-- `src-china-bagley-shang-ritual-bronzes-1987` — monograph; Bagley, Robert W. 1987. Shang Ritual Bronzes in the Arthur M. Sackler Collections. Ancient Chinese Bronzes in the Art... (tier S)
-- `src-china-campbell-bronze-age-2014` — monograph; Campbell, Roderick B. 2014. Archaeology of the Chinese Bronze Age: From Erlitou to Anyang. Cotsen Institute of Archae... (tier S)
-- `src-china-cass-xia-shang-2003` — monograph; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2003. 中国考古学·夏商卷 [Chinese Archaeology... (tier S)
-- `src-china-chang-shang-civilization-1980` — monograph; Chang, Kwang-chih. 1980. Shang Civilization. New Haven and London: Yale University Press. ISBN 0300024282. xvii, 417 ... (tier S)
-- `src-china-erlitou-1959-1978-1999` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1999. 偃师二里头：1959年～1978年考古发掘报告 [Yansh... (tier P)
-- `src-china-erlitou-1999-2006-2014` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2014. 二里头：1999–2006（全五册） [Erlitou: 1... (tier P)
-- `src-china-fengxi-1962` — excavation-report; Institute of Archaeology, Chinese Academy of Sciences (中国科学院考古研究所), ed. 1962. 沣西发掘报告：1955–1957年陕西长安县沣西乡考古发掘材料 [Fengxi... (tier P)
-- `src-china-fengxi-zhangjiapo-cemetery` — excavation-report; 中国社会科学院考古研究所. Extended Fengxi / Zhangjiapo Western Zhou cemetery reporting beyond the 1962 Fengxi volume already regi... (tier P)
-- `src-china-flad-chen-ancient-central-china-2013` — monograph; Flad, Rowan K., and Pochan Chen. 2013. Ancient Central China: Centers and Peripheries along the Yangzi River. Case St... (tier S)
-- `src-china-fuhao-tomb-1980` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1980. 殷墟妇好墓 [Tomb of Lady Hao at Yin... (tier P)
-- `src-china-guicheng-survey-excavation` — excavation-report; Sino-American Guicheng Archaeological Project (Shandong University / Columbia University et al.). Reports and briefs ... (tier P)
-- `src-china-houma-foundry-1993` — excavation-report; Shanxi Provincial Institute of Archaeology (山西省考古研究所), ed. 1993. 侯马铸铜遗址 [Bronze Foundry Sites at Houma]. 2 vols. Beij... (tier P)
-- `src-china-huanbei-overview-tang-2004` — article; Tang Jigen et al. Overview articles on Huanbei Shang City discovery and palace foundations (early Anyang region), syn... (tier S)
-- `src-china-huanbei-palace-1-2003` — excavation-report; Anyang Work Team, Institute of Archaeology, CASS (中国社会科学院考古研究所安阳工作队). 2003. 河南安阳市洹北商城宫殿区一号基址发掘简报 [Excavation brief on... (tier P)
-- `src-china-huanbei-palace-2-2010` — excavation-report; Anyang Work Team, Institute of Archaeology, CASS (中国社会科学院考古研究所安阳工作队). 2010. 河南安阳市洹北商城宫殿区二号基址发掘简报 [Excavation brief on... (tier P)
-- `src-china-huayuanzhuang-east-oracle-2003` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2003. 殷墟花园庄东地甲骨 [Oracle Bones from H... (tier P)
-- `src-china-keightley-oracle-bones-1978` — monograph; Keightley, David N. 1978. Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China. Berkeley: Unive... (tier S)
+- `src-china-bagley-new-perspectives-shang-1999` — article; Bagley, Robert W. 1999. “Shang Archaeology.” In The Cambridge History of Ancient China: From the Origins of... (tier S)
+- `src-china-bagley-shang-ritual-bronzes-1987` — monograph; Bagley, Robert W. 1987. Shang Ritual Bronzes in the Arthur M. Sackler Collections. Ancient Chinese Bronzes ... (tier S)
+- `src-china-campbell-bronze-age-2014` — monograph; Campbell, Roderick B. 2014. Archaeology of the Chinese Bronze Age: From Erlitou to Anyang. Cotsen Institute... (tier S)
+- `src-china-cass-xia-shang-2003` — monograph; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2003. 中国考古学·夏商卷 [Chinese A... (tier S)
+- `src-china-chang-shang-civilization-1980` — monograph; Chang, Kwang-chih. 1980. Shang Civilization. New Haven and London: Yale University Press. ISBN 0300024282. ... (tier S)
+- `src-china-erlitou-1959-1978-1999` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1999. 偃师二里头：1959年～1978年考古发... (tier P)
+- `src-china-erlitou-1999-2006-2014` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2014. 二里头：1999–2006（全五册） [... (tier P)
+- `src-china-fengxi-1962` — excavation-report; Institute of Archaeology, Chinese Academy of Sciences (中国科学院考古研究所), ed. 1962. 沣西发掘报告：1955–1957年陕西长安县沣西乡考古发掘... (tier P)
+- `src-china-fengxi-zhangjiapo-cemetery` — excavation-report; 中国社会科学院考古研究所. Extended Fengxi / Zhangjiapo Western Zhou cemetery reporting beyond the 1962 Fengxi volume al... (tier P)
+- `src-china-flad-chen-ancient-central-china-2013` — monograph; Flad, Rowan K., and Pochan Chen. 2013. Ancient Central China: Centers and Peripheries along the Yangzi Rive... (tier S)
+- `src-china-fuhao-tomb-1980` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1980. 殷墟妇好墓 [Tomb of Lady ... (tier P)
+- `src-china-guicheng-survey-excavation` — excavation-report; Sino-American Guicheng Archaeological Project (Shandong University / Columbia University et al.). Reports a... (tier P)
+- `src-china-guojiazhuang-1998` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1998. 安阳殷墟郭家庄商代墓葬：1982年～19... (tier P)
+- `src-china-houma-foundry-1993` — excavation-report; Shanxi Provincial Institute of Archaeology (山西省考古研究所), ed. 1993. 侯马铸铜遗址 [Bronze Foundry Sites at Houma]. 2 ... (tier P)
+- `src-china-huanbei-overview-tang-2004` — article; Tang Jigen et al. Overview articles on Huanbei Shang City discovery and palace foundations (early Anyang re... (tier S)
+- `src-china-huanbei-palace-1-2003` — excavation-report; Anyang Work Team, Institute of Archaeology, CASS (中国社会科学院考古研究所安阳工作队). 2003. 河南安阳市洹北商城宫殿区一号基址发掘简报 [Excavatio... (tier P)
+- `src-china-huanbei-palace-2-2010` — excavation-report; Anyang Work Team, Institute of Archaeology, CASS (中国社会科学院考古研究所安阳工作队). 2010. 河南安阳市洹北商城宫殿区二号基址发掘简报 [Excavatio... (tier P)
+- `src-china-huayuanzhuang-east-oracle-2003` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2003. 殷墟花园庄东地甲骨 [Oracle Bo... (tier P)
+- `src-china-keightley-ancestral-landscape-2000` — monograph; Keightley, David N. 2000. The Ancestral Landscape: Time, Space, and Community in Late Shang China (ca. 1200... (tier S)
+- `src-china-keightley-oracle-bones-1978` — monograph; Keightley, David N. 1978. Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China. Berke... (tier S)
 - `src-china-li-chi-anyang-1977` — monograph; Li, Chi (Li Ji 李济). 1977. Anyang. Seattle: University of Washington Press. ISBN 0295954905. xviii, 304 pp. (tier S)
-- `src-china-liu-chen-archaeology-2012` — monograph; Liu, Li, and Xingcan Chen. 2012. The Archaeology of China: From the Late Paleolithic to the Early Bronze Age. Cambrid... (tier S)
-- `src-china-liu-chen-state-formation-2003` — monograph; Liu, Li, and Xingcan Chen. 2003. State Formation in Early China. Debates in Archaeology. London: Duckworth / Bristol ... (tier S)
+- `src-china-li-feng-landscape-power-2006` — monograph; Li, Feng. 2006. Landscape and Power in Early China: The Crisis and Fall of the Western Zhou, 1045–771 BC. C... (tier S)
+- `src-china-liu-chen-archaeology-2012` — monograph; Liu, Li, and Xingcan Chen. 2012. The Archaeology of China: From the Late Paleolithic to the Early Bronze Ag... (tier S)
+- `src-china-liu-chen-state-formation-2003` — monograph; Liu, Li, and Xingcan Chen. 2003. State Formation in Early China. Debates in Archaeology. London: Duckworth ... (tier S)
 - `src-china-liulihe-yan-cemetery-1995` — excavation-report; 北京市文物研究所. 1995. 《琉璃河西周燕国墓地（1973–1977）》. 北京: 文物出版社. ISBN 7-5010-0864-X / 978-7-5010-0864-3. (tier P)
-- `src-china-loewe-shaughnessy-cambridge-1999` — monograph; Loewe, Michael, and Edward L. Shaughnessy, eds. 1999. The Cambridge History of Ancient China: From the Origins of Civ... (tier S)
-- `src-china-panlongcheng-2001` — excavation-report; Hubei Provincial Institute of Cultural Relics and Archaeology (湖北省文物考古研究所), ed. 2001. 盘龙城：1963年–1994年考古发掘报告 [Panlongc... (tier P)
+- `src-china-loewe-shaughnessy-cambridge-1999` — monograph; Loewe, Michael, and Edward L. Shaughnessy, eds. 1999. The Cambridge History of Ancient China: From the Orig... (tier S)
+- `src-china-panlongcheng-2001` — excavation-report; Hubei Provincial Institute of Cultural Relics and Archaeology (湖北省文物考古研究所), ed. 2001. 盘龙城：1963年–1994年考古发掘报告... (tier P)
 - `src-china-qianzhangda-tengzhou-2005` — excavation-report; 中国社会科学院考古研究所. 2005. 《滕州前掌大墓地》. 北京: 文物出版社. (tier P)
-- `src-china-rawson-mysteries-1996` — museum-catalog; Rawson, Jessica, ed. 1996. Mysteries of Ancient China: New Discoveries from the Early Dynasties. London: British Muse... (tier S)
-- `src-china-shaughnessy-sources-western-zhou-1991` — monograph; Shaughnessy, Edward L. 1991. Sources of Western Zhou History: Inscribed Bronze Vessels. Berkeley: University of Calif... (tier S)
-- `src-china-sufutun-yidu-1972` — article; 山东省博物馆. 1972. 「山东益都苏埠屯商代墓地」相关简报（文物/考古期刊系列）. Primary brief(s) on Shang elite cemetery at Sufutun, Yidu (Qingzhou), Sha... (tier P)
-- `src-china-taosi-1978-1985-2015` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences; Linfen Municipal Bureau of Cultural Relics, Shanxi (中国社... (tier P)
-- `src-china-taosi-1999-2001-2025` — excavation-report; Institute of Archaeology, CASS; Shanxi Provincial Institute of Archaeology; Linfen Municipal Culture and Tourism Bure... (tier P)
-- `src-china-thorp-early-bronze-age-2006` — monograph; Thorp, Robert L. 2006. China in the Early Bronze Age: Shang Civilization. Encounters with Asia. Philadelphia: Univers... (tier S)
-- `src-china-thorp-erlitou-xia-1991` — article; Thorp, Robert L. 1991. “Erlitou and the Search for the Xia.” Early China 16: 1–38. DOI 10.1017/S0362502800003825. Pub... (tier S)
+- `src-china-rawson-mysteries-1996` — museum-catalog; Rawson, Jessica, ed. 1996. Mysteries of Ancient China: New Discoveries from the Early Dynasties. London: Br... (tier S)
+- `src-china-rawson-western-zhou-ritual-bronzes-1990` — monograph; Rawson, Jessica. 1990. Western Zhou Ritual Bronzes from the Arthur M. Sackler Collections. 2 vols. Ancient ... (tier S)
+- `src-china-shaughnessy-sources-western-zhou-1991` — monograph; Shaughnessy, Edward L. 1991. Sources of Western Zhou History: Inscribed Bronze Vessels. Berkeley: Universit... (tier S)
+- `src-china-sufutun-yidu-1972` — article; 山东省博物馆. 1972. 「山东益都苏埠屯商代墓地」相关简报（文物/考古期刊系列）. Primary brief(s) on Shang elite cemetery at Sufutun, Yidu (Qing... (tier P)
+- `src-china-taosi-1978-1985-2015` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences; Linfen Municipal Bureau of Cultural Relics, S... (tier P)
+- `src-china-taosi-1999-2001-2025` — excavation-report; Institute of Archaeology, CASS; Shanxi Provincial Institute of Archaeology; Linfen Municipal Culture and To... (tier P)
+- `src-china-thorp-early-bronze-age-2006` — monograph; Thorp, Robert L. 2006. China in the Early Bronze Age: Shang Civilization. Encounters with Asia. Philadelphi... (tier S)
+- `src-china-thorp-erlitou-xia-1991` — article; Thorp, Robert L. 1991. “Erlitou and the Search for the Xia.” Early China 16: 1–38. DOI 10.1017/S03625028000... (tier S)
 - `src-china-tianma-qucun-1994` — excavation-report; 北京大学考古学系; 山西省考古研究所. 1994. 《天马—曲村（1980–1989）》. 北京: 科学出版社 (multi-volume). (tier P)
-- `src-china-tonglushan-1999` — excavation-report; Huangshi Municipal Museum (黄石市博物馆), ed. 1999. 铜绿山古矿冶遗址 [The Ancient Mining and Smelting Site at Tonglüshan]. Beijing:... (tier P)
-- `src-china-underhill-companion-2013` — monograph; Underhill, Anne P., ed. 2013. A Companion to Chinese Archaeology. Chichester: Wiley-Blackwell. ISBN 9781444335293 / o... (tier S)
-- `src-china-unesco-yinxu-2006` — website; UNESCO World Heritage Centre. Yin Xu (Yinxu), Anyang, Henan. Inscribed 2006 (30 COM 8B.39); WHC list 1114. Criteria (... (tier T)
-- `src-china-wucheng-1973-2002-2005` — excavation-report; Jiangxi Provincial Institute of Cultural Relics and Archaeology; Zhangshu Municipal Museum (江西省文物考古研究所、樟树市博物馆), eds. ... (tier P)
-- `src-china-xiaomintun-foundry-2008` — excavation-report; 中国社会科学院考古研究所安阳工作队. 2000s briefs / reports on Xiaomintun bronze foundry remains at Yinxu (Anyang). Primary excavation ... (tier P)
-- `src-china-xiaoshuangqiao-2012` — excavation-report; Henan Provincial Institute of Cultural Relics and Archaeology (河南省文物考古研究所), ed. 2012. 郑州小双桥：1990～2000年考古发掘报告 [Zhengzh... (tier P)
-- `src-china-xingan-dayangzhou-1997` — excavation-report; Jiangxi Provincial Museum; Jiangxi Provincial Institute of Cultural Relics and Archaeology; Xingan County Museum (江西省... (tier P)
-- `src-china-xszcp-jianben-2000` — monograph; Xia Shang Zhou Chronology Project Expert Group (夏商周断代工程专家组). 2000. 夏商周断代工程1996—2000年阶段成果报告：简本 [The Xia-Shang-Zhou Chr... (tier S)
-- `src-china-yanshi-shangcheng-vol1-2013` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2013. 偃师商城（第1卷）（上下册） [Yanshi Shang C... (tier P)
-- `src-china-yinxu-1958-1961-1987` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1987. 殷墟发掘报告 1958–1961 [Yinxu Excava... (tier P)
-- `src-china-yuanqu-shangcheng-1996` — excavation-report; Archaeology Department, National Museum of Chinese History; Shanxi Provincial Institute of Archaeology; Yuanqu County... (tier P)
-- `src-china-yuanqu-shangcheng-vol2-2014` — excavation-report; Field Archaeology Research Center, National Museum of China; Shanxi Provincial Institute of Archaeology; Yuanqu Count... (tier P)
-- `src-china-zhengzhou-erligang-1959` — excavation-report; Henan Provincial Cultural Bureau Cultural Relics Work Team (河南省文化局文物工作队), ed. 1959. 郑州二里岗 [Zhengzhou Erligang]. 中国田野考... (tier P)
-- `src-china-zhengzhou-shangcheng-2001` — excavation-report; Henan Provincial Institute of Cultural Relics and Archaeology (河南省文物考古研究所), ed. 2001. 郑州商城：1953–1985年考古发掘报告 [Zhengzho... (tier P)
-- `src-china-zhouyuan-char-2017` — article; Shaanxi Provincial Institute of Archaeology; School of Archaeology and Museology, Peking University; Zhouyuan Museum.... (tier P)
-- `src-china-zhouyuan-fengchu3-brief-2014` — excavation-report; Xu Tianjin et al. / Peking University Zhouyuan team. 2014-season brief on Fengchu Foundation No. 3 (hui-shaped rammed... (tier P)
-
+- `src-china-tonglushan-1999` — excavation-report; Huangshi Municipal Museum (黄石市博物馆), ed. 1999. 铜绿山古矿冶遗址 [The Ancient Mining and Smelting Site at Tonglüshan]... (tier P)
+- `src-china-underhill-companion-2013` — monograph; Underhill, Anne P., ed. 2013. A Companion to Chinese Archaeology. Chichester: Wiley-Blackwell. ISBN 9781444... (tier S)
+- `src-china-underhill-craft-production-2002` — monograph; Underhill, Anne P. 2002. Craft Production and Social Change in Northern China. New York: Kluwer Academic / ... (tier S)
+- `src-china-unesco-yinxu-2006` — website; UNESCO World Heritage Centre. Yin Xu (Yinxu), Anyang, Henan. Inscribed 2006 (30 COM 8B.39); WHC list 1114. ... (tier T)
+- `src-china-wucheng-1973-2002-2005` — excavation-report; Jiangxi Provincial Institute of Cultural Relics and Archaeology; Zhangshu Municipal Museum (江西省文物考古研究所、樟树市博... (tier P)
+- `src-china-xiaomintun-foundry-2008` — excavation-report; 中国社会科学院考古研究所安阳工作队. 2000s briefs / reports on Xiaomintun bronze foundry remains at Yinxu (Anyang). Primary e... (tier P)
+- `src-china-xiaoshuangqiao-2012` — excavation-report; Henan Provincial Institute of Cultural Relics and Archaeology (河南省文物考古研究所), ed. 2012. 郑州小双桥：1990～2000年考古发掘报... (tier P)
+- `src-china-xiaotunnan-jiagu-1980` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1980–1983. 小屯南地甲骨 [Oracle ... (tier P)
+- `src-china-xingan-dayangzhou-1997` — excavation-report; Jiangxi Provincial Museum; Jiangxi Provincial Institute of Cultural Relics and Archaeology; Xingan County M... (tier P)
+- `src-china-xszcp-jianben-2000` — monograph; Xia Shang Zhou Chronology Project Expert Group (夏商周断代工程专家组). 2000. 夏商周断代工程1996—2000年阶段成果报告：简本 [The Xia-Shan... (tier S)
+- `src-china-yanshi-shangcheng-vol1-2013` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 2013. 偃师商城（第1卷）（上下册） [Yans... (tier P)
+- `src-china-yinxu-1958-1961-1987` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1987. 殷墟发掘报告 1958–1961 [Yi... (tier P)
+- `src-china-yinxu-bronzes-1985` — excavation-report; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1985. 殷墟青铜器 [Bronzes from ... (tier P)
+- `src-china-yinxu-faxian-yanjiu-1994` — monograph; Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1994. 殷墟的发现与研究 [Discoverie... (tier S)
+- `src-china-yuanqu-shangcheng-1996` — excavation-report; Archaeology Department, National Museum of Chinese History; Shanxi Provincial Institute of Archaeology; Yua... (tier P)
+- `src-china-yuanqu-shangcheng-vol2-2014` — excavation-report; Field Archaeology Research Center, National Museum of China; Shanxi Provincial Institute of Archaeology; Yu... (tier P)
+- `src-china-zhengzhou-bronze-hoards-1999` — excavation-report; Henan Provincial Institute of Cultural Relics and Archaeology (河南省文物考古研究所), ed. 1999. 郑州商代铜器窖藏 [Shang Bronz... (tier P)
+- `src-china-zhengzhou-erligang-1959` — excavation-report; Henan Provincial Cultural Bureau Cultural Relics Work Team (河南省文化局文物工作队), ed. 1959. 郑州二里岗 [Zhengzhou Erliga... (tier P)
+- `src-china-zhengzhou-shangcheng-2001` — excavation-report; Henan Provincial Institute of Cultural Relics and Archaeology (河南省文物考古研究所), ed. 2001. 郑州商城：1953–1985年考古发掘报告... (tier P)
+- `src-china-zhouyuan-char-2017` — article; Shaanxi Provincial Institute of Archaeology; School of Archaeology and Museology, Peking University; Zhouyu... (tier P)
+- `src-china-zhouyuan-fengchu3-brief-2014` — excavation-report; Xu Tianjin et al. / Peking University Zhouyuan team. 2014-season brief on Fengchu Foundation No. 3 (hui-sha... (tier P)
 ## Related civilizations
 
 - `civ-sanxingdui` — Sichuan Basin Bronze Age site/culture; chronological peer in parts of the late 2nd–early 1st millennium BCE; **relationship to Shang = open research**, not settled “same kingdom” fact

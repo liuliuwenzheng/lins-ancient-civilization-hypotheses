@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-exhibition-frame",
+  "entity": "site",
+  "names": {
+    "zh": "三星堆展览图录指针（Bagley 2001）",
+    "en": "Sanxingdui exhibition-catalog frame (Bagley 2001)",
+    "native": null
+  },
+  "kind_note": "Exhibition literature pointer",
+  "region": "Guanghan / traveling exhibition sphere",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "Ancient Sichuan 展览图录指针；非发掘日记。",
+    "en": "Ancient Sichuan exhibition-catalog pointer; not a field diary."
+  },
+  "sources": [
+    "src-sanxingdui-bagley-ancient-sichuan-princeton-2001",
+    "src-sanxingdui-bagley-ancient-sichuan-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

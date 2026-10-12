@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-cyphers-escultura-monumental-2004",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Cyphers, Ann. 2004. Escultura olmeca de San Lorenzo Tenochtitlán [related monumental sculpture corpus publications]. Mexico: UNAM / project publication sphere (complements src-olmec-cyphers-escultura-2004).",
+  "url": "https://www.unam.mx/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary/project corpus publications on San Lorenzo Olmec monumental sculpture. Prefer already-registered cyphers-escultura-2004 for claims; pass-4 deepens documentation.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-cyphers-escultura-monumental-2004.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

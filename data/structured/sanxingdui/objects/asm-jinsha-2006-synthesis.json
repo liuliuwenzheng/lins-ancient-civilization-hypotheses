@@ -1,0 +1,42 @@
+{
+  "id": "asm-jinsha-2006-synthesis",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金沙 2006 综合发现组合",
+    "en": "Jinsha 2006 synthesis discoveries assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-discoveries-frame",
+    "site-jinsha-comparative"
+  ],
+  "period_ids": [
+    "period-sxd-jinsha-sacrifice-span"
+  ],
+  "summary": {
+    "zh": "2006 综合出版物中的金沙发现类别（组合级）。",
+    "en": "Jinsha discovery classes in 2006 synthesis publications (assemblage-level)."
+  },
+  "sources": [
+    "src-jinsha-discoveries-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Chengdu Institute / Jinsha Museum 2006",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

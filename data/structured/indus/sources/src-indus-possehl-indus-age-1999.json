@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-possehl-indus-age-1999",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Possehl, Gregory L. 1999. Indus Age: The Beginnings. Philadelphia: University of Pennsylvania Press. ISBN 978-0-8122-3417-6.",
+  "url": "https://www.penn.museum/research/publications",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary synthesis on Indus origins / Early Harappan processes. Companion to Possehl’s broader Indus Age project. Cross-check site chronology against primary reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-possehl-indus-age-1999.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

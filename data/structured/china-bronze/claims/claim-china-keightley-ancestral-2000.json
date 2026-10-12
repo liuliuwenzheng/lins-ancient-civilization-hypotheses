@@ -1,0 +1,29 @@
+{
+  "id": "claim-china-keightley-ancestral-2000",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Keightley 2000《祖先的景观》基于甲骨文讨论晚商时间、空间与共同体。",
+    "en": "Keightley 2000 The Ancestral Landscape discusses Late Shang time, space, and community mainly from oracle-bone evidence."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-keightley-ancestral-landscape"
+  ],
+  "sources": [
+    "src-china-keightley-ancestral-landscape-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

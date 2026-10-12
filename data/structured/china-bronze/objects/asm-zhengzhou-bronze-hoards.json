@@ -1,0 +1,42 @@
+{
+  "id": "asm-zhengzhou-bronze-hoards",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "郑州商代铜器窖藏组合",
+    "en": "Zhengzhou Shang bronze-hoard assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-zhengzhou-bronze-hoards",
+    "site-zhengzhou-erligang"
+  ],
+  "period_ids": [
+    "period-china-erligang"
+  ],
+  "summary": {
+    "zh": "1999 报告公布的窖藏铜器类别（组合级）。",
+    "en": "Hoard bronze classes as published in the 1999 report (assemblage-level)."
+  },
+  "sources": [
+    "src-china-zhengzhou-bronze-hoards-1999"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Henan Institute 1999",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

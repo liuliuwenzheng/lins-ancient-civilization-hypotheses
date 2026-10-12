@@ -1,0 +1,41 @@
+{
+  "id": "asm-sxd-ancient-sichuan-catalog",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Ancient Sichuan 展览图录组合",
+    "en": "Ancient Sichuan exhibition-catalog assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-exhibition-frame"
+  ],
+  "period_ids": [
+    "period-sxd-occupation-span"
+  ],
+  "summary": {
+    "zh": "2001 展览图录公布的器物类别（图录级，非新发掘）。",
+    "en": "Object classes as published in the 2001 exhibition catalog (catalog-level, not new excavation)."
+  },
+  "sources": [
+    "src-sanxingdui-bagley-ancient-sichuan-princeton-2001"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Bagley ed. 2001",
+    "upstream_url": "https://press.princeton.edu/books/hardcover/9780691088518/ancient-sichuan",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

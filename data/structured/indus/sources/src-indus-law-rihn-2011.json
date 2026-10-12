@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-law-rihn-2011",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Law, Randall William. 2011. Inter-Regional Interaction and Urbanism in the Ancient Indus Valley: A Geologic Provenience Study of Harappa’s Rock and Mineral Assemblage. Occasional Paper 11. Kyoto: Indus Project, Research Institute for Humanity and Nature. ISBN 978-4-902325-57-7.",
+  "url": "https://www.harappa.com/sites/default/files/essays/Randall%20Law%202011%20Frontmatter%20_1.pdf",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Updated publication of Law’s UW–Madison dissertation: geologic provenience of Harappa rock/mineral assemblage and inter-regional interaction. Front matter PDF on harappa.com verified 2026-10-12. Tier S as published synthesis of primary provenience analyses; cite specific material classes only as in the volume.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-law-rihn-2011.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

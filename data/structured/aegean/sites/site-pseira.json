@@ -1,0 +1,31 @@
+{
+  "id": "site-pseira",
+  "entity": "site",
+  "names": {
+    "zh": "普塞拉 / Pseira",
+    "en": "Pseira",
+    "native": null
+  },
+  "kind_note": "Minoan islet settlement (Crete)",
+  "region": "Gulf of Mirabello, Crete",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Seager 1910 报告 1906–07 发掘；后世 INSTAP 卷再研究。",
+    "en": "Seager 1910 reports 1906–07 excavations; later INSTAP volumes restudy the site."
+  },
+  "sources": [
+    "src-aegean-seager-pseira-1910",
+    "src-aegean-immeros-or-betancourt-pseira"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "asm-maya-cosmos-freidel",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Maya Cosmos 解释性文献组合",
+    "en": "Maya Cosmos interpretive literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "Freidel/Schele 宇宙—王权解释性综合（文献组合）。",
+    "en": "Freidel/Schele cosmos–kingship interpretive synthesis (literature assemblage)."
+  },
+  "sources": [
+    "src-maya-freidel-schele-forest-deepen",
+    "src-maya-freidel-schele-forest-kings"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Freidel, Schele & Parker 1993",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

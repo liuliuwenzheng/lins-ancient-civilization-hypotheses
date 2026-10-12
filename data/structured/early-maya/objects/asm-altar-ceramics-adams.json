@@ -1,0 +1,42 @@
+{
+  "id": "asm-altar-ceramics-adams",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "祭坛遗址陶器组合（Adams 1971）",
+    "en": "Altar de Sacrificios ceramics assemblage (Adams 1971)"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-altar-de-sacrificios"
+  ],
+  "period_ids": [
+    "period-maya-middle-preclassic",
+    "period-maya-late-preclassic"
+  ],
+  "summary": {
+    "zh": "Peabody Papers 陶器卷公布的类型学类别（组合级）。",
+    "en": "Ceramic typology classes as published in Adams 1971 (assemblage-level)."
+  },
+  "sources": [
+    "src-maya-adams-altar-ceramics-1971"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Adams 1971",
+    "upstream_url": "https://peabody.harvard.edu/publication/ceramics-altar-de-sacrificios",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

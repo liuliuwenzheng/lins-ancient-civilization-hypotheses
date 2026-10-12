@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-sandweiss-coastal-adaptations-2008",
+  "entity": "source",
+  "type": "article",
+  "citation": "Sandweiss, Daniel H. 2008. “Early Fishing and Inland Monuments: Challenging the Maritime Foundations of Andean Civilization?” In Andean Civilization: A Tribute to Michael E. Moseley, edited by Joyce Marcus and Patrick Ryan Williams, 39–54. Los Angeles: Cotsen Institute of Archaeology Press.",
+  "url": "https://ioa.ucla.edu/press/andean-civilization",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary chapter assessing maritime-foundations debates against coastal fishing and inland monumental evidence. Model critique — not a dating report for Norte Chico specifically.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-sandweiss-coastal-adaptations-2008.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

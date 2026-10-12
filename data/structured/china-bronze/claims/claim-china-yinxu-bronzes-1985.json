@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-yinxu-bronzes-1985",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "社科院考古所 1985《殷墟青铜器》为殷墟出土青铜器的正式图录/著录。",
+    "en": "CASS 1985 Yinxu Bronzes is a primary plate/catalogue publication of bronzes from Yinxu."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yinxu-bronze-catalog-unit"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-yinxu-bronzes-1985"
+  ],
+  "sources": [
+    "src-china-yinxu-bronzes-1985"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

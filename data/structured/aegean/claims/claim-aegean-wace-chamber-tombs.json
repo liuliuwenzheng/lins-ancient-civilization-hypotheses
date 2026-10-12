@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-wace-chamber-tombs",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Wace 1932 Archaeologia 82《迈锡尼室墓》正式报告室墓发掘。",
+    "en": "Wace 1932 Archaeologia 82 Chamber Tombs at Mycenae formally reports the chamber-tomb excavations."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae-chamber-tombs"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mycenae-chamber-tombs-wace"
+  ],
+  "sources": [
+    "src-aegean-wace-chamber-tombs-1932"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

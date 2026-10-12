@@ -1,0 +1,31 @@
+{
+  "id": "site-etlatongo-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "埃特拉通戈加深单元",
+    "en": "Etlatongo deepen unit",
+    "native": null
+  },
+  "kind_note": "Mixteca Alta Formative site with Olmec-style interaction evidence",
+  "region": "Oaxaca, Mexico / Mixteca Alta",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Blomster Etlatongo 项目文献加深单元。",
+    "en": "Deepen unit for Blomster Etlatongo project literature."
+  },
+  "sources": [
+    "src-olmec-blomster-etlatongo-deepen",
+    "src-olmec-blomster-etlatongo"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

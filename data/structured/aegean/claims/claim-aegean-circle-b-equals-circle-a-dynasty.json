@@ -1,0 +1,28 @@
+{
+  "id": "claim-aegean-circle-b-equals-circle-a-dynasty",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "B 圆圈墓与 A 圆圈墓代表同一王朝的连续王室，已成定论。",
+    "en": "Grave Circles B and A represent one continuous royal dynasty as settled fact."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-mylonas-grave-circle-b-1973",
+    "src-aegean-schliemann-mycenae-1878"
+  ],
+  "disclaimer": "Hypothesis: relations between Circles A and B (kinship, chronology, status) remain interpretive.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

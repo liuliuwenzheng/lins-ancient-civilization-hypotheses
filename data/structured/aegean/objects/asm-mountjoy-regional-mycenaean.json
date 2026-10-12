@@ -1,0 +1,40 @@
+{
+  "id": "asm-mountjoy-regional-mycenaean",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Mountjoy 区域迈锡尼陶器文献组合",
+    "en": "Mountjoy regional Mycenaean pottery literature assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "区域迈锡尼彩陶类型学手册（文献/类型组合）。",
+    "en": "Regional Mycenaean decorated pottery typology handbook (literature/type assemblage)."
+  },
+  "sources": [
+    "src-aegean-mountjoy-regional-mycenaean-1999",
+    "src-aegean-mountjoy-mycenaean-pottery-1986"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Mountjoy 1999",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

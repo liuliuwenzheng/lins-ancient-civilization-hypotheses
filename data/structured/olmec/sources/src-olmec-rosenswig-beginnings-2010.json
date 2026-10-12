@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-rosenswig-beginnings-2010",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Rosenswig, Robert M. 2010. The Beginnings of Mesoamerican Civilization: Inter-Regional Interaction and the Olmec. Cambridge: Cambridge University Press. ISBN 978-0-521-11102-7.",
+  "url": "https://doi.org/10.1017/CBO9780511675881",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Cambridge monograph on Early Formative inter-regional interaction with emphasis on Soconusco–San Lorenzo connections. Secondary synthesis; interaction models remain debated.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-rosenswig-beginnings-2010.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

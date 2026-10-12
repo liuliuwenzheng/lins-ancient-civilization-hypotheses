@@ -1,0 +1,32 @@
+{
+  "id": "claim-andes-gavilanes-maize-priority",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "洛斯加维拉内斯前陶玉米遗存可作为中安第斯最早玉米驯化/引种的关键证据。",
+    "en": "Los Gavilanes Preceramic maize remains are decisive evidence for the earliest Andean maize domestication/introduction."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-los-gavilanes"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-los-gavilanes-storage"
+  ],
+  "sources": [
+    "src-andes-bonavia-gavilanes-1982",
+    "src-andes-haas-creamer-pnas-maize-2013"
+  ],
+  "disclaimer": "Hypothesis: early maize identification, dating, and staple intensity at Los Gavilanes remain debated; PNAS 2013 and other multiproxy studies contest single-site priority narratives. Not a fact-column claim.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

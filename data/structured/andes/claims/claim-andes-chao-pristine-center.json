@@ -1,0 +1,30 @@
+{
+  "id": "claim-andes-chao-pristine-center",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "查奥盐沼是北岸「原生」礼仪中心，可直接代表国家级政治组织。",
+    "en": "Las Salinas de Chao is a pristine ceremonial center that directly represents state-level political organization."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-salinas-de-chao"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-andes-alva-salinas-chao-1986",
+    "src-andes-moseley-incas-ancestors-2001"
+  ],
+  "disclaimer": "Hypothesis: Alva 1986 publishes architecture; state/pristine-center labels are interpretive and not required by the excavation report.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

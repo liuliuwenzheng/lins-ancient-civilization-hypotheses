@@ -1,0 +1,30 @@
+{
+  "id": "site-indus-lal-synthesis-frame",
+  "entity": "site",
+  "names": {
+    "zh": "拉尔南亚最早文明综合指针",
+    "en": "Lal earliest South Asia civilization frame",
+    "native": null
+  },
+  "kind_note": "Literature pointer for Lal 1997 synthesis",
+  "region": "Greater Indus / South Asia (multi-site)",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Lal 1997 二手兴衰综合指针；年代与文化史标签须与后世测年交叉。",
+    "en": "Pointer to Lal 1997 rise–maturity–decline synthesis; dates/labels need later radiocarbon cross-check."
+  },
+  "sources": [
+    "src-indus-lal-earliest-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

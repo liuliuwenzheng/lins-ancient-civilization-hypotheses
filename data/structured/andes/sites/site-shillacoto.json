@@ -1,0 +1,30 @@
+{
+  "id": "site-shillacoto",
+  "entity": "site",
+  "names": {
+    "zh": "希利亚科托 / Shillacoto",
+    "en": "Shillacoto",
+    "native": null
+  },
+  "kind_note": "Highland ceremonial center (University of Tokyo)",
+  "region": "Huánuco highland Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Izumi、Cuculiza & Kano 1972 Bulletin 3 公布与科托什平行的 Mito 等相序列。",
+    "en": "Izumi, Cuculiza & Kano 1972 Bulletin 3 publish a Mito–and-later sequence paralleling Kotosh."
+  },
+  "sources": [
+    "src-andes-izumi-shillacoto-1972"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-possehl-beginnings",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Possehl 1999《印度河时代：开端》是关于印度河起源/早期哈拉帕过程的二手综合。",
+    "en": "Possehl 1999 Indus Age: The Beginnings is a secondary synthesis on Indus origins / Early Harappan processes."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-indus-beginnings-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-indus-beginnings-possehl"
+  ],
+  "sources": [
+    "src-indus-possehl-indus-age-1999"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

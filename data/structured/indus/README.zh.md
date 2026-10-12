@@ -1,13 +1,15 @@
-# 印度河结构化包
+# 结构化档案包 — 印度河文明
+
+[English](README.md) | 中文
 
 `civ-indus-valley` 的只读档案实体。
 
-计数（D-2026-10-11-29 第二轮密度加深；以 `export_check` 为准）：
-- 来源: 38
-- 遗址: 20
+计数（D-2026-10-12-4 第四轮密度加深；以 `export_check` 为准）：
+- 来源: 58
+- 遗址: 32
 - 分期: 5
-- 器物组合: 24
-- 主张: 33
+- 器物组合: 36
+- 主张: 50
 - 媒体: 5
 
 Markdown 编辑真源：`data/civilizations/civ-indus-valley.md`。

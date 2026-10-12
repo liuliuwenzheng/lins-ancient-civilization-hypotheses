@@ -1,0 +1,17 @@
+{
+  "id": "src-china-yinxu-bronzes-1985",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Institute of Archaeology, Chinese Academy of Social Sciences (中国社会科学院考古研究所), ed. 1985. 殷墟青铜器 [Bronzes from Yinxu]. Beijing: Wenwu Chubanshe.",
+  "url": "https://book.douban.com/subject/1465355/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary CASS plate/catalogue volume of Yinxu bronzes from excavations. Use as assemblage-level catalog; individual vessel proveniences as published — no invented museum numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-yinxu-bronzes-1985.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

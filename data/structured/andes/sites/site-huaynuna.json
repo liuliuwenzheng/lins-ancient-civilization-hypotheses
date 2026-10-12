@@ -1,0 +1,31 @@
+{
+  "id": "site-huaynuna",
+  "entity": "site",
+  "names": {
+    "zh": "瓦伊努纳 / Huaynuná",
+    "en": "Huaynuná",
+    "native": null
+  },
+  "kind_note": "Late Cotton Preceramic coastal site north of Casma",
+  "region": "North coast Peru / Huaynuná Bay (north of Casma)",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Pozorski & Pozorski 1990 报告晚棉前陶通风灶围合与山坡阶梯丘。",
+    "en": "Pozorski & Pozorski 1990 report Late Cotton Preceramic ventilated-hearth enclosure and hillside terrace mound."
+  },
+  "sources": [
+    "src-andes-pozorski-huaynuna-1990",
+    "src-andes-pozorski-casma-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

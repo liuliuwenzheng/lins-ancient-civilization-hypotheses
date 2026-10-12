@@ -1,0 +1,28 @@
+{
+  "id": "claim-aegean-single-thera-calendar",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "锡拉喷发可精确到单一日历年并单独解释全部 LM IB 破坏。",
+    "en": "The Thera eruption can be fixed to a single calendar year and alone explains all LM IB destructions."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-manning-thera-plos-2022",
+    "src-aegean-wiener-chronology-debate"
+  ],
+  "disclaimer": "Hypothesis: absolute dating and causal scope of Thera remain debated in registered sources.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

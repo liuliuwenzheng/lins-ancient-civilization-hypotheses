@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-mylonas-mycenae-rich-gold-1983",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Mylonas, George E. 1983. Mycenae Rich in Gold. Athens: Ekdotike Athenon / Archaeological Society popular-scholarly synthesis based on excavations.",
+  "url": "https://www.e-mycenae.org/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary synthesis of Mycenae excavations for a broader audience. Prefer Grave Circle B 1973 and Wace reports for primary claims.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-mylonas-mycenae-rich-gold-1983.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

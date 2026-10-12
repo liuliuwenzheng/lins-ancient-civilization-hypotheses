@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-rosenswig-2010",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rosenswig 2010 Cambridge 专著讨论早期形成期跨区域互动与奥尔梅克。",
+    "en": "Rosenswig 2010 Cambridge monograph analyzes Early Formative inter-regional interaction and the Olmec."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-soconusco-rosenswig-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-rosenswig-interaction"
+  ],
+  "sources": [
+    "src-olmec-rosenswig-beginnings-2010"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

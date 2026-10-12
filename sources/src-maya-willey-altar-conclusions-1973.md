@@ -1,0 +1,23 @@
+---
+id: src-maya-willey-altar-conclusions-1973
+type: excavation-report
+citation: "Willey, Gordon R. 1973. The Altar de Sacrificios Excavations: General Summary and Conclusions. Papers of the Peabody Museum of Archaeology and Ethnology 64 (3). Cambridge, Mass.: Peabody Museum."
+url: "https://peabody.harvard.edu/publication/altar-de-sacrificios-excavations-general-summary-and-conclusions"
+access_date: "2026-10-12"
+reliability_tier: P
+notes: "Primary Peabody Papers general summary/conclusions for Altar de Sacrificios. Complements artifacts and ceramics volumes."
+---
+
+# Source: `src-maya-willey-altar-conclusions-1973`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Willey, Gordon R. 1973. The Altar de Sacrificios Excavations: General Summary and Conclusions. Papers of the Peabody Museum of Archaeology and Ethnology 64 (3). Cambridge, Mass.: Peabody Museum. |
+| URL | https://peabody.harvard.edu/publication/altar-de-sacrificios-excavations-general-summary-and-conclusions |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+Primary Peabody Papers general summary/conclusions for Altar de Sacrificios. Complements artifacts and ceramics volumes.

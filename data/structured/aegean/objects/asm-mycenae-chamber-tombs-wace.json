@@ -1,0 +1,41 @@
+{
+  "id": "asm-mycenae-chamber-tombs-wace",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迈锡尼室墓组合（Wace 1932）",
+    "en": "Mycenae chamber-tomb assemblage (Wace 1932)"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae-chamber-tombs"
+  ],
+  "period_ids": [
+    "period-aegean-mycenaean-palatial"
+  ],
+  "summary": {
+    "zh": "Archaeologia 82 公布的室墓建筑与器物类别（组合级）。",
+    "en": "Chamber-tomb architecture and find classes as in Archaeologia 82 (assemblage-level)."
+  },
+  "sources": [
+    "src-aegean-wace-chamber-tombs-1932"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Wace 1932",
+    "upstream_url": "https://archive.org/details/chambertombsatmylxxxajbw",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

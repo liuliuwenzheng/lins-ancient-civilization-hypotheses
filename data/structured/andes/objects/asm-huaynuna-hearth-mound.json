@@ -1,0 +1,41 @@
+{
+  "id": "asm-huaynuna-hearth-mound",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦伊努纳通风灶与山坡丘组合",
+    "en": "Huaynuná ventilated hearth and hillside mound assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-huaynuna"
+  ],
+  "period_ids": [
+    "period-andes-cotton-preceramic-close"
+  ],
+  "summary": {
+    "zh": "JFA 1990 报告的通风灶围合与四阶山坡建筑（组合级）。",
+    "en": "Ventilated-hearth enclosure and four-terrace hillside construction as in JFA 1990 (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-pozorski-huaynuna-1990"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pozorski & Pozorski 1990",
+    "upstream_url": "https://doi.org/10.1179/009346990791548538",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

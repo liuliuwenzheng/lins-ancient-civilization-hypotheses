@@ -1,0 +1,28 @@
+{
+  "id": "claim-olmec-cascajal-oldest-writing-settled",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Cascajal 石板已被定论为中美洲最早文字且释读完成。",
+    "en": "The Cascajal Block is settled as Mesoamerica’s earliest writing and is fully deciphered."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-rodriguez-cascajal-science-2006",
+    "src-olmec-mora-marin-cascajal-2020"
+  ],
+  "disclaimer": "Hypothesis: Cascajal’s status as writing and any decipherment remain contested in registered sources.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

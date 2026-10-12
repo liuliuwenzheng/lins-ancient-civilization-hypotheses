@@ -1,0 +1,29 @@
+{
+  "id": "claim-maya-middle-preclassic-divine-kingship-settled",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "中前古典已存在完整神王制度，并已成定论。",
+    "en": "Full divine kingship in the Middle Preclassic is settled fact."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-freidel-schele-forest-deepen",
+    "src-maya-martin-grube-chronicle-2008",
+    "src-maya-awe-cahal-pech-egroup"
+  ],
+  "disclaimer": "Hypothesis: timing and content of divine kingship remain debated; E-Groups and early platforms do not by themselves prove full Classic-style divine kingship.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

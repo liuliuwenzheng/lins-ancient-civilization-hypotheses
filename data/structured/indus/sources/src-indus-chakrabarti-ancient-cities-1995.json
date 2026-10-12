@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-chakrabarti-ancient-cities-1995",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Chakrabarti, Dilip K. 1995. The Archaeology of Ancient Indian Cities. Delhi: Oxford University Press. ISBN 978-0-19-563416-7.",
+  "url": "https://global.oup.com/academic/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary OUP survey of ancient Indian urban archaeology including Harappan cities. Urbanism definitions are the author’s; do not treat as a site final report.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-chakrabarti-ancient-cities-1995.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

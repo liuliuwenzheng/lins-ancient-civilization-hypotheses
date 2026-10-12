@@ -1,0 +1,31 @@
+{
+  "id": "site-zhengzhou-bronze-hoards",
+  "entity": "site",
+  "names": {
+    "zh": "郑州商代铜器窖藏点群",
+    "en": "Zhengzhou Shang bronze-hoard loci",
+    "native": null
+  },
+  "kind_note": "Hoard loci within Zhengzhou Shang city",
+  "region": "Zhengzhou, Henan",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "河南省所 1999《郑州商代铜器窖藏》报告的窖藏点；窖藏性质仍有讨论。",
+    "en": "Hoard loci published in Henan Institute 1999 Zhengzhou Shang bronze-hoards report; cache function still discussed."
+  },
+  "sources": [
+    "src-china-zhengzhou-bronze-hoards-1999",
+    "src-china-zhengzhou-shangcheng-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

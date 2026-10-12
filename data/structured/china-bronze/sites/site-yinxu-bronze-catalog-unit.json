@@ -1,0 +1,30 @@
+{
+  "id": "site-yinxu-bronze-catalog-unit",
+  "entity": "site",
+  "names": {
+    "zh": "殷墟青铜器著录单元（1985）",
+    "en": "Yinxu bronze catalog unit (1985)",
+    "native": null
+  },
+  "kind_note": "Archive unit for CASS 1985 Yinxu bronzes volume",
+  "region": "Anyang, Henan / Yinxu",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "社科院考古所 1985《殷墟青铜器》图录/著录单元。",
+    "en": "Archive unit for CASS 1985 Yinxu Bronzes plate/catalogue volume."
+  },
+  "sources": [
+    "src-china-yinxu-bronzes-1985"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

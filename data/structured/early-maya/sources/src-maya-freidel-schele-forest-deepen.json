@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-freidel-schele-forest-deepen",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Freidel, David; Linda Schele; and Joy Parker. 1993. Maya Cosmos: Three Thousand Years on the Shaman’s Path. New York: William Morrow. (Complements freidel-schele-forest-kings already registered.)",
+  "url": "https://www.harpercollins.com/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary interpretive synthesis of Maya cosmology/kingship. Not a substitute for excavation reports; divine-kingship origins remain debated for Middle Preclassic.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-freidel-schele-forest-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

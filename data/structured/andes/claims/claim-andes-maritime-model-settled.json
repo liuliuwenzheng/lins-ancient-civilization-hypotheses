@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-maritime-model-settled",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "海洋生计基础模型已被决定性地证实或证伪。",
+    "en": "The maritime-foundations model has been decisively proven or falsified."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andes-maritime-debate-corpus"
+  ],
+  "sources": [
+    "src-andes-moseley-incas-ancestors-2001",
+    "src-andes-sandweiss-coastal-adaptations-2008",
+    "src-andes-quilter-ancient-central-andes-2014"
+  ],
+  "disclaimer": "Hypothesis: the maritime-foundations debate remains active in secondary literature; this archive keeps model status contested, not settled.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

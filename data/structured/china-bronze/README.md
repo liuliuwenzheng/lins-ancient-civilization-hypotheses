@@ -1,15 +1,15 @@
-# Structured pack — China Bronze Age (Central Plains)
+# Structured pack — China Bronze Age
 
 [中文](README.zh.md) | English
 
 Read-only archive entities for `civ-china-bronze`.
 
-Counts (second density pass D-2026-10-11-30; `export_check` is authoritative):
-- sources: 38
-- sites: 20
+Counts (fourth density pass D-2026-10-12-4; `export_check` is authoritative):
+- sources: 58
+- sites: 33
 - periods: 7
-- objects: 24
-- claims: 34
+- objects: 37
+- claims: 51
 - media: 1
 
 Markdown editorial source: `data/civilizations/civ-china-bronze.md`.

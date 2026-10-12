@@ -1,0 +1,31 @@
+{
+  "id": "site-mycenae-grave-circle-a-schliemann",
+  "entity": "site",
+  "names": {
+    "zh": "迈锡尼 A 圆圈墓（Schliemann 叙事单元）",
+    "en": "Mycenae Grave Circle A (Schliemann narrative unit)",
+    "native": null
+  },
+  "kind_note": "Archive unit for 1876 Grave Circle A narrative",
+  "region": "Argolid, Greece / Mycenae",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Schliemann 1878 叙事报告 A 圆圈墓发掘；年代与归属须现代校正。",
+    "en": "Schliemann 1878 narrative of Grave Circle A; chronology/attributions need modern correction."
+  },
+  "sources": [
+    "src-aegean-schliemann-mycenae-1878",
+    "src-aegean-wace-mycenae-1949"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

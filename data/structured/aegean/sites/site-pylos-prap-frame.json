@@ -1,0 +1,31 @@
+{
+  "id": "site-pylos-prap-frame",
+  "entity": "site",
+  "names": {
+    "zh": "皮洛斯区域调查指针（PRAP）",
+    "en": "Pylos regional survey frame (PRAP)",
+    "native": null
+  },
+  "kind_note": "Landscape-survey pointer for Pylos region",
+  "region": "Messenia, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "PRAP/Davis 相关二手—项目综合指针。",
+    "en": "PRAP/Davis-related project synthesis pointer."
+  },
+  "sources": [
+    "src-aegean-davis-and-bennet-pylos",
+    "src-aegean-davis-pylos-regional-1998"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

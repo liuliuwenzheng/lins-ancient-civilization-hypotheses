@@ -1,0 +1,42 @@
+{
+  "id": "asm-altar-artifacts-willey",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "祭坛遗址器物组合（Willey 1972）",
+    "en": "Altar de Sacrificios artifacts assemblage (Willey 1972)"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-altar-de-sacrificios"
+  ],
+  "period_ids": [
+    "period-maya-late-preclassic",
+    "period-maya-early-classic-onset"
+  ],
+  "summary": {
+    "zh": "Peabody Papers 器物卷公布的类别（组合级）。",
+    "en": "Artifact classes as published in the Peabody Papers artifacts volume (assemblage-level)."
+  },
+  "sources": [
+    "src-maya-willey-altar-artifacts-1972"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Willey 1972",
+    "upstream_url": "https://peabody.harvard.edu/publication/artifacts-altar-de-sacrificios",
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

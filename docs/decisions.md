@@ -455,3 +455,34 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Nuzi is not a third-millennium southern city; Fayum Neolithic ≠ sole Nile-state cradle; Osireion is New Kingdom. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
 
+### D-2026-10-12-4 — Fourth archive density pass for remaining seven packs
+
+**Decision:** After Mesopotamia + Egypt pass 4 (D-2026-10-12-3), apply the **same fourth** verified density pass to the other seven packs: verified P/S only; expand sites/assemblages/claims; contested → hypothesis; sync each `civ-*.md` Key sites + Sources + Research history; full-repo `export_check` must pass. Integrity over speed. Completes density pass 4 across all nine packs.
+
+**Major new P (and needed S):**
+
+**Andes:** Dillehay Huaca Prieta 2017; Bonavia Los Gavilanes 1982; Pozorski Huaynuná 1990; Alva Salinas de Chao 1986; Izumi Shillacoto 1972; Lanning 1967; Moseley Ancestors 2001; Quilter Central Andes 2014; Dillehay Foraging–Farming 2011; Sandweiss 2008 maritime critique
+
+**Indus:** Dales & Kenoyer Mohenjo-daro pottery 1986; Flam Ghazi Shah 1996; Law RIHN provenience 2011; Possehl Indus Age Beginnings 1999; Lal 1997; Fairservis 1971; Allchin Rise 1982; Chakrabarti 1995; Miller technology methods 2007; Kenoyer trade/technology 1997 WA
+
+**China Bronze:** Xiaotunnan oracle bones 1980–83; Yinxu Discoveries and Research 1994; Keightley Ancestral Landscape 2000; Li Feng Landscape and Power 2006; Zhengzhou bronze hoards 1999; Yinxu Bronzes 1985; Guojiazhuang 1998; Rawson Sackler Western Zhou; Bagley CHAC Shang chapter; Underhill craft 2002
+
+**Sanxingdui:** Wenwu Pit 1/2 briefs; pits 3–8 2021 pointer; Jinsha 2006 synthesis / ziliaoji deepen; Bagley Ancient Sichuan Princeton path; Zhao 2006; Flad ARA 2018; Ge & Linduff Antiquity path; UNESCO tentative deepen
+
+**Aegean:** Schliemann Tiryns 1885 / Mycenae 1878; Mylonas Grave Circle B 1972–73; Wace chamber tombs 1932; Seager Pseira 1910; INSTAP Pseira series pointer; Mountjoy Regional Mycenaean 1999; Hood/PRAP secondary pointers
+
+**Olmec:** Coe Jaguar’s Children 1965; Rosenswig 2010; Grove regional perspectives; Cyphers sculpture corpus deepen; Pool settlement pointer; Diehl/Stirling/Drucker/Blomster/Taube deepen paths
+
+**Early Maya:** Willey/Adams Altar de Sacrificios Peabody trilogy; Powis Pacbitun 2019; Awe Cahal Pech E-Group; Coe Tikal handbook; Shook/Carnegie Uaxactun pointer; Rice political geography; Maya Cosmos; Cival/Holmul deepen
+
+**Structured results (`export_check`):**
+- **andes:** sources 48→58; sites 29→35; objects 32→38; claims 45→54
+- **indus:** sources 48→58; sites 26→32; objects 30→36; claims 41→50
+- **china-bronze:** sources 48→58; sites 27→33; objects 31→37; claims 42→51
+- **sanxingdui:** sources 48→58; sites 24→30; objects 30→36; claims 39→48
+- **aegean:** sources 48→58; sites 28→34; objects 30→36; claims 40→49
+- **olmec:** sources 48→58; sites 25→31; objects 31→37; claims 37→44
+- **early-maya:** sources 48→58; sites 28→34; objects 31→37; claims 40→49
+- Mesopotamia/Egypt unchanged in this commit (already pass-4 on main). Citation gate green.
+
+**Notes:** Contested items (Gavilanes maize priority; Indus empire/decipherment; Xia=Erlitou; Sanxingdui=Shang colony; Homer-as-history / single-year Thera; Olmec mother-culture / Cascajal deciphered; Middle Preclassic full divine kingship / Mirador first state) stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.

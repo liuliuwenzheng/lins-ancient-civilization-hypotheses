@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-wenwu-pit1-1987",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《文物》1987 年第 10 期公布三星堆一号祭祀坑发掘简报。",
+    "en": "Wenwu 1987(10) publishes the brief excavation report of Sanxingdui Sacrificial Pit No. 1."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pit1-wenwu"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sxd-pit1-wenwu-1987"
+  ],
+  "sources": [
+    "src-sanxingdui-wenwu-pit1-1987"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

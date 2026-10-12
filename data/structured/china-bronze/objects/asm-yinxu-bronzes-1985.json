@@ -1,0 +1,42 @@
+{
+  "id": "asm-yinxu-bronzes-1985",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "殷墟青铜器图录组合（1985）",
+    "en": "Yinxu bronzes catalog assemblage (1985)"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-yinxu-bronze-catalog-unit",
+    "site-anyang-yinxu"
+  ],
+  "period_ids": [
+    "period-china-anyang-late-shang"
+  ],
+  "summary": {
+    "zh": "1985 卷公布的殷墟青铜器图录类别（组合级）。",
+    "en": "Yinxu bronze catalog classes as published 1985 (assemblage-level)."
+  },
+  "sources": [
+    "src-china-yinxu-bronzes-1985"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "CASS Yinxu Bronzes 1985",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}
