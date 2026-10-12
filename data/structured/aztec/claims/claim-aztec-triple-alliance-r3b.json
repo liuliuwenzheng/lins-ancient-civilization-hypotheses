@@ -1,0 +1,35 @@
+{
+  "id": "claim-aztec-triple-alliance-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "特诺奇蒂特兰–特斯科科–特拉科潘三重联盟构成帝国政治骨架。",
+    "en": "Tenochtitlan–Texcoco–Tlacopan Triple Alliance formed the imperial political spine.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-texcoco-r3b",
+    "site-aztec-tlacopan-r3b"
+  ],
+  "period_ids": [
+    "period-aztec-triple-alliance-r3b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-berdan-r3b",
+    "src-aztec-texcoco-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

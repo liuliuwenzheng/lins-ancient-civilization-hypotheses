@@ -920,3 +920,17 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-12-29 — Hot densify Round-3 Batch B toward denser archive
+
+**Decision:** Densify hot packs `aztec`, `phoenician`, `anatolia-hittite`, `nubia-kush`, `elam-iran` from ~48-source Round-2 band toward Egypt/Mesopotamia-adjacent depth; **keep `library-seed-rich`** (do not promote to fact-library this pass). Claim IDs use `-r3b` suffix.
+
+**Approx. per-pack delta:** +18 sources · +9 sites · +2 periods · +14 objects · +18 claims · +2 media.
+
+**Landed band:** ~66 sources / 32–34 sites / 12 periods / 33 objects / 61 claims / 10–11 media (Egypt ref still higher on sites/objects/claims).
+
+**Coord fills:** none this pass.
+
+**Reports:** [`docs/audits/pass-2026-10-12-hot-round3-b.md`](audits/pass-2026-10-12-hot-round3-b.md) · [中文](audits/pass-2026-10-12-hot-round3-b.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

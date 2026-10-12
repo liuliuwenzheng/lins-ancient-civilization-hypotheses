@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-malinalco-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "马利纳尔科加深",
+    "en": "Malinalco deepen",
+    "native": null
+  },
+  "kind_note": "Rock-cut warrior temple",
+  "region": "Estado de México",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "岩凿武士神庙加深。",
+    "en": "Rock-cut warrior temple deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-malinalco-r3b",
+    "src-aztec-carrasco-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

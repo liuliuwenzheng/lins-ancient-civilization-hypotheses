@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-tophet-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "托菲特加深",
+    "en": "Carthage tophet deepen",
+    "native": null
+  },
+  "kind_note": "Open ritual precinct",
+  "region": "Carthage",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "露天礼仪区加深。",
+    "en": "Open ritual precinct deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-tophet-r3b",
+    "src-phoenician-unesco-carthage-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

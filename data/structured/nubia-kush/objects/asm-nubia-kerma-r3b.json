@@ -1,0 +1,43 @@
+{
+  "id": "asm-nubia-kerma-r3b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "科尔玛都城组合",
+    "en": "Kerma capital assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-kerma-r3b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "科尔玛都城组合。",
+    "en": "Kerma capital assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-kerma-r3b",
+    "src-nubia-bonnet-r3b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

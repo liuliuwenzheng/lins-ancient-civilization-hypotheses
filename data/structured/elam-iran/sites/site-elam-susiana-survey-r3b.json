@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-susiana-survey-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "苏西亚纳调查加深",
+    "en": "Susiana survey deepen",
+    "native": null
+  },
+  "kind_note": "Settlement survey landscape",
+  "region": "Khuzestan",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "聚落调查地景加深。",
+    "en": "Settlement-survey landscape deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-susiana-r3b",
+    "src-elam-carter-stolper-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

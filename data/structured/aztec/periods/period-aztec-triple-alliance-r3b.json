@@ -1,0 +1,36 @@
+{
+  "id": "period-aztec-triple-alliance-r3b",
+  "entity": "period",
+  "names": {
+    "zh": "三重联盟加深窗R3B",
+    "en": "Triple Alliance deepen R3B",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "time": {
+    "label": "Imperial Triple Alliance floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Imperial Triple Alliance floruit"
+  },
+  "summary": {
+    "zh": "三重联盟繁荣。",
+    "en": "Imperial Triple Alliance floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-berdan-r3b",
+    "src-aztec-smith-r3b"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

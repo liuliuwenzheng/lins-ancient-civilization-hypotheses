@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-temple-i-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "一号神庙是下城礼仪核心的最大神庙复合体。",
+    "en": "Temple I is the largest temple complex of the lower-city ritual core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-temple-i-r3b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-temple-i-r3b",
+    "src-hittite-seeher-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

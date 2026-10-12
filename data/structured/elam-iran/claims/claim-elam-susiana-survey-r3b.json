@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-susiana-survey-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "苏西亚纳聚落调查将苏萨置于区域定居等级而非孤立都城。",
+    "en": "Susiana settlement survey places Susa in a regional settlement hierarchy rather than as an isolated capital.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-susiana-survey-r3b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-susiana-r3b",
+    "src-elam-carter-stolper-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

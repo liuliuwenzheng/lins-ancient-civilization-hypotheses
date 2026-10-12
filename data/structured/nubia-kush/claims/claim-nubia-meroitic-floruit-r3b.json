@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-meroitic-floruit-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "麦罗埃繁荣窗以金字塔、神庙与布塔纳地景建设为标志。",
+    "en": "The Meroitic floruit window is marked by pyramids, temples and Butana landscape building.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nubia-meroitic-r3b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-meroe-r3b",
+    "src-nubia-edward-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-gadir-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "加的斯加深",
+    "en": "Gadir deepen",
+    "native": null
+  },
+  "kind_note": "Far-west Atlantic colony",
+  "region": "Spain",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "远西大西洋殖民点加深。",
+    "en": "Far-west Atlantic colony deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-gadir-r3b",
+    "src-phoenician-aubet-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

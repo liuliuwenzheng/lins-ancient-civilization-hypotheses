@@ -1,0 +1,30 @@
+{
+  "id": "claim-hittite-bryce-synth-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bryce 综论将赫梯政治史置于安纳托利亚—近东外交网络。",
+    "en": "Bryce’s synthesis situates Hittite political history in Anatolian–Near Eastern diplomatic networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-bryce-r3b",
+    "src-hittite-beckman-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-unesco-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录1073将杰贝尔巴卡尔与纳帕塔地区定为世界遗产。",
+    "en": "UNESCO list 1073 designates Gebel Barkal and the Napatan Region as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-barkal-r3b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-unesco-1073-r3b",
+    "src-nubia-barkal-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

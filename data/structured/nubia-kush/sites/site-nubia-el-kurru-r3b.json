@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-el-kurru-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "库鲁加深",
+    "en": "El-Kurru deepen",
+    "native": null
+  },
+  "kind_note": "Early Napatan cemetery",
+  "region": "Napata region",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "早纳帕塔墓地加深。",
+    "en": "Early Napatan cemetery deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-el-kurru-r3b",
+    "src-nubia-torok-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-phoenician-unesco-trio-r3b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "教科文提尔/比布鲁斯/迦太基组合",
+    "en": "UNESCO Tyre/Byblos/Carthage assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-tyre-r3b",
+    "site-phoenician-byblos-r3b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "教科文三城组合。",
+    "en": "UNESCO three-city assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-unesco-tyre-r3b",
+    "src-phoenician-unesco-byblos-r3b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

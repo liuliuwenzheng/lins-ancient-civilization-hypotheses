@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-aubet-west-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Aubet 将腓尼基西进理解为有组织的贸易—殖民网络而非偶然漂流。",
+    "en": "Aubet frames Phoenician westward movement as an organised trade–colony network rather than accidental drift.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-phoenician-western-r3b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-r3b",
+    "src-phoenician-markoe-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-musawwarat-r3b",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "穆萨瓦拉特大围场功能（礼仪/驯象/朝圣）仍有多元解释。",
+    "en": "Musawwarat Great Enclosure function (ritual/elephant/pilgrimage) retains multiple interpretations.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-musawwarat-r3b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-musawwarat-r3b",
+    "src-nubia-edward-r3b"
+  ],
+  "disclaimer": "Enclosure function debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

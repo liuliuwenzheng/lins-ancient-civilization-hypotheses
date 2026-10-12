@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-eshkaft-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "埃什卡夫特萨尔曼岩刻补足伊泽赫地区礼仪景观指针。",
+    "en": "Eshkaft-e Salman reliefs orient the Izeh-region ritual landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-eshkaft-r3b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-eshkaft-r3b",
+    "src-elam-alvarez-mon-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

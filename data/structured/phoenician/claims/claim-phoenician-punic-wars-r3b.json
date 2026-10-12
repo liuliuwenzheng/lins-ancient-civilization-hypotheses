@@ -1,0 +1,30 @@
+{
+  "id": "claim-phoenician-punic-wars-r3b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "布匿战争地平将迦太基史与罗马共和扩张对接（考古需与文本分读）。",
+    "en": "The Punic Wars horizon articulates Carthage’s history with Roman Republican expansion (archaeology must be read apart from texts).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-punic-wars-r3b",
+    "src-phoenician-unesco-carthage-r3b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

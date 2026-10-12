@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-alaca-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "阿拉贾加深",
+    "en": "Alacahöyük deepen",
+    "native": null
+  },
+  "kind_note": "Elite tombs / Hatti centre",
+  "region": "Çorum",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "精英墓葬/哈蒂中心加深。",
+    "en": "Elite tombs/Hatti centre deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-alaca-r3b",
+    "src-hittite-bryce-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

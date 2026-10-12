@@ -1,0 +1,36 @@
+{
+  "id": "period-hittite-collapse-r3b",
+  "entity": "period",
+  "names": {
+    "zh": "帝国崩溃加深窗R3B",
+    "en": "Imperial collapse deepen R3B",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "LBA collapse debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "LBA collapse debates"
+  },
+  "summary": {
+    "zh": "青铜末崩溃争论。",
+    "en": "LBA collapse debates.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-collapse-r3b",
+    "src-hittite-bryce-r3b"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

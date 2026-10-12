@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-barkal-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "杰贝尔巴卡尔加深",
+    "en": "Jebel Barkal deepen",
+    "native": null
+  },
+  "kind_note": "Amun sanctuary / Napatan holy mountain",
+  "region": "Napata",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "阿蒙圣所/纳帕塔圣山加深。",
+    "en": "Amun sanctuary/Napatan holy mountain deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-barkal-r3b",
+    "src-nubia-unesco-1073-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

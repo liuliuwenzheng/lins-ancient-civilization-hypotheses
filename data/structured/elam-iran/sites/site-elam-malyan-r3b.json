@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-malyan-r3b",
+  "entity": "site",
+  "names": {
+    "zh": "马尔扬/安尚加深",
+    "en": "Malyan / Anshan deepen",
+    "native": null
+  },
+  "kind_note": "Highland capital",
+  "region": "Fars",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "高地都城加深。",
+    "en": "Highland capital deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-malyan-r3b",
+    "src-elam-potts-r3b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

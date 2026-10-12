@@ -1,0 +1,43 @@
+{
+  "id": "asm-phoenician-kition-r3b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "基提翁殖民组合",
+    "en": "Kition colony assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-kition-r3b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "塞浦路斯殖民组合。",
+    "en": "Cyprus colony assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-kition-r3b",
+    "src-phoenician-aubet-r3b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

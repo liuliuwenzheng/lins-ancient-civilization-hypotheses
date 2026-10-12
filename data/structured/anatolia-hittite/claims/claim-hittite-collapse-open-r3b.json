@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-collapse-open-r3b",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "赫梯帝国崩溃机制（饥荒、入侵、内部崩溃）仍是开放争论。",
+    "en": "Hittite imperial collapse mechanisms (famine, invasion, internal collapse) remain open.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-hittite-collapse-r3b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-collapse-r3b",
+    "src-hittite-bryce-r3b"
+  ],
+  "disclaimer": "Collapse causes unsettled.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round3_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-29"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-29). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
