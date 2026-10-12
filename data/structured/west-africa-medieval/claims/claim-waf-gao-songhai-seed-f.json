@@ -1,0 +1,34 @@
+{
+  "id": "claim-waf-gao-songhai-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "加奥区域考古为桑海政治中心提供物质文化锚点。",
+    "en": "Gao-region archaeology anchors Songhai political centres in material culture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-gao-deepen-f"
+  ],
+  "period_ids": [
+    "period-waf-songhai-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-gao-deepen-f",
+    "src-waf-gomez-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

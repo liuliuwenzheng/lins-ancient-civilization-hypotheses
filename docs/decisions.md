@@ -892,3 +892,17 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-12-27 — Seed densify Batch F toward denser archive (final thin seeds)
+
+**Decision:** Densify packs `ancestral-pueblo`, `great-zimbabwe`, `west-africa-medieval`, `hallstatt-celtic`, `nuragic-sardinia`, `rapa-nui` from ~15-source shells toward the first hot-densify band (~30 sources); **keep `library-seed-rich`**. Claim IDs use `-seed-f` suffix. **Rapa Nui ethics-first:** outbound UNESCO media only; no hosted moai imagery; transport/ecology claims kept as open hypotheses.
+
+**Approx. per-pack delta:** +15 sources · +8 sites · +4 periods · +4 objects · +15 claims · +3 media.
+
+**Coord fills:** none this pass (orientation sites left null; prior UNESCO/Wikipedia fills retained).
+
+**Milestone:** All **21** former ~15-source seed packs (Batches C–F) now sit at ~30 sources / ~15 sites / ~26 claims. Remaining thinner work is only non-seed or already-hot packs.
+
+**Reports:** [`docs/audits/pass-2026-10-12-seed-batch-f.md`](audits/pass-2026-10-12-seed-batch-f.md) · [中文](audits/pass-2026-10-12-seed-batch-f.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

@@ -1,0 +1,30 @@
+{
+  "id": "claim-pueblo-nps-portals-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "NPS 查科/梅萨维德门户提供保护管理与访客取向（T 级）。",
+    "en": "NPS Chaco/Mesa Verde portals supply conservation-management and visitor orientation (tier T).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-nps-chaco-deepen-f",
+    "src-pueblo-nps-mv-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

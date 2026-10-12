@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-ecology-debate-seed-f",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "毁林/生态崩溃叙事与修订派人口–鼠类–接触假说并存，档案保持开放。",
+    "en": "Deforestation/eco-collapse narratives coexist with revisionist demography–rat–contact hypotheses; archive keeps the debate open.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-rapanui-ecology-debate-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-flenley-bahn-deepen-f",
+    "src-rapanui-hunt-lipo-deepen-f"
+  ],
+  "disclaimer": "Ecology/collapse causes unsettled.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

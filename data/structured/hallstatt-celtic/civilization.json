@@ -11,56 +11,103 @@
   "region": "Europe / Alpine–Danubian zone (Austria; south Germany; Bohemia contacts)",
   "time_span": "Hallstatt C–D / early La Tène broadly 8th–5th centuries BCE (Cunliffe / Kristiansen frames)",
   "summary": {
-    "zh": "哈尔施塔特档案（library-seed-rich）：Cunliffe/Collis/Kristiansen + 教科文盐矿景观；仍非埃及级密度。",
-    "en": "Hallstatt archive (library-seed-rich): Cunliffe/Collis/Kristiansen + UNESCO salt landscape; not yet Egypt-level density."
+    "zh": "哈尔施塔特—早期凯尔特档案加厚（种子 Batch F）：盐矿墓地、侯爵墓、霍伊内堡与教科文806；仍标 library-seed-rich。",
+    "en": "Hallstatt / early Celtic densified (seed Batch F): salt-mine cemetery, princely graves, Heuneburg and UNESCO 806; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
     "src-hallstatt-biel-orientation",
+    "src-hallstatt-cemetery-deepen-f",
     "src-hallstatt-collis-2003",
+    "src-hallstatt-collis-deepen-f",
     "src-hallstatt-cunliffe-1997",
+    "src-hallstatt-cunliffe-deepen-f",
+    "src-hallstatt-dietler-deepen-f",
     "src-hallstatt-dietler-orientation",
     "src-hallstatt-egg-kramer-orientation",
     "src-hallstatt-fontijn-orientation",
+    "src-hallstatt-heuneburg-deepen-f",
+    "src-hallstatt-hochdorf-deepen-f",
     "src-hallstatt-hodson-orientation",
+    "src-hallstatt-kristiansen-deepen-f",
     "src-hallstatt-kristiansen-larsson-2005",
+    "src-hallstatt-megaw-deepen-f",
     "src-hallstatt-megaw-orientation",
+    "src-hallstatt-nhm-vienna-deepen-f",
     "src-hallstatt-nhm-vienna-orientation",
     "src-hallstatt-nhm-web",
     "src-hallstatt-pare-orientation",
+    "src-hallstatt-phase-labels-deepen-f",
+    "src-hallstatt-salt-mine-deepen-f",
     "src-hallstatt-unesco-806",
+    "src-hallstatt-unesco-806-deepen-f",
     "src-hallstatt-unesco-docs",
+    "src-hallstatt-unesco-docs-deepen-f",
+    "src-hallstatt-vix-deepen-f",
+    "src-hallstatt-wells-deepen-f",
     "src-hallstatt-wells-orientation"
   ],
   "site_ids": [
+    "site-hallstatt-cemetery-deepen-f",
     "site-hallstatt-cemetery-orientation",
+    "site-hallstatt-heuneburg-deepen-f",
     "site-hallstatt-heuneburg-orientation",
+    "site-hallstatt-hochdorf-deepen-f",
     "site-hallstatt-hochdorf-orientation",
+    "site-hallstatt-hohenasperg-f",
+    "site-hallstatt-mont-lassois-f",
     "site-hallstatt-princely-orientation",
+    "site-hallstatt-salt-mines-deepen-f",
     "site-hallstatt-salt-mines-orientation",
     "site-hallstatt-type",
+    "site-hallstatt-type-deepen-f",
+    "site-hallstatt-vix-deepen-f",
     "site-hallstatt-vix-orientation"
   ],
   "period_ids": [
     "period-early-latene",
+    "period-early-latene-deepen-f",
     "period-hallstatt-c",
+    "period-hallstatt-c-deepen-f",
     "period-hallstatt-cd-early-latene",
-    "period-hallstatt-d"
+    "period-hallstatt-contact-debate-f",
+    "period-hallstatt-d",
+    "period-hallstatt-d-deepen-f"
   ],
   "claim_ids": [
     "claim-hallstatt-collis",
+    "claim-hallstatt-collis-critique-seed-f",
     "claim-hallstatt-cunliffe",
+    "claim-hallstatt-cunliffe-celts-seed-f",
+    "claim-hallstatt-dietler-contact-seed-f",
     "claim-hallstatt-heuneburg",
+    "claim-hallstatt-heuneburg-seed-f",
     "claim-hallstatt-hochdorf",
+    "claim-hallstatt-hochdorf-seed-f",
     "claim-hallstatt-kristiansen",
+    "claim-hallstatt-kristiansen-seed-f",
+    "claim-hallstatt-megaw-art-seed-f",
+    "claim-hallstatt-nhm-portal-seed-f",
     "claim-hallstatt-phase-labels",
+    "claim-hallstatt-phase-labels-seed-f",
+    "claim-hallstatt-princely-seats-seed-f",
     "claim-hallstatt-salt-cemetery",
+    "claim-hallstatt-salt-economy-seed-f",
     "claim-hallstatt-type-salt-landscape",
+    "claim-hallstatt-type-salt-seed-f",
     "claim-hallstatt-type-site",
     "claim-hallstatt-unesco",
-    "claim-hallstatt-vix"
+    "claim-hallstatt-unesco-listing-seed-f",
+    "claim-hallstatt-vix",
+    "claim-hallstatt-vix-seed-f",
+    "claim-hallstatt-wells-contact-seed-f"
   ],
   "object_ids": [
+    "asm-hallstatt-celtic-art-f",
+    "asm-hallstatt-heuneburg-urban-f",
+    "asm-hallstatt-princely-burial-deepen-f",
     "asm-hallstatt-princely-burial-frame",
+    "asm-hallstatt-salt-burial-deepen-f",
     "asm-hallstatt-salt-burial-frame",
     "asm-hallstatt-salt-mine-frame"
   ],
@@ -71,11 +118,11 @@
   "markdown_path": "data/civilizations/civ-hallstatt-celtic.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_seed_batch_f.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-27"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

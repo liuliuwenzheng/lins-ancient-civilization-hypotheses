@@ -950,3 +950,17 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-12-27 — 种子包 Batch F 朝更密档案加厚（最后一批薄壳）
+
+**决定：** 对 `ancestral-pueblo`、`great-zimbabwe`、`west-africa-medieval`、`hallstatt-celtic`、`nuragic-sardinia`、`rapa-nui` 从约 15 来源壳加厚至热门加厚带（约 30 来源）；**保持 `library-seed-rich`**。主张 ID 使用 `-seed-f` 后缀。**拉帕努伊伦理优先：** 仅教科文外链媒体；不托管摩艾影像；运输/生态主张保持开放假说。
+
+**每包大约增量：** +15 来源 · +8 遗址 · +4 时段 · +4 对象 · +15 主张 · +3 媒体。
+
+**坐标补填：** 本轮无新填（指针遗址留空；既有教科文/维基坐标保留）。
+
+**里程碑：** 全部 **21** 个原约 15 来源种子包（Batch C–F）现均约 30 来源 / 15 遗址 / 26 主张。非热门薄壳已清空。
+
+**报告：** [`docs/audits/pass-2026-10-12-seed-batch-f.md`](audits/pass-2026-10-12-seed-batch-f.md) · [中文](audits/pass-2026-10-12-seed-batch-f.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

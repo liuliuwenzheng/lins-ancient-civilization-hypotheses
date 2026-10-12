@@ -1,0 +1,30 @@
+{
+  "id": "claim-hallstatt-phase-labels-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈尔施塔特C–D与早期拉坦诺期号是中欧铁器年代学的标准工具。",
+    "en": "Hallstatt C–D and early La Tène labels are standard tools of Central European Iron Age chronology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-phase-labels-deepen-f",
+    "src-hallstatt-cemetery-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

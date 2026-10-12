@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-aoudaghost-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "奥达戈斯特加深",
+    "en": "Aoudaghost deepen",
+    "native": null
+  },
+  "kind_note": "Trans-Saharan trade town",
+  "region": "Mauritania",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "跨撒哈拉贸易城加深。",
+    "en": "Trans-Saharan trade town deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-aoudaghost-deepen-f",
+    "src-waf-arabic-geo-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

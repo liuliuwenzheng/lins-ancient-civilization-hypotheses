@@ -1,0 +1,36 @@
+{
+  "id": "period-zimbabwe-heritage-debate-f",
+  "entity": "period",
+  "names": {
+    "zh": "遗产与史学讨论窗",
+    "en": "Heritage/historiography window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "time": {
+    "label": "Colonial historiography / heritage debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Colonial historiography / heritage debates"
+  },
+  "summary": {
+    "zh": "殖民史学与遗产讨论。",
+    "en": "Colonial historiography / heritage debates.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-caton-thompson-deepen-f",
+    "src-zimbabwe-ndoro-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

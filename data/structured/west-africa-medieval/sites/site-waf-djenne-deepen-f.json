@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-djenne-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "杰内老城加深",
+    "en": "Djenné old towns deepen",
+    "native": null
+  },
+  "kind_note": "Mudbrick urban / mosque landscape",
+  "region": "Djenné, Mali",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "土坯城市与清真寺地景加深。",
+    "en": "Mudbrick urban/mosque landscape deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-unesco-djenne-deepen-f",
+    "src-waf-mcintosh-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

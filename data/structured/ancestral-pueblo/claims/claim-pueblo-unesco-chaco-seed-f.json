@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-unesco-chaco-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录353将查科文化指定为西南大屋景观的关键世界遗产。",
+    "en": "UNESCO list 353 designates Chaco Culture as a key World Heritage great-house landscape of the Southwest.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-chaco-canyon-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-unesco-chaco-deepen-f",
+    "src-pueblo-unesco-chaco-docs-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

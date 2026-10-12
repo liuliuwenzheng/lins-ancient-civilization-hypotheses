@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-huffman-handbook-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Huffman 铁器时代手册为津巴布韦文化陶瓷与聚落类型提供工具书入口。",
+    "en": "Huffman’s Iron Age handbook supplies a handbook entry to Zimbabwe Culture ceramics and settlement types.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-huffman-deepen-f",
+    "src-zimbabwe-pikirayi-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

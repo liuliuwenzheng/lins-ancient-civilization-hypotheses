@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-tongariki-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿胡通加里基的现代修复是遗产实践案例，需与考古原境区分表述。",
+    "en": "Modern restoration at Ahu Tongariki is a heritage-practice case and must be distinguished from archaeological primary context.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-tongariki-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-tongariki-deepen-f",
+    "src-rapanui-ethics-heritage-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

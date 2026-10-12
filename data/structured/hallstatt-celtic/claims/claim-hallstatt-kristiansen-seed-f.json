@@ -1,0 +1,30 @@
+{
+  "id": "claim-hallstatt-kristiansen-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kristiansen/Larsson 将哈尔施塔特前的青铜时代长途网络作为背景。",
+    "en": "Kristiansen/Larsson frame long-distance Bronze Age networks as background to Hallstatt.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-kristiansen-deepen-f",
+    "src-hallstatt-wells-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

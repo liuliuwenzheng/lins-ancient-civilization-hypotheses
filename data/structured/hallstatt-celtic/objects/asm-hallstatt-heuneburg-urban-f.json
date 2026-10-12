@@ -1,0 +1,43 @@
+{
+  "id": "asm-hallstatt-heuneburg-urban-f",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "霍伊内堡早期城市取向",
+    "en": "Heuneburg early-urban orientation",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-heuneburg-deepen-f"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "早期城市中心取向。",
+    "en": "Early-urban centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-heuneburg-deepen-f",
+    "src-hallstatt-cunliffe-deepen-f"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

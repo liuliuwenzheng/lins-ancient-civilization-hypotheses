@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-chetro-ketl-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "切特罗凯特尔展示查科大屋多房间砌石与大基瓦组合。",
+    "en": "Chetro Ketl exhibits multi-room masonry and great-kiva combinations typical of Chaco great houses.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-chetro-ketl-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-chetro-ketl-deepen-f",
+    "src-pueblo-lekson-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

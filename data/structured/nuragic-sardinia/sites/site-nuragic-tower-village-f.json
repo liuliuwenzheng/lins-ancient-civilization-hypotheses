@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-tower-village-f",
+  "entity": "site",
+  "names": {
+    "zh": "塔楼–村落（指针）",
+    "en": "Tower–village (orientation)",
+    "native": null
+  },
+  "kind_note": "Nuraghe with village circuit",
+  "region": "Sardinia-wide",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "努拉格与村落环指针。",
+    "en": "Nuraghe with village-circuit orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-trump-deepen-f",
+    "src-nuragic-blake-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

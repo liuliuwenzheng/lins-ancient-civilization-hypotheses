@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-khami-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "卡米加深",
+    "en": "Khami deepen",
+    "native": null
+  },
+  "kind_note": "Successor dry-stone capital",
+  "region": "near Bulawayo",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "后继干砌石都城加深。",
+    "en": "Successor dry-stone capital deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-khami-deepen-f",
+    "src-zimbabwe-pikirayi-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

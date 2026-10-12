@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-outliers-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "查科外围大屋网络把峡谷核心与圣胡安盆地诸中心联系起来。",
+    "en": "The Chacoan outlier great-house network links the canyon core to San Juan Basin centres.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-outlier-orientation-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-outliers-deepen-f",
+    "src-pueblo-aztec-salmon-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

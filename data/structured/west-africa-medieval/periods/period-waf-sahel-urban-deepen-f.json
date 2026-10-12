@@ -1,0 +1,36 @@
+{
+  "id": "period-waf-sahel-urban-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "萨赫勒城市加深窗",
+    "en": "Sahelian urban deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "time": {
+    "label": "Long-term Middle Niger urbanism",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Long-term Middle Niger urbanism"
+  },
+  "summary": {
+    "zh": "中尼日尔长期城市化。",
+    "en": "Long-term Middle Niger urbanism.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-mcintosh-deepen-f",
+    "src-waf-jenne-jeno-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

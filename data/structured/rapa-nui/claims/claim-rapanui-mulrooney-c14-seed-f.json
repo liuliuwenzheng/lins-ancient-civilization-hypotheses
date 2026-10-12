@@ -1,0 +1,30 @@
+{
+  "id": "claim-rapanui-mulrooney-c14-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mulrooney 等碳十四综合修订拉帕努伊年代学，反对过简的单一崩溃年表。",
+    "en": "Mulrooney and radiocarbon syntheses revise Rapa Nui chronology against oversimple single-collapse timelines.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-mulrooney-deepen-f",
+    "src-rapanui-stevenson-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

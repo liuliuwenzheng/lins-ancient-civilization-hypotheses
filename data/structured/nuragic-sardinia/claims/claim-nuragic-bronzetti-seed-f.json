@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-bronzetti-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "青铜小像（bronzetti）是努拉吉礼仪与身份表达的重要小型造像传统。",
+    "en": "Bronzetti are an important small-sculpture tradition of Nuragic ritual and identity expression.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-nuragic-bronzetti-deepen-f"
+  ],
+  "sources": [
+    "src-nuragic-bronze-figurines-deepen-f",
+    "src-nuragic-santa-vittoria-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-tongariki-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "阿胡通加里基加深",
+    "en": "Ahu Tongariki deepen",
+    "native": null
+  },
+  "kind_note": "Restored ahu platform",
+  "region": "south coast",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "修复阿胡平台加深（描述性）。",
+    "en": "Restored ahu-platform deepen (descriptive).",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-tongariki-deepen-f",
+    "src-rapanui-van-tilburg-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

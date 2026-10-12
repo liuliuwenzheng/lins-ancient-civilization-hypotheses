@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-su-tempiesu-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "苏滕피에苏加深",
+    "en": "Su Tempiesu deepen",
+    "native": null
+  },
+  "kind_note": "Sacred well sanctuary",
+  "region": "Orune",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "圣井圣所加深。",
+    "en": "Sacred-well sanctuary deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-su-tempiesu-deepen-f",
+    "src-nuragic-sacred-wells-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

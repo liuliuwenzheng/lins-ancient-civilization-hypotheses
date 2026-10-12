@@ -1,0 +1,43 @@
+{
+  "id": "asm-nuragic-su-nuraxi-deepen-f",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "苏努拉西加深组合",
+    "en": "Su Nuraxi deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-su-nuraxi-deepen-f"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "复杂努拉格类型组合加深。",
+    "en": "Complex nuraghe type assemblage deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-unesco-833-deepen-f",
+    "src-nuragic-lilliu-deepen-f"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

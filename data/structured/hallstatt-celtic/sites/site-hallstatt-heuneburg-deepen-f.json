@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-heuneburg-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "霍伊内堡加深",
+    "en": "Heuneburg deepen",
+    "native": null
+  },
+  "kind_note": "Early Iron Age centre / mudbrick wall",
+  "region": "Danube, Germany",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "早期铁器中心/土坯墙加深。",
+    "en": "Early Iron Age centre/mudbrick wall deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-heuneburg-deepen-f",
+    "src-hallstatt-cunliffe-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

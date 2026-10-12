@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-phoenician-contact-seed-f",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "努拉吉晚期与腓尼基人的接触性质（贸易、定居、冲突）仍有讨论。",
+    "en": "The nature of late Nuragic–Phoenician contact (trade, settlement, conflict) remains discussed.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nuragic-contact-debate-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-bernardini-deepen-f",
+    "src-nuragic-webster-deepen-f"
+  ],
+  "disclaimer": "Contact modalities debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

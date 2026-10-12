@@ -1,0 +1,43 @@
+{
+  "id": "asm-zimbabwe-hill-complex-deepen-f",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "山丘复合体加深",
+    "en": "Hill Complex deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-hill-complex-deepen-f"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "山丘精英石构加深。",
+    "en": "Hill elite stone assemblage deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-hill-complex-deepen-f",
+    "src-zimbabwe-garlake-deepen-f"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

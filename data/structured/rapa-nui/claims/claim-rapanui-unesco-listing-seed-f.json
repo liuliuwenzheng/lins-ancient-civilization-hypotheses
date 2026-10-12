@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-unesco-listing-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录715将拉帕努伊国家公园定为世界遗产；媒体仅用外链，不托管摩艾影像。",
+    "en": "UNESCO list 715 designates Rapa Nui National Park as World Heritage; this archive uses outbound links only and does not host moai imagery.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-park-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-unesco-715-deepen-f",
+    "src-rapanui-unesco-docs-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

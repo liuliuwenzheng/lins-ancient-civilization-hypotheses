@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-jenne-jeno-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "杰内–杰诺加深",
+    "en": "Jenne-jeno deepen",
+    "native": null
+  },
+  "kind_note": "Iron Age urban mound",
+  "region": "inland Niger delta",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "铁器时代城市土丘加深。",
+    "en": "Iron Age urban mound deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-jenne-jeno-deepen-f",
+    "src-waf-mcintosh-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

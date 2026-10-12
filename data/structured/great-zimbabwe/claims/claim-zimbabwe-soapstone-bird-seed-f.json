@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-soapstone-bird-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "皂石鸟雕塑是国家象征与考古学语境并读的敏感遗产对象。",
+    "en": "Soapstone bird sculptures are sensitive heritage objects read in both national-symbol and archaeological contexts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-zimbabwe-soapstone-bird-deepen-f"
+  ],
+  "sources": [
+    "src-zimbabwe-soapstone-bird-deepen-f",
+    "src-zimbabwe-ndoro-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

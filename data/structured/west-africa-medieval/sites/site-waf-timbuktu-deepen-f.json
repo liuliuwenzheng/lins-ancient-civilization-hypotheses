@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-timbuktu-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "廷巴克图加深",
+    "en": "Timbuktu deepen",
+    "native": null
+  },
+  "kind_note": "Scholarly / trade city",
+  "region": "Timbuktu, Mali",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "学术/贸易城市加深。",
+    "en": "Scholarly/trade city deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-unesco-timbuktu-deepen-f",
+    "src-waf-hunwick-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

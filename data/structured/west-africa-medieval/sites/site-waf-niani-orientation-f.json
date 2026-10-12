@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-niani-orientation-f",
+  "entity": "site",
+  "names": {
+    "zh": "尼亚尼（指针）",
+    "en": "Niani (orientation)",
+    "native": null
+  },
+  "kind_note": "Proposed Mali capital orientation",
+  "region": "Guinea / Upper Niger debates",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "拟定马里都城指针（地点有争）。",
+    "en": "Proposed Mali capital orientation (location debated).",
+    "native": null
+  },
+  "sources": [
+    "src-waf-niane-sundiata-deepen-f",
+    "src-waf-gomez-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-nuragic-complex-towers-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "多塔复杂努拉格（如阿鲁比乌）标志晚青铜建筑劳动组织高峰。",
+    "en": "Multi-tower complex nuraghi such as Arrubiu mark a Late Bronze peak of architectural labour organisation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-arrubiu-deepen-f"
+  ],
+  "period_ids": [
+    "period-nuragic-late-bronze-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-arrubiu-deepen-f",
+    "src-nuragic-trump-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

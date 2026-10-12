@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-hochdorf-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "霍赫多夫加深",
+    "en": "Hochdorf deepen",
+    "native": null
+  },
+  "kind_note": "Princely wagon burial",
+  "region": "Baden-Württemberg",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "侯爵车葬加深。",
+    "en": "Princely wagon burial deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-hochdorf-deepen-f",
+    "src-hallstatt-phase-labels-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

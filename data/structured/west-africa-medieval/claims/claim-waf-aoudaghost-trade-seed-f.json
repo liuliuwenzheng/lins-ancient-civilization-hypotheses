@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-aoudaghost-trade-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥达戈斯特等贸易城是跨撒哈拉黄金–盐商路的考古指针。",
+    "en": "Aoudaghost and related trade towns are archaeological pointers to trans-Saharan gold–salt routes.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-aoudaghost-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-aoudaghost-deepen-f",
+    "src-waf-arabic-geo-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

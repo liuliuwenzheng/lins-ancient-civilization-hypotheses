@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-garlake-classic-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Garlake 经典专著仍是大津巴布韦建筑与发掘史的基础参照。",
+    "en": "Garlake’s classic monograph remains a foundational reference for Great Zimbabwe architecture and excavation history.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-garlake-deepen-f",
+    "src-zimbabwe-unesco-364-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

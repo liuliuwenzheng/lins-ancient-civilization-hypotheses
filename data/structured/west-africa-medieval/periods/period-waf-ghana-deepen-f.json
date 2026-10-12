@@ -1,0 +1,36 @@
+{
+  "id": "period-waf-ghana-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "加纳帝国加深窗",
+    "en": "Ghana empire deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "time": {
+    "label": "Ghana / Wagadu floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Ghana / Wagadu floruit"
+  },
+  "summary": {
+    "zh": "加纳/瓦加杜繁荣。",
+    "en": "Ghana/Wagadu floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-koumbi-deepen-f",
+    "src-waf-levtzion-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

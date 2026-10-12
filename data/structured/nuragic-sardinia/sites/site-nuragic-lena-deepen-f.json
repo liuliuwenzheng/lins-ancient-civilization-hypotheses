@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-lena-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "莱纳等景观加深",
+    "en": "Lena landscape deepen",
+    "native": null
+  },
+  "kind_note": "Nuragic landscape cluster orientation",
+  "region": "central Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "努拉吉地景集群指针加深。",
+    "en": "Nuragic landscape-cluster orientation deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-blake-deepen-f",
+    "src-nuragic-webster-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

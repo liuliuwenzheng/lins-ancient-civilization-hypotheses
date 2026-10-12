@@ -1,0 +1,34 @@
+{
+  "id": "claim-waf-mcintosh-urbanism-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "McIntosh 中尼日尔研究论证杰内–杰诺等城市早于帝国叙事的聚落复杂化。",
+    "en": "McIntosh’s Middle Niger work argues Jenne-jeno and peers show urban complexity earlier than empire narratives alone.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-jenne-jeno-deepen-f"
+  ],
+  "period_ids": [
+    "period-waf-sahel-urban-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-mcintosh-deepen-f",
+    "src-waf-jenne-jeno-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

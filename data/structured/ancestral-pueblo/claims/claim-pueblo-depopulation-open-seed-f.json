@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-depopulation-open-seed-f",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "13 世纪疏离/迁徙机制（干旱、冲突、社会重组）仍是开放讨论。",
+    "en": "Mechanisms of 13th-century depopulation/migration (drought, conflict, social reorganization) remain open.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-pueblo-depopulation-debate-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-plog-deepen-f",
+    "src-pueblo-sebastian-deepen-f"
+  ],
+  "disclaimer": "Depopulation causes unsettled.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

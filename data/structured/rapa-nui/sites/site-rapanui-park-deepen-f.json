@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-park-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "拉帕努伊国家公园加深",
+    "en": "Rapa Nui National Park deepen",
+    "native": null
+  },
+  "kind_note": "UNESCO park landscape (orientation)",
+  "region": "Rapa Nui, Chile",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "教科文公园地景指针加深。",
+    "en": "UNESCO park-landscape orientation deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-unesco-715-deepen-f",
+    "src-rapanui-ethics-heritage-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

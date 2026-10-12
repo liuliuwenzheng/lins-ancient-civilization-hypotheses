@@ -1,0 +1,30 @@
+{
+  "id": "claim-rapanui-transport-hypothesis-seed-f",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Hunt/Lipo 等“行走雕像”运输假说仍有争议，不得表述为已证实机制。",
+    "en": "Hunt/Lipo “walking statue” transport hypotheses remain contested and must not be stated as proven mechanisms.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-hunt-lipo-deepen-f",
+    "src-rapanui-lipo-transport-deepen-f"
+  ],
+  "disclaimer": "Transport mechanism unsettled; experimental claims contested.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

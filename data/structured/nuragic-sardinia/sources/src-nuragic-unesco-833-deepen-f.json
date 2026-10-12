@@ -1,0 +1,19 @@
+{
+  "id": "src-nuragic-unesco-833-deepen-f",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO WHC — Su Nuraxi di Barumini (list 833) deepen.",
+  "url": "https://whc.unesco.org/en/list/833/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC 833; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

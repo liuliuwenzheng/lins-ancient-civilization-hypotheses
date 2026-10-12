@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-ndoro-heritage-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Ndoro 遗产研究强调社区、殖民史学与古迹管理的交织。",
+    "en": "Ndoro’s heritage work stresses entanglement of community, colonial historiography and monument management.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-ndoro-deepen-f",
+    "src-zimbabwe-nmmz-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-great-enclosure-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "大围场加深",
+    "en": "Great Enclosure deepen",
+    "native": null
+  },
+  "kind_note": "Conical tower / freestanding walls",
+  "region": "Great Zimbabwe",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "圆锥塔与独立墙加深。",
+    "en": "Conical tower / freestanding walls deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-great-enclosure-deepen-f",
+    "src-zimbabwe-unesco-364-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

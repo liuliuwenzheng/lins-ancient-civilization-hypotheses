@@ -11,59 +11,106 @@
   "region": "West Africa / Sahel–Savanna (Senegal–Niger bend; Middle Niger)",
   "time_span": "Sahelian empire floruit broadly 8th–16th centuries CE (Levtzion / McIntosh frames)",
   "summary": {
-    "zh": "西非中世纪诸国档案（library-seed-rich）：Levtzion/McIntosh + 廷巴克图/杰内教科文；仍非埃及级密度。",
-    "en": "West African medieval empires archive (library-seed-rich): Levtzion/McIntosh + Timbuktu/Djenné UNESCO; not yet Egypt-level density."
+    "zh": "西非中世纪诸国档案加厚（种子 Batch F）：加纳–马里–桑海、杰内–廷巴克图教科文与萨赫勒城市；仍标 library-seed-rich。",
+    "en": "West African medieval empires densified (seed Batch F): Ghana–Mali–Songhai, Djenné–Timbuktu UNESCO and Sahelian urbanism; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-waf-aoudaghost-deepen-f",
+    "src-waf-arabic-geo-deepen-f",
     "src-waf-arabic-geo-orientation",
     "src-waf-conna-2001",
+    "src-waf-conna-deepen-f",
     "src-waf-conrad-orientation",
+    "src-waf-gao-deepen-f",
     "src-waf-gomez-2018",
+    "src-waf-gomez-deepen-f",
+    "src-waf-hunwick-deepen-f",
     "src-waf-hunwick-timbuktu-orientation",
+    "src-waf-insoll-deepen-f",
     "src-waf-insoll-orientation",
+    "src-waf-jenne-jeno-deepen-f",
+    "src-waf-koumbi-deepen-f",
+    "src-waf-levtzion-deepen-f",
     "src-waf-levtzion-hopkins-2000",
     "src-waf-mcintosh-2005",
+    "src-waf-mcintosh-deepen-f",
     "src-waf-mcintosh-sj-orientation",
+    "src-waf-niane-sundiata-deepen-f",
     "src-waf-niane-sundiata-orientation",
     "src-waf-takezawa-cisse-orientation",
     "src-waf-unesco-djenne-116",
+    "src-waf-unesco-djenne-deepen-f",
     "src-waf-unesco-djenne-docs",
+    "src-waf-unesco-djenne-docs-f",
     "src-waf-unesco-timbuktu-119",
+    "src-waf-unesco-timbuktu-deepen-f",
     "src-waf-unesco-timbuktu-docs"
   ],
   "site_ids": [
     "site-djenne-old-towns",
     "site-koumbi-saleh-orientation",
     "site-timbuktu-medieval",
+    "site-waf-aoudaghost-deepen-f",
     "site-waf-aoudaghost-orientation",
+    "site-waf-djenne-deepen-f",
+    "site-waf-gao-deepen-f",
     "site-waf-gao-orientation",
+    "site-waf-jenne-jeno-deepen-f",
     "site-waf-jenne-jeno-orientation",
+    "site-waf-koumbi-deepen-f",
     "site-waf-niani-orientation",
+    "site-waf-niani-orientation-f",
+    "site-waf-timbuktu-deepen-f",
+    "site-waf-walata-deepen-f",
     "site-waf-walata-orientation"
   ],
   "period_ids": [
     "period-waf-ghana",
+    "period-waf-ghana-deepen-f",
     "period-waf-mali",
+    "period-waf-mali-deepen-f",
+    "period-waf-sahel-urban-deepen-f",
     "period-waf-songhai",
+    "period-waf-songhai-deepen-f",
     "period-west-africa-sahelian-empires"
   ],
   "claim_ids": [
+    "claim-waf-aoudaghost-trade-seed-f",
     "claim-waf-conna-civilizations",
+    "claim-waf-conna-civilizations-seed-f",
+    "claim-waf-empire-sequence-seed-f",
     "claim-waf-gao-songhai",
+    "claim-waf-gao-songhai-seed-f",
     "claim-waf-gomez-dominion",
+    "claim-waf-gomez-dominion-seed-f",
+    "claim-waf-hunwick-manuscripts-seed-f",
+    "claim-waf-insoll-islam-seed-f",
     "claim-waf-jenne-jeno",
     "claim-waf-koumbi-debate",
+    "claim-waf-koumbi-debate-seed-f",
     "claim-waf-levtzion-corpus",
+    "claim-waf-levtzion-corpus-seed-f",
     "claim-waf-mcintosh-urbanism",
+    "claim-waf-mcintosh-urbanism-seed-f",
     "claim-waf-mudbrick-frame",
+    "claim-waf-niani-open-seed-f",
     "claim-waf-sahelian-urban-centres",
+    "claim-waf-sundiata-epic-seed-f",
     "claim-waf-unesco-djenne",
-    "claim-waf-unesco-timbuktu"
+    "claim-waf-unesco-djenne-seed-f",
+    "claim-waf-unesco-timbuktu",
+    "claim-waf-unesco-timbuktu-seed-f",
+    "claim-waf-walata-caravan-seed-f"
   ],
   "object_ids": [
+    "asm-waf-jenne-jeno-urban-f",
+    "asm-waf-manuscript-centre-deepen-f",
     "asm-waf-manuscript-centre-frame",
+    "asm-waf-mudbrick-urban-deepen-f",
     "asm-waf-mudbrick-urban-frame",
-    "asm-waf-sahel-urban-manuscript-frame"
+    "asm-waf-sahel-urban-manuscript-frame",
+    "asm-waf-trans-saharan-trade-f"
   ],
   "related_ids": [
     "civ-nok-west-africa",
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-west-africa-medieval.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_seed_batch_f.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-27"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

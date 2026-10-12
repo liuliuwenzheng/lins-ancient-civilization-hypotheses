@@ -1,0 +1,36 @@
+{
+  "id": "period-nuragic-late-bronze-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "晚青铜努拉吉加深窗",
+    "en": "Late Bronze Nuragic deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "time": {
+    "label": "Complex nuraghi floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Complex nuraghi floruit"
+  },
+  "summary": {
+    "zh": "复杂努拉格繁荣。",
+    "en": "Complex nuraghi floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-trump-deepen-f",
+    "src-nuragic-arrubiu-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

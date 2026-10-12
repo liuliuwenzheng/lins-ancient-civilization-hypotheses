@@ -1,0 +1,36 @@
+{
+  "id": "period-hallstatt-d-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "哈尔施塔特D加深窗",
+    "en": "Hallstatt D deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "time": {
+    "label": "Ha D princely horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Ha D princely horizon"
+  },
+  "summary": {
+    "zh": "哈尔施塔特D侯爵地平。",
+    "en": "Ha D princely horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-hochdorf-deepen-f",
+    "src-hallstatt-vix-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

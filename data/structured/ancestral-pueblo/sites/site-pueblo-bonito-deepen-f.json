@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-bonito-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "普韦布洛博尼托加深",
+    "en": "Pueblo Bonito deepen",
+    "native": null
+  },
+  "kind_note": "Chaco great-house type",
+  "region": "Chaco Canyon, New Mexico",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "查科大屋类型加深。",
+    "en": "Chaco great-house type deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-lekson-deepen-f",
+    "src-pueblo-unesco-chaco-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

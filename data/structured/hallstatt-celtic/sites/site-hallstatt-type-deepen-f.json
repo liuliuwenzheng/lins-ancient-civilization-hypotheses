@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-type-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "哈尔施塔特类型遗址加深",
+    "en": "Hallstatt type-site deepen",
+    "native": null
+  },
+  "kind_note": "Salt mines + cemetery landscape",
+  "region": "Hallstatt, Austria",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "盐矿与墓地地景加深。",
+    "en": "Salt-mine and cemetery landscape deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-unesco-806-deepen-f",
+    "src-hallstatt-salt-mine-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

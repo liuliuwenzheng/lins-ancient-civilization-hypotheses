@@ -11,58 +11,105 @@
   "region": "North America / Colorado Plateau (Four Corners: NM, AZ, CO, UT)",
   "time_span": "Basketmaker–Pueblo florescence broadly 1st–13th centuries CE (Pecos Classification / Lekson frames)",
   "summary": {
-    "zh": "先祖普韦布洛档案（library-seed-rich）：Lekson/Plog + 查科/梅萨维德教科文；仍非埃及级密度。",
-    "en": "Ancestral Puebloan archive (library-seed-rich): Lekson/Plog + Chaco/Mesa Verde UNESCO; not yet Egypt-level density."
+    "zh": "先祖普韦布洛档案加厚（种子 Batch F）：查科大屋、梅萨维德崖居与教科文353/27；仍标 library-seed-rich。",
+    "en": "Ancestral Pueblo densified (seed Batch F): Chaco great houses, Mesa Verde cliff dwellings and UNESCO 353/27; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-pueblo-aztec-salmon-deepen-f",
+    "src-pueblo-chetro-ketl-deepen-f",
+    "src-pueblo-cliff-palace-deepen-f",
+    "src-pueblo-crown-deepen-f",
     "src-pueblo-crown-orientation",
     "src-pueblo-judge-orientation",
     "src-pueblo-lekson-2009",
     "src-pueblo-lekson-chaco-meridian",
+    "src-pueblo-lekson-deepen-f",
     "src-pueblo-neitzel-orientation",
+    "src-pueblo-nps-chaco-deepen-f",
     "src-pueblo-nps-chaco-orientation",
     "src-pueblo-nps-mesa-verde",
+    "src-pueblo-nps-mv-deepen-f",
+    "src-pueblo-outliers-deepen-f",
+    "src-pueblo-phase-labels-deepen-f",
     "src-pueblo-plog-2008",
+    "src-pueblo-plog-deepen-f",
+    "src-pueblo-sebastian-deepen-f",
     "src-pueblo-sebastian-orientation",
     "src-pueblo-unesco-chaco-353",
+    "src-pueblo-unesco-chaco-deepen-f",
     "src-pueblo-unesco-chaco-docs",
+    "src-pueblo-unesco-chaco-docs-f",
     "src-pueblo-unesco-mesa-verde-27",
+    "src-pueblo-unesco-mv-deepen-f",
     "src-pueblo-unesco-mv-docs",
     "src-pueblo-vivian-1990",
+    "src-pueblo-vivian-deepen-f",
     "src-pueblo-wills-orientation"
   ],
   "site_ids": [
     "site-chaco-canyon",
     "site-mesa-verde",
+    "site-pueblo-aztec-deepen-f",
     "site-pueblo-aztec-ruins-orientation",
     "site-pueblo-bonito",
+    "site-pueblo-bonito-deepen-f",
+    "site-pueblo-chaco-canyon-deepen-f",
+    "site-pueblo-chetro-ketl-deepen-f",
     "site-pueblo-chetro-ketl-orientation",
+    "site-pueblo-cliff-palace-deepen-f",
     "site-pueblo-cliff-palace-orientation",
+    "site-pueblo-mesa-verde-core-f",
+    "site-pueblo-outlier-orientation-f",
+    "site-pueblo-salmon-deepen-f",
     "site-pueblo-salmon-ruins-orientation"
   ],
   "period_ids": [
     "period-ancestral-pueblo-floruit",
     "period-pueblo-basketmaker",
+    "period-pueblo-basketmaker-deepen-f",
+    "period-pueblo-depopulation-debate-f",
     "period-pueblo-ii-chaco",
-    "period-pueblo-iii-mesa-verde"
+    "period-pueblo-ii-chaco-deepen-f",
+    "period-pueblo-iii-mesa-verde",
+    "period-pueblo-iii-mv-deepen-f"
   ],
   "claim_ids": [
+    "claim-pueblo-aztec-salmon-seed-f",
     "claim-pueblo-bonito-greathouse",
+    "claim-pueblo-bonito-greathouse-seed-f",
     "claim-pueblo-chaco-mesa-verde",
+    "claim-pueblo-chetro-ketl-seed-f",
     "claim-pueblo-cliff-palace",
+    "claim-pueblo-cliff-palace-seed-f",
+    "claim-pueblo-crown-ritual-seed-f",
+    "claim-pueblo-depopulation-open-seed-f",
+    "claim-pueblo-lekson-synth-seed-f",
     "claim-pueblo-lekson-synthesis",
+    "claim-pueblo-nps-portals-seed-f",
     "claim-pueblo-outliers",
+    "claim-pueblo-outliers-seed-f",
     "claim-pueblo-phase-labels",
+    "claim-pueblo-phase-labels-seed-f",
     "claim-pueblo-plog-overview",
+    "claim-pueblo-plog-overview-seed-f",
     "claim-pueblo-sebastian-politics",
+    "claim-pueblo-sebastian-politics-seed-f",
     "claim-pueblo-unesco-chaco",
+    "claim-pueblo-unesco-chaco-seed-f",
     "claim-pueblo-unesco-mesa-verde",
-    "claim-pueblo-vivian-chacoan"
+    "claim-pueblo-unesco-mv-seed-f",
+    "claim-pueblo-vivian-chacoan",
+    "claim-pueblo-vivian-chacoan-seed-f"
   ],
   "object_ids": [
+    "asm-pueblo-cliff-dwelling-deepen-f",
     "asm-pueblo-cliff-dwelling-frame",
     "asm-pueblo-great-house-chaco",
-    "asm-pueblo-great-house-frame"
+    "asm-pueblo-great-house-deepen-f",
+    "asm-pueblo-great-house-frame",
+    "asm-pueblo-kiva-orientation-f",
+    "asm-pueblo-outlier-network-f"
   ],
   "related_ids": [
     "civ-cahokia"
@@ -70,11 +117,11 @@
   "markdown_path": "data/civilizations/civ-ancestral-pueblo.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_seed_batch_f.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-27"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

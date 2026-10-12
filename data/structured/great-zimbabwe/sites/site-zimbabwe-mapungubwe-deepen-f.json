@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-mapungubwe-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "马蓬古布韦加深",
+    "en": "Mapungubwe deepen",
+    "native": null
+  },
+  "kind_note": "Limpopo precursor / peer centre",
+  "region": "Limpopo valley",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "林波波先行/同侪中心加深。",
+    "en": "Limpopo precursor/peer centre deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-mapungubwe-deepen-f",
+    "src-zimbabwe-huffman-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

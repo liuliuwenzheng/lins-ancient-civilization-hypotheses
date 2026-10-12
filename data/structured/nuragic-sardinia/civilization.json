@@ -11,56 +11,103 @@
   "region": "Europe / Sardinia (Mediterranean island)",
   "time_span": "Nuragic florescence broadly Mid–Late Bronze to Early Iron Age (Lilliu / Webster frames)",
   "summary": {
-    "zh": "努拉吉档案（library-seed-rich）：Lilliu/Webster + 巴鲁米尼苏努拉希教科文；仍非埃及级密度。",
-    "en": "Nuragic archive (library-seed-rich): Lilliu/Webster + Su Nuraxi Barumini UNESCO; not yet Egypt-level density."
+    "zh": "努拉吉档案加厚（种子 Batch F）：苏努拉西、复杂塔楼、圣井与教科文833；仍标 library-seed-rich。",
+    "en": "Nuragic Sardinia densified (seed Batch F): Su Nuraxi, complex towers, sacred wells and UNESCO 833; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-nuragic-arrubiu-deepen-f",
+    "src-nuragic-bernardini-deepen-f",
     "src-nuragic-bernardini-orientation",
     "src-nuragic-blake-1999",
+    "src-nuragic-blake-deepen-f",
     "src-nuragic-blake-settlement",
+    "src-nuragic-bronze-figurines-deepen-f",
     "src-nuragic-campus-leonelli-orientation",
     "src-nuragic-contu-orientation",
+    "src-nuragic-depalmas-deepen-f",
     "src-nuragic-depalmas-orientation",
     "src-nuragic-lilliu-1988",
+    "src-nuragic-lilliu-deepen-f",
+    "src-nuragic-lo-schiavo-deepen-f",
     "src-nuragic-lo-schiavo-orientation",
+    "src-nuragic-mibact-deepen-f",
     "src-nuragic-mibact-orientation",
+    "src-nuragic-sacred-wells-deepen-f",
+    "src-nuragic-santa-vittoria-deepen-f",
+    "src-nuragic-su-tempiesu-deepen-f",
+    "src-nuragic-trump-deepen-f",
     "src-nuragic-trump-orientation",
     "src-nuragic-unesco-833",
+    "src-nuragic-unesco-833-deepen-f",
     "src-nuragic-unesco-docs",
+    "src-nuragic-unesco-docs-deepen-f",
     "src-nuragic-usalai-orientation",
     "src-nuragic-webster-1996",
+    "src-nuragic-webster-deepen-f",
     "src-nuragic-webster-settlement"
   ],
   "site_ids": [
+    "site-nuragic-arrubiu-deepen-f",
     "site-nuragic-arrubiu-orientation",
     "site-nuragic-landscape-orientation",
+    "site-nuragic-lena-deepen-f",
     "site-nuragic-lena-orientation",
+    "site-nuragic-sacred-well-type-f",
+    "site-nuragic-santa-vittoria-deepen-f",
     "site-nuragic-santa-vittoria-orientation",
+    "site-nuragic-santimbru-deepen-f",
     "site-nuragic-santimbru-orientation",
+    "site-nuragic-su-nuraxi-deepen-f",
+    "site-nuragic-su-tempiesu-deepen-f",
     "site-nuragic-su-tempiesu-orientation",
+    "site-nuragic-tower-village-f",
     "site-su-nuraxi-barumini"
   ],
   "period_ids": [
     "period-nuragic-bronze-iron",
+    "period-nuragic-contact-debate-f",
     "period-nuragic-iron",
+    "period-nuragic-iron-deepen-f",
     "period-nuragic-late-bronze",
-    "period-nuragic-middle-bronze"
+    "period-nuragic-late-bronze-deepen-f",
+    "period-nuragic-middle-bronze",
+    "period-nuragic-middle-bronze-deepen-f"
   ],
   "claim_ids": [
     "claim-nuragic-blake",
+    "claim-nuragic-blake-identity-seed-f",
+    "claim-nuragic-bronzetti-seed-f",
     "claim-nuragic-complex-towers",
+    "claim-nuragic-complex-towers-seed-f",
+    "claim-nuragic-depalmas-chrono-seed-f",
+    "claim-nuragic-landscape-seed-f",
     "claim-nuragic-lilliu",
+    "claim-nuragic-lilliu-synth-seed-f",
     "claim-nuragic-metallurgy",
+    "claim-nuragic-metallurgy-seed-f",
+    "claim-nuragic-mibact-portal-seed-f",
+    "claim-nuragic-phoenician-contact-seed-f",
     "claim-nuragic-sacred-wells",
+    "claim-nuragic-sacred-wells-seed-f",
     "claim-nuragic-sanctuaries",
+    "claim-nuragic-santa-vittoria-seed-f",
     "claim-nuragic-su-nuraxi-representative",
     "claim-nuragic-su-nuraxi-type",
+    "claim-nuragic-su-nuraxi-type-seed-f",
     "claim-nuragic-trump",
+    "claim-nuragic-trump-architecture-seed-f",
     "claim-nuragic-unesco",
-    "claim-nuragic-webster"
+    "claim-nuragic-unesco-listing-seed-f",
+    "claim-nuragic-webster",
+    "claim-nuragic-webster-prehistory-seed-f"
   ],
   "object_ids": [
+    "asm-nuragic-bronzetti-deepen-f",
+    "asm-nuragic-complex-tower-f",
+    "asm-nuragic-sacred-well-deepen-f",
     "asm-nuragic-sacred-well-frame",
+    "asm-nuragic-su-nuraxi-deepen-f",
     "asm-nuragic-su-nuraxi-frame",
     "asm-nuragic-tower-village-frame"
   ],
@@ -72,11 +119,11 @@
   "markdown_path": "data/civilizations/civ-nuragic-sardinia.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_seed_batch_f.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-27"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

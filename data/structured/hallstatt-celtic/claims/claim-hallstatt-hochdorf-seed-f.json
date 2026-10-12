@@ -1,0 +1,34 @@
+{
+  "id": "claim-hallstatt-hochdorf-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "霍赫多夫车葬是哈尔施塔特D侯爵葬仪的关键封闭语境。",
+    "en": "The Hochdorf wagon burial is a key closed context for Hallstatt D princely mortuary ritual.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-hochdorf-deepen-f"
+  ],
+  "period_ids": [
+    "period-hallstatt-d-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-hochdorf-deepen-f",
+    "src-hallstatt-phase-labels-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-pueblo-aztec-salmon-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿兹特克与萨蒙遗址是查科北缘“后峡谷”大屋中心的关键案例。",
+    "en": "Aztec and Salmon Ruins are key cases of northern Chacoan “post-canyon” great-house centres.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-aztec-deepen-f",
+    "site-pueblo-salmon-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-aztec-salmon-deepen-f",
+    "src-pueblo-outliers-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

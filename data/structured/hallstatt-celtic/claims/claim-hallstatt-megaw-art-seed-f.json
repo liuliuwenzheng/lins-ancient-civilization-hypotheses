@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-megaw-art-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Megaw 等早期凯尔特艺术讨论连接哈尔施塔特晚段与拉坦诺风格变化。",
+    "en": "Megaw and early Celtic art discussions link late Hallstatt to La Tène stylistic change.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-early-latene-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-megaw-deepen-f",
+    "src-hallstatt-phase-labels-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

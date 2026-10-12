@@ -1,0 +1,34 @@
+{
+  "id": "claim-rapanui-ahu-landscape-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿胡平台地景（含阿基维等内陆例）显示纪念建筑不限于单一海岸带。",
+    "en": "Ahu-platform landscapes (including inland examples such as Akivi) show monumental building was not limited to a single coast.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-ahu-akivi-deepen-f"
+  ],
+  "period_ids": [
+    "period-rapanui-ahu-moai-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-van-tilburg-deepen-f",
+    "src-rapanui-stevenson-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

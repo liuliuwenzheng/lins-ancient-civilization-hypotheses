@@ -1,0 +1,36 @@
+{
+  "id": "period-waf-songhai-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "桑海帝国加深窗",
+    "en": "Songhai empire deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "time": {
+    "label": "Songhai empire floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Songhai empire floruit"
+  },
+  "summary": {
+    "zh": "桑海帝国繁荣。",
+    "en": "Songhai empire floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-gao-deepen-f",
+    "src-waf-gomez-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

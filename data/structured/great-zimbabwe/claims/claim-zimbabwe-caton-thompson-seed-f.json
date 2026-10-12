@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-caton-thompson-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Caton-Thompson 1931 年工作在史学上确立非洲本地建造论，反驳外来建造神话。",
+    "en": "Caton-Thompson’s 1931 work historiographically established African local construction against foreign-builder myths.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-zimbabwe-heritage-debate-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-caton-thompson-deepen-f",
+    "src-zimbabwe-ndoro-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

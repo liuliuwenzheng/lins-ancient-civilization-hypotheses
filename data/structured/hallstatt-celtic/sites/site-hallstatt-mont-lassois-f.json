@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-mont-lassois-f",
+  "entity": "site",
+  "names": {
+    "zh": "拉索瓦山（指针）",
+    "en": "Mont Lassois (orientation)",
+    "native": null
+  },
+  "kind_note": "Hillfort associated with Vix",
+  "region": "Burgundy",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "与维克斯相关的山堡指针。",
+    "en": "Hillfort associated with Vix orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-vix-deepen-f",
+    "src-hallstatt-cunliffe-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

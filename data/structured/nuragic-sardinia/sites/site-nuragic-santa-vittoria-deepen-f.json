@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-santa-vittoria-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "圣维多利亚加深",
+    "en": "Santa Vittoria deepen",
+    "native": null
+  },
+  "kind_note": "Federal sanctuary / meeting place",
+  "region": "Serri",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "联邦圣所/集会地加深。",
+    "en": "Federal sanctuary/meeting place deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-santa-vittoria-deepen-f",
+    "src-nuragic-blake-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

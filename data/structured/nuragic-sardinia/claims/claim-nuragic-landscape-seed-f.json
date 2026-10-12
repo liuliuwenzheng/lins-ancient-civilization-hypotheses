@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-landscape-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "努拉格地景集群研究强调聚落密度与视线控制，而非孤立塔楼。",
+    "en": "Nuraghe landscape-cluster research stresses settlement density and visual control, not isolated towers.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-lena-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-blake-deepen-f",
+    "src-nuragic-webster-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

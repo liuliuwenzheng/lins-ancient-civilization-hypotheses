@@ -107,7 +107,9 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 ## Product stance
 
-**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); 10 hot packs at Round-2 (~48 sources); Seed Batches C–E (15 packs) now ~30 sources / ~14–15 sites / ~26 claims each.** Honesty of status beats vanity of count. Next: remaining Wave-2/3 thin packs; continue coord/media fill; open remaining Missing where archives allow.
+**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); 10 hot packs at Round-2 (~48 sources); Seed Batches C–F (all 21 former ~15-source packs) now ~30 sources / ~15 sites / ~26 claims each — no non-hot pack remains at ~15 sources.** Honesty of status beats vanity of count. Next: coord/media fill; open remaining Missing where archives allow; optional further deepen of library-seed-rich packs.
+
+> **2026-10-12 update (Seed F):** Seed densify Batch F (D-2026-10-12-27) raised ancestral-pueblo / great-zimbabwe / west-africa-medieval / hallstatt-celtic / nuragic-sardinia / rapa-nui to ~30 sources / 15 sites / 26 claims; status remains `library-seed-rich`. **All 21 former ~15-source packs now ~30.** Rapa Nui: outbound UNESCO media only; no hosted moai imagery. No new coords this pass.
 
 > **2026-10-12 update (Seed E):** Seed densify Batch E (D-2026-10-12-26) raised wari / ban-chiang / early-korea / moche / cahokia to ~30 sources / 15 sites / 26 claims; status remains `library-seed-rich`. No new coords this pass.
 

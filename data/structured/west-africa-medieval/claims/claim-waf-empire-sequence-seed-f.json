@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-empire-sequence-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "加纳–马里–桑海序列是教学常用框架，实际边界与重叠更复杂。",
+    "en": "The Ghana–Mali–Songhai sequence is a useful teaching frame; real borders and overlaps were more complex.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-waf-mali-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-gomez-deepen-f",
+    "src-waf-levtzion-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

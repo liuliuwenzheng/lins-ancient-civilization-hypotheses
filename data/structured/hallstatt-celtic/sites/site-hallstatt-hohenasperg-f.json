@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-hohenasperg-f",
+  "entity": "site",
+  "names": {
+    "zh": "霍埃纳斯佩格（指针）",
+    "en": "Hohenasperg (orientation)",
+    "native": null
+  },
+  "kind_note": "Princely seat orientation",
+  "region": "southwest Germany",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "侯爵驻地指针。",
+    "en": "Princely-seat orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-hochdorf-deepen-f",
+    "src-hallstatt-wells-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

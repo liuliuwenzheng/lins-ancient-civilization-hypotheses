@@ -1,0 +1,30 @@
+{
+  "id": "claim-hallstatt-cunliffe-celts-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cunliffe 综论将哈尔施塔特–拉坦诺物质文化置于更广“凯尔特”叙事（需批判阅读）。",
+    "en": "Cunliffe’s survey places Hallstatt–La Tène material culture in a broader “Celtic” narrative (read critically).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-cunliffe-deepen-f",
+    "src-hallstatt-collis-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

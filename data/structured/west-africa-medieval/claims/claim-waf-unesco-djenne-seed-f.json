@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-unesco-djenne-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录116将杰内老城定为萨赫勒土坯城市遗产的关键案例。",
+    "en": "UNESCO list 116 designates Old Towns of Djenné as a key Sahelian mudbrick urban heritage case.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-djenne-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-unesco-djenne-deepen-f",
+    "src-waf-unesco-djenne-docs-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-waf-sundiata-epic-seed-f",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "《松迪亚塔》史诗可作马里建国记忆取向，不可当作逐字编年史。",
+    "en": "The Sundiata epic may orient Mali foundation memory but must not be read as a literal chronicle.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-niane-sundiata-deepen-f",
+    "src-waf-gomez-deepen-f"
+  ],
+  "disclaimer": "Epic = cultural memory, not chronicle.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

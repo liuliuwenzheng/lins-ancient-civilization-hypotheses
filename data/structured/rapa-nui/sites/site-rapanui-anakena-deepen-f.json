@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-anakena-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "阿纳凯纳加深",
+    "en": "Anakena deepen",
+    "native": null
+  },
+  "kind_note": "Beach / early settlement orientation",
+  "region": "north coast",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "海滩/早期定居指针加深。",
+    "en": "Beach/early-settlement orientation deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-anakena-deepen-f",
+    "src-rapanui-stevenson-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-pueblo-iii-mv-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "普韦布洛III/梅萨维德加深窗",
+    "en": "Pueblo III / Mesa Verde deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "time": {
+    "label": "Cliff-dwelling aggregation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Cliff-dwelling aggregation"
+  },
+  "summary": {
+    "zh": "崖居聚合。",
+    "en": "Cliff-dwelling aggregation.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-cliff-palace-deepen-f",
+    "src-pueblo-plog-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

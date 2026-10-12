@@ -11,58 +11,105 @@
   "region": "Oceania / southeastern Pacific (Chilean Polynesia)",
   "time_span": "Polynesian settlement to monumental moai florescence broadly late 1st–early 2nd millennium CE (Hunt–Lipo / Martinsson-Wallin frames; ethics-first)",
   "summary": {
-    "zh": "拉帕努伊档案（library-seed-rich）：Van Tilburg/Hunt–Lipo + 教科文；伦理优先，无伪造摩艾图像。",
-    "en": "Rapa Nui archive (library-seed-rich): Van Tilburg/Hunt–Lipo + UNESCO; ethics-first, no forged moai imagery."
+    "zh": "拉帕努伊档案加厚（种子 Batch F）：伦理优先、教科文715外链媒体、无托管摩艾影像；运输与生态假说保持开放；仍标 library-seed-rich。",
+    "en": "Rapa Nui densified (seed Batch F): ethics-first, UNESCO 715 outbound media only, no hosted moai imagery; transport and ecology hypotheses kept open; status stays library-seed-rich.",
+    "native": null
   },
   "sources": [
+    "src-rapanui-anakena-deepen-f",
     "src-rapanui-conrich-orientation",
     "src-rapanui-edwards-orientation",
+    "src-rapanui-ethics-heritage-deepen-f",
+    "src-rapanui-flenley-bahn-deepen-f",
     "src-rapanui-flenley-bahn-orientation",
     "src-rapanui-hamilton-orientation",
     "src-rapanui-hunt-lipo-2011",
+    "src-rapanui-hunt-lipo-deepen-f",
     "src-rapanui-lipo-hunt-transport",
+    "src-rapanui-lipo-transport-deepen-f",
     "src-rapanui-martinsson-wallin-orientation",
+    "src-rapanui-mulrooney-deepen-f",
     "src-rapanui-mulrooney-orientation",
+    "src-rapanui-orongo-deepen-f",
+    "src-rapanui-pukao-deepen-f",
+    "src-rapanui-rano-raraku-deepen-f",
     "src-rapanui-routledge-1919",
+    "src-rapanui-routledge-deepen-f",
     "src-rapanui-seppenhofer-orientation",
     "src-rapanui-shepardson-orientation",
+    "src-rapanui-stevenson-deepen-f",
     "src-rapanui-stevenson-orientation",
+    "src-rapanui-tongariki-deepen-f",
     "src-rapanui-unesco-715",
+    "src-rapanui-unesco-715-deepen-f",
     "src-rapanui-unesco-docs",
-    "src-rapanui-van-tilburg-1994"
+    "src-rapanui-unesco-docs-deepen-f",
+    "src-rapanui-van-tilburg-1994",
+    "src-rapanui-van-tilburg-deepen-f"
   ],
   "site_ids": [
     "site-rapa-nui-national-park",
+    "site-rapanui-ahu-akivi-deepen-f",
     "site-rapanui-ahu-akivi-orientation",
     "site-rapanui-ahu-tongariki-orientation",
+    "site-rapanui-anakena-deepen-f",
     "site-rapanui-anakena-orientation",
+    "site-rapanui-heritage-stewardship-f",
+    "site-rapanui-orongo-deepen-f",
     "site-rapanui-orongo-orientation",
+    "site-rapanui-park-deepen-f",
+    "site-rapanui-puna-pau-deepen-f",
     "site-rapanui-puna-pau-orientation",
-    "site-rapanui-rano-raraku-orientation"
+    "site-rapanui-rano-raraku-deepen-f",
+    "site-rapanui-rano-raraku-orientation",
+    "site-rapanui-tongariki-deepen-f"
   ],
   "period_ids": [
     "period-rapa-nui-monumental",
     "period-rapanui-ahu-moai",
+    "period-rapanui-ahu-moai-deepen-f",
     "period-rapanui-birdman",
-    "period-rapanui-colonization"
+    "period-rapanui-birdman-deepen-f",
+    "period-rapanui-colonization",
+    "period-rapanui-colonization-deepen-f",
+    "period-rapanui-ecology-debate-f"
   ],
   "claim_ids": [
+    "claim-rapanui-ahu-landscape-seed-f",
+    "claim-rapanui-anakena-seed-f",
+    "claim-rapanui-ecology-debate-seed-f",
     "claim-rapanui-ethics",
+    "claim-rapanui-ethics-first-seed-f",
     "claim-rapanui-hunt-lipo",
     "claim-rapanui-moai-landscape",
+    "claim-rapanui-mulrooney-c14-seed-f",
+    "claim-rapanui-no-hosted-moai-media-seed-f",
     "claim-rapanui-orongo",
+    "claim-rapanui-orongo-birdman-seed-f",
     "claim-rapanui-pukao",
+    "claim-rapanui-pukao-seed-f",
     "claim-rapanui-rano-raraku",
+    "claim-rapanui-rano-raraku-seed-f",
+    "claim-rapanui-routledge-historiography-seed-f",
     "claim-rapanui-stevenson",
+    "claim-rapanui-stevenson-chrono-seed-f",
     "claim-rapanui-tongariki",
+    "claim-rapanui-tongariki-seed-f",
     "claim-rapanui-transport-hypothesis",
+    "claim-rapanui-transport-hypothesis-seed-f",
     "claim-rapanui-unesco",
-    "claim-rapanui-van-tilburg"
+    "claim-rapanui-unesco-listing-seed-f",
+    "claim-rapanui-van-tilburg",
+    "claim-rapanui-van-tilburg-synth-seed-f"
   ],
   "object_ids": [
+    "asm-rapanui-ahu-moai-frame-f",
     "asm-rapanui-moai-ahu-frame",
     "asm-rapanui-moai-quarry-ahu-frame",
-    "asm-rapanui-orongo-birdman-frame"
+    "asm-rapanui-orongo-birdman-f",
+    "asm-rapanui-orongo-birdman-frame",
+    "asm-rapanui-pukao-frame-f",
+    "asm-rapanui-quarry-landscape-f"
   ],
   "related_ids": [
     "civ-lapita-pacific"
@@ -70,11 +117,11 @@
   "markdown_path": "data/civilizations/civ-rapa-nui.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/densify_wave3.py",
+      "tools/hot_densify/densify_seed_batch_f.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-17"
+      "docs/decisions.md#d-2026-10-12-27"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
   }
 }

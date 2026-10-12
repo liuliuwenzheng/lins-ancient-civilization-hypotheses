@@ -1,0 +1,36 @@
+{
+  "id": "period-rapanui-colonization-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "殖民定居加深窗",
+    "en": "Colonization deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "time": {
+    "label": "Polynesian colonization debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Polynesian colonization debates"
+  },
+  "summary": {
+    "zh": "波利尼西亚定居争论。",
+    "en": "Polynesian colonization debates.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-mulrooney-deepen-f",
+    "src-rapanui-stevenson-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-zimbabwe-classic-deepen-f",
+  "entity": "period",
+  "names": {
+    "zh": "经典大津巴布韦加深窗",
+    "en": "Classic Great Zimbabwe deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "time": {
+    "label": "Hill Complex / Great Enclosure floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Hill Complex / Great Enclosure floruit"
+  },
+  "summary": {
+    "zh": "山丘/大围场繁荣。",
+    "en": "Hill Complex / Great Enclosure floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-pikirayi-deepen-f",
+    "src-zimbabwe-garlake-deepen-f"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

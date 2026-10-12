@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-trump-architecture-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Trump 等建筑研究细化努拉格砌石技术与村落环布局。",
+    "en": "Trump and architectural studies refine nuraghe masonry technique and village-circuit layout.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-tower-village-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-trump-deepen-f",
+    "src-nuragic-lilliu-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

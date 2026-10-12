@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-walata-caravan-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦拉塔等商队城镇连接沙漠边缘与尼日尔河湾城市网络。",
+    "en": "Walata and related caravan towns link desert-edge nodes to Niger Bend urban networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-walata-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-arabic-geo-deepen-f",
+    "src-waf-insoll-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

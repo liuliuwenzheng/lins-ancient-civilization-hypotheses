@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-valley-ruins-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "谷地废墟加深",
+    "en": "Valley Ruins deepen",
+    "native": null
+  },
+  "kind_note": "Valley enclosure cluster",
+  "region": "Great Zimbabwe",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "谷地围场群加深。",
+    "en": "Valley enclosure cluster deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-pikirayi-deepen-f",
+    "src-zimbabwe-huffman-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

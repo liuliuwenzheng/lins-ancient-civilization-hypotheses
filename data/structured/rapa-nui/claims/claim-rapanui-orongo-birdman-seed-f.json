@@ -1,0 +1,34 @@
+{
+  "id": "claim-rapanui-orongo-birdman-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥龙戈鸟人礼仪标志纪念性摩艾阶段之后的重要礼仪重组。",
+    "en": "Orongo birdman ceremonialism marks a major ritual reorganisation after the monumental moai phase.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-orongo-deepen-f"
+  ],
+  "period_ids": [
+    "period-rapanui-birdman-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-orongo-deepen-f",
+    "src-rapanui-stevenson-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

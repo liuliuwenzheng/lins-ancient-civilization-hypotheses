@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-naletale-orientation-f",
+  "entity": "site",
+  "names": {
+    "zh": "纳莱塔莱（指针）",
+    "en": "Naletale (orientation)",
+    "native": null
+  },
+  "kind_note": "Decorated dry-stone ruin orientation",
+  "region": "Midlands",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "装饰干砌石废墟指针。",
+    "en": "Decorated dry-stone ruin orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-pikirayi-deepen-f",
+    "src-zimbabwe-garlake-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

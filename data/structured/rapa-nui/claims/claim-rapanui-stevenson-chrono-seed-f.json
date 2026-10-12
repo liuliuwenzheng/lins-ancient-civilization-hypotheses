@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-stevenson-chrono-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Stevenson 等定居/年代学工作约束殖民与纪念建筑时间窗。",
+    "en": "Stevenson and settlement/chronology work constrain colonization and monumental-building time windows.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-rapanui-colonization-deepen-f"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-stevenson-deepen-f",
+    "src-rapanui-mulrooney-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

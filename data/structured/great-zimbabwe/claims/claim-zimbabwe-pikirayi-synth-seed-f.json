@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-pikirayi-synth-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pikirayi 综论将大津巴布韦置于更广津巴布韦文化石城序列。",
+    "en": "Pikirayi’s synthesis situates Great Zimbabwe in the wider Zimbabwe Culture stone-capital sequence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-pikirayi-deepen-f",
+    "src-zimbabwe-huffman-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

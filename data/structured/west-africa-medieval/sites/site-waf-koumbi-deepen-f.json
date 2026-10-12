@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-koumbi-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "库姆比萨利赫加深",
+    "en": "Koumbi Saleh deepen",
+    "native": null
+  },
+  "kind_note": "Proposed Ghana capital / trade town",
+  "region": "southeast Mauritania",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "拟定加纳都城/贸易城加深。",
+    "en": "Proposed Ghana capital/trade town deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-koumbi-deepen-f",
+    "src-waf-arabic-geo-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

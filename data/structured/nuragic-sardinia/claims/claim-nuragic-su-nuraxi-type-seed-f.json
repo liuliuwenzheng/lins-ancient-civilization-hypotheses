@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-su-nuraxi-type-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "苏努拉西作为教科文代表遗址，不能等同于全岛努拉格形态的唯一类型。",
+    "en": "Su Nuraxi as UNESCO representative site must not be equated with the only nuraghe form island-wide.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-su-nuraxi-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-unesco-833-deepen-f",
+    "src-nuragic-trump-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-puna-pau-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "普纳保加深",
+    "en": "Puna Pau deepen",
+    "native": null
+  },
+  "kind_note": "Scoria pukao quarry",
+  "region": "southwest interior",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "火山渣顶髻采石场加深。",
+    "en": "Scoria pukao quarry deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-pukao-deepen-f",
+    "src-rapanui-van-tilburg-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

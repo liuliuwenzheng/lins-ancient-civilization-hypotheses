@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-cliff-palace-deepen-f",
+  "entity": "site",
+  "names": {
+    "zh": "崖宫加深",
+    "en": "Cliff Palace deepen",
+    "native": null
+  },
+  "kind_note": "Mesa Verde cliff dwelling",
+  "region": "Mesa Verde, Colorado",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "梅萨维德崖居加深。",
+    "en": "Mesa Verde cliff dwelling deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-cliff-palace-deepen-f",
+    "src-pueblo-unesco-mv-deepen-f"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

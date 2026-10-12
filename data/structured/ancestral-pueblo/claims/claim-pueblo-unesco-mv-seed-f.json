@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-unesco-mv-seed-f",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录27将梅萨维德国家公园定为崖居景观的机构级遗产入口。",
+    "en": "UNESCO list 27 designates Mesa Verde National Park as an institutional heritage entry to cliff-dwelling landscapes.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-mesa-verde-core-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-unesco-mv-deepen-f",
+    "src-pueblo-nps-mv-deepen-f"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

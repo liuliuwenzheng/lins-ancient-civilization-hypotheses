@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-koumbi-debate-seed-f",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "库姆比萨利赫是否即加纳都城仍有考古–文本对照争论。",
+    "en": "Whether Koumbi Saleh is the Ghana capital remains an archaeology–text correlation debate.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-koumbi-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-koumbi-deepen-f",
+    "src-waf-arabic-geo-deepen-f"
+  ],
+  "disclaimer": "Capital identification debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_f.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-27"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-27). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
