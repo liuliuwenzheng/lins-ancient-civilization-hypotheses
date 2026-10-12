@@ -11,58 +11,104 @@
   "region": "Northeast Africa / northern Ethiopian highlands (Tigray) and Red Sea trade sphere",
   "time_span": "Aksumite kingdom floruit broadly 1st–8th c. CE (UNESCO / Phillipson frames)",
   "summary": {
-    "zh": "阿克苏姆档案（library-seed-rich）：Phillipson/Munro-Hay + 石碑原野与红海口岸；仍非埃及级密度。",
-    "en": "Aksum archive (library-seed-rich): Phillipson/Munro-Hay + stelae field and Red Sea ports; not yet Egypt-level density."
+    "zh": "阿克苏姆档案加厚（Batch A）：巨石碑、阿杜利斯港、钱币与前阿克苏姆耶哈；仍非 fact-library。",
+    "en": "Aksum densified (Batch A): giant stelae, Adulis port, coinage and pre-Aksumite Yeha; not yet fact-library.",
+    "native": null
   },
   "sources": [
+    "src-aksum-british-institute-deepen",
     "src-aksum-british-institute-orientation",
     "src-aksum-burstein-orientation",
+    "src-aksum-burstein-periplus",
+    "src-aksum-coinage-deepen",
     "src-aksum-coinage-orientation",
+    "src-aksum-fattovich-bard-deepen",
     "src-aksum-fattovich-bard-orientation",
     "src-aksum-finneran-2007",
+    "src-aksum-finneran-deepen",
+    "src-aksum-heldman-deepen",
     "src-aksum-heldman-orientation",
+    "src-aksum-kobishchanov-deepen",
     "src-aksum-kobishchanov-orientation",
+    "src-aksum-littmann-deepen",
     "src-aksum-littmann-deutsche",
+    "src-aksum-manzo-deepen",
     "src-aksum-manzo-orientation",
+    "src-aksum-met-heilbrunn-deepen",
     "src-aksum-met-heilbrunn-orientation",
     "src-aksum-munro-hay-1991",
+    "src-aksum-munro-hay-deepen",
     "src-aksum-phillipson-2012",
+    "src-aksum-phillipson-deepen",
+    "src-aksum-sergew-orientation",
     "src-aksum-unesco-15",
+    "src-aksum-unesco-15-docs",
     "src-aksum-unesco-docs",
+    "src-aksum-yeha-deepen",
     "src-aksum-yeha-orientation"
   ],
   "site_ids": [
     "site-adulis-orientation",
     "site-adulis-port",
+    "site-aksum-adulis-deepen",
+    "site-aksum-beta-giyorgis-orientation",
     "site-aksum-cathedral-orientation",
+    "site-aksum-church-maryam-orientation",
+    "site-aksum-gudit-stelae-orientation",
+    "site-aksum-matara-deepen",
+    "site-aksum-may-hedja-orientation",
+    "site-aksum-qohaito-orientation",
     "site-aksum-stelae-field",
+    "site-aksum-tomb-brick-orientation",
     "site-beta-gaba-orientation",
     "site-matara-orientation",
     "site-yeha-pre-aksumite"
   ],
   "period_ids": [
+    "period-aksumite-christian",
     "period-aksumite-classic",
+    "period-aksumite-classic-deepen",
     "period-aksumite-floruit",
     "period-aksumite-late",
-    "period-pre-aksumite"
+    "period-aksumite-late-decline",
+    "period-pre-aksumite",
+    "period-pre-aksumite-deepen"
   ],
   "claim_ids": [
     "claim-aksum-adulis",
+    "claim-aksum-adulis-periplus",
     "claim-aksum-biea",
+    "claim-aksum-biea-project",
+    "claim-aksum-christianization",
     "claim-aksum-coinage",
+    "claim-aksum-coinage-deepen",
+    "claim-aksum-dae-documentation",
+    "claim-aksum-fattovich-bard",
+    "claim-aksum-finneran-ethiopia",
     "claim-aksum-highland-kingdom",
+    "claim-aksum-late-transformation",
     "claim-aksum-littmann",
+    "claim-aksum-matara-qohaito",
     "claim-aksum-met-heilbrunn",
     "claim-aksum-munro-hay",
     "claim-aksum-phillipson",
+    "claim-aksum-phillipson-synthesis",
+    "claim-aksum-red-sea-trade",
     "claim-aksum-stelae-monumental",
+    "claim-aksum-stelae-monumental-deepen",
     "claim-aksum-unesco",
-    "claim-aksum-yeha"
+    "claim-aksum-unesco-docs",
+    "claim-aksum-yeha",
+    "claim-aksum-yeha-pre"
   ],
   "object_ids": [
+    "asm-aksum-adulis-trade-frame",
+    "asm-aksum-coinage-deepen",
     "asm-aksum-coinage-frame",
     "asm-aksum-giant-stelae-frame",
-    "asm-aksum-stelae-frame"
+    "asm-aksum-stelae-frame",
+    "asm-aksum-stelae-quarry-frame",
+    "asm-aksum-yeha-temple-frame"
   ],
   "related_ids": [
     "civ-nubia-kush",
@@ -71,11 +117,11 @@
   "markdown_path": "data/civilizations/civ-aksum.md",
   "editorial": {
     "derived_from": [
-      "tools/wave2_shells/densify_wave2.py",
+      "tools/hot_densify/densify_hot_batch_a.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-16"
+      "docs/decisions.md#d-2026-10-12-19"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
   }
 }

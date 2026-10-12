@@ -2,17 +2,8 @@
 
 [中文](README.zh.md) | English
 
-Read-only archive entities for `civ-aksum`.
+**Status:** `library-seed-rich` (hot densify Batch A, D-2026-10-12-19). Toward fact-library; not yet Egypt-level density.
 
-**Status:** `library-seed-rich` (Wave-2 densify, D-2026-10-12-16). Toward usable archive density; not fact-library.
+Counts: sources 30 · sites 15 · periods 8 · objects 7 · claims 25 · media 5
 
-Counts (`export_check` is authoritative):
-- sources: 15
-- sites: 7
-- periods: 4
-- objects: 3
-- claims: 11
-- media: 2
-
-Markdown editorial source: `data/civilizations/civ-aksum.md`.
-Run `tools/export_check.py` before serving.
+Markdown: `data/civilizations/civ-aksum.md`. Run `tools/export_check.py`.

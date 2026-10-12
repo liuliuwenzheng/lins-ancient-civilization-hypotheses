@@ -859,3 +859,22 @@
 
 **备注：** 距埃及/两河 `fact-library` 密度仍远（该九包仍为密档层）。宁薄勿假。工具：`tools/wave3_shells/densify_wave3.py` + `densify_payloads/*.json`。
 
+### D-2026-10-12-19 — 热门包 Batch A 朝 fact-library 加厚
+
+**决定：** 对用户优先的五包 `teotihuacan`、`classic-maya`、`inca`、`angkor`、`aksum` 做朝 `fact-library` 的加厚；**状态暂不升为 fact-library**（深度未达埃及/两河级）。诚信优先：无伪造页码/发现/配图。
+
+**每包大约增量：** +15 来源 · +8 遗址 · +4 时段 · +4 对象 · +15 主张 · +3 媒体（合计约 +75/+40/+20/+20/+74/+15）。
+
+**报告：** [`docs/audits/pass-2026-10-12-hot-batch-a.md`](audits/pass-2026-10-12-hot-batch-a.md) · [中文](audits/pass-2026-10-12-hot-batch-a.zh.md)
+
+**验证：** `export_check` OK（40 包）。
+
+
+### D-2026-10-12-20 — 嘻嘻 P 级坐标回传入仓
+
+**决定：** 按嘻嘻 P 级补充表入仓坐标；**禁止写入鱼凫**（日本由布市假命中）；优先 P(UNESCO)；S 仅在包+名称仔细匹配现有 site id 时写入；跳过空坐标/框架/歧义遗址；`precision_note` 记录 grade 与 URL。
+
+**结果：** 新填 27 · P 升级 7 · 鱼凫保持空。报告：[`docs/audits/pass-2026-10-12-xixi-coords.md`](audits/pass-2026-10-12-xixi-coords.md) · [中文](audits/pass-2026-10-12-xixi-coords.zh.md)
+
+**验证：** `export_check` OK。
+

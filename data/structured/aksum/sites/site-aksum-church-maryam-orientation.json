@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-church-maryam-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "锡安圣母教堂景观指针",
+    "en": "Church of Maryam Tsion landscape orientation",
+    "native": null
+  },
+  "kind_note": "Christian royal church landscape (post-conversion)",
+  "region": "Aksum, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "皈依后王室教堂景观指针。",
+    "en": "Post-conversion royal church landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-heldman-deepen",
+    "src-aksum-sergew-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

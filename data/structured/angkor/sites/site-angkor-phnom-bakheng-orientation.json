@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-phnom-bakheng-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "巴肯山（指针）",
+    "en": "Phnom Bakheng (orientation)",
+    "native": null
+  },
+  "kind_note": "Early Angkor temple-mountain",
+  "region": "Angkor, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "早期吴哥山庙指针。",
+    "en": "Early Angkor temple-mountain orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-epigraphy-deepen",
+    "src-angkor-higham-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

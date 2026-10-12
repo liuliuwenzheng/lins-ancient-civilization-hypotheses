@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-uxmal-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将乌斯马尔列为世界遗产，代表普克经典建筑传统（UNESCO 791）。",
+    "en": "UNESCO lists Uxmal as World Heritage representing Puuc Classic architecture (UNESCO 791).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-uxmal-classic-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-unesco-uxmal-791",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

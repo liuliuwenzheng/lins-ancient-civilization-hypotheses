@@ -1,0 +1,19 @@
+{
+  "id": "src-classic-maya-houston-in-the-mind",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Houston, Stephen, et al. — Classic Maya writing/art volumes (Memory of Bones / related).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Epigraphy/art orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

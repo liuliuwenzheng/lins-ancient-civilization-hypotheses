@@ -1,0 +1,34 @@
+{
+  "id": "claim-teotihuacan-sugiyama-fsp",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Sugiyama 等将羽蛇金字塔与相关祭献遗存表述为国家意识形态物化的关键证据之一（Sugiyama 2005）。",
+    "en": "Sugiyama frames Feathered Serpent Pyramid sacrificial deposits as key evidence for materializing state ideology (Sugiyama 2005).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-ciudadela-fsp"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-sugiyama-2005",
+    "src-teotihuacan-sugiyama-feathered-serpent"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

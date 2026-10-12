@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-choquequirao-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "乔奎基拉奥（指针）",
+    "en": "Choquequirao (orientation)",
+    "native": null
+  },
+  "kind_note": "Remote Inca site often compared with Machu Picchu",
+  "region": "Apurímac region, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "偏远印加遗址比较指针。",
+    "en": "Remote Inca comparative site orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-protzen-orientation",
+    "src-inca-niles-royal"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

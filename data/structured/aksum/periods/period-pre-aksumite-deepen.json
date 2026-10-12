@@ -1,0 +1,36 @@
+{
+  "id": "period-pre-aksumite-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "前阿克苏姆加深窗",
+    "en": "Pre-Aksumite deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "time": {
+    "label": "Yeha / Dʿmt-related pre-Aksumite frame",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Yeha / Dʿmt-related pre-Aksumite frame"
+  },
+  "summary": {
+    "zh": "耶哈等前阿克苏姆窗。",
+    "en": "Yeha and related pre-Aksumite window.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-yeha-deepen",
+    "src-aksum-finneran-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

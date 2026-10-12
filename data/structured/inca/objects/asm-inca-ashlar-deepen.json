@@ -1,0 +1,44 @@
+{
+  "id": "asm-inca-ashlar-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "精琢石作加深组合",
+    "en": "Ashlar masonry deepen assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-ollantaytambo-orientation",
+    "site-machu-picchu"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "精琢石作技术指针。",
+    "en": "Ashlar technology pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-protzen-1993",
+    "src-inca-ashlar-technology"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

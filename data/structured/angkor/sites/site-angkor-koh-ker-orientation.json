@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-koh-ker-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "科克（指针）",
+    "en": "Koh Ker (orientation)",
+    "native": null
+  },
+  "kind_note": "10th-c. capital under Jayavarman IV",
+  "region": "Preah Vihear Province, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "10 世纪短期都城指针。",
+    "en": "10th-c. brief capital orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-epigraphy-deepen",
+    "src-angkor-higham-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

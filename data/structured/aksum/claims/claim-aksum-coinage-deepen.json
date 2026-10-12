@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-coinage-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿克苏姆钱币为王名、宗教象征与红海经济提供铭文—图像证据（Munro-Hay 钱币学传统）。",
+    "en": "Aksumite coinage supplies epigraphic–iconographic evidence for royal names, religious symbols, and Red Sea economy.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aksumite-classic-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-coinage-deepen",
+    "src-aksum-munro-hay-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

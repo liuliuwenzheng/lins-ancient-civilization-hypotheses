@@ -30,6 +30,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords). Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords). Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11). | D-2026-10-12-20: S-row matched but existing coords kept (no overwrite); CSV=38.4125,23.67527778 grade=S url=https://en.wikipedia.org/wiki/Lefkandi"
   }
 }

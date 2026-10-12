@@ -1,0 +1,34 @@
+{
+  "id": "claim-classic-maya-usumacinta-courts",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "乌苏马辛塔诸中心（帕伦克、皮埃德拉斯内格拉斯、亚克斯奇兰）以宫廷艺术与铭文互动著称。",
+    "en": "Usumacinta centres (Palenque, Piedras Negras, Yaxchilán) are noted for court art and interacting inscriptions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-palenque-classic",
+    "site-piedras-negras-orientation",
+    "site-yaxchilan-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-houston-in-the-mind",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

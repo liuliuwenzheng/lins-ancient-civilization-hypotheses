@@ -29,6 +29,6 @@
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11). | D-2026-10-12-20: S-row matched but existing coords kept (no overwrite); CSV=30.572777777,31.51 grade=S url=https://www.wikidata.org/wiki/Q603841"
   }
 }

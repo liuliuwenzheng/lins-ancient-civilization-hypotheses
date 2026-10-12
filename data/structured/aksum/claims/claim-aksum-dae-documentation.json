@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-dae-documentation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "德意志阿克苏姆远征（Littmann 等）奠定现代石碑与铭文记录传统（P 级文献传统）。",
+    "en": "The Deutsche Aksum-Expedition (Littmann et al.) founded modern stelae and inscription documentation (P-tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-littmann-deepen",
+    "src-aksum-littmann-deutsche"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

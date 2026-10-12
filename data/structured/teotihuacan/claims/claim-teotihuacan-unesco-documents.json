@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-unesco-documents",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文文件页汇总世界遗产保护与管理取向材料（UNESCO 414 documents）。",
+    "en": "UNESCO documents page aggregates World Heritage protection/management materials (414 documents).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-unesco-docs-deepen",
+    "src-teotihuacan-unesco-414"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

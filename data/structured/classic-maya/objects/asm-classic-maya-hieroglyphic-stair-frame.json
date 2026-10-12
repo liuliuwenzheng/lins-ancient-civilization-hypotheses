@@ -1,0 +1,44 @@
+{
+  "id": "asm-classic-maya-hieroglyphic-stair-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "象形文字阶梯铭文组合",
+    "en": "Hieroglyphic Stairway inscription frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-copan-hieroglyphic-stair-orientation",
+    "site-copan-classic"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "科潘铭文阶梯组合指针。",
+    "en": "Copán stairway inscription assemblage pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-fash-copan",
+    "src-classic-maya-grube-inscriptions"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-angkor-apsara-management",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "APSARA 当局负责吴哥公园保护、研究许可与旅游管理（机构门户）。",
+    "en": "APSARA Authority manages Angkor park protection, research permitting, and tourism (institutional portal).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-apsara-docs",
+    "src-angkor-apsara-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

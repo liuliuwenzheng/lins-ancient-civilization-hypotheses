@@ -1,0 +1,34 @@
+{
+  "id": "claim-aksum-christianization",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "王室基督教化与教堂景观是4世纪以降阿克苏姆史的核心转折（Heldman；Munro-Hay 取向）。",
+    "en": "Royal Christianization and church landscapes are a core turning point in Aksumite history from the 4th century (Heldman; Munro-Hay).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-church-maryam-orientation"
+  ],
+  "period_ids": [
+    "period-aksumite-christian"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-heldman-deepen",
+    "src-aksum-munro-hay-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

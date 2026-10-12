@@ -1,0 +1,33 @@
+{
+  "id": "claim-teotihuacan-ceramic-phases",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rattray 等陶器年表为 TMP 城市分期提供陶瓷框架（Patlachique–Metepec 取向）。",
+    "en": "Rattray ceramic chronologies supply the ceramic framework for TMP urban phasing (Patlachique–Metepec).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-teotihuacan-tlamimilolpa-deepen",
+    "period-teotihuacan-xolalpan-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-rattray-ceramics",
+    "src-teotihuacan-millon-mapping-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

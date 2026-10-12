@@ -19,13 +19,18 @@
     "src-andes-pozorski-casma-1987",
     "src-andes-pozorski-initial-period-casma-2002"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -9.47633333,
+    "lon": -78.25666667,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(维基坐标); source=https://en.wikipedia.org/wiki/Cerro_Sech%C3%ADn; WGS84 -9.47633333,-78.25666667"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
-      "sources/src-andes-*"
+      "sources/src-andes-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

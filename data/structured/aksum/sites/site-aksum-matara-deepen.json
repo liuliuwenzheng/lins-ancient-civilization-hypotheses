@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-matara-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "马塔拉加深指针",
+    "en": "Matara deepen orientation",
+    "native": null
+  },
+  "kind_note": "Eritrean highland Aksumite centre",
+  "region": "Eritrea",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "厄立特里亚高地中心指针。",
+    "en": "Eritrean highland centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-manzo-deepen",
+    "src-aksum-munro-hay-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-classic-maya-teotihuacan-entrada",
+  "entity": "period",
+  "names": {
+    "zh": "特奥蒂瓦坎进入讨论窗",
+    "en": "Teotihuacan entrada discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Early Classic Teotihuacan–Maya interaction debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Classic Teotihuacan–Maya interaction debates"
+  },
+  "summary": {
+    "zh": "与特奥蒂瓦坎互动讨论窗。",
+    "en": "Teotihuacan interaction discussion window.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-chronicle",
+    "src-classic-maya-schele-freidel"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

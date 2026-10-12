@@ -1,0 +1,30 @@
+{
+  "id": "claim-angkor-epigraphy-lustig",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "定量碑铭研究尝试统计高棉铭文的捐赠与社会网络模式（Lustig 等取向）。",
+    "en": "Quantitative epigraphy attempts to pattern Khmer inscription donations and social networks (Lustig orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-lustig-epigraphy",
+    "src-angkor-jacques-epigraphy-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -20,13 +20,18 @@
     "src-mesopotamia-frankfort-oic13-1932",
     "src-mesopotamia-adams-diyala-1965"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 33.75,
+    "lon": 44.75,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(Wikidata P625); source=https://www.wikidata.org/wiki/Q1305112; WGS84 33.75,44.75"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
-      "sources/src-mesopotamia-*"
+      "sources/src-mesopotamia-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "New site; coords omitted."
+    "derived_on": "2026-10-12",
+    "notes": "New site; coords omitted. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

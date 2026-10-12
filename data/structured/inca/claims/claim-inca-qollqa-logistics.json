@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-qollqa-logistics",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "仓廪（qollqa）景观是帝国后勤的物质核心之一（仓储研究取向）。",
+    "en": "Qollqa storehouse landscapes are a material core of imperial logistics (storage-research orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-qollqa-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-hestler-orientation",
+    "src-inca-morris-huanuco"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-inca-killke-early",
+  "entity": "period",
+  "names": {
+    "zh": "基尔克/早期印加窗",
+    "en": "Killke / early Inca window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "time": {
+    "label": "Killke and early Inca Cusco Valley formation (Covey frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Killke and early Inca Cusco Valley formation (Covey frame)"
+  },
+  "summary": {
+    "zh": "早期国家形成窗。",
+    "en": "Early state-formation window.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-covey-early",
+    "src-inca-bauer-cusco"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-classic-maya-late-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "晚期经典（加深）",
+    "en": "Late Classic (deepen)",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Late Classic floruit (ca. 600–800 CE working band)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late Classic floruit (ca. 600–800 CE working band)"
+  },
+  "summary": {
+    "zh": "晚期经典繁荣加深窗。",
+    "en": "Late Classic floruit deepen window.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-coe-houston-maya"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

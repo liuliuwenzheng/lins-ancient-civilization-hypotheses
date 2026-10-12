@@ -1,0 +1,33 @@
+{
+  "id": "site-quirigua-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "基里瓜（指针）",
+    "en": "Quiriguá (orientation)",
+    "native": null
+  },
+  "kind_note": "Motagua Classic centre; UNESCO",
+  "region": "Izabal, Guatemala",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "莫塔瓜经典中心指针。",
+    "en": "Motagua Classic centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-unesco-quirogua-149",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

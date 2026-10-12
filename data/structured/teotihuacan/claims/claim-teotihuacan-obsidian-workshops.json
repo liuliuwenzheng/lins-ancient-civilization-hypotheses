@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-obsidian-workshops",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "黑曜石研究表明城市内外存在可识别作坊与远程原料网络（Spence 等相关分析）。",
+    "en": "Obsidian research identifies workshops and long-distance procurement networks (Spence / related analyses).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-tlajinga-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-heaton-obsidian",
+    "src-teotihuacan-spence-obsidian-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

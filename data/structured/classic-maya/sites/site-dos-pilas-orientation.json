@@ -1,0 +1,33 @@
+{
+  "id": "site-dos-pilas-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "多斯皮拉斯（指针）",
+    "en": "Dos Pilas (orientation)",
+    "native": null
+  },
+  "kind_note": "Petexbatun dynasty centre",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "佩腾南部战争史案例指针。",
+    "en": "Southern Petén warfare-history case orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-demarest-petexbatun",
+    "src-classic-maya-martin-grube-chronicle"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-exhibition-synthesis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "展览目录将特奥蒂瓦坎表述为跨学科综合入口（City of Water, City of Fire）。",
+    "en": "Exhibition catalogs frame Teotihuacan as an interdisciplinary synthesis entry (City of Water, City of Fire).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-robb-orientation",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

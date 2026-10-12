@@ -1,0 +1,33 @@
+{
+  "id": "claim-angkor-coe-evans-synthesis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Coe & Evans 综合是英语读者进入吴哥考古与文明史的常用入口。",
+    "en": "Coe & Evans synthesis is a common Angkor archaeology/civilization entry for English readers.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat",
+    "site-angkor-thom"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-coe-evans-deepen",
+    "src-angkor-coe-evans-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

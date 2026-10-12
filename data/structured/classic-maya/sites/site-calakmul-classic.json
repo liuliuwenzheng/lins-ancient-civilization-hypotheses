@@ -19,7 +19,11 @@
     "src-classic-maya-unesco-calakmul-1061",
     "src-classic-maya-martin-grube-2008"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 18.105,
+    "lon": -89.811,
+    "precision_note": "UNESCO WHC list 1061 Ancient Maya City of Calakmul approximate centre; access 2026-10-12; grade≈P/S pending DMS xml read"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave2_shells/densify_wave2.py",
@@ -27,6 +31,6 @@
       "docs/decisions.md#d-2026-10-12-16"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Wave-2 densify to library-seed-rich (D-2026-10-12-16). No invented pages/coords/finds/media art. Honest thin > fake dense. | Coords filled D-2026-10-12-19."
   }
 }

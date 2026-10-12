@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-srah-srang-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "王浴池（指针）",
+    "en": "Srah Srang (orientation)",
+    "native": null
+  },
+  "kind_note": "Royal bath / basin",
+  "region": "Angkor, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "王室水池指针。",
+    "en": "Royal basin orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-fletcher-water",
+    "src-angkor-apsara-docs"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -800,3 +800,23 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified:** `export_check` OK (**40** packs; citation gate green). **FAIL = 0** across all 31 seed-rich packs after remediations.
 
 **Notes:** Open WARNs (null coords, residual biblio orientation, thin media, `*-orientation` ontology sites) stay intentional. Dense nine not re-audited end-to-end this pass.
+
+### D-2026-10-12-19 — Hot-pack Batch A densify toward fact-library
+
+**Decision:** Densify user-priority packs `teotihuacan`, `classic-maya`, `inca`, `angkor`, `aksum` toward the `fact-library` band; **do not promote status to `fact-library` yet** (depth still below Egypt/Mesopotamia). Integrity over completeness: no invented pages/finds/media art.
+
+**Approx. per-pack delta:** +15 sources · +8 sites · +4 periods · +4 objects · +15 claims · +3 media (totals ~ +75/+40/+20/+20/+74/+15).
+
+**Reports:** [`docs/audits/pass-2026-10-12-hot-batch-a.md`](audits/pass-2026-10-12-hot-batch-a.md) · [中文](audits/pass-2026-10-12-hot-batch-a.zh.md)
+
+**Verified:** `export_check` OK (40 packs).
+
+
+### D-2026-10-12-20 — Ingest 嘻嘻 P-grade coordinate reply
+
+**Decision:** Ingest 嘻嘻 P-grade coordinate CSV with integrity rules: **never ingest 鱼凫/Yufu** (false hit = Yufu-shi, Japan); prefer P(UNESCO); S only when carefully matched to existing site ids by pack+name; skip empty/frame/ambiguous rows; record grade + URL in `precision_note`.
+
+**Results:** 27 new fills · 7 P-upgrades · Yufu left null. Reports: [`docs/audits/pass-2026-10-12-xixi-coords.md`](audits/pass-2026-10-12-xixi-coords.md) · [中文](audits/pass-2026-10-12-xixi-coords.zh.md)
+
+**Verified:** `export_check` OK.
+

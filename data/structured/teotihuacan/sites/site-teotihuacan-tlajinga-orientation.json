@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-tlajinga-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "特拉欣加（指针）",
+    "en": "Tlajinga (orientation)",
+    "native": null
+  },
+  "kind_note": "Southern craft/apartment district",
+  "region": "Teotihuacan periphery",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "南缘手工业/居住区指针。",
+    "en": "Southern craft/residential district orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-storey-bioarch",
+    "src-teotihuacan-heaton-obsidian"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

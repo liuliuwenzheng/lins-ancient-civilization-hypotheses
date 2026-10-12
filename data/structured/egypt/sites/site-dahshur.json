@@ -18,13 +18,18 @@
   "sources": [
     "src-egypt-de-morgan-dahchour-1895"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 29.8,
+    "lon": 31.233333333,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(Wikidata P625); series WHC 86 has no Dahshur poi — not P; source=https://www.wikidata.org/wiki/Q685414; WGS84 29.8,31.233333333"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
-      "sources/src-*"
+      "sources/src-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

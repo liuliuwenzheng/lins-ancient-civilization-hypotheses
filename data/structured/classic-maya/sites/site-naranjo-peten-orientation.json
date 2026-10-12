@@ -1,0 +1,33 @@
+{
+  "id": "site-naranjo-peten-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "纳兰霍（佩腾指针）",
+    "en": "Naranjo (Petén orientation)",
+    "native": null
+  },
+  "kind_note": "Classic dynastic centre",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "佩腾王朝中心指针。",
+    "en": "Petén dynastic centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-chronicle",
+    "src-classic-maya-schele-freidel"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

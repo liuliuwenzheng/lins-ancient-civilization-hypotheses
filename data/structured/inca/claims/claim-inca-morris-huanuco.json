@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-morris-huanuco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Huánuco Pampa 发掘揭示大型行政/仓储中心布局（Morris & Thompson 传统）。",
+    "en": "Huánuco Pampa excavations reveal layout of a major administrative/storage centre (Morris & Thompson tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-huanuco-pampa-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-morris-huanuco",
+    "src-inca-morris-thompson-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

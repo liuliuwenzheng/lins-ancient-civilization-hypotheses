@@ -1,0 +1,19 @@
+{
+  "id": "src-angkor-freeman-jacques-deepen",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Freeman, Michael, and Claude Jacques. Ancient Angkor guidebook/synthesis tradition.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Monument guidebook orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

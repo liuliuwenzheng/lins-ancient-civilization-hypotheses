@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-gudit-stelae-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "Gudit 石碑原指针",
+    "en": "Gudit stelae field orientation",
+    "native": null
+  },
+  "kind_note": "Secondary stelae field orientation",
+  "region": "Aksum, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "次级石碑原指针。",
+    "en": "Secondary stelae field orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-phillipson-deepen",
+    "src-aksum-munro-hay-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

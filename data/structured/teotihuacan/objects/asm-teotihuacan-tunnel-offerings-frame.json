@@ -1,0 +1,44 @@
+{
+  "id": "asm-teotihuacan-tunnel-offerings-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "地道祭献组合指针",
+    "en": "Tunnel offerings frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-tunnel-fsp-orientation",
+    "site-teotihuacan-ciudadela-fsp"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "地道祭献传统指针。",
+    "en": "Tunnel-offering tradition pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-gomez-chavez-orientation",
+    "src-teotihuacan-sugiyama-2005"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-copan-hieroglyphic-stair-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "科潘象形文字阶梯（指针）",
+    "en": "Copán Hieroglyphic Stairway (orientation)",
+    "native": null
+  },
+  "kind_note": "Epigraphic monument locus within Copán",
+  "region": "Copán, Honduras",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "科潘铭文阶梯指针。",
+    "en": "Copán hieroglyphic stairway orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-fash-copan",
+    "src-classic-maya-unesco-copan-129"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

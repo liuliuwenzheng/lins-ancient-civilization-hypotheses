@@ -1,0 +1,33 @@
+{
+  "id": "claim-classic-maya-schele-freidel",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Schele & Freidel 叙事综合推动了铭文政治史进入公众与学界主流（Forest of Kings）。",
+    "en": "Schele & Freidel’s narrative synthesis helped bring epigraphic political history into scholarly and public mainstream.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-palenque-classic"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-schele-freidel",
+    "src-classic-maya-martin-grube-chronicle"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-tetitla-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "特蒂特拉（壁画指针）",
+    "en": "Tetitla (mural orientation)",
+    "native": null
+  },
+  "kind_note": "Apartment compound with murals",
+  "region": "Teotihuacan",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "壁画公寓指针。",
+    "en": "Mural apartment orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-pasztory-art-orientation",
+    "src-teotihuacan-taube-iconography"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

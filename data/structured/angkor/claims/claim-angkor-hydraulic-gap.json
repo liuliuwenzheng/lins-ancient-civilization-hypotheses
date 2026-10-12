@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-hydraulic-gap",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "水利系统维护断裂是否导致都城功能衰退，仍是开放研究问题（Fletcher 传统假说空间）。",
+    "en": "Whether hydraulic-system maintenance failure drove capital functional decline remains an open research question.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-angkor-post-classic-decline"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-fletcher-water",
+    "src-angkor-fletcher-orientation"
+  ],
+  "disclaimer": "Hydraulic–decline causality unsettled. / 水利—衰退因果未定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

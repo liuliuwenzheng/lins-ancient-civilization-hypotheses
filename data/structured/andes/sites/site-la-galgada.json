@@ -18,13 +18,18 @@
   "sources": [
     "src-andes-grieder-la-galgada-1988"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -8.467,
+    "lon": -78.15,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(Wikidata P625); source=https://www.wikidata.org/wiki/Q5963500; WGS84 -8.467,-78.15"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
-      "sources/src-andes-*"
+      "sources/src-andes-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-29; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

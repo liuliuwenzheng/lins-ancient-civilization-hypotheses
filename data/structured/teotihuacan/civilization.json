@@ -11,56 +11,103 @@
   "region": "Mesoamerica / Basin of Mexico (central Mexico)",
   "time_span": "Classic-period metropolis floruit broadly 1st–6th/7th c. CE (Cowgill / Mapping Project frames)",
   "summary": {
-    "zh": "特奥蒂瓦坎档案（library-seed-rich）：Millon/Cowgill TMP + 太阳/月亮金字塔与公寓区框架；仍加厚中。",
-    "en": "Teotihuacan archive (library-seed-rich): Millon/Cowgill TMP + Sun/Moon pyramids and apartment-compound frames; still thickening."
+    "zh": "特奥蒂瓦坎档案加厚（热门 Batch A）：测绘网格、羽蛇金字塔祭祀、公寓复合体与黑曜石经济；仍低于埃及级 fact-library。",
+    "en": "Teotihuacan densified (hot Batch A): mapping grid, Feathered Serpent sacrifices, apartment compounds, obsidian economy; still below Egypt-level fact-library.",
+    "native": null
   },
   "sources": [
     "src-teotihuacan-asu-lab-orientation",
     "src-teotihuacan-cabrera-castro-orientation",
+    "src-teotihuacan-carbon-dating-orientation",
+    "src-teotihuacan-clayton-orientation",
     "src-teotihuacan-cowgill-2015",
     "src-teotihuacan-cowgill-urbanism-deepen",
+    "src-teotihuacan-foreigners-barrio",
+    "src-teotihuacan-gomez-chavez-orientation",
+    "src-teotihuacan-heaton-obsidian",
     "src-teotihuacan-inah-site-orientation",
+    "src-teotihuacan-inah-zona",
+    "src-teotihuacan-manzanilla-2012",
     "src-teotihuacan-manzanilla-orientation",
     "src-teotihuacan-millon-mapping-orientation",
     "src-teotihuacan-pasztory-art-orientation",
+    "src-teotihuacan-rattray-ceramics",
+    "src-teotihuacan-robb-orientation",
+    "src-teotihuacan-sempowski-spence",
     "src-teotihuacan-spence-obsidian-orientation",
+    "src-teotihuacan-storey-bioarch",
+    "src-teotihuacan-street-dead-axis",
+    "src-teotihuacan-sugiyama-2005",
     "src-teotihuacan-sugiyama-feathered-serpent",
+    "src-teotihuacan-taube-iconography",
     "src-teotihuacan-tmp-antiquity-data",
     "src-teotihuacan-tmp-data-paper",
     "src-teotihuacan-unesco-414",
     "src-teotihuacan-unesco-414-maps",
+    "src-teotihuacan-unesco-docs-deepen",
     "src-teotihuacan-white-price-orientation"
   ],
   "site_ids": [
     "site-teotihuacan",
     "site-teotihuacan-apartment-compounds-frame",
+    "site-teotihuacan-atatelco-orientation",
     "site-teotihuacan-ciudadela-fsp",
+    "site-teotihuacan-merchant-barrio-orientation",
+    "site-teotihuacan-oaxaca-barrio-orientation",
     "site-teotihuacan-obsidian-workshops-frame",
+    "site-teotihuacan-oztoyahualco-orientation",
     "site-teotihuacan-pyramid-moon-frame",
-    "site-teotihuacan-pyramid-sun-frame"
+    "site-teotihuacan-pyramid-sun-frame",
+    "site-teotihuacan-tetitla-orientation",
+    "site-teotihuacan-tlajinga-orientation",
+    "site-teotihuacan-tunnel-fsp-orientation",
+    "site-teotihuacan-zacuala-orientation"
   ],
   "period_ids": [
     "period-teotihuacan-classic-floruit",
+    "period-teotihuacan-metepec-decline",
     "period-teotihuacan-miccaotli-tlamimilolpa",
+    "period-teotihuacan-patlachique-deepen",
     "period-teotihuacan-patlachique-tzacualli",
+    "period-teotihuacan-tlamimilolpa-deepen",
+    "period-teotihuacan-xolalpan-deepen",
     "period-teotihuacan-xolalpan-metepec"
   ],
   "claim_ids": [
     "claim-teotihuacan-apartment-compounds",
+    "claim-teotihuacan-apartment-manzanilla",
+    "claim-teotihuacan-bioarch-mortality",
     "claim-teotihuacan-bioarchaeology-mobility",
+    "claim-teotihuacan-ceramic-phases",
     "claim-teotihuacan-cowgill-urban-synthesis",
     "claim-teotihuacan-decline-hypothesis",
+    "claim-teotihuacan-decline-open",
+    "claim-teotihuacan-exhibition-synthesis",
+    "claim-teotihuacan-foreigner-barrios",
     "claim-teotihuacan-fsp-sacrifice",
     "claim-teotihuacan-inah-excavation-tradition",
+    "claim-teotihuacan-inah-tunnel",
+    "claim-teotihuacan-inah-zona",
+    "claim-teotihuacan-mapping-density",
     "claim-teotihuacan-mural-iconography",
+    "claim-teotihuacan-mural-taube",
+    "claim-teotihuacan-neighborhoods",
     "claim-teotihuacan-obsidian-economy",
+    "claim-teotihuacan-obsidian-workshops",
     "claim-teotihuacan-planned-metropolis",
+    "claim-teotihuacan-street-dead",
+    "claim-teotihuacan-sugiyama-fsp",
     "claim-teotihuacan-tmp-grid",
+    "claim-teotihuacan-unesco-documents",
     "claim-teotihuacan-unesco-metropolis"
   ],
   "object_ids": [
+    "asm-teotihuacan-foreigner-barrios-frame",
     "asm-teotihuacan-fsp-sacrifices-frame",
+    "asm-teotihuacan-mural-programs-frame",
+    "asm-teotihuacan-obsidian-workshops-asm",
     "asm-teotihuacan-pyramids-frame",
+    "asm-teotihuacan-tunnel-offerings-frame",
     "asm-teotihuacan-urban-grid-frame"
   ],
   "related_ids": [
@@ -71,11 +118,11 @@
   "markdown_path": "data/civilizations/civ-teotihuacan.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/densify_wave1.py",
+      "tools/hot_densify/densify_hot_batch_a.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-13"
+      "docs/decisions.md#d-2026-10-12-19"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
   }
 }

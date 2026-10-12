@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-mural-taube",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "图像学研究讨论风暴神、羽蛇与壁画程序在意识形态中的角色（Taube；Pasztory）。",
+    "en": "Iconographic studies discuss Storm God, Feathered Serpent, and mural programs in Teotihuacan ideology (Taube; Pasztory).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-tetitla-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-taube-iconography",
+    "src-teotihuacan-pasztory-art-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-neak-pean-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "涅盘（指针）",
+    "en": "Neak Pean (orientation)",
+    "native": null
+  },
+  "kind_note": "Island temple in Jayatataka baray",
+  "region": "Angkor, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "水库岛庙指针。",
+    "en": "Baray island-temple orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-fletcher-water",
+    "src-angkor-freeman-jacques-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "filled_new": [
+    {
+      "pack": "sanxingdui",
+      "site": "site-baodun",
+      "grade": "S",
+      "lat": 30.4502,
+      "lon": 103.7508
+    },
+    {
+      "pack": "china-bronze",
+      "site": "site-erlitou",
+      "grade": "S",
+      "lat": 34.693,
+      "lon": 112.689
+    },
+    {
+      "pack": "china-bronze",
+      "site": "site-panlongcheng",
+      "grade": "S",
+      "lat": 30.694444444,
+      "lon": 114.265555555
+    },
+    {
+      "pack": "china-bronze",
+      "site": "site-taosi",
+      "grade": "S",
+      "lat": 35.89060278,
+      "lon": 111.49717222
+    },
+    {
+      "pack": "china-bronze",
+      "site": "site-zhengzhou-erligang",
+      "grade": "S",
+      "lat": 34.75222222,
+      "lon": 113.69027778
+    },
+    {
+      "pack": "china-bronze",
+      "site": "site-tianma-qucun",
+      "grade": "S",
+      "lat": 35.7357,
+      "lon": 111.56281
+    },
+    {
+      "pack": "china-bronze",
+      "site": "site-liulihe",
+      "grade": "S",
+      "lat": 39.61111111,
+      "lon": 116.02916667
+    },
+    {
+      "pack": "andes",
+      "site": "site-aspero",
+      "grade": "S",
+      "lat": -10.8156,
+      "lon": -77.741
+    },
+    {
+      "pack": "andes",
+      "site": "site-huaca-prieta",
+      "grade": "S",
+      "lat": -7.924,
+      "lon": -79.307
+    },
+    {
+      "pack": "andes",
+      "site": "site-el-paraiso",
+      "grade": "S",
+      "lat": -11.95393,
+      "lon": -77.11838
+    },
+    {
+      "pack": "andes",
+      "site": "site-cerro-sechin",
+      "grade": "S",
+      "lat": -9.47633333,
+      "lon": -78.25666667
+    },
+    {
+      "pack": "andes",
+      "site": "site-kotosh",
+      "grade": "S",
+      "lat": -9.93083333,
+      "lon": -76.27944444
+    },
+    {
+      "pack": "andes",
+      "site": "site-la-galgada",
+      "grade": "S",
+      "lat": -8.467,
+      "lon": -78.15
+    },
+    {
+      "pack": "andes",
+      "site": "site-caballo-muerto",
+      "grade": "S",
+      "lat": -8.0712,
+      "lon": -78.9104
+    },
+    {
+      "pack": "indus",
+      "site": "site-kalibangan",
+      "grade": "S",
+      "lat": 29.47416667,
+      "lon": 74.13027778
+    },
+    {
+      "pack": "indus",
+      "site": "site-rakhigarhi",
+      "grade": "S",
+      "lat": 29.29305556,
+      "lon": 76.11416667
+    },
+    {
+      "pack": "indus",
+      "site": "site-mehrgarh",
+      "grade": "S",
+      "lat": 29.38333333,
+      "lon": 67.61666667
+    },
+    {
+      "pack": "indus",
+      "site": "site-kot-diji",
+      "grade": "S",
+      "lat": 27.34555556,
+      "lon": 68.70666667
+    },
+    {
+      "pack": "indus",
+      "site": "site-amri",
+      "grade": "S",
+      "lat": 25.90972222,
+      "lon": 67.92361111
+    },
+    {
+      "pack": "indus",
+      "site": "site-banawali",
+      "grade": "S",
+      "lat": 29.59833333,
+      "lon": 75.39194444
+    },
+    {
+      "pack": "olmec",
+      "site": "site-tres-zapotes",
+      "grade": "S",
+      "lat": 18.46666667,
+      "lon": -95.43333333
+    },
+    {
+      "pack": "olmec",
+      "site": "site-laguna-de-los-cerros",
+      "grade": "S",
+      "lat": 18.1,
+      "lon": -95.11666667
+    },
+    {
+      "pack": "olmec",
+      "site": "site-el-manati",
+      "grade": "S",
+      "lat": 17.622427,
+      "lon": -94.641552
+    },
+    {
+      "pack": "egypt",
+      "site": "site-badari",
+      "grade": "S",
+      "lat": 27.0,
+      "lon": 31.41667
+    },
+    {
+      "pack": "egypt",
+      "site": "site-dahshur",
+      "grade": "S",
+      "lat": 29.8,
+      "lon": 31.233333333
+    },
+    {
+      "pack": "mesopotamia",
+      "site": "site-khafajah",
+      "grade": "S",
+      "lat": 33.75,
+      "lon": 44.75
+    },
+    {
+      "pack": "mesopotamia",
+      "site": "site-shuruppak-fara",
+      "grade": "S",
+      "lat": 31.777363888,
+      "lon": 45.509761111
+    }
+  ],
+  "p_upgraded": [
+    {
+      "pack": "china-bronze",
+      "site": "site-anyang-yinxu",
+      "from": {
+        "lat": 36.121978,
+        "lon": 114.325162,
+        "precision_note": "UNESCO WHC list 1114-001 Palace and Royal Ancestral Shrines Area published DMS N36 7 19.121 E114 19 30.583 (decimal); maps page"
+      },
+      "to": {
+        "lat": 36.121978,
+        "lon": 114.325162
+      },
+      "grade": "P"
+    },
+    {
+      "pack": "andes",
+      "site": "site-chavin-de-huantar",
+      "from": {
+        "lat": -9.592773,
+        "lon": -77.178454,
+        "precision_note": "UNESCO WHC list 330 Chavin (Archaeological Site) published DMS S9 35 33.981 W77 10 42.433 (decimal); maps page accessed 2026-10-12"
+      },
+      "to": {
+        "lat": -9.5927725444,
+        "lon": -77.1784535027
+      },
+      "grade": "P"
+    },
+    {
+      "pack": "indus",
+      "site": "site-mohenjo-daro",
+      "from": {
+        "lat": 27.329167,
+        "lon": 68.138889,
+        "precision_note": "UNESCO WHC list 138 Moenjodaro published DMS N27 19 45 E68 8 20 (decimal); maps page / periodic reporting"
+      },
+      "to": {
+        "lat": 27.32916667,
+        "lon": 68.13888889
+      },
+      "grade": "P"
+    },
+    {
+      "pack": "indus",
+      "site": "site-dholavira",
+      "from": {
+        "lat": 23.888408,
+        "lon": 70.213303,
+        "precision_note": "UNESCO WHC list 1645 Dholavira published DMS N23 53 18.27 E70 12 47.89 (decimal); accessed 2026-10-12"
+      },
+      "to": {
+        "lat": 23.8884083333,
+        "lon": 70.2133027778
+      },
+      "grade": "P"
+    },
+    {
+      "pack": "mesopotamia",
+      "site": "site-assur",
+      "from": {
+        "lat": 35.455573,
+        "lon": 43.261301,
+        "precision_note": "Pleiades place 893945 (Ashur) representative point; CSV dump 2026-10-12"
+      },
+      "to": {
+        "lat": 35.4566666667,
+        "lon": 43.2611111111
+      },
+      "grade": "P"
+    },
+    {
+      "pack": "aegean",
+      "site": "site-tiryns",
+      "from": {
+        "lat": 37.599283,
+        "lon": 22.799986,
+        "precision_note": "Pleiades place 570740 (Tiryns) representative point; CSV dump 2026-10-12"
+      },
+      "to": {
+        "lat": 37.6,
+        "lon": 22.8
+      },
+      "grade": "P"
+    },
+    {
+      "pack": "aegean",
+      "site": "site-troy-hissarlik",
+      "from": {
+        "lat": 39.95744,
+        "lon": 26.23852,
+        "precision_note": "Pleiades place 550595 (Ilium/Troia) representative point; CSV dump 2026-10-12"
+      },
+      "to": {
+        "lat": 39.95644,
+        "lon": 26.239
+      },
+      "grade": "P"
+    }
+  ],
+  "s_refreshed": [
+    {
+      "pack": "sanxingdui",
+      "site": "site-sanxingdui",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "sanxingdui",
+      "site": "site-jinsha-comparative",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "andes",
+      "site": "site-caral",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "indus",
+      "site": "site-harappa",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "indus",
+      "site": "site-lothal",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "olmec",
+      "site": "site-san-lorenzo",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "olmec",
+      "site": "site-la-venta",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "olmec",
+      "site": "site-chalcatzingo",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "early-maya",
+      "site": "site-el-mirador",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "early-maya",
+      "site": "site-nakbe",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "early-maya",
+      "site": "site-cival",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "early-maya",
+      "site": "site-cuello",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "early-maya",
+      "site": "site-cahal-pech",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "early-maya",
+      "site": "site-cerros",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "early-maya",
+      "site": "site-holmul",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "egypt",
+      "site": "site-buto",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "egypt",
+      "site": "site-tell-el-farkha",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "egypt",
+      "site": "site-bubastis",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "mesopotamia",
+      "site": "site-ur",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "aegean",
+      "site": "site-palaikastro",
+      "action": "kept_existing_stamped"
+    },
+    {
+      "pack": "aegean",
+      "site": "site-lefkandi-toumba",
+      "action": "kept_existing_stamped"
+    }
+  ],
+  "skipped": [
+    {
+      "pack": "sanxingdui",
+      "zh": "鱼凫村遗址",
+      "en": "Yufu",
+      "reason": "SKIP_YUFU",
+      "level": "S(维基坐标)"
+    },
+    {
+      "pack": "sanxingdui",
+      "zh": "青关山",
+      "en": "Qingguanshan",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "china-bronze",
+      "zh": "吴城",
+      "en": "Wucheng",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "china-bronze",
+      "zh": "铜绿山",
+      "en": "Tonglushan",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "china-bronze",
+      "zh": "侯马铸铜",
+      "en": "Houma",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "andes",
+      "zh": "班杜里亚",
+      "en": "Bandurria",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "andes",
+      "zh": "维查马",
+      "en": "Vichama",
+      "reason": "SKIP_NO_SITE",
+      "level": "S(Wikidata P625)"
+    },
+    {
+      "pack": "indus",
+      "zh": "昌胡达罗",
+      "en": "Chanhudaro",
+      "reason": "SKIP_NO_SITE",
+      "level": "S(Wikidata P625)"
+    },
+    {
+      "pack": "indus",
+      "zh": "甘韦里瓦拉",
+      "en": "Ganweriwala",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "olmec",
+      "zh": "卡斯卡哈尔",
+      "en": "Cascajal Block",
+      "reason": "SKIP_AMBIGUOUS",
+      "level": "-"
+    },
+    {
+      "pack": "early-maya",
+      "zh": "圣巴托洛",
+      "en": "San Bartolo",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "early-maya",
+      "zh": "阿瓜达费尼克斯",
+      "en": "Aguada Fénix",
+      "reason": "empty lat/lon in CSV",
+      "site": "site-aguada-fenix"
+    },
+    {
+      "pack": "early-maya",
+      "zh": "卡米纳尔胡尤",
+      "en": "Kaminaljuyú",
+      "reason": "SKIP_FRAME",
+      "level": "S(Wikidata P625)"
+    },
+    {
+      "pack": "early-maya",
+      "zh": "蒙多佩尔迪多",
+      "en": "Mundo Perdido",
+      "reason": "SKIP_AMBIGUOUS",
+      "level": "-"
+    },
+    {
+      "pack": "egypt",
+      "zh": "塔尔汗",
+      "en": "Tarkhan (Egypt)",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "mesopotamia",
+      "zh": "伊什查利",
+      "en": "Ishchali",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    },
+    {
+      "pack": "aegean",
+      "zh": "圣伊里尼",
+      "en": "Ayia Irini",
+      "reason": "SKIP_EMPTY",
+      "level": "-"
+    }
+  ],
+  "yufu": "already null; stamped skip note",
+  "errors": []
+}

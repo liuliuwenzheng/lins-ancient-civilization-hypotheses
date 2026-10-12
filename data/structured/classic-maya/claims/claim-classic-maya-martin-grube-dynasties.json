@@ -1,0 +1,33 @@
+{
+  "id": "claim-classic-maya-martin-grube-dynasties",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Martin & Grube 编年将经典低地表述为多王朝互动的政治景观（Chronicle 2008）。",
+    "en": "Martin & Grube chronicle Classic lowlands as a multi-dynasty interactive political landscape (2008).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-calakmul-classic"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-martin-grube-chronicle",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

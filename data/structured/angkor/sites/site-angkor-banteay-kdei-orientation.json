@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-banteay-kdei-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "班迭喀黛（指针）",
+    "en": "Banteay Kdei (orientation)",
+    "native": null
+  },
+  "kind_note": "Buddhist monastic complex",
+  "region": "Angkor, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "佛教寺院建筑指针。",
+    "en": "Buddhist monastic architecture orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-freeman-jacques-deepen",
+    "src-angkor-jacques-lafond-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

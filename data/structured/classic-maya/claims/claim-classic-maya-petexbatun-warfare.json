@@ -1,0 +1,34 @@
+{
+  "id": "claim-classic-maya-petexbatun-warfare",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "佩腾南部 Petexbatun 项目为晚期经典冲突与聚落变迁提供区域案例（Demarest）。",
+    "en": "The Petexbatun project supplies a regional case for Late Classic conflict and settlement change (Demarest).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-dos-pilas-orientation"
+  ],
+  "period_ids": [
+    "period-classic-maya-terminal-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-demarest-petexbatun",
+    "src-classic-maya-aimers-collapse"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

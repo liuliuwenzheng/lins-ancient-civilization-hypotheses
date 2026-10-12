@@ -1,0 +1,33 @@
+{
+  "id": "claim-classic-maya-copan-stairway",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "科潘象形文字阶梯是最长的经典玛雅铭文纪念碑之一，为王朝史重建关键证据（Fash 传统；UNESCO 129）。",
+    "en": "Copán’s Hieroglyphic Stairway is among the longest Classic Maya inscription monuments and a key dynastic source (Fash tradition; UNESCO 129).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-copan-hieroglyphic-stair-orientation",
+    "site-copan-classic"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-fash-copan",
+    "src-classic-maya-unesco-copan-129"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

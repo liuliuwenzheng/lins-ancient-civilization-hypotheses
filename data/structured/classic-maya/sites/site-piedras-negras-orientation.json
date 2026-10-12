@@ -1,0 +1,33 @@
+{
+  "id": "site-piedras-negras-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "皮埃德拉斯内格拉斯（指针）",
+    "en": "Piedras Negras (orientation)",
+    "native": null
+  },
+  "kind_note": "Usumacinta Classic centre",
+  "region": "Petén/Chiapas border",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "乌苏马辛塔经典中心指针。",
+    "en": "Usumacinta Classic centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-houston-in-the-mind",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

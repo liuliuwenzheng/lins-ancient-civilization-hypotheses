@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-inah-tunnel",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "INAH 羽蛇金字塔下地道发掘为仪礼景观提供地下空间证据（Gómez Chávez / INAH）。",
+    "en": "INAH tunnel excavations under the Feathered Serpent Pyramid add underground ritual-landscape evidence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-tunnel-fsp-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-gomez-chavez-orientation",
+    "src-teotihuacan-inah-site-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

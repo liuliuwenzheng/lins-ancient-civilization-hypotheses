@@ -1,0 +1,33 @@
+{
+  "id": "claim-aksum-stelae-monumental-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿克苏姆石碑原巨型石碑是非洲晚古纪念碑传统的核心物证（Littmann DAE；UNESCO 15）。",
+    "en": "Aksum’s giant stelae are core material evidence of an African late antique monumental tradition (Littmann DAE; UNESCO 15).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field",
+    "site-aksum-may-hedja-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-littmann-deepen",
+    "src-aksum-unesco-15"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

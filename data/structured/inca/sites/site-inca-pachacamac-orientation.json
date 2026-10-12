@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-pachacamac-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "帕查卡马克（指针）",
+    "en": "Pachacamac (orientation)",
+    "native": null
+  },
+  "kind_note": "Coastal oracle/ceremonial centre under Inca",
+  "region": "Lurín Valley, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "沿海神谕中心指针。",
+    "en": "Coastal oracle centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-pachacamac-orientation",
+    "src-inca-daltroy-2014"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

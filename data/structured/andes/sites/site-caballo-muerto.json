@@ -18,13 +18,18 @@
   "sources": [
     "src-andes-nesbitt-caballo-muerto-2012"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -8.0712,
+    "lon": -78.9104,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(维基坐标); source=https://en.wikipedia.org/wiki/Caballo_Muerto; WGS84 -8.0712,-78.9104"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
-      "sources/src-*"
+      "sources/src-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

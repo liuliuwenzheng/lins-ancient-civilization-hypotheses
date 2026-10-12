@@ -1,0 +1,36 @@
+{
+  "id": "period-teotihuacan-patlachique-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "帕特拉奇克早期（加深）",
+    "en": "Patlachique early (deepen)",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "time": {
+    "label": "Patlachique formative urban growth frame",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Patlachique formative urban growth frame"
+  },
+  "summary": {
+    "zh": "早期城市化窗。",
+    "en": "Early urban-growth window.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-rattray-ceramics"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

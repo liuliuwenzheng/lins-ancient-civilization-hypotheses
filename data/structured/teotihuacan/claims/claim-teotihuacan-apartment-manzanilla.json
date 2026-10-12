@@ -1,0 +1,33 @@
+{
+  "id": "claim-teotihuacan-apartment-manzanilla",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "公寓复合体考古将特奥蒂瓦坎表述为大规模多室居住单元构成的城市肌理（Manzanilla；Cowgill 2015）。",
+    "en": "Apartment-compound archaeology frames Teotihuacan’s urban fabric as large multi-room residential units (Manzanilla; Cowgill 2015).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-zacuala-orientation",
+    "site-teotihuacan-apartment-compounds-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-manzanilla-2012",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

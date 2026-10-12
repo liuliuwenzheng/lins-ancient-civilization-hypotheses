@@ -1,0 +1,33 @@
+{
+  "id": "claim-aksum-adulis-periplus",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "古典文献（如《厄立特里亚海航行记》传统）与考古将阿杜利斯定为红海贸易港（Burstein；Manzo）。",
+    "en": "Classical texts (Periplus tradition) and archaeology identify Adulis as a Red Sea trade port (Burstein; Manzo).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-adulis-port",
+    "site-aksum-adulis-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-burstein-periplus",
+    "src-aksum-manzo-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

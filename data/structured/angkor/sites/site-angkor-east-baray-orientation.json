@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-east-baray-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "东巴莱（指针）",
+    "en": "East Baray (orientation)",
+    "native": null
+  },
+  "kind_note": "Large reservoir east of Angkor Thom",
+  "region": "Angkor, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "大型水库景观指针。",
+    "en": "Large reservoir landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-fletcher-water",
+    "src-angkor-penny-paleoenv"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

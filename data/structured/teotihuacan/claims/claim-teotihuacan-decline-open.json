@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-decline-open",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "经典期末衰退/焚毁机制仍有争议，以假说保留。",
+    "en": "Terminal decline/burning mechanisms remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-teotihuacan-metepec-decline"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-cowgill-2015",
+    "src-teotihuacan-carbon-dating-orientation"
+  ],
+  "disclaimer": "No single settled cause. / 衰退原因未有单一定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

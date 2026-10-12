@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-street-dead",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "测绘将死亡大道表述为贯通仪礼核心的规划轴线（Millon TMP；Cowgill）。",
+    "en": "Mapping frames the Street of the Dead as a planned axis through the ceremonial core (Millon TMP; Cowgill).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-street-dead-axis",
+    "src-teotihuacan-millon-mapping-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

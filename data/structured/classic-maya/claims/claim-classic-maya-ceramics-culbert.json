@@ -1,0 +1,33 @@
+{
+  "id": "claim-classic-maya-ceramics-culbert",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Culbert 等蒂卡尔陶器专报为低地经典分期提供陶瓷基准（Tikal Reports 传统）。",
+    "en": "Culbert’s Tikal ceramic reports supply ceramic benchmarks for Lowland Classic phasing (Tikal Reports tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-tikal-north-acropolis-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-culbert-ceramics",
+    "src-classic-maya-culbert-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -19,13 +19,18 @@
     "src-sanxingdui-baodun-brief-2009",
     "src-sanxingdui-jiang-upper-yangzi-2022"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.4502,
+    "lon": 103.7508,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(维基坐标); source=https://en.wikipedia.org/wiki/Baodun_culture; WGS84 30.4502,103.7508"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-sanxingdui.md",
-      "sources/src-*"
+      "sources/src-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

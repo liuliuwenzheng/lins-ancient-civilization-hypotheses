@@ -1,0 +1,36 @@
+{
+  "id": "period-classic-maya-early-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "早期经典（加深）",
+    "en": "Early Classic (deepen)",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Early Classic dynastic consolidation (ca. 250–600 CE working band)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Classic dynastic consolidation (ca. 250–600 CE working band)"
+  },
+  "summary": {
+    "zh": "早期经典加深窗。",
+    "en": "Early Classic deepen window.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-chronicle",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

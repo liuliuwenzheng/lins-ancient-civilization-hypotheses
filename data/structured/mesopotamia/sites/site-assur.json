@@ -19,16 +19,17 @@
     "src-mesopotamia-andrae-assur-ishtar-1922"
   ],
   "coordinates": {
-    "lat": 35.455573,
-    "lon": 43.261301,
-    "precision_note": "Pleiades place 893945 (Ashur) representative point; CSV dump 2026-10-12"
+    "lat": 35.4566666667,
+    "lon": 43.2611111111,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=P; P(UNESCO 官方名录); source=https://whc.unesco.org/en/list/1130; WGS84 35.4566666667,43.2611111111 (UNESCO WHC official XML poi by id_number)"
   },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-mesopotamia.md",
-      "sources/src-*"
+      "sources/src-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note). | D-2026-10-12-20: P-upgrade / UNESCO official poi refresh from 嘻嘻."
   }
 }

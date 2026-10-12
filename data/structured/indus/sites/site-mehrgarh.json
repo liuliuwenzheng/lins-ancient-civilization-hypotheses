@@ -19,13 +19,18 @@
     "src-indus-jarrige-mehrgarh-1995",
     "src-indus-kenoyer-1991"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 29.38333333,
+    "lon": 67.61666667,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(维基坐标)；该遗址属 UNESCO 世界遗产/预备名录，可去 whc.unesco.org 复核升级为 P; source=https://en.wikipedia.org/wiki/Mehrgarh; WGS84 29.38333333,67.61666667"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
-      "sources/src-indus-*"
+      "sources/src-indus-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

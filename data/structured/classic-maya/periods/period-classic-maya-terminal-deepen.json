@@ -1,0 +1,36 @@
+{
+  "id": "period-classic-maya-terminal-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "终末经典讨论窗",
+    "en": "Terminal Classic discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Terminal Classic transformation/collapse debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Terminal Classic transformation/collapse debates"
+  },
+  "summary": {
+    "zh": "终末经典转型/崩溃讨论窗。",
+    "en": "Terminal Classic transformation/collapse window.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-aimers-collapse",
+    "src-classic-maya-demarest-petexbatun"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

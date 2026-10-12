@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-phillipson-synthesis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Phillipson《非洲文明的基础》是阿克苏姆与北角考古学的标准英语综合（2012）。",
+    "en": "Phillipson’s Foundations of an African Civilisation is a standard English synthesis of Aksum and the northern Horn (2012).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-phillipson-deepen",
+    "src-aksum-phillipson-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

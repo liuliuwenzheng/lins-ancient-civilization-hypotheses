@@ -18,13 +18,18 @@
   "sources": [
     "src-china-tianma-qucun-1994"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 35.7357,
+    "lon": 111.56281,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(Wikidata P625); source=https://www.wikidata.org/wiki/Q1436244; WGS84 35.7357,111.56281"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
-      "sources/src-*"
+      "sources/src-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
     "derived_on": "2026-10-12",
-    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords). | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

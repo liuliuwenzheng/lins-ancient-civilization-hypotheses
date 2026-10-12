@@ -19,13 +19,18 @@
     "src-andes-quilter-el-paraiso-1991",
     "src-andes-shady-caral-social-values-2008"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -11.95393,
+    "lon": -77.11838,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(Wikidata P625); source=https://www.wikidata.org/wiki/Q4717894; WGS84 -11.95393,-77.11838"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
-      "sources/src-andes-*"
+      "sources/src-andes-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-24; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

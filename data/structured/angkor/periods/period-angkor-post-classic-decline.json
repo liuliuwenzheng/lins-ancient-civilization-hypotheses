@@ -1,0 +1,36 @@
+{
+  "id": "period-angkor-post-classic-decline",
+  "entity": "period",
+  "names": {
+    "zh": "后经典变迁讨论窗",
+    "en": "Post-classic transformation window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "15th-c. transformation / hydraulic stress debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "15th-c. transformation / hydraulic stress debates"
+  },
+  "summary": {
+    "zh": "水利压力与都城变迁讨论窗。",
+    "en": "Hydraulic stress and capital-shift debate window.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-fletcher-water",
+    "src-angkor-penny-paleoenv"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -20,13 +20,18 @@
     "src-china-taosi-1999-2001-2025",
     "src-china-liu-chen-archaeology-2012"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 35.89060278,
+    "lon": 111.49717222,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(维基坐标)；该遗址属 UNESCO 世界遗产/预备名录，可去 whc.unesco.org 复核升级为 P; source=https://en.wikipedia.org/wiki/Taosi; WGS84 35.89060278,111.49717222"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
-      "sources/src-*"
+      "sources/src-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

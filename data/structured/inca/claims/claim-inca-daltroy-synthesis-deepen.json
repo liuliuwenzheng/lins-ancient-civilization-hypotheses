@@ -1,0 +1,33 @@
+{
+  "id": "claim-inca-daltroy-synthesis-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "D’Altroy《印加人》仍是英语世界标准综合，涵盖政治经济与物质文化（2014）。",
+    "en": "D’Altroy’s The Incas remains a standard English-language synthesis of political economy and material culture (2014).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-cusco-inca",
+    "site-machu-picchu"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-daltroy-deepen",
+    "src-inca-daltroy-2014"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-protzen-ollantay-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Protzen 对奥扬泰坦博石作与施工的研究是印加建筑技术的关键田野综合（Protzen 1993）。",
+    "en": "Protzen’s Ollantaytambo study is a key field synthesis of Inca construction technology (Protzen 1993).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-ollantaytambo-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-protzen-1993",
+    "src-inca-ashlar-technology"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-neighborhoods",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "街区考古强调复合体尺度社会差异与手工业专门化（Clayton 等）。",
+    "en": "Neighborhood archaeology emphasizes social differentiation and craft specialization at compound scale.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-oztoyahualco-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-clayton-orientation",
+    "src-teotihuacan-manzanilla-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

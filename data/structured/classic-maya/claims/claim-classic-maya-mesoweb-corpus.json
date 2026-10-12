@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-mesoweb-corpus",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mesoweb/FAMSI 等数字资源为铭文与遗址报告提供开放取向入口（tier T）。",
+    "en": "Mesoweb/FAMSI digital resources provide open orientation access to inscriptions and site reports (tier T).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-mesoweb-deepen",
+    "src-classic-maya-mesoweb"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

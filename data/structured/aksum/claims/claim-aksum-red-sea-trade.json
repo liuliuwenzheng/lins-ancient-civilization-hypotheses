@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-red-sea-trade",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "红海贸易将阿克苏姆与晚期罗马/拜占庭及印度洋网络联系起来（Manzo；Munro-Hay）。",
+    "en": "Red Sea trade linked Aksum to late Roman/Byzantine and Indian Ocean networks (Manzo; Munro-Hay).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-adulis-port"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-manzo-deepen",
+    "src-aksum-munro-hay-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

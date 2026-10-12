@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-adulis-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "阿杜利斯加深",
+    "en": "Adulis deepen",
+    "native": null
+  },
+  "kind_note": "Red Sea port of Aksumite trade",
+  "region": "Zula Gulf, Eritrea",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "红海贸易港加深指针。",
+    "en": "Red Sea trade-port deepen orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-burstein-periplus",
+    "src-aksum-manzo-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

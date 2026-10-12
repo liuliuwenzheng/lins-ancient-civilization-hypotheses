@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-mapping-density",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "TMP 测绘表明经典期大都会密度与网格规整度（Millon；TMP data papers）。",
+    "en": "TMP mapping indicates metropolitan density and grid regularity in the Classic city (Millon; TMP data papers).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-tmp-data-paper"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

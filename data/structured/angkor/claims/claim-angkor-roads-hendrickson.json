@@ -1,0 +1,33 @@
+{
+  "id": "claim-angkor-roads-hendrickson",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "道路/通讯网络研究将吴哥与腹地据点联系起来（Hendrickson 取向）。",
+    "en": "Road/communication studies link Angkor to hinterland nodes (Hendrickson orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-beng-mealea-orientation",
+    "site-angkor-koh-ker-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-hendrickson-roads",
+    "src-angkor-higham-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-aksum-yeha-pre",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "耶哈大庙等遗存支撑前阿克苏姆高地复合体讨论（Finneran；Yeha 研究传统）。",
+    "en": "Yeha Great Temple and related remains support discussion of a pre-Aksumite highland complex.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-yeha-pre-aksumite"
+  ],
+  "period_ids": [
+    "period-pre-aksumite-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-yeha-deepen",
+    "src-aksum-finneran-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

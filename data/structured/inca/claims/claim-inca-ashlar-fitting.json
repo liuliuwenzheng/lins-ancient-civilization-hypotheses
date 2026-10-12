@@ -1,0 +1,33 @@
+{
+  "id": "claim-inca-ashlar-fitting",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "石作研究表明部分精琢石块经试拼与精密加工，而非‘无法解释的技术’（Protzen 传统）。",
+    "en": "Ashlar studies show trial-fitting and precise working—not ‘inexplicable technology’ (Protzen tradition).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-ollantaytambo-orientation",
+    "site-machu-picchu"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-ashlar-technology",
+    "src-inca-protzen-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

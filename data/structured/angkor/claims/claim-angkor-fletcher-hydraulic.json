@@ -1,0 +1,33 @@
+{
+  "id": "claim-angkor-fletcher-hydraulic",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Fletcher 等将吴哥表述为依赖大型水库—渠道系统的水利都市（hydraulic city 传统）。",
+    "en": "Fletcher and others frame Angkor as a hydraulic city dependent on large reservoir–canal systems.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-west-baray-orientation",
+    "site-angkor-east-baray-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-fletcher-water",
+    "src-angkor-penny-paleoenv"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

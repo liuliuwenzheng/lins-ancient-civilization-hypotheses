@@ -1,0 +1,34 @@
+{
+  "id": "claim-classic-maya-multi-polity-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "经典玛雅不是单一帝国，而是多个神圣王权政体并存并竞争（Martin & Grube；Sharer & Traxler）。",
+    "en": "Classic Maya was not a single empire but multiple divine-kingship polities in coexistence and competition.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-calakmul-classic",
+    "site-copan-classic"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

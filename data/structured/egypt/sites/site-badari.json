@@ -19,13 +19,18 @@
     "src-egypt-brunton-caton-thompson-badarian-1928",
     "src-egypt-brunton-qau-badari-i-1927"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 27.0,
+    "lon": 31.41667,
+    "precision_note": "嘻嘻 reply 2026-10-12 grade=S; S(Wikidata P625); source=https://www.wikidata.org/wiki/Q798844; WGS84 27.0,31.41667"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
-      "sources/src-*"
+      "sources/src-*",
+      "docs/handoffs/2026-10-12-xixi-coords-P-grade.csv"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. | D-2026-10-12-20: filled coords from 嘻嘻 P-grade CSV (S)."
   }
 }

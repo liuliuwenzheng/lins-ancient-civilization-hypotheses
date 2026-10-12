@@ -1,0 +1,34 @@
+{
+  "id": "claim-angkor-wat-suryavarman",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "吴哥窟与苏利耶跋摩二世王室崇拜/政治神学相关（碑铭与建筑史学取向）。",
+    "en": "Angkor Wat is linked to Suryavarman II’s royal cult/political theology (epigraphic and architectural historiography).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat"
+  ],
+  "period_ids": [
+    "period-angkor-suryavarman-ii"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-jacques-epigraphy-deepen",
+    "src-angkor-freeman-jacques-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

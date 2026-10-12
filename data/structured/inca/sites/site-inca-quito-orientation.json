@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-quito-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "基多北部行政指针",
+    "en": "Quito northern admin orientation",
+    "native": null
+  },
+  "kind_note": "Northern imperial administrative node orientation",
+  "region": "Ecuador (Inca north)",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "北部行政节点指针。",
+    "en": "Northern administrative node orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-topic-huamachuco",
+    "src-inca-daltroy-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

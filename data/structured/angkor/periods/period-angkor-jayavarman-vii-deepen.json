@@ -1,0 +1,36 @@
+{
+  "id": "period-angkor-jayavarman-vii-deepen",
+  "entity": "period",
+  "names": {
+    "zh": "阇耶跋摩七世加深窗",
+    "en": "Jayavarman VII deepen window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "Bayon / hospital / road-era florescence",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Bayon / hospital / road-era florescence"
+  },
+  "summary": {
+    "zh": "巴戎—医院—道路繁荣窗。",
+    "en": "Bayon–hospital–road florescence window.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-bayon-efeo",
+    "src-angkor-jacques-epigraphy-deepen"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

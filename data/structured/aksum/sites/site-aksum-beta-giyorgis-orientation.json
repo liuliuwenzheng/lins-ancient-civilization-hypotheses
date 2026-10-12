@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-beta-giyorgis-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "别塔·吉约吉斯（指针）",
+    "en": "Bieta Giyorgis (orientation)",
+    "native": null
+  },
+  "kind_note": "Hill site with Aksumite elite architecture",
+  "region": "Aksum, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "山丘精英建筑指针。",
+    "en": "Hilltop elite architecture orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-fattovich-bard-deepen",
+    "src-aksum-phillipson-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

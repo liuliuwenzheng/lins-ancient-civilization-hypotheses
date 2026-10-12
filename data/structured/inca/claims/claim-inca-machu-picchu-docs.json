@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-machu-picchu-docs",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文马丘比丘文件页提供遗产地保护与管理取向材料（UNESCO 274 documents）。",
+    "en": "UNESCO Machu Picchu documents page provides site protection/management orientation materials.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-machu-picchu"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-unesco-mp-deepen",
+    "src-inca-unesco-machu-picchu-274"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

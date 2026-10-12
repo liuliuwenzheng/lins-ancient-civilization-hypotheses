@@ -1,0 +1,33 @@
+{
+  "id": "claim-angkor-evans-lidar",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Evans 等用机载激光雷达揭示吴哥都市居住与水利景观远超寺院核心（PNAS 2013）。",
+    "en": "Evans et al. use airborne lidar to show Angkor urban habitation and water landscapes far beyond temple cores (PNAS 2013).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-thom",
+    "site-angkor-wat"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-evans-pnas-2013",
+    "src-angkor-gwsn-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

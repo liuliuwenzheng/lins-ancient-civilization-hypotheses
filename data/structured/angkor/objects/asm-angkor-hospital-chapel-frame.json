@@ -1,0 +1,43 @@
+{
+  "id": "asm-angkor-hospital-chapel-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "医院小堂网络指针",
+    "en": "Hospital-chapel network pointer",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-preah-khan-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "阇耶跋摩七世医院网络指针。",
+    "en": "Jayavarman VII hospital-network pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-epigraphy-deepen",
+    "src-angkor-hendrickson-roads"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-late-transformation",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "晚期阿克苏姆变迁与红海贸易格局变化相关，具体因果仍在讨论（研究假说空间）。",
+    "en": "Late Aksumite transformation correlates with Red Sea trade shifts; specific causality remains discussed.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aksumite-late-decline"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-munro-hay-deepen",
+    "src-aksum-manzo-deepen"
+  ],
+  "disclaimer": "No single settled decline mechanism. / 衰落机制未有单一定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

@@ -31,6 +31,6 @@
       "sources/src-indus-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note). | D-2026-10-12-20: S-row matched but existing coords kept (no overwrite); CSV=30.62888889,72.86388889 grade=S url=https://en.wikipedia.org/wiki/Harappa"
   }
 }

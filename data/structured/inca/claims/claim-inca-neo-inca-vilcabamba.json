@@ -1,0 +1,34 @@
+{
+  "id": "claim-inca-neo-inca-vilcabamba",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "乙诺史将比尔卡班巴表述为殖民早期新印加抵抗中心（Julien / D’Altroy 取向）。",
+    "en": "Ethnohistory frames Vilcabamba as a neo-Inca resistance centre in the early colonial period.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-vilcabamba-orientation"
+  ],
+  "period_ids": [
+    "period-inca-neo-inca"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-julien-orientation",
+    "src-inca-daltroy-2014"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

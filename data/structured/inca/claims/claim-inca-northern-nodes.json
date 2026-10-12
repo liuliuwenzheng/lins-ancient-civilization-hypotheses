@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-northern-nodes",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "北部行政节点（含今厄瓜多方向）显示帝国道路与再分配网络的延伸（Topic 等取向）。",
+    "en": "Northern administrative nodes (including toward modern Ecuador) show extension of road and redistribution networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-quito-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-topic-huamachuco",
+    "src-inca-hyslop-roads-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

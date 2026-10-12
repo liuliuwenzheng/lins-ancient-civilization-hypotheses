@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-pottier-habitation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pottier/EFEO 测绘强调寺院之外的居住与稻田景观（habitation beyond temples）。",
+    "en": "Pottier/EFEO mapping emphasizes habitation and rice-field landscapes beyond temples.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-thom"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-pottier-efeo-deepen",
+    "src-angkor-evans-pnas-2013"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

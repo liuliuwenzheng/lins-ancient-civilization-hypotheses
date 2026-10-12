@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-unesco-docs",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文吴哥文件页汇总世界遗产保护与国际合作材料（UNESCO 668 documents）。",
+    "en": "UNESCO Angkor documents page aggregates World Heritage protection and international cooperation materials.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-unesco-668-docs",
+    "src-angkor-unesco-668"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_batch_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-19"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+  }
+}

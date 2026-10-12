@@ -30,6 +30,6 @@
       "sources/src-mesopotamia-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Key sites § Ur; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note)."
+    "notes": "Key sites § Ur; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer (see precision_note). | D-2026-10-12-20: S-row matched but existing coords kept (no overwrite); CSV=30.962222,46.104444 grade=S url=https://www.wikidata.org/wiki/Q5699"
   }
 }
