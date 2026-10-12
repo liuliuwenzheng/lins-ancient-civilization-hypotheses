@@ -1,0 +1,19 @@
+{
+  "id": "src-tiwanaku-janusek-2008",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Janusek, John Wayne. 2008. Ancient Tiwanaku. Case Studies in Early Societies. Cambridge: Cambridge University Press.",
+  "url": "https://www.cambridge.org/us/universitypress/subjects/archaeology/archaeology-americas/ancient-tiwanaku",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Cambridge case-study synthesis; publisher subject landing.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

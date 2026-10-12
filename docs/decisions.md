@@ -692,3 +692,19 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified:** `export_check` OK (**20** packs; citation gate green).
 
 **Notes:** Still far from Egypt/Mesopotamia `fact-library` density. Prefer honest thin over fake dense. Tooling: `tools/wave1_shells/densify_wave1.py` + `densify_payloads/*.json`.
+
+
+### D-2026-10-12-14 — Wave-2 shells
+
+**Decision:** Open **nine Wave-2 `library-seed` shells** from the coverage-map priority list (D-2026-10-12-12), without thinning existing dense or Wave-1 packs. Same integrity rules as Wave-1: real P/S/T sources only; abstract/TOC-level claims; no invented finds, coordinates, page numbers, or media art.
+
+**Wave-2 pack ids:** `chavin-andes`, `tiwanaku`, `wari`, `classic-maya`, `aksum`, `ban-chiang`, `early-korea`, `mitanni`, `phoenician` (each `civ-*` + structured pack; 5 Sources; 2–3 Sites; 1 Period; 1 Object; 1 sourced Claim; 0 media).
+
+**Not opened (remain Wave-3 / Missing):** Cahokia/Mississippian; Ancestral Puebloan; Great Zimbabwe; West African medieval empires; Iberian Bronze; Hallstatt; Nuragic; Rapa Nui; full Inca; Moche; Aztec/Mexica; Mixtec; Angkor/Funan; Cyprus LBA — see [`coverage-map.md`](coverage-map.md).
+
+**Docs:** Coverage map + README listings updated. Generator: `tools/wave2_shells/generate_wave2.py`.
+
+**Verified:** `export_check` OK (**29** packs; citation gate green). API/UI auto-discover via `data/structured/*/civilization.json`.
+
+**Notes:** Chavín pack uses distinct site id `site-chavin-huantar-type` so it does not collide with Andes comparative `site-chavin-de-huantar`. Honesty of thin shells beats fake density.
+

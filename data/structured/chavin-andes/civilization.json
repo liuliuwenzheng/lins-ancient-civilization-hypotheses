@@ -1,0 +1,52 @@
+{
+  "id": "civ-chavin",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "查文（早地平线安第斯）",
+    "en": "Chavín (Early Horizon Andes)",
+    "native": "Chavín"
+  },
+  "region": "South America / north-central Peruvian Andes (Ancash; Mosna–Huachecsa)",
+  "time_span": "Early Horizon ceremonial florescence ca. 1000–400 BCE (Burger / UNESCO site frame)",
+  "summary": {
+    "zh": "查文档案壳（library-seed）：Burger 综合 + 查文德万塔尔教科文；与北奇科安第斯包并立。",
+    "en": "Chavín archive shell (library-seed): Burger synthesis + Chavín de Huántar UNESCO; alongside Caral–Norte Chico Andes pack."
+  },
+  "sources": [
+    "src-chavin-unesco-330",
+    "src-chavin-burger-origins-1992",
+    "src-chavin-burger-ucp-1984",
+    "src-chavin-nesbitt-burger-2023",
+    "src-chavin-rick-stanford-orientation"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type",
+    "site-chavin-interaction-orientation"
+  ],
+  "period_ids": [
+    "period-chavin-early-horizon"
+  ],
+  "claim_ids": [
+    "claim-chavin-ceremonial-centre-frame"
+  ],
+  "object_ids": [
+    "asm-chavin-lithic-sculpture-frame"
+  ],
+  "related_ids": [
+    "civ-andes",
+    "civ-tiwanaku",
+    "civ-wari"
+  ],
+  "markdown_path": "data/civilizations/civ-chavin.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

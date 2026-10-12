@@ -1,0 +1,44 @@
+{
+  "id": "asm-wari-provincial-architecture-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦里行省建筑框架组合",
+    "en": "Wari provincial-architecture frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-huari-ayacucho",
+    "site-pikillacta"
+  ],
+  "period_ids": [
+    "period-wari-middle-horizon"
+  ],
+  "summary": {
+    "zh": "壳级矩形围合行政建筑指针。",
+    "en": "Shell rectangular enclosure administrative architecture pointer."
+  },
+  "sources": [
+    "src-wari-schreiber-1992",
+    "src-wari-mcewan-pikillacta"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

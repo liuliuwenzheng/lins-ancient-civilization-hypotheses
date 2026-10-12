@@ -1,0 +1,32 @@
+{
+  "id": "site-byblos-gubla",
+  "entity": "site",
+  "names": {
+    "zh": "比布鲁斯（古布拉）",
+    "en": "Byblos (Gubla)",
+    "native": "Gubla / Byblos"
+  },
+  "kind_note": "Long-lived Levantine coastal centre; UNESCO WH",
+  "region": "Mount Lebanon Governorate, Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "长时段黎凡特海岸中心；教科文名录。",
+    "en": "Long-lived Levantine coastal centre; UNESCO listed."
+  },
+  "sources": [
+    "src-phoenician-unesco-byblos-295",
+    "src-phoenician-markoe-2000"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

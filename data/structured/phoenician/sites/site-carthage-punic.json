@@ -1,0 +1,32 @@
+{
+  "id": "site-carthage-punic",
+  "entity": "site",
+  "names": {
+    "zh": "迦太基",
+    "en": "Carthage",
+    "native": "Qart-ḥadašt"
+  },
+  "kind_note": "Major western Punic capital; UNESCO WH",
+  "region": "Tunis Governorate, Tunisia",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "西地中海布匿大都；教科文名录。",
+    "en": "Major western Punic capital; UNESCO listed."
+  },
+  "sources": [
+    "src-phoenician-unesco-carthage-37",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

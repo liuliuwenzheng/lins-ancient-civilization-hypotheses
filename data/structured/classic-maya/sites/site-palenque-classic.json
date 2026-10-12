@@ -1,0 +1,32 @@
+{
+  "id": "site-palenque-classic",
+  "entity": "site",
+  "names": {
+    "zh": "帕伦克",
+    "en": "Palenque",
+    "native": "Lakamhaʾ / Palenque"
+  },
+  "kind_note": "Western Classic Maya court centre; UNESCO WH",
+  "region": "Chiapas, Mexico",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "西部经典期宫廷中心；教科文名录。",
+    "en": "Western Classic court centre; UNESCO listed."
+  },
+  "sources": [
+    "src-classic-maya-unesco-palenque-411",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

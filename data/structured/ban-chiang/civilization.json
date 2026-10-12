@@ -1,0 +1,51 @@
+{
+  "id": "civ-ban-chiang",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "班清（泰国）",
+    "en": "Ban Chiang (Thailand)",
+    "native": "บ้านเชียง / Ban Chiang"
+  },
+  "region": "Mainland Southeast Asia / Khorat Plateau, northeast Thailand (Mekong watershed)",
+  "time_span": "Prehistoric settlement and cemetery continuum often framed mid–late 2nd to 1st millennium BCE (UNESCO / White–Higham research tradition; absolute debates open)",
+  "summary": {
+    "zh": "班清档案壳：教科文史前定居/墓地 + White/Higham 研究传统；与东山包区分。",
+    "en": "Ban Chiang archive shell: UNESCO prehistoric settlement/cemetery + White/Higham research tradition; distinct from Đông Sơn pack."
+  },
+  "sources": [
+    "src-ban-chiang-unesco-575",
+    "src-ban-chiang-white-penn-orientation",
+    "src-ban-chiang-higham-sea-bronze",
+    "src-ban-chiang-white-hamilton-orientation",
+    "src-ban-chiang-pigott-metal-orientation"
+  ],
+  "site_ids": [
+    "site-ban-chiang-udon",
+    "site-ban-non-wat-orientation"
+  ],
+  "period_ids": [
+    "period-ban-chiang-prehistoric"
+  ],
+  "claim_ids": [
+    "claim-ban-chiang-prehistoric-settlement"
+  ],
+  "object_ids": [
+    "asm-ban-chiang-pottery-metal-frame"
+  ],
+  "related_ids": [
+    "civ-dong-son",
+    "civ-china-bronze"
+  ],
+  "markdown_path": "data/civilizations/civ-ban-chiang.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

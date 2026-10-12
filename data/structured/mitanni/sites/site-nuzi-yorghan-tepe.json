@@ -1,0 +1,32 @@
+{
+  "id": "site-nuzi-yorghan-tepe",
+  "entity": "site",
+  "names": {
+    "zh": "努兹（约尔汗·特佩）",
+    "en": "Nuzi (Yorghan Tepe)",
+    "native": "Nuzi"
+  },
+  "kind_note": "Hurrian-period administrative centre with large tablet archive",
+  "region": "Near Kirkuk, Iraq",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "胡里安期行政中心，泥板档案丰富。",
+    "en": "Hurrian-period administrative centre with large tablet archive."
+  },
+  "sources": [
+    "src-mitanni-nuzi-orientation",
+    "src-mitanni-wilhelm-hurrians-1989"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

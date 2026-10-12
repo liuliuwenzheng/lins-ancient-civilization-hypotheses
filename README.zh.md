@@ -94,13 +94,15 @@ lins-ancient-civilization-hypotheses/
 
 模板已明确标为模板；**不会**预填虚构案例。
 
-**资料库状态（2026-10-12）：** `data/structured/` 下 **20** 个结构化包 — **9 个密包**（`fact-library`）+ **11 个第一波壳**（`library-seed`）。覆盖图：[`docs/coverage-map.zh.md`](docs/coverage-map.zh.md) · [English](docs/coverage-map.md)。深度：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md)。决策：[`docs/decisions.zh.md`](docs/decisions.zh.md)（D-2026-10-12-12）。
+**资料库状态（2026-10-12）：** `data/structured/` 下 **29** 个结构化包 — **9 个密包**（`fact-library`）+ **11 个第一波**（`library-seed-rich`）+ **9 个第二波壳**（`library-seed`）。覆盖图：[`docs/coverage-map.zh.md`](docs/coverage-map.zh.md) · [English](docs/coverage-map.md)。深度：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md)。决策：[`docs/decisions.zh.md`](docs/decisions.zh.md)（D-2026-10-12-14）。
 
 **密包（9）：** mesopotamia · egypt · andes · indus · china-bronze · sanxingdui · aegean · olmec · early-maya
 
-**第一波壳（11）：** elam-iran · nubia-kush · anatolia-hittite · levant-ugarit · bmac-oxus · nok-west-africa · teotihuacan · zapotec · lapita-pacific · dong-son · jomon-yayoi
+**第一波（11，已加厚）：** elam-iran · nubia-kush · anatolia-hittite · levant-ugarit · bmac-oxus · nok-west-africa · teotihuacan · zapotec · lapita-pacific · dong-son · jomon-yayoi
 
-API/UI 自动发现全部包；壳故意偏薄 — 诚信优于虚荣密度。
+**第二波壳（9）：** chavin-andes · tiwanaku · wari · classic-maya · aksum · ban-chiang · early-korea · mitanni · phoenician
+
+API/UI 自动发现全部包；第二波壳故意偏薄 — 诚信优于虚荣密度。
 
 - **设计品味** — 创作者原则 + UI/API/README 清单：[`docs/design-taste.zh.md`](docs/design-taste.zh.md) · [English](docs/design-taste.md)
 - **条目深度** — 必填栏目、来源下限、状态阶梯：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md) · [English](docs/entry-depth.md)

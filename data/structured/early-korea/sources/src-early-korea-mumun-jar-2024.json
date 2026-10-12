@@ -1,0 +1,19 @@
+{
+  "id": "src-early-korea-mumun-jar-2024",
+  "entity": "source",
+  "type": "article",
+  "citation": "Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea. Journal of Archaeological Research (2024). https://doi.org/10.1007/s10814-024-09204-7",
+  "url": "https://link.springer.com/article/10.1007/s10814-024-09204-7",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Recent peer-reviewed synthesis of Mumun transition; DOI landing.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

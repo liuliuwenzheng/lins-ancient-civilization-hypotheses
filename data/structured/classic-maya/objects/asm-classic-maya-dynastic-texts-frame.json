@@ -1,0 +1,44 @@
+{
+  "id": "asm-classic-maya-dynastic-texts-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "经典玛雅王朝铭文框架组合",
+    "en": "Classic Maya dynastic-texts frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-palenque-classic"
+  ],
+  "period_ids": [
+    "period-classic-maya-floruit"
+  ],
+  "summary": {
+    "zh": "壳级碑铭/宫廷文本传统指针。",
+    "en": "Shell stela/court-text tradition pointer."
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-coe-houston-maya"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

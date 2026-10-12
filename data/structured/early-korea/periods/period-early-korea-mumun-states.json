@@ -1,0 +1,34 @@
+{
+  "id": "period-early-korea-mumun-states",
+  "entity": "period",
+  "names": {
+    "zh": "无纹–早期国家综述窗",
+    "en": "Mumun–early states overview window"
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "time": {
+    "label": "Mumun ca. 1500–300 BCE into early historic state formation (Barnes/Nelson)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": null,
+    "scheme_note": "Long overview; Three Kingdoms absolute bands deferred."
+  },
+  "summary": {
+    "zh": "壳级长窗。",
+    "en": "Shell long overview window."
+  },
+  "sources": [
+    "src-early-korea-barnes-2001",
+    "src-early-korea-nelson-1993"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

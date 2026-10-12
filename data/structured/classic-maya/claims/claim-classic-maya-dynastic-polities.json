@@ -1,0 +1,37 @@
+{
+  "id": "claim-classic-maya-dynastic-polities",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "铭文学与考古综合将经典期玛雅低地表述为多个有文字记录的王朝城邦网络，蒂卡尔与帕伦克等为其中关键宫廷（Martin & Grube 2008；UNESCO 64/411）。",
+    "en": "Epigraphy and archaeological synthesis frame the Classic Maya lowlands as a network of literate dynastic polities, with courts such as Tikal and Palenque among key centres (Martin & Grube 2008; UNESCO 64/411)."
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-palenque-classic"
+  ],
+  "period_ids": [
+    "period-classic-maya-floruit"
+  ],
+  "object_ids": [
+    "asm-classic-maya-dynastic-texts-frame"
+  ],
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-unesco-tikal-64",
+    "src-classic-maya-unesco-palenque-411"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

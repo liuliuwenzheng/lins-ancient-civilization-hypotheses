@@ -1,0 +1,51 @@
+{
+  "id": "civ-early-korea",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "朝鲜半岛早期（无纹–早期国家）",
+    "en": "Early Korea (Mumun–early states)",
+    "native": "무문 / 고조선–삼국 형성기 (scholarly frame)"
+  },
+  "region": "East Asia / Korean peninsula",
+  "time_span": "Mumun pottery period ca. 1500–300 BCE into early historic state formation (Barnes / Nelson frames)",
+  "summary": {
+    "zh": "朝鲜半岛早期档案壳：Mumun 农业社会 + Barnes 国家形成；library-seed。",
+    "en": "Early Korea archive shell: Mumun agricultural societies + Barnes state-formation; library-seed."
+  },
+  "sources": [
+    "src-early-korea-barnes-2001",
+    "src-early-korea-nelson-1993",
+    "src-early-korea-byington-early-korea",
+    "src-early-korea-mumun-jar-2024",
+    "src-early-korea-unesco-gongju-baekje"
+  ],
+  "site_ids": [
+    "site-mumun-settlement-orientation",
+    "site-baekje-historic-orientation"
+  ],
+  "period_ids": [
+    "period-early-korea-mumun-states"
+  ],
+  "claim_ids": [
+    "claim-early-korea-mumun-agriculture"
+  ],
+  "object_ids": [
+    "asm-early-korea-mumun-megalith-frame"
+  ],
+  "related_ids": [
+    "civ-jomon-yayoi",
+    "civ-china-bronze"
+  ],
+  "markdown_path": "data/civilizations/civ-early-korea.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

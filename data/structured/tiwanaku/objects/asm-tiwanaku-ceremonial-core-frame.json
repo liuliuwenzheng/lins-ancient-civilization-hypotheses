@@ -1,0 +1,43 @@
+{
+  "id": "asm-tiwanaku-ceremonial-core-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "蒂瓦纳科仪礼核心框架组合",
+    "en": "Tiwanaku ceremonial-core frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-capital"
+  ],
+  "period_ids": [
+    "period-tiwanaku-middle-horizon"
+  ],
+  "summary": {
+    "zh": "壳级 Akapana/Kalasasaya 等建筑指针。",
+    "en": "Shell Akapana/Kalasasaya architecture pointer."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-mitanni-wilhelm-hurrians-1989",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Wilhelm, Gernot. 1989. The Hurrians. Warminster: Aris & Phillips (English translation of Grundzüge der Geschichte und Kultur der Hurriter).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Standard Hurrian/Mitanni historical synthesis; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

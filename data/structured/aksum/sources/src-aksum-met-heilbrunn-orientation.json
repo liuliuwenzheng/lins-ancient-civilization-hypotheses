@@ -1,0 +1,19 @@
+{
+  "id": "src-aksum-met-heilbrunn-orientation",
+  "entity": "source",
+  "type": "web",
+  "citation": "Metropolitan Museum of Art Heilbrunn Timeline — Aksum overview essay (public orientation; tier T).",
+  "url": "https://www.metmuseum.org/essays/the-monumental-stelae-of-aksum-3rd-4th-century",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Met Heilbrunn/essays public essay on Aksum stelae; not a substitute for excavation reports.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

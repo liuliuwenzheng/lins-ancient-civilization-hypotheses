@@ -1,0 +1,39 @@
+{
+  "id": "claim-phoenician-coastal-western-expansion",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "学术综合将腓尼基表述为黎凡特海岸城邦传统，并在铁器时代向西地中海殖民扩张，比布鲁斯、推罗与迦太基为其中关键节点（Aubet 2001；UNESCO 295/299/37）。",
+    "en": "Syntheses frame Phoenician as a Levantine coastal city-state tradition with Iron Age colonial expansion into the western Mediterranean, with Byblos, Tyre, and Carthage among key nodes (Aubet 2001; UNESCO 295/299/37)."
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-byblos-gubla",
+    "site-tyre-sur",
+    "site-carthage-punic"
+  ],
+  "period_ids": [
+    "period-phoenician-iron-punic"
+  ],
+  "object_ids": [
+    "asm-phoenician-maritime-trade-frame"
+  ],
+  "sources": [
+    "src-phoenician-aubet-west-2001",
+    "src-phoenician-unesco-byblos-295",
+    "src-phoenician-unesco-tyre-299",
+    "src-phoenician-unesco-carthage-37"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

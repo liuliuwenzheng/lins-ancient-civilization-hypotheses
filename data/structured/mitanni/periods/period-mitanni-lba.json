@@ -1,0 +1,34 @@
+{
+  "id": "period-mitanni-lba",
+  "entity": "period",
+  "names": {
+    "zh": "米坦尼晚青铜繁荣窗",
+    "en": "Mitanni LBA floruit"
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "ca. 15th–13th c. BCE (Wilhelm/Bryce frames)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 1250,
+    "scheme_note": "Political-narrative window; absolute debates open."
+  },
+  "summary": {
+    "zh": "壳级晚青铜政治窗。",
+    "en": "Shell LBA political window."
+  },
+  "sources": [
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

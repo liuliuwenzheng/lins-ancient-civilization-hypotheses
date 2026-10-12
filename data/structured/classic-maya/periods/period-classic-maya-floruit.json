@@ -1,0 +1,34 @@
+{
+  "id": "period-classic-maya-floruit",
+  "entity": "period",
+  "names": {
+    "zh": "经典玛雅繁荣窗",
+    "en": "Classic Maya floruit"
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "broadly 250–900 CE (Martin–Grube / Coe–Houston frames)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "CE Classic span; Early/Late Classic subdivisions deferred."
+  },
+  "summary": {
+    "zh": "壳级经典期窗。",
+    "en": "Shell Classic-period window."
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-coe-houston-maya"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

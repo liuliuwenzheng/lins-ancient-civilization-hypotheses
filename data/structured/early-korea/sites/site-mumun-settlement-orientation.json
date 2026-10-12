@@ -1,0 +1,32 @@
+{
+  "id": "site-mumun-settlement-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "无纹陶器聚落（指针）",
+    "en": "Mumun settlement frame (orientation)",
+    "native": "무문 취락"
+  },
+  "kind_note": "Regional Mumun pit-house / megalithic burial tradition frame — not a single site point",
+  "region": "Korean peninsula river valleys",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "壳级无纹期聚落/支石墓传统指针。",
+    "en": "Shell Mumun settlement / megalithic-burial tradition pointer."
+  },
+  "sources": [
+    "src-early-korea-nelson-1993",
+    "src-early-korea-mumun-jar-2024"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

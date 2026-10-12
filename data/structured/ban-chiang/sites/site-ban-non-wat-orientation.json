@@ -1,0 +1,32 @@
+{
+  "id": "site-ban-non-wat-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "班农瓦特（指针）",
+    "en": "Ban Non Wat (orientation)",
+    "native": "Ban Non Wat"
+  },
+  "kind_note": "Related NE Thai prehistoric centre often discussed with Ban Chiang chronology debates",
+  "region": "Nakhon Ratchasima region, Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "常与班清年代学辩论一并讨论的东北泰史前遗址指针。",
+    "en": "Related NE Thai prehistoric site often discussed with Ban Chiang chronology debates."
+  },
+  "sources": [
+    "src-ban-chiang-higham-sea-bronze",
+    "src-ban-chiang-white-hamilton-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

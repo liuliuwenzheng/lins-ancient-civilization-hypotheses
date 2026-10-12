@@ -1,0 +1,32 @@
+{
+  "id": "site-adulis-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿杜利斯（指针）",
+    "en": "Adulis (orientation)",
+    "native": "Adulis"
+  },
+  "kind_note": "Red Sea port associated with Aksumite trade",
+  "region": "Eritrean Red Sea coast",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "与阿克苏姆贸易相关的红海港口指针。",
+    "en": "Red Sea port orientation associated with Aksumite trade."
+  },
+  "sources": [
+    "src-aksum-phillipson-2012",
+    "src-aksum-munro-hay-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-capital",
+  "entity": "site",
+  "names": {
+    "zh": "蒂瓦纳科",
+    "en": "Tiwanaku",
+    "native": "Tiwanaku"
+  },
+  "kind_note": "Highland ceremonial–political capital; UNESCO WH",
+  "region": "La Paz Department, Bolivia",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "的的喀喀湖盆地高原仪礼—政治中心；教科文名录。",
+    "en": "Titicaca-basin highland ceremonial–political centre; UNESCO listed."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993",
+    "src-tiwanaku-janusek-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-chavin-burger-ucp-1984",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Burger, Richard L. 1984. The Prehistoric Occupation of Chavín de Huántar, Peru. University of California Publications in Anthropology 14. Berkeley: University of California Press.",
+  "url": "https://catalogue.nla.gov.au/catalog/2066171",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Foundational excavation/ceramic-sequence monograph; NLA catalogue pointer.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

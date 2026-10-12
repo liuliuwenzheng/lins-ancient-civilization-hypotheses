@@ -1,0 +1,19 @@
+{
+  "id": "src-tiwanaku-isbell-vranich-orientation",
+  "entity": "source",
+  "type": "article",
+  "citation": "Isbell, William H., and Alexei Vranich — architectural and urban analyses of Tiwanaku ceremonial core (handbook / collected essays tradition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Architectural-urban orientation pointer; deepen with specific chapter citations.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

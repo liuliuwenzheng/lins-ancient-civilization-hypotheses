@@ -1,0 +1,19 @@
+{
+  "id": "src-aksum-phillipson-2012",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Phillipson, David W. 2012. Foundations of an African Civilisation: Aksum and the Northern Horn, 1000 BC–AD 1300. Woodbridge: James Currey.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Major English synthesis of Aksumite civilization; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

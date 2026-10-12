@@ -1,0 +1,19 @@
+{
+  "id": "src-chavin-nesbitt-burger-2023",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Nesbitt, Jason, and Richard L. Burger, eds. 2023. Reconsidering the Chavín Phenomenon in the Twenty-First Century. Dumbarton Oaks / Harvard University Press.",
+  "url": "https://www.hup.harvard.edu/books/9780884024996",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Recent edited volume on Chavín interaction sphere; volume orientation only.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

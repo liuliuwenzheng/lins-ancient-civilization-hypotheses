@@ -1,0 +1,35 @@
+{
+  "id": "claim-aksum-highland-kingdom",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将阿克苏姆表述为公元1–8世纪埃塞俄比亚高原重要王国，以石碑、王陵与红海贸易为标志（UNESCO 15；Phillipson 2012）。",
+    "en": "UNESCO and scholarly syntheses frame Aksum as a major highland kingdom of the 1st–8th centuries CE in northern Ethiopia, marked by stelae, royal tombs, and Red Sea trade (UNESCO 15; Phillipson 2012)."
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [
+    "period-aksumite-floruit"
+  ],
+  "object_ids": [
+    "asm-aksum-stelae-frame"
+  ],
+  "sources": [
+    "src-aksum-unesco-15",
+    "src-aksum-phillipson-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

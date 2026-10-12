@@ -1,0 +1,43 @@
+{
+  "id": "asm-early-korea-mumun-megalith-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "无纹–支石墓框架组合",
+    "en": "Mumun–megalithic frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-mumun-settlement-orientation"
+  ],
+  "period_ids": [
+    "period-early-korea-mumun-states"
+  ],
+  "summary": {
+    "zh": "壳级无纹陶/支石墓传统指针。",
+    "en": "Shell Mumun pottery / megalithic tradition pointer."
+  },
+  "sources": [
+    "src-early-korea-nelson-1993",
+    "src-early-korea-mumun-jar-2024"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

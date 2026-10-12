@@ -1,0 +1,34 @@
+{
+  "id": "period-phoenician-iron-punic",
+  "entity": "period",
+  "names": {
+    "zh": "腓尼基铁器–布匿扩张窗",
+    "en": "Phoenician Iron Age–Punic expansion window"
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "Iron Age Levantine floruit into western Punic expansion (Aubet/Markoe)",
+    "approx_from_bce": 1200,
+    "approx_to_bce": 146,
+    "scheme_note": "Long overview to conventional fall of Carthage 146 BCE; subdivisions deferred."
+  },
+  "summary": {
+    "zh": "壳级长窗。",
+    "en": "Shell long overview window."
+  },
+  "sources": [
+    "src-phoenician-aubet-west-2001",
+    "src-phoenician-markoe-2000"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

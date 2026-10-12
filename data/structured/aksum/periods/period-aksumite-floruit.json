@@ -1,0 +1,34 @@
+{
+  "id": "period-aksumite-floruit",
+  "entity": "period",
+  "names": {
+    "zh": "阿克苏姆王国繁荣窗",
+    "en": "Aksumite kingdom floruit"
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "time": {
+    "label": "broadly 1st–8th c. CE (UNESCO / Phillipson frames)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "CE floruit; earlier proto-Aksumite deferred."
+  },
+  "summary": {
+    "zh": "壳级阿克苏姆繁荣窗。",
+    "en": "Shell Aksumite floruit window."
+  },
+  "sources": [
+    "src-aksum-unesco-15",
+    "src-aksum-phillipson-2012"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

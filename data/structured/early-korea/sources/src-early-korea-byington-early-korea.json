@@ -1,0 +1,19 @@
+{
+  "id": "src-early-korea-byington-early-korea",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Byington, Mark E., ed. Early Korea volumes (Early Korea Project, Korea Institute, Harvard University) — archaeology and early history essay collections.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Harvard Early Korea Project edited-volume series orientation; institutional URL deepen when stable.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

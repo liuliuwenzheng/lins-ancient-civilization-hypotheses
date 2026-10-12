@@ -1,0 +1,32 @@
+{
+  "id": "site-tikal-classic",
+  "entity": "site",
+  "names": {
+    "zh": "蒂卡尔",
+    "en": "Tikal",
+    "native": "Tikal"
+  },
+  "kind_note": "Major Classic Maya capital; UNESCO WH",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "经典期低地大都；教科文名录。",
+    "en": "Major Classic lowland capital; UNESCO listed."
+  },
+  "sources": [
+    "src-classic-maya-unesco-tikal-64",
+    "src-classic-maya-martin-grube-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "civ-tiwanaku",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "蒂瓦纳科",
+    "en": "Tiwanaku",
+    "native": "Tiwanaku / Tiahuanaco"
+  },
+  "region": "South America / Lake Titicaca basin (Bolivia; Peru altiplano contacts)",
+  "time_span": "Middle Horizon highland centre floruit broadly mid–late 1st millennium CE (Kolata / Janusek frames)",
+  "summary": {
+    "zh": "蒂瓦纳科档案壳：Kolata/Janusek 综合 + 教科文；library-seed。",
+    "en": "Tiwanaku archive shell: Kolata/Janusek synthesis + UNESCO; library-seed."
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993",
+    "src-tiwanaku-janusek-2008",
+    "src-tiwanaku-kolata-ed-tiwanaku",
+    "src-tiwanaku-isbell-vranich-orientation"
+  ],
+  "site_ids": [
+    "site-tiwanaku-capital",
+    "site-tiwanaku-lukurmata-orientation"
+  ],
+  "period_ids": [
+    "period-tiwanaku-middle-horizon"
+  ],
+  "claim_ids": [
+    "claim-tiwanaku-titicaca-centre"
+  ],
+  "object_ids": [
+    "asm-tiwanaku-ceremonial-core-frame"
+  ],
+  "related_ids": [
+    "civ-andes",
+    "civ-chavin",
+    "civ-wari"
+  ],
+  "markdown_path": "data/civilizations/civ-tiwanaku.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

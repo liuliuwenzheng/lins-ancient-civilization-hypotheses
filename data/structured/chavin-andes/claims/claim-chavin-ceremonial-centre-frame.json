@@ -1,0 +1,35 @@
+{
+  "id": "claim-chavin-ceremonial-centre-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将查文德万塔尔表述为安第斯早地平线重要仪礼与朝圣中心，并以特色石雕与建筑群为标志（UNESCO 330；Burger 1992）。",
+    "en": "UNESCO and scholarly syntheses frame Chavín de Huántar as a major Early Horizon Andean ceremonial and pilgrimage centre marked by distinctive lithic sculpture and monumental architecture (UNESCO 330; Burger 1992)."
+  },
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "site_ids": [
+    "site-chavin-huantar-type"
+  ],
+  "period_ids": [
+    "period-chavin-early-horizon"
+  ],
+  "object_ids": [
+    "asm-chavin-lithic-sculpture-frame"
+  ],
+  "sources": [
+    "src-chavin-unesco-330",
+    "src-chavin-burger-origins-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

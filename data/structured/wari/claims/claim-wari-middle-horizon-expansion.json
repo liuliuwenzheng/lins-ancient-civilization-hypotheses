@@ -1,0 +1,36 @@
+{
+  "id": "claim-wari-middle-horizon-expansion",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "考古研究将瓦里表述为秘鲁中地平线以阿亚库乔高原中心向外扩张、并在库斯科等地建立行省行政中心的复杂社会（Schreiber 1992；Isbell & Schreiber 1978）。",
+    "en": "Research frames Wari as a Middle Horizon complex society expanding from a central highland Ayacucho centre and establishing provincial administrative centres including near Cuzco (Schreiber 1992; Isbell & Schreiber 1978)."
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-huari-ayacucho",
+    "site-pikillacta"
+  ],
+  "period_ids": [
+    "period-wari-middle-horizon"
+  ],
+  "object_ids": [
+    "asm-wari-provincial-architecture-frame"
+  ],
+  "sources": [
+    "src-wari-schreiber-1992",
+    "src-wari-isbell-schreiber-1978"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "period-wari-middle-horizon",
+  "entity": "period",
+  "names": {
+    "zh": "瓦里中地平线扩张窗",
+    "en": "Wari Middle Horizon expansion window"
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "time": {
+    "label": "ca. 600–1000 CE (Schreiber/Isbell working frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "CE span; absolute phase debates open."
+  },
+  "summary": {
+    "zh": "壳级中地平线扩张窗。",
+    "en": "Shell Middle Horizon expansion window."
+  },
+  "sources": [
+    "src-wari-schreiber-1992",
+    "src-wari-isbell-schreiber-1978"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-mitanni-diplomatic-texts-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "米坦尼外交文本框架组合",
+    "en": "Mitanni diplomatic-texts frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-nuzi-yorghan-tepe"
+  ],
+  "period_ids": [
+    "period-mitanni-lba"
+  ],
+  "summary": {
+    "zh": "壳级条约/阿马尔那书信传统指针。",
+    "en": "Shell treaty / Amarna-letter tradition pointer."
+  },
+  "sources": [
+    "src-mitanni-beckman-diplomatic-texts",
+    "src-mitanni-amarna-letters-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-classic-maya-martin-grube-2008",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Martin, Simon, and Nikolai Grube. 2008. Chronicle of the Maya Kings and Queens. 2nd ed. London: Thames & Hudson.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Standard dynastic synthesis from hieroglyphic texts; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

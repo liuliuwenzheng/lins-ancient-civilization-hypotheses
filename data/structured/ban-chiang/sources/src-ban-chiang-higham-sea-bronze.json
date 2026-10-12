@@ -1,0 +1,19 @@
+{
+  "id": "src-ban-chiang-higham-sea-bronze",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Higham, Charles. The Bronze Age of Southeast Asia / later SEA archaeology syntheses discussing Ban Chiang chronology debates (Cambridge World Archaeology tradition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Regional synthesis orientation; absolute dating debates emphasized in literature.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-early-korea-unesco-gongju-baekje",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Baekje Historic Areas. Inscribed 2015. https://whc.unesco.org/en/list/1477/",
+  "url": "https://whc.unesco.org/en/list/1477/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Later early-historic Baekje WHC pointer (tier T); Mumun-specific WH sites limited — use as early-state orientation only.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

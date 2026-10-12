@@ -1,0 +1,43 @@
+{
+  "id": "asm-aksum-stelae-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿克苏姆石碑框架组合",
+    "en": "Aksum stelae frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [
+    "period-aksumite-floruit"
+  ],
+  "summary": {
+    "zh": "壳级单体石碑/王陵建筑指针。",
+    "en": "Shell monolithic stelae / royal-tomb architecture pointer."
+  },
+  "sources": [
+    "src-aksum-unesco-15",
+    "src-aksum-phillipson-2012"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

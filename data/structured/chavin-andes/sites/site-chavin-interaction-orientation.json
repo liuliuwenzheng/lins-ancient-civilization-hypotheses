@@ -1,0 +1,32 @@
+{
+  "id": "site-chavin-interaction-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "查文互动圈（指针）",
+    "en": "Chavín interaction sphere (orientation)",
+    "native": null
+  },
+  "kind_note": "Regional interaction frame — not a single site point",
+  "region": "North-central Andes / coast contacts",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "壳级互动圈指针；海岸与高地联系待加厚。",
+    "en": "Shell interaction-sphere pointer; coast–highland links deferred."
+  },
+  "sources": [
+    "src-chavin-burger-origins-1992",
+    "src-chavin-nesbitt-burger-2023"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

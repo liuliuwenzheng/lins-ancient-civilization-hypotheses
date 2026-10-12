@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-huantar-type",
+  "entity": "site",
+  "names": {
+    "zh": "查文德万塔尔（类型址）",
+    "en": "Chavín de Huántar (type site)",
+    "native": "Chavín de Huántar"
+  },
+  "kind_note": "Early Horizon ceremonial / pilgrimage centre; UNESCO WH",
+  "region": "Ancash, Peru",
+  "civilization_ids": [
+    "civ-chavin"
+  ],
+  "summary": {
+    "zh": "早地平线仪礼中心；教科文名录；与安第斯包比较条目分立。",
+    "en": "Early Horizon ceremonial centre; UNESCO listed; separate from Andes-pack comparative entry."
+  },
+  "sources": [
+    "src-chavin-unesco-330",
+    "src-chavin-burger-origins-1992",
+    "src-chavin-burger-ucp-1984"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

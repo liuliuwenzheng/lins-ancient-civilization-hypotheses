@@ -1,0 +1,52 @@
+{
+  "id": "civ-wari",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "瓦里（瓦里/华里）",
+    "en": "Wari (Huari)",
+    "native": "Wari / Huari"
+  },
+  "region": "South America / central highland Peru (Ayacucho) with Middle Horizon provinces",
+  "time_span": "Middle Horizon expansion ca. 600–1000 CE (Schreiber / Isbell frames)",
+  "summary": {
+    "zh": "瓦里档案壳：Schreiber 帝国主义研究 + Isbell 都城讨论；library-seed。",
+    "en": "Wari archive shell: Schreiber imperialism study + Isbell capital discussion; library-seed."
+  },
+  "sources": [
+    "src-wari-schreiber-1992",
+    "src-wari-isbell-schreiber-1978",
+    "src-wari-mcewan-pikillacta",
+    "src-wari-isbell-knobloch-orientation",
+    "src-wari-bergh-cleveland-orientation"
+  ],
+  "site_ids": [
+    "site-huari-ayacucho",
+    "site-pikillacta"
+  ],
+  "period_ids": [
+    "period-wari-middle-horizon"
+  ],
+  "claim_ids": [
+    "claim-wari-middle-horizon-expansion"
+  ],
+  "object_ids": [
+    "asm-wari-provincial-architecture-frame"
+  ],
+  "related_ids": [
+    "civ-andes",
+    "civ-tiwanaku",
+    "civ-chavin"
+  ],
+  "markdown_path": "data/civilizations/civ-wari.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

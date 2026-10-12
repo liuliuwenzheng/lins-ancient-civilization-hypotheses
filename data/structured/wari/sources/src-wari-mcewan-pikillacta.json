@@ -1,0 +1,19 @@
+{
+  "id": "src-wari-mcewan-pikillacta",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "McEwan, Gordon F. Pikillacta: The Wari Empire in Cuzco (University of Iowa Press) — provincial administrative centre excavation synthesis.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Provincial centre P-tradition pointer; deepen with edition year when densifying.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

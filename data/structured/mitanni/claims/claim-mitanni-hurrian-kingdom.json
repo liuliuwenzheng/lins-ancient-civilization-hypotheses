@@ -1,0 +1,36 @@
+{
+  "id": "claim-mitanni-hurrian-kingdom",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "历史与语文学综合将米坦尼表述为晚青铜时代上美索不达米亚—北叙利亚的胡里安主导王国，其政治史主要依据赫梯条约与阿马尔那书信等文本重建（Wilhelm 1989；Bryce 2005）。",
+    "en": "Historical and philological syntheses frame Mitanni as a Late Bronze Age Hurrian-led kingdom of Upper Mesopotamia–northern Syria, reconstructed largely from Hittite treaties and Amarna correspondence (Wilhelm 1989; Bryce 2005)."
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-nuzi-yorghan-tepe",
+    "site-mitanni-washukanni-orientation"
+  ],
+  "period_ids": [
+    "period-mitanni-lba"
+  ],
+  "object_ids": [
+    "asm-mitanni-diplomatic-texts-frame"
+  ],
+  "sources": [
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

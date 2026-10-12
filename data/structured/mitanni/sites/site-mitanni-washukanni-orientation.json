@@ -1,0 +1,32 @@
+{
+  "id": "site-mitanni-washukanni-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "瓦舒坎尼（指针）",
+    "en": "Washukanni (orientation)",
+    "native": "Waššukanni"
+  },
+  "kind_note": "Textually attested Mitanni capital — archaeological identification debated",
+  "region": "Upper Khabur region (identification open)",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "文本所见米坦尼都城；考古对应仍有争议——壳级指针。",
+    "en": "Textually attested Mitanni capital; archaeological identification debated — shell pointer only."
+  },
+  "sources": [
+    "src-mitanni-wilhelm-hurrians-1989",
+    "src-mitanni-bryce-kingdom-hittites"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

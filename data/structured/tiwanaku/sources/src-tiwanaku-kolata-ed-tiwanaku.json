@@ -1,0 +1,19 @@
+{
+  "id": "src-tiwanaku-kolata-ed-tiwanaku",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Kolata, Alan L., ed. Tiwanaku and Its Hinterland: Archaeology and Paleoecology of an Andean Civilization (Smithsonian Institution Press volumes).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Edited excavation/paleoecology volumes; volume orientation pointer.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-stelae-field",
+  "entity": "site",
+  "names": {
+    "zh": "阿克苏姆（石碑区）",
+    "en": "Aksum (stelae field)",
+    "native": "Aksum"
+  },
+  "kind_note": "Aksumite capital ruins; monolithic stelae; UNESCO WH",
+  "region": "Tigray Region, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "阿克苏姆王国都城遗迹与巨石碑；教科文名录。",
+    "en": "Aksumite capital ruins and monolithic stelae; UNESCO listed."
+  },
+  "sources": [
+    "src-aksum-unesco-15",
+    "src-aksum-phillipson-2012",
+    "src-aksum-munro-hay-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

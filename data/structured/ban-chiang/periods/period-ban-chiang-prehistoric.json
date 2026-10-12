@@ -1,0 +1,34 @@
+{
+  "id": "period-ban-chiang-prehistoric",
+  "entity": "period",
+  "names": {
+    "zh": "班清史前占用窗",
+    "en": "Ban Chiang prehistoric occupation window"
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "time": {
+    "label": "mid–late 2nd to 1st millennium BCE working frame (White/Higham tradition; absolute debates open)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 300,
+    "scheme_note": "Working band only; UNESCO inscription-era early dates are contested in later literature."
+  },
+  "summary": {
+    "zh": "壳级史前窗；绝对年代待加厚核对。",
+    "en": "Shell prehistoric window; absolute chronology to be verified on densify."
+  },
+  "sources": [
+    "src-ban-chiang-white-penn-orientation",
+    "src-ban-chiang-higham-sea-bronze"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

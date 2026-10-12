@@ -1,0 +1,32 @@
+{
+  "id": "site-baekje-historic-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "百济历史地区（指针）",
+    "en": "Baekje Historic Areas (orientation)",
+    "native": "백제역사유적지구"
+  },
+  "kind_note": "Early historic Baekje capital/temple cluster; UNESCO WH",
+  "region": "Gongju–Buyeo–Iksan, Republic of Korea",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "早期历史百济都城/寺院集群指针；教科文名录。",
+    "en": "Early historic Baekje capital/temple cluster orientation; UNESCO listed."
+  },
+  "sources": [
+    "src-early-korea-unesco-gongju-baekje",
+    "src-early-korea-barnes-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

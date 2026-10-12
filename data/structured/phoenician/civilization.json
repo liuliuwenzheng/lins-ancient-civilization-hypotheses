@@ -1,0 +1,53 @@
+{
+  "id": "civ-phoenician",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "腓尼基 / 城邦与西地中海扩张",
+    "en": "Phoenician (city-states and western expansion)",
+    "native": "Phoenician / Canaanite coastal city-states; Punic west"
+  },
+  "region": "Southwest Asia / Levantine coast (Lebanon–Syria) and western Mediterranean colonies",
+  "time_span": "Iron Age Levantine city-state floruit into Punic western expansion (Aubet / Markoe frames; Carthage later)",
+  "summary": {
+    "zh": "腓尼基档案壳：Aubet 西地中海扩张 + 比布鲁斯教科文；library-seed。",
+    "en": "Phoenician archive shell: Aubet western Mediterranean expansion + Byblos UNESCO; library-seed."
+  },
+  "sources": [
+    "src-phoenician-aubet-west-2001",
+    "src-phoenician-markoe-2000",
+    "src-phoenician-unesco-byblos-295",
+    "src-phoenician-unesco-tyre-299",
+    "src-phoenician-unesco-carthage-37"
+  ],
+  "site_ids": [
+    "site-byblos-gubla",
+    "site-tyre-sur",
+    "site-carthage-punic"
+  ],
+  "period_ids": [
+    "period-phoenician-iron-punic"
+  ],
+  "claim_ids": [
+    "claim-phoenician-coastal-western-expansion"
+  ],
+  "object_ids": [
+    "asm-phoenician-maritime-trade-frame"
+  ],
+  "related_ids": [
+    "civ-levant-ugarit",
+    "civ-ancient-egypt",
+    "civ-anatolia-hittite"
+  ],
+  "markdown_path": "data/civilizations/civ-phoenician.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

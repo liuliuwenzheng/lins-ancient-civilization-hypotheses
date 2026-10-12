@@ -1,0 +1,45 @@
+{
+  "id": "asm-phoenician-maritime-trade-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "腓尼基航海贸易框架组合",
+    "en": "Phoenician maritime-trade frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-byblos-gubla",
+    "site-tyre-sur",
+    "site-carthage-punic"
+  ],
+  "period_ids": [
+    "period-phoenician-iron-punic"
+  ],
+  "summary": {
+    "zh": "壳级海岸城邦/殖民贸易指针。",
+    "en": "Shell coastal city-state / colonial trade pointer."
+  },
+  "sources": [
+    "src-phoenician-aubet-west-2001",
+    "src-phoenician-markoe-2000"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

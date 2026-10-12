@@ -2,7 +2,7 @@
 
 [English](coverage-map.md) | 中文
 
-**决策：** [D-2026-10-12-12](decisions.zh.md)（开壳）· [D-2026-10-12-13](decisions.zh.md)（加厚）  
+**决策：** [D-2026-10-12-12](decisions.zh.md)（第一波开壳）· [D-2026-10-12-13](decisions.zh.md)（第一波加厚）· [D-2026-10-12-14](decisions.zh.md)（第二波开壳）  
 **审议：** [`deliberations/delib-2026-10-12-global-coverage.md`](../deliberations/delib-2026-10-12-global-coverage.md)
 
 ## 范围
@@ -20,7 +20,7 @@
 | 标签 | 含义 |
 |------|------|
 | **密** | `fact-library` 结构化包，来源/遗址/主张较厚 |
-| **壳** | `library-seed` 第一波包 — 真实来源、最少遗址/主张，栏目可空 |
+| **壳** | `library-seed` 第一/二波包 — 真实来源、最少遗址/主张，栏目可空 |
 | **加厚中** | `library-seed-rich` — 已加厚的第一波包（可调用密度；尚未 `fact-library`） |
 | **缺** | 尚未开包；列入第二/三波规划 |
 
@@ -29,14 +29,14 @@
 | 区域 | 已有（密） | 已有（加厚中） | 仍缺（优先） | 波次 |
 |------|------------|----------------|--------------|------|
 | **两河 / 伊朗西南** | 美索不达米亚 | 埃兰（`library-seed-rich`） | 晚期伊朗帝国另包 | 1 已加厚；2 以后 |
-| **尼罗 / 东北非** | 埃及 | 努比亚–库施（`library-seed-rich`） | 阿克苏姆等 | 1 已加厚；2–3 |
-| **安纳托利亚 / 黎凡特 / 东地中海** | 爱琴 | 赫梯；乌加里特（`library-seed-rich`） | 米坦尼；腓尼基；塞浦路斯晚青铜 | 1 已加厚；2 |
+| **尼罗 / 东北非** | 埃及 | 努比亚–库施（`library-seed-rich`）；阿克苏姆（`library-seed`） | 晚期基督教努比亚必要时拆分 | 1 已加厚；2 已开 |
+| **安纳托利亚 / 黎凡特 / 东地中海** | 爱琴 | 赫梯；乌加里特（`library-seed-rich`）；米坦尼；腓尼基（`library-seed`） | 塞浦路斯晚青铜；迦太基加厚 | 1 已加厚；2 已开 |
 | **中亚 / 南亚** | 印度河 | BMAC/奥克苏斯（`library-seed-rich`） | 恒河早期历史；犍陀罗等 | 1 已加厚；2–3 |
-| **东亚** | 中原青铜；三星堆 | 绳文/弥生（`library-seed-rich`） | 朝鲜半岛早期；周汉综述拆分 | 1 已加厚；2 |
-| **东南亚** | — | 东山（`library-seed-rich`） | 班清（必要时另包）；吴哥/扶南 | 1 已加厚；2–3 |
+| **东亚** | 中原青铜；三星堆 | 绳文/弥生（`library-seed-rich`）；朝鲜半岛早期（`library-seed`） | 周汉综述拆分 | 1 已加厚；2 已开 |
+| **东南亚** | — | 东山（`library-seed-rich`）；班清（`library-seed`） | 吴哥/扶南 | 1 已加厚；2 已开 |
 | **西非 / 萨赫勒** | — | 诺克（`library-seed-rich`） | 加纳/马里；大津巴布韦；伊费/贝宁 | 1 已加厚；2–3 |
-| **中美洲** | 奥尔梅克；早期玛雅 | 特奥蒂瓦坎；萨波特克（`library-seed-rich`） | 经典玛雅全文；阿兹特克；米斯特克 | 1 已加厚；2 |
-| **安第斯 / 南美** | 安第斯（卡拉尔–北奇科） | — | 查文；蒂瓦纳科；瓦里；莫切；印加 | 2–3 |
+| **中美洲** | 奥尔梅克；早期玛雅 | 特奥蒂瓦坎；萨波特克（`library-seed-rich`）；经典玛雅（`library-seed`） | 阿兹特克；米斯特克 | 1 已加厚；2 已开 |
+| **安第斯 / 南美** | 安第斯（卡拉尔–北奇科） | 查文；蒂瓦纳科；瓦里（`library-seed`） | 莫切；印加 | 2 已开；3 以后 |
 | **大洋洲** | — | 拉皮塔（`library-seed-rich`） | 波利尼西亚酋邦；拉帕努伊（伦理优先） | 1 已加厚；3 |
 | **欧洲（爱琴以外）** | — | — | 伊比利亚；哈尔施塔特；努拉吉 | 3 |
 | **北美** | — | — | 密西西比/卡霍基亚；先祖普韦布洛 | 3 |
@@ -63,20 +63,32 @@
 
 `mesopotamia`、`egypt`、`andes`、`indus`、`china-bronze`、`sanxingdui`、`aegean`、`olmec`、`early-maya` — 继续加厚；**不得**为「对齐」壳包而削薄。
 
-## 第二波（下一步）
+## 第二波包（D-2026-10-12-14 开壳）
 
-建议：安第斯查文/蒂瓦纳科/瓦里、经典玛雅、阿克苏姆、班清（若与东山区分）、朝鲜半岛早期、米坦尼、腓尼基/迦太基。
+状态：**`library-seed`**。典型壳密度：**5 来源**、**2–3 遗址**、**1 时段**、**1 对象**、**1 条有出处主张**、**0 媒体**。坐标默认空。**不编造发现、页码或媒体图。** 生成器：`tools/wave2_shells/generate_wave2.py`。
 
-## 第三波（更后）
+| 包 id | 文明 id | 状态 | 填补空白 |
+|-------|---------|------|----------|
+| `chavin-andes` | `civ-chavin` | library-seed | 早地平线安第斯（与卡拉尔包并立） |
+| `tiwanaku` | `civ-tiwanaku` | library-seed | 的的喀喀高原中地平线 |
+| `wari` | `civ-wari` | library-seed | 阿亚库乔 / 中地平线扩张 |
+| `classic-maya` | `civ-classic-maya` | library-seed | 经典低地玛雅（与早期玛雅并立） |
+| `aksum` | `civ-aksum` | library-seed | 埃塞俄比亚高原 / 红海王国 |
+| `ban-chiang` | `civ-ban-chiang` | library-seed | 东北泰史前（与东山区分） |
+| `early-korea` | `civ-early-korea` | library-seed | 无纹–早期国家半岛 |
+| `mitanni` | `civ-mitanni` | library-seed | 晚青铜胡里安 / 上美索不达米亚 |
+| `phoenician` | `civ-phoenician` | library-seed | 黎凡特海岸 + 西地中海布匿节点 |
 
-卡霍基亚、先祖普韦布洛、大津巴布韦、西非中世纪帝国、伊比利亚青铜、哈尔施塔特、努拉吉、拉帕努伊（伦理优先）、印加全文。
+## 第三波（更后 / 仍缺）
+
+卡霍基亚、先祖普韦布洛、大津巴布韦、西非中世纪帝国（加纳/马里）、伊比利亚青铜、哈尔施塔特、努拉吉、拉帕努伊（伦理优先）、印加全文、莫切、阿兹特克、米斯特克、吴哥/扶南、塞浦路斯晚青铜、晚期基督教努比亚必要时拆分。
 
 ## 用户现在如何看到
 
-- **API：** `GET /api/v1/civilizations` 自动发现所有 `data/structured/*/civilization.json` — 第一波包为 `status: library-seed-rich`。
-- **UI：** `/ui` 同源列表；加厚中包已有可用但仍非埃及级 Sites/Claims。
-- **闸门：** `tools/export_check.py` 对全部包出处失败即关闭。
+- **API：** `GET /api/v1/civilizations` 自动发现所有 `data/structured/*/civilization.json` — 第二波包为 `status: library-seed`。
+- **UI：** `/ui` 同源列表；壳故意偏薄。
+- **闸门：** `tools/export_check.py` 对全部包出处失败即关闭（第二波后 **29** 包）。
 
 ## 产品立场
 
-**第一波已加厚至 `library-seed-rich` + 继续把九个密包推向 `fact-library`。** 状态诚实优于条数虚荣。下一步：开第二波，并在地名词典允许处继续补坐标/媒体。
+**29 包可调用：9 密 + 11 第一波加厚 + 9 第二波壳。** 状态诚实优于条数虚荣。下一步：第二波加厚至 `library-seed-rich`，继续补坐标/媒体，再开第三波。

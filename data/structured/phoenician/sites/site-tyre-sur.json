@@ -1,0 +1,32 @@
+{
+  "id": "site-tyre-sur",
+  "entity": "site",
+  "names": {
+    "zh": "推罗（苏尔）",
+    "en": "Tyre (Ṣūr)",
+    "native": "Ṣūr / Tyre"
+  },
+  "kind_note": "Major Iron Age Phoenician city; UNESCO WH",
+  "region": "South Governorate, Lebanon",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "铁器时代腓尼基大都；教科文名录。",
+    "en": "Major Iron Age Phoenician city; UNESCO listed."
+  },
+  "sources": [
+    "src-phoenician-unesco-tyre-299",
+    "src-phoenician-aubet-west-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

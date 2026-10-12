@@ -1,0 +1,35 @@
+{
+  "id": "claim-tiwanaku-titicaca-centre",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与学术综合将蒂瓦纳科表述为的的喀喀湖盆地古代高原文明的精神与政治中心（UNESCO 567；Kolata 1993）。",
+    "en": "UNESCO and scholarly syntheses frame Tiwanaku as the spiritual and political centre of an ancient highland civilization in the Lake Titicaca basin (UNESCO 567; Kolata 1993)."
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-capital"
+  ],
+  "period_ids": [
+    "period-tiwanaku-middle-horizon"
+  ],
+  "object_ids": [
+    "asm-tiwanaku-ceremonial-core-frame"
+  ],
+  "sources": [
+    "src-tiwanaku-unesco-567",
+    "src-tiwanaku-kolata-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

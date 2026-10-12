@@ -1,0 +1,19 @@
+{
+  "id": "src-ban-chiang-white-penn-orientation",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "White, Joyce C., and collaborators — University of Pennsylvania Museum Ban Chiang Project excavation and laboratory publications ( Ban Chiang, a Prehistoric Village site tradition).",
+  "url": "https://www.penn.museum/research/project.php?pid=10",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Penn Museum Ban Chiang Project research page as P-tradition orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

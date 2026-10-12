@@ -1,0 +1,32 @@
+{
+  "id": "site-ban-chiang-udon",
+  "entity": "site",
+  "names": {
+    "zh": "班清",
+    "en": "Ban Chiang",
+    "native": "บ้านเชียง"
+  },
+  "kind_note": "Prehistoric habitation and burial mound; UNESCO WH",
+  "region": "Udon Thani Province, Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "东北泰史前定居与墓地土丘；教科文名录。",
+    "en": "Northeast Thai prehistoric habitation and burial mound; UNESCO listed."
+  },
+  "sources": [
+    "src-ban-chiang-unesco-575",
+    "src-ban-chiang-white-penn-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

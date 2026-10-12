@@ -1,0 +1,32 @@
+{
+  "id": "site-pikillacta",
+  "entity": "site",
+  "names": {
+    "zh": "皮基利亚克塔",
+    "en": "Pikillacta",
+    "native": "Pikillaqta"
+  },
+  "kind_note": "Wari provincial administrative centre near Cuzco",
+  "region": "Cuzco region, Peru",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "库斯科附近瓦里行省行政中心。",
+    "en": "Wari provincial administrative centre near Cuzco."
+  },
+  "sources": [
+    "src-wari-mcewan-pikillacta",
+    "src-wari-schreiber-1992"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

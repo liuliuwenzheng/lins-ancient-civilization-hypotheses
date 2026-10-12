@@ -1,0 +1,19 @@
+{
+  "id": "src-classic-maya-coe-houston-maya",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Coe, Michael D., and Stephen Houston. The Maya. (Thames & Hudson World of Art / successive editions).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Accessible long-running synthesis; edition-year deepen later.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

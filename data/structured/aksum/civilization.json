@@ -1,0 +1,51 @@
+{
+  "id": "civ-aksum",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "阿克苏姆",
+    "en": "Aksum (Axum)",
+    "native": "Aksum / አክሱም"
+  },
+  "region": "Northeast Africa / northern Ethiopian highlands (Tigray) and Red Sea trade sphere",
+  "time_span": "Aksumite kingdom floruit broadly 1st–8th c. CE (UNESCO / Phillipson frames)",
+  "summary": {
+    "zh": "阿克苏姆档案壳：Phillipson 综合 + 教科文石碑群；library-seed。",
+    "en": "Aksum archive shell: Phillipson synthesis + UNESCO stelae field; library-seed."
+  },
+  "sources": [
+    "src-aksum-unesco-15",
+    "src-aksum-phillipson-2012",
+    "src-aksum-munro-hay-1991",
+    "src-aksum-fattovich-bard-orientation",
+    "src-aksum-met-heilbrunn-orientation"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field",
+    "site-adulis-orientation"
+  ],
+  "period_ids": [
+    "period-aksumite-floruit"
+  ],
+  "claim_ids": [
+    "claim-aksum-highland-kingdom"
+  ],
+  "object_ids": [
+    "asm-aksum-stelae-frame"
+  ],
+  "related_ids": [
+    "civ-nubia-kush",
+    "civ-ancient-egypt"
+  ],
+  "markdown_path": "data/civilizations/civ-aksum.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "civ-classic-maya",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "经典玛雅",
+    "en": "Classic Maya",
+    "native": "Maya (Classic period lowland polities)"
+  },
+  "region": "Mesoamerica / Maya lowlands (southern Mexico, Guatemala, Belize, western Honduras)",
+  "time_span": "Classic period floruit broadly 250–900 CE (Martin–Grube / Coe–Houston frames)",
+  "summary": {
+    "zh": "经典玛雅档案壳：Martin–Grube 王表 + Coe/Houston 综述；与早期玛雅包并立。",
+    "en": "Classic Maya archive shell: Martin–Grube dynastic chronicle + Coe/Houston synthesis; alongside early-maya pack."
+  },
+  "sources": [
+    "src-classic-maya-martin-grube-2008",
+    "src-classic-maya-coe-houston-maya",
+    "src-classic-maya-unesco-tikal-64",
+    "src-classic-maya-unesco-palenque-411",
+    "src-classic-maya-chase-caracol-1987"
+  ],
+  "site_ids": [
+    "site-tikal-classic",
+    "site-palenque-classic",
+    "site-caracol-belize"
+  ],
+  "period_ids": [
+    "period-classic-maya-floruit"
+  ],
+  "claim_ids": [
+    "claim-classic-maya-dynastic-polities"
+  ],
+  "object_ids": [
+    "asm-classic-maya-dynastic-texts-frame"
+  ],
+  "related_ids": [
+    "civ-early-maya",
+    "civ-olmec",
+    "civ-teotihuacan",
+    "civ-zapotec"
+  ],
+  "markdown_path": "data/civilizations/civ-classic-maya.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-classic-maya-unesco-tikal-64",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Tikal National Park. Inscribed 1979. https://whc.unesco.org/en/list/64/",
+  "url": "https://whc.unesco.org/en/list/64/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC orientation for major Classic capital; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

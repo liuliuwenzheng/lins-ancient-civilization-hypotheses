@@ -766,3 +766,19 @@
 **核实：** `export_check` OK（**20** 包）。
 
 **备注：** 仍远未及埃及/两河 `fact-library` 密度。诚实薄包优于虚荣密包。工具：`tools/wave1_shells/densify_wave1.py`。
+
+
+### D-2026-10-12-14 — 第二波开壳
+
+**决策：** 按覆盖图优先清单（D-2026-10-12-12）开设 **九个第二波 `library-seed` 壳**，不削薄既有密包或第一波包。诚信规则同第一波：仅真实 P/S/T 来源；摘要/目录级主张；不编造发现、坐标、页码或媒体图。
+
+**第二波包 id：** `chavin-andes`、`tiwanaku`、`wari`、`classic-maya`、`aksum`、`ban-chiang`、`early-korea`、`mitanni`、`phoenician`（各 `civ-*` + 结构化包；5 来源；2–3 遗址；1 时段；1 对象；1 条有出处主张；0 媒体）。
+
+**未开（仍属第三波 / 缺）：** 卡霍基亚；先祖普韦布洛；大津巴布韦；西非中世纪帝国；伊比利亚青铜；哈尔施塔特；努拉吉；拉帕努伊；印加全文；莫切；阿兹特克；米斯特克；吴哥/扶南；塞浦路斯晚青铜 — 见 [`coverage-map.zh.md`](coverage-map.zh.md)。
+
+**文档：** 覆盖图与 README 列表已更新。生成器：`tools/wave2_shells/generate_wave2.py`。
+
+**核实：** `export_check` OK（**29** 包）。API/UI 自动发现。
+
+**备注：** 查文包使用独立遗址 id `site-chavin-huantar-type`，避免与安第斯包比较条目 `site-chavin-de-huantar` 冲突。诚实薄壳优于虚荣密度。
+

@@ -1,0 +1,19 @@
+{
+  "id": "src-wari-isbell-schreiber-1978",
+  "entity": "source",
+  "type": "article",
+  "citation": "Isbell, William H., and Katharina J. Schreiber. 1978. Was Huari a State? American Antiquity 43(3): 372–389.",
+  "url": "https://www.latinamericanstudies.org/wari/wari-state.pdf",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Classic statehood debate article; PDF mirror noted.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

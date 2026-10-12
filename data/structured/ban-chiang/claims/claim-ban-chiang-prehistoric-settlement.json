@@ -1,0 +1,35 @@
+{
+  "id": "claim-ban-chiang-prehistoric-settlement",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与发掘传统将班清表述为东南亚大陆重要的史前定居与墓地遗址，含定居农业与青铜技术讨论（UNESCO 575；Penn Ban Chiang Project）。",
+    "en": "UNESCO and the excavation tradition frame Ban Chiang as a major mainland Southeast Asian prehistoric settlement and cemetery site, with discussions of settled agriculture and bronze technology (UNESCO 575; Penn Ban Chiang Project)."
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-ban-chiang-udon"
+  ],
+  "period_ids": [
+    "period-ban-chiang-prehistoric"
+  ],
+  "object_ids": [
+    "asm-ban-chiang-pottery-metal-frame"
+  ],
+  "sources": [
+    "src-ban-chiang-unesco-575",
+    "src-ban-chiang-white-penn-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave2_shells/generate_wave2.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-14"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-2 library-seed shell (D-2026-10-12-14). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}
