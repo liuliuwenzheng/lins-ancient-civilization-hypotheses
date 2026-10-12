@@ -546,3 +546,20 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 - Mesopotamia/Egypt unchanged in this commit (already pass-5 on main). Citation gate green.
 
 **Notes:** Contested items (Tello matriz / Casma early state; Indus script deciphered; Xia=Erlitou / Allan cosmos; Sanxingdui Shang colony; Troy=Homeric war; Olmec mother culture; Mirador first state) stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
+
+### D-2026-10-12-7 — Post–pass-5 priority ranking (Deliberation Council)
+
+**Decision:** After council session [`delib-2026-10-12-after-pass5`](../deliberations/delib-2026-10-12-after-pass5.md):
+
+1. **State of product:** After density pass 5 on all nine packs, this is **no longer a thin textual introduction**. It is a **real but incomplete** machine-readable archive + local read-only API + `/ui`, with a fail-closed citation gate and explicit hypothesis labels. Versus Wikipedia / exhaustive excavation corpora: **coverage advantage does not hold**; **methodological advantage does** (queryable entities, resolvable `sources[]` on facts, explicit hypotheses, no forged artifact images).
+2. **Explicit non-goals:** Do **not** invent content for coverage vanity; do **not** treat another unaudited all-pack volume pass as the default next step; cloud deliberation remains **spec-first** (D-2026-10-11-2 unchanged).
+3. **Ranked next priorities:**
+   1. **Claim/site quality audit** — start with densest packs Mesopotamia and Egypt (claim→source links, hyp labeling, site completeness), then selective deepen where gaps appear  
+   2. **Optional new civilization shells** — scaffolding only; no vanity fills  
+   3. **Cloud read-only host** — after an acceptable audit baseline; no write routes  
+   4. **UI craft iteration** — taste polish, not a product-definition pivot  
+   5. **Media** — rights-cleared metadata/outbound links only; no forged images; no wholesale copyrighted PDF/image dumps
+
+**Verified counts (`export_check` 2026-10-12, post pass 5):** packs=9; sources **622**; sites **357**; periods **58**; objects **442**; claims **561** (fact 438 / hypothesis 123); media **28**.
+
+**Notes:** Lenses are AI thinking aids (`perspective: true`, `person_endorsement: false`), not person endorsements. Integrity over vanity coverage.
