@@ -1,0 +1,18 @@
+{
+  "id": "src-nubia-emberling-williams-2021",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Emberling, Geoff, and Bruce Beyer Williams, eds. 2021. The Oxford Handbook of Ancient Nubia. Oxford: Oxford University Press. DOI: https://doi.org/10.1093/oxfordhb/9780190496272.001.0001.",
+  "url": "https://doi.org/10.1093/oxfordhb/9780190496272.001.0001",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Recent handbook; volume orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

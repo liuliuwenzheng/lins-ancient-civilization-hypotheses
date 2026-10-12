@@ -1,0 +1,35 @@
+{
+  "id": "claim-elam-susiana-anshan-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "学术综述将埃兰表述为伊朗西南以苏萨纳与安善等区域为中心的古代政治—文化实体（Potts 2016；Carter & Stolper 1984）。",
+    "en": "Scholarly syntheses frame Elam as an ancient political–cultural entity of southwestern Iran centered on regions including Susiana and Anshan (Potts 2016; Carter & Stolper 1984)."
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-susa",
+    "site-anshan-tall-e-malyan"
+  ],
+  "period_ids": [
+    "period-elam-overview"
+  ],
+  "object_ids": [
+    "asm-elam-susa-anshan-frame"
+  ],
+  "sources": [
+    "src-elam-potts-2016",
+    "src-elam-carter-stolper-1984"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

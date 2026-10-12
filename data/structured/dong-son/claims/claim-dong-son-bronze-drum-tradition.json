@@ -1,0 +1,34 @@
+{
+  "id": "claim-dong-son-bronze-drum-tradition",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究将东山表述为越南北部红河流域以特色青铜鼓与相关青铜器为标志的青铜–铁器时代考古文化（Higham；Calò）。",
+    "en": "Research frames Đông Sơn as a northern Vietnamese Red River Bronze–Iron Age archaeological culture marked by distinctive bronze drums and related bronzes (Higham; Calò)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-bronze-iron"
+  ],
+  "object_ids": [
+    "asm-dong-son-bronze-drums-frame"
+  ],
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-calo-bronze-drums-2009"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

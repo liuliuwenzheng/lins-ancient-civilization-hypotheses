@@ -1,0 +1,32 @@
+{
+  "id": "period-bmac-margiana-florescence",
+  "entity": "period",
+  "names": {
+    "zh": "马尔吉亚纳青铜繁荣窗（Hiebert）",
+    "en": "Margiana Bronze florescence (Hiebert)"
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "ca. 2200–1750 BCE (Hiebert 1994)",
+    "approx_from_bce": 2200,
+    "approx_to_bce": 1750,
+    "scheme_note": "Hiebert 1994 Margiana frame."
+  },
+  "summary": {
+    "zh": "壳级绿洲繁荣窗。",
+    "en": "Shell oasis florescence window."
+  },
+  "sources": [
+    "src-bmac-hiebert-1994"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

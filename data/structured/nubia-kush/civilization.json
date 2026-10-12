@@ -1,0 +1,50 @@
+{
+  "id": "civ-nubia-kush",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "努比亚 / 库施",
+    "en": "Nubia / Kush",
+    "native": "Kush; Kerma / Napata / Meroe phases"
+  },
+  "region": "Northeast Africa / Middle Nile (southern Egypt and Sudan)",
+  "time_span": "Kerma Bronze Age through Napatan–Meroitic Kush (Edwards 2004 overview)",
+  "summary": {
+    "zh": "努比亚/库施档案壳：Edwards 综合 + Kerma/麦罗埃；library-seed。",
+    "en": "Nubia/Kush archive shell: Edwards synthesis + Kerma/Meroe; library-seed."
+  },
+  "sources": [
+    "src-nubia-edwards-2004",
+    "src-nubia-welsby-1996",
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-emberling-williams-2021",
+    "src-nubia-bonnet-kerma-orientation"
+  ],
+  "site_ids": [
+    "site-kerma",
+    "site-meroe",
+    "site-jebel-barkal"
+  ],
+  "period_ids": [
+    "period-nubia-kush-overview"
+  ],
+  "claim_ids": [
+    "claim-nubia-kerma-meroe-sequence"
+  ],
+  "object_ids": [
+    "asm-nubia-meroe-pyramids-frame"
+  ],
+  "related_ids": [
+    "civ-ancient-egypt"
+  ],
+  "markdown_path": "data/civilizations/civ-nubia-kush.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

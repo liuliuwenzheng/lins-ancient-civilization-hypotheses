@@ -1,0 +1,32 @@
+{
+  "id": "site-sannai-maruyama",
+  "entity": "site",
+  "names": {
+    "zh": "三内丸山",
+    "en": "Sannai-Maruyama",
+    "native": "三内丸山"
+  },
+  "kind_note": "Large Early–Middle Jōmon settlement",
+  "region": "Aomori, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "大型绳文聚落；教科文「北海道·北东北绳文遗址群」组成部分。",
+    "en": "Large Jōmon settlement; part of UNESCO Jōmon serial property."
+  },
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-habu-sannai-antiquity-2008",
+    "src-jomon-sannai-official"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

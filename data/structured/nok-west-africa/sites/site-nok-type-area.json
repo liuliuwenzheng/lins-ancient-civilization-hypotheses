@@ -1,0 +1,31 @@
+{
+  "id": "site-nok-type-area",
+  "entity": "site",
+  "names": {
+    "zh": "诺克类型区（乔斯高原）",
+    "en": "Nok type area (Jos Plateau region)",
+    "native": "Nok"
+  },
+  "kind_note": "Type-region for Nok culture terracottas",
+  "region": "Central Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "诺克文化命名地与周边陶俑出土地带。",
+    "en": "Name-giving region and surrounding terracotta find zone."
+  },
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-breunig-renn-chronology"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

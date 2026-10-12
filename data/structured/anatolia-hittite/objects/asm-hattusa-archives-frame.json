@@ -1,0 +1,42 @@
+{
+  "id": "asm-hattusa-archives-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈图沙泥板档案框架组合",
+    "en": "Hattusa tablet-archive frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [
+    "period-hittite-kingdom-empire"
+  ],
+  "summary": {
+    "zh": "壳级泥板档案传统指针。",
+    "en": "Shell tablet-archive tradition pointer."
+  },
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-beckman-text-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

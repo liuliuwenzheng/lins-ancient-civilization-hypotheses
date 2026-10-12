@@ -1,0 +1,18 @@
+{
+  "id": "src-ugarit-singer-political-orientation",
+  "entity": "source",
+  "type": "article",
+  "citation": "Singer, Itamar. Political-history essays on Ugarit in the Late Bronze Age international system (handbook chapters / collected essays).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Political-history orientation pointer.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-gonur-depe",
+  "entity": "site",
+  "names": {
+    "zh": "戈努尔·德佩",
+    "en": "Gonur Depe",
+    "native": "Gonur"
+  },
+  "kind_note": "Keystone Margiana oasis centre",
+  "region": "Murghab delta, Turkmenistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "马尔吉亚纳绿洲关键大型遗址。",
+    "en": "Keystone large Margiana oasis site."
+  },
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-sarianidi-gonur-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

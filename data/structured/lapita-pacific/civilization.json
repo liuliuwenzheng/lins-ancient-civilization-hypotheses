@@ -1,0 +1,47 @@
+{
+  "id": "civ-lapita-pacific",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "拉皮塔（太平洋）",
+    "en": "Lapita (Pacific)",
+    "native": "Lapita (archaeological complex)"
+  },
+  "region": "Oceania / Bismarck Archipelago to Remote Oceania (Vanuatu, Fiji, Tonga, Samoa)",
+  "time_span": "ca. 3300–2700 BP dentate-stamped pottery dispersal (Kirch / Green research tradition)",
+  "summary": {
+    "zh": "拉皮塔档案壳：大洋洲早期澳斯特罗尼西亚扩张考古复合体；library-seed。",
+    "en": "Lapita archive shell: early Austronesian Pacific archaeological complex; library-seed."
+  },
+  "sources": [
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-kirch-talepakemalai",
+    "src-lapita-green-retrospective",
+    "src-lapita-teouma-antiquity",
+    "src-lapita-dating-appearance-orientation"
+  ],
+  "site_ids": [
+    "site-talepakemalai",
+    "site-teouma"
+  ],
+  "period_ids": [
+    "period-lapita-dispersal"
+  ],
+  "claim_ids": [
+    "claim-lapita-dentate-pacific-dispersal"
+  ],
+  "object_ids": [
+    "asm-lapita-dentate-pottery-frame"
+  ],
+  "related_ids": [],
+  "markdown_path": "data/civilizations/civ-lapita-pacific.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

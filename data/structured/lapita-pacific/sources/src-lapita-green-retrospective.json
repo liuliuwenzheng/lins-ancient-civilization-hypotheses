@@ -1,0 +1,18 @@
+{
+  "id": "src-lapita-green-retrospective",
+  "entity": "source",
+  "type": "article",
+  "citation": "Green, Roger C. Five decades of Lapita archaeology: a personal retrospective (ANU Press chapter tradition).",
+  "url": "https://press-files.anu.edu.au/downloads/press/n6054/pdf/ch23.pdf",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Green retrospective; OA chapter.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

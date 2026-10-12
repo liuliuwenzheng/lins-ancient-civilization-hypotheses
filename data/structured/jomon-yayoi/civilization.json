@@ -1,0 +1,49 @@
+{
+  "id": "civ-jomon-yayoi",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "绳文 / 弥生（日本）",
+    "en": "Jōmon / Yayoi (Japan)",
+    "native": "縄文 / 弥生"
+  },
+  "region": "East Asia / Japanese archipelago",
+  "time_span": "Jōmon ceramic hunter-gatherer tradition through Yayoi wet-rice agricultural transition (Habu / Barnes frames; UNESCO Jōmon sites 2021)",
+  "summary": {
+    "zh": "绳文–弥生档案壳：Habu/Barnes + 三内丸山教科文；library-seed。",
+    "en": "Jōmon–Yayoi archive shell: Habu/Barnes + Sannai-Maruyama UNESCO; library-seed."
+  },
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-habu-sannai-antiquity-2008",
+    "src-jomon-habu-berkeley-project",
+    "src-yayoi-barnes-orientation",
+    "src-jomon-sannai-official"
+  ],
+  "site_ids": [
+    "site-sannai-maruyama"
+  ],
+  "period_ids": [
+    "period-jomon-yayoi-overview"
+  ],
+  "claim_ids": [
+    "claim-jomon-sannai-large-settlement"
+  ],
+  "object_ids": [
+    "asm-jomon-sannai-settlement-frame"
+  ],
+  "related_ids": [
+    "civ-china-bronze",
+    "civ-dong-son"
+  ],
+  "markdown_path": "data/civilizations/civ-jomon-yayoi.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

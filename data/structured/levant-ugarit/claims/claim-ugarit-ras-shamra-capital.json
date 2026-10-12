@@ -1,0 +1,34 @@
+{
+  "id": "claim-ugarit-ras-shamra-capital",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘与综合将泰勒·拉斯沙姆拉认定为古代乌加里特城（Yon 2006；Schaeffer 传统）。",
+    "en": "Excavation and synthesis identify Tell Ras Shamra as ancient Ugarit (Yon 2006; Schaeffer tradition)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "object_ids": [
+    "asm-ugarit-tablet-archives-frame"
+  ],
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-schaeffer-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-jebel-barkal",
+  "entity": "site",
+  "names": {
+    "zh": "杰贝尔·Barkal（纳帕塔）",
+    "en": "Jebel Barkal (Napata)",
+    "native": "Napata"
+  },
+  "kind_note": "Napatan religious–royal centre",
+  "region": "Dongola Reach, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "纳帕塔期宗教—王室中心。",
+    "en": "Napatan religious–royal centre."
+  },
+  "sources": [
+    "src-nubia-welsby-1996",
+    "src-nubia-edwards-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

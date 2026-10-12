@@ -1,0 +1,35 @@
+{
+  "id": "claim-nubia-kerma-meroe-sequence",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "考古综合将中尼罗库施表述为含凯尔迈青铜时代中心与其后纳帕塔—麦罗埃阶段的长序列（Edwards 2004；Welsby 1996）。",
+    "en": "Syntheses frame Middle Nile Kush as a long sequence including Kerma and later Napatan–Meroitic phases (Edwards 2004; Welsby 1996)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-kerma",
+    "site-meroe"
+  ],
+  "period_ids": [
+    "period-nubia-kush-overview"
+  ],
+  "object_ids": [
+    "asm-nubia-meroe-pyramids-frame"
+  ],
+  "sources": [
+    "src-nubia-edwards-2004",
+    "src-nubia-welsby-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-talepakemalai",
+  "entity": "site",
+  "names": {
+    "zh": "塔勒帕克马莱",
+    "en": "Talepakemalai (Mussau)",
+    "native": "Talepakemalai"
+  },
+  "kind_note": "Early Lapita site in Near Oceania",
+  "region": "Mussau Islands, Papua New Guinea",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "近大洋洲早期拉皮塔遗址。",
+    "en": "Early Lapita site in Near Oceania."
+  },
+  "sources": [
+    "src-lapita-kirch-talepakemalai",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

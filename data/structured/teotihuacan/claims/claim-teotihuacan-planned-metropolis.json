@@ -1,0 +1,35 @@
+{
+  "id": "claim-teotihuacan-planned-metropolis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "测绘与综合将特奥蒂瓦坎表述为墨西哥盆地经典期规划大都会，仪礼核心与密集居住区已被系统调查（Millon TMP；Cowgill 2015；UNESCO 414）。",
+    "en": "Mapping and synthesis frame Teotihuacan as a planned Classic metropolis in the Basin of Mexico, with ceremonial core and dense housing systematically surveyed (Millon TMP; Cowgill 2015; UNESCO 414)."
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [
+    "asm-teotihuacan-urban-grid-frame"
+  ],
+  "sources": [
+    "src-teotihuacan-cowgill-2015",
+    "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-unesco-414"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

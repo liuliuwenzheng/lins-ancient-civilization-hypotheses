@@ -1,0 +1,42 @@
+{
+  "id": "asm-nubia-meroe-pyramids-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "麦罗埃金字塔框架组合",
+    "en": "Meroe pyramids frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-meroe"
+  ],
+  "period_ids": [
+    "period-nubia-kush-overview"
+  ],
+  "summary": {
+    "zh": "壳级王室陵寝建筑指针。",
+    "en": "Shell royal funerary architecture pointer."
+  },
+  "sources": [
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-welsby-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

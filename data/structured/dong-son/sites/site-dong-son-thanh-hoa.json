@@ -1,0 +1,31 @@
+{
+  "id": "site-dong-son-thanh-hoa",
+  "entity": "site",
+  "names": {
+    "zh": "东山（清化）",
+    "en": "Đông Sơn (Thanh Hóa)",
+    "native": "Đông Sơn"
+  },
+  "kind_note": "Type-site for Đông Sơn culture",
+  "region": "Thanh Hóa, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "东山文化命名遗址。",
+    "en": "Name-giving type-site for Đông Sơn culture."
+  },
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-vietnam-excavation-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

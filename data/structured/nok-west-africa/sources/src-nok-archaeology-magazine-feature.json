@@ -1,0 +1,18 @@
+{
+  "id": "src-nok-archaeology-magazine-feature",
+  "entity": "source",
+  "type": "web",
+  "citation": "Archaeology Magazine feature overview: The Nok of Nigeria (public orientation only; tier T).",
+  "url": "https://archaeology.org/issues/online/features/the-nok-of-nigeria/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Public magazine orientation; not a substitute for excavation reports.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

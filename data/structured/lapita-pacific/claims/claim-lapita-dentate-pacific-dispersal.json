@@ -1,0 +1,35 @@
+{
+  "id": "claim-lapita-dentate-pacific-dispersal",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "考古研究将拉皮塔表述为以齿印戳刺陶器为标志、自俾斯麦群岛向远大洋洲扩散的早期大洋洲考古复合体（Kirch；Green）。",
+    "en": "Research frames Lapita as an early Oceanic archaeological complex marked by dentate-stamped pottery, dispersing from the Bismarck Archipelago into Remote Oceania (Kirch; Green)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-talepakemalai",
+    "site-teouma"
+  ],
+  "period_ids": [
+    "period-lapita-dispersal"
+  ],
+  "object_ids": [
+    "asm-lapita-dentate-pottery-frame"
+  ],
+  "sources": [
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-green-retrospective"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

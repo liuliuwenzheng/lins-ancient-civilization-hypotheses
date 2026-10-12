@@ -1,0 +1,18 @@
+{
+  "id": "src-nok-breunig-renn-chronology",
+  "entity": "source",
+  "type": "article",
+  "citation": "Breunig, Peter, and Nicole Rupp / Frankfurt Nok project chronology publications — Central Nigerian Nok Culture chronology ~1500 BCE to beginning of CE (Journal of African Archaeology overview tradition).",
+  "url": "https://brill.com/view/journals/jaa/14/3/article-p257_2.pdf",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Recent absolute chronology orientation; treat project papers as S.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-tchogha-zanbil",
+  "entity": "site",
+  "names": {
+    "zh": "恰高·占比尔",
+    "en": "Tchogha Zanbil",
+    "native": "Dur-Untash"
+  },
+  "kind_note": "Elamite ziggurat complex; UNESCO WH",
+  "region": "Khuzestan, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "埃兰塔庙建筑群；教科文名录指针（T）。",
+    "en": "Elamite ziggurat complex; UNESCO pointer (T)."
+  },
+  "sources": [
+    "src-elam-unesco-tchogha-zanbil",
+    "src-elam-potts-2016"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

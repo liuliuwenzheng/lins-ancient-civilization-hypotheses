@@ -1,0 +1,18 @@
+{
+  "id": "src-jomon-sannai-official",
+  "entity": "source",
+  "type": "web",
+  "citation": "Sannai Maruyama Site official / Jomon Prehistoric Sites portal — public site orientation.",
+  "url": "https://jomon-japan.jp/en/learn/jomon-sites/sannai-maruyama",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Public portal; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

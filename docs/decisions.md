@@ -643,3 +643,20 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified:** `export_check` OK (9 packs; citation gate green).
 
 **Notes:** Slack search found no Hermes/嘻嘻 contact in this workspace. Paywalled titles listed in the audit as title-only (not fake-cited).
+
+
+### D-2026-10-12-12 — Global coverage map + Wave-1 shells
+
+**Decision:** Publish a bilingual **coverage map** defining archive scope (complex societies with archaeological archives, not Wikipedia-breadth). Open **eleven Wave-1 `library-seed` shells** that close major geographic gaps while **continuing to thicken** the existing nine dense packs. **Do not wait** for perfect density before listing in API/UI. **Do not thin** dense packs. **Do not invent** finds, coordinates, or media art.
+
+**Coverage map:** [`docs/coverage-map.md`](coverage-map.md) · [中文](coverage-map.zh.md)
+
+**Deliberation:** [`deliberations/delib-2026-10-12-global-coverage.md`](../deliberations/delib-2026-10-12-global-coverage.md) — council endorses shells-now + thicken-nine.
+
+**Wave-1 pack ids:** `elam-iran`, `nubia-kush`, `anatolia-hittite`, `levant-ugarit`, `bmac-oxus`, `nok-west-africa`, `teotihuacan`, `zapotec`, `lapita-pacific`, `dong-son`, `jomon-yayoi` (each `civ-*` + structured pack; ≥5 Sources; 1–3 Sites; 1 Period; 1 Object; 1 sourced Claim).
+
+**Wave-2/3 (not opened):** Andes later phases (Chavín / Tiwanaku / Wari), Classic Maya, Aksum, Ban Chiang, Korean early states, Mitanni, Phoenician; later Mississippian, Great Zimbabwe, Inca, etc. — see map.
+
+**Verified:** `export_check` OK (**20** packs; citation gate green). API/UI auto-discover new packs via `data/structured/*/civilization.json`.
+
+**Notes:** Integrity > speed. Honest shells beat fake density. Generator: `tools/wave1_shells/generate_wave1.py`.

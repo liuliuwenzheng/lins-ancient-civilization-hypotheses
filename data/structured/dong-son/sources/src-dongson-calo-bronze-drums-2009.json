@@ -1,0 +1,18 @@
+{
+  "id": "src-dongson-calo-bronze-drums-2009",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Calò, Ambra. 2009. The Distribution of Bronze Drums in Early Southeast Asia: Trade Routes and Cultural Spheres. BAR International Series 1913. Oxford: Archaeopress.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Bronze-drum distribution study.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

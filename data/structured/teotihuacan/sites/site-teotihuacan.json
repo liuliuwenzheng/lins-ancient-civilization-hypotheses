@@ -1,0 +1,32 @@
+{
+  "id": "site-teotihuacan",
+  "entity": "site",
+  "names": {
+    "zh": "特奥蒂瓦坎",
+    "en": "Teotihuacan",
+    "native": "Teotihuacan"
+  },
+  "kind_note": "Classic metropolis; Street of the Dead ceremonial core",
+  "region": "State of Mexico, Mexico",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "经典期大都；测绘项目覆盖整城网格。",
+    "en": "Classic metropolis; mapping project covers city grid."
+  },
+  "sources": [
+    "src-teotihuacan-unesco-414",
+    "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

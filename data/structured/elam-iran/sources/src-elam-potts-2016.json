@@ -1,0 +1,18 @@
+{
+  "id": "src-elam-potts-2016",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Potts, D. T. 2016. The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State. 2nd ed. Cambridge World Archaeology. Cambridge: Cambridge University Press. DOI: https://doi.org/10.1017/CBO9781316148501.",
+  "url": "https://doi.org/10.1017/CBO9781316148501",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Cambridge World Archaeology synthesis; shell uses abstract/TOC-level scope only.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

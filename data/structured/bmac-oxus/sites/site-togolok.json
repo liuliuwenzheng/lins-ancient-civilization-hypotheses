@@ -1,0 +1,31 @@
+{
+  "id": "site-togolok",
+  "entity": "site",
+  "names": {
+    "zh": "托戈洛克",
+    "en": "Togolok",
+    "native": "Togolok"
+  },
+  "kind_note": "Margiana BMAC centre",
+  "region": "Murghab delta, Turkmenistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "马尔吉亚纳 BMAC 中心之一。",
+    "en": "One of the Margiana BMAC centres."
+  },
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-lamberg-karlovsky-roa-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

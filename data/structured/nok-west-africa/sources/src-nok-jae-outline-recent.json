@@ -1,0 +1,18 @@
+{
+  "id": "src-nok-jae-outline-recent",
+  "entity": "source",
+  "type": "article",
+  "citation": "An Outline of Recent Studies on the Nigerian Nok Culture — Journal of African Archaeology survey of Frankfurt and Nigerian collaborative fieldwork.",
+  "url": "https://brill.com/view/journals/jaa/14/3/article-p237_1.pdf",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Recent studies outline; shell orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "asm-monte-alban-settlement-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "蒙特·阿尔班聚落测绘框架组合",
+    "en": "Monte Albán settlement-mapping frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "summary": {
+    "zh": "壳级聚落考古组合指针。",
+    "en": "Shell settlement-archaeology assemblage pointer."
+  },
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

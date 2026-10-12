@@ -94,7 +94,13 @@ lins-ancient-civilization-hypotheses/
 
 Templates are marked clearly; they are **not** filled with invented case studies.
 
-**Library status (2026-10-11):** nine civilization fact-library entries + structured packs under `data/structured/`. Depth rules: [`docs/entry-depth.md`](docs/entry-depth.md). Dated choices: [`docs/decisions.md`](docs/decisions.md).
+**Library status (2026-10-12):** **20** structured packs under `data/structured/` — **9 dense** (`fact-library`) + **11 Wave-1 shells** (`library-seed`). Coverage map: [`docs/coverage-map.md`](docs/coverage-map.md) · [中文](docs/coverage-map.zh.md). Depth: [`docs/entry-depth.md`](docs/entry-depth.md). Decisions: [`docs/decisions.md`](docs/decisions.md) (D-2026-10-12-12).
+
+**Dense (9):** mesopotamia · egypt · andes · indus · china-bronze · sanxingdui · aegean · olmec · early-maya
+
+**Wave-1 shells (11):** elam-iran · nubia-kush · anatolia-hittite · levant-ugarit · bmac-oxus · nok-west-africa · teotihuacan · zapotec · lapita-pacific · dong-son · jomon-yayoi
+
+API/UI auto-discover all packs; shells are intentionally thin — integrity over fake density.
 
 - **Design taste** — makers’ principles + UI/API/README checklist: [`docs/design-taste.md`](docs/design-taste.md) · [中文](docs/design-taste.zh.md)
 - **Entry depth** — required sections, source minimums, status ladder: [`docs/entry-depth.md`](docs/entry-depth.md) · [中文](docs/entry-depth.zh.md)

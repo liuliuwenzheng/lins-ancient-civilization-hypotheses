@@ -1,0 +1,51 @@
+{
+  "id": "civ-elam-iran",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "埃兰（伊朗西南）",
+    "en": "Elam (southwestern Iran)",
+    "native": "Elam / Haltamti"
+  },
+  "region": "Southwest Asia / southwestern Iran (Khuzestan–Fars; Susiana and Anshan)",
+  "time_span": "ca. 3rd millennium BCE through Neo-Elamite into Achaemenid contexts (Potts 2016 overview)",
+  "summary": {
+    "zh": "埃兰档案壳（library-seed）：Potts 综合与苏萨/安善入口；待加厚。",
+    "en": "Elam archive shell (library-seed): Potts synthesis and Susa/Anshan entry; pending density."
+  },
+  "sources": [
+    "src-elam-potts-2016",
+    "src-elam-potts-oxford-handbook-iran-2013",
+    "src-elam-unesco-tchogha-zanbil",
+    "src-elam-alvarez-mon-elamite-world-2018",
+    "src-elam-carter-stolper-1984"
+  ],
+  "site_ids": [
+    "site-susa",
+    "site-anshan-tall-e-malyan",
+    "site-tchogha-zanbil"
+  ],
+  "period_ids": [
+    "period-elam-overview"
+  ],
+  "claim_ids": [
+    "claim-elam-susiana-anshan-frame"
+  ],
+  "object_ids": [
+    "asm-elam-susa-anshan-frame"
+  ],
+  "related_ids": [
+    "civ-mesopotamia",
+    "civ-bmac-oxus"
+  ],
+  "markdown_path": "data/civilizations/civ-elam-iran.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

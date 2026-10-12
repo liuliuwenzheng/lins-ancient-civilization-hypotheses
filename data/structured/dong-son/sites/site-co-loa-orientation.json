@@ -1,0 +1,31 @@
+{
+  "id": "site-co-loa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "古螺（指针）",
+    "en": "Cổ Loa (orientation)",
+    "native": "Cổ Loa"
+  },
+  "kind_note": "Large fortified centre in Red River Delta often discussed with late Đông Sơn / early historic transition",
+  "region": "Hanoi region, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "红河三角洲大型城防中心；与晚期东山/早期历史过渡常被一并讨论。",
+    "en": "Large fortified Red River centre often discussed with late Đông Sơn / early historic transition."
+  },
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-higham-orientation-later"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

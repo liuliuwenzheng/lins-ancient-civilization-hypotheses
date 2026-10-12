@@ -1,0 +1,43 @@
+{
+  "id": "asm-nok-terracotta-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "诺克陶俑雕塑框架组合",
+    "en": "Nok terracotta sculpture frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-type-area",
+    "site-jemaa-nok"
+  ],
+  "period_ids": [
+    "period-nok-iron-terracotta"
+  ],
+  "summary": {
+    "zh": "壳级陶俑传统指针；无伪造馆藏号。",
+    "en": "Shell terracotta tradition pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-jemaa-terracotta-tradition"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

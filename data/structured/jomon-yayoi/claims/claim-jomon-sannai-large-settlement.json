@@ -1,0 +1,34 @@
+{
+  "id": "claim-jomon-sannai-large-settlement",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究与教科文将三内丸山表述为日本北部大型绳文聚落，并纳入「北海道·北东北绳文遗址群」世界遗产（Habu；UNESCO 1632）。",
+    "en": "Research and UNESCO frame Sannai-Maruyama as a large northern Japanese Jōmon settlement within the Jōmon Prehistoric Sites serial property (Habu; UNESCO 1632)."
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-sannai-maruyama"
+  ],
+  "period_ids": [
+    "period-jomon-yayoi-overview"
+  ],
+  "object_ids": [
+    "asm-jomon-sannai-settlement-frame"
+  ],
+  "sources": [
+    "src-jomon-habu-sannai-antiquity-2008",
+    "src-jomon-unesco-1632"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

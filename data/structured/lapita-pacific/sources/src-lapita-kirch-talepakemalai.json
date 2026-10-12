@@ -1,0 +1,18 @@
+{
+  "id": "src-lapita-kirch-talepakemalai",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Kirch, Patrick V. Talepakemalai: Lapita and Its Transformations in the Mussau Islands of Near Oceania. Cotsen Institute of Archaeology (UCLA) publication.",
+  "url": "https://ioa.ucla.edu/talepakemalai",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Mussau/Talepakemalai excavation synthesis orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

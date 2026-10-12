@@ -1,0 +1,18 @@
+{
+  "id": "src-elam-carter-stolper-1984",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Carter, Elizabeth, and Matthew W. Stolper. 1984. Elam: Surveys of Political History and Archaeology. University of California Publications: Near Eastern Studies 25. Berkeley: University of California Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Classic survey; print; no page invention.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

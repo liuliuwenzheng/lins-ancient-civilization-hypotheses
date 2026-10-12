@@ -1,0 +1,18 @@
+{
+  "id": "src-yayoi-barnes-orientation",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Barnes, Gina L. Syntheses of Japanese archaeology covering Jōmon-to-Yayoi transition and early state formation (Cambridge / Oxbow handbook tradition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Regional synthesis orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

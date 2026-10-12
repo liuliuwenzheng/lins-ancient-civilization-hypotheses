@@ -1,0 +1,47 @@
+{
+  "id": "civ-nok-west-africa",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "诺克（西非）",
+    "en": "Nok (West Africa)",
+    "native": "Nok (modern label for central Nigerian culture)"
+  },
+  "region": "West Africa / central Nigeria (Jos Plateau and surrounding regions)",
+  "time_span": "Iron Age terracotta-and-iron tradition ca. 1500 BCE–turn of CE (recent chronologies; Fagg discovery tradition)",
+  "summary": {
+    "zh": "诺克档案壳：西非早期铁器/陶俑传统；library-seed，填非洲空白。",
+    "en": "Nok archive shell: early West African iron/terracotta tradition; library-seed closing Africa gap."
+  },
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-breunig-renn-chronology",
+    "src-nok-jae-outline-recent",
+    "src-nok-archaeology-magazine-feature",
+    "src-nok-jemaa-terracotta-tradition"
+  ],
+  "site_ids": [
+    "site-nok-type-area",
+    "site-jemaa-nok"
+  ],
+  "period_ids": [
+    "period-nok-iron-terracotta"
+  ],
+  "claim_ids": [
+    "claim-nok-terracotta-iron-tradition"
+  ],
+  "object_ids": [
+    "asm-nok-terracotta-frame"
+  ],
+  "related_ids": [],
+  "markdown_path": "data/civilizations/civ-nok-west-africa.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

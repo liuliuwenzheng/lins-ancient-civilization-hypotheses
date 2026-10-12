@@ -1,0 +1,31 @@
+{
+  "id": "site-monte-alban",
+  "entity": "site",
+  "names": {
+    "zh": "蒙特·阿尔班",
+    "en": "Monte Albán",
+    "native": "Monte Albán"
+  },
+  "kind_note": "Zapotec hilltop capital",
+  "region": "Valley of Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "萨波特克山巅都城；教科文名录。",
+    "en": "Zapotec hilltop capital; UNESCO listed."
+  },
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-unesco-monte-alban-415"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

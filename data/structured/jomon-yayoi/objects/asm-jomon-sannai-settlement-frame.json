@@ -1,0 +1,42 @@
+{
+  "id": "asm-jomon-sannai-settlement-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三内丸山绳文聚落框架组合",
+    "en": "Sannai-Maruyama Jōmon settlement frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-sannai-maruyama"
+  ],
+  "period_ids": [
+    "period-jomon-yayoi-overview"
+  ],
+  "summary": {
+    "zh": "壳级绳文聚落组合指针。",
+    "en": "Shell Jōmon settlement assemblage pointer."
+  },
+  "sources": [
+    "src-jomon-habu-sannai-antiquity-2008",
+    "src-jomon-unesco-1632"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

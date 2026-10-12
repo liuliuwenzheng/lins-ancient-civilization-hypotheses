@@ -1,0 +1,32 @@
+{
+  "id": "period-elam-overview",
+  "entity": "period",
+  "names": {
+    "zh": "埃兰综述时段（Potts 框架）",
+    "en": "Elam overview span (Potts frame)"
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "time": {
+    "label": "3rd millennium BCE through Neo-Elamite / early Achaemenid (Potts 2016)",
+    "approx_from_bce": 2700,
+    "approx_to_bce": 500,
+    "scheme_note": "Coarse overview from Potts 2016; not a unique calendar."
+  },
+  "summary": {
+    "zh": "壳级粗时段；细分待加厚。",
+    "en": "Shell-level coarse span; subdivisions deferred."
+  },
+  "sources": [
+    "src-elam-potts-2016"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

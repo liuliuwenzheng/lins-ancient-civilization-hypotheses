@@ -1,0 +1,33 @@
+{
+  "id": "period-lapita-dispersal",
+  "entity": "period",
+  "names": {
+    "zh": "拉皮塔扩散期",
+    "en": "Lapita dispersal span"
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "ca. 3300–2700 BP (research tradition working band)",
+    "approx_from_bce": 1350,
+    "approx_to_bce": 750,
+    "scheme_note": "BP band converted coarsely to BCE for schema; refine with cited models."
+  },
+  "summary": {
+    "zh": "壳级扩散窗。",
+    "en": "Shell dispersal window."
+  },
+  "sources": [
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-dating-appearance-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

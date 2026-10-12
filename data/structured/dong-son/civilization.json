@@ -1,0 +1,49 @@
+{
+  "id": "civ-dong-son",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "东山（东南亚）",
+    "en": "Đông Sơn (Southeast Asia)",
+    "native": "Đông Sơn"
+  },
+  "region": "Mainland Southeast Asia / northern Vietnam Red River Delta and related exchange sphere",
+  "time_span": "Bronze–Iron Age Đông Sơn tradition (1st millennium BCE floruit; Higham SEA Bronze Age frame)",
+  "summary": {
+    "zh": "东山档案壳：红河三角洲青铜鼓传统；library-seed，填东南亚空白。",
+    "en": "Đông Sơn archive shell: Red River Delta bronze-drum tradition; library-seed closing SEA gap."
+  },
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-calo-bronze-drums-2009",
+    "src-dongson-persee-drums-1991",
+    "src-dongson-higham-orientation-later",
+    "src-dongson-vietnam-excavation-orientation"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa",
+    "site-co-loa-orientation"
+  ],
+  "period_ids": [
+    "period-dong-son-bronze-iron"
+  ],
+  "claim_ids": [
+    "claim-dong-son-bronze-drum-tradition"
+  ],
+  "object_ids": [
+    "asm-dong-son-bronze-drums-frame"
+  ],
+  "related_ids": [
+    "civ-china-bronze"
+  ],
+  "markdown_path": "data/civilizations/civ-dong-son.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-hittite-hattusa-capital",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "学术与教科文表述将哈图沙定为赫梯都城，并以其泥板档案为王国重建的核心证据之一（Bryce 2005；UNESCO 377）。",
+    "en": "Scholarship and UNESCO frame Hattusa as the Hittite capital, with its tablet archives as core evidence for reconstructing the kingdom (Bryce 2005; UNESCO 377)."
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [
+    "period-hittite-kingdom-empire"
+  ],
+  "object_ids": [
+    "asm-hattusa-archives-frame"
+  ],
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-unesco-hattusa"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

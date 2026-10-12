@@ -1,0 +1,18 @@
+{
+  "id": "src-zapotec-blanton-et-al-ancient-oaxaca",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Blanton, Richard E., Gary M. Feinman, Stephen A. Kowalewski, and Linda M. Nicholas. Ancient Oaxaca (Cambridge case-study tradition) — origins of Monte Albán chapters.",
+  "url": "https://www.cambridge.org/core/books/ancient-oaxaca/origins-of-monte-alban/42F9559B9F8C0456783C648CA57C7054",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Origins-of-Monte-Albán chapter orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

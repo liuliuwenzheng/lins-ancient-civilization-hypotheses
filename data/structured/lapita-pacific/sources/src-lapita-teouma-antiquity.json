@@ -1,0 +1,18 @@
+{
+  "id": "src-lapita-teouma-antiquity",
+  "entity": "source",
+  "type": "article",
+  "citation": "Bedford, Stuart, Matthew Spriggs, et al. The Teouma Lapita site and the early human settlement of the Pacific Islands. Antiquity.",
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/teouma-lapita-site-and-the-early-human-settlement-of-the-pacific-islands/9DC8810C8A609DE9089BE221D51DFBF2",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Teouma Vanuatu site orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

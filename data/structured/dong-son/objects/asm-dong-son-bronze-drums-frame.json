@@ -1,0 +1,42 @@
+{
+  "id": "asm-dong-son-bronze-drums-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "东山青铜鼓框架组合",
+    "en": "Đông Sơn bronze-drums frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-bronze-iron"
+  ],
+  "summary": {
+    "zh": "壳级青铜鼓传统指针；无伪造馆藏号。",
+    "en": "Shell bronze-drum tradition pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-dongson-calo-bronze-drums-2009",
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

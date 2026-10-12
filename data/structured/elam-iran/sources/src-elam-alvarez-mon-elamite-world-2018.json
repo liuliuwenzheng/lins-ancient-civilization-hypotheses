@@ -1,0 +1,18 @@
+{
+  "id": "src-elam-alvarez-mon-elamite-world-2018",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Álvarez-Mon, Javier, Gian Pietro Basello, and Yasmina Wicks, eds. 2018. The Elamite World. Routledge Worlds. London; New York: Routledge.",
+  "url": "https://www.routledge.com/The-Elamite-World/Alvarez-Mon-Basello-Wicks/p/book/9781138999893",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Edited handbook; volume orientation only.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

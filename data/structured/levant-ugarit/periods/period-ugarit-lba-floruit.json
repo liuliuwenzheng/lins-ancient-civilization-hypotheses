@@ -1,0 +1,32 @@
+{
+  "id": "period-ugarit-lba-floruit",
+  "entity": "period",
+  "names": {
+    "zh": "乌加里特晚青铜繁荣期",
+    "en": "Ugarit LBA floruit"
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "ca. 14th–early 12th c. BCE (Yon 2006)",
+    "approx_from_bce": 1400,
+    "approx_to_bce": 1180,
+    "scheme_note": "Yon site frame; destruction absolute debates open."
+  },
+  "summary": {
+    "zh": "壳级晚青铜繁荣窗。",
+    "en": "Shell LBA floruit window."
+  },
+  "sources": [
+    "src-ugarit-yon-2006"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

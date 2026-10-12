@@ -1,0 +1,43 @@
+{
+  "id": "asm-lapita-dentate-pottery-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉皮塔齿印陶器框架组合",
+    "en": "Lapita dentate-stamped pottery frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-talepakemalai",
+    "site-teouma"
+  ],
+  "period_ids": [
+    "period-lapita-dispersal"
+  ],
+  "summary": {
+    "zh": "壳级齿印陶传统指针。",
+    "en": "Shell dentate-stamped pottery tradition pointer."
+  },
+  "sources": [
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-green-retrospective"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

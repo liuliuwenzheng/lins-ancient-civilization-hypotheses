@@ -1,0 +1,32 @@
+{
+  "id": "period-nubia-kush-overview",
+  "entity": "period",
+  "names": {
+    "zh": "努比亚/库施综述时段",
+    "en": "Nubia/Kush overview span"
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Kerma through Meroitic (Edwards 2004)",
+    "approx_from_bce": 2500,
+    "approx_to_bce": null,
+    "scheme_note": "Coarse multi-phase; Meroitic end ~AD 350 conventional — absolute bands deferred."
+  },
+  "summary": {
+    "zh": "壳级多阶段粗窗。",
+    "en": "Shell multi-phase coarse window."
+  },
+  "sources": [
+    "src-nubia-edwards-2004"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -717,3 +717,20 @@
 **核实：** `export_check` OK。
 
 **备注：** 本工作区未找到 hermes/嘻嘻；付费书目只记题名、不伪造引用。
+
+
+### D-2026-10-12-12 — 全球覆盖图 + 第一波壳包
+
+**决策：** 发布双语**覆盖图**（复杂社会/有考古档案的早期文明，非维基式广度）。开设 **11 个第一波 `library-seed` 壳**，填补主要地理空白，同时**继续加厚**原有九个密包。**不等**完美密度再进 API/UI。**不削薄**密包。**不编造**发现、坐标或媒体图。
+
+**覆盖图：** [`docs/coverage-map.zh.md`](coverage-map.zh.md) · [English](coverage-map.md)
+
+**审议：** [`deliberations/delib-2026-10-12-global-coverage.md`](../deliberations/delib-2026-10-12-global-coverage.md) — 圆桌赞成「先开壳 + 继续加厚九包」。
+
+**第一波包 id：** `elam-iran`、`nubia-kush`、`anatolia-hittite`、`levant-ugarit`、`bmac-oxus`、`nok-west-africa`、`teotihuacan`、`zapotec`、`lapita-pacific`、`dong-son`、`jomon-yayoi`（各含 `civ-*` + 结构化包；≥5 来源；1–3 遗址；1 时段；1 对象；1 条有出处主张）。
+
+**第二/三波（未开）：** 安第斯晚期（查文/蒂瓦纳科/瓦里）、经典玛雅、阿克苏姆、班清、朝鲜半岛早期、米坦尼、腓尼基；以及卡霍基亚、大津巴布韦、印加等 — 见覆盖图。
+
+**核实：** `export_check` OK（**20** 包）。API/UI 经目录自动发现新包。
+
+**备注：** 诚信优先于速度。诚实壳优于虚荣密度。生成器：`tools/wave1_shells/generate_wave1.py`。

@@ -1,0 +1,31 @@
+{
+  "id": "site-alacahoyuk",
+  "entity": "site",
+  "names": {
+    "zh": "阿拉贾霍尤克",
+    "en": "Alacahöyük",
+    "native": "Alacahöyük"
+  },
+  "kind_note": "Central Anatolian centre",
+  "region": "Çorum region, Türkiye",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "中安纳托利亚中心；早王朝精英墓与赫梯期遗存。",
+    "en": "Central Anatolian centre; early elite tombs and Hittite-period remains."
+  },
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-collins-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

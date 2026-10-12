@@ -1,0 +1,42 @@
+{
+  "id": "asm-teotihuacan-urban-grid-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特奥蒂瓦坎城市网格测绘框架组合",
+    "en": "Teotihuacan urban-grid mapping frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "summary": {
+    "zh": "壳级 TMP 测绘组合指针。",
+    "en": "Shell TMP mapping assemblage pointer."
+  },
+  "sources": [
+    "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-tmp-antiquity-data"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

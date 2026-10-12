@@ -1,0 +1,42 @@
+{
+  "id": "asm-bmac-gonur-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "戈努尔 BMAC 物质文化框架组合",
+    "en": "Gonur BMAC material-culture frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe"
+  ],
+  "period_ids": [
+    "period-bmac-margiana-florescence"
+  ],
+  "summary": {
+    "zh": "壳级绿洲青铜组合指针。",
+    "en": "Shell oasis Bronze assemblage pointer."
+  },
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-sarianidi-gonur-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

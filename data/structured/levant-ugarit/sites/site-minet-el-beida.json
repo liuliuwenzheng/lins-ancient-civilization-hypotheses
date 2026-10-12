@@ -1,0 +1,31 @@
+{
+  "id": "site-minet-el-beida",
+  "entity": "site",
+  "names": {
+    "zh": "米内特·贝达",
+    "en": "Minet el-Beida",
+    "native": "Maʾḫadu"
+  },
+  "kind_note": "Port associated with Ugarit",
+  "region": "Coast near Ras Shamra, Syria",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "乌加里特外港。",
+    "en": "Ugarit’s associated port."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-schaeffer-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

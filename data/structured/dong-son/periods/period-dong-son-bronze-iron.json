@@ -1,0 +1,32 @@
+{
+  "id": "period-dong-son-bronze-iron",
+  "entity": "period",
+  "names": {
+    "zh": "东山青铜–铁器传统期",
+    "en": "Đông Sơn Bronze–Iron tradition span"
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "time": {
+    "label": "1st millennium BCE floruit (Higham SEA frame)",
+    "approx_from_bce": 1000,
+    "approx_to_bce": 100,
+    "scheme_note": "Higham working floruit; site-level chronologies deferred."
+  },
+  "summary": {
+    "zh": "壳级繁荣窗。",
+    "en": "Shell floruit window."
+  },
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

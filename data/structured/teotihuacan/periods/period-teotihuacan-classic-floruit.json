@@ -1,0 +1,32 @@
+{
+  "id": "period-teotihuacan-classic-floruit",
+  "entity": "period",
+  "names": {
+    "zh": "特奥蒂瓦坎经典繁荣期",
+    "en": "Teotihuacan Classic floruit"
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "time": {
+    "label": "broadly 1st–6th/7th c. CE (Cowgill urban frame)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "CE span; Cowgill synthesis frame — absolute phase tables deferred."
+  },
+  "summary": {
+    "zh": "壳级经典繁荣窗。",
+    "en": "Shell Classic floruit window."
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

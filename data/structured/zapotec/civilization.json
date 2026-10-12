@@ -1,0 +1,50 @@
+{
+  "id": "civ-zapotec",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "萨波特克（蒙特·阿尔班）",
+    "en": "Zapotec (Monte Albán)",
+    "native": "Zapotec / Monte Albán"
+  },
+  "region": "Mesoamerica / Valley of Oaxaca, Mexico",
+  "time_span": "Formative foundation of Monte Albán ~500 BCE through Classic Zapotec capital florescence (Blanton settlement frame)",
+  "summary": {
+    "zh": "萨波特克档案壳：Blanton 聚落考古 + 蒙特·阿尔班教科文；library-seed。",
+    "en": "Zapotec archive shell: Blanton settlement archaeology + Monte Albán UNESCO; library-seed."
+  },
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-unesco-monte-alban-415",
+    "src-zapotec-blanton-et-al-ancient-oaxaca",
+    "src-zapotec-marcus-flannery-orientation",
+    "src-zapotec-casterneda-or-inah-orientation"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "claim_ids": [
+    "claim-zapotec-monte-alban-capital"
+  ],
+  "object_ids": [
+    "asm-monte-alban-settlement-frame"
+  ],
+  "related_ids": [
+    "civ-olmec",
+    "civ-teotihuacan",
+    "civ-early-maya"
+  ],
+  "markdown_path": "data/civilizations/civ-zapotec.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

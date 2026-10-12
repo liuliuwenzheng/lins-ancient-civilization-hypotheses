@@ -1,0 +1,31 @@
+{
+  "id": "site-jemaa-nok",
+  "entity": "site",
+  "names": {
+    "zh": "杰马（诺克陶俑）",
+    "en": "Jemaa (Nok terracotta locality)",
+    "native": "Jemaa"
+  },
+  "kind_note": "Famous terracotta head find locality",
+  "region": "Kaduna/Plateau region, Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "著名陶俑头像出土地；热释光等测年讨论见研究史。",
+    "en": "Famous terracotta head locality; TL dating discussed in research history."
+  },
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-jemaa-terracotta-tradition"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

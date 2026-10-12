@@ -1,0 +1,42 @@
+{
+  "id": "asm-ugarit-tablet-archives-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌加里特泥板档案框架组合",
+    "en": "Ugarit tablet-archives frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "summary": {
+    "zh": "壳级字母楔形泥板档案指针。",
+    "en": "Shell alphabetic-cuneiform archive pointer."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-pardee-text-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

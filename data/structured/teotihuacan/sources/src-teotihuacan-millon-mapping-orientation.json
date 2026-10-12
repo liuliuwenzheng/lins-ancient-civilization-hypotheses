@@ -1,0 +1,18 @@
+{
+  "id": "src-teotihuacan-millon-mapping-orientation",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Millon, René. Teotihuacan Mapping Project publications (1960s–) — systematic survey mapping of the city grid and surface collections.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "P-tradition mapping pointer; TMP data archiving continues at ASU.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

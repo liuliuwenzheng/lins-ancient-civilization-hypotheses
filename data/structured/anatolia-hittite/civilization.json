@@ -1,0 +1,51 @@
+{
+  "id": "civ-anatolia-hittite",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "安纳托利亚 / 赫梯",
+    "en": "Anatolia / Hittite",
+    "native": "Ḫatti / Nesite"
+  },
+  "region": "Southwest Asia / central Anatolia (Türkiye); northern Syria contacts",
+  "time_span": "ca. 17th–12th centuries BCE Hittite kingdom/empire floruit (Bryce 2005 narrative frame)",
+  "summary": {
+    "zh": "赫梯档案壳：Bryce 叙事史 + 哈图沙；library-seed。",
+    "en": "Hittite archive shell: Bryce narrative + Hattusa; library-seed."
+  },
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-unesco-hattusa",
+    "src-hittite-seeher-hattusa-2006",
+    "src-hittite-collins-2007",
+    "src-hittite-beckman-text-orientation"
+  ],
+  "site_ids": [
+    "site-hattusa",
+    "site-alacahoyuk"
+  ],
+  "period_ids": [
+    "period-hittite-kingdom-empire"
+  ],
+  "claim_ids": [
+    "claim-hittite-hattusa-capital"
+  ],
+  "object_ids": [
+    "asm-hattusa-archives-frame"
+  ],
+  "related_ids": [
+    "civ-aegean",
+    "civ-levant-ugarit",
+    "civ-mesopotamia"
+  ],
+  "markdown_path": "data/civilizations/civ-anatolia-hittite.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

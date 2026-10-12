@@ -1,0 +1,18 @@
+{
+  "id": "src-bmac-sarianidi-gonur-orientation",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sarianidi, Victor I. Gonur Depe excavation publications (Margiana) — founding excavation tradition for Oxus/BMAC type-site cluster.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "P-tradition pointer; deepen without inventing inventories.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

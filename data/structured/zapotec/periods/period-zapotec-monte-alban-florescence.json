@@ -1,0 +1,32 @@
+{
+  "id": "period-zapotec-monte-alban-florescence",
+  "entity": "period",
+  "names": {
+    "zh": "蒙特·阿尔班萨波特克繁荣窗",
+    "en": "Monte Albán Zapotec florescence window"
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "time": {
+    "label": "foundation ~500 BCE through Classic capital florescence (Blanton frame)",
+    "approx_from_bce": 500,
+    "approx_to_bce": null,
+    "scheme_note": "Blanton settlement frame; CE Classic end deferred to phase tables."
+  },
+  "summary": {
+    "zh": "壳级建城至经典繁荣窗。",
+    "en": "Shell foundation-to-Classic window."
+  },
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

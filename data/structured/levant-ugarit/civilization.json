@@ -1,0 +1,52 @@
+{
+  "id": "civ-levant-ugarit",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "黎凡特 / 乌加里特",
+    "en": "Levant / Ugarit",
+    "native": "Ugarit / Ras Shamra"
+  },
+  "region": "Southwest Asia / northern Levantine coast (Syria)",
+  "time_span": "Late Bronze Age floruit ca. 14th–early 12th c. BCE at Ras Shamra–Ugarit (Yon 2006 frame)",
+  "summary": {
+    "zh": "乌加里特档案壳：Yon 综述 + Ras Shamra；library-seed。",
+    "en": "Ugarit archive shell: Yon synthesis + Ras Shamra; library-seed."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-schaeffer-orientation",
+    "src-ugarit-watson-wyatt-1999",
+    "src-ugarit-pardee-text-orientation",
+    "src-ugarit-singer-political-orientation"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit",
+    "site-minet-el-beida"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "claim_ids": [
+    "claim-ugarit-ras-shamra-capital"
+  ],
+  "object_ids": [
+    "asm-ugarit-tablet-archives-frame"
+  ],
+  "related_ids": [
+    "civ-anatolia-hittite",
+    "civ-aegean",
+    "civ-mesopotamia",
+    "civ-ancient-egypt"
+  ],
+  "markdown_path": "data/civilizations/civ-levant-ugarit.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

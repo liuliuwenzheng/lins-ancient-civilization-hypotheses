@@ -1,0 +1,18 @@
+{
+  "id": "src-nubia-welsby-1996",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Welsby, Derek A. 1996. The Kingdom of Kush: The Napatan and Meroitic Empires. London: British Museum Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Napatan–Meroitic synthesis; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

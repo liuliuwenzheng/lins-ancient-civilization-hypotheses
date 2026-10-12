@@ -1,0 +1,32 @@
+{
+  "id": "period-hittite-kingdom-empire",
+  "entity": "period",
+  "names": {
+    "zh": "赫梯王国/帝国期（Bryce 框架）",
+    "en": "Hittite kingdom/empire span (Bryce frame)"
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "ca. 17th–12th c. BCE (Bryce 2005)",
+    "approx_from_bce": 1650,
+    "approx_to_bce": 1180,
+    "scheme_note": "Narrative political chronology; absolute debates open."
+  },
+  "summary": {
+    "zh": "壳级政治叙事窗。",
+    "en": "Shell political-narrative window."
+  },
+  "sources": [
+    "src-hittite-bryce-2005"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

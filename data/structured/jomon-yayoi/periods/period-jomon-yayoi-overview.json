@@ -1,0 +1,33 @@
+{
+  "id": "period-jomon-yayoi-overview",
+  "entity": "period",
+  "names": {
+    "zh": "绳文–弥生综述窗",
+    "en": "Jōmon–Yayoi overview window"
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "time": {
+    "label": "Jōmon through Yayoi transition (Habu/Barnes frames); Sannai ~3900–2300 BCE occupation cited in site materials",
+    "approx_from_bce": 3900,
+    "approx_to_bce": 300,
+    "scheme_note": "Coarse overview spanning Jōmon florescence into Yayoi; refine per cited schemes."
+  },
+  "summary": {
+    "zh": "壳级长窗；细分绳文期与弥生期待加厚。",
+    "en": "Shell long window; Jōmon vs Yayoi subdivisions deferred."
+  },
+  "sources": [
+    "src-jomon-habu-sannai-antiquity-2008",
+    "src-yayoi-barnes-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

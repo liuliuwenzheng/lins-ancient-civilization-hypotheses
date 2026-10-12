@@ -1,0 +1,33 @@
+{
+  "id": "period-nok-iron-terracotta",
+  "entity": "period",
+  "names": {
+    "zh": "诺克铁器–陶俑传统期",
+    "en": "Nok iron–terracotta tradition span"
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "ca. 1500 BCE–turn of CE (recent JAA chronologies; working band)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": null,
+    "scheme_note": "Breunig/Frankfurt project chronology orientation; refine with site-level dates later."
+  },
+  "summary": {
+    "zh": "壳级年代窗；遗址级测年待加厚。",
+    "en": "Shell chronological window; site-level dates deferred."
+  },
+  "sources": [
+    "src-nok-breunig-renn-chronology",
+    "src-nok-jae-outline-recent"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

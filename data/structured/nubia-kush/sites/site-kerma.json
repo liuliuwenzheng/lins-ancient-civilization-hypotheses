@@ -1,0 +1,31 @@
+{
+  "id": "site-kerma",
+  "entity": "site",
+  "names": {
+    "zh": "凯尔迈",
+    "en": "Kerma",
+    "native": "Kerma"
+  },
+  "kind_note": "Bronze Age Kushite capital",
+  "region": "Dongola Reach, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "青铜时代库施关键城址。",
+    "en": "Bronze Age Kushite keystone centre."
+  },
+  "sources": [
+    "src-nubia-edwards-2004",
+    "src-nubia-bonnet-kerma-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "civ-bmac-oxus",
+  "entity": "civilization",
+  "kind": "fact",
+  "status": "library-seed",
+  "names": {
+    "zh": "巴克特里亚–马尔吉亚纳 / 奥克苏斯",
+    "en": "BMAC / Oxus Civilization",
+    "native": "Bactria–Margiana Archaeological Complex"
+  },
+  "region": "Central Asia / Margiana (Murghab) and Bactria oases",
+  "time_span": "Bronze Age oasis florescence ca. 2200–1750 BCE Margiana frame (Hiebert 1994)",
+  "summary": {
+    "zh": "奥克苏斯/BMAC 档案壳：Hiebert + Gonur；library-seed。",
+    "en": "Oxus/BMAC archive shell: Hiebert + Gonur; library-seed."
+  },
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-hiebert-antiquity-1994",
+    "src-bmac-lamberg-karlovsky-antiquity-1994",
+    "src-bmac-lamberg-karlovsky-roa-2012",
+    "src-bmac-sarianidi-gonur-orientation"
+  ],
+  "site_ids": [
+    "site-gonur-depe",
+    "site-togolok"
+  ],
+  "period_ids": [
+    "period-bmac-margiana-florescence"
+  ],
+  "claim_ids": [
+    "claim-bmac-margiana-oasis-frame"
+  ],
+  "object_ids": [
+    "asm-bmac-gonur-frame"
+  ],
+  "related_ids": [
+    "civ-indus-valley",
+    "civ-elam-iran",
+    "civ-mesopotamia"
+  ],
+  "markdown_path": "data/civilizations/civ-bmac-oxus.md",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/generate_wave1.py",
+      "docs/coverage-map.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+  }
+}
