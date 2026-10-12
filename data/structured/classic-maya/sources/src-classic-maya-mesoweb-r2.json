@@ -1,0 +1,19 @@
+{
+  "id": "src-classic-maya-mesoweb-r2",
+  "entity": "source",
+  "type": "web",
+  "citation": "Mesoweb — Classic Maya epigraphy and site report portal (Round-2).",
+  "url": "https://www.mesoweb.com/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Digital corpus; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

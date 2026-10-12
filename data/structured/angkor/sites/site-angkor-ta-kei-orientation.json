@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-ta-kei-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "塔盖（指针）",
+    "en": "Ta Keo (orientation)",
+    "native": null
+  },
+  "kind_note": "Temple-mountain (unfinished)",
+  "region": "Angkor, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "未完成山寺指针。",
+    "en": "Unfinished temple-mountain orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-freeman-jacques-orientation",
+    "src-angkor-jacques-chronology"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

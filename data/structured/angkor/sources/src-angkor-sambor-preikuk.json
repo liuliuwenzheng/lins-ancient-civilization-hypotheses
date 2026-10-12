@@ -1,0 +1,19 @@
+{
+  "id": "src-angkor-sambor-preikuk",
+  "entity": "source",
+  "type": "article",
+  "citation": "Sambor Prei Kuk / Isanapura pre-Angkor capital research orientations.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Isanapura pre-Angkor orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

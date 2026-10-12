@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-storage-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "仓库（qollqa）与瓦努科潘帕等中心展示国家存储规模（Morris）。",
+    "en": "Qollqa storage and centres such as Huánuco Pampa illustrate state storage scale (Morris).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-huanuco-pampa-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-morris-storage",
+    "src-inca-morris-huanuco"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

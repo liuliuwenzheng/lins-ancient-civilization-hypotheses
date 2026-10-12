@@ -1,0 +1,41 @@
+{
+  "id": "asm-inca-metalwork-provision",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金属工艺供给组合",
+    "en": "Metalwork provisioning frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "金属工艺与矿冶供给指针。",
+    "en": "Metalwork and mining-provision pointer.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-metalwork-orientation",
+    "src-inca-daltroy-provinces"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

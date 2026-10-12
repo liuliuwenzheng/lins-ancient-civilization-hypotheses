@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-pakal-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帕伦克铭文传统将帕卡尔墓葬与神庙铭文程序紧密联系（Stuart）。",
+    "en": "Palenque epigraphic tradition tightly links Pakal’s tomb to temple inscription programs (Stuart).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-palenque-temple-inscriptions-r2"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-stuart-palenque",
+    "src-classic-maya-stuart-kings"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-mausoleum-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "砖石陵寝建筑补充石碑田之外的精英葬仪景观。",
+    "en": "Brick/stone mausoleum architecture complements elite funerary landscapes beyond the stelae field.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-mausoleum-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-phillipson-2012",
+    "src-aksum-munro-hay-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

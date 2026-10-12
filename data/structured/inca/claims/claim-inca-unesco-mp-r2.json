@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-unesco-mp-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录 274 将马丘比丘表述为皇家庄园与安第斯景观结合的遗产地。",
+    "en": "UNESCO list 274 frames Machu Picchu as a heritage property combining royal estate and Andean landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-machu-picchu"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-unesco-mp-r2",
+    "src-inca-unesco-machu-picchu-274"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

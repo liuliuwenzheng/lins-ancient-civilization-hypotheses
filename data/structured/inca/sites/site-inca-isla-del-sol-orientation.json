@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-isla-del-sol-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "太阳岛（指针）",
+    "en": "Isla del Sol (orientation)",
+    "native": null
+  },
+  "kind_note": "Titicaca sacred island under Inca",
+  "region": "Lake Titicaca, Bolivia",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "的的喀喀圣岛指针。",
+    "en": "Titicaca sacred-island orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-bauer-ceque-deepen",
+    "src-inca-julien-historical"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

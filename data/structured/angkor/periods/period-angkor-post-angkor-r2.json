@@ -1,0 +1,36 @@
+{
+  "id": "period-angkor-post-angkor-r2",
+  "entity": "period",
+  "names": {
+    "zh": "后吴哥/阿瑜陀耶互动讨论窗",
+    "en": "Post-Angkor / Ayutthaya interaction window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "Post-Angkor occupation and regional interaction debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Post-Angkor occupation and regional interaction debates"
+  },
+  "summary": {
+    "zh": "后吴哥占领与区域互动讨论。",
+    "en": "Post-Angkor occupation and interaction debates.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-post-angkor-ayutthaya",
+    "src-angkor-penny-climate-r2"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

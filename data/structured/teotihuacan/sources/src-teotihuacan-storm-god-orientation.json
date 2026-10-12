@@ -1,0 +1,19 @@
+{
+  "id": "src-teotihuacan-storm-god-orientation",
+  "entity": "source",
+  "type": "article",
+  "citation": "Storm God / Tlaloc-complex iconography essays in Teotihuacan art history.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Storm God iconography orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

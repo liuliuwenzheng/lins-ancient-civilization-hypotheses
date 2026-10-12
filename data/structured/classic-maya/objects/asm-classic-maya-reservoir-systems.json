@@ -1,0 +1,43 @@
+{
+  "id": "asm-classic-maya-reservoir-systems",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "蓄水池系统组合",
+    "en": "Reservoir systems frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-tikal-classic"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "城市水利/蓄水组合。",
+    "en": "Urban reservoir/water-management frame.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-water-management",
+    "src-classic-maya-unesco-tikal-deepen-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

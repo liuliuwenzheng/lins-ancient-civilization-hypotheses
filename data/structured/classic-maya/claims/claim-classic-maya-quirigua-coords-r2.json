@@ -1,0 +1,31 @@
+{
+  "id": "claim-classic-maya-quirigua-coords-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录 149 公布基里瓜地理坐标（WHC DMS），本轮按 P 级写入指针遗址。",
+    "en": "UNESCO list 149 publishes Quiriguá geographic coordinates (WHC DMS); this pass writes them at P-grade to the orientation site.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-quirigua-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-unesco-quirogua-149"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-foundations-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Phillipson 综论将阿克苏姆表述为可与同期红海世界对话的非洲文明（综论取向）。",
+    "en": "Phillipson’s synthesis frames Aksum as an African civilization in dialogue with the contemporary Red Sea world.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-phillipson-foundations-r2",
+    "src-aksum-phillipson-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

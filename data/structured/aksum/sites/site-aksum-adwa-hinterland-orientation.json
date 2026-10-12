@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-adwa-hinterland-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿杜瓦腹地（指针）",
+    "en": "Adwa hinterland (orientation)",
+    "native": null
+  },
+  "kind_note": "Highland hinterland settlement orientation",
+  "region": "Tigray, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "高原腹地聚落指针。",
+    "en": "Highland hinterland settlement orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-fattovich-blue-nile",
+    "src-aksum-phillipson-foundations-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

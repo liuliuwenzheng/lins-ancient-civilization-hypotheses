@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-lidar-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "激光雷达研究揭示吴哥大都市区道路、居址土墩与稻田网格超出台庙核心（Evans 等）。",
+    "en": "Lidar research reveals roads, habitation mounds, and rice-field grids of Greater Angkor beyond the temple core (Evans and others).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-habitation-mounds-r2"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-evans-lidar-deepen-r2",
+    "src-angkor-evans-pnas-2013"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

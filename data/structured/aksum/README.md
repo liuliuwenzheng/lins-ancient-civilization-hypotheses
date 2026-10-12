@@ -2,8 +2,8 @@
 
 [中文](README.zh.md) | English
 
-**Status:** `library-seed-rich` (hot densify Batch A, D-2026-10-12-19). Toward fact-library; not yet Egypt-level density.
+**Status:** `library-seed-rich` (hot densify Round-2 Batch A, D-2026-10-12-22). Toward fact-library; not yet Egypt-level density.
 
-Counts: sources 30 · sites 15 · periods 8 · objects 7 · claims 25 · media 5
+Counts: sources 48 · sites 23 · periods 10 · objects 19 · claims 42 · media 8
 
 Markdown: `data/civilizations/civ-aksum.md`. Run `tools/export_check.py`.

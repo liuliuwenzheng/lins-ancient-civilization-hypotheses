@@ -20,7 +20,11 @@
     "src-classic-maya-unesco-quirogua-149",
     "src-classic-maya-martin-grube-2008"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 15.27059,
+    "lon": -89.04025,
+    "precision_note": "UNESCO WHC list 149 Archaeological Park and Ruins of Quirigua published DMS N15 16 14.124 W89 2 24.9; access 2026-10-12; grade=P"
+  },
   "editorial": {
     "derived_from": [
       "tools/hot_densify/densify_hot_batch_a.py",
@@ -28,6 +32,6 @@
       "docs/decisions.md#d-2026-10-12-19"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library. | Coords filled D-2026-10-12-22."
   }
 }

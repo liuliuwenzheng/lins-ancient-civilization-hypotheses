@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-adulis-harbor-r2",
+  "entity": "site",
+  "names": {
+    "zh": "阿杜利斯港湾扇区（指针）",
+    "en": "Adulis harbor sector (orientation)",
+    "native": null
+  },
+  "kind_note": "Red Sea harbor sector deepen",
+  "region": "Near Zula, Eritrea",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "红海港湾扇区加深指针。",
+    "en": "Red Sea harbor-sector deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-manzo-adulis-r2",
+    "src-aksum-burstein-periplus"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

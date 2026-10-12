@@ -1,0 +1,43 @@
+{
+  "id": "asm-teotihuacan-epiclassic-ceramics-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "后经典陶器讨论组合",
+    "en": "Epiclassic ceramics discussion frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-teotihuacan-epiclassic-coyotlatelco-r2"
+  ],
+  "summary": {
+    "zh": "科约特拉特尔科等转型陶器讨论。",
+    "en": "Coyotlatelco and transition ceramic discussion.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-epiclassic-coyotlatelco",
+    "src-teotihuacan-rattray-ceramics"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

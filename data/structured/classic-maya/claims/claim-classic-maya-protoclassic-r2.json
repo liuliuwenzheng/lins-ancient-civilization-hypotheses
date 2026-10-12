@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-protoclassic-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "原经典/花园区地平为前经典至早期经典过渡提供陶瓷讨论窗。",
+    "en": "Protoclassic / Floral Park horizon supplies a ceramic discussion window for Preclassic→Early Classic transition.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-classic-maya-protoclassic-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-protoclassic-orientation",
+    "src-classic-maya-culbert-ceramics"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

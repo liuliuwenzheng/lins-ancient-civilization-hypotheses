@@ -1,0 +1,44 @@
+{
+  "id": "asm-aksum-stelae-engineering-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "石碑工程组合",
+    "en": "Stelae engineering frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-gobodra-orientation",
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "采石—运输—竖立工程组合。",
+    "en": "Quarry–transport–erection engineering frame.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-stelae-quarry-r2",
+    "src-aksum-gobodra-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

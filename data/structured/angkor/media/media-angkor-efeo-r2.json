@@ -1,0 +1,32 @@
+{
+  "id": "media-angkor-efeo-r2",
+  "entity": "media",
+  "title": {
+    "zh": "法国远东学院门户",
+    "en": "EFEO portal",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.efeo.fr/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-angkor-efeo-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "EFEO",
+    "upstream_url": "https://www.efeo.fr/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

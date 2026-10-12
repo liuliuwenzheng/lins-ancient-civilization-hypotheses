@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-calendrics-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "长纪年与历法相关讨论支撑经典编年框架（历法文献取向；不固定单一相关方案为事实）。",
+    "en": "Long Count and calendrics discussions underpin Classic chronological frames (calendrics orientation; no single correlation fixed as fact).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-quirigua-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-calendrics-lounsbury",
+    "src-classic-maya-grube-inscriptions"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

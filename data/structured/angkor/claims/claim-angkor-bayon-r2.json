@@ -1,0 +1,34 @@
+{
+  "id": "claim-angkor-bayon-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "巴戎四面塔图像与阇耶跋摩七世都城重建纲领相关讨论（EFEO / 碑铭取向）。",
+    "en": "Bayon face-tower imagery is discussed in relation to Jayavarman VII’s capital-rebuilding program (EFEO / epigraphy orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-bayon-orientation"
+  ],
+  "period_ids": [
+    "period-angkor-jayavarman-vii-deepen"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-bayon-efeo",
+    "src-angkor-jacques-chronology"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

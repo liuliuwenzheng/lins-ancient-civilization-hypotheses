@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-epiclassic-open-r2",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "科约特拉特尔科与后经典转型机制仍有争议，作假说保留。",
+    "en": "Coyotlatelco and Epiclassic transition mechanisms remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-teotihuacan-epiclassic-coyotlatelco-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-epiclassic-coyotlatelco",
+    "src-teotihuacan-carbon-dating-orientation"
+  ],
+  "disclaimer": "No single settled Epiclassic trajectory. / 后经典轨迹未有单一定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

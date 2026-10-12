@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-adulis-trade-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿杜利斯考古与《厄立特里亚海航行记》交叉，支撑红海贸易口岸解读。",
+    "en": "Adulis archaeology cross-read with the Periplus supports Red Sea port-of-trade interpretations.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-adulis-harbor-r2"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-manzo-adulis-r2",
+    "src-aksum-burstein-periplus"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

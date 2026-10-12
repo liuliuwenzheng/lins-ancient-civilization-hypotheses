@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-qohaito-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "科海托高原地景被讨论为连接阿杜利斯与高原的商路节点集群（临时名录取向）。",
+    "en": "Qohaito plateau landscape is discussed as a cluster of caravan nodes linking Adulis and the highlands (tentative-list orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-qohaito-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-qohaito-landscape",
+    "src-aksum-manzo-adulis-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-inca-khipu-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奇普研究讨论行政记录与人口/资源核算的绳结媒介（Urton 等取向）。",
+    "en": "Khipu research discusses knotted-cord media for administrative recording and census/resource accounts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-quipu-orientation",
+    "src-inca-daltroy-provinces"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

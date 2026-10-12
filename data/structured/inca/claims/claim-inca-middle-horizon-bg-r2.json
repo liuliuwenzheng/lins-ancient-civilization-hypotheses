@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-middle-horizon-bg-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "中地平瓦里/蒂瓦纳科背景为理解晚期印加扩张提供比较窗（取向，非简单继承论）。",
+    "en": "Middle Horizon Wari/Tiwanaku background supplies a comparative window for Late Horizon expansion (orientation; not simple inheritance).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-middle-horizon-interaction-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-covey-early",
+    "src-inca-daltroy-2014"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

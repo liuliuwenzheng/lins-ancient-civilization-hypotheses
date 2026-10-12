@@ -1,0 +1,33 @@
+{
+  "id": "site-uaxactun-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "瓦哈克通（指针）",
+    "en": "Uaxactún (orientation)",
+    "native": null
+  },
+  "kind_note": "Early Classic ceramic/epigraphic peer of Tikal",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "早期经典陶器/铭文对照点指针。",
+    "en": "Early Classic ceramic/epigraphic peer orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-tracanna-ceramics",
+    "src-classic-maya-culbert-ceramics"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

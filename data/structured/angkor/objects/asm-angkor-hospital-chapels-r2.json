@@ -1,0 +1,44 @@
+{
+  "id": "asm-angkor-hospital-chapels-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "医院庙组合加深",
+    "en": "Hospital chapels deepen frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-banteay-chhmar-orientation",
+    "site-angkor-neak-pean-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "阇耶跋摩七世医院庙网加深。",
+    "en": "JVII hospital-chapel network deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-chronology",
+    "src-angkor-banteay-chhmar-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

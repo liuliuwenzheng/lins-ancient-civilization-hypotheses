@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-inkawasi-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "印加瓦西（指针）",
+    "en": "Inkawasi (orientation)",
+    "native": null
+  },
+  "kind_note": "Cañete valley administrative centre",
+  "region": "Cañete, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "山谷行政中心指针。",
+    "en": "Valley administrative centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-daltroy-provinces",
+    "src-inca-morris-storage"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

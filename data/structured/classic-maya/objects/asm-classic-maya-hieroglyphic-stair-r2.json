@@ -1,0 +1,43 @@
+{
+  "id": "asm-classic-maya-hieroglyphic-stair-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "科潘象形文字阶梯加深",
+    "en": "Copán Hieroglyphic Stairway deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-copan-hieroglyphic-stair-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "象形文字阶梯语料加深。",
+    "en": "Hieroglyphic Stairway corpus deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-fash-copan",
+    "src-classic-maya-bell-copan-bones"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

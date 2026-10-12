@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-yucay-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "尤卡伊皇家庄园（指针）",
+    "en": "Yucay royal estate (orientation)",
+    "native": null
+  },
+  "kind_note": "Royal estate landscape",
+  "region": "Urubamba valley, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "皇室庄园景观指针。",
+    "en": "Royal estate landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-niles-callachaca",
+    "src-inca-niles-royal"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

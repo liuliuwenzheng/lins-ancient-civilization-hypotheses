@@ -1,0 +1,43 @@
+{
+  "id": "asm-aksum-ezana-inscriptions-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃扎纳多语铭文组合",
+    "en": "Ezana multilingual inscriptions frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-ezana-park-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "埃扎纳多语铭文语料组合。",
+    "en": "Ezana multilingual inscription corpus.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-ezana-inscriptions",
+    "src-aksum-littmann-daae-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

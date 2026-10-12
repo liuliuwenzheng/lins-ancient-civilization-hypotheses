@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-paleoenv-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "古环境研究讨论干旱与水利系统压力对吴哥轨迹的影响（Penny 等；机制权重开放）。",
+    "en": "Paleoenvironmental research discusses drought and hydraulic-system stress effects on Angkor trajectories (Penny and others; causal weights open).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-west-baray-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-penny-climate-r2",
+    "src-angkor-penny-paleoenv"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

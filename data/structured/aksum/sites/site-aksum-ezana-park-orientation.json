@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-ezana-park-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "埃扎纳公园碑区（指针）",
+    "en": "Ezana Park inscription sector (orientation)",
+    "native": null
+  },
+  "kind_note": "Inscription display/park sector orientation",
+  "region": "Aksum, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "埃扎纳铭文展示区指针。",
+    "en": "Ezana inscription sector orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-ezana-inscriptions",
+    "src-aksum-unesco-15-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

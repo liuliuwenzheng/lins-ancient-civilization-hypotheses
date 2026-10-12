@@ -1,0 +1,34 @@
+{
+  "id": "claim-aksum-ezana-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "埃扎纳多语铭文为王权与基督教化讨论提供第一手碑铭证据（Littmann / 现代释读取向）。",
+    "en": "Ezana multilingual inscriptions supply primary epigraphic evidence for kingship and Christianization discussions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-ezana-park-orientation"
+  ],
+  "period_ids": [
+    "period-aksumite-christian"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-ezana-inscriptions",
+    "src-aksum-littmann-daae-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

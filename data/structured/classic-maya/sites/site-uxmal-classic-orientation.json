@@ -20,7 +20,11 @@
     "src-classic-maya-unesco-uxmal-791",
     "src-classic-maya-sharer-traxler"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 20.362,
+    "lon": -89.77,
+    "precision_note": "UNESCO WHC Periodic Reporting / list 791 Uxmal component published coordinates 20.362 / -89.77; access 2026-10-12; grade=P"
+  },
   "editorial": {
     "derived_from": [
       "tools/hot_densify/densify_hot_batch_a.py",
@@ -28,6 +32,6 @@
       "docs/decisions.md#d-2026-10-12-19"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library."
+    "notes": "Hot-pack densify Batch A toward fact-library (D-2026-10-12-19). No invented pages/coords/finds/media art. Status stays library-seed-rich unless depth warrants fact-library. | Coords filled D-2026-10-12-22."
   }
 }

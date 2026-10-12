@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-hydraulic-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "液压城市模型将巴莱、渠道与居址表述为相互依赖的水利—都市系统（Fletcher 等）。",
+    "en": "Hydraulic-city models frame barays, canals, and habitation as interdependent water–urban systems (Fletcher and others).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-west-baray-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-fletcher-hydraulic-r2",
+    "src-angkor-fletcher-water"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

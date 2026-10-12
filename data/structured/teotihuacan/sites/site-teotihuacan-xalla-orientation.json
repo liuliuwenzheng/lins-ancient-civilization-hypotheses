@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-xalla-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "萨亚宫苑（指针）",
+    "en": "Xalla (orientation)",
+    "native": null
+  },
+  "kind_note": "Elite palace-complex orientation",
+  "region": "Teotihuacan north of Sun Pyramid",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "精英宫苑复合体指针。",
+    "en": "Elite palace-complex orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-xalla-orientation",
+    "src-teotihuacan-manzanilla-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

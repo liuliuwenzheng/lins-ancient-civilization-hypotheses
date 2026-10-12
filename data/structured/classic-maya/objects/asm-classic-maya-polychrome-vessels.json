@@ -1,0 +1,41 @@
+{
+  "id": "asm-classic-maya-polychrome-vessels",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "彩绘陶器语料",
+    "en": "Polychrome vessel corpus",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "宫廷彩绘陶器图像语料。",
+    "en": "Court polychrome vessel imagery corpus.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-golden-age-art",
+    "src-classic-maya-houston-stuart-taube"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

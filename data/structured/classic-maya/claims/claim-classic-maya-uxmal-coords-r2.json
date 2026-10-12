@@ -1,0 +1,31 @@
+{
+  "id": "claim-classic-maya-uxmal-coords-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文周期报告/名录 791 公布乌斯马尔组件坐标，本轮按 P 级写入。",
+    "en": "UNESCO periodic reporting / list 791 publishes Uxmal component coordinates; this pass writes them at P-grade.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-uxmal-classic-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-unesco-uxmal-791"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

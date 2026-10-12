@@ -1,0 +1,30 @@
+{
+  "id": "claim-classic-maya-writing-courts-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "文字与宫廷文化研究强调碑铭、彩陶与建筑装饰的共构（Houston 等）。",
+    "en": "Writing and court-culture research emphasizes co-construction of inscriptions, polychrome ceramics, and architectural ornament (Houston and others).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-houston-writing",
+    "src-classic-maya-houston-stuart-taube"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

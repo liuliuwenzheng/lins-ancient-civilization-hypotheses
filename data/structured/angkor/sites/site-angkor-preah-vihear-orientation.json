@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-preah-vihear-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "柏威夏（指针）",
+    "en": "Preah Vihear (orientation)",
+    "native": null
+  },
+  "kind_note": "Temple-mountain; UNESCO peer landscape",
+  "region": "Preah Vihear, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "山寺/教科文相关地景指针。",
+    "en": "Temple-mountain / WHC-related landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-preah-vihear-orientation",
+    "src-angkor-jacques-lafond-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

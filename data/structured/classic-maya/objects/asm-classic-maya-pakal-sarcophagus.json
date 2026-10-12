@@ -1,0 +1,43 @@
+{
+  "id": "asm-classic-maya-pakal-sarcophagus",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "帕卡尔石棺铭文组合",
+    "en": "Pakal sarcophagus inscription frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-palenque-temple-inscriptions-r2"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "铭文神庙石棺铭文组合指针。",
+    "en": "Temple of the Inscriptions sarcophagus frame.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-stuart-palenque",
+    "src-classic-maya-stuart-kings"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-tambo-colorado-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "科罗拉多驿站（指针）",
+    "en": "Tambo Colorado (orientation)",
+    "native": null
+  },
+  "kind_note": "Coastal tambo administrative centre",
+  "region": "Pisco valley, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "沿海驿站行政中心指针。",
+    "en": "Coastal tambo administrative orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-tambo-system",
+    "src-inca-hyslop-inkan-road"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-aksum-christian-art-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "基督教艺术组合",
+    "en": "Christian art frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-cathedral-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "基督教化艺术与手稿传统组合。",
+    "en": "Christian art and manuscript tradition frame.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-heldman-christian",
+    "src-aksum-heldman-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

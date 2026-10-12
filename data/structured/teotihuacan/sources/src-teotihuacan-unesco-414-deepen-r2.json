@@ -1,0 +1,19 @@
+{
+  "id": "src-teotihuacan-unesco-414-deepen-r2",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Pre-Hispanic City of Teotihuacan (list 414) — description deepen.",
+  "url": "https://whc.unesco.org/en/list/414/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC listing deepen; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-inca-provincial-admin-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "行省行政研究强调仓库、驿站与重新安置劳动力的制度组合（D’Altroy 等）。",
+    "en": "Provincial administration research emphasizes institutional packages of storage, tambos, and labor resettlement (D’Altroy and others).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-huanuco-pampa-orientation",
+    "site-inca-inkawasi-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-daltroy-provinces",
+    "src-inca-morris-storage"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

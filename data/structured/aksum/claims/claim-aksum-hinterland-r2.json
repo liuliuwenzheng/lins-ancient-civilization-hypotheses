@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-hinterland-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "高原腹地调查讨论阿克苏姆核心与农村供给景观的关系（Fattovich / Bard 取向）。",
+    "en": "Highland hinterland survey discusses relations between the Aksum core and rural supply landscapes.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-adwa-hinterland-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-fattovich-blue-nile",
+    "src-aksum-phillipson-foundations-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

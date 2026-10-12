@@ -1,0 +1,44 @@
+{
+  "id": "asm-classic-maya-causeway-network-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡拉科尔堤道网加深",
+    "en": "Caracol causeway network deepen",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-caracol-belize",
+    "site-almacen-caracol-causeway"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "堤道聚落网组合加深。",
+    "en": "Causeway settlement-network deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-chase-caracol-deepen",
+    "src-classic-maya-chase-caracol-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

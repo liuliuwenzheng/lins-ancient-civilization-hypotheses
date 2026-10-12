@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-gobodra-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "戈博德拉采石（指针）",
+    "en": "Gobodra quarry (orientation)",
+    "native": null
+  },
+  "kind_note": "Stelae quarry landscape",
+  "region": "Near Aksum, Ethiopia",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "石碑采石地景指针。",
+    "en": "Stelae quarry landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-gobodra-orientation",
+    "src-aksum-stelae-quarry-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

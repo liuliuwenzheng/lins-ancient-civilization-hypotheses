@@ -1,0 +1,43 @@
+{
+  "id": "asm-inca-ashlar-quarries-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "精细石作采石组合",
+    "en": "Ashlar quarry/construction frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-ollantaytambo-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "采石与精细石作组合。",
+    "en": "Quarry and fine-masonry assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-protzen-ollantaytambo",
+    "src-inca-protzen-1993"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-almacen-caracol-causeway",
+  "entity": "site",
+  "names": {
+    "zh": "卡拉科尔堤道节点（指针）",
+    "en": "Caracol causeway node (orientation)",
+    "native": null
+  },
+  "kind_note": "Causeway/settlement node orientation",
+  "region": "Cayo, Belize",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "堤道聚落节点指针。",
+    "en": "Causeway settlement-node orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-chase-caracol-deepen",
+    "src-classic-maya-chase-caracol-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

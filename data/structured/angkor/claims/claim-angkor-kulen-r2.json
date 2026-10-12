@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-kulen-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "库楞山研究讨论采石、圣水与摩醯因陀罗山早期都城景观。",
+    "en": "Phnom Kulen research discusses quarry, sacred water, and Mahendraparvata early-capital landscapes.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-phnom-kulen-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-phnom-kulen-r2",
+    "src-angkor-pottier-habitation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

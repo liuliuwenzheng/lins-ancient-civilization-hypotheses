@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-post-open-r2",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "后吴哥占领与气候/政治因素权重仍有争议，作假说保留。",
+    "en": "Weights of climate versus political factors in post-Angkor trajectories remain debated; retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-angkor-post-angkor-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-post-angkor-ayutthaya",
+    "src-angkor-penny-climate-r2"
+  ],
+  "disclaimer": "Multi-causal; no single driver settled. / 多因，无单一定论。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

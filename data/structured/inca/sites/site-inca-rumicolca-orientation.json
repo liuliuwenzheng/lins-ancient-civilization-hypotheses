@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-rumicolca-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "鲁米科尔卡（指针）",
+    "en": "Rumicolca (orientation)",
+    "native": null
+  },
+  "kind_note": "Gate/fortification on southern approach",
+  "region": "Cusco region",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "南向关隘/石门指针。",
+    "en": "Southern gate/fortification orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-gasparini-architecture",
+    "src-inca-daltroy-provinces"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

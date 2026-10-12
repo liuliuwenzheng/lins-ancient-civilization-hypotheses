@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-plaza-one-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "一号广场（指针）",
+    "en": "Plaza One (orientation)",
+    "native": null
+  },
+  "kind_note": "Early civic precinct",
+  "region": "Teotihuacan",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "早期公共广场指针。",
+    "en": "Early civic plaza orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-plaza-one-orientation",
+    "src-teotihuacan-millon-mapping-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-la-ventilla-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "拉文蒂亚街区（指针）",
+    "en": "La Ventilla (orientation)",
+    "native": null
+  },
+  "kind_note": "Craft/residential district",
+  "region": "Teotihuacan",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "手工业/居住街区指针。",
+    "en": "Craft/residential district orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-la-ventilla-orientation",
+    "src-teotihuacan-cabrera-castro-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

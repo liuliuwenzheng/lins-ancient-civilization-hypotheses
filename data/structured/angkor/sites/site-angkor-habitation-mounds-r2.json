@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-habitation-mounds-r2",
+  "entity": "site",
+  "names": {
+    "zh": "居住土墩景观（指针）",
+    "en": "Habitation mounds landscape (orientation)",
+    "native": null
+  },
+  "kind_note": "Non-temple habitation moundscape",
+  "region": "Greater Angkor",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "非寺庙居住土墩地景指针。",
+    "en": "Non-temple habitation moundscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-pottier-habitation",
+    "src-angkor-evans-lidar-deepen-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-aksum-dae-documentation-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "德国阿克苏姆考察文献组合",
+    "en": "DAE documentation frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-stelae-field"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "早期科学考察文献组合。",
+    "en": "Early scientific expedition documentation frame.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-littmann-daae-r2",
+    "src-aksum-littmann-deutsche"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

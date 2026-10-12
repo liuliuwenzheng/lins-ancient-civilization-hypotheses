@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-early-phase-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期阿克苏姆陶器/聚落分期为前阿克苏姆至古典期提供过渡窗。",
+    "en": "Early Aksumite ceramic/settlement phasing supplies a transition window from pre-Aksumite to Classic phases.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aksum-early-aksumite-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-early-aksumite-r2",
+    "src-aksum-phillipson-foundations-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

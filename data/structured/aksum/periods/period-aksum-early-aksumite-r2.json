@@ -1,0 +1,36 @@
+{
+  "id": "period-aksum-early-aksumite-r2",
+  "entity": "period",
+  "names": {
+    "zh": "早期阿克苏姆讨论窗",
+    "en": "Early Aksumite discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "time": {
+    "label": "Early Aksumite ceramic/settlement phasing debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Aksumite ceramic/settlement phasing debates"
+  },
+  "summary": {
+    "zh": "早期阿克苏姆陶器/聚落分期讨论。",
+    "en": "Early Aksumite ceramic/settlement phasing debates.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-early-aksumite-r2",
+    "src-aksum-phillipson-foundations-r2"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

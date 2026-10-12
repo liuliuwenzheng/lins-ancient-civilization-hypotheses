@@ -1,0 +1,43 @@
+{
+  "id": "asm-angkor-kulen-quarry-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "库楞采石/水利组合",
+    "en": "Kulen quarry/water frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-phnom-kulen-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "采石与圣水地景组合。",
+    "en": "Quarry and sacred-water landscape frame.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-phnom-kulen-r2",
+    "src-angkor-pottier-habitation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

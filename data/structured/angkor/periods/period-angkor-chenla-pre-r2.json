@@ -1,0 +1,36 @@
+{
+  "id": "period-angkor-chenla-pre-r2",
+  "entity": "period",
+  "names": {
+    "zh": "真腊/前吴哥讨论窗",
+    "en": "Chenla / pre-Angkor discussion window",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "Pre-Angkor Chenla epigraphic-archaeological debates",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Pre-Angkor Chenla epigraphic-archaeological debates"
+  },
+  "summary": {
+    "zh": "真腊—前吴哥讨论窗。",
+    "en": "Chenla–pre-Angkor discussion window.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-pre-angkor-chenla",
+    "src-angkor-higham-early-r2"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

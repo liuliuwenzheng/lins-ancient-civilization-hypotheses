@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-road-deepen-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "道路考古加深 Qhapaq Ñan 路段、坡度工程与驿站间距观察（Hyslop）。",
+    "en": "Road archaeology deepens observations of Qhapaq Ñan segments, grade engineering, and tambo spacing (Hyslop).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-tambo-colorado-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-hyslop-inkan-road",
+    "src-inca-unesco-qhapac-nan-r2"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

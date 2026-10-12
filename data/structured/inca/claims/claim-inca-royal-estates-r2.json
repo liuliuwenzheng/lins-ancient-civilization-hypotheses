@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-royal-estates-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "皇室庄园研究讨论尤卡伊等地的生产与礼仪景观（Niles）。",
+    "en": "Royal-estate research discusses productive and ceremonial landscapes at Yucay and peers (Niles).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-yucay-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-niles-callachaca",
+    "src-inca-niles-royal"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

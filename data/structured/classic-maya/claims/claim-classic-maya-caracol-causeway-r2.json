@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-caracol-causeway-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卡拉科尔堤道网研究将聚落节点与道路系统相联系（Chase 夫妇）。",
+    "en": "Caracol causeway research links settlement nodes to road systems (A. and D. Chase).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-almacen-caracol-causeway"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-chase-caracol-deepen",
+    "src-classic-maya-chase-caracol-1987"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-civil-war-open-r2",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "内战与早期殖民接触的军事/政治过程细节仍高度依赖文献，考古对应作假说保留。",
+    "en": "Military/political process details of the civil war and early colonial contact remain heavily documentary; archaeological correlates retained as hypothesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-civil-war-r2"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-civil-war-orientation",
+    "src-inca-julien-historical"
+  ],
+  "disclaimer": "Documentary-heavy; archaeological correlates debated. / 文献主导，考古对应有争议。",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

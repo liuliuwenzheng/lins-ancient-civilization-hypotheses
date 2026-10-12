@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-banteay-chhmar-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "班迭奇马（指针）",
+    "en": "Banteay Chhmar (orientation)",
+    "native": null
+  },
+  "kind_note": "Provincial Jayavarman VII temple complex",
+  "region": "Banteay Meanchey, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "阇耶跋摩七世地方大寺指针。",
+    "en": "Provincial JVII temple orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-banteay-chhmar-orientation",
+    "src-angkor-jacques-chronology"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

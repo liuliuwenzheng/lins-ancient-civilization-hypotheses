@@ -1,0 +1,33 @@
+{
+  "id": "claim-classic-maya-yaxha-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "佩腾湖区研究将亚克夏–纳库姆等表述为与蒂卡尔互动的经典中心群。",
+    "en": "Petén lakes research frames Yaxhá–Nakum and peers as Classic centres interacting with Tikal.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-yaxha-orientation",
+    "site-nakum-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-yaxha-orientation",
+    "src-classic-maya-martin-grube-chronicle"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

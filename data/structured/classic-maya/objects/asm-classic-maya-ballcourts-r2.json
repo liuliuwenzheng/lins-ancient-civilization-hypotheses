@@ -1,0 +1,44 @@
+{
+  "id": "asm-classic-maya-ballcourts-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "球场建筑组合",
+    "en": "Ballcourt architecture frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-copan-classic",
+    "site-yaxchilan-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "经典球场建筑组合指针。",
+    "en": "Classic ballcourt architecture frame.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-ballcourt-orientation",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

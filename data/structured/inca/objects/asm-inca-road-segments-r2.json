@@ -1,0 +1,43 @@
+{
+  "id": "asm-inca-road-segments-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "道路路段加深组合",
+    "en": "Road segments deepen frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-rumicolca-orientation"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Qhapaq Ñan 路段加深。",
+    "en": "Qhapaq Ñan segment deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-hyslop-inkan-road",
+    "src-inca-unesco-qhapac-nan-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

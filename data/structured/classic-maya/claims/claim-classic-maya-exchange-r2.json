@@ -1,0 +1,33 @@
+{
+  "id": "claim-classic-maya-exchange-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "交换研究讨论玉、黑曜石与可可等物品的低地间流动（取向综述）。",
+    "en": "Exchange research discusses lowland flows of jade, obsidian, cacao, and related goods.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-altun-ha-orientation",
+    "site-cancuen-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-lenca-trade-orientation",
+    "src-classic-maya-altun-ha-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

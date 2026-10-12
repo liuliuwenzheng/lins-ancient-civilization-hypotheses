@@ -1,0 +1,32 @@
+{
+  "id": "media-teotihuacan-unesco-414-r2",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：特奥蒂瓦坎名录加深",
+    "en": "UNESCO: Teotihuacan listing deepen",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/414/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-unesco-414-deepen-r2"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO",
+    "upstream_url": "https://whc.unesco.org/en/list/414/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

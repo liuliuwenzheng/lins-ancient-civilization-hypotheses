@@ -832,3 +832,15 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs).
 
+### D-2026-10-12-22 — Hot-pack Round-2 Batch A densify toward denser archive
+
+**Decision:** Second densify pass on `teotihuacan`, `classic-maya`, `inca`, `angkor`, `aksum` toward Egypt/Mesopotamia `fact-library` density; **do not promote status to `fact-library` yet** (still below Egypt). Integrity over completeness: no invented pages/finds/media art/coords.
+
+**Approx. per-pack delta:** +18 sources · +8 sites · +2 periods · +12 objects · +17 claims · +3 media (landing ≈45–50 / 22–24 / 10 / 19 / 42–43 / 8–9).
+
+**Coord fills (grounded only):** Quiriguá (UNESCO WHC 149 DMS, grade=P); Uxmal (UNESCO WHC periodic reporting / list 791, grade=P).
+
+**Reports:** [`docs/audits/pass-2026-10-12-hot-round2-a.md`](audits/pass-2026-10-12-hot-round2-a.md) · [中文](audits/pass-2026-10-12-hot-round2-a.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

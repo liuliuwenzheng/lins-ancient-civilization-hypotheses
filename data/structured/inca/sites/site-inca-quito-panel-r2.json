@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-quito-panel-r2",
+  "entity": "site",
+  "names": {
+    "zh": "基多北部节点（指针）",
+    "en": "Quito northern node (orientation deepen)",
+    "native": null
+  },
+  "kind_note": "Northern Tawantinsuyu administrative node",
+  "region": "Pichincha, Ecuador",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "北部行政节点加深指针。",
+    "en": "Northern administrative node deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-daltroy-provinces",
+    "src-inca-hyslop-inkan-road"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

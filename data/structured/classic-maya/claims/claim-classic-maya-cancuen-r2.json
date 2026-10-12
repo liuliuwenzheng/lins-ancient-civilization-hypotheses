@@ -1,0 +1,32 @@
+{
+  "id": "claim-classic-maya-cancuen-r2",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "坎奎恩被讨论为帕西翁河高端商品口岸与宫廷中心（Demarest 相关取向）。",
+    "en": "Cancuén is discussed as a Pasión River high-value goods port and court centre (Demarest-related orientation).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-cancuen-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-classic-maya-demarest-petexbatun",
+    "src-classic-maya-lenca-trade-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

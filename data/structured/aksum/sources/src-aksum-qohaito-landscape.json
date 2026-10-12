@@ -1,0 +1,19 @@
+{
+  "id": "src-aksum-qohaito-landscape",
+  "entity": "source",
+  "type": "article",
+  "citation": "Qohaito plateau settlement landscape (UNESCO tentative-list related) orientations.",
+  "url": "https://whc.unesco.org/en/tentativelists/5600",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Qohaito tentative-list orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

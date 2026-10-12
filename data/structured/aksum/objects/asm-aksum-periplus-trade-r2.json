@@ -1,0 +1,43 @@
+{
+  "id": "asm-aksum-periplus-trade-r2",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "厄立特里亚海航行记贸易组合",
+    "en": "Periplus trade frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-adulis-harbor-r2"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "古典文献贸易网络组合。",
+    "en": "Classical-text trade-network frame.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-burstein-periplus",
+    "src-aksum-burstein-ancient-africa"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

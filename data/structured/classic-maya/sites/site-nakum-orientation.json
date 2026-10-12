@@ -1,0 +1,33 @@
+{
+  "id": "site-nakum-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "纳库姆（指针）",
+    "en": "Nakum (orientation)",
+    "native": null
+  },
+  "kind_note": "Petén lakes Classic centre",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "佩腾湖区中心指针。",
+    "en": "Petén lakes centre orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-classic-maya-yaxha-orientation",
+    "src-classic-maya-sharer-traxler"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}

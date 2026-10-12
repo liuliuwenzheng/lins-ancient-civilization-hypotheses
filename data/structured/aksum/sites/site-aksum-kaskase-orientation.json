@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-kaskase-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "卡斯卡斯（指针）",
+    "en": "Kaskase (orientation)",
+    "native": null
+  },
+  "kind_note": "Pre-/early Aksumite related site orientation",
+  "region": "Eritrea/Ethiopia borderlands",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "前/早期阿克苏姆相关点指针。",
+    "en": "Pre-/early Aksumite related orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-yeha-orientation",
+    "src-aksum-early-aksumite-r2"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round2_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-22"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot-pack densify Round-2 Batch A toward denser archive (D-2026-10-12-22). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+  }
+}
