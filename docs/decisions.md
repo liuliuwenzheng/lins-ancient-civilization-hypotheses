@@ -486,3 +486,32 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 - Mesopotamia/Egypt unchanged in this commit (already pass-4 on main). Citation gate green.
 
 **Notes:** Contested items (Gavilanes maize priority; Indus empire/decipherment; Xia=Erlitou; Sanxingdui=Shang colony; Homer-as-history / single-year Thera; Olmec mother-culture / Cascajal deciphered; Middle Preclassic full divine kingship / Mirador first state) stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
+
+### D-2026-10-12-5 — Fifth archive density pass for Mesopotamia and Egypt
+
+**Decision:** Continue archive density deepening per owner priority. Apply a **fifth** verified density pass to Mesopotamia and Egypt only: register P (and needed S) not already in the archive; expand structured sites/assemblages/claims; sync `civ-mesopotamia.md` / `civ-ancient-egypt.md`; contested → hypothesis; full-repo `export_check` must pass. Integrity over speed. Remaining seven packs and deliberation are scheduled separately.
+
+**Major new P (and needed S):**
+
+**Mesopotamia:**
+- Delougaz, Hill & Lloyd *Private Houses and Graves in the Diyala Region* OIP 88 (1967)
+- Frankfort *Stratified Cylinder Seals from the Diyala Region* OIP 72 (1955)
+- Adams & Nissen *The Uruk Countryside* (1972)
+- Andrae *Die Festungswerke von Assur* WVDOG 23 (1913); *Der Anu-Adad-Tempel in Assur* WVDOG 10 (1909)
+- Jacobsen & Lloyd *Sennacherib’s Aqueduct at Jerwan* OIP 24 (1935)
+- Lloyd & Safar Tell Hassuna JNES 1945; Gibson *The City and Area of Kish* (1972)
+- Frankfort OIC 16 (1933) / OIC 17 (1934) preliminary reports
+
+**Egypt:**
+- Peet & Woolley *City of Akhenaten* I (1923); Frankfort & Pendlebury II (1933); Pendlebury III (1951)
+- Petrie *Tell el Amarna* (1894); Petrie *Memphis I* (1909)
+- Naville *Bubastis* (1891); Naville *Temple of Deir el Bahari* II (1896)
+- Brunton *Matmar* (1948); Quibell *Archaic Mastabas* (1923); Mond & Myers *Temples of Armant* (1940)
+
+**Structured results (`export_check`):**
+- **mesopotamia:** sources 66→76; sites 37→43; objects/claims expanded accordingly
+- **egypt:** sources 60→70; sites 37→43; objects/claims expanded accordingly
+- Other seven packs unchanged in this commit; citation gate green.
+
+**Notes:** Jerwan “first aqueduct before Rome,” Hassuna “earliest village,” and Amarna “unique planned capital without precursors” stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
+

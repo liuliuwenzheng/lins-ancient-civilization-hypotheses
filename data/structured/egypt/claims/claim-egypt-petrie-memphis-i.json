@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-petrie-memphis-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Petrie《Memphis I》(1909) 报告 1908 季孟斐斯神庙区等相关工作。",
+    "en": "Petrie Memphis I (1909) reports the 1908 Memphis temple-area and related work."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-memphis"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-memphis-petrie-i-1909"
+  ],
+  "sources": [
+    "src-egypt-petrie-memphis-i-1909"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

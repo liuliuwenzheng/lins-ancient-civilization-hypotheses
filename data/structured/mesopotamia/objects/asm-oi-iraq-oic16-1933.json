@@ -1,0 +1,40 @@
+{
+  "id": "asm-oi-iraq-oic16-1933",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "OI 伊拉克远征第二季初步组合（OIC 16）",
+    "en": "OI Iraq Expedition second-season preliminary assemblage (OIC 16)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar",
+    "site-khafajah",
+    "site-khorsabad"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Frankfort OIC 16（1933）阿斯马尔、哈法杰、霍尔萨巴德第二季初步报告（组合级）。",
+    "en": "Tell Asmar, Khafaje, and Khorsabad second-season preliminary results as published in Frankfort OIC 16 (1933) (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-frankfort-oic16-1933"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/research/publications/oic/oic-16-tell-asmar-khafaje-and-khorsabad-second-preliminary-report-iraq",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oic16-1933.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

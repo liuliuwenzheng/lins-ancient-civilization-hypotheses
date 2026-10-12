@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-uruk-countryside-1972",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Adams & Nissen《乌鲁克乡村》(1972) 报告 1967 年乌鲁克/瓦尔卡周边地表勘察与聚落—水道格局。",
+    "en": "Adams & Nissen The Uruk Countryside (1972) reports the 1967 surface reconnaissance and settlement–watercourse patterning around Uruk/Warka."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk-countryside-survey",
+    "site-uruk"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-uruk-countryside-1972"
+  ],
+  "sources": [
+    "src-mesopotamia-adams-nissen-uruk-countryside-1972"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

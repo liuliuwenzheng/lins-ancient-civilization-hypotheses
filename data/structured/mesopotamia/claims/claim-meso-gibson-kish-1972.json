@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-gibson-kish-1972",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Gibson《基什城与地区》(1972) 综合菲尔德博物馆—牛津记录与区域调查，重建基什城址与周边。",
+    "en": "Gibson The City and Area of Kish (1972) synthesizes Field Museum–Oxford records and area survey to reconstruct Kish and its hinterland."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-kish",
+    "site-uhaimir-kish"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-kish-area-gibson-1972"
+  ],
+  "sources": [
+    "src-mesopotamia-gibson-kish-1972"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

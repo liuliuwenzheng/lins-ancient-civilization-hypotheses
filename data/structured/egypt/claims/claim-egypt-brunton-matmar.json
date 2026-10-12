@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-brunton-matmar",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Brunton《Matmar》(1948) 公布大英博物馆 1929–1931 中埃及马特马尔墓地发掘。",
+    "en": "Brunton Matmar (1948) publishes the British Museum 1929–1931 Middle Egypt Matmar cemetery excavations."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-matmar"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-matmar-brunton-1948"
+  ],
+  "sources": [
+    "src-egypt-brunton-matmar-1948"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

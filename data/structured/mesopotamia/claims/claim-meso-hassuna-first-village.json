@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-hassuna-first-village",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将哈苏纳表述为「美索不达米亚最早村落/唯一最早陶作文化」属于简化排名，需与同时期其他北部新石器传统对照。",
+    "en": "Calling Hassuna ‘the earliest village / sole earliest pottery culture in Mesopotamia’ is a simplifying ranking that must be checked against other northern Neolithic traditions."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-hassuna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-hassuna-1945"
+  ],
+  "sources": [
+    "src-mesopotamia-lloyd-safar-hassuna-1945"
+  ],
+  "disclaimer": "Hypothesis / popular ranking — not a closed fact. Sequence definition ≠ unique primacy claim.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Contested framing kept as hypothesis."
+  }
+}

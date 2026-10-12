@@ -1,0 +1,30 @@
+{
+  "id": "site-jerwan",
+  "entity": "site",
+  "names": {
+    "zh": "杰尔万渡槽 / Jerwan aqueduct",
+    "en": "Jerwan (Sennacherib aqueduct)",
+    "native": null
+  },
+  "kind_note": "Neo-Assyrian stone aqueduct; OI Iraq Expedition 1933",
+  "region": "Northern Mesopotamia / Iraq (northeast of Mosul)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "辛那赫里布石砌渡槽；Jacobsen & Lloyd OIP 24（1935）正式报告。",
+    "en": "Sennacherib stone aqueduct; Jacobsen & Lloyd OIP 24 (1935) final report."
+  },
+  "sources": [
+    "src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

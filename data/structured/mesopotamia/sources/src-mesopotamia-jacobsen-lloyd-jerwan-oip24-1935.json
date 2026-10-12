@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Jacobsen, Thorkild, and Seton Lloyd, with a preface by Henri Frankfort. 1935. Sennacherib’s Aqueduct at Jerwan. Oriental Institute Publications 24. Chicago: University of Chicago Press. Pp. xii + 52, 12 figures, frontispiece, 36 plates.",
+  "url": "https://isac.uchicago.edu/publications/sennacheribs-aqueduct-jerwan",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "1933 Iraq Expedition excavation of Sennacherib’s stone aqueduct at Jerwan and related canal-head work toward Bavian/Gomel. ISAC catalog verified 2026-10-12. Comparative ‘first aqueduct’ rankings remain interpretive.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via catalog/WebSearch 2026-10-12; no invented page numbers. density pass 5 (D-2026-10-12-5)."
+  }
+}

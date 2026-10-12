@@ -1,0 +1,38 @@
+{
+  "id": "asm-assur-festungswerke-1913",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "亚述城防御工事组合（Andrae 1913）",
+    "en": "Assur fortifications assemblage (Andrae 1913)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-assur"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Andrae WVDOG 23（1913）公布的亚述城防御工事（组合级）。",
+    "en": "Assur fortifications as published in Andrae WVDOG 23 (1913) (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-andrae-festungswerke-assur-1913"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-andrae-festungswerke-assur-1913.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

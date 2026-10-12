@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-frankfort-oic17-1934",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Frankfort, Henri. 1934. Iraq Excavations of the Oriental Institute 1932/33: Third Preliminary Report of the Iraq Expedition. Oriental Institute Communications 17. Chicago: University of Chicago Press.",
+  "url": "https://isac.uchicago.edu/research/publications/oic",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Third preliminary report of the OI Iraq Expedition (1932/33). ISAC OIC series catalog verified 2026-10-12. Preliminary relative to later OIP finals.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oic17-1934.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via catalog/WebSearch 2026-10-12; no invented page numbers. density pass 5 (D-2026-10-12-5)."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "asm-bubastis-naville-1891",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "布巴斯提斯组合（Naville 1891）",
+    "en": "Bubastis assemblage (Naville 1891)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-bubastis"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Naville《Bubastis》(1891) EEF 发掘记录（组合级）。",
+    "en": "EEF Bubastis excavation record as published in Naville 1891 (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-naville-bubastis-1891"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/naville1891",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-naville-bubastis-1891.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

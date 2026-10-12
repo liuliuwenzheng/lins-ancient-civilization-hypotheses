@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-jerwan-first-aqueduct",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "有学者将杰尔万石砌渡槽表述为罗马之前罕见/未知类型的早期渡槽工程；比较史「世界最早」排名仍属解释性主张。",
+    "en": "Some scholarship frames the Jerwan stone aqueduct as a type rare or unknown elsewhere before Roman times; comparative ‘world’s first’ rankings remain interpretive."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-jerwan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-jerwan-aqueduct-oip24"
+  ],
+  "sources": [
+    "src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935"
+  ],
+  "disclaimer": "Hypothesis / comparative ranking — not a closed chronological fact. Other Near Eastern waterworks may be relevant; keep in hypothesis column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Contested framing kept as hypothesis."
+  }
+}

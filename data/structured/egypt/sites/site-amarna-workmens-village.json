@@ -1,0 +1,30 @@
+{
+  "id": "site-amarna-workmens-village",
+  "entity": "site",
+  "names": {
+    "zh": "阿马尔那工人村 / Amarna Workmen’s Village",
+    "en": "Amarna Workmen’s Village",
+    "native": null
+  },
+  "kind_note": "Workers’ settlement within Amarna landscape",
+  "region": "Middle Egypt / Amarna hinterland",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Peet & Woolley《阿肯那顿之城》I（1923）报告工人村等南城相关单位。",
+    "en": "Workmen’s Village and related South City units as published in Peet & Woolley City of Akhenaten I (1923)."
+  },
+  "sources": [
+    "src-egypt-peet-woolley-akhenaten-i-1923"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

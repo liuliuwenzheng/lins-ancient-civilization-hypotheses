@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-petrie-amarna-1894",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Petrie《Tell el Amarna》(1894) 报告 1891–92 季宫殿、城镇与制造业等出土。",
+    "en": "Petrie Tell el Amarna (1894) reports 1891–92 palace, town, and manufacture contexts."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-amarna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-amarna-petrie-1894"
+  ],
+  "sources": [
+    "src-egypt-petrie-tell-el-amarna-1894"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

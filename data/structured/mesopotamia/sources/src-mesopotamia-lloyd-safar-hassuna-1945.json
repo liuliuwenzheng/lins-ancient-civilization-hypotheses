@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-lloyd-safar-hassuna-1945",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Lloyd, Seton, and Fuad Safar, with prefatory remarks by Robert J. Braidwood. 1945. “Tell Hassuna: Excavations by the Iraq Government Directorate General of Antiquities in 1943 and 1944.” Journal of Near Eastern Studies 4 (4): 255–289, plates I–XXI (and figures as published).",
+  "url": "https://www.jstor.org/stable/542324",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Iraqi Directorate excavations defining the Hassuna sequence (northern Iraq). JNES 4/4 bibliographic details verified 2026-10-12. Do not assert unique ‘first village in Mesopotamia’ as fact.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-lloyd-safar-hassuna-1945.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via catalog/WebSearch 2026-10-12; no invented page numbers. density pass 5 (D-2026-10-12-5)."
+  }
+}

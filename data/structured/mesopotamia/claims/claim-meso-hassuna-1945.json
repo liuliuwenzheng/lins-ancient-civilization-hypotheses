@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-hassuna-1945",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lloyd & Safar 1945 JNES 报告伊拉克古物局 1943–1944 在哈苏纳的发掘并界定哈苏纳文化层序。",
+    "en": "Lloyd & Safar 1945 JNES report the Iraqi Directorate’s 1943–1944 excavations at Tell Hassuna and define the Hassuna cultural sequence."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-hassuna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-hassuna-1945"
+  ],
+  "sources": [
+    "src-mesopotamia-lloyd-safar-hassuna-1945"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

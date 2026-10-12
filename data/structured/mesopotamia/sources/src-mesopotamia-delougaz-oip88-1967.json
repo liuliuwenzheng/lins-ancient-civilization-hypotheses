@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-delougaz-oip88-1967",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Delougaz, Pinhas, Harold D. Hill, and Seton Lloyd. 1967. Private Houses and Graves in the Diyala Region. Oriental Institute Publications 88. Chicago: University of Chicago Press. Pp. xvii + 361, 100 figures, 3 tables, 82 plates.",
+  "url": "https://isac.uchicago.edu/publications/private-houses-and-graves-diyala-region",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Definitive Diyala private-house and grave architecture for Khafajah, Tell Asmar, and Tell Agrab (Iraq Expedition 1930s). ISAC catalog page verified 2026-10-12. No invented locus inventory numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-delougaz-oip88-1967.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via catalog/WebSearch 2026-10-12; no invented page numbers. density pass 5 (D-2026-10-12-5)."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-petrie-tell-el-amarna-1894",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Petrie, W. M. Flinders. 1894. Tell el Amarna. London: Methuen & Co.",
+  "url": "https://digi.ub.uni-heidelberg.de/diglit/petrie1894",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Petrie’s 1891–92 work at Tell el-Amarna (palace, town, pavements, manufactures, tablets). Heidelberg digitization verified 2026-10-12.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-tell-el-amarna-1894.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via catalog/WebSearch 2026-10-12; no invented page numbers. density pass 5 (D-2026-10-12-5)."
+  }
+}

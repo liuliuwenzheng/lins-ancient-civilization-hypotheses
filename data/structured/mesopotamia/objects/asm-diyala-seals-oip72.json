@@ -1,0 +1,41 @@
+{
+  "id": "asm-diyala-seals-oip72",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迪亚拉层位圆柱印章组合（OIP 72）",
+    "en": "Diyala stratified cylinder-seal assemblage (OIP 72)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-khafajah",
+    "site-tell-asmar",
+    "site-tell-agrab",
+    "site-ishchali"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Frankfort OIP 72（1955）按层位刊布的迪亚拉印章语料（组合级）。",
+    "en": "Stratified Diyala seal corpus as published in Frankfort OIP 72 (1955) (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-frankfort-oip72-1955"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/publications/stratified-cylinder-seals-diyala-region",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oip72-1955.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

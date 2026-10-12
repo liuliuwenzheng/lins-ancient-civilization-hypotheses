@@ -1,0 +1,39 @@
+{
+  "id": "asm-assur-anu-adad-1909",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "亚述城安努—阿达德神庙组合（Andrae 1909）",
+    "en": "Assur Anu-Adad temple assemblage (Andrae 1909)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-assur-anu-adad",
+    "site-assur"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Andrae WVDOG 10（1909）公布的安努—阿达德神庙（组合级）。",
+    "en": "Anu-Adad temple as published in Andrae WVDOG 10 (1909) (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-andrae-anu-adad-1909"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-andrae-anu-adad-1909.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

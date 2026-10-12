@@ -1,0 +1,40 @@
+{
+  "id": "asm-oi-iraq-oic17-1934",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "OI 伊拉克远征第三季初步组合（OIC 17）",
+    "en": "OI Iraq Expedition third-season preliminary assemblage (OIC 17)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar",
+    "site-khafajah",
+    "site-khorsabad"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Frankfort OIC 17（1934）1932/33 季伊拉克发掘初步报告（组合级）。",
+    "en": "1932/33 Iraq Expedition preliminary results as published in Frankfort OIC 17 (1934) (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-frankfort-oic17-1934"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/research/publications/oic",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oic17-1934.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

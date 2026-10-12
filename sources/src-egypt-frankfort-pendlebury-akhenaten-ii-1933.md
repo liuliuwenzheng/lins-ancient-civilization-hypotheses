@@ -1,0 +1,23 @@
+---
+id: src-egypt-frankfort-pendlebury-akhenaten-ii-1933
+type: excavation-report
+citation: "Frankfort, Henri, and J. D. S. Pendlebury. 1933. The City of Akhenaten. Part II: The North Suburb and the Desert Altars. The Excavations at Tell el-Amarna during the Seasons 1926–1932. Egypt Exploration Society Memoir 40. London: Egypt Exploration Society."
+url: "https://archive.org/details/MEEF40"
+access_date: "2026-10-12"
+reliability_tier: P
+notes: "EES Amarna Part II (North Suburb and desert altars). Memoir 40 bibliographic details verified 2026-10-12."
+---
+
+# Source: `src-egypt-frankfort-pendlebury-akhenaten-ii-1933`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Frankfort, Henri, and J. D. S. Pendlebury. 1933. The City of Akhenaten. Part II: The North Suburb and the Desert Altars. The Excavations at Tell el-Amarna during the Seasons 1926–1932. Egypt Exploration Society Memoir 40. London: Egypt Exploration Society. |
+| URL | https://archive.org/details/MEEF40 |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+EES Amarna Part II (North Suburb and desert altars). Memoir 40 bibliographic details verified 2026-10-12.

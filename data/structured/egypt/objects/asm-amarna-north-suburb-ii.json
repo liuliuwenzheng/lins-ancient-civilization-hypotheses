@@ -1,0 +1,39 @@
+{
+  "id": "asm-amarna-north-suburb-ii",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿马尔那北郊与沙漠祭坛组合（Part II）",
+    "en": "Amarna North Suburb and desert altars assemblage (Part II)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-amarna-north-suburb",
+    "site-amarna"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Frankfort & Pendlebury《阿肯那顿之城》II（1933）北郊与沙漠祭坛（组合级）。",
+    "en": "North Suburb and desert altars as published in Frankfort & Pendlebury City of Akhenaten II (1933) (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-frankfort-pendlebury-akhenaten-ii-1933"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/MEEF40",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-frankfort-pendlebury-akhenaten-ii-1933.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

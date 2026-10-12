@@ -1,0 +1,30 @@
+{
+  "id": "site-bubastis",
+  "entity": "site",
+  "names": {
+    "zh": "布巴斯提斯（巴斯坦丘）/ Bubastis (Tell Basta)",
+    "en": "Bubastis (Tell Basta)",
+    "native": null
+  },
+  "kind_note": "Delta temple city; EEF Naville 1887–1889",
+  "region": "Eastern Nile Delta / Egypt",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Naville《Bubastis》(1891) EEF 第八回忆录报告 1887–1889 发掘。",
+    "en": "Naville Bubastis (1891) EEF Eighth Memoir reports 1887–1889 excavations."
+  },
+  "sources": [
+    "src-egypt-naville-bubastis-1891"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

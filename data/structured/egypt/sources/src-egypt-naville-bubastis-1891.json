@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-naville-bubastis-1891",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Naville, Édouard. 1891. Bubastis (1887–1889). Eighth Memoir of the Egypt Exploration Fund. London: Kegan Paul, Trench, Trübner & Co. Pp. v + 71; 54 plates.",
+  "url": "https://digi.ub.uni-heidelberg.de/diglit/naville1891",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "EEF Bubastis (Tell Basta) excavation memoir. Heidelberg digitization verified 2026-10-12.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-naville-bubastis-1891.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via catalog/WebSearch 2026-10-12; no invented page numbers. density pass 5 (D-2026-10-12-5)."
+  }
+}

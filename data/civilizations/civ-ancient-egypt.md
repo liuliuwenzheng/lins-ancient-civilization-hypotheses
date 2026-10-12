@@ -12,36 +12,46 @@ summary: |
   尼罗河流域是早期国家、象形文字行政与纪念性王陵建筑的核心考古—历史研究区；本条以前王朝（Naqada）→早王朝→古王国为重点，按新深度模板分栏综述，主张均挂已登记来源。
   The Nile Valley is a core region for early state formation, hieroglyphic administration, and monumental royal mortuary architecture; this entry centers Predynastic (Naqada) through Early Dynastic and Old Kingdom developments under the enriched template, with every major claim tied to registered sources.
 sources:
-  - src-egypt-shaw-oxford-history-2000
-  - src-egypt-wilkinson-early-dynastic-1999
-  - src-egypt-midant-reynes-prehistory-2000
-  - src-egypt-kemp-anatomy-2006
-  - src-egypt-bard-archaeology-2015
-  - src-egypt-trigger-social-history-1983
-  - src-egypt-lehner-complete-pyramids-1997
-  - src-egypt-wengrow-early-egypt-2006
-  - src-egypt-butzer-hydraulic-1976
+  - src-egypt-adams-hk6-2000
   - src-egypt-allen-middle-egyptian-2014
-  - src-egypt-petrie-royal-tombs-1900
-  - src-egypt-quibell-hierakonpolis-1900
-  - src-egypt-quibell-green-hierakonpolis-1902
-  - src-egypt-hoffman-before-pharaohs-1979
+  - src-egypt-bard-archaeology-2015
+  - src-egypt-brunton-matmar-1948
+  - src-egypt-butzer-hydraulic-1976
   - src-egypt-edwards-pyramids-1993
-  - src-egypt-petrie-quibell-naqada-ballas-1896
+  - src-egypt-emery-great-tombs-iii-1958
+  - src-egypt-firth-quibell-step-pyramid-1935
+  - src-egypt-frankfort-pendlebury-akhenaten-ii-1933
+  - src-egypt-hoffman-before-pharaohs-1979
+  - src-egypt-kaiser-elephantine-mdaik26-1970
+  - src-egypt-kemp-anatomy-2006
+  - src-egypt-lehner-complete-pyramids-1997
+  - src-egypt-midant-reynes-prehistory-2000
+  - src-egypt-mond-myers-temples-armant-1940
+  - src-egypt-naville-bubastis-1891
+  - src-egypt-naville-deir-el-bahari-ii-1896
+  - src-egypt-peet-woolley-akhenaten-i-1923
+  - src-egypt-pendlebury-akhenaten-iii-1951
   - src-egypt-petrie-abydos-i-1902
-  - src-egypt-randall-maciver-el-amrah-1902
+  - src-egypt-petrie-medum-1892
+  - src-egypt-petrie-memphis-i-1909
+  - src-egypt-petrie-quibell-naqada-ballas-1896
+  - src-egypt-petrie-royal-tombs-1900
   - src-egypt-petrie-tarkhan-i-1913
   - src-egypt-petrie-tarkhan-ii-1914
-  - src-egypt-petrie-medum-1892
+  - src-egypt-petrie-tell-el-amarna-1894
+  - src-egypt-quibell-archaic-mastabas-1923
+  - src-egypt-quibell-green-hierakonpolis-1902
+  - src-egypt-quibell-hierakonpolis-1900
+  - src-egypt-randall-maciver-el-amrah-1902
   - src-egypt-reisner-mycerinus-1931
-  - src-egypt-firth-quibell-step-pyramid-1935
-  - src-egypt-emery-great-tombs-iii-1958
-  - src-egypt-kaiser-elephantine-mdaik26-1970
-  - src-egypt-von-der-way-buto-i-1997
-  - src-egypt-adams-hk6-2000
   - src-egypt-saad-helwan-1969
+  - src-egypt-shaw-oxford-history-2000
+  - src-egypt-trigger-social-history-1983
+  - src-egypt-von-der-way-buto-i-1997
+  - src-egypt-wengrow-early-egypt-2006
+  - src-egypt-wilkinson-early-dynastic-1999
 related_ids: ["civ-mesopotamia", "civ-aegean", "civ-indus-valley"]
-notes: "fact-library; archive density pass D-2026-10-11-22 added site-level P reports (Naqada/Ballas, Abydos I, El Amrah, Tarkhan, Meidum, Reisner Mycerinus, Firth–Quibell Step Pyramid, Emery Saqqara tombs, Kaiser Elephantine, von der Way Buto, Adams HK6, Saad Helwan). Scope Predynastic–Old Kingdom. Narmer/unification remains process + contested. No invented page numbers/coordinates/forged images."
+notes: "fact-library + density pass 5 D-2026-10-12-5. fact-library; archive density pass D-2026-10-11-22 added site-level P reports (Naqada/Ballas, Abydos I, El Amrah, Tarkhan, Meidum, Reisner Mycerinus, Firth–Quibell Step Pyramid, Emery Saqqara tombs, Kaiser Elephantine, von der Way Buto, Adams HK6, Saad Helwan). Scope Predynastic–Old Kingdom. Narmer/unification remains process + contested. No invented page numbers/coordinates/forged images."
 ---
 
 # 古埃及 / Ancient Egypt
@@ -119,6 +129,18 @@ Naqada is often subdivided (I / II / III, with “Dynasty 0” debates); follow 
 - **萨卡拉南—佩皮二世陵 / Saqqara South Pepi II** — Jéquier 1936 卷 I [`src-egypt-jequier-pepi-ii-i-1936`]。
 - **阿拜多斯奥西睿昂 / Abydos Osireion** — Frankfort《塞提一世衣冠冢》(1933)；新王国，不作前王朝王陵 [`src-egypt-frankfort-cenotaph-seti-1933`]。
 
+- **阿马尔那 / Tell el-Amarna** — Petrie 1894；EES《阿肯那顿之城》I–III（Peet & Woolley 1923；Frankfort & Pendlebury 1933；Pendlebury 1951）；「无前身纯规划唯一首都」假说栏 [`src-egypt-petrie-tell-el-amarna-1894`][`src-egypt-peet-woolley-akhenaten-i-1923`][`src-egypt-frankfort-pendlebury-akhenaten-ii-1933`][`src-egypt-pendlebury-akhenaten-iii-1951`]。
+- **阿马尔那工人村 / Workmen’s Village** — Peet & Woolley I（1923）[`src-egypt-peet-woolley-akhenaten-i-1923`]。
+- **阿马尔那北郊 / North Suburb** — Frankfort & Pendlebury II（1933）[`src-egypt-frankfort-pendlebury-akhenaten-ii-1933`]。
+- **布巴斯提斯 / Bubastis** — Naville 1891 EEF [`src-egypt-naville-bubastis-1891`]。
+- **马特马尔 / Matmar** — Brunton 1948 [`src-egypt-brunton-matmar-1948`]。
+- **阿尔曼特神庙区 / Armant temples** — Mond & Myers 1940（与 1937 墓地分册）[`src-egypt-mond-myers-temples-armant-1940`]。
+- **孟斐斯加深 / Memphis deepen** — Petrie《Memphis I》(1909) [`src-egypt-petrie-memphis-i-1909`]。
+- **萨卡拉古风马斯塔巴 / Saqqara archaic mastabas** — Quibell 1923 [`src-egypt-quibell-archaic-mastabas-1923`]。
+- **德尔拜赫里 II / Deir el-Bahari II** — Naville 1896 [`src-egypt-naville-deir-el-bahari-ii-1896`]。
+
+
+
 
 
 - **Hierakonpolis (Kom el-Ahmar)** — Quibell/Green Main Deposit; Adams 2000 HK6 elite cemetery [`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-quibell-green-hierakonpolis-1902`][`src-egypt-adams-hk6-2000`][`src-egypt-wilkinson-early-dynastic-1999`].
@@ -153,6 +175,18 @@ Naqada is often subdivided (I / II / III, with “Dynasty 0” debates); follow 
 - **Fayum Kom W** and **Kom K** — Caton-Thompson & Gardner *The Desert Fayum* (1934) [`src-egypt-caton-thompson-desert-fayum-1934`].
 - **Saqqara South — Pepi II** — Jéquier 1936 Tome I [`src-egypt-jequier-pepi-ii-i-1936`].
 - **Abydos Osireion** — Frankfort *Cenotaph of Seti I* (1933); New Kingdom, not Predynastic royal tomb [`src-egypt-frankfort-cenotaph-seti-1933`].
+
+- **Tell el-Amarna** — Petrie 1894; EES *City of Akhenaten* I–III (1923–1951); “unique planned capital without precursors” → hypothesis [`src-egypt-petrie-tell-el-amarna-1894`][`src-egypt-peet-woolley-akhenaten-i-1923`][`src-egypt-frankfort-pendlebury-akhenaten-ii-1933`][`src-egypt-pendlebury-akhenaten-iii-1951`].
+- **Amarna Workmen’s Village** — Peet & Woolley I (1923) [`src-egypt-peet-woolley-akhenaten-i-1923`].
+- **Amarna North Suburb** — Frankfort & Pendlebury II (1933) [`src-egypt-frankfort-pendlebury-akhenaten-ii-1933`].
+- **Bubastis** — Naville 1891 EEF [`src-egypt-naville-bubastis-1891`].
+- **Matmar** — Brunton 1948 [`src-egypt-brunton-matmar-1948`].
+- **Armant temples** — Mond & Myers 1940 (distinct from 1937 cemeteries) [`src-egypt-mond-myers-temples-armant-1940`].
+- **Memphis deepen** — Petrie *Memphis I* (1909) [`src-egypt-petrie-memphis-i-1909`].
+- **Saqqara archaic mastabas** — Quibell 1923 [`src-egypt-quibell-archaic-mastabas-1923`].
+- **Deir el-Bahari II** — Naville 1896 [`src-egypt-naville-deir-el-bahari-ii-1896`].
+
+
 
 
 ## Urbanism, architecture & institutions

@@ -1,0 +1,38 @@
+{
+  "id": "asm-hassuna-1945",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈苏纳层序组合（Lloyd & Safar 1945）",
+    "en": "Hassuna sequence assemblage (Lloyd & Safar 1945)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-hassuna"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Lloyd & Safar 1945 JNES 公布的哈苏纳发掘层序与器物（组合级）。",
+    "en": "Hassuna excavation sequence and finds as published in Lloyd & Safar 1945 JNES (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-lloyd-safar-hassuna-1945"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-lloyd-safar-hassuna-1945.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

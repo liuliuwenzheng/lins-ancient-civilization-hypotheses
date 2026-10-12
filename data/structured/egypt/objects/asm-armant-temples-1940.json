@@ -1,0 +1,39 @@
+{
+  "id": "asm-armant-temples-1940",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿尔曼特神庙组合（Mond & Myers 1940）",
+    "en": "Armant temples assemblage (Mond & Myers 1940)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-armant-temples",
+    "site-armant"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Mond & Myers《Temples of Armant》(1940) 神庙区初步调查（组合级）。",
+    "en": "Armant temple-area preliminary survey as published in Mond & Myers 1940 (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-mond-myers-temples-armant-1940"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-mond-myers-temples-armant-1940.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

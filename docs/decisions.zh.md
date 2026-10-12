@@ -562,3 +562,32 @@
 - 两河/埃及本提交不变（已在 main 完成第四轮）。出处闸门通过。
 
 **说明：** 争议项（加维拉内斯玉米优先；印度河帝国/破译；夏＝二里头；三星堆＝商殖民；荷马信史/锡拉单年；奥尔梅克母文化/Cascajal 已释读；中前古典完整神王/米拉多第一国家）留假说栏。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
+
+### D-2026-10-12-5 — 两河 + 埃及第五轮档案密度加深
+
+**决定：** 继续按老大优先级加深档案密度。对两河与埃及做**第五轮**可核验密度加深：仅登记尚未入库的一手（P）与必要强二手（S）；扩展结构化遗址、组合与主张；同步 `civ-mesopotamia.md` / `civ-ancient-egypt.md`；争议进假说栏；全仓 `export_check` 必须通过。诚信优于速度。其余七包与审议圆桌由后续任务安排。
+
+**本轮主要新 P（及必要 S）：**
+
+**两河：**
+- Delougaz、Hill & Lloyd《迪亚拉私宅与墓葬》OIP 88（1967）
+- Frankfort《迪亚拉层位圆柱印章》OIP 72（1955）
+- Adams & Nissen《乌鲁克乡村》(1972)
+- Andrae《亚述城防御工事》WVDOG 23（1913）；《安努—阿达德神庙》WVDOG 10（1909）
+- Jacobsen & Lloyd《杰尔万的辛那赫里布渡槽》OIP 24（1935）
+- Lloyd & Safar 哈苏纳 JNES 1945；Gibson《基什城与地区》(1972)
+- Frankfort OIC 16（1933）/ OIC 17（1934）初步季报
+
+**埃及：**
+- Peet & Woolley《阿肯那顿之城》I（1923）；Frankfort & Pendlebury II（1933）；Pendlebury III（1951）
+- Petrie《Tell el Amarna》(1894)；Petrie《Memphis I》(1909)
+- Naville《Bubastis》(1891)；Naville《德尔拜赫里神庙》II（1896）
+- Brunton《Matmar》(1948)；Quibell《Archaic Mastabas》(1923)；Mond & Myers《Temples of Armant》(1940)
+
+**结构化结果（以 `export_check` 为准）：**
+- **mesopotamia：** 来源 66→76；遗址 37→43；器物组合与主张相应增加
+- **egypt：** 来源 60→70；遗址 37→43；器物组合与主张相应增加
+- 其余七包本提交不变；出处闸门通过。
+
+**说明：** 杰尔万「罗马前最早渡槽」、哈苏纳「最早村落」、阿马尔那「无前身纯规划唯一首都」一律假说栏。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
+

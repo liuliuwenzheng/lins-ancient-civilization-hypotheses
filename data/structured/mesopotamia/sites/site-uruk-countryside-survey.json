@@ -1,0 +1,30 @@
+{
+  "id": "site-uruk-countryside-survey",
+  "entity": "site",
+  "names": {
+    "zh": "乌鲁克周边地表调查区 / Uruk countryside survey zone",
+    "en": "Uruk countryside survey zone",
+    "native": null
+  },
+  "kind_note": "survey-region",
+  "region": "Southern Mesopotamia / Iraq (Warka hinterland)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "Adams & Nissen 1967 乌鲁克/瓦尔卡周边地表勘察区（1972 专著）。",
+    "en": "1967 surface reconnaissance zone around Uruk/Warka published by Adams & Nissen 1972."
+  },
+  "sources": [
+    "src-mesopotamia-adams-nissen-uruk-countryside-1972"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

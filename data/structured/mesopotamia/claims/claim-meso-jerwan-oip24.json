@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-jerwan-oip24",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Jacobsen & Lloyd《杰尔万的辛那赫里布渡槽》OIP 24（1935）报告 1933 年发掘的石砌渡槽及戈梅尔渠首相关工作。",
+    "en": "Jacobsen & Lloyd Sennacherib’s Aqueduct at Jerwan (OIP 24, 1935) reports the 1933 excavation of the stone aqueduct and related Gomel canal-head work."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-jerwan",
+    "site-bavian-gomel"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-jerwan-aqueduct-oip24"
+  ],
+  "sources": [
+    "src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

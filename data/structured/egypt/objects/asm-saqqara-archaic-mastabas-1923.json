@@ -1,0 +1,38 @@
+{
+  "id": "asm-saqqara-archaic-mastabas-1923",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "萨卡拉古风马斯塔巴组合（Quibell 1923）",
+    "en": "Saqqara archaic mastabas assemblage (Quibell 1923)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Quibell《Archaic Mastabas》(1923) 萨卡拉 1912–1914 古风马斯塔巴（组合级）。",
+    "en": "Archaic mastabas from Saqqara 1912–1914 as published in Quibell 1923 (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-quibell-archaic-mastabas-1923"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/excavationsatsaq06quibuoft",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-quibell-archaic-mastabas-1923.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

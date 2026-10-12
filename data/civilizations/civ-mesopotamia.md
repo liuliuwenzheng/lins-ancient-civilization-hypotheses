@@ -14,16 +14,26 @@ summary: |
 sources:
   - src-mesopotamia-adams-1981
   - src-mesopotamia-adams-diyala-1965
+  - src-mesopotamia-adams-nissen-uruk-countryside-1972
   - src-mesopotamia-algaze-2008
+  - src-mesopotamia-andrae-anu-adad-1909
+  - src-mesopotamia-andrae-festungswerke-assur-1913
   - src-mesopotamia-cdli
   - src-mesopotamia-collon-1987
   - src-mesopotamia-crawford-sumerian-world-2013
   - src-mesopotamia-delougaz-khafajah-oip53-1940
+  - src-mesopotamia-delougaz-oip88-1967
   - src-mesopotamia-finkbeiner-uruk-auwe4-1991
   - src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940
   - src-mesopotamia-frankfort-oic13-1932
+  - src-mesopotamia-frankfort-oic16-1933
+  - src-mesopotamia-frankfort-oic17-1934
+  - src-mesopotamia-frankfort-oip72-1955
+  - src-mesopotamia-gibson-kish-1972
   - src-mesopotamia-hall-woolley-alubaid-1927
+  - src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935
   - src-mesopotamia-liverani-uruk-2006
+  - src-mesopotamia-lloyd-safar-hassuna-1945
   - src-mesopotamia-mackay-kish-a-cemetery-1925
   - src-mesopotamia-martin-fara-1988
   - src-mesopotamia-matthews-jemdet-nasr-2002
@@ -44,7 +54,7 @@ sources:
   - src-mesopotamia-van-de-mieroop-2015
   - src-mesopotamia-woolley-ur-iv-1955
 related_ids: ["civ-ancient-egypt", "civ-indus-valley", "civ-aegean"]
-notes: "fact-library + 2026-10-11 density pass (D-2026-10-11-21): more P/S site reports and structured sites. Scope still stops short of full Kassite–Neo-Assyrian–Neo-Babylonian narrative. Algaze Uruk-expansion and Liverani first-city framing remain scholarly models/hypotheses. No invented page numbers, coordinates, or forged images."
+notes: "fact-library + density passes through D-2026-10-12-5 (pass 5 meso+egypt). fact-library + 2026-10-11 density pass (D-2026-10-11-21): more P/S site reports and structured sites. Scope still stops short of full Kassite–Neo-Assyrian–Neo-Babylonian narrative. Algaze Uruk-expansion and Liverani first-city framing remain scholarly models/hypotheses. No invented page numbers, coordinates, or forged images."
 ---
 
 # 两河 / Mesopotamia
@@ -130,6 +140,16 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 - **乌尔—乌尔三朝建筑（非塔庙）/ Ur III buildings** — Woolley UE VI（1974）；古巴比伦层见 UE VII（1976）[`src-mesopotamia-woolley-ur-vi-1974`][`src-mesopotamia-woolley-ur-vii-1976`]。
 - **马里宫殿 / Mari palace** — Parrot《马里》II.1 建筑卷（1958）[`src-mesopotamia-parrot-mari-palais-arch-1958`]。
 
+- **杰尔万 / Jerwan** — 辛那赫里布石砌渡槽；Jacobsen & Lloyd OIP 24（1935）；「罗马前最早渡槽」比较排名假说栏 [`src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935`]。
+- **巴维安—戈梅尔渠首 / Bavian–Gomel** — 与尼尼微供水相关的渠首；同见 OIP 24 [`src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935`]。
+- **哈苏纳 / Tell Hassuna** — Lloyd & Safar 1945 JNES 界定哈苏纳层序；「最早村落」排名假说栏 [`src-mesopotamia-lloyd-safar-hassuna-1945`]。
+- **乌鲁克周边调查区 / Uruk countryside survey** — Adams & Nissen 1972 [`src-mesopotamia-adams-nissen-uruk-countryside-1972`]。
+- **亚述城安努—阿达德神庙 / Assur Anu-Adad** — Andrae WVDOG 10（1909）；防御工事见 Andrae WVDOG 23（1913）[`src-mesopotamia-andrae-anu-adad-1909`][`src-mesopotamia-andrae-festungswerke-assur-1913`]。
+- **乌海米尔（西基什）/ Uhaimir** — Gibson 1972 城址与区域研究 [`src-mesopotamia-gibson-kish-1972`][`src-mesopotamia-moorey-kish-1978`]。
+- **迪亚拉私宅/印章加深** — Delougaz 等 OIP 88（1967）；Frankfort OIP 72（1955）；OIC 16/17 初步季报 [`src-mesopotamia-delougaz-oip88-1967`][`src-mesopotamia-frankfort-oip72-1955`][`src-mesopotamia-frankfort-oic16-1933`][`src-mesopotamia-frankfort-oic17-1934`]。
+
+
+
 
 
 - **Uruk (Warka)** — southern mega-site; AUWE reports incl. Finkbeiner survey [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`].
@@ -174,6 +194,15 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 - **Babylon Merkes** — Reuther 1926 WVDOG 47 inner-city zone [`src-mesopotamia-reuther-merkes-1926`][`src-mesopotamia-koldewey-babylon-1914`].
 - **Ur III buildings (non-ziggurat)** — Woolley *UE* VI (1974); Old Babylonian: *UE* VII (1976) [`src-mesopotamia-woolley-ur-vi-1974`][`src-mesopotamia-woolley-ur-vii-1976`].
 - **Mari palace** — Parrot *Mari* II.1 Architecture (1958) [`src-mesopotamia-parrot-mari-palais-arch-1958`].
+
+- **Jerwan** — Sennacherib stone aqueduct; Jacobsen & Lloyd OIP 24 (1935); comparative “first aqueduct” ranking → hypothesis [`src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935`].
+- **Bavian–Gomel canal head** — water-supply headworks; same OIP 24 [`src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935`].
+- **Tell Hassuna** — Lloyd & Safar 1945 JNES Hassuna sequence; “earliest village” ranking → hypothesis [`src-mesopotamia-lloyd-safar-hassuna-1945`].
+- **Uruk countryside survey zone** — Adams & Nissen 1972 [`src-mesopotamia-adams-nissen-uruk-countryside-1972`].
+- **Assur Anu-Adad temple** — Andrae WVDOG 10 (1909); fortifications Andrae WVDOG 23 (1913) [`src-mesopotamia-andrae-anu-adad-1909`][`src-mesopotamia-andrae-festungswerke-assur-1913`].
+- **Uhaimir (West Kish)** — Gibson 1972 city-and-area study [`src-mesopotamia-gibson-kish-1972`][`src-mesopotamia-moorey-kish-1978`].
+- **Diyala houses/seals deepen** — Delougaz et al. OIP 88 (1967); Frankfort OIP 72 (1955); OIC 16/17 preliminaries [`src-mesopotamia-delougaz-oip88-1967`][`src-mesopotamia-frankfort-oip72-1955`][`src-mesopotamia-frankfort-oic16-1933`][`src-mesopotamia-frankfort-oic17-1934`].
+
 
 
 ## Urbanism, architecture & institutions
@@ -242,7 +271,7 @@ The 4th-millennium **Uruk expansion** is a major scholarly model for southern Me
 
 现代两河考古的关键线索包括：乌尔的英—美联合发掘及其正式报告（Woolley）[`src-mesopotamia-woolley-ur-iv-1955`]；乌鲁克-瓦尔卡的德国长期工作与 AUWE 报告序列（含 Finkbeiner 调查卷）[`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]；Adams 等对伊拉克南部的区域地表调查与聚落体系综合 [`src-mesopotamia-adams-1981`]；柏林等地对乌鲁克古朴泥板的整理与 Englund 等对原始楔形文字的研究，并与 CDLI 数字目录衔接 [`src-mesopotamia-nissen-damerow-englund-1993`][`src-mesopotamia-cdli`]。综合层则有 Nissen、Pollock、Postgate、Potts、Algaze、Liverani、Van De Mieroop 与 Crawford 手册等 [`src-mesopotamia-nissen-1988`][`src-mesopotamia-pollock-1999`][`src-mesopotamia-postgate-1992`][`src-mesopotamia-potts-1997`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`][`src-mesopotamia-van-de-mieroop-2015`][`src-mesopotamia-crawford-sumerian-world-2013`]。Roaf 地图集为公众与教学向的地理定向 [`src-mesopotamia-roaf-1990`]。密度补强（2026-10-11）另登记：尼普尔 OIP 78/97 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`]；迪亚拉 OIP 43/53 与 OIC 13 [`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-delougaz-khafajah-oip53-1940`][`src-mesopotamia-frankfort-oic13-1932`]；基什 Mackay/Moorey [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`]；Jemdet Nasr Matthews 2002 [`src-mesopotamia-matthews-jemdet-nasr-2002`]；Tello Parrot 1948 [`src-mesopotamia-parrot-tello-1948`]；Eridu Safar et al. 1981 与 al-‘Ubaid Hall & Woolley 1927 [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`][`src-mesopotamia-hall-woolley-alubaid-1927`]；Mari Ishtar Parrot 1956 [`src-mesopotamia-parrot-mari-ishtar-1956`]；Abu Salabikh Postgate 1983 [`src-mesopotamia-postgate-abu-salabikh-1983`]；Fara Martin 1988 [`src-mesopotamia-martin-fara-1988`]；Habuba Kabira Strommenger 1980 [`src-mesopotamia-strommenger-habuba-kabira-1980`]；Diyala 调查 Adams 1965 [`src-mesopotamia-adams-diyala-1965`]。
 
-Modern research pillars include the Joint Expedition to Ur and its final reports (Woolley) [`src-mesopotamia-woolley-ur-iv-1955`]; long-term German work at Uruk-Warka and the AUWE series (including Finkbeiner’s survey volume) [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]; Adams’s regional surface surveys and settlement synthesis [`src-mesopotamia-adams-1981`]; archaic Uruk tablet projects linked to Englund and to CDLI [`src-mesopotamia-nissen-damerow-englund-1993`][`src-mesopotamia-cdli`]. Syntheses include Nissen, Pollock, Postgate, Potts, Algaze, Liverani, Van De Mieroop, and Crawford’s handbook [`src-mesopotamia-nissen-1988`][`src-mesopotamia-pollock-1999`][`src-mesopotamia-postgate-1992`][`src-mesopotamia-potts-1997`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`][`src-mesopotamia-van-de-mieroop-2015`][`src-mesopotamia-crawford-sumerian-world-2013`]. Roaf’s atlas remains a public/teaching geographic orientation [`src-mesopotamia-roaf-1990`]. Density pass (2026-10-11) also registers Nippur OIP 78/97; Diyala OIP 43/53 and OIC 13; Kish Mackay/Moorey; Jemdet Nasr Matthews 2002; Tello Parrot 1948; Eridu Safar et al. 1981 and al-‘Ubaid Hall & Woolley 1927; Mari Ishtar Parrot 1956; Abu Salabikh Postgate 1983; Fara Martin 1988; Habuba Kabira Strommenger 1980; Diyala survey Adams 1965 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`][`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-delougaz-khafajah-oip53-1940`][`src-mesopotamia-frankfort-oic13-1932`][`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`][`src-mesopotamia-matthews-jemdet-nasr-2002`][`src-mesopotamia-parrot-tello-1948`][`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`][`src-mesopotamia-hall-woolley-alubaid-1927`][`src-mesopotamia-parrot-mari-ishtar-1956`][`src-mesopotamia-postgate-abu-salabikh-1983`][`src-mesopotamia-martin-fara-1988`][`src-mesopotamia-strommenger-habuba-kabira-1980`][`src-mesopotamia-adams-diyala-1965`].
+Modern research pillars include the Joint Expedition to Ur and its final reports (Woolley) [`src-mesopotamia-woolley-ur-iv-1955`]; long-term German work at Uruk-Warka and the AUWE series (including Finkbeiner’s survey volume) [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`]; Adams’s regional surface surveys and settlement synthesis [`src-mesopotamia-adams-1981`]; archaic Uruk tablet projects linked to Englund and to CDLI [`src-mesopotamia-nissen-damerow-englund-1993`][`src-mesopotamia-cdli`]. Syntheses include Nissen, Pollock, Postgate, Potts, Algaze, Liverani, Van De Mieroop, and Crawford’s handbook [`src-mesopotamia-nissen-1988`][`src-mesopotamia-pollock-1999`][`src-mesopotamia-postgate-1992`][`src-mesopotamia-potts-1997`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`][`src-mesopotamia-van-de-mieroop-2015`][`src-mesopotamia-crawford-sumerian-world-2013`]. Roaf’s atlas remains a public/teaching geographic orientation [`src-mesopotamia-roaf-1990`]. Density pass 5 (2026-10-12) registers Diyala OIP 88/72, Uruk Countryside 1972, Andrae Assur WVDOG 10/23, Jerwan OIP 24, Hassuna 1945, Gibson Kish 1972, OIC 16/17 [`src-mesopotamia-delougaz-oip88-1967`][`src-mesopotamia-frankfort-oip72-1955`][`src-mesopotamia-adams-nissen-uruk-countryside-1972`][`src-mesopotamia-andrae-anu-adad-1909`][`src-mesopotamia-andrae-festungswerke-assur-1913`][`src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935`][`src-mesopotamia-lloyd-safar-hassuna-1945`][`src-mesopotamia-gibson-kish-1972`][`src-mesopotamia-frankfort-oic16-1933`][`src-mesopotamia-frankfort-oic17-1934`]. Density pass (2026-10-11) also registers Nippur OIP 78/97; Diyala OIP 43/53 and OIC 13; Kish Mackay/Moorey; Jemdet Nasr Matthews 2002; Tello Parrot 1948; Eridu Safar et al. 1981 and al-‘Ubaid Hall & Woolley 1927; Mari Ishtar Parrot 1956; Abu Salabikh Postgate 1983; Fara Martin 1988; Habuba Kabira Strommenger 1980; Diyala survey Adams 1965 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`][`src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940`][`src-mesopotamia-delougaz-khafajah-oip53-1940`][`src-mesopotamia-frankfort-oic13-1932`][`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`][`src-mesopotamia-matthews-jemdet-nasr-2002`][`src-mesopotamia-parrot-tello-1948`][`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`][`src-mesopotamia-hall-woolley-alubaid-1927`][`src-mesopotamia-parrot-mari-ishtar-1956`][`src-mesopotamia-postgate-abu-salabikh-1983`][`src-mesopotamia-martin-fara-1988`][`src-mesopotamia-strommenger-habuba-kabira-1980`][`src-mesopotamia-adams-diyala-1965`].
 
 
 

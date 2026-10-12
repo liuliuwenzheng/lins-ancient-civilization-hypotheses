@@ -1,0 +1,31 @@
+{
+  "id": "site-uhaimir-kish",
+  "entity": "site",
+  "names": {
+    "zh": "乌海米尔（西基什）/ Uhaimir (West Kish)",
+    "en": "Uhaimir (West Kish)",
+    "native": null
+  },
+  "kind_note": "Western Kish mound / ziggurat area orientation",
+  "region": "Southern Mesopotamia / Iraq (Kish area)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "基什西区丘；Gibson 1972 城址与区域研究及 Mackay/Moorey 系列可参照。",
+    "en": "Western Kish mound area; oriented via Gibson 1972 city-and-area study alongside Mackay/Moorey."
+  },
+  "sources": [
+    "src-mesopotamia-gibson-kish-1972",
+    "src-mesopotamia-moorey-kish-1978"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

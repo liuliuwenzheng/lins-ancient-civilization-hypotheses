@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-assur-festungswerke",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Andrae《亚述城防御工事》WVDOG 23（1913）公布 DOG 在亚述城的防御建筑记录。",
+    "en": "Andrae Die Festungswerke von Assur (WVDOG 23, 1913) publishes DOG fortification architecture at Assur."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-assur"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-assur-festungswerke-1913"
+  ],
+  "sources": [
+    "src-mesopotamia-andrae-festungswerke-assur-1913"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

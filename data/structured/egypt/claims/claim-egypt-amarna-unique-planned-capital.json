@@ -1,0 +1,32 @@
+{
+  "id": "claim-egypt-amarna-unique-planned-capital",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将阿马尔那表述为「无前身的纯规划唯一首都」会过度简化；其规划特征与新王国迁都政治需分栏讨论。",
+    "en": "Calling Amarna a uniquely planned capital without precursors oversimplifies; planning features and New Kingdom relocation politics should stay distinct columns."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-amarna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-amarna-central-city-iii"
+  ],
+  "sources": [
+    "src-egypt-pendlebury-akhenaten-iii-1951",
+    "src-egypt-kemp-anatomy-2006"
+  ],
+  "disclaimer": "Hypothesis / popular framing — not a closed fact. Planned layout ≠ historically unique without comparative argument.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Contested framing kept as hypothesis."
+  }
+}

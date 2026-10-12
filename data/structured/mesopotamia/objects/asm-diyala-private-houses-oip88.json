@@ -1,0 +1,40 @@
+{
+  "id": "asm-diyala-private-houses-oip88",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迪亚拉私宅与墓葬组合（OIP 88）",
+    "en": "Diyala private houses and graves assemblage (OIP 88)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-khafajah",
+    "site-tell-asmar",
+    "site-tell-agrab"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Delougaz、Hill & Lloyd OIP 88（1967）公布的迪亚拉私宅与墓葬建筑记录（组合级）。",
+    "en": "Private-house and grave architecture as published in Delougaz, Hill & Lloyd OIP 88 (1967) (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-delougaz-oip88-1967"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/publications/private-houses-and-graves-diyala-region",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-delougaz-oip88-1967.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 5 (D-2026-10-12-5)."
+  }
+}

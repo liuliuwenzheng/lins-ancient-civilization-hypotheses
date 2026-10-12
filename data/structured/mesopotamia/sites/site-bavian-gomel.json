@@ -1,0 +1,30 @@
+{
+  "id": "site-bavian-gomel",
+  "entity": "site",
+  "names": {
+    "zh": "巴维安／戈梅尔渠首 / Bavian–Gomel canal head",
+    "en": "Bavian–Gomel canal head",
+    "native": null
+  },
+  "kind_note": "Canal-head / rock inscriptions related to Nineveh water supply",
+  "region": "Northern Mesopotamia / Iraq (Gomel gorge)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "与尼尼微供水相关的戈梅尔峡谷渠首与铭文；OIP 24 建筑记述。",
+    "en": "Canal head and inscriptions in the Gomel gorge tied to Nineveh’s water supply; architectural account in OIP 24."
+  },
+  "sources": [
+    "src-mesopotamia-jacobsen-lloyd-jerwan-oip24-1935"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

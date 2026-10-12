@@ -1,0 +1,30 @@
+{
+  "id": "site-hassuna",
+  "entity": "site",
+  "names": {
+    "zh": "哈苏纳丘 / Tell Hassuna",
+    "en": "Tell Hassuna",
+    "native": null
+  },
+  "kind_note": "Northern early village / Hassuna-sequence type site",
+  "region": "Northern Mesopotamia / Iraq (south of Mosul)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "伊拉克古物局 1943–1944 发掘；Lloyd & Safar 1945 JNES 界定哈苏纳层序。",
+    "en": "Iraqi Directorate excavations 1943–1944; Lloyd & Safar 1945 JNES defines the Hassuna sequence."
+  },
+  "sources": [
+    "src-mesopotamia-lloyd-safar-hassuna-1945"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

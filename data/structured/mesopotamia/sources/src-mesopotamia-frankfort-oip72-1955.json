@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-frankfort-oip72-1955",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Frankfort, Henri, with a chapter by Thorkild Jacobsen. 1955. Stratified Cylinder Seals from the Diyala Region. Oriental Institute Publications 72. Chicago: University of Chicago Press. Pp. xi + 78, 6 figures, 2 tables, 96 plates.",
+  "url": "https://isac.uchicago.edu/publications/stratified-cylinder-seals-diyala-region",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Stratified seal corpus from Khafajah, Tell Asmar, Tell Agrab, and Ishchali (Jemdet Nasr through Old Babylonian). ISAC catalog verified 2026-10-12.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oip72-1955.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via catalog/WebSearch 2026-10-12; no invented page numbers. density pass 5 (D-2026-10-12-5)."
+  }
+}

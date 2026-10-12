@@ -1,0 +1,30 @@
+{
+  "id": "site-amarna-north-suburb",
+  "entity": "site",
+  "names": {
+    "zh": "阿马尔那北郊 / Amarna North Suburb",
+    "en": "Amarna North Suburb",
+    "native": null
+  },
+  "kind_note": "Residential suburb; EES 1926–1932",
+  "region": "Middle Egypt / Amarna",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Frankfort & Pendlebury《阿肯那顿之城》II（1933）北郊与沙漠祭坛。",
+    "en": "North Suburb and desert altars as published in Frankfort & Pendlebury City of Akhenaten II (1933)."
+  },
+  "sources": [
+    "src-egypt-frankfort-pendlebury-akhenaten-ii-1933"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

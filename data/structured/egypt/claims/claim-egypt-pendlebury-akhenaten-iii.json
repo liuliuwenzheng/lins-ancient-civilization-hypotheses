@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-pendlebury-akhenaten-iii",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pendlebury《阿肯那顿之城》III（1951）公布中城与官署区正式报告。",
+    "en": "Pendlebury City of Akhenaten III (1951) publishes the Central City and official quarters final report."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-amarna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-amarna-central-city-iii"
+  ],
+  "sources": [
+    "src-egypt-pendlebury-akhenaten-iii-1951"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

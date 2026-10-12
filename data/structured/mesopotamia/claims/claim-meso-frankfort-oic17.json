@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-frankfort-oic17",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Frankfort OIC 17（1934）公布 OI 伊拉克远征 1932/33 季初步结果。",
+    "en": "Frankfort OIC 17 (1934) publishes 1932/33-season preliminary results of the OI Iraq Expedition."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar",
+    "site-khafajah",
+    "site-khorsabad"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-oi-iraq-oic17-1934"
+  ],
+  "sources": [
+    "src-mesopotamia-frankfort-oic17-1934"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

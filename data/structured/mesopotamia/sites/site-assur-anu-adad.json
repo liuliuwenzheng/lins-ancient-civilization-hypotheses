@@ -1,0 +1,30 @@
+{
+  "id": "site-assur-anu-adad",
+  "entity": "site",
+  "names": {
+    "zh": "亚述城安努—阿达德神庙 / Assur Anu-Adad temple",
+    "en": "Assur Anu-Adad temple",
+    "native": null
+  },
+  "kind_note": "Temple complex within Assur (DOG locus)",
+  "region": "Northern Mesopotamia / Iraq (Assur)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "DOG 发掘；Andrae《Der Anu-Adad-Tempel in Assur》(1909, WVDOG 10)。",
+    "en": "DOG excavation; Andrae Der Anu-Adad-Tempel in Assur (1909, WVDOG 10)."
+  },
+  "sources": [
+    "src-mesopotamia-andrae-anu-adad-1909"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "density pass 5 (D-2026-10-12-5); coordinates not asserted."
+  }
+}

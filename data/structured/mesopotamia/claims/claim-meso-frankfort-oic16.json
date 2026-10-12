@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-frankfort-oic16",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Frankfort OIC 16（1933）公布 OI 伊拉克远征第二季在阿斯马尔、哈法杰与霍尔萨巴德的初步结果。",
+    "en": "Frankfort OIC 16 (1933) publishes second-season preliminary results at Tell Asmar, Khafaje, and Khorsabad."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar",
+    "site-khafajah",
+    "site-khorsabad"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-oi-iraq-oic16-1933"
+  ],
+  "sources": [
+    "src-mesopotamia-frankfort-oic16-1933"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}

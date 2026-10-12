@@ -1,0 +1,34 @@
+{
+  "id": "claim-meso-diyala-seals-oip72",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Frankfort《迪亚拉层位圆柱印章》OIP 72（1955）按出土层位刊布迪亚拉四址印章。",
+    "en": "Frankfort Stratified Cylinder Seals from the Diyala Region (OIP 72, 1955) publishes Diyala seals in stratigraphic order from four sites."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-khafajah",
+    "site-tell-asmar",
+    "site-tell-agrab",
+    "site-ishchali"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-diyala-seals-oip72"
+  ],
+  "sources": [
+    "src-mesopotamia-frankfort-oip72-1955"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-*.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only."
+  }
+}
