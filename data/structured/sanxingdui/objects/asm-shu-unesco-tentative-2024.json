@@ -1,0 +1,39 @@
+{
+  "id": "asm-shu-unesco-tentative-2024",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "古蜀预备清单更新组合",
+    "en": "Shu tentative-list update assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-shu-unesco-tentative-2024"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "预备清单文档组合。",
+    "en": "Tentative List documentation assemblage."
+  },
+  "sources": [
+    "src-sanxingdui-unesco-tentative-2024-update"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO WHC Tentative List",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

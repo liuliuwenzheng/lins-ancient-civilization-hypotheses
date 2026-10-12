@@ -1,0 +1,31 @@
+{
+  "id": "site-chalcatzingo-reliefs",
+  "entity": "site",
+  "names": {
+    "zh": "查尔卡钦戈浮雕加深",
+    "en": "Chalcatzingo reliefs deepen",
+    "native": null
+  },
+  "kind_note": "monument/relief unit",
+  "region": "Morelos, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Grove 浮雕/纪念碑加深单元。",
+    "en": "Grove relief/monument deepen unit."
+  },
+  "sources": [
+    "src-olmec-grove-chalcatzingo-reliefs",
+    "src-olmec-grove-chalcatzingo-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

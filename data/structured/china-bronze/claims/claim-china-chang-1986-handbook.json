@@ -1,0 +1,29 @@
+{
+  "id": "claim-china-chang-1986-handbook",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Chang 1986《中国古代考古》第四版提供英文综论框架。",
+    "en": "Chang 1986 Archaeology of Ancient China (4th ed.) supplies an English handbook framework."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-chang-archaeology-china-1986"
+  ],
+  "sources": [
+    "src-china-chang-archaeology-ancient-china-1986"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

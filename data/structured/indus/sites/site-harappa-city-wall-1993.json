@@ -1,0 +1,31 @@
+{
+  "id": "site-harappa-city-wall-1993",
+  "entity": "site",
+  "names": {
+    "zh": "哈拉帕城墙区（1993）",
+    "en": "Harappa city-wall area (1993)",
+    "native": null
+  },
+  "kind_note": "city-wall excavation unit",
+  "region": "Punjab, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Meadow & Kenoyer 1993 季城墙区报告单元。",
+    "en": "Meadow & Kenoyer 1993 season city-wall area report unit."
+  },
+  "sources": [
+    "src-indus-meadow-kenoyer-harappa-1994",
+    "src-indus-meadow-harappa-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-proulx-nepena-1985",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Proulx, Donald A. 1985. An Analysis of the Early Cultural Sequence in the Nepeña Valley, Peru. Research Reports 25. Amherst: Department of Anthropology, University of Massachusetts.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary research report on Early Horizon / Initial Period cultural sequence in the Nepeña Valley (north-central coast comparative to Casma). Survey/excavation synthesis for valley sequence — not Norte Chico core.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-proulx-nepena-1985.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

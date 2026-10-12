@@ -1,0 +1,40 @@
+{
+  "id": "asm-harappa-city-wall-1993",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈拉帕城墙区 1993 组合",
+    "en": "Harappa city-wall 1993 assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa-city-wall-1993",
+    "site-harappa"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "1993 季城墙区发掘组合。",
+    "en": "1993 season city-wall area excavation assemblage."
+  },
+  "sources": [
+    "src-indus-meadow-kenoyer-harappa-1994"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Meadow & Kenoyer 1994",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

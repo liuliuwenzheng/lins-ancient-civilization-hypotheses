@@ -1,0 +1,39 @@
+{
+  "id": "asm-cheetham-sl-pottery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Cheetham 圣洛伦索风格陶器组合",
+    "en": "Cheetham San Lorenzo–style pottery assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "早期成形圣洛伦索风格陶器分布文献组合。",
+    "en": "Early Formative San Lorenzo–style pottery distribution literature assemblage."
+  },
+  "sources": [
+    "src-olmec-cheetham-san-lorenzo-style-pottery"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cheetham studies",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

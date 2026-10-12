@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-gola-dhoro-antiquity-2005",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bhan 等 2005 Antiquity 项目廊总结戈拉多罗贸易与手工业中心证据（含印章）。",
+    "en": "Bhan et al. 2005 Antiquity Project Gallery summarizes Gola Dhoro as a Harappan trading/craft centre (including seals)."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-bagasra-gola-dhoro"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-gola-dhoro-seals-2005"
+  ],
+  "sources": [
+    "src-indus-bhan-gola-dhoro-antiquity-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

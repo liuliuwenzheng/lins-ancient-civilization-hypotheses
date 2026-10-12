@@ -1,0 +1,29 @@
+{
+  "id": "claim-sxd-sunhua-bronze-basin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "孙华综论四川盆地青铜时代与蜀地考古序列。",
+    "en": "Sun Hua syntheses discuss Sichuan Basin Bronze Age and Shu archaeological sequences."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sunhua-sichuan-bronze"
+  ],
+  "sources": [
+    "src-sanxingdui-sunhua-shudi-kaogu"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

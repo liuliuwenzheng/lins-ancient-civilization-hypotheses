@@ -1,0 +1,31 @@
+{
+  "id": "site-mirador-conservation-frame",
+  "entity": "site",
+  "names": {
+    "zh": "米拉多（保护研究框架）",
+    "en": "El Mirador (conservation research frame)",
+    "native": null
+  },
+  "kind_note": "research-and-conservation frame",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Hansen 等米拉多盆地研究与保护综论单元。",
+    "en": "Hansen et al. Mirador Basin research-and-conservation frame unit."
+  },
+  "sources": [
+    "src-maya-hansen-mirador-conservation-2016",
+    "src-maya-hansen-mirador-lidar-2022"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

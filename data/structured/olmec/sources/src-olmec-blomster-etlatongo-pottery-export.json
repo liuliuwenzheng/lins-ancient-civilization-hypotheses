@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-blomster-etlatongo-pottery-export",
+  "entity": "source",
+  "type": "article",
+  "citation": "Blomster, Jeffrey P., et al. Additional Etlatongo / Mixteca Alta Formative pottery and INAA-related publications beyond Blomster, Neff & Glascock 2005 Science already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Etlatongo deepen path. Complements Blomster Science 2005 and Etlatongo pointers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-blomster-etlatongo-pottery-export.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

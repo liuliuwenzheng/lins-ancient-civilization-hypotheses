@@ -1,0 +1,39 @@
+{
+  "id": "asm-troy-viia-blegen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特洛伊 VIIa 组合",
+    "en": "Troy VIIa assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-troy-viia"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Blegen Troy IV VIIa 组合；战争说入假说。",
+    "en": "Blegen Troy IV VIIa assemblage; war reading stays hypothesis."
+  },
+  "sources": [
+    "src-aegean-blegen-troy-iv-1958"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Blegen et al. 1958",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

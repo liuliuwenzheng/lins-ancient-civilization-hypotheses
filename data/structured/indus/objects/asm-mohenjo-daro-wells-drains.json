@@ -1,0 +1,40 @@
+{
+  "id": "asm-mohenjo-daro-wells-drains",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "摩亨佐达罗水井排水文献组合",
+    "en": "Mohenjo-daro wells/drains documentation assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro-water-docs",
+    "site-mohenjo-daro"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "水利文献综合组合（非新探方号）。",
+    "en": "Water-system documentation assemblage (no invented trench numbers)."
+  },
+  "sources": [
+    "src-indus-jansen-mohenjo-daro-1993"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Jansen 1993",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

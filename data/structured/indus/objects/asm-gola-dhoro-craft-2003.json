@@ -1,0 +1,40 @@
+{
+  "id": "asm-gola-dhoro-craft-2003",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "戈拉多罗手工业组合",
+    "en": "Gola Dhoro craft assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-bagasra-gola-dhoro"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "贝壳/珠饰/釉砂/铜等手工业与城墙内堆料（组合级）。",
+    "en": "Shell/bead/faience/copper craft and stockpiling inside fortification (assemblage-level)."
+  },
+  "sources": [
+    "src-indus-sonawane-bagasra-2003",
+    "src-indus-bhan-gola-dhoro-antiquity-2005"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Sonawane et al. 2003; Bhan et al. 2005",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

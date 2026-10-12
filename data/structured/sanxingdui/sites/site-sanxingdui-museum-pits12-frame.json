@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-museum-pits12-frame",
+  "entity": "site",
+  "names": {
+    "zh": "三星堆博物馆一/二号坑图录框架",
+    "en": "Sanxingdui Museum pits 1–2 catalogue frame",
+    "native": null
+  },
+  "kind_note": "museum catalogue frame",
+  "region": "Guanghan, Sichuan",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "一/二号坑博物馆图录路径；细部以发掘简报为准。",
+    "en": "Pits 1–2 museum catalogue path; detail prefers excavation briefs."
+  },
+  "sources": [
+    "src-sanxingdui-sichuan-museum-catalogue",
+    "src-sanxingdui-pit1-brief-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

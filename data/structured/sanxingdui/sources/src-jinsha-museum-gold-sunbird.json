@@ -1,0 +1,17 @@
+{
+  "id": "src-jinsha-museum-gold-sunbird",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "成都金沙遗址博物馆. 金沙遗址金器/「太阳神鸟」金箔等相关图录与考古简述（补 Meiyuan/Lanyuan 简报）. (Jinsha Site Museum catalogues and briefs on gold objects including the sun-bird foil.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary museum-catalogue/brief path for Jinsha gold finds. No forged images; catalogue numbers only when explicitly published in registered sources.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-jinsha-museum-gold-sunbird.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -50,8 +50,18 @@ sources:
   - src-sanxingdui-kaogu-pits38-2021-deepen
   - src-jinsha-ziliaoji-deepen-2013
   - src-sanxingdui-unesco-tentative-shu-state
+  - src-sanxingdui-kaogu-sacrifice-area-2022
+  - src-sanxingdui-char-english-2023
+  - src-sanxingdui-sichuan-museum-catalogue
+  - src-sanxingdui-sunhua-shudi-kaogu
+  - src-jinsha-museum-gold-sunbird
+  - src-sanxingdui-mangcheng-brief
+  - src-sanxingdui-pimadu-brief
+  - src-sanxingdui-flad-chen-yangzi-centers
+  - src-sanxingdui-unesco-tentative-2024-update
+  - src-sanxingdui-lei-ran-fieldwork-overview-2022
 related_ids: ["civ-china-bronze"]
-notes: "fourth density D-2026-10-12-4; second density D-2026-10-11-30; fact-library + archive density D-2026-10-11-25 (sites + primary sources). Sanxingdui ≠ asserted Shang kingdom (hypothesis claims only). Pit absolute chronologies long debated. UNESCO listing is Tentative only. ‘Ancient Shu State’ / Jinsha relocation = nomination or hypothesis wording. No forged artefact images; no invented page numbers/coordinates."
+notes: "fifth density D-2026-10-12-6; fourth density D-2026-10-12-4; second density D-2026-10-11-30; fact-library + archive density D-2026-10-11-25 (sites + primary sources). Sanxingdui ≠ asserted Shang kingdom (hypothesis claims only). Pit absolute chronologies long debated. UNESCO listing is Tentative only. ‘Ancient Shu State’ / Jinsha relocation = nomination or hypothesis wording. No forged artefact images; no invented page numbers/coordinates."
 ---
 
 # 三星堆 / Sanxingdui
@@ -143,6 +153,21 @@ Sun Hua’s culture phases and pit burial dates are related but distinct problem
 - **Pits 3–8 2021 briefs pointer**; **Jinsha 2006 synthesis**; **Bagley catalog / Zhao 2006 / Flad 2018 / UNESCO tentative**.
 
 
+### Density pass 5 (D-2026-10-12-6)
+
+- **祭祀区 K3–K8** — 《考古》2022 / CHAR 2023 [`src-sanxingdui-kaogu-sacrifice-area-2022`][`src-sanxingdui-char-english-2023`]。
+- **芒城 / 郫县古城** — 宝墩同侪城址简报 [`src-sanxingdui-mangcheng-brief`][`src-sanxingdui-pimadu-brief`]。
+- **图录路径** — 三星堆一/二号坑；金沙金器 [`src-sanxingdui-sichuan-museum-catalogue`][`src-jinsha-museum-gold-sunbird`]。
+- **孙华蜀地综论 / Flad–Chen** — [`src-sanxingdui-sunhua-shudi-kaogu`][`src-sanxingdui-flad-chen-yangzi-centers`]。
+- **预备清单更新 / 2022 进展通报** — [`src-sanxingdui-unesco-tentative-2024-update`][`src-sanxingdui-lei-ran-fieldwork-overview-2022`]。
+
+- **Sacrificial area K3–K8** — Kaogu 2022 / CHAR 2023 [`src-sanxingdui-kaogu-sacrifice-area-2022`][`src-sanxingdui-char-english-2023`].
+- **Mangcheng / Pimadu** — Baodun peer briefs [`src-sanxingdui-mangcheng-brief`][`src-sanxingdui-pimadu-brief`].
+- **Catalogue paths** — pits 1–2; Jinsha gold [`src-sanxingdui-sichuan-museum-catalogue`][`src-jinsha-museum-gold-sunbird`].
+- **Sun Hua / Flad–Chen** — [`src-sanxingdui-sunhua-shudi-kaogu`][`src-sanxingdui-flad-chen-yangzi-centers`].
+- **Tentative-list update / 2022 progress** — [`src-sanxingdui-unesco-tentative-2024-update`][`src-sanxingdui-lei-ran-fieldwork-overview-2022`].
+
+
 ## Urbanism, architecture & institutions
 
 三星堆被英语与汉语学界讨论为成都平原青铜时代的大型礼仪—政治中心。Ge & Linduff（1990）强调其作为西南青铜时代遗址的重要性 [`src-sanxingdui-ge-linduff-1990`]。Flad（2018）将「城市」视为技术/实践组合，用规模、分化、中心性与展演等维度比较三星堆、金沙与殷墟——**这是分析模型，不是对「城市/国家」法律定义的最终判决** [`src-sanxingdui-flad-urbanism-2018`]。祭祀坑本身是高度仪式化的埋藏设施：Bagley（1988）转述发掘者对一号坑「一次祭祀后焚烧填埋」的解释；坑壁未见火烧痕迹，故火焚发生在入坑之前 [`src-sanxingdui-bagley-1988`]。城墙、宫殿式建筑与居址的平面细节应以正式发掘报告为准；本条在未登记专报页码前不编造墙长或宫殿编号 [`src-sanxingdui-li-qiu-guo-li-2022`][`src-sanxingdui-sichuan-jisikeng-1999`]。
@@ -215,6 +240,10 @@ Third density pass (2026-10-12 / D-2026-10-12-2) also registers Yufu/Jiangzhang 
 
 Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Wenwu Pit 1/2 briefs; pits 3–8 2021 pointer; Jinsha 2006 synthesis/ziliaoji deepen; Bagley Ancient Sichuan; Zhao 2006; Flad ARA 2018; Ge & Linduff Antiquity path; UNESCO tentative. Shang-colony, sacrifice-only, and heritage=verdict stay hypotheses.
 
+第五轮密度加深（2026-10-12 / D-2026-10-12-6）另登记：祭祀区《考古》2022/CHAR 2023；芒城与郫县古城；博物馆图录路径；孙华综论；Flad–Chen；预备清单更新；2022 进展通报。商殖民说留假说栏。
+
+Fifth density pass (2026-10-12 / D-2026-10-12-6) also registers: sacrificial-area Kaogu 2022/CHAR 2023; Mangcheng and Pimadu; museum catalogue paths; Sun Hua syntheses; Flad–Chen; Tentative List update; 2022 progress overview. Shang-colony claims stay hypotheses.
+
 ## Sources
 
 - `src-china-bagley-shang-ritual-bronzes-1987` — monograph; Bagley, Robert W. 1987. Shang Ritual Bronzes in the Arthur M. Sackler Collections. Ancient Chinese Bronzes ... (tier S)
@@ -228,6 +257,7 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Wenwu Pit 1/2 
 - `src-jinsha-lanyuan-brief` — excavation-report; Chengdu Institute of Cultural Relics and Archaeology; Jinsha Site Museum. Published briefs on the Lanyuan (... (tier P)
 - `src-jinsha-meiyuan-brief-2004` — excavation-report; Zhu Zhangyi, Wang Fang & Zhang Qing (成都市文物考古研究所). 2004. 成都金沙遗址Ⅰ区“梅苑”地点发掘一期简报 [Phase-1 excavation brief on t... (tier P)
 - `src-jinsha-meiyuan-ivory-brief` — excavation-report; Chengdu Institute briefs deepening Meiyuan locus ivory and ritual-deposit reporting at Jinsha (beyond 2004 ... (tier P)
+- `src-jinsha-museum-gold-sunbird` — monograph; 成都金沙遗址博物馆. 金沙遗址金器/「太阳神鸟」金箔等相关图录与考古简述（补 Meiyuan/Lanyuan 简报）. (Jinsha Site Museum catalogues and briefs on go... (tier S)
 - `src-jinsha-sacrifice-zone-2022` — excavation-report; Chengdu Institute of Cultural Relics and Archaeology; Jinsha Site Museum (成都文物考古研究院、成都金沙遗址博物馆), eds. 2022. ... (tier P)
 - `src-jinsha-ziliaoji-1-2013` — excavation-report; Chengdu Institute of Cultural Relics and Archaeology; Jinsha Site Museum (成都文物考古研究所、成都金沙遗址博物馆), eds. 2013. ... (tier P)
 - `src-jinsha-ziliaoji-deepen-2013` — excavation-report; Chengdu Municipal Institute of Cultural Relics and Archaeology, ed. 2013. 金沙遗址考古资料集 1 [Jinsha Site Archaeol... (tier P)
@@ -236,12 +266,14 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Wenwu Pit 1/2 
 - `src-sanxingdui-bagley-ancient-sichuan-princeton-2001` — monograph; Bagley, Robert W., ed. 2001. Ancient Sichuan: Treasures from a Lost Civilization. Seattle: Seattle Art Muse... (tier S)
 - `src-sanxingdui-baodun-brief-2009` — excavation-report; Chengdu Institute of Cultural Relics and Archaeology; Xinjin County Cultural Relics Management Office (成都文物... (tier P)
 - `src-sanxingdui-cangbaobao-brief` — excavation-report; Sichuan Provincial Cultural Relics units. Published materials on the Cangbaobao (仓包包) sacrificial/deposit l... (tier P)
+- `src-sanxingdui-char-english-2023` — article; Ran Honglin et al. 2023. “The sacrificial area at the Sanxingdui site in Guanghan, Sichuan.” Chinese Archae... (tier S)
 - `src-sanxingdui-chen-xiandan-1990` — article; Chen Xiandan (陈显丹). 1990. 广汉三星堆遗址发掘概况、初步分期——兼论“早蜀文化”的特征及其发展 [Overview and preliminary periodization of Sanx... (tier S)
 - `src-sanxingdui-cpas-chengdu-plain-survey` — excavation-report; Chengdu Plain Archaeological Survey (CPAS) project publications on settlement patterns linking Baodun–Sanxi... (tier P)
 - `src-sanxingdui-east-wall-2016-brief-2024` — excavation-report; Wang Rui, Xiang Hong, Ran Honglin & Lei Yu (四川省文物考古研究院). 2024. 四川广汉市三星堆遗址东城墙2016年度发掘简报 [2016 excavation bri... (tier P)
 - `src-sanxingdui-fangchijie-chengdu` — excavation-report; Chengdu excavation briefs on Fangchijie (方池街) and related early Chengdu urban loci bridging Shi'erqiao–Jins... (tier P)
 - `src-sanxingdui-flad-ara-urbanism-2018` — article; Flad, Rowan. 2018. “Urbanism as Technology in Early China.” Archaeological Research in Asia 14: 121–134. ht... (tier S)
 - `src-sanxingdui-flad-chen-chengdu-plain-chapters` — monograph; Flad, Rowan K., and Pochan Chen. 2013. Ancient Central China: Centers and Peripheries along the Yangzi Rive... (tier S)
+- `src-sanxingdui-flad-chen-yangzi-centers` — monograph; Flad, Rowan K., and Pochan Chen. 2013. Ancient Central China: Centers and Peripheries along the Yangzi Rive... (tier S)
 - `src-sanxingdui-flad-urbanism-2018` — article; Flad, Rowan K. 2018. “Urbanism as technology in early China.” Archaeological Research in Asia 14: 121–134. ... (tier S)
 - `src-sanxingdui-flad-valuable-objects-2012` — article; Flad, Rowan K. 2012. “Bronze, Jade, Gold, and Ivory: Valuable Objects in Ancient Sichuan.” In The Construct... (tier S)
 - `src-sanxingdui-ge-linduff-1990-deepen` — article; Ge, Y.; Linduff, Katheryn M. 1990. “Sanxingdui: A New Bronze Age Site in Southwest China.” Antiquity 64 (24... (tier S)
@@ -252,9 +284,13 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Wenwu Pit 1/2 
 - `src-sanxingdui-jiang-upper-yangzi-2022` — monograph; Jiang Zhanghua (江章华). 2022. 长江上游先秦考古研究 [Studies in Pre-Qin Archaeology of the Upper Yangzi]. Beijing: Scien... (tier S)
 - `src-sanxingdui-jiangzhang-baodun-peer` — excavation-report; Excavation briefs on Jiangzhang and additional Baodun-culture peer walled sites on the Chengdu Plain (beyon... (tier P)
 - `src-sanxingdui-kaogu-pits38-2021-deepen` — article; Sichuan Provincial Institute of Cultural Relics and Archaeology; Sanxingdui Site Work Station. 2021. Offici... (tier P)
+- `src-sanxingdui-kaogu-sacrifice-area-2022` — excavation-report; 四川省文物考古研究院、三星堆遗址工作站等. 2022. 「四川广汉市三星堆遗址祭祀区」相关《考古》报道/简报脉络（K3–K8 新发掘阶段成果）. Kaogu / related official briefs su... (tier P)
+- `src-sanxingdui-lei-ran-fieldwork-overview-2022` — article; 冉宏林、雷雨等. 2022. 三星堆遗址祭祀区考古发掘阶段性工作进展及主要成果相关官方通报/综述. (Ran Honglin, Lei Yu, et al. Official 2022 progress overv... (tier S)
 - `src-sanxingdui-li-qiu-guo-li-2022` — article; Li, Yingfu; Qiu, Tian; Guo, Jianbo; Li, Yuniu. 2022. “New discoveries at the Sanxingdui Bronze Age site in ... (tier S)
 - `src-sanxingdui-lin-jinsha-craft-2019` — article; Lin, Kuei-chen. 2019. \"On Craft Production and the Settlement Pattern of the Jinsha Site Cluster on the Ch... (tier S)
 - `src-sanxingdui-ma-yueliangwan-1993` — article; Ma Jixian (马继贤). 1993. 广汉月亮湾遗址发掘追记 [Memoir on the excavation of the Yueliangwan site, Guanghan]. 南方民族考古 [So... (tier S)
+- `src-sanxingdui-mangcheng-brief` — excavation-report; 成都文物考古研究所等. 宝墩文化芒城遗址发掘简报/报告路径. (Chengdu Institute briefs/reports on Mangcheng walled settlement of Baodun c... (tier P)
+- `src-sanxingdui-pimadu-brief` — excavation-report; 成都文物考古研究所等. 郫县古城（披毛/郫都古城）宝墩文化城址发掘简报路径. (Chengdu Institute briefs on Pimadu / Pixian ancient city Baodun-cul... (tier P)
 - `src-sanxingdui-pit1-brief-1987` — excavation-report; Sichuan Provincial Cultural Relics and Archaeology units (四川省文物管理委员会、四川省文物考古研究所、广汉县文化局). 1987. 广汉三星堆遗址一号祭祀坑... (tier P)
 - `src-sanxingdui-pit2-brief-1989` — excavation-report; Sichuan Provincial Cultural Relics and Archaeology units. 1989. 广汉三星堆遗址二号祭祀坑发掘简报 [Excavation brief on Sacri... (tier P)
 - `src-sanxingdui-pit3-8-kaogu-briefs-2021` — excavation-report; Sichuan Provincial Cultural Relics and Archaeology Research Institute et al. 2021–. Official Kaogu/Wenwu br... (tier P)
@@ -263,9 +299,12 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Wenwu Pit 1/2 
 - `src-sanxingdui-shierqiao-chengdu-discoveries` — excavation-report; Chengdu Institute of Cultural Relics and Archaeology (成都市文物考古研究所). (series). Reports and briefs on the Shi’... (tier P)
 - `src-sanxingdui-shierqiao-sequence-deepen` — excavation-report; Chengdu excavation reports deepening Shi'erqiao (十二桥) wooden-architecture and chronological sequence on the... (tier P)
 - `src-sanxingdui-sichuan-jisikeng-1999` — excavation-report; Sichuan Provincial Institute of Cultural Relics and Archaeology (四川省文物考古研究所), ed. 1999. 三星堆祭祀坑 [Sanxingdui ... (tier P)
+- `src-sanxingdui-sichuan-museum-catalogue` — monograph; Sichuan Provincial Museum / Sanxingdui Museum exhibition catalogues documenting pits 1–2 bronzes, jades, an... (tier S)
 - `src-sanxingdui-sun-hua-cultures-2003` — article; Sun, Hua. 2003. “Defining the Archaeological Cultures at the Sanxingdui Site.” Journal of East Asian Archae... (tier S)
 - `src-sanxingdui-sun-hua-shudi-2010` — monograph; Sun Hua. Synthesis volumes/chapters on Shu archaeology and Sanxingdui–Jinsha cultural sequence (Chinese aca... (tier S)
+- `src-sanxingdui-sunhua-shudi-kaogu` — monograph; 孙华. 《四川盆地的青铜时代》及相关蜀地考古综论（补已登记孙华分期论文）. (Sun Hua. Bronze Age of the Sichuan Basin and related Shu archaeology... (tier S)
 - `src-sanxingdui-unesco-tentative-2013` — web; UNESCO World Heritage Centre. “Archaeological Sites of the Ancient Shu State: Site at Jinsha and Joint Tomb... (tier T)
+- `src-sanxingdui-unesco-tentative-2024-update` — web; UNESCO World Heritage Centre. Archaeological Sites of the Ancient Shu State (Sanxingdui / Jinsha cluster) —... (tier T)
 - `src-sanxingdui-unesco-tentative-shu-state` — web; UNESCO World Heritage Centre. Tentative List documentation for Archaeological Sites of the Ancient Shu Stat... (tier T)
 - `src-sanxingdui-unesco-tentative-update-pointer` — web; UNESCO World Heritage Centre. Archaeological Sites of the Ancient Shu State (Sanxingdui / Jinsha cluster) —... (tier T)
 - `src-sanxingdui-wenwu-pit1-1987` — article; Sichuan Provincial Cultural Relics Management Committee; Sichuan Provincial Museum; Guanghan County Cultura... (tier P)

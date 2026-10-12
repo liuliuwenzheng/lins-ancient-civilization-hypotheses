@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-beiyiao-1999",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "洛阳文物工作队 1999 报告洛阳北窑西周墓葬。",
+    "en": "Luoyang Cultural Relics Work Team 1999 reports Western Zhou tombs at Beiyiao."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-luoyang-beiyiao"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-beiyiao-western-zhou"
+  ],
+  "sources": [
+    "src-china-luoyang-beiyiao-1999"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

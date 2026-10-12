@@ -1,0 +1,30 @@
+{
+  "id": "site-shu-unesco-tentative-2024",
+  "entity": "site",
+  "names": {
+    "zh": "古蜀国考古遗址（预备清单更新）",
+    "en": "Ancient Shu sites (tentative-list update)",
+    "native": null
+  },
+  "kind_note": "heritage documentation frame",
+  "region": "Sichuan",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "UNESCO 预备清单更新文档单元；非已列入世界遗产定论。",
+    "en": "UNESCO Tentative List update documentation unit; not an inscribed WH conclusion."
+  },
+  "sources": [
+    "src-sanxingdui-unesco-tentative-2024-update"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

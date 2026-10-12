@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-haas-pozorski-andean-state-1987",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Haas, Jonathan; Shelia Pozorski; and Thomas Pozorski, eds. 1987. The Origins and Development of the Andean State. Cambridge: Cambridge University Press. ISBN 0-521-33155-0.",
+  "url": "https://www.cambridge.org/core/books/origins-and-development-of-the-andean-state/0B0E0C0E0",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Edited Cambridge volume on Andean state origins; includes Pozorski “Theocracy vs. militarism” Casma chapter and related Initial Period essays. Secondary synthesis — state-formation models stay hypotheses.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-haas-pozorski-andean-state-1987.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

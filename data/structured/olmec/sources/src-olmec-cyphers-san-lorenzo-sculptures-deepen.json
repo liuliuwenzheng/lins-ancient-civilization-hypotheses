@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-cyphers-san-lorenzo-sculptures-deepen",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Cyphers, Ann. Further San Lorenzo sculpture corpus and monument context publications beyond Escultura olmeca de San Lorenzo Tenochtitlán (2004) already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary/sculpture-corpus deepen path for San Lorenzo monuments. Complements Cyphers 2004.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-cyphers-san-lorenzo-sculptures-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

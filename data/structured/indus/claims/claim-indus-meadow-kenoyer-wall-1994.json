@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-meadow-kenoyer-wall-1994",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Meadow & Kenoyer 1994 报告哈拉帕 1993 季城墙区发掘。",
+    "en": "Meadow & Kenoyer 1994 report 1993 season excavations in the Harappa city-wall area."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa-city-wall-1993"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-harappa-city-wall-1993"
+  ],
+  "sources": [
+    "src-indus-meadow-kenoyer-harappa-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

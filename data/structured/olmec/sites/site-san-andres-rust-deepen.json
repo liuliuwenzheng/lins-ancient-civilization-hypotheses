@@ -1,0 +1,31 @@
+{
+  "id": "site-san-andres-rust-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "圣安德烈斯（Rust 加深）",
+    "en": "San Andrés (Rust deepen)",
+    "native": null
+  },
+  "kind_note": "La Venta hinterland settlement",
+  "region": "Tabasco, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Rust/Sharer 拉文塔腹地圣安德烈斯加深单元。",
+    "en": "Rust/Sharer La Venta hinterland San Andrés deepen unit."
+  },
+  "sources": [
+    "src-olmec-rust-sharer-san-andres",
+    "src-olmec-rust-sharer-la-venta-1988"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

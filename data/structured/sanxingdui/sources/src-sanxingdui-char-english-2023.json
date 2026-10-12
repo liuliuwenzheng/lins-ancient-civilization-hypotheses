@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-char-english-2023",
+  "entity": "source",
+  "type": "article",
+  "citation": "Ran Honglin et al. 2023. “The sacrificial area at the Sanxingdui site in Guanghan, Sichuan.” Chinese Archaeology / CHAR English presentation of the Kaogu 2022 sacrificial-area report.",
+  "url": "https://doi.org/10.1515/char-2023-0003",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "English presentation of the official sacrificial-area report for international readers. Secondary/translation path — Chinese Kaogu brief remains the P anchor.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-char-english-2023.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

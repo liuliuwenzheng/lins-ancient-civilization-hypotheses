@@ -1,0 +1,32 @@
+{
+  "id": "claim-andes-tello-matriz-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Tello 1960 将查文表述为安第斯文明「母体/matriz」——史学假说，不作前陶北奇科定论。",
+    "en": "Tello 1960 frames Chavín as Andean civilizational “matriz” — historiographic hypothesis, not a Preceramic Norte Chico conclusion."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-chavin-de-huantar"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tello-chavin-matriz-1960"
+  ],
+  "sources": [
+    "src-andes-tello-chavin-1960",
+    "src-andes-burger-chavin-1995"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

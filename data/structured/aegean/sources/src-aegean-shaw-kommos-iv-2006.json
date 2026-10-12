@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-shaw-kommos-iv-2006",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Shaw, Joseph W., and Maria C. Shaw, eds. 2006. Kommos: An Excavation on the South Coast of Crete, Volume IV: The Greek Sanctuary / related Kommos IV fascicles. Princeton: Princeton University Press. (Use published Kommos IV title as issued; register excavation-series deepen beyond vols. I–III already in archive.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Kommos series deepen beyond Volumes I–III already registered (pottery/architecture). Exact fascicle titles as published; no invented trench labels.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-shaw-kommos-iv-2006.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "asm-chavin-rick-3d-1998",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "查文 Rick–Kembel 三维建筑记录组合",
+    "en": "Chavín Rick–Kembel 3-D architecture documentation assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-chavin-de-huantar"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "1995–98 三维测绘与有限立面试掘（组合级）。",
+    "en": "1995–98 3-D mapping and limited facade tests (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-rick-kembel-chavin-architecture-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Rick et al. 1998",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

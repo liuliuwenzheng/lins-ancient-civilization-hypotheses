@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-bagasra-2003",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Sonawane 等 2003 初步报告巴加斯拉/戈拉多罗 1996–2003 发掘（城墙与手工业）。",
+    "en": "Sonawane et al. 2003 preliminary report covers 1996–2003 excavations at Bagasra/Gola Dhoro (fortification and crafts)."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-bagasra-gola-dhoro"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-gola-dhoro-craft-2003"
+  ],
+  "sources": [
+    "src-indus-sonawane-bagasra-2003"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

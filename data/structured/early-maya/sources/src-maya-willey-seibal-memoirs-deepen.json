@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-willey-seibal-memoirs-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Willey, Gordon R., et al. 1975–1990. Excavations at Seibal, Department of Petén, Guatemala. Peabody Museum Memoirs (multi-volume series: ceramics, artifacts, architecture/caches, monuments, burials/conclusions). Cambridge, Mass.: Peabody Museum of Archaeology and Ethnology, Harvard University.",
+  "url": "https://peabody.harvard.edu/publications/excavations-seibal-department-peten-guatemala-iii",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Peabody Seibal memoir series deepen beyond the single Seibal pointer already registered. Use published memoir titles; no invented lot numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-willey-seibal-memoirs-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

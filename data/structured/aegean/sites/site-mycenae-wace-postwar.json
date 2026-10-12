@@ -1,0 +1,31 @@
+{
+  "id": "site-mycenae-wace-postwar",
+  "entity": "site",
+  "names": {
+    "zh": "迈锡尼（Wace 战后季）",
+    "en": "Mycenae (Wace postwar seasons)",
+    "native": null
+  },
+  "kind_note": "postwar BSA excavation frame",
+  "region": "Argolid",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Wace 战后 BSA 迈锡尼季报路径单元。",
+    "en": "Wace postwar BSA Mycenae season-report path unit."
+  },
+  "sources": [
+    "src-aegean-wace-mycenae-1950",
+    "src-aegean-wace-mycenae-1949"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

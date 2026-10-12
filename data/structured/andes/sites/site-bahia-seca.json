@@ -1,0 +1,31 @@
+{
+  "id": "site-bahia-seca",
+  "entity": "site",
+  "names": {
+    "zh": "干湾（Bahía Seca）",
+    "en": "Bahía Seca",
+    "native": null
+  },
+  "kind_note": "Initial Period site with ventilated hearths",
+  "region": "Casma Valley coast",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Pozorski 1996 LAA 通风火塘比较点之一；不编造坐标。",
+    "en": "One of the ventilated-hearth comparanda in Pozorski 1996 LAA; no invented coordinates."
+  },
+  "sources": [
+    "src-andes-pozorski-ventilated-hearth-laa-1996",
+    "src-andes-pozorski-casma-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

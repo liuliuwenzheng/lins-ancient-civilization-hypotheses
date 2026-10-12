@@ -1,0 +1,30 @@
+{
+  "id": "site-indus-discovery-historiography",
+  "entity": "site",
+  "names": {
+    "zh": "印度河文明发现史学框架",
+    "en": "Indus discovery historiography frame",
+    "native": null
+  },
+  "kind_note": "research-history frame",
+  "region": "South Asia (historiography)",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Lahiri 发现史研究框架；非遗址坐标。",
+    "en": "Lahiri discovery-history frame; not a site coordinate."
+  },
+  "sources": [
+    "src-indus-lahiri-finding-forgotten-cities-2005"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

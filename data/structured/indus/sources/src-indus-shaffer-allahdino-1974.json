@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-shaffer-allahdino-1974",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Shaffer, Jim G. 1974. Allahdino and the Mature Harappan: A Preliminary Report on the Cultural Stratigraphy. Cleveland: Department of Anthropology, Case Western Reserve University.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary preliminary stratigraphy report linked to the Allahdino expedition. Complements Fairservis Allahdino publications.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-shaffer-allahdino-1974.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

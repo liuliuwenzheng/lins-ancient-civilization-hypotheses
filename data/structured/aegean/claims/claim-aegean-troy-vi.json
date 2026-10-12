@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-troy-vi",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blegen 等 Troy III 卷报告特洛伊第六居民点。",
+    "en": "Blegen et al. Troy III volume reports the Sixth Settlement at Troy."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-troy-vi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-troy-vi-blegen"
+  ],
+  "sources": [
+    "src-aegean-blegen-troy-iii-1953"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

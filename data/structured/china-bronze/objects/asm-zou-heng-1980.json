@@ -1,0 +1,37 @@
+{
+  "id": "asm-zou-heng-1980",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "邹衡夏商周论文集组合",
+    "en": "Zou Heng Xia-Shang-Zhou papers assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "邹衡论文集文献组合；夏商对应说入假说。",
+    "en": "Zou Heng collected-papers assemblage; Xia–Shang equations stay hypotheses."
+  },
+  "sources": [
+    "src-china-zou-heng-xia-shang-zhou-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Zou Heng 1980",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

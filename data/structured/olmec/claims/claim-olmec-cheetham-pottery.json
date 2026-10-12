@@ -1,0 +1,29 @@
+{
+  "id": "claim-olmec-cheetham-pottery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cheetham 同行评议研究讨论早期成形圣洛伦索风格陶器分布。",
+    "en": "Cheetham peer-reviewed studies discuss Early Formative San Lorenzo–style pottery distribution."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cheetham-sl-pottery"
+  ],
+  "sources": [
+    "src-olmec-cheetham-san-lorenzo-style-pottery"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

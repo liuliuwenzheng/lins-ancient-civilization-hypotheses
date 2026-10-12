@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-mangcheng",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "成都考古所路径简报宝墩文化芒城城址。",
+    "en": "Chengdu Institute briefs report the Baodun-culture walled site at Mangcheng."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-mangcheng"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mangcheng-baodun"
+  ],
+  "sources": [
+    "src-sanxingdui-mangcheng-brief"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

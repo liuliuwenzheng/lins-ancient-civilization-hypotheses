@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-lahiri-finding-forgotten-cities-2005",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Lahiri, Nayanjot. 2005. Finding Forgotten Cities: How the Indus Civilization Was Discovered. Delhi: Permanent Black / Seagull Books (later editions).",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary historiography of Indus Civilization discovery (Marshall, Banerji, Sahni, etc.). Research-history source; not a substitute for excavation reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-lahiri-finding-forgotten-cities-2005.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

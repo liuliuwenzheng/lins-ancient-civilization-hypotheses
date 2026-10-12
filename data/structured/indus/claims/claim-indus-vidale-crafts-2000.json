@@ -1,0 +1,29 @@
+{
+  "id": "claim-indus-vidale-crafts-2000",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Vidale 2000 综合讨论印度河手工业技术与工匠研究取径。",
+    "en": "Vidale 2000 synthesizes Indus craft technologies and craftspeople research approaches."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-indus-crafts-vidale"
+  ],
+  "sources": [
+    "src-indus-vidale-crafts-indus-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

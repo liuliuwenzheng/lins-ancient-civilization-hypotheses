@@ -1,0 +1,17 @@
+{
+  "id": "src-china-liang-gao-houjiazhuang-1001-1962",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "梁思永、高去寻. 1962. 《侯家庄第二本：1001号大墓》. 台北: 中央研究院历史语言研究所. (Liang Ssu-yung and Kao Ch’ü-hsün. Hou Chia Chuang Vol. II: HPKM 1001. Taipei: IHP, Academia Sinica.)",
+  "url": "https://www1.ihp.sinica.edu.tw/Publications/Book/455",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary report on Xibeigang royal tomb HPKM 1001 at Houjiazhuang (Anyang), edited/completed from Liang Siyong’s unfinished manuscript by Gao Quxun.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-liang-gao-houjiazhuang-1001-1962.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

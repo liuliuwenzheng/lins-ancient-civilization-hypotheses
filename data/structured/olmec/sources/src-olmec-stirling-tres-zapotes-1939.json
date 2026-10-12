@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-stirling-tres-zapotes-1939",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Stirling, Matthew W. 1939–1943. Smithsonian / National Geographic Tres Zapotes expedition reports and notices culminating in BAE publications on southern Mexican stone monuments (complements BAE 138/157 already registered). Register: Stirling Tres Zapotes field reporting path.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Stirling Tres Zapotes expedition reporting path. Complements Stirling BAE 138/157 and Drucker/Weiant Tres Zapotes ceramic volumes already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-stirling-tres-zapotes-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

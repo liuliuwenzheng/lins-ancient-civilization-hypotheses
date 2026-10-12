@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-shi-xiaotun-1959",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "石璋如等 1959《小屯…殷虚建筑遗存》报告小屯夯土建筑基址分组与相关遗迹。",
+    "en": "Shih et al. 1959 Xiaotun architectural remains report documents pounded-earth foundation groups and related features."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xiaotun-architecture-shi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-xiaotun-architecture-1959"
+  ],
+  "sources": [
+    "src-china-shi-xiaotun-architecture-1959"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

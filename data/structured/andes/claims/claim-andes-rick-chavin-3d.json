@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-rick-chavin-3d",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rick 等 1998 发表查文德万塔尔仪式建筑群三维记录与有限立面试掘。",
+    "en": "Rick et al. 1998 publish 3-D documentation and limited facade tests of the Chavín de Huántar ceremonial complex."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-chavin-de-huantar"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-chavin-rick-3d-1998"
+  ],
+  "sources": [
+    "src-andes-rick-kembel-chavin-architecture-1998"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

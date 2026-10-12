@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-allahdino-seals-1976",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Fairservis 1976 卷刊布阿拉赫迪诺印章及其他铭刻材料。",
+    "en": "Fairservis 1976 volume publishes seals and other inscribed material from Allahdino."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-allahdino"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-allahdino-seals-1976"
+  ],
+  "sources": [
+    "src-indus-fairservis-allahdino-seals-1976"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

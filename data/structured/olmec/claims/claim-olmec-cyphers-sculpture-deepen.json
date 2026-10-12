@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-cyphers-sculpture-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cyphers 后续出版物加深圣洛伦索奥尔梅克雕塑语料与出土语境。",
+    "en": "Cyphers’s later publications deepen the San Lorenzo Olmec sculpture corpus and find contexts."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo-cyphers-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-san-lorenzo-sculpture-deepen"
+  ],
+  "sources": [
+    "src-olmec-cyphers-san-lorenzo-sculptures-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

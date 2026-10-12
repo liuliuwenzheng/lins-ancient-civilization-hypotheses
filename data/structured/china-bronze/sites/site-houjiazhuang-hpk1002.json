@@ -1,0 +1,30 @@
+{
+  "id": "site-houjiazhuang-hpk1002",
+  "entity": "site",
+  "names": {
+    "zh": "侯家庄 1002 号大墓",
+    "en": "Houjiazhuang HPKM 1002",
+    "native": null
+  },
+  "kind_note": "Xibeigang royal tomb",
+  "region": "Anyang, Henan",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "梁思永/高去寻 1002 号大墓报告单元。",
+    "en": "Liang/Gao HPKM 1002 royal tomb report unit."
+  },
+  "sources": [
+    "src-china-liang-gao-houjiazhuang-1002-1965"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

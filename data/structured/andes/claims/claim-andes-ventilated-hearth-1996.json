@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-ventilated-hearth-1996",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pozorski & Pozorski 1996 LAA 记录卡斯马谷多址通风火塘结构。",
+    "en": "Pozorski & Pozorski 1996 LAA document ventilated hearth structures at multiple Casma Valley sites."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-bahia-seca"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-casma-ventilated-hearths-1996"
+  ],
+  "sources": [
+    "src-andes-pozorski-ventilated-hearth-laa-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

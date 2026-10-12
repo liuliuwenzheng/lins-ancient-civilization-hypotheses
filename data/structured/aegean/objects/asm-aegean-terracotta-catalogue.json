@@ -1,0 +1,37 @@
+{
+  "id": "asm-aegean-terracotta-catalogue",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "爱琴陶俑博物馆图录组合",
+    "en": "Aegean terracotta museum-catalogue assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "大英博物馆陶俑图录路径组合。",
+    "en": "British Museum terracotta catalogue path assemblage."
+  },
+  "sources": [
+    "src-aegean-higgins-greek-terracotta-1954"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Higgins BM terracottas",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

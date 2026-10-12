@@ -1,0 +1,31 @@
+{
+  "id": "site-san-bartolo-murals-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "圣巴托洛壁画加深",
+    "en": "San Bartolo murals deepen",
+    "native": null
+  },
+  "kind_note": "Preclassic mural/writing unit",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Saturno 等壁画与文字加深单元。",
+    "en": "Saturno et al. mural/writing deepen unit."
+  },
+  "sources": [
+    "src-maya-saturno-san-bartolo-murals-deepen",
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

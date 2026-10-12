@@ -1,0 +1,39 @@
+{
+  "id": "asm-caballo-muerto-nesbitt",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "死马 Nesbitt 发掘组合",
+    "en": "Caballo Muerto Nesbitt excavation assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballo-muerto"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Nesbitt 死马纪念性复合体发掘组合。",
+    "en": "Nesbitt Caballo Muerto monumental-complex excavation assemblage."
+  },
+  "sources": [
+    "src-andes-nesbitt-caballo-muerto-2012"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Nesbitt 2012",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "asm-mirador-conservation-2016",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "米拉多保护研究组合",
+    "en": "Mirador conservation research assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-mirador-conservation-frame",
+    "site-el-mirador"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "米拉多盆地研究与保护综论组合。",
+    "en": "Mirador Basin research-and-conservation synthesis assemblage."
+  },
+  "sources": [
+    "src-maya-hansen-mirador-conservation-2016"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hansen et al. 2016",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

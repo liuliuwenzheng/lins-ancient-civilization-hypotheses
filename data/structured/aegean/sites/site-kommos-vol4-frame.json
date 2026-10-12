@@ -1,0 +1,31 @@
+{
+  "id": "site-kommos-vol4-frame",
+  "entity": "site",
+  "names": {
+    "zh": "科莫斯（卷四加深）",
+    "en": "Kommos (vol. IV deepen)",
+    "native": null
+  },
+  "kind_note": "Kommos series deepen unit",
+  "region": "South coast of Crete",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Kommos 卷四系列加深单元。",
+    "en": "Kommos Volume IV series deepen unit."
+  },
+  "sources": [
+    "src-aegean-shaw-kommos-iv-2006",
+    "src-aegean-shaw-kommos-vol1-1995"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -4,12 +4,12 @@
 
 Read-only archive entities for `civ-aegean`.
 
-Counts (fourth density pass D-2026-10-12-4; `export_check` is authoritative):
-- sources: 58
-- sites: 34
+Counts (fifth density pass D-2026-10-12-6; `export_check` is authoritative):
+- sources: 68
+- sites: 40
 - periods: 7
-- objects: 36
-- claims: 49
+- objects: 46
+- claims: 60
 - media: 4
 
 Markdown editorial source: `data/civilizations/civ-aegean.md`.

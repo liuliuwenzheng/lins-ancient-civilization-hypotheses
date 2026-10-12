@@ -1,0 +1,29 @@
+{
+  "id": "claim-aegean-warren-stone-vases",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Warren 1969 系统研究米诺斯石瓶。",
+    "en": "Warren 1969 systematically studies Minoan stone vases."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-warren-stone-vases"
+  ],
+  "sources": [
+    "src-aegean-warren-minoan-stone-vases-1969"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

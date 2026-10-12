@@ -1,0 +1,39 @@
+{
+  "id": "asm-mangcheng-baodun",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "芒城宝墩文化组合",
+    "en": "Mangcheng Baodun-culture assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-mangcheng"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "芒城城墙/聚落简报组合。",
+    "en": "Mangcheng wall/settlement brief assemblage."
+  },
+  "sources": [
+    "src-sanxingdui-mangcheng-brief"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Chengdu Institute Mangcheng briefs",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

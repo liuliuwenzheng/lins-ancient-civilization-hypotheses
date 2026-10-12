@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-proulx-nepena",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Proulx 1985 报告内佩尼亚谷早期文化序列分析。",
+    "en": "Proulx 1985 reports an analysis of the early cultural sequence in the Nepeña Valley."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-nepena-valley-proulx"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-nepena-proulx-1985"
+  ],
+  "sources": [
+    "src-andes-proulx-nepena-1985"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

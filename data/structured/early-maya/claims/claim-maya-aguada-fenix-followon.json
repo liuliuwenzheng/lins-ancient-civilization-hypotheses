@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-aguada-fenix-followon",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Inomata 等发表阿瓜达菲尼克斯 Nature 2020 之后的后续同行评议研究。",
+    "en": "Inomata et al. publish follow-on peer-reviewed studies after the 2020 Nature Aguada Fénix report."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-aguada-fenix"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aguada-fenix-followon"
+  ],
+  "sources": [
+    "src-maya-inomata-aguada-fenix-followon"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

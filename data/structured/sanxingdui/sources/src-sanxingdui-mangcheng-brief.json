@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-mangcheng-brief",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "成都文物考古研究所等. 宝墩文化芒城遗址发掘简报/报告路径. (Chengdu Institute briefs/reports on Mangcheng walled settlement of Baodun culture.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Baodun-culture peer walled site (Mangcheng) reporting path. Complements Baodun/Yufu/Jiangzhang already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-mangcheng-brief.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

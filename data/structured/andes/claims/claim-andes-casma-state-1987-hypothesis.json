@@ -1,0 +1,30 @@
+{
+  "id": "claim-andes-casma-state-1987-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Haas–Pozorski 1987 文集中卡斯马「早期国家/神权」模型仍属论争，不作定论。",
+    "en": "Casma “early state / theocracy” models in the Haas–Pozorski 1987 volume remain debated and are not treated as settled fact."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andean-state-origins-1987"
+  ],
+  "sources": [
+    "src-andes-haas-pozorski-andean-state-1987",
+    "src-andes-pozorski-antiquity-casma-1992"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

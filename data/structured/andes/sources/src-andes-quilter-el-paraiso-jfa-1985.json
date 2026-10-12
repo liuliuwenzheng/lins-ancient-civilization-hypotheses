@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-quilter-el-paraiso-jfa-1985",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Quilter, Jeffrey. 1985. “Architecture and Chronology at El Paraíso, Peru.” Journal of Field Archaeology 12 (3): 279–297.",
+  "url": "https://doi.org/10.1179/009346985791169490",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary JFA re-excavation/architecture-chronology study at El Paraíso. Distinct from Quilter et al. 1991 Science subsistence article already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-quilter-el-paraiso-jfa-1985.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

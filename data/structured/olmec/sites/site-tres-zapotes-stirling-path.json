@@ -1,0 +1,31 @@
+{
+  "id": "site-tres-zapotes-stirling-path",
+  "entity": "site",
+  "names": {
+    "zh": "特雷斯萨波特斯（Stirling 路径）",
+    "en": "Tres Zapotes (Stirling path)",
+    "native": null
+  },
+  "kind_note": "Stirling expedition frame",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Stirling 特雷斯萨波特斯考察报告路径单元。",
+    "en": "Stirling Tres Zapotes expedition reporting-path unit."
+  },
+  "sources": [
+    "src-olmec-stirling-tres-zapotes-1939",
+    "src-olmec-drucker-bae-140-1943"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

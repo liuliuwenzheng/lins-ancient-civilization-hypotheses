@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-etlatongo-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blomster 等加深埃特拉通戈成形陶器与相关分析。",
+    "en": "Blomster et al. deepen Etlatongo Formative pottery and related analyses."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-etlatongo-pottery-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-etlatongo-pottery-deepen"
+  ],
+  "sources": [
+    "src-olmec-blomster-etlatongo-pottery-export"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

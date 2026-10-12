@@ -1,0 +1,32 @@
+{
+  "id": "claim-aegean-troy-war-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将特洛伊 VIIa 毁灭直接等同荷马战争仍属假说。",
+    "en": "Equating Troy VIIa destruction directly with a Homeric war remains a hypothesis."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-troy-viia"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-troy-viia-blegen"
+  ],
+  "sources": [
+    "src-aegean-blegen-troy-iv-1958",
+    "src-aegean-cline-oxford-handbook-2010"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

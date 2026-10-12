@@ -50,8 +50,18 @@ sources:
   - src-aegean-hood-minos-crete-1971-deepen
   - src-aegean-davis-and-bennet-pylos
   - src-aegean-mountjoy-regional-mycenaean-1999
+  - src-aegean-hood-bronze-age-palace-knossos-1981
+  - src-aegean-popham-unexplored-mansion-1984
+  - src-aegean-cadogan-knossos-palace-city-state
+  - src-aegean-blegen-troy-iii-1953
+  - src-aegean-blegen-troy-iv-1958
+  - src-aegean-wace-mycenae-1950
+  - src-aegean-shaw-kommos-iv-2006
+  - src-aegean-davis-bennet-pylos-docs
+  - src-aegean-warren-minoan-stone-vases-1969
+  - src-aegean-higgins-greek-terracotta-1954
 related_ids: ["civ-mesopotamia", "civ-ancient-egypt"]
-notes: "fourth density D-2026-10-12-4; second density D-2026-10-11-30; fact-library; density D-2026-10-11-27 archive deepen (sites + P sources). Linear A undeciphered = research-status fact. High/low chronology, thalassocracy, Homeric equations = hypotheses. Evans restorations require modern cross-check. No invented page numbers/coords/forged images."
+notes: "fifth density D-2026-10-12-6; fourth density D-2026-10-12-4; second density D-2026-10-11-30; fact-library; density D-2026-10-11-27 archive deepen (sites + P sources). Linear A undeciphered = research-status fact. High/low chronology, thalassocracy, Homeric equations = hypotheses. Evans restorations require modern cross-check. No invented page numbers/coords/forged images."
 ---
 
 # 爱琴 / Aegean
@@ -141,6 +151,19 @@ The table aligns **conventional Aegean Bronze Age period names** with registered
 - **Tiryns Schliemann/Dörpfeld** — 1885; **Grave Circle B** — Mylonas 1972–73; **Chamber tombs** — Wace 1932; **Pseira** — Seager 1910; **Circle A narrative** — Schliemann 1878; Mountjoy 1999; PRAP pointer.
 
 
+### Density pass 5 (D-2026-10-12-6)
+
+- **克诺索斯宫殿测绘图 / 未勘探邸宅** — Hood 1981；Popham 1984 [`src-aegean-hood-bronze-age-palace-knossos-1981`][`src-aegean-popham-unexplored-mansion-1984`]。
+- **特洛伊 VI / VIIa** — Blegen Troy III–IV [`src-aegean-blegen-troy-iii-1953`][`src-aegean-blegen-troy-iv-1958`]。
+- **迈锡尼战后季 / 科莫斯卷四** — Wace；Shaw & Shaw [`src-aegean-wace-mycenae-1950`][`src-aegean-shaw-kommos-iv-2006`]。
+- **Cadogan Studies / PRAP 加深 / Warren 石瓶 / Higgins 陶俑** — [`src-aegean-cadogan-knossos-palace-city-state`][`src-aegean-davis-bennet-pylos-docs`][`src-aegean-warren-minoan-stone-vases-1969`][`src-aegean-higgins-greek-terracotta-1954`]。
+
+- **Knossos plans / Unexplored Mansion** — Hood 1981; Popham 1984 [`src-aegean-hood-bronze-age-palace-knossos-1981`][`src-aegean-popham-unexplored-mansion-1984`].
+- **Troy VI / VIIa** — Blegen Troy III–IV [`src-aegean-blegen-troy-iii-1953`][`src-aegean-blegen-troy-iv-1958`].
+- **Mycenae postwar / Kommos IV** — Wace; Shaw & Shaw [`src-aegean-wace-mycenae-1950`][`src-aegean-shaw-kommos-iv-2006`].
+- **Cadogan Studies / PRAP deepen / Warren stone vases / Higgins terracottas** — [`src-aegean-cadogan-knossos-palace-city-state`][`src-aegean-davis-bennet-pylos-docs`][`src-aegean-warren-minoan-stone-vases-1969`][`src-aegean-higgins-greek-terracotta-1954`].
+
+
 ## Urbanism, architecture & institutions
 
 克里特「宫室」建筑复合体（多庭院、储藏、仪式与行政空间）是米诺斯考古的核心讨论对象；Evans 的克诺索斯重建与「米诺斯王宫」叙事影响深远，但现代综合强调须区分发掘记录、修复与解释 [`src-aegean-evans-palace-of-minos-1921`][`src-aegean-dickinson-1994`][`src-aegean-shelmerdine-companion-2008`]。大陆迈锡尼宫殿中心（迈锡尼、皮洛斯等）以中央大厅（megaron）、 equ 防御工事与行政档案为特征；Chadwick 据 Linear B 讨论王权（wanax）、土地、配给与宗教职司等制度议题 [`src-aegean-wace-mycenae-1949`][`src-aegean-blegen-rawson-pylos-1966`][`src-aegean-chadwick-1976`][`src-aegean-ventris-chadwick-1956`]。阿克罗蒂里展示非「单一王宫」的密集城镇规划与壁画装饰房屋 [`src-aegean-doumas-thera-1983`]。Renfrew 从聚落层级与社会系统讨论第三千纪复杂化，而非把「文明」简化为宫殿出现 [`src-aegean-renfrew-1972`]。**「米诺斯海上霸权 / thalassocracy」** 作为解释模型有历史影响但受争议——见 Notes，不作定论 [`src-aegean-evans-palace-of-minos-1921`][`src-aegean-dickinson-1994`]。
@@ -212,6 +235,10 @@ Third density pass (2026-10-12 / D-2026-10-12-2) also registers Caskey/Wiencke/B
 
 Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Schliemann Tiryns 1885 / Mycenae 1878; Mylonas Circle B; Wace chamber tombs 1932; Seager Pseira 1910; INSTAP Pseira series pointer; Mountjoy 1999; Hood/PRAP secondary pointers. Homer-as-literal-history, single-year Thera sole cause, and A/B one dynasty stay hypotheses.
 
+第五轮密度加深（2026-10-12 / D-2026-10-12-6）另登记：Hood 克诺索斯测绘图；Popham 未勘探邸宅；Blegen Troy III–IV；Wace 战后迈锡尼；Kommos IV；Cadogan Studies 12；PRAP 加深；Warren 石瓶；Higgins 陶俑。特洛伊＝荷马战争留假说栏。
+
+Fifth density pass (2026-10-12 / D-2026-10-12-6) also registers: Hood Knossos plans; Popham Unexplored Mansion; Blegen Troy III–IV; Wace postwar Mycenae; Kommos IV; Cadogan Studies 12; PRAP deepen; Warren stone vases; Higgins terracottas. Troy=Homeric war stays a hypothesis.
+
 ## Sources
 
 - `src-aegean-atkinson-phylakopi-1904` — excavation-report; Atkinson, T. D., et al. 1904. Excavations at Phylakopi in Melos. Society for the Promotion of Hellenic Stud... (tier P)
@@ -221,7 +248,10 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Schliemann Tir
 - `src-aegean-blegen-pylos-vol3-1973` — excavation-report; Blegen, Carl W., et al. 1973. The Palace of Nestor at Pylos in Western Messenia, Volume III: Acropolis and ... (tier P)
 - `src-aegean-blegen-rawson-pylos-1966` — excavation-report; Blegen, Carl William, and Marion Rawson, eds. 1966. The Palace of Nestor at Pylos in Western Messenia. Volu... (tier P)
 - `src-aegean-blegen-troy-i-1950` — excavation-report; Blegen, Carl W., John L. Caskey, and Marion Rawson. 1950. Troy: Excavations Conducted by the University of ... (tier P)
+- `src-aegean-blegen-troy-iii-1953` — excavation-report; Blegen, Carl W.; John L. Caskey; and Marion Rawson. 1953. Troy: Excavations Conducted by the University of ... (tier P)
+- `src-aegean-blegen-troy-iv-1958` — excavation-report; Blegen, Carl W., et al. 1958. Troy: Excavations Conducted by the University of Cincinnati, 1932–1938. Volum... (tier P)
 - `src-aegean-broodbank-cyclades-2000` — monograph; Broodbank, Cyprian. 2000. An Island Archaeology of the Early Cyclades. Cambridge: Cambridge University Pres... (tier S)
+- `src-aegean-cadogan-knossos-palace-city-state` — monograph; Cadogan, Gerald; Eleni Hatzaki; and Adonis Vasilakis, eds. 2004. Knossos: Palace, City, State. BSA Studies ... (tier S)
 - `src-aegean-cadogan-palaces-1976` — monograph; Cadogan, Gerald. 1976. Palaces of Minoan Crete. London: Barrie & Jenkins. ISBN 9780214200793 (ISBN-10 02142... (tier S)
 - `src-aegean-caskey-lerna-hesperia-1954` — excavation-report; Caskey, John L. 1954. \"Excavations at Lerna, 1952–1953.\" Hesperia 23 (1): 3–30. https://www.jstor.org/sta... (tier P)
 - `src-aegean-caskey-lerna-hesperia-1955` — excavation-report; Caskey, John L. 1955. \"Excavations at Lerna, 1954.\" Hesperia 24 (1): 25–49. https://www.jstor.org/stable/... (tier P)
@@ -229,6 +259,7 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Schliemann Tir
 - `src-aegean-cline-oxford-handbook-2010` — monograph; Cline, Eric H., ed. 2010. The Oxford Handbook of the Bronze Age Aegean (ca. 3000–1000 BC). Oxford; New York... (tier S)
 - `src-aegean-cummer-schofield-ayia-irini-1984` — excavation-report; Cummer, W. Willson, and Elizabeth Schofield. 1984. Keos III: Ayia Irini: House A. Mainz: Philipp von Zabern... (tier P)
 - `src-aegean-davis-and-bennet-pylos` — monograph; Davis, Jack L., and John Bennet, eds. publications of the Pylos Regional Archaeological Project / Palace of... (tier S)
+- `src-aegean-davis-bennet-pylos-docs` — monograph; Davis, Jack L., and John Bennet. Publications of the Pylos Regional Archaeological Project and related Pala... (tier S)
 - `src-aegean-davis-pylos-regional-1998` — article; Davis, Jack L., ed. 1998. Sandy Pylos: An Archaeological History from Nestor to Navarino. Austin: Universit... (tier S)
 - `src-aegean-dickinson-1994` — monograph; Dickinson, Oliver. 1994. The Aegean Bronze Age. Cambridge World Archaeology. Cambridge: Cambridge Universit... (tier S)
 - `src-aegean-doumas-thera-1983` — monograph; Doumas, Christos G. 1983. Thera: Pompeii of the Ancient Aegean — Excavations at Akrotiri, 1967–79. New Aspe... (tier S)
@@ -237,7 +268,9 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Schliemann Tir
 - `src-aegean-french-mycenae-2002` — monograph; French, Elizabeth B. 2002. Mycenae: Agamemnon\u2019s Capital \u2014 The Site and Its Setting. Stroud: Tempu... (tier S)
 - `src-aegean-furumark-mycenaean-pottery-1941` — monograph; Furumark, Arne. 1941. The Mycenaean Pottery: Analysis and Classification / The Chronology of Mycenaean Pott... (tier S)
 - `src-aegean-hawes-gournia-1908` — excavation-report; Hawes, Harriet Boyd; Williams, Blanche A.; Seager, Richard B.; Hall, Edith H. 1908. Gournia, Vasiliki and O... (tier P)
+- `src-aegean-higgins-greek-terracotta-1954` — monograph; Higgins, R. A. 1954 / later eds. Catalogue of the Terracottas in the Department of Greek and Roman Antiquit... (tier S)
 - `src-aegean-hood-archaeology-crete-1971` — monograph; Hood, Sinclair. 1971. The Minoans: Crete in the Bronze Age. London: Thames and Hudson (Ancient Peoples and ... (tier S)
+- `src-aegean-hood-bronze-age-palace-knossos-1981` — excavation-report; Hood, Sinclair, and William Taylor. 1981. The Bronze Age Palace at Knossos: Plan and Sections. BSA Suppleme... (tier P)
 - `src-aegean-hood-minos-crete-1971-deepen` — monograph; Hood, Sinclair. 1971. The Minoans: Crete in the Bronze Age. London: Thames & Hudson. (Complements already-r... (tier S)
 - `src-aegean-hope-simpson-mycenaean-greece-1981` — monograph; Hope Simpson, R. 1981. Mycenaean Greece. Park Ridge, NJ: Noyes Press. ISBN 9780815550396. (tier S)
 - `src-aegean-iakovidis-gla-ii-1998` — excavation-report; Iakovidis, Spyridon. 1998. \u0393\u03bb\u03b1\u03c2 II: \u0397 \u03b1\u03bd\u03b1\u03c3\u03ba\u03b1\u03c6\u... (tier P)
@@ -257,18 +290,22 @@ Fourth density pass (2026-10-12 / D-2026-10-12-4) also registers: Schliemann Tir
 - `src-aegean-platon-zakros-1971` — excavation-report; Platon, Nikolaos. 1971. Zakros: The Discovery of a Lost Palace of Ancient Crete. New York: Charles Scribner... (tier P)
 - `src-aegean-popham-lefkandi-i-1980` — excavation-report; Popham, M. R., L. H. Sackett, and P. G. Themelis, eds. 1979–1980. Lefkandi I: The Iron Age. The Settlement ... (tier P)
 - `src-aegean-popham-lefkandi-ii-1993` — excavation-report; Popham, M. R., P. G. Calligas, and L. H. Sackett, eds. 1993. Lefkandi II: The Protogeometric Building at To... (tier P)
+- `src-aegean-popham-unexplored-mansion-1984` — excavation-report; Popham, Mervyn R., et al. 1984. The Minoan Unexplored Mansion at Knossos. BSA Supplementary Volume 17. Lond... (tier P)
 - `src-aegean-renfrew-1972` — monograph; Renfrew, Colin. 1972. The Emergence of Civilisation: The Cyclades and the Aegean in the Third Millennium B.... (tier S)
 - `src-aegean-salgarella-linear-a-2022` — encyclopedia; Salgarella, Ester. 2022. Linear A. In Oxford Classical Dictionary (Oxford Research Encyclopedia of Classics... (tier T)
 - `src-aegean-schliemann-mycenae-1878` — excavation-report; Schliemann, Heinrich. 1878. Mycenae: A Narrative of Researches and Discoveries at Mycenae and Tiryns. New Y... (tier P)
 - `src-aegean-schliemann-tiryns-1885` — excavation-report; Schliemann, Heinrich, with contributions by Wilhelm Dörpfeld and a preface by F. Adler. 1885. Tiryns: The P... (tier P)
 - `src-aegean-seager-pseira-1910` — excavation-report; Seager, Richard B. 1910. Excavations on the Island of Pseira, Crete. Anthropological Publications Vol. III,... (tier P)
+- `src-aegean-shaw-kommos-iv-2006` — excavation-report; Shaw, Joseph W., and Maria C. Shaw, eds. 2006. Kommos: An Excavation on the South Coast of Crete, Volume IV... (tier P)
 - `src-aegean-shaw-kommos-vol1-1995` — excavation-report; Shaw, Joseph W., and Maria C. Shaw, eds. 1995. Kommos: An Excavation on the South Coast of Crete, Volume I,... (tier P)
 - `src-aegean-shelmerdine-companion-2008` — monograph; Shelmerdine, Cynthia W., ed. 2008. The Cambridge Companion to the Aegean Bronze Age. Cambridge; New York: C... (tier S)
 - `src-aegean-taylour-mycenaeans-1983` — monograph; Taylour, Lord William. 1983. The Mycenaeans. Revised ed. Ancient Peoples and Places. London: Thames and Hud... (tier S)
 - `src-aegean-ventris-chadwick-1956` — monograph; Ventris, Michael, and John Chadwick. 1956. Documents in Mycenaean Greek: Three Hundred Selected Tablets fro... (tier S)
 - `src-aegean-wace-chamber-tombs-1932` — excavation-report; Wace, A. J. B. 1932. Chamber Tombs at Mycenae. Archaeologia 82. Oxford: Printed for the Society of Antiquar... (tier P)
 - `src-aegean-wace-mycenae-1949` — monograph; Wace, Alan J. B. 1949. Mycenae: An Archaeological History and Guide. Princeton, NJ: Princeton University Pr... (tier P)
+- `src-aegean-wace-mycenae-1950` — excavation-report; Wace, Alan J. B., et al. 1950s BSA Mycenae excavation preliminary reports in Annual of the British School a... (tier P)
 - `src-aegean-warren-hankey-1989` — monograph; Warren, Peter M., and Vronwy Hankey. 1989. Aegean Bronze Age Chronology. Bedminster, Bristol: Bristol Class... (tier S)
+- `src-aegean-warren-minoan-stone-vases-1969` — monograph; Warren, Peter. 1969. Minoan Stone Vases. Cambridge Classical Studies. Cambridge: Cambridge University Press. (tier S)
 - `src-aegean-watrous-kommos-iii-1992` — excavation-report; Watrous, L. Vance. 1992. Kommos: An Excavation on the South Coast of Crete, Volume III: The Late Bronze Age... (tier P)
 - `src-aegean-wiencke-lerna-iv-2000` — excavation-report; Wiencke, Martha H. 2000. Lerna: A Preclassical Site in the Argolid. Volume IV: The Architecture, Stratifica... (tier P)
 - `src-aegean-wiener-chronology-debate` — article; Wiener, Malcolm H. (various). Peer-reviewed essays on Aegean absolute chronology and the Theran eruption de... (tier S)

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-wace-mycenae-1950",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Wace, Alan J. B., et al. 1950s BSA Mycenae excavation preliminary reports in Annual of the British School at Athens (post-1949 Mycenae guide already registered). (Register: Wace and colleagues’ postwar Mycenae season reports path.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary BSA postwar Mycenae excavation reporting path complementary to Wace 1949 guide and 1932 chamber tombs already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-wace-mycenae-1950.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

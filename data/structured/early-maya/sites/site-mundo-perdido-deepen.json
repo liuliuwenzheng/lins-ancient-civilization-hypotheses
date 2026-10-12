@@ -1,0 +1,31 @@
+{
+  "id": "site-mundo-perdido-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "失落世界（加深）",
+    "en": "Mundo Perdido (deepen)",
+    "native": null
+  },
+  "kind_note": "Tikal Preclassic architectural group",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Laporte/Fialko 失落世界前古典建筑加深单元。",
+    "en": "Laporte/Fialko Mundo Perdido Preclassic architecture deepen unit."
+  },
+  "sources": [
+    "src-maya-laporte-mundo-perdido-deepen",
+    "src-maya-laporte-fialko-mundo-perdido-1995"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

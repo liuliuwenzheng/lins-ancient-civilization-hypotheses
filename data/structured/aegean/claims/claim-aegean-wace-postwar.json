@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-wace-postwar",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Wace 等战后 BSA 季报继续刊布迈锡尼发掘。",
+    "en": "Wace and colleagues’ postwar BSA season reports continue Mycenae excavation publication."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-mycenae-wace-postwar"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mycenae-wace-postwar"
+  ],
+  "sources": [
+    "src-aegean-wace-mycenae-1950"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

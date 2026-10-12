@@ -1,0 +1,40 @@
+{
+  "id": "asm-la-venta-complex-a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉文塔 A 组组合",
+    "en": "La Venta Complex A assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-la-venta-complex-a",
+    "site-la-venta"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "INAH 拉文塔 A 组建筑/仪式核心组合。",
+    "en": "INAH La Venta Complex A civic-ceremonial assemblage."
+  },
+  "sources": [
+    "src-olmec-gonzalez-lauck-complex-a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "González Lauck INAH path",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

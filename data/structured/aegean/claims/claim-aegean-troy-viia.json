@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-troy-viia",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blegen 等 Troy IV 卷报告特洛伊 VIIa/VIIb/VIII 居民点。",
+    "en": "Blegen et al. Troy IV volume reports Troy VIIa, VIIb, and VIII settlements."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-troy-viia"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-troy-viia-blegen"
+  ],
+  "sources": [
+    "src-aegean-blegen-troy-iv-1958"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

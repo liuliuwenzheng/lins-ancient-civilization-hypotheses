@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-powis-pacbitun-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Powis, Terry G., et al. Additional Pacbitun, Belize, Preclassic ceremonial architecture publications beyond Powis et al. 2019 Latin American Antiquity already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Pacbitun deepen path. Complements Powis 2019.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-powis-pacbitun-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

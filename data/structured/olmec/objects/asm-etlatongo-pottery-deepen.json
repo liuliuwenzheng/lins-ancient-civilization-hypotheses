@@ -1,0 +1,40 @@
+{
+  "id": "asm-etlatongo-pottery-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃特拉通戈陶器加深组合",
+    "en": "Etlatongo pottery deepen assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-etlatongo-pottery-deepen",
+    "site-etlatongo"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Mixteca Alta 成形陶器加深组合。",
+    "en": "Mixteca Alta Formative pottery deepen assemblage."
+  },
+  "sources": [
+    "src-olmec-blomster-etlatongo-pottery-export"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Blomster Etlatongo deepen",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

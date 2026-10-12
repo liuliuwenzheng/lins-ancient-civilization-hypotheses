@@ -1,0 +1,17 @@
+{
+  "id": "src-china-chang-archaeology-ancient-china-1986",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Chang, Kwang-chih. 1986. The Archaeology of Ancient China. 4th ed. New Haven: Yale University Press. ISBN 0-300-03784-8.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Classic English-language synthesis of Chinese archaeology through early historic periods. Distinct from Chang Shang Civilization 1980 already registered; use as secondary handbook, not as a substitute for Chinese excavation reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-chang-archaeology-ancient-china-1986.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

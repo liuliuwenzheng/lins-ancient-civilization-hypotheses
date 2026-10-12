@@ -1,0 +1,40 @@
+{
+  "id": "asm-tres-zapotes-stirling",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特雷斯萨波特斯 Stirling 组合",
+    "en": "Tres Zapotes Stirling assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-tres-zapotes-stirling-path",
+    "site-tres-zapotes"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Stirling 考察报告组合。",
+    "en": "Stirling expedition reporting assemblage."
+  },
+  "sources": [
+    "src-olmec-stirling-tres-zapotes-1939"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Stirling Tres Zapotes path",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

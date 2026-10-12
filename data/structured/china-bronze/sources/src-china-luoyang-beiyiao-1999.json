@@ -1,0 +1,17 @@
+{
+  "id": "src-china-luoyang-beiyiao-1999",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "洛阳市文物工作队. 1999. 《洛阳北窑西周墓》. 北京: 文物出版社. (Luoyang Cultural Relics Work Team. Western Zhou Tombs at Beiyiao, Luoyang.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary report on Western Zhou cemetery at Beiyiao (Luoyang). Expands Western Zhou mortuary archive beyond Fengxi/Zhangjiapo and Tianma-Qucun already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-luoyang-beiyiao-1999.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

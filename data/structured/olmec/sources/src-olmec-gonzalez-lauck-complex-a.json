@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-gonzalez-lauck-complex-a",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "González Lauck, Rebecca B. INAH La Venta project reports and syntheses on Complex A / Architecture Group A and related La Venta civic-ceremonial core (deepen beyond pointer already noted in archive notes).",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary INAH La Venta project reporting path for Complex A. Distinct structured id from earlier pointer-style entries if those lacked full source JSON — CHECK duplicates by id only.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-gonzalez-lauck-complex-a.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

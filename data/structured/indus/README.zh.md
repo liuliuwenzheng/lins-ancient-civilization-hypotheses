@@ -4,12 +4,12 @@
 
 `civ-indus-valley` 的只读档案实体。
 
-计数（D-2026-10-12-4 第四轮密度加深；以 `export_check` 为准）：
-- 来源: 58
-- 遗址: 32
+计数（D-2026-10-12-6 第五轮密度加深；以 `export_check` 为准）：
+- 来源: 68
+- 遗址: 38
 - 分期: 5
-- 器物组合: 36
-- 主张: 50
+- 器物组合: 46
+- 主张: 61
 - 媒体: 5
 
 Markdown 编辑真源：`data/civilizations/civ-indus-valley.md`。

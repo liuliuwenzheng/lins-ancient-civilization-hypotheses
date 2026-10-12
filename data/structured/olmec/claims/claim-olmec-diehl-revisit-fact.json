@@ -1,0 +1,29 @@
+{
+  "id": "claim-olmec-diehl-revisit-fact",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Diehl 后续文章再访圣洛伦索与奥尔梅克腹地考古议题。",
+    "en": "Diehl’s later essays revisit San Lorenzo and Olmec heartland archaeological issues."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-diehl-sl-revisit"
+  ],
+  "sources": [
+    "src-olmec-diehl-san-lorenzo-revisit"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

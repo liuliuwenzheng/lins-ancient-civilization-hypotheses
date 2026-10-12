@@ -1,0 +1,30 @@
+{
+  "id": "site-jinsha-gold-catalogue-frame",
+  "entity": "site",
+  "names": {
+    "zh": "金沙金器图录框架",
+    "en": "Jinsha gold catalogue frame",
+    "native": null
+  },
+  "kind_note": "museum catalogue frame",
+  "region": "Chengdu, Sichuan",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "金沙金器/太阳神鸟图录路径单元；不上传伪造图。",
+    "en": "Jinsha gold / sun-bird catalogue path unit; no forged images."
+  },
+  "sources": [
+    "src-jinsha-museum-gold-sunbird"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-sacrifice-area-2022",
+  "entity": "site",
+  "names": {
+    "zh": "三星堆祭祀区（2020–22）",
+    "en": "Sanxingdui sacrificial area (2020–22)",
+    "native": null
+  },
+  "kind_note": "pits K3–K8 excavation frame",
+  "region": "Guanghan, Sichuan",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "《考古》2022 祭祀区报道单元；补 2021 指针。",
+    "en": "Kaogu 2022 sacrificial-area report unit; complements 2021 pointers."
+  },
+  "sources": [
+    "src-sanxingdui-kaogu-sacrifice-area-2022",
+    "src-sanxingdui-char-english-2023"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

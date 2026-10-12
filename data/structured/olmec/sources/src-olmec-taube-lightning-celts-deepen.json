@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-taube-lightning-celts-deepen",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Taube, Karl A. Additional Olmec iconography studies (lightning/celts and related motifs) beyond Olmec Art at Dumbarton Oaks 2004 already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary iconography deepen. Complements Taube 2004 DOAKS volume; mythic readings stay interpretive.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-taube-lightning-celts-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

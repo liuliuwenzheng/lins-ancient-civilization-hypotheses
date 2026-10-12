@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-rust-sharer-san-andres",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Rust, William F.; Robert J. Sharer; and collaborators. San Andrés and La Venta hinterland settlement studies deepening Rust & Sharer 1988 Science already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary hinterland settlement deepen around La Venta / San Andrés. Complements Rust & Sharer 1988.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-rust-sharer-san-andres.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

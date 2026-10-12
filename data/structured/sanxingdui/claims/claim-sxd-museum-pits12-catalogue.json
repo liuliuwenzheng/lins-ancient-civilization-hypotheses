@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-museum-pits12-catalogue",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "三星堆/四川省博图录路径展示一/二号坑青铜、玉、金箔等组合。",
+    "en": "Sanxingdui/Sichuan Museum catalogue paths present pits 1–2 bronze, jade, and gold-foil assemblages."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-museum-pits12-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sxd-museum-pits12"
+  ],
+  "sources": [
+    "src-sanxingdui-sichuan-museum-catalogue"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

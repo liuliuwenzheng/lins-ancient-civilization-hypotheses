@@ -1,0 +1,37 @@
+{
+  "id": "asm-sunhua-sichuan-bronze",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "孙华四川盆地青铜时代组合",
+    "en": "Sun Hua Sichuan Basin Bronze Age assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "孙华蜀地综论文献组合。",
+    "en": "Sun Hua Shu archaeology synthesis literature assemblage."
+  },
+  "sources": [
+    "src-sanxingdui-sunhua-shudi-kaogu"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Sun Hua syntheses",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

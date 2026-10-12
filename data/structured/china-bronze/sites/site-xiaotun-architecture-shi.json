@@ -1,0 +1,30 @@
+{
+  "id": "site-xiaotun-architecture-shi",
+  "entity": "site",
+  "names": {
+    "zh": "小屯建筑遗存（石璋如）",
+    "en": "Xiaotun architectural remains (Shih)",
+    "native": null
+  },
+  "kind_note": "palace/temple pounded-earth foundations",
+  "region": "Anyang, Henan",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "石璋如 1959 小屯建筑遗存报告单元（甲乙丙组基址）。",
+    "en": "Shih 1959 Xiaotun architectural remains report unit (Groups A–C foundations)."
+  },
+  "sources": [
+    "src-china-shi-xiaotun-architecture-1959"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

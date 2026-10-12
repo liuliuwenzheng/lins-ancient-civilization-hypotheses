@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-blegen-troy-iii-1953",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Blegen, Carl W.; John L. Caskey; and Marion Rawson. 1953. Troy: Excavations Conducted by the University of Cincinnati, 1932–1938. Volume III: The Sixth Settlement. Princeton: Princeton University Press for the University of Cincinnati.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Cincinnati Troy publication for Troy VI. Complements Troy I (1950) already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-blegen-troy-iii-1953.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

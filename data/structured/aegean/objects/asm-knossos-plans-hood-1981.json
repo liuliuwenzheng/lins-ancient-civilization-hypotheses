@@ -1,0 +1,40 @@
+{
+  "id": "asm-knossos-plans-hood-1981",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "克诺索斯宫殿测绘图组合",
+    "en": "Knossos palace plans assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos-palace-plans-hood",
+    "site-knossos"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "BSA 补编宫殿平面/剖面组合。",
+    "en": "BSA Suppl. palace plans/sections assemblage."
+  },
+  "sources": [
+    "src-aegean-hood-bronze-age-palace-knossos-1981"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Hood & Taylor 1981",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

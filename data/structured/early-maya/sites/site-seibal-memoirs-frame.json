@@ -1,0 +1,31 @@
+{
+  "id": "site-seibal-memoirs-frame",
+  "entity": "site",
+  "names": {
+    "zh": "塞伊巴尔（Peabody 多卷）",
+    "en": "Seibal (Peabody memoirs frame)",
+    "native": null
+  },
+  "kind_note": "Peabody memoir series frame",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Willey 等 Seibal Peabody 多卷报告框架单元。",
+    "en": "Willey et al. Seibal Peabody multi-volume memoir frame unit."
+  },
+  "sources": [
+    "src-maya-willey-seibal-memoirs-deepen",
+    "src-maya-willey-seibal-1975"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

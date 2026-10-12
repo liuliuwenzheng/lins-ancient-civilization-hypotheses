@@ -1,0 +1,31 @@
+{
+  "id": "site-pacbitun-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "帕克比通（加深）",
+    "en": "Pacbitun (deepen)",
+    "native": null
+  },
+  "kind_note": "Preclassic ceremonial architecture",
+  "region": "Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Powis 帕克比通前古典仪式建筑加深单元。",
+    "en": "Powis Pacbitun Preclassic ceremonial architecture deepen unit."
+  },
+  "sources": [
+    "src-maya-powis-pacbitun-deepen",
+    "src-maya-powis-pacbitun-2019"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

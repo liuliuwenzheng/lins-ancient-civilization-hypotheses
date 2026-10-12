@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-warren-minoan-stone-vases-1969",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Warren, Peter. 1969. Minoan Stone Vases. Cambridge Classical Studies. Cambridge: Cambridge University Press.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary catalogue/study of Minoan stone vases. Complements Warren & Hankey chronology already registered; object-level museum numbers only when cited in reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-warren-minoan-stone-vases-1969.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-grove-reliefs",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Grove 加深报道查尔卡钦戈浮雕与纪念碑。",
+    "en": "Grove deepens reporting on Chalcatzingo reliefs and monuments."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-chalcatzingo-reliefs"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-chalcatzingo-reliefs"
+  ],
+  "sources": [
+    "src-olmec-grove-chalcatzingo-reliefs"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

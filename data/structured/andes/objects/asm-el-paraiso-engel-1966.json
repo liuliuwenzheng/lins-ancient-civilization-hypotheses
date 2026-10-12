@@ -1,0 +1,40 @@
+{
+  "id": "asm-el-paraiso-engel-1966",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃尔帕拉伊索 Engel 1966 组合",
+    "en": "El Paraíso Engel 1966 assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-el-paraiso-engel-unit",
+    "site-el-paraiso"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Engel 1966 前陶建筑/修复记录（组合级）。",
+    "en": "Engel 1966 Preceramic architecture/restoration record (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-engel-el-paraiso-1966"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Engel 1966",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

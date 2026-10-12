@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-lahiri-discovery-2005",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lahiri 2005 叙述印度河文明现代考古学发现史。",
+    "en": "Lahiri 2005 narrates the modern archaeological discovery history of the Indus Civilization."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-indus-discovery-historiography"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-indus-discovery-lahiri"
+  ],
+  "sources": [
+    "src-indus-lahiri-finding-forgotten-cities-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

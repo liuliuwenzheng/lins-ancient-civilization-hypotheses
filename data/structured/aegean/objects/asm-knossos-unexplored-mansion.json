@@ -1,0 +1,39 @@
+{
+  "id": "asm-knossos-unexplored-mansion",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "未勘探邸宅发掘组合",
+    "en": "Unexplored Mansion excavation assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos-unexplored-mansion"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Popham 等未勘探邸宅发掘组合。",
+    "en": "Popham et al. Unexplored Mansion excavation assemblage."
+  },
+  "sources": [
+    "src-aegean-popham-unexplored-mansion-1984"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Popham et al. 1984",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

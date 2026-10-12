@@ -1,0 +1,31 @@
+{
+  "id": "site-pampa-llamas-jfa-1986",
+  "entity": "site",
+  "names": {
+    "zh": "拉马平原—莫塞克（JFA 1986 加深）",
+    "en": "Pampa de las Llamas–Moxeke (JFA 1986 deepen)",
+    "native": null
+  },
+  "kind_note": "Initial Period planned center deepen unit",
+  "region": "Casma Valley",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Pozorski 1986 JFA 发掘季节加深单元；与已有卡斯马遗址条目互补。",
+    "en": "Pozorski 1986 JFA excavation-season deepen unit; complements existing Casma site records."
+  },
+  "sources": [
+    "src-andes-pozorski-pampa-llamas-jfa-1986",
+    "src-andes-pozorski-casma-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -4,12 +4,12 @@
 
 Read-only archive entities for `civ-indus-valley`.
 
-Counts (fourth density pass D-2026-10-12-4; `export_check` is authoritative):
-- sources: 58
-- sites: 32
+Counts (fifth density pass D-2026-10-12-6; `export_check` is authoritative):
+- sources: 68
+- sites: 38
 - periods: 5
-- objects: 36
-- claims: 50
+- objects: 46
+- claims: 61
 - media: 5
 
 Markdown editorial source: `data/civilizations/civ-indus-valley.md`.

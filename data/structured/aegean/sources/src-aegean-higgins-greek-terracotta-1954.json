@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-higgins-greek-terracotta-1954",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Higgins, R. A. 1954 / later eds. Catalogue of the Terracottas in the Department of Greek and Roman Antiquities, British Museum — Mycenaean and related Aegean sections as applicable. London: British Museum. (Use as museum-catalogue path for Aegean terracottas; no forged images.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary museum-catalogue path for Aegean/Mycenaean terracottas. Metadata only.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-higgins-greek-terracotta-1954.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

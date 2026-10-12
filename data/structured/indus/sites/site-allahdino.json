@@ -1,0 +1,32 @@
+{
+  "id": "site-allahdino",
+  "entity": "site",
+  "names": {
+    "zh": "阿拉赫迪诺",
+    "en": "Allahdino",
+    "native": null
+  },
+  "kind_note": "small Mature Harappan settlement",
+  "region": "Sindh / near Karachi, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Fairservis/Shaffer 发掘的小型成熟哈拉帕聚落；排水与灌溉特征见已刊报告。",
+    "en": "Small Mature Harappan settlement excavated by Fairservis/Shaffer; drains/irrigation as published."
+  },
+  "sources": [
+    "src-indus-fairservis-allahdino-1979",
+    "src-indus-fairservis-allahdino-seals-1976",
+    "src-indus-shaffer-allahdino-1974"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

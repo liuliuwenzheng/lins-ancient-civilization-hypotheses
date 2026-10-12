@@ -1,0 +1,31 @@
+{
+  "id": "site-etlatongo-pottery-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "埃特拉通戈陶器加深",
+    "en": "Etlatongo pottery deepen",
+    "native": null
+  },
+  "kind_note": "Mixteca Alta Formative",
+  "region": "Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Blomster 埃特拉通戈陶器/INAA 加深单元。",
+    "en": "Blomster Etlatongo pottery/INAA deepen unit."
+  },
+  "sources": [
+    "src-olmec-blomster-etlatongo-pottery-export",
+    "src-olmec-blomster-neff-glascock-2005"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

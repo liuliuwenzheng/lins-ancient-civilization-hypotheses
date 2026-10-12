@@ -1,0 +1,29 @@
+{
+  "id": "claim-aegean-higgins-terracottas",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Higgins 大英博物馆陶俑图录提供爱琴相关陶俑编目路径。",
+    "en": "Higgins British Museum terracotta catalogues supply an Aegean-related terracotta cataloguing path."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aegean-terracotta-catalogue"
+  ],
+  "sources": [
+    "src-aegean-higgins-greek-terracotta-1954"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

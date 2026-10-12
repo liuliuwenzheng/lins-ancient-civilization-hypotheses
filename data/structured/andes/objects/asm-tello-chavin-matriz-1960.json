@@ -1,0 +1,39 @@
+{
+  "id": "asm-tello-chavin-matriz-1960",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Tello 查文「母体文化」史学组合",
+    "en": "Tello Chavín “matriz” historiography assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-chavin-de-huantar"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Tello 1960 史学叙述组合；母体文化说入假说。",
+    "en": "Tello 1960 historiographic assemblage; matriz thesis stays hypothesis."
+  },
+  "sources": [
+    "src-andes-tello-chavin-1960"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Tello 1960",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-sonawane-bagasra-2003",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sonawane, V. H.; P. Ajithprasad; K. K. Bhan; K. Krishnan; S. Pratapachandran; A. Majumdar; A. K. Patel; and J. Menon. 2003. “Excavations at Bagasra 1996–2003: A Preliminary Report.” Man and Environment 28 (2): 21–50.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary preliminary report on MSU Baroda excavations at Bagasra / Gola Dhoro (Kutch, Gujarat): fortification, craft production (shell, bead, faience, copper).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-sonawane-bagasra-2003.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

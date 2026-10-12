@@ -1,0 +1,37 @@
+{
+  "id": "asm-warren-stone-vases",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "米诺斯石瓶组合",
+    "en": "Minoan stone vases assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "Warren 1969 石瓶研究组合。",
+    "en": "Warren 1969 stone-vase study assemblage."
+  },
+  "sources": [
+    "src-aegean-warren-minoan-stone-vases-1969"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Warren 1969",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

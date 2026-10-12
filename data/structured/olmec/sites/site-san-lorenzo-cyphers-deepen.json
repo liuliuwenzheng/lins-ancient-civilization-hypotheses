@@ -1,0 +1,31 @@
+{
+  "id": "site-san-lorenzo-cyphers-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "圣洛伦索雕塑语料加深",
+    "en": "San Lorenzo sculpture corpus deepen",
+    "native": null
+  },
+  "kind_note": "sculpture corpus unit",
+  "region": "Veracruz, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Cyphers 雕塑语料加深单元。",
+    "en": "Cyphers sculpture-corpus deepen unit."
+  },
+  "sources": [
+    "src-olmec-cyphers-san-lorenzo-sculptures-deepen",
+    "src-olmec-cyphers-escultura-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

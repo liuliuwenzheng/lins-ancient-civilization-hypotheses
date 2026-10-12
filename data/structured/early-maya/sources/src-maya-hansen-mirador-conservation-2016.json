@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-hansen-mirador-conservation-2016",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Hansen, Richard D., et al., eds. 2016. Mirador: Research and Conservation in the Ancient Kaan Kingdom / related Mirador Basin research-and-conservation volumes.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary/edited Mirador Basin research-and-conservation synthesis. Complements Hansen Nakbe 1998 / LiDAR 2022 / NWAF reports already registered; polity labels stay interpretive.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-hansen-mirador-conservation-2016.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

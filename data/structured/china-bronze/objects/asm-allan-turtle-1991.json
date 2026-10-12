@@ -1,0 +1,37 @@
+{
+  "id": "asm-allan-turtle-1991",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "艾兰龟形宇宙论组合",
+    "en": "Allan Shape of the Turtle assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "神话—艺术—宇宙论文献组合；解释性模型入假说。",
+    "en": "Myth–art–cosmos literature assemblage; interpretive models stay hypotheses."
+  },
+  "sources": [
+    "src-china-allan-shape-turtle-1991"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Allan 1991",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

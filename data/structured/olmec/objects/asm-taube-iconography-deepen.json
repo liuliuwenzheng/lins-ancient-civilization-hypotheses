@@ -1,0 +1,37 @@
+{
+  "id": "asm-taube-iconography-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Taube 图像学加深组合",
+    "en": "Taube iconography deepen assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "奥尔梅克图像学加深组合；神话解读入假说。",
+    "en": "Olmec iconography deepen assemblage; mythic readings stay hypotheses."
+  },
+  "sources": [
+    "src-olmec-taube-lightning-celts-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Taube iconography deepen",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

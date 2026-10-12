@@ -1,0 +1,40 @@
+{
+  "id": "asm-uaxactun-group-e-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦哈克通 E 组加深组合",
+    "en": "Uaxactún Group E deepen assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-uaxactun"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Carnegie E 组文档加深组合。",
+    "en": "Carnegie Group E documentation deepen assemblage."
+  },
+  "sources": [
+    "src-maya-ricketson-uaxactun-group-e-deepen",
+    "src-maya-ricketson-uaxactun"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Ricketson Group E deepen",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "asm-cadogan-knossos-studies",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Cadogan 克诺索斯研究文集组合",
+    "en": "Cadogan Knossos Studies assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "BSA Studies 12 文集组合。",
+    "en": "BSA Studies 12 volume assemblage."
+  },
+  "sources": [
+    "src-aegean-cadogan-knossos-palace-city-state"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cadogan et al. 2004",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

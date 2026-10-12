@@ -1,0 +1,39 @@
+{
+  "id": "asm-jinsha-gold-sunbird",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "金沙金器/太阳神鸟图录组合",
+    "en": "Jinsha gold / sun-bird catalogue assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-gold-catalogue-frame"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "金器图录组合；无伪造图。",
+    "en": "Gold catalogue assemblage; no forged images."
+  },
+  "sources": [
+    "src-jinsha-museum-gold-sunbird"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Jinsha Site Museum catalogues",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-fairservis-allahdino-1979",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Fairservis, Walter A., Jr. 1979. “Preliminary Report on Excavations at Allahdino (First Season–1973).” Pakistan Archaeology 9: 95–102.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary preliminary report on first-season excavations at Allahdino, a small Mature Harappan settlement near Karachi (drains/irrigation features noted in later summaries). Distinct from Fairservis 1961/1971 already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-fairservis-allahdino-1979.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-kaogu-2022-sacrifice",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《考古》2022 路径报道三星堆祭祀区 K3–K8 阶段性发掘成果。",
+    "en": "Kaogu 2022-path reporting covers seasonal results from Sanxingdui sacrificial-area pits K3–K8."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-sacrifice-area-2022"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sxd-sacrifice-area-2022"
+  ],
+  "sources": [
+    "src-sanxingdui-kaogu-sacrifice-area-2022"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

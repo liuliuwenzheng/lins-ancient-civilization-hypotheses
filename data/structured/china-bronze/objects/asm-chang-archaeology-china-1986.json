@@ -1,0 +1,37 @@
+{
+  "id": "asm-chang-archaeology-china-1986",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "张光直中国考古综论组合",
+    "en": "Chang Archaeology of Ancient China assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "英文综论文献组合。",
+    "en": "English handbook synthesis literature assemblage."
+  },
+  "sources": [
+    "src-china-chang-archaeology-ancient-china-1986"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Chang 1986",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "asm-sxd-museum-pits12",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "一/二号坑博物馆图录组合",
+    "en": "Pits 1–2 museum catalogue assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-museum-pits12-frame"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "博物馆图录组合；无托管伪造图。",
+    "en": "Museum catalogue assemblage; no hosted forged images."
+  },
+  "sources": [
+    "src-sanxingdui-sichuan-museum-catalogue"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Sanxingdui/Sichuan Museum catalogues",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

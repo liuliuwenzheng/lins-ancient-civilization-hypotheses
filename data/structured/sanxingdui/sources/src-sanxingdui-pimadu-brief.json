@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-pimadu-brief",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "成都文物考古研究所等. 郫县古城（披毛/郫都古城）宝墩文化城址发掘简报路径. (Chengdu Institute briefs on Pimadu / Pixian ancient city Baodun-culture walled site.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Baodun-culture peer walled site reporting path at Pimadu/Pixian ancient city.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-pimadu-brief.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

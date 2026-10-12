@@ -1,0 +1,40 @@
+{
+  "id": "asm-kalibangan-thapar-overview",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡里班甘 Thapar 概述组合",
+    "en": "Kalibangan Thapar overview assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kalibangan-thapar-frame",
+    "site-kalibangan"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Thapar Expedition 概述组合；细部以 Memoirs 为准。",
+    "en": "Thapar Expedition overview assemblage; detail prefers Memoirs."
+  },
+  "sources": [
+    "src-indus-thapar-kalibangan-1975"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Thapar 1975",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

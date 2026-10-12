@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-thapar-kalibangan-1975",
+  "entity": "source",
+  "type": "article",
+  "citation": "Thapar, B. K. 1975. “Kalibangan: A Harappan Metropolis Beyond the Indus Valley.” Expedition 17 (2): 19–32. (And related ASI Kalibangan field summaries preceding Lal et al. final reports.)",
+  "url": "https://www.penn.museum/sites/expedition/kalibangan-a-harappan-metropolis-beyond-the-indus-valley/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary/field-summary presentation of Kalibangan beyond the Indus proper. Complements Lal et al. Early/Mature Kalibangan Memoirs already registered; final architectural claims prefer those Memoirs.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-thapar-kalibangan-1975.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

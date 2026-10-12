@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-ricketson-uaxactun-group-e-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Ricketson, Oliver G., Jr., and Edith B. Ricketson. Additional Carnegie Institution Uaxactún Group E documentation path beyond the 1937 Carnegie publication already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Carnegie Uaxactún Group E deepen path. Complements Ricketson 1937 and Smith 1950.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-ricketson-uaxactun-group-e-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-davis-bennet-pylos-docs",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Davis, Jack L., and John Bennet. Publications of the Pylos Regional Archaeological Project and related Palace of Nestor documentation deepen path (beyond Sandy Pylos 1998 already registered).",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary/project synthesis path for PRAP and Palace of Nestor documentation. Complements Davis 1998 Sandy Pylos.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-davis-bennet-pylos-docs.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

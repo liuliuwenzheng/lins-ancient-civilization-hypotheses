@@ -1,0 +1,40 @@
+{
+  "id": "asm-xiaotun-architecture-1959",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "小屯建筑遗存组合",
+    "en": "Xiaotun architectural remains assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xiaotun-architecture-shi",
+    "site-yinxu-xiaotun"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "夯土基址、水沟、窖穴与础石等建筑组合。",
+    "en": "Pounded-earth foundations, drains, pits, and pillar bases assemblage."
+  },
+  "sources": [
+    "src-china-shi-xiaotun-architecture-1959"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Shih et al. 1959",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

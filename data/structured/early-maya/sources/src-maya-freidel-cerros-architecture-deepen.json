@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-freidel-cerros-architecture-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Freidel, David A., and collaborators. Additional Cerros (Cerro Maya), Belize, Late Preclassic architecture and cache publications beyond Freidel Cerros pointers already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Cerros deepen path for Late Preclassic architecture/caches. Complements existing Cerros source pointer.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-freidel-cerros-architecture-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

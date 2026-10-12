@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-thapar-kalibangan-1975",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Thapar 1975 Expedition 文概述卡里班甘作为印度河流域以外的哈拉帕大址。",
+    "en": "Thapar 1975 Expedition article overviews Kalibangan as a Harappan metropolis beyond the Indus Valley proper."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-kalibangan-thapar-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-kalibangan-thapar-overview"
+  ],
+  "sources": [
+    "src-indus-thapar-kalibangan-1975"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

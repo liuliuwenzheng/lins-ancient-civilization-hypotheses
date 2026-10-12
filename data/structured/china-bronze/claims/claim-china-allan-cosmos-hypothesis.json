@@ -1,0 +1,29 @@
+{
+  "id": "claim-china-allan-cosmos-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Allan 1991 对早商宇宙论/神话的艺术史重建属解释性假说。",
+    "en": "Allan 1991 art-historical reconstructions of early Chinese cosmos/myth are interpretive hypotheses."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-allan-turtle-1991"
+  ],
+  "sources": [
+    "src-china-allan-shape-turtle-1991"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

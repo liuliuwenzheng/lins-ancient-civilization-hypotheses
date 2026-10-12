@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-nesbitt-caballo",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Nesbitt 研究莫切谷死马初始期纪念性复合体发掘材料。",
+    "en": "Nesbitt studies Initial Period monumental-complex excavation materials at Caballo Muerto, Moche Valley."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-caballo-muerto"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-caballo-muerto-nesbitt"
+  ],
+  "sources": [
+    "src-andes-nesbitt-caballo-muerto-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

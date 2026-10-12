@@ -1,0 +1,40 @@
+{
+  "id": "asm-hpk1001-1962",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "侯家庄 1001 大墓组合",
+    "en": "Houjiazhuang HPKM 1001 assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-houjiazhuang-hpk1001",
+    "site-yinxu-xibeigang"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "1001 号大墓报告组合。",
+    "en": "HPKM 1001 royal tomb report assemblage."
+  },
+  "sources": [
+    "src-china-liang-gao-houjiazhuang-1001-1962"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Liang & Gao 1962",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

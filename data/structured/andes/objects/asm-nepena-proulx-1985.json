@@ -1,0 +1,39 @@
+{
+  "id": "asm-nepena-proulx-1985",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "内佩尼亚谷 Proulx 序列组合",
+    "en": "Nepeña Valley Proulx sequence assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-nepena-valley-proulx"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Proulx 1985 早期文化序列材料组合。",
+    "en": "Proulx 1985 early cultural sequence material assemblage."
+  },
+  "sources": [
+    "src-andes-proulx-nepena-1985"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Proulx 1985",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

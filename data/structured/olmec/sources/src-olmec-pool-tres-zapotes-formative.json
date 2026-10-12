@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-pool-tres-zapotes-formative",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Pool, Christopher A. Additional Tres Zapotes Formative excavation and analysis publications deepening Settlement Archaeology and Political Economy at Tres Zapotes (2003) already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary deepen path for Tres Zapotes Formative beyond Pool 2003 Cotsen volume already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-pool-tres-zapotes-formative.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

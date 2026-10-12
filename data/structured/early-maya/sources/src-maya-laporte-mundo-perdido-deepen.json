@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-laporte-mundo-perdido-deepen",
+  "entity": "source",
+  "type": "article",
+  "citation": "Laporte, Juan Pedro, and Vilma Fialko. Additional Mundo Perdido, Tikal Preclassic architectural sequence publications beyond Laporte & Fialko 1995 Ancient Mesoamerica already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary deepen path for Mundo Perdido Preclassic architecture at Tikal. Complements Laporte & Fialko 1995.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-laporte-mundo-perdido-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

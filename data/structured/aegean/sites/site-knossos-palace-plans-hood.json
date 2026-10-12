@@ -1,0 +1,31 @@
+{
+  "id": "site-knossos-palace-plans-hood",
+  "entity": "site",
+  "names": {
+    "zh": "克诺索斯宫殿测绘图（Hood）",
+    "en": "Knossos palace plans (Hood)",
+    "native": null
+  },
+  "kind_note": "palace plans/sections unit",
+  "region": "Crete",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Hood & Taylor 1981 BSA 补编宫殿平面/剖面单元。",
+    "en": "Hood & Taylor 1981 BSA Suppl. palace plans/sections unit."
+  },
+  "sources": [
+    "src-aegean-hood-bronze-age-palace-knossos-1981",
+    "src-aegean-evans-palace-of-minos-1921"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

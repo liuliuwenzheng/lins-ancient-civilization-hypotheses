@@ -1,0 +1,29 @@
+{
+  "id": "claim-maya-uaxactun-group-e-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Ricketson 路径加深瓦哈克通 E 组卡内基文档。",
+    "en": "Ricketson-path publications deepen Carnegie documentation of Uaxactún Group E."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-uaxactun-group-e-deepen"
+  ],
+  "sources": [
+    "src-maya-ricketson-uaxactun-group-e-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

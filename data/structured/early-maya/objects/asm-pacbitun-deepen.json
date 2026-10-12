@@ -1,0 +1,40 @@
+{
+  "id": "asm-pacbitun-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "帕克比通加深组合",
+    "en": "Pacbitun deepen assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-pacbitun-deepen",
+    "site-pacbitun"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "前古典仪式建筑加深组合。",
+    "en": "Preclassic ceremonial architecture deepen assemblage."
+  },
+  "sources": [
+    "src-maya-powis-pacbitun-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Powis Pacbitun deepen",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "asm-el-paraiso-quilter-1985",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃尔帕拉伊索 Quilter 1985 建筑年代组合",
+    "en": "El Paraíso Quilter 1985 architecture–chronology assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-el-paraiso-engel-unit"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Quilter 1985 再发掘建筑—年代组合。",
+    "en": "Quilter 1985 re-excavation architecture–chronology assemblage."
+  },
+  "sources": [
+    "src-andes-quilter-el-paraiso-jfa-1985"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Quilter 1985",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

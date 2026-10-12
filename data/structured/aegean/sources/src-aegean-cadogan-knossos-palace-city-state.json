@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-cadogan-knossos-palace-city-state",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Cadogan, Gerald; Eleni Hatzaki; and Adonis Vasilakis, eds. 2004. Knossos: Palace, City, State. BSA Studies 12. London: British School at Athens.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Edited BSA Studies volume on Knossos as palace, city, and state. Secondary symposium synthesis; not a substitute for excavation memoirs.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-cadogan-knossos-palace-city-state.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

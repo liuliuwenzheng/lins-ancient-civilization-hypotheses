@@ -1,0 +1,31 @@
+{
+  "id": "site-mohenjo-daro-water-docs",
+  "entity": "site",
+  "names": {
+    "zh": "摩亨佐达罗水利文献单元",
+    "en": "Mohenjo-daro water-documentation unit",
+    "native": null
+  },
+  "kind_note": "urban water documentation frame",
+  "region": "Sindh, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Jansen 水利/水井文献综合单元；补 Aachen 中期报告。",
+    "en": "Jansen wells/drains documentation frame; complements Aachen interim reports."
+  },
+  "sources": [
+    "src-indus-jansen-mohenjo-daro-1993",
+    "src-indus-jansen-mohenjo-daro-interim-1984"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

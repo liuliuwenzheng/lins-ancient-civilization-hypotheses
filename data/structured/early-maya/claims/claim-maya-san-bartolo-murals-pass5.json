@@ -1,0 +1,34 @@
+{
+  "id": "claim-maya-san-bartolo-murals-pass5",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Saturno 等后续出版物加深圣巴托洛壁画与前古典文字材料（第五轮加深路径）。",
+    "en": "Saturno et al. later publications deepen San Bartolo mural and Preclassic writing materials (pass-5 deepen path)."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-san-bartolo-murals-deepen",
+    "site-san-bartolo-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-san-bartolo-murals-pass5"
+  ],
+  "sources": [
+    "src-maya-saturno-san-bartolo-murals-deepen",
+    "src-maya-saturno-san-bartolo-deepen",
+    "src-maya-saturno-stuart-beltran-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

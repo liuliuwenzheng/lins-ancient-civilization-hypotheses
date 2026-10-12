@@ -1,0 +1,37 @@
+{
+  "id": "asm-andean-state-origins-1987",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "安第斯国家起源 1987 文集组合",
+    "en": "Andean state origins 1987 volume assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "summary": {
+    "zh": "剑桥文集文献组合（非出土单元）。",
+    "en": "Cambridge edited-volume literature assemblage (not a find unit)."
+  },
+  "sources": [
+    "src-andes-haas-pozorski-andean-state-1987"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Haas, Pozorski & Pozorski 1987",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

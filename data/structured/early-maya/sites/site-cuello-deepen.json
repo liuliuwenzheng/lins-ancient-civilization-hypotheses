@@ -1,0 +1,31 @@
+{
+  "id": "site-cuello-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "奎略（加深）",
+    "en": "Cuello (deepen)",
+    "native": null
+  },
+  "kind_note": "Early Maya community deepen",
+  "region": "Belize",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Hammond 奎略社区/陶器加深单元。",
+    "en": "Hammond Cuello community/ceramic deepen unit."
+  },
+  "sources": [
+    "src-maya-hammond-cuello-ceramics-deepen",
+    "src-maya-hammond-cuello-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

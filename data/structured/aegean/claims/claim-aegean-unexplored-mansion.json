@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-unexplored-mansion",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Popham 等 BSA 报告刊布克诺索斯未勘探邸宅发掘。",
+    "en": "Popham et al. BSA report publishes excavations of the Unexplored Mansion at Knossos."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-knossos-unexplored-mansion"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-knossos-unexplored-mansion"
+  ],
+  "sources": [
+    "src-aegean-popham-unexplored-mansion-1984"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

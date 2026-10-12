@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-stirling-tz-path",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Stirling 特雷斯萨波特斯考察报告路径刊布南墨西哥石碑与相关田野工作。",
+    "en": "Stirling’s Tres Zapotes expedition reporting path publishes southern Mexican stone monuments and related fieldwork."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-tres-zapotes-stirling-path"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tres-zapotes-stirling"
+  ],
+  "sources": [
+    "src-olmec-stirling-tres-zapotes-1939"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

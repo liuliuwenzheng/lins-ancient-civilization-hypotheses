@@ -1,0 +1,32 @@
+{
+  "id": "site-el-paraiso-engel-unit",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔帕拉伊索（Engel 单元）",
+    "en": "El Paraíso (Engel report unit)",
+    "native": null
+  },
+  "kind_note": "Preceramic monumental complex unit",
+  "region": "Chillón Valley / central coast Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Engel 1966 与 Quilter 1985 建筑—年代再发掘单元；补 Science 1991 生计文。",
+    "en": "Engel 1966 and Quilter 1985 architecture–chronology unit; complements Science 1991 subsistence article."
+  },
+  "sources": [
+    "src-andes-engel-el-paraiso-1966",
+    "src-andes-quilter-el-paraiso-jfa-1985",
+    "src-andes-quilter-el-paraiso-1991"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

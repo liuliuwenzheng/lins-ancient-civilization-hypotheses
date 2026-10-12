@@ -1,0 +1,40 @@
+{
+  "id": "asm-allahdino-settlement-1979",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿拉赫迪诺聚落组合",
+    "en": "Allahdino settlement assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-allahdino"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Fairservis/Shaffer 报告的小型成熟哈拉帕聚落组合。",
+    "en": "Small Mature Harappan settlement assemblage as reported by Fairservis/Shaffer."
+  },
+  "sources": [
+    "src-indus-fairservis-allahdino-1979",
+    "src-indus-shaffer-allahdino-1974"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Fairservis 1979; Shaffer 1974",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

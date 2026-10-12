@@ -1,0 +1,29 @@
+{
+  "id": "claim-maya-holmul-cival-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Estrada-Belli 后续报告加深霍尔穆尔—西瓦尔地区前古典发掘。",
+    "en": "Estrada-Belli later reports deepen Holmul–Cival region Preclassic excavations."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-holmul-cival-deepen"
+  ],
+  "sources": [
+    "src-maya-estrada-belli-holmul-cival-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

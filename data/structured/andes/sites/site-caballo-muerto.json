@@ -1,0 +1,30 @@
+{
+  "id": "site-caballo-muerto",
+  "entity": "site",
+  "names": {
+    "zh": "死马（Caballo Muerto）",
+    "en": "Caballo Muerto",
+    "native": null
+  },
+  "kind_note": "Initial Period monumental complex",
+  "region": "Moche Valley",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Nesbitt 研究的莫切谷初始期纪念性复合体；比较项。",
+    "en": "Initial Period monumental complex in the Moche Valley studied by Nesbitt; comparative."
+  },
+  "sources": [
+    "src-andes-nesbitt-caballo-muerto-2012"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

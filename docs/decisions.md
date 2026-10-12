@@ -515,3 +515,34 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Jerwan “first aqueduct before Rome,” Hassuna “earliest village,” and Amarna “unique planned capital without precursors” stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
 
+### D-2026-10-12-6 — Fifth archive density pass for remaining seven packs
+
+**Decision:** After Mesopotamia + Egypt pass 5 (D-2026-10-12-5), apply the **same fifth** verified density pass to the other seven packs: verified P/S only; expand sites/assemblages/claims; contested → hypothesis; sync each `civ-*.md` Key sites + Sources + Research history; full-repo `export_check` must pass. Integrity over speed. Completes density pass 5 across all nine packs. Parent will run deliberation next.
+
+**Major new P (and needed S):**
+
+**Andes:** Pozorski Pampa de las Llamas–Moxeke JFA 1986; Pozorski ventilated hearths LAA 1996; Engel El Paraíso 1966; Quilter El Paraíso JFA 1985; Burger Excavaciones Chavín 1998; Rick–Kembel Chavín architecture 1998; Haas–Pozorski Andean State 1987; Tello Chavín 1960; Proulx Nepeña 1985; Nesbitt Caballo Muerto 2012
+
+**Indus:** Fairservis Allahdino 1979/1976; Shaffer Allahdino 1974; Sonawane Bagasra 2003; Bhan Gola Dhoro Antiquity 2005; Meadow & Kenoyer Harappa city wall 1994; Jansen Mohenjo-daro water 1993; Lahiri Finding Forgotten Cities 2005; Vidale Indus crafts 2000; Thapar Kalibangan Expedition 1975
+
+**China Bronze:** Shih Xiaotun architecture 1959; Liang & Gao Houjiazhuang HPKM 1001/1002; YH127 publication path; Luoyang Beiyiao 1999; Chang Archaeology of Ancient China 1986; Allan Shape of the Turtle 1991; CASS Zhou volume 2004; Zou Heng 1980; Xibeigang CASS continuation
+
+**Sanxingdui:** Kaogu 2022 sacrificial area / CHAR 2023; Mangcheng & Pimadu Baodun briefs; museum catalogue paths; Sun Hua Shu syntheses; Flad & Chen Yangzi; UNESCO Tentative List update; 2022 progress overview
+
+**Aegean:** Hood & Taylor Knossos plans 1981; Popham Unexplored Mansion 1984; Blegen Troy III–IV; Wace postwar Mycenae; Shaw Kommos IV; Cadogan BSA Studies 12; Davis–Bennet PRAP deepen; Warren stone vases 1969; Higgins terracottas
+
+**Olmec:** Stirling Tres Zapotes path; González Lauck Complex A; Cyphers sculpture deepen; Pool Formative deepen; Grove Chalcatzingo reliefs; Rust/Sharer San Andrés; Blomster Etlatongo deepen; Cheetham pottery; Diehl revisit; Taube iconography deepen
+
+**Early Maya:** Willey Seibal Peabody memoirs; Hansen Mirador conservation 2016; Freidel Cerros deepen; Laporte Mundo Perdido deepen; Hammond Cuello deepen; Saturno San Bartolo deepen; Inomata Aguada Fénix follow-on; Powis Pacbitun deepen; Ricketson Group E deepen; Estrada-Belli Holmul–Cival deepen
+
+**Structured results (`export_check`):**
+- **andes:** sources 58→68; sites 35→41; objects 38→48; claims 54→65
+- **indus:** sources 58→68; sites 32→38; objects 36→46; claims 50→61
+- **china-bronze:** sources 58→68; sites 33→39; objects 37→47; claims 51→62
+- **sanxingdui:** sources 58→68; sites 30→36; objects 36→46; claims 48→59
+- **aegean:** sources 58→68; sites 34→40; objects 36→46; claims 49→60
+- **olmec:** sources 58→68; sites 31→37; objects 37→47; claims 44→55
+- **early-maya:** sources 58→68; sites 34→40; objects 37→47; claims 49→60
+- Mesopotamia/Egypt unchanged in this commit (already pass-5 on main). Citation gate green.
+
+**Notes:** Contested items (Tello matriz / Casma early state; Indus script deciphered; Xia=Erlitou / Allan cosmos; Sanxingdui Shang colony; Troy=Homeric war; Olmec mother culture; Mirador first state) stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.

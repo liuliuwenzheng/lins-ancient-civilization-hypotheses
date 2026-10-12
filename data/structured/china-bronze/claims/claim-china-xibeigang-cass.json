@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-xibeigang-cass",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "社科院安阳队持续清理/报道西北冈王陵区，补史语所侯家庄大墓系列。",
+    "en": "CASS Anyang Team continues clearance/reporting at Xibeigang, complementing the IHP Houjiazhuang tomb series."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xibeigang-cass-continue"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-xibeigang-cass-continue"
+  ],
+  "sources": [
+    "src-china-ia-cass-yinxu-xibeigang-overview"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

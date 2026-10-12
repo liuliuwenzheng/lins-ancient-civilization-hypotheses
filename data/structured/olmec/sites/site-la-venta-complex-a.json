@@ -1,0 +1,31 @@
+{
+  "id": "site-la-venta-complex-a",
+  "entity": "site",
+  "names": {
+    "zh": "拉文塔 A 组建筑群",
+    "en": "La Venta Complex A",
+    "native": null
+  },
+  "kind_note": "civic-ceremonial core",
+  "region": "Tabasco, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "González Lauck INAH 拉文塔 A 组报告单元。",
+    "en": "González Lauck INAH La Venta Complex A report unit."
+  },
+  "sources": [
+    "src-olmec-gonzalez-lauck-complex-a",
+    "src-olmec-drucker-heizer-squier-1959"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

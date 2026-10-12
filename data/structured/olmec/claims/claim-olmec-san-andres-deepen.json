@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-san-andres-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rust/Sharer 等加深拉文塔腹地圣安德烈斯聚落研究。",
+    "en": "Rust/Sharer and collaborators deepen San Andrés settlement studies in the La Venta hinterland."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-andres-rust-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-san-andres-rust"
+  ],
+  "sources": [
+    "src-olmec-rust-sharer-san-andres"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

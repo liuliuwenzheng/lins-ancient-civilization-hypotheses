@@ -4,12 +4,12 @@
 
 Read-only archive entities for `civ-andes`.
 
-Counts (fourth density pass D-2026-10-12-4; `export_check` is authoritative):
-- sources: 58
-- sites: 35
+Counts (fifth density pass D-2026-10-12-6; `export_check` is authoritative):
+- sources: 68
+- sites: 41
 - periods: 7
-- objects: 38
-- claims: 54
+- objects: 48
+- claims: 65
 - media: 6
 
 Markdown editorial source: `data/civilizations/civ-andes.md`.

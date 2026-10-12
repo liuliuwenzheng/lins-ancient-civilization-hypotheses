@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-complex-a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "González Lauck INAH 拉文塔项目报道 A 组建筑/仪式核心。",
+    "en": "González Lauck’s INAH La Venta project reports Complex A civic-ceremonial core."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-la-venta-complex-a"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-la-venta-complex-a"
+  ],
+  "sources": [
+    "src-olmec-gonzalez-lauck-complex-a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

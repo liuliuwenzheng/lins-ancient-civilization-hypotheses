@@ -1,0 +1,39 @@
+{
+  "id": "asm-allahdino-seals-1976",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿拉赫迪诺印章铭文组合",
+    "en": "Allahdino seals/inscribed assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-allahdino"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Allahdino 印章与铭刻材料组合；破译说入假说。",
+    "en": "Allahdino seals and inscribed materials assemblage; decipherment stays hypothesis."
+  },
+  "sources": [
+    "src-indus-fairservis-allahdino-seals-1976"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Fairservis 1976",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

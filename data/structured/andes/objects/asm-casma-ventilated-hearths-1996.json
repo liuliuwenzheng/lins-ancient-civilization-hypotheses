@@ -1,0 +1,41 @@
+{
+  "id": "asm-casma-ventilated-hearths-1996",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡斯马通风火塘结构组合",
+    "en": "Casma ventilated hearth structures assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-bahia-seca",
+    "site-pampa-llamas-moxeke",
+    "site-taukachi-konkan"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "LAA 1996 记录的通风火塘建筑类型（组合级）。",
+    "en": "Ventilated hearth architectural type documented in LAA 1996 (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-pozorski-ventilated-hearth-laa-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pozorski & Pozorski 1996",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

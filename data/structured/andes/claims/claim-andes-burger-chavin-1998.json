@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-burger-chavin-1998",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Burger 1998 专著报告查文德万塔尔发掘中的居住/生计与相关建筑讨论。",
+    "en": "Burger 1998 monograph reports occupation/subsistence and related architecture from excavations at Chavín de Huántar."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-chavin-de-huantar"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-chavin-burger-1998"
+  ],
+  "sources": [
+    "src-andes-burger-excavaciones-chavin-1998"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

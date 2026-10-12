@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-unesco-tentative-not-wh",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "古蜀国考古遗址群在本登记时点仍走 UNESCO 预备清单文档路径，不等于已列入世界遗产。",
+    "en": "Ancient Shu archaeological sites remain on a UNESCO Tentative List documentation path at registration time — not the same as World Heritage inscription."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-shu-unesco-tentative-2024"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-shu-unesco-tentative-2024"
+  ],
+  "sources": [
+    "src-sanxingdui-unesco-tentative-2024-update"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

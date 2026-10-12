@@ -1,0 +1,40 @@
+{
+  "id": "asm-aguada-fenix-followon",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿瓜达菲尼克斯后续组合",
+    "en": "Aguada Fénix follow-on assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-aguada-fenix"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Nature 2020 后续同行评议组合。",
+    "en": "Follow-on peer-reviewed assemblage to Nature 2020."
+  },
+  "sources": [
+    "src-maya-inomata-aguada-fenix-followon",
+    "src-maya-inomata-aguada-fenix-nature-2020"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Inomata et al. follow-on",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

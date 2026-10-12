@@ -1,0 +1,29 @@
+{
+  "id": "claim-olmec-taube-iconography",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Taube 后续图像学研究加深奥尔梅克母题（含雷电/斧形器等）讨论。",
+    "en": "Taube’s later iconographic studies deepen discussion of Olmec motifs (including lightning/celts)."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-taube-iconography-deepen"
+  ],
+  "sources": [
+    "src-olmec-taube-lightning-celts-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

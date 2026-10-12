@@ -1,0 +1,32 @@
+{
+  "id": "site-chavin-de-huantar",
+  "entity": "site",
+  "names": {
+    "zh": "查文德万塔尔",
+    "en": "Chavín de Huántar",
+    "native": null
+  },
+  "kind_note": "Early Horizon ceremonial center (comparative)",
+  "region": "Ancash / Mosna–Huachecsa confluence",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "作为 Burger 1998 / Rick–Kembel 建筑记录的登记单元；早地平线比较，非北奇科核心。",
+    "en": "Registered for Burger 1998 / Rick–Kembel architecture documentation; Early Horizon comparative, not Norte Chico core."
+  },
+  "sources": [
+    "src-andes-burger-excavaciones-chavin-1998",
+    "src-andes-rick-kembel-chavin-architecture-1998",
+    "src-andes-burger-chavin-1995"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

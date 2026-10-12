@@ -1,0 +1,17 @@
+{
+  "id": "src-china-liang-gao-houjiazhuang-1002-1965",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "梁思永、高去寻. 1965. 《侯家庄第三本：1002号大墓》. 台北: 中央研究院历史语言研究所. (Hou Chia Chuang Vol. III: HPKM 1002.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Academia Sinica report on Xibeigang royal tomb HPKM 1002. Complements HPKM 1001 volume.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-liang-gao-houjiazhuang-1002-1965.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-maya-mirador-first-state-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "米拉多盆地为「玛雅第一国家」的表述仍属论争假说。",
+    "en": "Framing the Mirador Basin as the “first Maya state” remains a contested hypothesis."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-mirador-conservation-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mirador-conservation-2016"
+  ],
+  "sources": [
+    "src-maya-hansen-mirador-conservation-2016",
+    "src-maya-hansen-mirador-lidar-2022"
+  ],
+  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

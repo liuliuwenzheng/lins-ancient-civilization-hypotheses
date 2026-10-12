@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-fairservis-allahdino-seals-1976",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Fairservis, Walter A., Jr. 1976. Excavations at the Harappan Site of Allahdino: The Seals and Other Inscribed Material. Papers of the Allahdino Expedition. New York: American Museum of Natural History / author.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Allahdino seals/inscribed-material volume. Script decipherment proposals in related Fairservis graffiti papers stay hypotheses.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-fairservis-allahdino-seals-1976.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

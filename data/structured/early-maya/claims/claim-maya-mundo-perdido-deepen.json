@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-mundo-perdido-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Laporte/Fialko 后续出版物加深蒂卡尔失落世界前古典建筑序列。",
+    "en": "Laporte/Fialko later publications deepen the Mundo Perdido Preclassic architectural sequence at Tikal."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-mundo-perdido-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mundo-perdido-deepen"
+  ],
+  "sources": [
+    "src-maya-laporte-mundo-perdido-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-sunhua-shudi-kaogu",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "孙华. 《四川盆地的青铜时代》及相关蜀地考古综论（补已登记孙华分期论文）. (Sun Hua. Bronze Age of the Sichuan Basin and related Shu archaeology syntheses.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary Sun Hua syntheses on Sichuan Basin Bronze Age / Shu archaeology beyond the 2003 JEAA periodization article already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-sunhua-shudi-kaogu.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

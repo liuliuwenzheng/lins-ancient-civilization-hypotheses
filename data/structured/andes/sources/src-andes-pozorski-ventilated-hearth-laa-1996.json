@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-pozorski-ventilated-hearth-laa-1996",
+  "entity": "source",
+  "type": "article",
+  "citation": "Pozorski, Thomas, and Shelia Pozorski. 1996. “Ventilated Hearth Structures in the Casma Valley, Peru.” Latin American Antiquity 7 (4): 341–353. DOI 10.2307/972263.",
+  "url": "https://doi.org/10.2307/972263",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary LAA article documenting ventilated hearth structures across Casma Initial Period sites (including Pampa de las Llamas–Moxeke / Bahía Seca / Taukachi-Konkán parallels). Distinct from Huaynuná 1990 JFA already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-pozorski-ventilated-hearth-laa-1996.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

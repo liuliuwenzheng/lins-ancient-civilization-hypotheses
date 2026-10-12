@@ -1,0 +1,30 @@
+{
+  "id": "site-mangcheng",
+  "entity": "site",
+  "names": {
+    "zh": "芒城",
+    "en": "Mangcheng",
+    "native": null
+  },
+  "kind_note": "Baodun-culture walled settlement",
+  "region": "Chengdu Plain, Sichuan",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "宝墩文化同侪城址芒城简报单元。",
+    "en": "Baodun-culture peer walled site Mangcheng brief unit."
+  },
+  "sources": [
+    "src-sanxingdui-mangcheng-brief"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

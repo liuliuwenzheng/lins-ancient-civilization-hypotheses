@@ -1,0 +1,41 @@
+{
+  "id": "asm-davis-bennet-prap-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "PRAP/Pylos 文献加深组合",
+    "en": "PRAP/Pylos documentation deepen assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-pylos-prap-frame",
+    "site-pylos"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "PRAP 与涅斯托尔宫文献加深组合。",
+    "en": "PRAP and Palace of Nestor documentation deepen assemblage."
+  },
+  "sources": [
+    "src-aegean-davis-bennet-pylos-docs",
+    "src-aegean-davis-pylos-regional-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Davis & Bennet PRAP path",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

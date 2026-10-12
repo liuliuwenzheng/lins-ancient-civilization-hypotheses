@@ -1,0 +1,30 @@
+{
+  "id": "site-nepena-valley-proulx",
+  "entity": "site",
+  "names": {
+    "zh": "内佩尼亚谷（Proulx 序列）",
+    "en": "Nepeña Valley (Proulx sequence)",
+    "native": null
+  },
+  "kind_note": "valley survey/sequence frame",
+  "region": "Nepeña Valley / Ancash coast",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "Proulx 1985 早期文化序列报告单元；中北海岸比较。",
+    "en": "Proulx 1985 early cultural sequence report unit; north-central coast comparative."
+  },
+  "sources": [
+    "src-andes-proulx-nepena-1985"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

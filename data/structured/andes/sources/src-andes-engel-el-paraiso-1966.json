@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-engel-el-paraiso-1966",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Engel, Frédéric André. 1966. “Le complexe précéramique d’El Paraíso (Pérou).” Journal de la Société des Américanistes 55 (1): 43–95.",
+  "url": "https://www.persee.fr/doc/jsa_0037-9174_1966_num_55_1_2238",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary French-language report on Engel’s Preceramic work and restoration at El Paraíso (Chillón Valley). Complements Quilter et al. Science 1991 already registered; architecture chronology refined by Quilter 1985 JFA.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-engel-el-paraiso-1966.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -4,12 +4,12 @@
 
 Read-only archive entities for `civ-olmec`.
 
-Counts (fourth density pass D-2026-10-12-4; `export_check` is authoritative):
-- sources: 58
-- sites: 31
+Counts (fifth density pass D-2026-10-12-6; `export_check` is authoritative):
+- sources: 68
+- sites: 37
 - periods: 4
-- objects: 37
-- claims: 44
+- objects: 47
+- claims: 55
 - media: 4
 
 Markdown editorial source: `data/civilizations/civ-olmec.md`.

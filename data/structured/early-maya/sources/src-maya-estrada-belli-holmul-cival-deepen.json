@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-estrada-belli-holmul-cival-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Estrada-Belli, Francisco. Additional Holmul/Cival region Preclassic excavation reports beyond Estrada-Belli 2006/2011 and Holmul pointers already registered.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Holmul–Cival deepen path. Complements First Maya Civilization 2011 synthesis.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-estrada-belli-holmul-cival-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-meadow-kenoyer-harappa-1994",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Meadow, Richard H., and Jonathan Mark Kenoyer. 1994. “Harappa Excavations 1993: The City Wall Area.” In South Asian Archaeology 1993, edited by Asko Parpola and Petteri Koskikallio, 451–470. Helsinki: Suomalainen Tiedeakatemia.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary season report on Harappa city-wall area excavations (1993). Complements Meadow 1991 Harappa multidisciplinary volume already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-meadow-kenoyer-harappa-1994.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

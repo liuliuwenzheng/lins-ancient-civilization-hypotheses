@@ -1,0 +1,23 @@
+---
+id: src-andes-rick-kembel-chavin-architecture-1998
+type: article
+citation: "Rick, John W.; Silvia Rodriguez Kembel; Rosa Mendoza Rick; and John A. Kembel. 1998. “La arquitectura del complejo ceremonial de Chavín de Huántar: Documentación tridimensional y sus implicancias.” Boletín de Arqueología PUCP 2: 181–214."
+url: "https://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/view/1388"
+access_date: "2026-10-12"
+reliability_tier: P
+notes: "Primary Stanford Project 3-D documentation and limited facade tests at Chavín de Huántar (1995–98 seasons). Architecture plan reliability is the factual contribution; temple growth models stay interpretive."
+---
+
+# Source: `src-andes-rick-kembel-chavin-architecture-1998`
+
+| Field | Value |
+|-------|--------|
+| Type | article |
+| Tier | P |
+| Citation | Rick, John W.; Silvia Rodriguez Kembel; Rosa Mendoza Rick; and John A. Kembel. 1998. “La arquitectura del complejo ceremonial de Chavín de Huántar: Documentación tridimensional y sus implicancias.” Boletín de Arqueología PUCP 2: 181–214. |
+| URL | https://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/view/1388 |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+Primary Stanford Project 3-D documentation and limited facade tests at Chavín de Huántar (1995–98 seasons). Architecture plan reliability is the factual contribution; temple growth models stay interpretive.

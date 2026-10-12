@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-cheetham-san-lorenzo-style-pottery",
+  "entity": "source",
+  "type": "article",
+  "citation": "Cheetham, David. Peer-reviewed studies on Early Formative San Lorenzo–style pottery distribution and Gulf–Maya lowland interaction (complement Clark & Cheetham handbook essays already registered).",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary/peer-reviewed pottery-distribution studies. Complements src-olmec-cheetham-cantona-or-san-lorenzo pointer if present; new id for pass-5 deepen.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-cheetham-san-lorenzo-style-pottery.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

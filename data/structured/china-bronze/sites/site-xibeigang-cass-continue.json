@@ -1,0 +1,31 @@
+{
+  "id": "site-xibeigang-cass-continue",
+  "entity": "site",
+  "names": {
+    "zh": "西北冈（社科院后续）",
+    "en": "Xibeigang (CASS continuation)",
+    "native": null
+  },
+  "kind_note": "royal cemetery continuation frame",
+  "region": "Anyang, Henan",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "社科院安阳队西北冈后续清理/综述单元。",
+    "en": "CASS Anyang Team Xibeigang continuation/overview unit."
+  },
+  "sources": [
+    "src-china-ia-cass-yinxu-xibeigang-overview",
+    "src-china-liang-gao-houjiazhuang-1001-1962"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

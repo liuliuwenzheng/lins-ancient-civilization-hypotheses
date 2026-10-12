@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-engel-paraiso-1966",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Engel 1966 报告奇永谷埃尔帕拉伊索前陶复合体工作与修复。",
+    "en": "Engel 1966 reports Preceramic work and restoration at El Paraíso in the Chillón Valley."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-el-paraiso-engel-unit"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-el-paraiso-engel-1966"
+  ],
+  "sources": [
+    "src-andes-engel-el-paraiso-1966"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "site-troy-vi",
+  "entity": "site",
+  "names": {
+    "zh": "特洛伊 VI",
+    "en": "Troy VI",
+    "native": null
+  },
+  "kind_note": "Cincinnati Troy settlement",
+  "region": "Hisarlık, Anatolia",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Blegen Troy III 卷第六居民点单元。",
+    "en": "Blegen Troy III volume Sixth Settlement unit."
+  },
+  "sources": [
+    "src-aegean-blegen-troy-iii-1953",
+    "src-aegean-blegen-troy-i-1950"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "asm-sxd-sacrifice-area-2022",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三星堆祭祀区 2022 组合",
+    "en": "Sanxingdui sacrificial area 2022 assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-sacrifice-area-2022",
+    "site-sanxingdui-pits-3-8"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "K3–K8 阶段性发掘报道组合；不编造器物件数。",
+    "en": "K3–K8 seasonal reporting assemblage; no invented object counts."
+  },
+  "sources": [
+    "src-sanxingdui-kaogu-sacrifice-area-2022"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Kaogu 2022 sacrificial-area path",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

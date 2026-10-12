@@ -1,0 +1,30 @@
+{
+  "id": "site-luoyang-beiyiao",
+  "entity": "site",
+  "names": {
+    "zh": "洛阳北窑",
+    "en": "Luoyang Beiyiao",
+    "native": null
+  },
+  "kind_note": "Western Zhou cemetery",
+  "region": "Luoyang, Henan",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "洛阳北窑西周墓葬报告单元。",
+    "en": "Western Zhou cemetery report unit at Beiyiao, Luoyang."
+  },
+  "sources": [
+    "src-china-luoyang-beiyiao-1999"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

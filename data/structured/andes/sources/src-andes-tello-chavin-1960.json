@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-tello-chavin-1960",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Tello, Julio C. 1960. Chavín: Cultura matriz de la civilización andina. Lima: Universidad Nacional Mayor de San Marcos / Publicación póstuma preparada por Toribio Mejía Xesspe.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Classic historical monograph framing Chavín as Andean “matriz” civilization. Foundational historiography; “mother culture / matriz” claims stay hypotheses relative to Preceramic Norte Chico archive scope.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-tello-chavin-1960.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

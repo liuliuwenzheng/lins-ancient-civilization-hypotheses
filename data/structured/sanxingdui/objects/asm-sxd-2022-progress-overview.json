@@ -1,0 +1,39 @@
+{
+  "id": "asm-sxd-2022-progress-overview",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三星堆 2022 进展通报组合",
+    "en": "Sanxingdui 2022 progress overview assemblage"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-sacrifice-area-2022"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "官方阶段性进展通报组合。",
+    "en": "Official seasonal progress overview assemblage."
+  },
+  "sources": [
+    "src-sanxingdui-lei-ran-fieldwork-overview-2022"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Ran/Lei 2022 official overview",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

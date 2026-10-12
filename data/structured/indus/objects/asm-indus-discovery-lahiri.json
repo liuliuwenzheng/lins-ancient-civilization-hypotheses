@@ -1,0 +1,39 @@
+{
+  "id": "asm-indus-discovery-lahiri",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "印度河发现史学组合",
+    "en": "Indus discovery historiography assemblage"
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-indus-discovery-historiography"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Lahiri 发现史叙述组合。",
+    "en": "Lahiri discovery-history narrative assemblage."
+  },
+  "sources": [
+    "src-indus-lahiri-finding-forgotten-cities-2005"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Lahiri 2005",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

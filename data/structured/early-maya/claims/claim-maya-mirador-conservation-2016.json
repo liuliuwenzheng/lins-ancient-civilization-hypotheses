@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-mirador-conservation-2016",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hansen 等 2016 米拉多研究与保护综论汇集盆地考古与保护工作。",
+    "en": "Hansen et al. 2016 Mirador research-and-conservation volume assembles basin archaeology and conservation work."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-mirador-conservation-frame"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mirador-conservation-2016"
+  ],
+  "sources": [
+    "src-maya-hansen-mirador-conservation-2016"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

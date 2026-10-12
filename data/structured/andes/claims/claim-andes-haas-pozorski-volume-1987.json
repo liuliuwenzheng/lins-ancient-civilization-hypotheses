@@ -1,0 +1,29 @@
+{
+  "id": "claim-andes-haas-pozorski-volume-1987",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Haas、Pozorski & Pozorski 1987 剑桥文集汇集安第斯国家起源相关论文（含卡斯马专章）。",
+    "en": "Haas, Pozorski & Pozorski 1987 Cambridge volume assembles essays on Andean state origins (including a Casma chapter)."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [
+    "asm-andean-state-origins-1987"
+  ],
+  "sources": [
+    "src-andes-haas-pozorski-andean-state-1987"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only. Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

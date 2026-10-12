@@ -1,0 +1,17 @@
+{
+  "id": "src-china-allan-shape-turtle-1991",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Allan, Sarah. 1991. The Shape of the Turtle: Myth, Art, and Cosmos in Early China. Albany: State University of New York Press. ISBN 0-7914-0460-9.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary study of early Chinese myth, art, and cosmology using bronze and textual evidence. Interpretive cosmology models stay hypotheses relative to excavation facts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-allan-shape-turtle-1991.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

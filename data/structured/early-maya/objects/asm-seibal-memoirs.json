@@ -1,0 +1,40 @@
+{
+  "id": "asm-seibal-memoirs",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "塞伊巴尔 Peabody 多卷组合",
+    "en": "Seibal Peabody memoirs assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-seibal-memoirs-frame",
+    "site-ceibal"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Peabody Seibal 多卷发掘组合。",
+    "en": "Peabody Seibal multi-volume excavation assemblage."
+  },
+  "sources": [
+    "src-maya-willey-seibal-memoirs-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Willey et al. Seibal Memoirs",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

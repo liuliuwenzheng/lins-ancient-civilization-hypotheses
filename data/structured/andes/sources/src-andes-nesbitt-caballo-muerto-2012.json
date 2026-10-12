@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-nesbitt-caballo-muerto-2012",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Nesbitt, Jason. 2012. Excavations at Caballo Muerto: A Study of the Early Intermediate Period Occupation in the Moche Valley, Peru. PhD dissertation, Yale University. (And related peer-reviewed Caballo Muerto / Initial Period publications.)",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary dissertation/publications on Caballo Muerto (Moche Valley) Initial Period monumental complex. Comparative north-coast Initial Period — distinct from Norte Chico Late Archaic core. Polity labels beyond published architecture stay interpretive.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-nesbitt-caballo-muerto-2012.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

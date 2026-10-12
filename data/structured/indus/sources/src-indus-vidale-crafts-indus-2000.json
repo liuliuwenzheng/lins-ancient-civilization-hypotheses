@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-vidale-crafts-indus-2000",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Vidale, Massimo. 2000. The Archaeology of Indus Crafts: Indus Craftspeople and Why We Study Them. Rome: IsIAO / related Indus craft technology studies.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary craft-technology synthesis for Indus workshops (bead, steatite, etc.). Complements Kenoyer craft papers; object-level claims still require site reports.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-vidale-crafts-indus-2000.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

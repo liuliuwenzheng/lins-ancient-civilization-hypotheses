@@ -1,0 +1,30 @@
+{
+  "id": "site-troy-viia",
+  "entity": "site",
+  "names": {
+    "zh": "特洛伊 VIIa",
+    "en": "Troy VIIa",
+    "native": null
+  },
+  "kind_note": "Cincinnati Troy settlement",
+  "region": "Hisarlık, Anatolia",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Blegen Troy IV 卷 VIIa 单元；战争毁灭说入假说。",
+    "en": "Blegen Troy IV volume VIIa unit; war-destruction readings stay hypotheses."
+  },
+  "sources": [
+    "src-aegean-blegen-troy-iv-1958"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+  }
+}

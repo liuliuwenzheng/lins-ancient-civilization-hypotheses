@@ -1,0 +1,40 @@
+{
+  "id": "asm-san-lorenzo-sculpture-deepen",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "圣洛伦索雕塑加深组合",
+    "en": "San Lorenzo sculpture deepen assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo-cyphers-deepen",
+    "site-san-lorenzo"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Cyphers 雕塑语料加深组合。",
+    "en": "Cyphers sculpture-corpus deepen assemblage."
+  },
+  "sources": [
+    "src-olmec-cyphers-san-lorenzo-sculptures-deepen"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Cyphers sculpture deepen",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "asm-pampa-llamas-jfa-1986",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉马平原—莫塞克 JFA 1986 建筑组合",
+    "en": "Pampa de las Llamas–Moxeke JFA 1986 architecture assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-pampa-llamas-jfa-1986",
+    "site-pampa-llamas-moxeke"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "JFA 1986 报道的规划性建筑与发掘单元（组合级）。",
+    "en": "Planned architecture and excavation units as reported in JFA 1986 (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-pozorski-pampa-llamas-jfa-1986"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pozorski & Pozorski 1986",
+    "upstream_url": null,
+    "notes": "Metadata only; no forged plates or invented museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images."
+  }
+}
