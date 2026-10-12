@@ -1,0 +1,42 @@
+{
+  "id": "asm-umm-el-qaab-uj-dreyer",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌姆卡阿布 U-j 墓组合（Dreyer 1998）",
+    "en": "Umm el-Qaab tomb U-j assemblage (Dreyer 1998)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "period_ids": [
+    "period-egypt-naqada",
+    "period-egypt-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Dreyer《Umm el-Qaab》I 公布的前王朝王墓 U-j 及其早期书写证据（组合级；“最早文字”争议见假说栏）。",
+    "en": "Predynastic royal tomb U-j and its early writing evidence as published in Dreyer Umm el-Qaab I (assemblage-level; “earliest writing” debates → hypothesis column)."
+  },
+  "sources": [
+    "src-egypt-dreyer-umm-el-qaab-i-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata only; no forged tag images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

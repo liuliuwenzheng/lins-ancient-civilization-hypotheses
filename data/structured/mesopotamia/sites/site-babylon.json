@@ -1,0 +1,30 @@
+{
+  "id": "site-babylon",
+  "entity": "site",
+  "names": {
+    "zh": "巴比伦",
+    "en": "Babylon",
+    "native": "Bābili"
+  },
+  "kind_note": "DOG German excavations (Koldewey); later periods dominant in published synthesis",
+  "region": "Central/southern Mesopotamia (Iraq)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "巴比伦城；Koldewey 1914 英译本综合德意志东方学会发掘结果（历史性发掘标准，年代须与现代综合对照）。",
+    "en": "City of Babylon; Koldewey 1914 English synthesis of DOG excavations (historical methods; cross-check chronology with modern work)."
+  },
+  "sources": [
+    "src-mesopotamia-koldewey-babylon-1914"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3; coordinates omitted (no invented coords)."
+  }
+}

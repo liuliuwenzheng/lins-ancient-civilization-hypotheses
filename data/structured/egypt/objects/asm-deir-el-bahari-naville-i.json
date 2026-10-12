@@ -1,0 +1,39 @@
+{
+  "id": "asm-deir-el-bahari-naville-i",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "德尔拜赫里神庙上层平台 NW 组合（Naville 1895）",
+    "en": "Deir el-Bahari temple upper-platform NW assemblage (Naville 1895)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-deir-el-bahari"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Naville Part I 图版所公布的哈特谢普苏特神庙上层平台西北端（组合级）。",
+    "en": "North-western end of the upper platform of Hatshepsut’s temple as published in Naville Part I plates (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-naville-deir-el-bahari-i-1895"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/naville1895bd1",
+    "notes": "Metadata only; no forged relief images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

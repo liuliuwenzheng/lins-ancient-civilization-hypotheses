@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-quibell-el-kab-1898",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Quibell, J. E. 1898. El Kab. Egyptian Research Account, 1897 (Publications of the Egyptian Research Account, no. 3). London: Bernard Quaritch.",
+  "url": "https://digi.ub.uni-heidelberg.de/diglit/quibell1898",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Egyptian Research Account report on El Kab. Digitized via Heidelberg Diglit; also ETANA Core Texts (accessed 2026-10-12).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-quibell-el-kab-1898.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

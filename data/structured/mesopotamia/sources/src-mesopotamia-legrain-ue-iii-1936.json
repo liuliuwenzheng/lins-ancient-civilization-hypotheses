@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-legrain-ue-iii-1936",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Legrain, Léon, with an introductory note by C. Leonard Woolley. 1936. Ur Excavations. Volume III: Archaic Seal-Impressions. Publications of the Joint Expedition of the British Museum and of the Museum of the University of Pennsylvania to Mesopotamia. London; Philadelphia: Published for the Trustees of the two Museums. 49 pp., 58 plates.",
+  "url": "https://etana.org/sites/default/files/coretexts/20144.pdf",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary publication of archaic seal impressions from Ur (Joint Expedition). Digitized via ETANA Core Texts (accessed 2026-10-12).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-legrain-ue-iii-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

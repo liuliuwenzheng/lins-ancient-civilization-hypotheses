@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-genouillac-telloh-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "de Genouillac《特罗发掘》I（1934）正式公布 Telloh（吉尔苏）前萨尔贡层发掘。",
+    "en": "de Genouillac’s Fouilles de Telloh I (1934) is the primary publication of pre-Sargonic levels at Telloh (Girsu)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-lagash-girsu"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-telloh-genouillac-presargonic"
+  ],
+  "sources": [
+    "src-mesopotamia-genouillac-telloh-i-1934"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

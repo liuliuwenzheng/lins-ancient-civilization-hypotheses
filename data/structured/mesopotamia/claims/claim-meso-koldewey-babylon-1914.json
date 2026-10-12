@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-koldewey-babylon-1914",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Koldewey《巴比伦发掘》（1914 英译本）综合德意志东方学会在巴比伦的发掘结果（历史性发掘标准）。",
+    "en": "Koldewey’s The Excavations at Babylon (1914 English ed.) synthesizes Deutsche Orient-Gesellschaft results at Babylon (historical excavation standards)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-babylon"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-babylon-koldewey-dog"
+  ],
+  "sources": [
+    "src-mesopotamia-koldewey-babylon-1914"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

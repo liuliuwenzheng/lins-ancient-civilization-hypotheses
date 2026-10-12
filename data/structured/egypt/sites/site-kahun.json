@@ -1,0 +1,30 @@
+{
+  "id": "site-kahun",
+  "entity": "site",
+  "names": {
+    "zh": "卡洪（拉亨工人镇）",
+    "en": "Kahun (Lahun workers’ town)",
+    "native": null
+  },
+  "kind_note": "Middle Kingdom planned town; Petrie Illahun/Kahun/Gurob",
+  "region": "Fayum / entrance to Fayum (Egypt)",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "中王国规划工人镇；Petrie《伊拉洪、卡洪与古罗布》（1891）正式报告。",
+    "en": "Middle Kingdom planned workers’ town; Petrie Illahun, Kahun and Gurob (1891) is the primary report."
+  },
+  "sources": [
+    "src-egypt-petrie-illahun-kahun-gurob-1891"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site for density pass 3; no invented coordinates."
+  }
+}

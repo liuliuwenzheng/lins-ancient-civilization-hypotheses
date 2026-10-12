@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-petrie-gizeh-1883",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Petrie, W. M. Flinders. 1883. The Pyramids and Temples of Gizeh. London: Field & Tuer; New York: Scribner & Welford.",
+  "url": "https://archive.org/details/cu31924012038927",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary early scientific survey/excavation account of the Giza pyramids and temples. Digitized on Internet Archive / Petrie Project PDF (accessed 2026-10-12). Measurement methods historical; later Reisner/Junker/Lehner revise details.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-gizeh-1883.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

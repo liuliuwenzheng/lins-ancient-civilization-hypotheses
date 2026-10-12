@@ -1,0 +1,23 @@
+---
+id: src-mesopotamia-genouillac-telloh-i-1934
+type: excavation-report
+citation: "de Genouillac, Henri, with collaboration of A. Parrot, R. Ghirshman, et al. 1934. Fouilles de Telloh. Tome I: Époques présargoniques. Mission archéologique du Musée du Louvre et du Ministère de l’Instruction publique. Paris: Paul Geuthner."
+url: "https://commons.library.stonybrook.edu/amar/484/"
+access_date: "2026-10-12"
+reliability_tier: P
+notes: "Primary Louvre / French mission report on pre-Sargonic levels at Telloh (Girsu). Digitized via Stony Brook AMAR (accessed 2026-10-12). Complements Parrot 1948 Tello synthesis already in pack."
+---
+
+# Source: `src-mesopotamia-genouillac-telloh-i-1934`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | de Genouillac, Henri, with collaboration of A. Parrot, R. Ghirshman, et al. 1934. Fouilles de Telloh. Tome I: Époques présargoniques. Mission archéologique du Musée du Louvre et du Ministère de l’Instruction publique. Paris: Paul Geuthner. |
+| URL | https://commons.library.stonybrook.edu/amar/484/ |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+Primary Louvre / French mission report on pre-Sargonic levels at Telloh (Girsu). Digitized via Stony Brook AMAR (accessed 2026-10-12). Complements Parrot 1948 Tello synthesis already in pack.

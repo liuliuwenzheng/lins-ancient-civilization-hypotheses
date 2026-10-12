@@ -1,0 +1,30 @@
+{
+  "id": "site-mahasna",
+  "entity": "site",
+  "names": {
+    "zh": "马哈斯纳",
+    "en": "Mahasna (Mahâsna)",
+    "native": null
+  },
+  "kind_note": "Cemetery site; Garstang ERA 1901 season",
+  "region": "Upper Egypt — near Abydos/Girga area",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Garstang《马哈斯纳与贝特哈拉夫》（1903）所发掘墓地之一。",
+    "en": "One of the cemeteries excavated in Garstang’s Mahâsna and Bêt Khallâf (1903)."
+  },
+  "sources": [
+    "src-egypt-garstang-mahasna-bet-khallaf-1903"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site for density pass 3; no invented coordinates."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-loud-khorsabad-oip38-1936",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Loud, Gordon, with chapters by Henri Frankfort and Thorkild Jacobsen. 1936. Khorsabad, Part 1: Excavations in the Palace and at a City Gate. Oriental Institute Publications 38. Chicago: The University of Chicago Press. xv + 139 pp., 129 figures, frontispiece, 3 plates in color.",
+  "url": "https://isac.uchicago.edu/publications/khorsabad-part-1-excavations-palace-and-city-gate",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary OI report on Dur-Sharrukin (Khorsabad): Sargon II throne room, palace temples, Nabu temple area, and Gate 7. Catalog page via ISAC (accessed 2026-10-12). No invented sculpture inventory numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-loud-khorsabad-oip38-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

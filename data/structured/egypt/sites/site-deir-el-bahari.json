@@ -1,0 +1,30 @@
+{
+  "id": "site-deir-el-bahari",
+  "entity": "site",
+  "names": {
+    "zh": "德尔拜赫里",
+    "en": "Deir el-Bahari",
+    "native": null
+  },
+  "kind_note": "Hatshepsut mortuary temple; Egypt Exploration Fund (Naville)",
+  "region": "Upper Egypt — western Thebes",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "哈特谢普苏特祭庙所在；Naville《德尔拜赫里神庙》I（1895）为 EEF 图版专册。",
+    "en": "Location of Hatshepsut’s mortuary temple; Naville Temple of Deir el Bahari Part I (1895) is the EEF plate memoir."
+  },
+  "sources": [
+    "src-egypt-naville-deir-el-bahari-i-1895"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site for density pass 3; no invented coordinates."
+  }
+}

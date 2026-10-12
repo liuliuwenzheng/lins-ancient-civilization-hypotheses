@@ -1,0 +1,41 @@
+{
+  "id": "asm-giza-junker-i-west-cemetery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吉萨西墓地第四王朝马斯塔巴组合（Junker Gîza I）",
+    "en": "Giza West Cemetery Dynasty IV mastaba assemblage (Junker Gîza I)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Junker《Gîza》I（1929）公布的西墓地第四王朝马斯塔巴（组合级）。",
+    "en": "Dynasty IV mastabas of the West Cemetery as published in Junker Gîza I (1929) (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-junker-giza-i-1929"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/giza-1_202108",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

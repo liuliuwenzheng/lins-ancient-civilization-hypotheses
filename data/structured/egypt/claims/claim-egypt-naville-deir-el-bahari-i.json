@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-naville-deir-el-bahari-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Naville《德尔拜赫里神庙》I（1895，EEF Memoir 13）以图版公布哈特谢普苏特神庙上层平台西北端。",
+    "en": "Naville’s The Temple of Deir el Bahari Part I (1895, EEF Memoir 13) publishes in plates the north-western end of the upper platform of Hatshepsut’s temple."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-deir-el-bahari"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-deir-el-bahari-naville-i"
+  ],
+  "sources": [
+    "src-egypt-naville-deir-el-bahari-i-1895"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

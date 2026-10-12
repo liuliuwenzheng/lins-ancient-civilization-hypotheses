@@ -1,0 +1,33 @@
+{
+  "id": "claim-egypt-emery-great-tombs-ii",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Emery《第一王朝大墓》II（1954，EES Memoir 46）延续公布萨卡拉第一王朝大墓发掘。",
+    "en": "Emery’s Great Tombs of the First Dynasty II (1954, EES Memoir 46) continues publication of First Dynasty great tombs at Saqqara."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-saqqara-emery-great-tombs-ii"
+  ],
+  "sources": [
+    "src-egypt-emery-great-tombs-ii-1954"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

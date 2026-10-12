@@ -1,0 +1,34 @@
+{
+  "id": "claim-egypt-garstang-mahasna-bet-khallaf",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Garstang《马哈斯纳与贝特哈拉夫》（1903）正式公布两处遗址的 ERA 发掘。",
+    "en": "Garstang’s Mahâsna and Bêt Khallâf (1903) is the primary ERA publication of excavations at both sites."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-mahasna",
+    "site-bet-khallaf"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-mahasna-bet-khallaf-garstang"
+  ],
+  "sources": [
+    "src-egypt-garstang-mahasna-bet-khallaf-1903"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

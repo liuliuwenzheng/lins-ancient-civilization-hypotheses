@@ -1,0 +1,30 @@
+{
+  "id": "site-naga-ed-der",
+  "entity": "site",
+  "names": {
+    "zh": "纳加埃德戴尔",
+    "en": "Naga-ed-Dêr (Naga ed-Deir)",
+    "native": null
+  },
+  "kind_note": "Early Dynastic provincial cemeteries; Hearst Egyptian Expedition (Reisner)",
+  "region": "Upper Egypt — opposite Girga / Abydos region",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "早王朝省级墓地群；Reisner 1908《纳加埃德戴尔早王朝墓地》I 为正式报告。",
+    "en": "Early Dynastic provincial cemeteries; Reisner 1908 Early Dynastic Cemeteries of Naga-ed-Dêr Part I is the primary report."
+  },
+  "sources": [
+    "src-egypt-reisner-naga-ed-der-i-1908"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site for density pass 3; no invented coordinates."
+  }
+}

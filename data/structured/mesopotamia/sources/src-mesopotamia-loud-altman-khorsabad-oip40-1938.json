@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-loud-altman-khorsabad-oip40-1938",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Loud, Gordon, and Charles B. Altman. 1938. Khorsabad, Part 2: The Citadel and the Town. Oriental Institute Publications 40. Chicago: The University of Chicago Press.",
+  "url": "https://isac.uchicago.edu/publications/khorsabad-part-2-citadel-and-town",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary OI report on the Khorsabad citadel and town beyond the palace core. Catalog page via ISAC (accessed 2026-10-12). Complements OIP 38.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-loud-altman-khorsabad-oip40-1938.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

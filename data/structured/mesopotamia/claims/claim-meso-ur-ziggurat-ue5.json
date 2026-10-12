@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-ur-ziggurat-ue5",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Woolley《乌尔发掘》V（1939）正式公布乌尔塔庙及其周边建筑发掘。",
+    "en": "Woolley’s Ur Excavations V (1939) is the primary publication of the Ur ziggurat and its surroundings."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-ur"
+  ],
+  "period_ids": [
+    "period-ur-iii"
+  ],
+  "object_ids": [
+    "asm-ur-ziggurat-ue5"
+  ],
+  "sources": [
+    "src-mesopotamia-woolley-ur-v-1939"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

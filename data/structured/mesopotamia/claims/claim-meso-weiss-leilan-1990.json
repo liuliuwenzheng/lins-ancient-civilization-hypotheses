@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-weiss-leilan-1990",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Weiss 等 1990《美国考古学杂志》94(4) 公布叙利亚莱兰丘 1985 季发掘。",
+    "en": "Weiss et al. 1990 in American Journal of Archaeology 94(4) publish the 1985 excavation season at Tell Leilan, Syria."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-leilan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-leilan-1985-season"
+  ],
+  "sources": [
+    "src-mesopotamia-weiss-leilan-aja-1990"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

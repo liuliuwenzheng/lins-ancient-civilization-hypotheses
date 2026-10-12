@@ -1,0 +1,41 @@
+{
+  "id": "asm-abydos-petrie-ii-1903",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿拜多斯 Petrie 第二卷组合（1903）",
+    "en": "Abydos Petrie Part II assemblage (1903)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "summary": {
+    "zh": "EEF Memoir 24 所公布的阿拜多斯田野延续材料（组合级）。",
+    "en": "Continued Abydos fieldwork materials as published in EEF Memoir 24 (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-petrie-abydos-ii-1903"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/petrie1903bd2",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

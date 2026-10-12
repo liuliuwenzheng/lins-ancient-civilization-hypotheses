@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-petrie-illahun-kahun-gurob-1891",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Petrie, W. M. Flinders. 1891. Illahun, Kahun and Gurob: 1889–1890. London: David Nutt.",
+  "url": "https://digi.ub.uni-heidelberg.de/diglit/petrie1891",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Petrie report on Illahun (el-Lahun), Kahun workers’ town, and Gurob. Digitized via Heidelberg Diglit; also Internet Archive (accessed 2026-10-12).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-illahun-kahun-gurob-1891.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

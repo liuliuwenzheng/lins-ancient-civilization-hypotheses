@@ -1,0 +1,33 @@
+{
+  "id": "claim-egypt-junker-giza-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Junker《Gîza》I（1929）正式公布吉萨西墓地第四王朝马斯塔巴发掘。",
+    "en": "Junker’s Gîza I (1929) is the primary publication of Dynasty IV mastabas in the Giza West Cemetery."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [
+    "asm-giza-junker-i-west-cemetery"
+  ],
+  "sources": [
+    "src-egypt-junker-giza-i-1929"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

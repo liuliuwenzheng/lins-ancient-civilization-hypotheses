@@ -1,0 +1,39 @@
+{
+  "id": "asm-nippur-wa-wb-oic23",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "尼普尔 WA/WB 第十二季组合（Gibson OIC 23）",
+    "en": "Nippur Areas WA/WB twelfth-season assemblage (Gibson OIC 23)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-nippur"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "OIC 23 公布的 WA 神庙序列与 WB 行政/居住建筑及相关陶器、泥板（组合级）。",
+    "en": "WA temple sequence and WB administrative/residential buildings with related pottery and tablets as published in OIC 23 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-gibson-nippur-oic23-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oic23.pdf",
+    "notes": "Metadata class only; no invented tablet field numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-hansen-alhiba-1970",
+  "entity": "source",
+  "type": "article",
+  "citation": "Hansen, Donald P. 1970. “Al-Hiba, 1968–1969: A Preliminary Report.” Artibus Asiae 32 (4): 243–258. JSTOR https://www.jstor.org/stable/3249506.",
+  "url": "https://www.jstor.org/stable/3249506",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary preliminary report of the first season of the Metropolitan Museum of Art / NYU Institute of Fine Arts Wolfe Expedition at Tell al-Hiba (ancient Lagash city proper). Verified via CDLI publication record (accessed 2026-10-12).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-hansen-alhiba-1970.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

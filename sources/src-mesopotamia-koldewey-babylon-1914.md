@@ -1,0 +1,23 @@
+---
+id: src-mesopotamia-koldewey-babylon-1914
+type: excavation-report
+citation: "Koldewey, Robert. 1914. The Excavations at Babylon. Translated by Agnes S. Johns. London: Macmillan and Co. (English edition of Das wieder erstehende Babylon, Leipzig: J. C. Hinrichs, 1913)."
+url: "https://www.gutenberg.org/ebooks/71398"
+access_date: "2026-10-12"
+reliability_tier: P
+notes: "Primary Deutsche Orient-Gesellschaft Babylon excavation synthesis in English translation (1914). Project Gutenberg edition (accessed 2026-10-12). Historical excavation methods; later work revises plans and chronology — cite for published find contexts, not modern absolute dates."
+---
+
+# Source: `src-mesopotamia-koldewey-babylon-1914`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Koldewey, Robert. 1914. The Excavations at Babylon. Translated by Agnes S. Johns. London: Macmillan and Co. (English edition of Das wieder erstehende Babylon, Leipzig: J. C. Hinrichs, 1913). |
+| URL | https://www.gutenberg.org/ebooks/71398 |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+Primary Deutsche Orient-Gesellschaft Babylon excavation synthesis in English translation (1914). Project Gutenberg edition (accessed 2026-10-12). Historical excavation methods; later work revises plans and chronology — cite for published find contexts, not modern absolute dates.

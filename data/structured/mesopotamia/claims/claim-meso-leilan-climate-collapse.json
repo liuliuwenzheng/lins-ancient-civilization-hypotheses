@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-leilan-climate-collapse",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "第三千纪末哈布尔平原（含莱兰丘）城市体系因突发干旱而崩溃——此为 Weiss 等后续综合中的学术模型，本条不升为定论。",
+    "en": "That late-third-millennium Habur-plains urban systems (including Tell Leilan) collapsed because of abrupt drought is a scholarly model in later Weiss et al. syntheses; not elevated to fact here."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-leilan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-leilan-1985-season"
+  ],
+  "sources": [
+    "src-mesopotamia-weiss-leilan-aja-1990"
+  ],
+  "disclaimer": "Hypothesis: climate-forced collapse remains debated; AJA 1990 is the 1985 excavation report, not by itself a settled climate verdict. Label as hypothesis; do not treat as proven sole cause.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

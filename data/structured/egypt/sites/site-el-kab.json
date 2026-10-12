@@ -1,0 +1,30 @@
+{
+  "id": "site-el-kab",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔卡布",
+    "en": "El Kab (Nekheb)",
+    "native": "Nḫb"
+  },
+  "kind_note": "Upper Egyptian town/cemetery; Egyptian Research Account (Quibell)",
+  "region": "Upper Egypt — east bank opposite Hierakonpolis",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "上埃及埃尔卡布；Quibell 1898《El Kab》为埃及研究账户正式报告。",
+    "en": "Upper Egyptian El Kab; Quibell 1898 El Kab is the Egyptian Research Account primary report."
+  },
+  "sources": [
+    "src-egypt-quibell-el-kab-1898"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site for density pass 3; no invented coordinates."
+  }
+}

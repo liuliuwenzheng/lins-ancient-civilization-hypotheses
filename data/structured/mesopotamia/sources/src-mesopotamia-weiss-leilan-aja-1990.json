@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-weiss-leilan-aja-1990",
+  "entity": "source",
+  "type": "article",
+  "citation": "Weiss, Harvey; Peter M. M. G. Akkermans; Gil J. Stein; Dominique Parayre; and Robert M. Whiting. 1990. “1985 Excavations at Tell Leilan, Syria.” American Journal of Archaeology 94 (4): 529–581. DOI 10.2307/505120.",
+  "url": "https://doi.org/10.2307/505120",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary AJA report on the 1985 season at Tell Leilan (Habur plains). DOI verified (accessed 2026-10-12). Climate-collapse models based on later Science 1993 synthesis remain hypotheses unless separately registered and labeled.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-weiss-leilan-aja-1990.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

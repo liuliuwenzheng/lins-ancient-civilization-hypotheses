@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-zatu-atu2-signlist",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Green & Nissen《乌鲁克古朴文献符号表》（ZATU / ATU 2，1987）是乌鲁克古朴泥板符号表的正式装置，Damerow 与 Englund 参与。",
+    "en": "Green & Nissen’s Zeichenliste der archaischen Texte aus Uruk (ZATU / ATU 2, 1987), with Damerow and Englund, is the primary sign-list apparatus for archaic Uruk texts."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "object_ids": [
+    "asm-uruk-zatu-signlist"
+  ],
+  "sources": [
+    "src-mesopotamia-green-nissen-zatu-1987"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

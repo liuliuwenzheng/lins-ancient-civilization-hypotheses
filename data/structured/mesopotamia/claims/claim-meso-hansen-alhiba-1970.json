@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-hansen-alhiba-1970",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hansen 1970《Artibus Asiae》32(4) 是大都会艺术博物馆 / 纽约大学美术学院 Wolfe 远征在 Tell al-Hiba（拉格什本城）1968–1969 首季的初步报告。",
+    "en": "Hansen 1970 in Artibus Asiae 32(4) is the preliminary report of the first (1968–1969) season of the Met/NYU Wolfe Expedition at Tell al-Hiba (Lagash city proper)."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-al-hiba-lagash"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-alhiba-hansen-1968-69"
+  ],
+  "sources": [
+    "src-mesopotamia-hansen-alhiba-1970"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

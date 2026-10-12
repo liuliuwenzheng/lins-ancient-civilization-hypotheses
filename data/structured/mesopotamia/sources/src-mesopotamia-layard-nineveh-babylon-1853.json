@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-layard-nineveh-babylon-1853",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Layard, Austen Henry. 1853. Discoveries in the Ruins of Nineveh and Babylon; with Travels in Armenia, Kurdistan and the Desert: Being the Result of a Second Expedition Undertaken for the Trustees of the British Museum. London: John Murray.",
+  "url": "https://archive.org/details/discoveriesinrui00laya",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Historical primary account of Layard’s second British Museum expedition to Nineveh and Babylon-area sites. Digitized on Internet Archive (accessed 2026-10-12). Pre-modern recording standards; use as research-history / find-context evidence, not as a modern stratigraphic report.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-layard-nineveh-babylon-1853.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

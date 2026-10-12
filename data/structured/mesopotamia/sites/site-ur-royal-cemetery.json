@@ -1,0 +1,31 @@
+{
+  "id": "site-ur-royal-cemetery",
+  "entity": "site",
+  "names": {
+    "zh": "乌尔王陵区（皇家墓地）",
+    "en": "Ur Royal Cemetery",
+    "native": null
+  },
+  "kind_note": "Cemetery locus within Ur; Woolley UE II (treated as site-level archive unit)",
+  "region": "Southern Mesopotamia (Iraq) — within Ur",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "乌尔皇家墓地（PG 等）；Woolley《乌尔发掘》II（1934）为正式报告。作为乌尔城内可检索档案单元登记，不另编造墓号。",
+    "en": "Ur Royal Cemetery (PG series etc.); Woolley UE II (1934) is the primary report. Registered as a queryable archive unit within Ur; no invented grave numbers."
+  },
+  "sources": [
+    "src-mesopotamia-woolley-ur-ii-1934",
+    "src-mesopotamia-woolley-ur-iv-1955"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3; coordinates omitted (no invented coords)."
+  }
+}

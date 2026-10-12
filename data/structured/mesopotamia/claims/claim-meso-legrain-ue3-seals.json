@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-legrain-ue3-seals",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Legrain《乌尔发掘》III（1936）正式公布乌尔古朴印章印痕。",
+    "en": "Legrain’s Ur Excavations III (1936) is the primary publication of archaic seal-impressions from Ur."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-ur"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-ur-archaic-seal-impressions-ue3"
+  ],
+  "sources": [
+    "src-mesopotamia-legrain-ue-iii-1936"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

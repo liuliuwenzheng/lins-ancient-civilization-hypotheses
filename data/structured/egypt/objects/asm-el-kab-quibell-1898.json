@@ -1,0 +1,39 @@
+{
+  "id": "asm-el-kab-quibell-1898",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "埃尔卡布组合（Quibell 1898）",
+    "en": "El Kab assemblage (Quibell 1898)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-el-kab"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Quibell ERA 报告所公布的埃尔卡布发掘材料（组合级）。",
+    "en": "El Kab excavation materials as published in Quibell’s ERA report (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-quibell-el-kab-1898"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/quibell1898",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

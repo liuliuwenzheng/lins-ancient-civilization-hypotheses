@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-emery-great-tombs-ii-1954",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Emery, Walter B. 1954. Great Tombs of the First Dynasty. II. Excavations at Saqqara. Egypt Exploration Society Memoir 46. London: Egypt Exploration Society.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary EES memoir continuing the Saqqara First Dynasty great-tomb series (after vol. I; before vol. III already registered). Bibliographic details verified via library catalogs (accessed 2026-10-12); no stable open PDF claimed here.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-emery-great-tombs-ii-1954.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

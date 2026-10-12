@@ -1,0 +1,33 @@
+{
+  "id": "claim-egypt-uj-earliest-writing",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "乌姆卡阿布 U-j 骨签/墨书构成“埃及最早文字”或可与两河原始文字并列为世界最早书写——此为争议性解读，本条不升为定论。",
+    "en": "That Umm el-Qaab U-j bone labels/ink inscriptions constitute “Egypt’s earliest writing” or co-equal world’s earliest writing with Mesopotamian proto-writing is a contested reading; not elevated to fact here."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "period_ids": [
+    "period-egypt-naqada"
+  ],
+  "object_ids": [
+    "asm-umm-el-qaab-uj-dreyer"
+  ],
+  "sources": [
+    "src-egypt-dreyer-umm-el-qaab-i-1998"
+  ],
+  "disclaimer": "Hypothesis: Dreyer 1998 publishes U-j and early writing evidence as finds; comparative “earliest writing” rankings and full linguistic decipherment claims remain debated. Keep in hypothesis column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

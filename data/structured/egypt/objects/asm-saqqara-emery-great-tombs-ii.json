@@ -1,0 +1,41 @@
+{
+  "id": "asm-saqqara-emery-great-tombs-ii",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "萨卡拉第一王朝大墓 II 组合（Emery 1954）",
+    "en": "Saqqara First Dynasty great tombs II assemblage (Emery 1954)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "summary": {
+    "zh": "EES Memoir 46 延续公布的萨卡拉第一王朝大墓材料（组合级）。",
+    "en": "Continued First Dynasty great-tomb materials at Saqqara as published in EES Memoir 46 (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-emery-great-tombs-ii-1954"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata only; no open PDF claimed."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "site-bet-khallaf",
+  "entity": "site",
+  "names": {
+    "zh": "贝特哈拉夫",
+    "en": "Bet Khallaf (Bêt Khallâf)",
+    "native": null
+  },
+  "kind_note": "Early Dynastic elite mastaba cemetery; Garstang ERA",
+  "region": "Upper Egypt — near Abydos",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "早王朝精英马斯塔巴墓地；Garstang 1903 与 Mahasna 同卷公布。",
+    "en": "Early Dynastic elite mastaba cemetery; published with Mahasna in Garstang 1903."
+  },
+  "sources": [
+    "src-egypt-garstang-mahasna-bet-khallaf-1903"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site for density pass 3; no invented coordinates."
+  }
+}

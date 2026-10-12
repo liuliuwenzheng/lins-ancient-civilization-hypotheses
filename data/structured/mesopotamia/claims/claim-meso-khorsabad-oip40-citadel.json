@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-khorsabad-oip40-citadel",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Loud & Altman《霍尔萨巴德》II（OIP 40，1938）公布杜尔-沙鲁金卫城与城区发掘。",
+    "en": "Loud & Altman’s Khorsabad Part 2 (OIP 40, 1938) publishes the citadel and town of Dur-Sharrukin."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-khorsabad"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-khorsabad-citadel-oip40"
+  ],
+  "sources": [
+    "src-mesopotamia-loud-altman-khorsabad-oip40-1938"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3."
+  }
+}

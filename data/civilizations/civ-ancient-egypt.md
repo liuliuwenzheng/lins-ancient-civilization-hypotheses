@@ -107,6 +107,12 @@ Naqada is often subdivided (I / II / III, with “Dynasty 0” debates); follow 
 - **阿布西尔 / Abusir** — Borchardt 1913 萨胡拉祭庙图版卷 [`src-egypt-borchardt-sahure-plates-1913`]。
 - **法尔哈丘 / Tell el-Farkha** — 《Tell el-Farkha I》(2012) 波兰队 1998–2011 [`src-egypt-chlodnicki-farkha-i-2012`]。
 - **马阿迪 / Maadi** — Rizkana & Seeher 四卷 DAI（1987–1990）[`src-egypt-rizkana-seeher-maadi-dai`]。
+- **纳加埃德戴尔 / Naga-ed-Dêr** — Reisner 1908 Part I 早王朝墓地 [`src-egypt-reisner-naga-ed-der-i-1908`]。
+- **埃尔卡布 / El Kab** — Quibell 1898 ERA [`src-egypt-quibell-el-kab-1898`]。
+- **马哈斯纳 / Mahasna**、**贝特哈拉夫 / Bet Khallaf** — Garstang 1903 [`src-egypt-garstang-mahasna-bet-khallaf-1903`]。
+- **德尔拜赫里 / Deir el-Bahari** — Naville《神庙》I（1895）[`src-egypt-naville-deir-el-bahari-i-1895`]。
+- **卡洪 / Kahun**、**伊拉洪 / Illahun** — Petrie 1891 [`src-egypt-petrie-illahun-kahun-gurob-1891`]。
+
 
 - **Hierakonpolis (Kom el-Ahmar)** — Quibell/Green Main Deposit; Adams 2000 HK6 elite cemetery [`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-quibell-green-hierakonpolis-1902`][`src-egypt-adams-hk6-2000`][`src-egypt-wilkinson-early-dynastic-1999`].
 - **Abydos (Umm el-Qaab and related)** — Petrie *Royal Tombs*; Petrie *Abydos* I (1902); Randall-MacIver *El Amrah and Abydos* [`src-egypt-petrie-royal-tombs-1900`][`src-egypt-petrie-abydos-i-1902`][`src-egypt-randall-maciver-el-amrah-1902`][`src-egypt-wilkinson-early-dynastic-1999`].
@@ -189,9 +195,13 @@ Modern research pillars include Petrie’s Abydos royal-tomb excavations and EEF
 
 Second density pass (2026-10-11 / D-2026-10-11-28) also registers Badari/Hemamieh; Qau; Gerzeh; Diospolis Parva; Armant; Mostagedda; Dahshur de Morgan; Abusir Sahure plates; Tell el-Farkha I; Maadi Rizkana & Seeher.
 
+第三轮密度加深（2026-10-12 / D-2026-10-12-1）另登记：Petrie Abydos II；Reisner Naga-ed-Dêr I；Emery Great Tombs II / Archaic Egypt；Dreyer Umm el-Qaab I；Quibell El Kab；Garstang Mahasna & Bet Khallaf；Petrie Gizeh 1883；Junker Gîza I；Naville Deir el-Bahari I；Petrie Illahun/Kahun/Gurob 1891。U-j「最早文字」争议留假说栏。
+
+Third density pass (2026-10-12 / D-2026-10-12-1) also registers Petrie Abydos II; Reisner Naga-ed-Dêr I; Emery Great Tombs II / Archaic Egypt; Dreyer Umm el-Qaab I; Quibell El Kab; Garstang Mahasna & Bet Khallaf; Petrie Gizeh 1883; Junker Gîza I; Naville Deir el-Bahari I; Petrie Illahun/Kahun/Gurob 1891. U-j “earliest writing” ranking stays a hypothesis.
+
 ## Sources
 
-- `src-egypt-adams-hk6-2000` — excavation-report; Adams, Barbara. 2000. Excavations in the Locality 6 Cemetery at Hierakonpolis 1979–1985. BAR International Series 903. Oxford: Archaeopress. (tier P)
+- `src-egypt-adams-hk6-2000` — excavation-report; Adams, Barbara. 2000. Excavations in the Locality 6 Cemetery at Hierakonpolis 1979\u20131985. BAR International Series 903. Oxford: Archa... (tier P)
 - `src-egypt-allen-middle-egyptian-2014` — monograph; Allen, James P. 2014. Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs. 3rd ed. Cambridge: Cambridge Universit... (tier S)
 - `src-egypt-bard-archaeology-2015` — monograph; Bard, Kathryn A. 2015. An Introduction to the Archaeology of Ancient Egypt. 2nd ed. Chichester: Wiley-Blackwell. ISBN 978-0-470-67336-2 (... (tier S)
 - `src-egypt-borchardt-sahure-plates-1913` — excavation-report; Borchardt, Ludwig. 1913. Das Grabdenkmal des Königs S’aḥu-Re. Band II: Die Wandbilder — Abbildungsblätter. Leipzig: J. C. Hinrichs (Deuts... (tier P)
@@ -201,49 +211,42 @@ Second density pass (2026-10-11 / D-2026-10-11-28) also registers Badari/Hemamie
 - `src-egypt-butzer-hydraulic-1976` — monograph; Butzer, Karl W. 1976. Early Hydraulic Civilization in Egypt: A Study in Cultural Ecology. Chicago; London: University of Chicago Press. I... (tier S)
 - `src-egypt-chlodnicki-farkha-i-2012` — excavation-report; Chłodnicki, Marek, Krzysztof M. Ciałowicz, and Agnieszka Mączyńska, eds. 2012. Tell el-Farkha I: Excavations 1998–2011. Poznań–Kraków: Po... (tier P)
 - `src-egypt-de-morgan-dahchour-1895` — excavation-report; Morgan, Jacques de. 1895. Fouilles à Dahchour: Mars–Juin 1894. Vienna: Adolphe Holzhausen. (tier P)
+- `src-egypt-dreyer-umm-el-qaab-i-1998` — excavation-report; Dreyer, Günter. 1998. Umm el-Qaab I: Das prädynastische Königsgrab U-j und seine frühen Schriftzeugnisse. Archäologische Veröffentlichung... (tier P)
 - `src-egypt-edwards-pyramids-1993` — monograph; Edwards, I. E. S. 1993. The Pyramids of Egypt. Revised edition. London: Penguin Books (Penguin Archaeology). ISBN 0-14-013634-7 / 978-0-1... (tier S)
+- `src-egypt-emery-archaic-egypt-1961` — monograph; Emery, W. B. 1961. Archaic Egypt. Harmondsworth: Penguin Books. ISBN 0-14-020462-8. (tier S)
+- `src-egypt-emery-great-tombs-ii-1954` — excavation-report; Emery, Walter B. 1954. Great Tombs of the First Dynasty. II. Excavations at Saqqara. Egypt Exploration Society Memoir 46. London: Egypt E... (tier P)
 - `src-egypt-emery-great-tombs-iii-1958` — excavation-report; Emery, Walter B. 1958. Great Tombs of the First Dynasty III. Excavations at Saqqara. Egypt Exploration Society Memoir 47. London: Egypt E... (tier P)
 - `src-egypt-firth-quibell-step-pyramid-1935` — excavation-report; Firth, C. M., and J. E. Quibell, with plans by J.-P. Lauer. 1935. Excavations at Saqqara: The Step Pyramid. 2 vols. (I Text; II Plates). ... (tier P)
+- `src-egypt-garstang-mahasna-bet-khallaf-1903` — excavation-report; Garstang, John, with a chapter by Kurt Sethe. 1903. Mahâsna and Bêt Khallâf. Egyptian Research Account, seventh year, 1901. London: Berna... (tier P)
 - `src-egypt-hoffman-before-pharaohs-1979` — monograph; Hoffman, Michael A. 1979. Egypt Before the Pharaohs: The Prehistoric Foundations of Egyptian Civilization. New York: Alfred A. Knopf. ISB... (tier S)
-- `src-egypt-kaiser-elephantine-mdaik26-1970` — excavation-report; Kaiser, Werner; Gerhard Haeny; Peter Grossmann; Horst Jaritz; et al. 1970. “Stadt und Tempel von Elephantine. Erster Grabungsbericht.” Mi... (tier P)
+- `src-egypt-junker-giza-i-1929` — excavation-report; Junker, Hermann. 1929. Gîza I: Die Mastabas der IV. Dynastie auf dem Westfriedhof. Bericht über die von der Akademie der Wissenschaften i... (tier P)
+- `src-egypt-kaiser-elephantine-mdaik26-1970` — excavation-report; Kaiser, Werner; Gerhard Haeny; Peter Grossmann; Horst Jaritz; et al. 1970. \u201cStadt und Tempel von Elephantine. Erster Grabungsbericht... (tier P)
 - `src-egypt-kemp-anatomy-2006` — monograph; Kemp, Barry J. 2006. Ancient Egypt: Anatomy of a Civilization. 2nd ed. London; New York: Routledge. ISBN 978-0-415-23549-5 (hardback); 97... (tier S)
 - `src-egypt-lehner-complete-pyramids-1997` — monograph; Lehner, Mark. 1997. The Complete Pyramids. London; New York: Thames and Hudson. ISBN 0-500-05084-8 / 978-0-500-05084-2. Paperback reprint... (tier S)
 - `src-egypt-midant-reynes-prehistory-2000` — monograph; Midant-Reynes, Béatrix. 2000. The Prehistory of Egypt: From the First Egyptians to the First Pharaohs. Translated by Ian Shaw. Oxford; Ma... (tier S)
 - `src-egypt-mond-myers-armant-1937` — excavation-report; Mond, Robert, and Oliver H. Myers. 1937. Cemeteries of Armant I. 2 vols. (Text; Plates). Egypt Exploration Society Memoir 42. London: Egy... (tier P)
+- `src-egypt-naville-deir-el-bahari-i-1895` — excavation-report; Naville, Édouard. 1895. The Temple of Deir el Bahari. Part I: The North-Western End of the Upper Platform. Plates I–XXIV. Memoir of the E... (tier P)
 - `src-egypt-petrie-abydos-i-1902` — excavation-report; Petrie, W. M. Flinders, with a chapter by A. E. Weigall. 1902. Abydos. Part I. 1902. Memoir of the Egypt Exploration Fund 22. London: Egy... (tier P)
+- `src-egypt-petrie-abydos-ii-1903` — excavation-report; Petrie, W. M. Flinders, with chapters by F. Ll. Griffith and others. 1903. Abydos. Part II. 1903. Memoir of the Egypt Exploration Fund 24... (tier P)
 - `src-egypt-petrie-diospolis-parva-1901` — excavation-report; Petrie, W. M. Flinders, with a chapter by Arthur C. Mace. 1901. Diospolis Parva: The Cemeteries of Abadiyeh and Hu, 1898–9. Egyptian Rese... (tier P)
 - `src-egypt-petrie-gerzeh-1912` — excavation-report; Petrie, W. M. Flinders, G. A. Wainwright, and E. Mackay. 1912. The Labyrinth, Gerzeh and Mazghuneh. British School of Archaeology in Egyp... (tier P)
+- `src-egypt-petrie-gizeh-1883` — excavation-report; Petrie, W. M. Flinders. 1883. The Pyramids and Temples of Gizeh. London: Field & Tuer; New York: Scribner & Welford. (tier P)
+- `src-egypt-petrie-illahun-kahun-gurob-1891` — excavation-report; Petrie, W. M. Flinders. 1891. Illahun, Kahun and Gurob: 1889–1890. London: David Nutt. (tier P)
 - `src-egypt-petrie-medum-1892` — excavation-report; Petrie, W. M. Flinders. 1892. Medum. London: David Nutt. (tier P)
 - `src-egypt-petrie-quibell-naqada-ballas-1896` — excavation-report; Petrie, W. M. Flinders, and J. E. Quibell, with a chapter by F. C. J. Spurrell. 1896. Naqada and Ballas. 1895. London: Bernard Quaritch (... (tier P)
 - `src-egypt-petrie-royal-tombs-1900` — excavation-report; Petrie, W. M. Flinders. 1900–1901. The Royal Tombs of the First Dynasty / The Royal Tombs of the Earliest Dynasties. Egypt Exploration Fu... (tier P)
 - `src-egypt-petrie-tarkhan-i-1913` — excavation-report; Petrie, W. M. Flinders, G. A. Wainwright, and A. H. Gardiner. 1913. Tarkhan I and Memphis V. British School of Archaeology in Egypt / Egy... (tier P)
 - `src-egypt-petrie-tarkhan-ii-1914` — excavation-report; Petrie, W. M. Flinders. 1914. Tarkhan II. British School of Archaeology in Egypt / Egyptian Research Account 26. London: School of Archae... (tier P)
+- `src-egypt-quibell-el-kab-1898` — excavation-report; Quibell, J. E. 1898. El Kab. Egyptian Research Account, 1897 (Publications of the Egyptian Research Account, no. 3). London: Bernard Quar... (tier P)
 - `src-egypt-quibell-green-hierakonpolis-1902` — excavation-report; Quibell, J. E., and F. W. Green. 1902. Hierakonpolis. Part II. Egyptian Research Account, Extra Volume. London: Bernard Quaritch (for the... (tier P)
 - `src-egypt-quibell-hierakonpolis-1900` — excavation-report; Quibell, J. E. 1900. Hierakonpolis. Part I. Egyptian Research Account, Fifth Memoir. London: Bernard Quaritch (for the Egyptian Research ... (tier P)
-- `src-egypt-randall-maciver-el-amrah-1902` — excavation-report; Randall-MacIver, David, and A. C. Mace, with a chapter by F. Ll. Griffith. 1902. El Amrah and Abydos, 1899–1901. Special Extra Publicatio... (tier P)
+- `src-egypt-randall-maciver-el-amrah-1902` — excavation-report; Randall-MacIver, David, and A. C. Mace, with a chapter by F. Ll. Griffith. 1902. El Amrah and Abydos, 1899\u20131901. Special Extra Publi... (tier P)
 - `src-egypt-reisner-mycerinus-1931` — excavation-report; Reisner, George A. 1931. Mycerinus: The Temples of the Third Pyramid at Giza. Cambridge, MA: Harvard University Press. (First final repor... (tier P)
+- `src-egypt-reisner-naga-ed-der-i-1908` — excavation-report; Reisner, George A. 1908. The Early Dynastic Cemeteries of Naga-ed-Dêr. Part I. University of California Publications, Egyptian Archaeolog... (tier P)
 - `src-egypt-rizkana-seeher-maadi-dai` — excavation-report; Rizkana, Ibrahim, and Jürgen Seeher. 1987–1990. Maadi: Excavations at the Predynastic Site of Maadi and Its Cemeteries Conducted by Musta... (tier P)
 - `src-egypt-saad-helwan-1969` — excavation-report; Saad, Zaki Yusef. 1969. The Excavations at Helwan: Art and Civilization in the First and Second Egyptian Dynasties. Edited and with a for... (tier P)
 - `src-egypt-shaw-oxford-history-2000` — monograph; Shaw, Ian, ed. 2000. The Oxford History of Ancient Egypt. Oxford; New York: Oxford University Press. First hardback 2000; paperback/new e... (tier S)
 - `src-egypt-trigger-social-history-1983` — monograph; Trigger, B. G., B. J. Kemp, D. O’Connor, and A. B. Lloyd. 1983. Ancient Egypt: A Social History. Cambridge: Cambridge University Press. I... (tier S)
-- `src-egypt-von-der-way-buto-i-1997` — excavation-report; von der Way, Thomas, with contributions by J. Boessneck, A. von den Driesch, W. Pahl, et al. 1997. Tell el-Faraʻîn – Buto I: Ergebnisse z... (tier P)
+- `src-egypt-von-der-way-buto-i-1997` — excavation-report; von der Way, Thomas, with contributions by J. Boessneck, A. von den Driesch, W. Pahl, et al. 1997. Tell el-Fara\u02bb\u00een \u2013 Buto ... (tier P)
 - `src-egypt-wengrow-early-egypt-2006` — monograph; Wengrow, David. 2006. The Archaeology of Early Egypt: Social Transformations in North-East Africa, 10,000 to 2650 BC. Cambridge: Cambridg... (tier S)
 - `src-egypt-wilkinson-early-dynastic-1999` — monograph; Wilkinson, Toby A. H. 1999. Early Dynastic Egypt. London; New York: Routledge. ISBN 0-415-18633-1 / 978-0-415-18633-9 (hardback). DOI 10.... (tier S)
-
-
-## Related civilizations
-
-- `civ-mesopotamia` — West Asian / Tigris–Euphrates macro-region; chronological overlap in late 4th–3rd millennia BCE; **contact claims need dedicated sources**
-- `civ-aegean` — East Mediterranean Bronze Age; later/looser chronological overlap; cross-link only
-- `civ-indus-valley` — South Asian macro-region; 3rd-millennium chronological overlap; **trade/contact claims need dedicated sources**
-
-## Notes
-
-- **State formation / “unification”:** Popular accounts sometimes treat the Narmer Palette as proof of a single military unification. This library does **not** record that as settled fact. Prefer Bard’s “emergence of the Egyptian state” framing in Shaw, Wilkinson’s Early Dynastic synthesis, and Wengrow’s process language: a longer formation process, with iconography as evidence to be interpreted [`src-egypt-shaw-oxford-history-2000`][`src-egypt-wilkinson-early-dynastic-1999`][`src-egypt-wengrow-early-egypt-2006`][`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-quibell-green-hierakonpolis-1902`].
-- Absolute chronology: Petrie 1900–1901 and Quibell 1900/1902 dates/labels may differ from current consensus; always cross-check with modern secondary syntheses [`src-egypt-petrie-royal-tombs-1900`][`src-egypt-quibell-hierakonpolis-1900`][`src-egypt-shaw-oxford-history-2000`].
-- Old Kingdom end-date in Shaw TOC appears as c. 2686–2160 BC (Malek); some listings use c. 2125 BC — calendar-convention difference, not resolved here [`src-egypt-shaw-oxford-history-2000`].
-- This entry does **not** assert a single “first civilization” ranking versus Mesopotamia, the Indus, or others.
-- Later Pharaonic periods (Middle Kingdom onward) appear in Shaw/Bard surveys but are outside this entry’s Predynastic–Old Kingdom depth focus.
-- Official Egyptian Museum Cairo web catalog for the Narmer Palette was not relied on as a sole object authority in this pass; object-level museum claims should use stable catalog IDs when registered.
-- No invented page numbers; quantitative flood, workforce, or acreage statistics require table-level follow-up.
-- Archive density pass D-2026-10-11-22: structured pack expanded with verified site-level P reports; Memphis pinpoint coordinates remain hypothesis/orientation-only; Ballas Predynastic cemeteries not conflated with later Deir el-Ballas palace.

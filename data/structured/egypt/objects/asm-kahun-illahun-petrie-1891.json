@@ -1,0 +1,40 @@
+{
+  "id": "asm-kahun-illahun-petrie-1891",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "伊拉洪—卡洪—古罗布组合（Petrie 1891）",
+    "en": "Illahun–Kahun–Gurob assemblage (Petrie 1891)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-kahun",
+    "site-illahun"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Petrie 1891 公布的伊拉洪金字塔区、卡洪工人镇与古罗布材料（组合级）。",
+    "en": "Illahun pyramid area, Kahun town, and Gurob materials as published in Petrie 1891 (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-petrie-illahun-kahun-gurob-1891"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/petrie1891",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

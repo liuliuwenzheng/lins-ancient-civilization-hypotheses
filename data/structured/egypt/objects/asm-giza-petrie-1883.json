@@ -1,0 +1,41 @@
+{
+  "id": "asm-giza-petrie-1883",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吉萨金字塔与神庙测量组合（Petrie 1883）",
+    "en": "Giza pyramids and temples survey assemblage (Petrie 1883)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Petrie 1883 对吉萨金字塔与神庙的早期科学测量与记述（组合级；方法属历史性）。",
+    "en": "Early scientific measurements and descriptions of Giza pyramids and temples as published by Petrie 1883 (assemblage-level; historical methods)."
+  },
+  "sources": [
+    "src-egypt-petrie-gizeh-1883"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/cu31924012038927",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

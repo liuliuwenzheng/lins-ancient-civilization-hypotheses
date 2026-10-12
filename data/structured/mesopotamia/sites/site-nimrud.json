@@ -1,0 +1,31 @@
+{
+  "id": "site-nimrud",
+  "entity": "site",
+  "names": {
+    "zh": "尼姆鲁德（卡尔胡）",
+    "en": "Nimrud (Kalhu)",
+    "native": "Kalḫu"
+  },
+  "kind_note": "Assyrian imperial city; BSAI excavations (Mallowan)",
+  "region": "Northern Mesopotamia (Iraq) — Assyria",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "亚述帝国要城卡尔胡；Mallowan《尼姆鲁德及其遗存》（1966）为 BSAI 正式综合，Oates & Oates 2001 为强二手更新。",
+    "en": "Assyrian imperial city Kalhu; Mallowan Nimrud and Its Remains (1966) is the BSAI primary synthesis; Oates & Oates 2001 is a strong secondary update."
+  },
+  "sources": [
+    "src-mesopotamia-mallowan-nimrud-1966",
+    "src-mesopotamia-oates-nimrud-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3; coordinates omitted (no invented coords)."
+  }
+}

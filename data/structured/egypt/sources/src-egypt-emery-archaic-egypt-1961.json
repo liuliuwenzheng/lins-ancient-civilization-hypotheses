@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-emery-archaic-egypt-1961",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Emery, W. B. 1961. Archaic Egypt. Harmondsworth: Penguin Books. ISBN 0-14-020462-8.",
+  "url": null,
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Strong secondary synthesis of Early Dynastic / Archaic Egypt by the Saqqara excavator. Bibliographic details verified (accessed 2026-10-12). Absolute dates follow mid-20th-century conventions; cross-check with Wilkinson 1999 / modern chronologies.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-emery-archaic-egypt-1961.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

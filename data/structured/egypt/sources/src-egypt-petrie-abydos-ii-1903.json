@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-petrie-abydos-ii-1903",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Petrie, W. M. Flinders, with chapters by F. Ll. Griffith and others. 1903. Abydos. Part II. 1903. Memoir of the Egypt Exploration Fund 24. London: Egypt Exploration Fund; Kegan Paul, Trench, Trübner & Co.",
+  "url": "https://digi.ub.uni-heidelberg.de/diglit/petrie1903bd2",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary EEF memoir continuing Abydos fieldwork beyond Part I (1902). Digitized via Heidelberg Diglit (accessed 2026-10-12).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-abydos-ii-1903.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

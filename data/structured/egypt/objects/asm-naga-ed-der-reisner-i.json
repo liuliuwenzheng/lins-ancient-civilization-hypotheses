@@ -1,0 +1,41 @@
+{
+  "id": "asm-naga-ed-der-reisner-i",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳加埃德戴尔早王朝墓地组合（Reisner 1908）",
+    "en": "Naga-ed-Dêr Early Dynastic cemetery assemblage (Reisner 1908)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-naga-ed-der"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Reisner Part I 公布的早王朝墓地建筑与随葬组合（组合级；不编造墓号）。",
+    "en": "Early Dynastic cemetery architecture and burial assemblages as published in Reisner Part I (assemblage-level; no invented tomb numbers)."
+  },
+  "sources": [
+    "src-egypt-reisner-naga-ed-der-i-1908"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/naga_ed_der1908bd1",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

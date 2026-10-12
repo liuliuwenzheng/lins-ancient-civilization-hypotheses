@@ -1,0 +1,39 @@
+{
+  "id": "asm-babylon-koldewey-dog",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "巴比伦 DOG 发掘综合组合（Koldewey 1914）",
+    "en": "Babylon DOG excavation synthesis assemblage (Koldewey 1914)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-babylon"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Koldewey 英译本所综合的城墙、伊什塔尔门、宫殿与神庙等发现类别（组合级；历史性记录）。",
+    "en": "City walls, Ishtar Gate, palace, and temple find classes as synthesized in Koldewey’s English edition (assemblage-level; historical recording)."
+  },
+  "sources": [
+    "src-mesopotamia-koldewey-babylon-1914"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.gutenberg.org/ebooks/71398",
+    "notes": "Metadata class only; no forged images of the Ishtar Gate bricks."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3."
+  }
+}

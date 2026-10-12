@@ -1,0 +1,23 @@
+---
+id: src-mesopotamia-woolley-ur-ii-1934
+type: excavation-report
+citation: "Woolley, C. Leonard, with chapters by Leon Legrain, E. Burrows, Arthur Keith, and Harold J. Plenderleith. 1934. Ur Excavations. Volume II: The Royal Cemetery. A Report on the Predynastic and Sargonid Graves Excavated between 1926 and 1931. 2 vols. (Text; Plates). Publications of the Joint Expedition of the British Museum and of the Museum of the University of Pennsylvania to Mesopotamia. London; Philadelphia: Published for the Trustees of the two Museums (with aid of a grant from the Carnegie Corporation)."
+url: "https://commons.library.stonybrook.edu/amar/508/"
+access_date: "2026-10-12"
+reliability_tier: P
+notes: "Primary Joint Expedition report on the Royal Cemetery at Ur (PG series and related graves as published). Digitized text via Stony Brook AMAR (accessed 2026-10-12). Absolute dates and social interpretations refined by later scholarship; use for find contexts as published in 1934. No invented grave inventory numbers in this pack."
+---
+
+# Source: `src-mesopotamia-woolley-ur-ii-1934`
+
+| Field | Value |
+|-------|--------|
+| Type | excavation-report |
+| Tier | P |
+| Citation | Woolley, C. Leonard, with chapters by Leon Legrain, E. Burrows, Arthur Keith, and Harold J. Plenderleith. 1934. Ur Excavations. Volume II: The Royal Cemetery. A Report on the Predynastic and Sargonid Graves Excavated between 1926 and 1931. 2 vols. (Text; Plates). Publications of the Joint Expedition of the British Museum and of the Museum of the University of Pennsylvania to Mesopotamia. London; Philadelphia: Published for the Trustees of the two Museums (with aid of a grant from the Carnegie Corporation). |
+| URL | https://commons.library.stonybrook.edu/amar/508/ |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+Primary Joint Expedition report on the Royal Cemetery at Ur (PG series and related graves as published). Digitized text via Stony Brook AMAR (accessed 2026-10-12). Absolute dates and social interpretations refined by later scholarship; use for find contexts as published in 1934. No invented grave inventory numbers in this pack.

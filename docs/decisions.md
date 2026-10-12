@@ -363,3 +363,35 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Taosi=Yao capital, Xingan=Shang vassal capital, Qingguanshan=royal palace, Baodun linear ancestor-state, Theran eruption as sole LM IB cause, single high/low calendar year, Cascajal “oldest writing” without caveat, Arroyo Pesquero as closed excavated assemblage, Mirador “first state,” and full Middle Preclassic divine kingship stay hypotheses. No invented coordinates/catalog numbers/forged images; README counts defer to `export_check`.
 
+
+### D-2026-10-12-1 — Mesopotamia + Egypt third archive density pass
+
+**Decision:** Continue owner priority to deepen archive density. Add a **third** verified density pass for Mesopotamia and Egypt: primary (P) and strong secondary (S) excavation reports / corpora not already registered; expand structured sites, assemblages, and claims; sync Key sites + Sources in `civ-mesopotamia.md` / `civ-ancient-egypt.md`; full-repo `export_check` must pass. Integrity over speed.
+
+**Major new P (and needed S):**
+
+**Mesopotamia:**
+- Woolley *Ur Excavations* II *The Royal Cemetery* (1934); *UE* V *The Ziggurat and Its Surroundings* (1939)
+- Gibson et al. *Excavations at Nippur: Twelfth Season* OIC 23 (1978)
+- Loud *Khorsabad* Part 1 OIP 38 (1936); Loud & Altman *Khorsabad* Part 2 OIP 40 (1938)
+- Green & Nissen ZATU / ATU 2 (1987); Legrain *UE* III archaic seal-impressions (1936)
+- Mallowan *Nimrud and Its Remains* (1966); Oates & Oates *Nimrud* (2001, S)
+- Hansen “Al-Hiba, 1968–1969,” *Artibus Asiae* 32/4 (1970)
+- Koldewey *The Excavations at Babylon* (1914 Eng.); Layard *Discoveries… Nineveh and Babylon* (1853, historical P)
+- Weiss et al. Tell Leilan 1985 season, *AJA* 94/4 (1990); de Genouillac *Fouilles de Telloh* I (1934)
+
+**Egypt:**
+- Petrie *Abydos* Part II (1903); Reisner *Naga-ed-Dêr* Part I (1908)
+- Emery *Great Tombs of the First Dynasty* II (1954); Emery *Archaic Egypt* (1961, S)
+- Dreyer *Umm el-Qaab* I tomb U-j (1998); Quibell *El Kab* (1898)
+- Garstang *Mahâsna and Bêt Khallâf* (1903); Petrie *Pyramids and Temples of Gizeh* (1883)
+- Junker *Gîza* I (1929); Naville *Temple of Deir el Bahari* Part I (1895)
+- Petrie *Illahun, Kahun and Gurob* (1891)
+
+**Structured results (`export_check`):**
+- **mesopotamia:** sources 41→55; sites 25→31; objects 24→37; claims 32→46
+- **egypt:** sources 38→49; sites 24→31; objects 26→36; claims 35→46
+- Other seven packs unchanged; citation gate green.
+
+**Notes:** Tell Leilan climate-collapse and U-j “earliest writing” rankings stay hypotheses; Layard/Koldewey are historical P (not modern stratigraphy); no invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
+

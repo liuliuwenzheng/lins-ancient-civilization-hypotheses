@@ -28,12 +28,22 @@
     "src-mesopotamia-finkbeiner-uruk-auwe4-1991",
     "src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940",
     "src-mesopotamia-frankfort-oic13-1932",
+    "src-mesopotamia-genouillac-telloh-i-1934",
+    "src-mesopotamia-gibson-nippur-oic23-1978",
+    "src-mesopotamia-green-nissen-zatu-1987",
     "src-mesopotamia-hall-woolley-alubaid-1927",
+    "src-mesopotamia-hansen-alhiba-1970",
     "src-mesopotamia-hrouda-isin-i-1977",
+    "src-mesopotamia-koldewey-babylon-1914",
+    "src-mesopotamia-layard-nineveh-babylon-1853",
+    "src-mesopotamia-legrain-ue-iii-1936",
     "src-mesopotamia-liverani-uruk-2006",
     "src-mesopotamia-lloyd-safar-uqair-1943",
+    "src-mesopotamia-loud-altman-khorsabad-oip40-1938",
+    "src-mesopotamia-loud-khorsabad-oip38-1936",
     "src-mesopotamia-mackay-kish-a-cemetery-1925",
     "src-mesopotamia-mallowan-brak-1947",
+    "src-mesopotamia-mallowan-nimrud-1966",
     "src-mesopotamia-martin-fara-1988",
     "src-mesopotamia-matthews-jemdet-nasr-2002",
     "src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978",
@@ -42,6 +52,7 @@
     "src-mesopotamia-nissen-1988",
     "src-mesopotamia-nissen-damerow-englund-1993",
     "src-mesopotamia-oates-choga-mami-1969",
+    "src-mesopotamia-oates-nimrud-2001",
     "src-mesopotamia-parrot-mari-ishtar-1956",
     "src-mesopotamia-parrot-tello-1948",
     "src-mesopotamia-pollock-1999",
@@ -54,8 +65,11 @@
     "src-mesopotamia-strommenger-habuba-kabira-1980",
     "src-mesopotamia-tobler-gawra-ii-1950",
     "src-mesopotamia-van-de-mieroop-2015",
+    "src-mesopotamia-weiss-leilan-aja-1990",
     "src-mesopotamia-wilson-adab-oip138-2012",
-    "src-mesopotamia-woolley-ur-iv-1955"
+    "src-mesopotamia-woolley-ur-ii-1934",
+    "src-mesopotamia-woolley-ur-iv-1955",
+    "src-mesopotamia-woolley-ur-v-1939"
   ],
   "site_ids": [
     "site-abu-salabikh",
@@ -167,7 +181,7 @@
       "data/civilizations/civ-mesopotamia.md",
       "sources/src-mesopotamia-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-21: expanded P/S site reports, sites, assemblages, claims. Link arrays refreshed from pack files. Second density pass 2026-10-11: +Gawra/Uqair/Adab/Agrab/Choga Mami/Assur/Brak/Isin."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-21: expanded P/S site reports, sites, assemblages, claims. Link arrays refreshed from pack files. Second density pass 2026-10-11: +Gawra/Uqair/Adab/Agrab/Choga Mami/Assur/Brak/Isin. Density pass 3 (D-2026-10-12-1)."
   }
 }

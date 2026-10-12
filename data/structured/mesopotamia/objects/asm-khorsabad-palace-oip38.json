@@ -1,0 +1,39 @@
+{
+  "id": "asm-khorsabad-palace-oip38",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "霍尔萨巴德宫殿与城门组合（Loud OIP 38）",
+    "en": "Khorsabad palace and city-gate assemblage (Loud OIP 38)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-khorsabad"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "OIP 38 公布的萨尔贡宫殿、神庙与城门区建筑与浮雕组合（组合级；不编造浮雕馆藏号）。",
+    "en": "Sargon palace, temples, and city-gate architecture and reliefs as published in OIP 38 (assemblage-level; no invented sculpture inventory numbers)."
+  },
+  "sources": [
+    "src-mesopotamia-loud-khorsabad-oip38-1936"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/publications/khorsabad-part-1-excavations-palace-and-city-gate",
+    "notes": "Metadata class only; no forged binaries."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3."
+  }
+}

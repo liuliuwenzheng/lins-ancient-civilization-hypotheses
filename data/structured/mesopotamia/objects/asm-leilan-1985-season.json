@@ -1,0 +1,39 @@
+{
+  "id": "asm-leilan-1985-season",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "莱兰丘 1985 季组合（Weiss et al. 1990）",
+    "en": "Tell Leilan 1985-season assemblage (Weiss et al. 1990)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-leilan"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "AJA 1990 公布的 1985 季建筑、陶瓷与相关出土（组合级）。",
+    "en": "Architecture, ceramics, and related finds from the 1985 season as published in AJA 1990 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-weiss-leilan-aja-1990"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://doi.org/10.2307/505120",
+    "notes": "Metadata class only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3."
+  }
+}

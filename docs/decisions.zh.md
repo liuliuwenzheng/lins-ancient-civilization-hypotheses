@@ -439,3 +439,35 @@
 
 **说明：** 陶寺=尧都、新干=商方国都邑、青关山=王宫、宝墩直线前身国家、锡拉喷发=LM IB 唯一主因、高/低年代单一日历、Cascajal「最早文字」无争议、Arroyo Pesquero 当作层位闭合组合、米拉多尔「首个国家」、中前古典完备神王等一律假说栏。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
 
+
+### D-2026-10-12-1 — 两河 + 埃及第三轮档案密度加深
+
+**决定：** 继续按老大优先级加深档案密度。对两河与埃及做**第三轮**可核验密度加深：登记尚未入库的一手（P）与强二手（S）发掘报告/语料；扩展结构化遗址、组合与主张；同步 `civ-mesopotamia.md` / `civ-ancient-egypt.md` 的关键遗址与来源列表；全仓 `export_check` 必须通过。诚信优于速度。
+
+**本轮主要新 P（及必要 S）：**
+
+**两河：**
+- Woolley《乌尔发掘》II 皇家墓地（1934）；UE V 塔庙及周边（1939）
+- Gibson 等《尼普尔发掘：第十二季》OIC 23（1978）
+- Loud《霍尔萨巴德》I OIP 38（1936）；Loud & Altman《霍尔萨巴德》II OIP 40（1938）
+- Green & Nissen ZATU / ATU 2（1987）；Legrain UE III 古朴印章印痕（1936）
+- Mallowan《尼姆鲁德及其遗存》（1966）；Oates & Oates《尼姆鲁德》（2001，S）
+- Hansen「Al-Hiba, 1968–1969」*Artibus Asiae* 32/4（1970）
+- Koldewey《巴比伦发掘》（1914 英译）；Layard《尼尼微与巴比伦废墟中的发现》（1853，历史性 P）
+- Weiss 等莱兰丘 1985 季 *AJA* 94/4（1990）；de Genouillac《特罗发掘》I（1934）
+
+**埃及：**
+- Petrie《阿拜多斯》II（1903）；Reisner《纳加埃德戴尔》I（1908）
+- Emery《第一王朝大墓》II（1954）；Emery《古朴埃及》（1961，S）
+- Dreyer《Umm el-Qaab》I U-j 墓（1998）；Quibell《El Kab》（1898）
+- Garstang《马哈斯纳与贝特哈拉夫》（1903）；Petrie《吉萨的金字塔与神庙》（1883）
+- Junker《Gîza》I（1929）；Naville《德尔拜赫里神庙》I（1895）
+- Petrie《伊拉洪、卡洪与古罗布》（1891）
+
+**结构化结果（以 `export_check` 为准）：**
+- **mesopotamia：** 来源 41→55；遗址 25→31；器物组合 24→37；主张 32→46
+- **egypt：** 来源 38→49；遗址 24→31；器物组合 26→36；主张 35→46
+- 其余七包不变；出处闸门通过。
+
+**说明：** 莱兰丘气候崩溃与 U-j「最早文字」排序留假说栏；Layard/Koldewey 为历史性 P（非现代地层报告）；不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
+

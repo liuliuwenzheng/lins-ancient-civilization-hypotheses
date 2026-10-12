@@ -1,0 +1,30 @@
+{
+  "id": "site-tell-leilan",
+  "entity": "site",
+  "names": {
+    "zh": "莱兰丘",
+    "en": "Tell Leilan",
+    "native": null
+  },
+  "kind_note": "Habur plains urban center; Yale-led excavations (Weiss et al.)",
+  "region": "Northern Mesopotamia (Syria) — Habur plains",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "哈布尔平原第三千纪城市中心；Weiss 等 1990《美国考古学杂志》公布 1985 季发掘。气候崩溃模型另作假说。",
+    "en": "Third-millennium Habur-plains urban center; Weiss et al. 1990 AJA publish the 1985 season. Climate-collapse models stay hypotheses unless labeled."
+  },
+  "sources": [
+    "src-mesopotamia-weiss-leilan-aja-1990"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3; coordinates omitted (no invented coords)."
+  }
+}

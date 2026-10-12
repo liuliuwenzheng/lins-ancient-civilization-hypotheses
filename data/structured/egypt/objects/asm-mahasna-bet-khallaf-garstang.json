@@ -1,0 +1,42 @@
+{
+  "id": "asm-mahasna-bet-khallaf-garstang",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "马哈斯纳与贝特哈拉夫组合（Garstang 1903）",
+    "en": "Mahasna and Bet Khallaf assemblage (Garstang 1903)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-mahasna",
+    "site-bet-khallaf"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Garstang 1903 卷所公布的两处墓地/马斯塔巴材料（组合级）。",
+    "en": "Cemetery/mastaba materials from both sites as published in Garstang 1903 (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-garstang-mahasna-bet-khallaf-1903"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/garstang1903",
+    "notes": "Metadata only."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-ancient-egypt.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level; density pass 3."
+  }
+}

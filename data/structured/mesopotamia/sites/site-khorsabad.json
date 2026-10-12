@@ -1,0 +1,31 @@
+{
+  "id": "site-khorsabad",
+  "entity": "site",
+  "names": {
+    "zh": "霍尔萨巴德（杜尔-沙鲁金）",
+    "en": "Khorsabad (Dur-Sharrukin)",
+    "native": "Dūr-Šarrukīn"
+  },
+  "kind_note": "Neo-Assyrian capital founded by Sargon II; OI Iraq Expedition",
+  "region": "Northern Mesopotamia (Iraq) — Assyria",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "萨尔贡二世所建亚述都城杜尔-沙鲁金；东方研究所 OIP 38/40 公布宫殿、城门、卫城与城区发掘。",
+    "en": "Assyrian capital Dur-Sharrukin founded by Sargon II; Oriental Institute OIP 38/40 publish palace, city gate, citadel, and town excavations."
+  },
+  "sources": [
+    "src-mesopotamia-loud-khorsabad-oip38-1936",
+    "src-mesopotamia-loud-altman-khorsabad-oip40-1938"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-mesopotamia.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3; coordinates omitted (no invented coords)."
+  }
+}
