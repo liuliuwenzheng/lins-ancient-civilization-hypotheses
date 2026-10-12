@@ -1,0 +1,30 @@
+{
+  "id": "claim-meso-ur-ue7-ob",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Woolley & Mallowan《乌尔发掘》VII（1976）刊布乌尔古巴比伦时期层位与器物。",
+    "en": "Woolley & Mallowan UE VII (1976) publishes Old Babylonian levels and finds at Ur."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-ur"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-ur-old-babylonian-ue7"
+  ],
+  "sources": [
+    "src-mesopotamia-woolley-ur-vii-1976"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-woolley-ur-vii-1976.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

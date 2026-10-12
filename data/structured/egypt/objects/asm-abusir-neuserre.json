@@ -1,0 +1,40 @@
+{
+  "id": "asm-abusir-neuserre",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿布西尔尼乌塞尔拉祭庙组合",
+    "en": "Abusir Niuserre funerary complex assemblage"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abusir"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Borchardt 1907 报告的尼乌塞尔拉金字塔与祭庙组合。",
+    "en": "Niuserre pyramid and mortuary temple as published in Borchardt 1907."
+  },
+  "sources": [
+    "src-egypt-borchardt-neuserre-1907"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/borchardt1907bd1",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-borchardt-neuserre-1907.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

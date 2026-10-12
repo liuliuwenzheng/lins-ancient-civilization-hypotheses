@@ -1,0 +1,40 @@
+{
+  "id": "asm-dendereh-cemetery-1900",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "丹达拉墓地组合（Petrie 1900）",
+    "en": "Dendereh cemetery assemblage (Petrie 1900)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-dendereh"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Petrie《Dendereh, 1898》所记古王国马斯塔巴与相关埋葬组合。",
+    "en": "Old Kingdom mastabas and related burials as published in Petrie Dendereh, 1898."
+  },
+  "sources": [
+    "src-egypt-petrie-dendereh-1900"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://catalog.hathitrust.org/Record/001647512",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-dendereh-1900.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

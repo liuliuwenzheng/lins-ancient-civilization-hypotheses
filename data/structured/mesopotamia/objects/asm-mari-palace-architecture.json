@@ -1,0 +1,38 @@
+{
+  "id": "asm-mari-palace-architecture",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "马里宫殿建筑组合（Parrot 1958）",
+    "en": "Mari palace architecture assemblage (Parrot 1958)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-mari"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Parrot《马里考古使命》II.1 宫殿建筑卷所记门道、庭院与房间布局（组合级）。",
+    "en": "Palace gateways, courts, and room layout as published in Parrot Mari II.1 Architecture (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-parrot-mari-palais-arch-1958"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://commons.library.stonybrook.edu/amar/232/",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-parrot-mari-palais-arch-1958.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

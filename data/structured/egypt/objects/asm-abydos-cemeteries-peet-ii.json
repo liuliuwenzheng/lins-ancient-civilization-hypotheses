@@ -1,0 +1,41 @@
+{
+  "id": "asm-abydos-cemeteries-peet-ii",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿拜多斯墓地组合（Peet II）",
+    "en": "Abydos cemeteries assemblage (Peet II)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "period_ids": [
+    "period-egypt-early-dynastic",
+    "period-egypt-naqada"
+  ],
+  "summary": {
+    "zh": "Peet《阿拜多斯墓地》II（1914）报告 1911–1912 季墓地组合。",
+    "en": "Cemetery finds of the 1911–1912 seasons as published in Peet, Cemeteries of Abydos II (1914)."
+  },
+  "sources": [
+    "src-egypt-peet-abydos-cemeteries-ii-1914"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://library.si.edu/digital-library/book/cemeteriesabydo2hadd",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-peet-abydos-cemeteries-ii-1914.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

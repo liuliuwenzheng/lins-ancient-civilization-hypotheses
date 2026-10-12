@@ -1,0 +1,32 @@
+{
+  "id": "claim-egypt-jequier-pepi-ii",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Jéquier《佩皮二世陵墓》I（1936）报告萨卡拉南佩皮二世王陵。",
+    "en": "Jéquier, Le monument funéraire de Pepi II I (1936), reports the royal tomb of Pepi II at Saqqara South."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara-pepi-ii"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [
+    "asm-saqqara-pepi-ii"
+  ],
+  "sources": [
+    "src-egypt-jequier-pepi-ii-i-1936"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-jequier-pepi-ii-i-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

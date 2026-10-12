@@ -1,0 +1,32 @@
+{
+  "id": "claim-egypt-fayum-as-nile-state-cradle",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "若将法尤姆新石器直接等同「尼罗河国家唯一摇篮」，会过度简化；《Desert Fayum》记录的是北法尤姆新石器生计与石器组合，不是古王国国家制度专报。",
+    "en": "Equating Fayum Neolithic directly with the sole cradle of the Nile state oversimplifies; The Desert Fayum records northern Fayum Neolithic subsistence and lithics, not Old Kingdom state institutions."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-fayum-kom-w",
+    "site-fayum-kom-k"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-fayum-neolithic-kom-wk"
+  ],
+  "sources": [
+    "src-egypt-caton-thompson-desert-fayum-1934",
+    "src-egypt-wengrow-early-egypt-2006"
+  ],
+  "disclaimer": "Hypothesis: regional Neolithic ≠ automatic state origin narrative; keep Fayum evidence scoped to the 1934 report.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-caton-thompson-desert-fayum-1934.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

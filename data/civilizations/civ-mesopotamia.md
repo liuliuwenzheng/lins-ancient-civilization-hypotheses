@@ -92,7 +92,7 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 - **乌尔 / Ur** — 英—美联合远征；Woolley《乌尔发掘》IV 报告乌尔三朝之前层位与器物 [`src-mesopotamia-woolley-ur-iv-1955`]。
 - **乌贝德丘 / Tell al-Ubaid** — 欧贝德名称来源遗址之一；Hall & Woolley《乌尔发掘》I（1927）报告神庙与墓地 [`src-mesopotamia-hall-woolley-alubaid-1927`]。
 - **埃利都 / Eridu (Abu Shahrain)** — 伊拉克 1946–1949 年发掘；Safar、Mustafa & Lloyd 1981 正式报告欧贝德相关深地层序 [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`]。
-- **尼普尔 / Nippur** — 宾大–东方研究所 / ASOR–OI 联合发掘；OIP 78（恩利尔神庙与书吏区）、OIP 97（北神庙）[`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`]。
+- **尼普尔 / Nippur** — 宾大–东方研究所 / ASOR–OI 联合发掘；OIP 78（恩利尔神庙与书吏区）、OIP 97（北神庙）；乌尔三朝伊南娜神庙见 Zettler 1992 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`][`src-mesopotamia-zettler-inanna-nippur-1992`]。
 - **基什 / Kish** — 牛津–菲尔德博物馆远征；Mackay 1925《A 墓地》P 档；Moorey 1978 强二手重建 [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`]。
 - **杰姆代特奈斯尔 / Jemdet Nasr** — 期名类型学遗址；Matthews 2002 正式出版 1920 年代可及出土材料 [`src-mesopotamia-matthews-jemdet-nasr-2002`]。
 - **吉尔苏（特罗）/ Girsu (Tello)** — 拉格什城邦要城；法国 1877–1933 约二十次战役，Parrot 1948 综合 [`src-mesopotamia-parrot-tello-1948`]。
@@ -101,7 +101,7 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 - **哈法杰 / Khafajah** — 迪亚拉早王朝神庙椭圆；Delougaz OIP 53 [`src-mesopotamia-delougaz-khafajah-oip53-1940`]。
 - **阿布萨拉比赫 / Abu Salabikh** — 早王朝聚落；Postgate ASE 1 西丘地表清理 [`src-mesopotamia-postgate-abu-salabikh-1983`]。
 - **舒鲁帕克（法拉）/ Shuruppak (Fara)** — Martin 1988 基于早期发掘的强二手重建 [`src-mesopotamia-martin-fara-1988`]。
-- **马里 / Mari (Tell Hariri)** — 中幼发拉底；Parrot《伊什塔尔神庙》1956（宫殿档案卷另册）[`src-mesopotamia-parrot-mari-ishtar-1956`]。
+- **马里 / Mari (Tell Hariri)** — 中幼发拉底；Parrot《伊什塔尔神庙》1956；宫殿建筑见 Parrot《马里》II.1（1958）[`src-mesopotamia-parrot-mari-ishtar-1956`][`src-mesopotamia-parrot-mari-palais-arch-1958`]。
 - **哈布巴卡比拉 / Habuba Kabira** — 叙利亚幼发拉底第四千纪规划城镇；Strommenger 1980；与南部/乌鲁克物质文化相关，扩张模型仍属假说 [`src-mesopotamia-strommenger-habuba-kabira-1980`][`src-mesopotamia-algaze-2008`]。
 - **区域调查区** — 幼发拉底中部洪泛平原：Adams 1981；迪亚拉平原：Adams 1965 [`src-mesopotamia-adams-1981`][`src-mesopotamia-adams-diyala-1965`]。
 
@@ -118,16 +118,25 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 - **乌尔塔庙 / Ur ziggurat** — Woolley UE V（1939）[`src-mesopotamia-woolley-ur-v-1939`]。
 - **霍尔萨巴德（杜尔-沙鲁金）/ Khorsabad (Dur-Sharrukin)** — Loud OIP 38 / Loud & Altman OIP 40 [`src-mesopotamia-loud-khorsabad-oip38-1936`][`src-mesopotamia-loud-altman-khorsabad-oip40-1938`]。
 - **尼姆鲁德（卡尔胡）/ Nimrud (Kalhu)** — Mallowan 1966（P）；Oates & Oates 2001（S）[`src-mesopotamia-mallowan-nimrud-1966`][`src-mesopotamia-oates-nimrud-2001`]。
-- **巴比伦 / Babylon** — Koldewey 1914 英译本（DOG；历史性标准）[`src-mesopotamia-koldewey-babylon-1914`]。
+- **巴比伦 / Babylon** — Koldewey 1914 英译本（DOG；历史性标准）；梅尔克斯内城见 Reuther 1926 [`src-mesopotamia-koldewey-babylon-1914`][`src-mesopotamia-reuther-merkes-1926`]。
 - **尼尼微 / Nineveh** — Layard 1853 第二次远征历史性记述 [`src-mesopotamia-layard-nineveh-babylon-1853`]。
 - **莱兰丘 / Tell Leilan** — Weiss 等 1990 AJA（1985 季）；气候崩溃模型假说栏 [`src-mesopotamia-weiss-leilan-aja-1990`]。
+
+- **阿尔帕契亚 / Tell Arpachiyah** — 哈拉夫期；Mallowan & Rose 1935《Iraq》[`src-mesopotamia-mallowan-arpachiyah-1935`]。
+- **查加尔巴扎尔 / Tell Chagar Bazar** — 哈布尔；Mallowan 1937 第二季报告；亦见 1947 与布拉克合刊 [`src-mesopotamia-mallowan-chagar-bazar-1937`][`src-mesopotamia-mallowan-brak-1947`]。
+- **努兹（约尔甘泰帕）/ Nuzi (Yorgan Tepa)** — Starr 1937/1939；第二千纪北两河，不作第三千纪南部城市定论 [`src-mesopotamia-starr-nuzi-1939`]。
+- **伊什查利 / Ishchali** — 迪亚拉；陶器合刊 Delougaz OIP 63 [`src-mesopotamia-delougaz-oip63-1952`]。
+- **巴比伦—梅尔克斯 / Babylon Merkes** — Reuther 1926 WVDOG 47 内城发掘区 [`src-mesopotamia-reuther-merkes-1926`][`src-mesopotamia-koldewey-babylon-1914`]。
+- **乌尔—乌尔三朝建筑（非塔庙）/ Ur III buildings** — Woolley UE VI（1974）；古巴比伦层见 UE VII（1976）[`src-mesopotamia-woolley-ur-vi-1974`][`src-mesopotamia-woolley-ur-vii-1976`]。
+- **马里宫殿 / Mari palace** — Parrot《马里》II.1 建筑卷（1958）[`src-mesopotamia-parrot-mari-palais-arch-1958`]。
+
 
 
 - **Uruk (Warka)** — southern mega-site; AUWE reports incl. Finkbeiner survey [`src-mesopotamia-finkbeiner-uruk-auwe4-1991`][`src-mesopotamia-algaze-2008`][`src-mesopotamia-liverani-uruk-2006`].
 - **Ur** — Joint Expedition; Woolley *UE* IV pre–Ur III [`src-mesopotamia-woolley-ur-iv-1955`].
 - **Tell al-Ubaid** — Ubaid name-site; Hall & Woolley *UE* I (1927) [`src-mesopotamia-hall-woolley-alubaid-1927`].
 - **Eridu** — Iraqi 1946–1949; Safar, Mustafa & Lloyd 1981 Ubaid-related deep sequence [`src-mesopotamia-safar-lloyd-mustafa-eridu-1981`].
-- **Nippur** — Joint Expeditions; OIP 78 / OIP 97 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`].
+- **Nippur** — Joint Expeditions; OIP 78 / OIP 97; Ur III Inanna temple Zettler 1992 [`src-mesopotamia-mccown-haines-nippur-oip78-1967`][`src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978`][`src-mesopotamia-zettler-inanna-nippur-1992`].
 - **Kish** — Oxford–Field Museum; Mackay 1925 (P); Moorey 1978 (S) [`src-mesopotamia-mackay-kish-a-cemetery-1925`][`src-mesopotamia-moorey-kish-1978`].
 - **Jemdet Nasr** — period type-site; Matthews 2002 final publication of accessible 1920s finds [`src-mesopotamia-matthews-jemdet-nasr-2002`].
 - **Girsu (Tello)** — Lagash-state city; French campaigns 1877–1933; Parrot 1948 synthesis [`src-mesopotamia-parrot-tello-1948`].
@@ -136,7 +145,7 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 - **Khafajah** — Temple Oval; Delougaz OIP 53 [`src-mesopotamia-delougaz-khafajah-oip53-1940`].
 - **Abu Salabikh** — ASE 1 West Mound clearance [`src-mesopotamia-postgate-abu-salabikh-1983`].
 - **Shuruppak (Fara)** — Martin 1988 reconstruction (S) [`src-mesopotamia-martin-fara-1988`].
-- **Mari** — Parrot *Temple of Ishtar* 1956 [`src-mesopotamia-parrot-mari-ishtar-1956`].
+- **Mari** — Parrot *Temple of Ishtar* 1956; palace architecture Parrot *Mari* II.1 (1958) [`src-mesopotamia-parrot-mari-ishtar-1956`][`src-mesopotamia-parrot-mari-palais-arch-1958`].
 - **Habuba Kabira** — DOG planned town; Strommenger 1980; Uruk-related material culture; expansion model remains hypothesis [`src-mesopotamia-strommenger-habuba-kabira-1980`][`src-mesopotamia-algaze-2008`].
 - **Survey zones** — central Euphrates: Adams 1981; Diyala plains: Adams 1965 [`src-mesopotamia-adams-1981`][`src-mesopotamia-adams-diyala-1965`].
 
@@ -153,9 +162,18 @@ Nissen’s “early high civilization” band (ca. 3200–2800 BCE) overlaps the
 - **Ur ziggurat** — Woolley *UE* V (1939) [`src-mesopotamia-woolley-ur-v-1939`].
 - **Khorsabad (Dur-Sharrukin)** — Loud OIP 38 / Loud & Altman OIP 40 [`src-mesopotamia-loud-khorsabad-oip38-1936`][`src-mesopotamia-loud-altman-khorsabad-oip40-1938`].
 - **Nimrud (Kalhu)** — Mallowan 1966 (P); Oates & Oates 2001 (S) [`src-mesopotamia-mallowan-nimrud-1966`][`src-mesopotamia-oates-nimrud-2001`].
-- **Babylon** — Koldewey 1914 English DOG synthesis (historical standards) [`src-mesopotamia-koldewey-babylon-1914`].
+- **Babylon** — Koldewey 1914 English DOG synthesis (historical standards); Merkes inner city Reuther 1926 [`src-mesopotamia-koldewey-babylon-1914`][`src-mesopotamia-reuther-merkes-1926`].
 - **Nineveh** — Layard 1853 second-expedition narrative [`src-mesopotamia-layard-nineveh-babylon-1853`].
 - **Tell Leilan** — Weiss et al. 1990 AJA (1985 season); climate-collapse → hypothesis [`src-mesopotamia-weiss-leilan-aja-1990`].
+
+
+- **Tell Arpachiyah** — Halaf; Mallowan & Rose 1935 *Iraq* [`src-mesopotamia-mallowan-arpachiyah-1935`].
+- **Tell Chagar Bazar** — Habur; Mallowan 1937 second campaign; also 1947 Brak–Chagar [`src-mesopotamia-mallowan-chagar-bazar-1937`][`src-mesopotamia-mallowan-brak-1947`].
+- **Nuzi (Yorgan Tepa)** — Starr 1937/1939; second-millennium north; not an ED southern city claim [`src-mesopotamia-starr-nuzi-1939`].
+- **Ishchali** — Diyala; pottery in Delougaz OIP 63 [`src-mesopotamia-delougaz-oip63-1952`].
+- **Babylon Merkes** — Reuther 1926 WVDOG 47 inner-city zone [`src-mesopotamia-reuther-merkes-1926`][`src-mesopotamia-koldewey-babylon-1914`].
+- **Ur III buildings (non-ziggurat)** — Woolley *UE* VI (1974); Old Babylonian: *UE* VII (1976) [`src-mesopotamia-woolley-ur-vi-1974`][`src-mesopotamia-woolley-ur-vii-1976`].
+- **Mari palace** — Parrot *Mari* II.1 Architecture (1958) [`src-mesopotamia-parrot-mari-palais-arch-1958`].
 
 
 ## Urbanism, architecture & institutions
@@ -238,58 +256,69 @@ Third density pass (2026-10-12 / D-2026-10-12-1) also registers Woolley UE II/V;
 
 ## Sources
 
-- `src-mesopotamia-adams-1981` — monograph; Adams, Robert McC. 1981. Heartland of Cities: Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates. Chic... (tier S)
+- `src-mesopotamia-adams-1981` — monograph; Adams, Robert McC. 1981. Heartland of Cities: Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates. Chicago; London: Univers... (tier S)
 - `src-mesopotamia-adams-diyala-1965` — monograph; Adams, Robert McC. 1965. Land Behind Baghdad: A History of Settlement on the Diyala Plains. Chicago: University of Chicago Press. (tier S)
-- `src-mesopotamia-algaze-2008` — monograph; Algaze, Guillermo. 2008. Ancient Mesopotamia at the Dawn of Civilization: The Evolution of an Urban Landscape. Chicago; London: Universit... (tier S)
-- `src-mesopotamia-andrae-assur-ishtar-1922` — excavation-report; Andrae, Walter. 1922. Die archaischen Ischtar-Tempel in Assur. Wissenschaftliche Veröffentlichungen der Deutschen Orient-Gesellschaft 39.... (tier P)
-- `src-mesopotamia-banks-bismya-1912` — monograph; Banks, Edgar James. 1912. Bismya, or The Lost City of Adab: A Story of Adventure, of Exploration, and of the Discovery of Ancient Remains... (tier S)
-- `src-mesopotamia-cdli` — digital-corpus; Cuneiform Digital Library Initiative (CDLI). Ongoing. Open catalog of cuneiform artifacts (including proto-cuneiform / archaic texts), wi... (tier P)
-- `src-mesopotamia-collon-1987` — monograph; Collon, Dominique. 1987. First Impressions: Cylinder Seals in the Ancient Near East. London: British Museum Publications. ISBN 0-7141-112... (tier S)
-- `src-mesopotamia-crawford-sumerian-world-2013` — monograph; Crawford, Harriet E. W., ed. 2013. The Sumerian World. London; New York: Routledge. ISBN 978-0-415-56967-5 (hardback); ebook DOI 10.4324/... (tier S)
-- `src-mesopotamia-delougaz-khafajah-oip53-1940` — excavation-report; Delougaz, Pinhas, with a chapter by Thorkild Jacobsen. 1940. The Temple Oval at Khafajah. Oriental Institute Publications 53. Chicago: Un... (tier P)
-- `src-mesopotamia-delougaz-lloyd-oip58-1942` — excavation-report; Delougaz, Pinhas, and Seton Lloyd, with chapters by Henri Frankfort and Thorkild Jacobsen. 1942. Pre-Sargonid Temples in the Diyala Regio... (tier P)
-- `src-mesopotamia-finkbeiner-uruk-auwe4-1991` — excavation-report; Finkbeiner, Uwe. 1991. Uruk: Kampagne 35–37, 1982–1984. Die archäologische Oberflächenuntersuchung (Survey). Ausgrabungen in Uruk-Warka: ... (tier P)
-- `src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940` — excavation-report; Frankfort, Henri, Seton Lloyd, and Thorkild Jacobsen, with a chapter by Günter Martiny. 1940. The Gimilsin Temple and the Palace of the R... (tier P)
-- `src-mesopotamia-frankfort-oic13-1932` — excavation-report; Frankfort, Henri, Thorkild Jacobsen, and Conrad Preusser. 1932. Tell Asmar and Khafaje: The First Season’s Work in Eshnunna, 1930/31. Ori... (tier P)
-- `src-mesopotamia-genouillac-telloh-i-1934` — excavation-report; de Genouillac, Henri, with collaboration of A. Parrot, R. Ghirshman, et al. 1934. Fouilles de Telloh. Tome I: Époques présargoniques. Mis... (tier P)
-- `src-mesopotamia-gibson-nippur-oic23-1978` — excavation-report; Gibson, McGuire; Judith A. Franke; Miguel Civil; Michael L. Bates; Joachim Boessneck; Karl W. Butzer; Ted A. Rathbun; and Elizabeth Frick... (tier P)
-- `src-mesopotamia-green-nissen-zatu-1987` — monograph; Green, Margaret W., and Hans J. Nissen, with contributions by Peter Damerow and Robert K. Englund. 1987. Zeichenliste der archaischen Tex... (tier P)
-- `src-mesopotamia-hall-woolley-alubaid-1927` — excavation-report; Hall, H. R., and C. Leonard Woolley, with chapters by C. J. Gadd and Sir Arthur Keith. 1927. Ur Excavations. Volume I: Al-‘Ubaid. A Repor... (tier P)
-- `src-mesopotamia-hansen-alhiba-1970` — article; Hansen, Donald P. 1970. “Al-Hiba, 1968–1969: A Preliminary Report.” Artibus Asiae 32 (4): 243–258. JSTOR https://www.jstor.org/stable/324... (tier P)
-- `src-mesopotamia-hrouda-isin-i-1977` — excavation-report; Hrouda, Barthel, ed. 1977. Isin – Išān Baḥrīyāt I: Die Ergebnisse der Ausgrabungen 1973–1974. Munich: Verlag der Bayerischen Akademie der... (tier P)
-- `src-mesopotamia-koldewey-babylon-1914` — excavation-report; Koldewey, Robert. 1914. The Excavations at Babylon. Translated by Agnes S. Johns. London: Macmillan and Co. (English edition of Das wiede... (tier P)
-- `src-mesopotamia-layard-nineveh-babylon-1853` — excavation-report; Layard, Austen Henry. 1853. Discoveries in the Ruins of Nineveh and Babylon; with Travels in Armenia, Kurdistan and the Desert: Being the... (tier P)
-- `src-mesopotamia-legrain-ue-iii-1936` — excavation-report; Legrain, Léon, with an introductory note by C. Leonard Woolley. 1936. Ur Excavations. Volume III: Archaic Seal-Impressions. Publications ... (tier P)
-- `src-mesopotamia-liverani-uruk-2006` — monograph; Liverani, Mario. 2006. Uruk: The First City. Edited and translated by Zainab Bahrani and Marc Van De Mieroop. London; Oakville: Equinox P... (tier S)
-- `src-mesopotamia-lloyd-safar-uqair-1943` — excavation-report; Lloyd, Seton, and Fuad Safar, with a note by Henri Frankfort. 1943. Tell Uqair: Excavations by the Iraq Government Directorate of Antiqui... (tier P)
-- `src-mesopotamia-loud-altman-khorsabad-oip40-1938` — excavation-report; Loud, Gordon, and Charles B. Altman. 1938. Khorsabad, Part 2: The Citadel and the Town. Oriental Institute Publications 40. Chicago: The ... (tier P)
-- `src-mesopotamia-loud-khorsabad-oip38-1936` — excavation-report; Loud, Gordon, with chapters by Henri Frankfort and Thorkild Jacobsen. 1936. Khorsabad, Part 1: Excavations in the Palace and at a City Ga... (tier P)
-- `src-mesopotamia-mackay-kish-a-cemetery-1925` — excavation-report; Mackay, Ernest, with a preface by Stephen Langdon. 1925. Report on the Excavation of the “A” Cemetery at Kish, Mesopotamia. Part I. Field... (tier P)
+- `src-mesopotamia-algaze-2008` — monograph; Algaze, Guillermo. 2008. Ancient Mesopotamia at the Dawn of Civilization: The Evolution of an Urban Landscape. Chicago; London: University of Chicago Press. ... (tier S)
+- `src-mesopotamia-andrae-assur-ishtar-1922` — excavation-report; Andrae, Walter. 1922. Die archaischen Ischtar-Tempel in Assur. Wissenschaftliche Veröffentlichungen der Deutschen Orient-Gesellschaft 39. Leipzig: J. C. Hinr... (tier P)
+- `src-mesopotamia-banks-bismya-1912` — monograph; Banks, Edgar James. 1912. Bismya, or The Lost City of Adab: A Story of Adventure, of Exploration, and of the Discovery of Ancient Remains among the Ruins of ... (tier S)
+- `src-mesopotamia-cdli` — digital-corpus; Cuneiform Digital Library Initiative (CDLI). Ongoing. Open catalog of cuneiform artifacts (including proto-cuneiform / archaic texts), with museum provenance... (tier P)
+- `src-mesopotamia-collon-1987` — monograph; Collon, Dominique. 1987. First Impressions: Cylinder Seals in the Ancient Near East. London: British Museum Publications. ISBN 0-7141-1121-X. 208 pp., extens... (tier S)
+- `src-mesopotamia-crawford-sumerian-world-2013` — monograph; Crawford, Harriet E. W., ed. 2013. The Sumerian World. London; New York: Routledge. ISBN 978-0-415-56967-5 (hardback); ebook DOI 10.4324/9780203096604. (tier S)
+- `src-mesopotamia-delougaz-khafajah-oip53-1940` — excavation-report; Delougaz, Pinhas, with a chapter by Thorkild Jacobsen. 1940. The Temple Oval at Khafajah. Oriental Institute Publications 53. Chicago: University of Chicago ... (tier P)
+- `src-mesopotamia-delougaz-lloyd-oip58-1942` — excavation-report; Delougaz, Pinhas, and Seton Lloyd, with chapters by Henri Frankfort and Thorkild Jacobsen. 1942. Pre-Sargonid Temples in the Diyala Region. Oriental Institut... (tier P)
+- `src-mesopotamia-delougaz-oip63-1952` — excavation-report; Delougaz, Pinhas. 1952. Pottery from the Diyala Region. Oriental Institute Publications 63. Chicago: University of Chicago Press. Pp. xxii + 182, color front... (tier P)
+- `src-mesopotamia-englund-atu5-1994` — excavation-report; Englund, Robert K., with a contribution by Rainer M. Boehmer. 1994. Archaic Administrative Texts from Uruk: The Early Campaigns. Archaische Texte aus Uruk 5 ... (tier P)
+- `src-mesopotamia-finkbeiner-uruk-auwe4-1991` — excavation-report; Finkbeiner, Uwe. 1991. Uruk: Kampagne 35–37, 1982–1984. Die archäologische Oberflächenuntersuchung (Survey). Ausgrabungen in Uruk-Warka: Endberichte (AUWE) B... (tier P)
+- `src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940` — excavation-report; Frankfort, Henri, Seton Lloyd, and Thorkild Jacobsen, with a chapter by Günter Martiny. 1940. The Gimilsin Temple and the Palace of the Rulers at Tell Asmar.... (tier P)
+- `src-mesopotamia-frankfort-oic13-1932` — excavation-report; Frankfort, Henri, Thorkild Jacobsen, and Conrad Preusser. 1932. Tell Asmar and Khafaje: The First Season’s Work in Eshnunna, 1930/31. Oriental Institute Comm... (tier P)
+- `src-mesopotamia-frankfort-oip44-1939` — excavation-report; Frankfort, Henri. 1939. Sculpture of the Third Millennium B.C. from Tell Asmar and Khafajah. Oriental Institute Publications 44. Chicago: University of Chica... (tier P)
+- `src-mesopotamia-genouillac-telloh-i-1934` — excavation-report; de Genouillac, Henri, with collaboration of A. Parrot, R. Ghirshman, et al. 1934. Fouilles de Telloh. Tome I: Époques présargoniques. Mission archéologique d... (tier P)
+- `src-mesopotamia-gibson-nippur-oic23-1978` — excavation-report; Gibson, McGuire; Judith A. Franke; Miguel Civil; Michael L. Bates; Joachim Boessneck; Karl W. Butzer; Ted A. Rathbun; and Elizabeth Frick Mallin. 1978. Excav... (tier P)
+- `src-mesopotamia-green-nissen-zatu-1987` — monograph; Green, Margaret W., and Hans J. Nissen, with contributions by Peter Damerow and Robert K. Englund. 1987. Zeichenliste der archaischen Texte aus Uruk. Archais... (tier P)
+- `src-mesopotamia-hall-woolley-alubaid-1927` — excavation-report; Hall, H. R., and C. Leonard Woolley, with chapters by C. J. Gadd and Sir Arthur Keith. 1927. Ur Excavations. Volume I: Al-‘Ubaid. A Report on the Work Carrie... (tier P)
+- `src-mesopotamia-hansen-alhiba-1970` — article; Hansen, Donald P. 1970. “Al-Hiba, 1968–1969: A Preliminary Report.” Artibus Asiae 32 (4): 243–258. JSTOR https://www.jstor.org/stable/3249506. (tier P)
+- `src-mesopotamia-hrouda-isin-i-1977` — excavation-report; Hrouda, Barthel, ed. 1977. Isin – Išān Baḥrīyāt I: Die Ergebnisse der Ausgrabungen 1973–1974. Munich: Verlag der Bayerischen Akademie der Wissenschaften. (tier P)
+- `src-mesopotamia-koldewey-babylon-1914` — excavation-report; Koldewey, Robert. 1914. The Excavations at Babylon. Translated by Agnes S. Johns. London: Macmillan and Co. (English edition of Das wieder erstehende Babylon... (tier P)
+- `src-mesopotamia-layard-nineveh-babylon-1853` — excavation-report; Layard, Austen Henry. 1853. Discoveries in the Ruins of Nineveh and Babylon; with Travels in Armenia, Kurdistan and the Desert: Being the Result of a Second ... (tier P)
+- `src-mesopotamia-legrain-ue-iii-1936` — excavation-report; Legrain, Léon, with an introductory note by C. Leonard Woolley. 1936. Ur Excavations. Volume III: Archaic Seal-Impressions. Publications of the Joint Expedit... (tier P)
+- `src-mesopotamia-liverani-uruk-2006` — monograph; Liverani, Mario. 2006. Uruk: The First City. Edited and translated by Zainab Bahrani and Marc Van De Mieroop. London; Oakville: Equinox Publishing. ISBN 978-... (tier S)
+- `src-mesopotamia-lloyd-safar-uqair-1943` — excavation-report; Lloyd, Seton, and Fuad Safar, with a note by Henri Frankfort. 1943. Tell Uqair: Excavations by the Iraq Government Directorate of Antiquities in 1940 and 194... (tier P)
+- `src-mesopotamia-loud-altman-khorsabad-oip40-1938` — excavation-report; Loud, Gordon, and Charles B. Altman. 1938. Khorsabad, Part 2: The Citadel and the Town. Oriental Institute Publications 40. Chicago: The University of Chicag... (tier P)
+- `src-mesopotamia-loud-khorsabad-oip38-1936` — excavation-report; Loud, Gordon, with chapters by Henri Frankfort and Thorkild Jacobsen. 1936. Khorsabad, Part 1: Excavations in the Palace and at a City Gate. Oriental Institu... (tier P)
+- `src-mesopotamia-mackay-kish-a-cemetery-1925` — excavation-report; Mackay, Ernest, with a preface by Stephen Langdon. 1925. Report on the Excavation of the “A” Cemetery at Kish, Mesopotamia. Part I. Field Museum of Natural H... (tier P)
+- `src-mesopotamia-mallowan-arpachiyah-1935` — excavation-report; Mallowan, M. E. L., and J. Cruikshank Rose. 1935. “Excavations at Tall Arpachiyah, 1933.” Iraq 2 (1): 1–178 (also reprinted as Prehistoric Assyria: The Excav... (tier P)
 - `src-mesopotamia-mallowan-brak-1947` — excavation-report; Mallowan, M. E. L. 1947. Excavations at Brak and Chagar Bazar. Iraq 9: 1–259. (tier P)
+- `src-mesopotamia-mallowan-chagar-bazar-1937` — excavation-report; Mallowan, M. E. L. 1937. “The Excavations at Tall Chagar Bazar and an Archaeological Survey of the Ḫabur Region. Second Campaign, 1936.” Iraq 4 (2): 91–154. (tier P)
 - `src-mesopotamia-mallowan-nimrud-1966` — excavation-report; Mallowan, M. E. L. 1966. Nimrud and Its Remains. 2 vols. London: Collins (published on behalf of the British School of Archaeology in Iraq). (tier P)
 - `src-mesopotamia-martin-fara-1988` — monograph; Martin, Harriet P. 1988. Fara: A Reconstruction of the Ancient Mesopotamian City of Shuruppak. Birmingham: Chris Martin. (tier S)
-- `src-mesopotamia-matthews-jemdet-nasr-2002` — excavation-report; Matthews, Roger. 2002. Secrets of the Dark Mound: Jemdet Nasr 1926–1928. Iraq Archaeological Reports 6. Warminster: British School of Arc... (tier P)
-- `src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978` — excavation-report; McCown, Donald E., Richard C. Haines, and Robert D. Biggs, assisted by Elizabeth F. Carter. 1978. Nippur II: The North Temple and Soundin... (tier P)
-- `src-mesopotamia-mccown-haines-nippur-oip78-1967` — excavation-report; McCown, Donald E., and Richard C. Haines, assisted by Donald P. Hansen. 1967. Nippur I: Temple of Enlil, Scribal Quarter, and Soundings. ... (tier P)
-- `src-mesopotamia-moorey-kish-1978` — monograph; Moorey, P. R. S. 1978. Kish Excavations, 1923–1933: With a Microfiche Catalogue of the Objects in Oxford Excavated by the Oxford–Field Mu... (tier S)
-- `src-mesopotamia-nissen-1988` — monograph; Nissen, Hans J. 1988. The Early History of the Ancient Near East, 9000–2000 B.C. Translated by Elizabeth Lutzeier with Kenneth J. Northco... (tier S)
-- `src-mesopotamia-nissen-damerow-englund-1993` — monograph; Nissen, Hans J.; Damerow, Peter; Englund, Robert K. 1993. Archaic Bookkeeping: Early Writing and Techniques of Economic Administration in... (tier S)
+- `src-mesopotamia-matthews-jemdet-nasr-2002` — excavation-report; Matthews, Roger. 2002. Secrets of the Dark Mound: Jemdet Nasr 1926–1928. Iraq Archaeological Reports 6. Warminster: British School of Archaeology in Iraq (Ar... (tier P)
+- `src-mesopotamia-mccown-haines-biggs-nippur-oip97-1978` — excavation-report; McCown, Donald E., Richard C. Haines, and Robert D. Biggs, assisted by Elizabeth F. Carter. 1978. Nippur II: The North Temple and Sounding E. Excavations of ... (tier P)
+- `src-mesopotamia-mccown-haines-nippur-oip78-1967` — excavation-report; McCown, Donald E., and Richard C. Haines, assisted by Donald P. Hansen. 1967. Nippur I: Temple of Enlil, Scribal Quarter, and Soundings. Excavations of the J... (tier P)
+- `src-mesopotamia-moorey-kish-1978` — monograph; Moorey, P. R. S. 1978. Kish Excavations, 1923–1933: With a Microfiche Catalogue of the Objects in Oxford Excavated by the Oxford–Field Museum, Chicago, Exped... (tier S)
+- `src-mesopotamia-nissen-1988` — monograph; Nissen, Hans J. 1988. The Early History of the Ancient Near East, 9000–2000 B.C. Translated by Elizabeth Lutzeier with Kenneth J. Northcott. Chicago; London:... (tier S)
+- `src-mesopotamia-nissen-damerow-englund-1993` — monograph; Nissen, Hans J.; Damerow, Peter; Englund, Robert K. 1993. Archaic Bookkeeping: Early Writing and Techniques of Economic Administration in the Ancient Near Ea... (tier S)
 - `src-mesopotamia-oates-choga-mami-1969` — excavation-report; Oates, Joan. 1969. Choga Mami, 1967–68: A Preliminary Report. Iraq 31(2): 115–152. (tier P)
-- `src-mesopotamia-oates-nimrud-2001` — monograph; Oates, Joan, and David Oates. 2001. Nimrud: An Assyrian Imperial City Revealed. London: British School of Archaeology in Iraq. ISBN 0-903... (tier S)
-- `src-mesopotamia-parrot-mari-ishtar-1956` — excavation-report; Parrot, André. 1956. Mission archéologique de Mari. Tome I: Le temple d’Ishtar. Bibliothèque archéologique et historique 65. Paris: Paul ... (tier P)
+- `src-mesopotamia-oates-nimrud-2001` — monograph; Oates, Joan, and David Oates. 2001. Nimrud: An Assyrian Imperial City Revealed. London: British School of Archaeology in Iraq. ISBN 0-903472-25-2. (tier S)
+- `src-mesopotamia-parrot-mari-ishtar-1956` — excavation-report; Parrot, André. 1956. Mission archéologique de Mari. Tome I: Le temple d’Ishtar. Bibliothèque archéologique et historique 65. Paris: Paul Geuthner (Institut f... (tier P)
+- `src-mesopotamia-parrot-mari-palais-arch-1958` — excavation-report; Parrot, André. 1958. Mission archéologique de Mari. Tome II: Le Palais. 1. Architecture. Bibliothèque archéologique et historique 68 (also cited as BAH 67 in... (tier P)
 - `src-mesopotamia-parrot-tello-1948` — monograph; Parrot, André. 1948. Tello: vingt campagnes de fouilles (1877–1933). Paris: Albin Michel. (tier S)
-- `src-mesopotamia-pollock-1999` — monograph; Pollock, Susan. 1999. Ancient Mesopotamia: The Eden That Never Was. Case Studies in Early Societies. Cambridge: Cambridge University Pres... (tier S)
-- `src-mesopotamia-postgate-1992` — monograph; Postgate, J. N. 1992. Early Mesopotamia: Society and Economy at the Dawn of History. London; New York: Routledge. Paperback reprint ISBN ... (tier S)
-- `src-mesopotamia-postgate-abu-salabikh-1983` — excavation-report; Postgate, J. N., with contributions by E. McAdam, J. Eidem, and J. Crowfoot Payne. 1983. Abu Salabikh Excavations. Volume 1: The West Mou... (tier P)
-- `src-mesopotamia-potts-1997` — monograph; Potts, D. T. 1997. Mesopotamian Civilization: The Material Foundations. Ithaca, N.Y.: Cornell University Press. ISBN 0-8014-3339-8 / 978-... (tier S)
+- `src-mesopotamia-pollock-1999` — monograph; Pollock, Susan. 1999. Ancient Mesopotamia: The Eden That Never Was. Case Studies in Early Societies. Cambridge: Cambridge University Press. ISBN 978-0-521-57... (tier S)
+- `src-mesopotamia-postgate-1992` — monograph; Postgate, J. N. 1992. Early Mesopotamia: Society and Economy at the Dawn of History. London; New York: Routledge. Paperback reprint ISBN 978-0-415-11032-7. (tier S)
+- `src-mesopotamia-postgate-abu-salabikh-1983` — excavation-report; Postgate, J. N., with contributions by E. McAdam, J. Eidem, and J. Crowfoot Payne. 1983. Abu Salabikh Excavations. Volume 1: The West Mound Surface Clearance... (tier P)
+- `src-mesopotamia-potts-1997` — monograph; Potts, D. T. 1997. Mesopotamian Civilization: The Material Foundations. Ithaca, N.Y.: Cornell University Press. ISBN 0-8014-3339-8 / 978-0-8014-3339-9. xx + ... (tier S)
+- `src-mesopotamia-reuther-merkes-1926` — excavation-report; Reuther, Oscar. 1926. Die Innenstadt von Babylon (Merkes). Ausgrabungen der Deutschen Orient-Gesellschaft in Babylon, vol. 3 / Wissenschaftliche Veröffentlic... (tier P)
 - `src-mesopotamia-roaf-1990` — atlas; Roaf, Michael. 1990. Cultural Atlas of Mesopotamia and the Ancient Near East. New York: Facts on File. ISBN 0-8160-2218-6. 238 pp. (tier T)
-- `src-mesopotamia-safar-lloyd-mustafa-eridu-1981` — excavation-report; Safar, Fuad, Mohammad Ali Mustafa, and Seton Lloyd. 1981. Eridu. Baghdad: State Organization of Antiquities and Heritage, Ministry of Cul... (tier P)
+- `src-mesopotamia-safar-lloyd-mustafa-eridu-1981` — excavation-report; Safar, Fuad, Mohammad Ali Mustafa, and Seton Lloyd. 1981. Eridu. Baghdad: State Organization of Antiquities and Heritage, Ministry of Culture and Information. (tier P)
 - `src-mesopotamia-speiser-gawra-i-1935` — excavation-report; Speiser, E. A. 1935. Excavations at Tepe Gawra. Volume I: Levels I–VIII. Philadelphia: University of Pennsylvania Press / University Museum. (tier P)
-- `src-mesopotamia-strommenger-habuba-kabira-1980` — monograph; Strommenger, Eva. 1980. Habuba Kabira: eine Stadt vor 5000 Jahren. Ausgrabungen der Deutschen Orient-Gesellschaft am Euphrat in Habuba Ka... (tier S)
-- `src-mesopotamia-tobler-gawra-ii-1950` — excavation-report; Tobler, Arthur J. 1950. Excavations at Tepe Gawra. Volume II: Levels IX–XX. Philadelphia: University of Pennsylvania Press / University M... (tier P)
-- `src-mesopotamia-van-de-mieroop-2015` — monograph; Van De Mieroop, Marc. 2015. A History of the Ancient Near East, ca. 3000–323 BC. 3rd ed. Wiley-Blackwell (Blackwell History of the Ancien... (tier S)
-- `src-mesopotamia-weiss-leilan-aja-1990` — article; Weiss, Harvey; Peter M. M. G. Akkermans; Gil J. Stein; Dominique Parayre; and Robert M. Whiting. 1990. “1985 Excavations at Tell Leilan, ... (tier P)
-- `src-mesopotamia-wilson-adab-oip138-2012` — excavation-report; Wilson, Karen L., with contributions by Jacob Lauinger, Monica Louise Phillips, Benjamin Studevent-Hickman, and Aage Westenholz. 2012. Bi... (tier P)
-- `src-mesopotamia-woolley-ur-ii-1934` — excavation-report; Woolley, C. Leonard, with chapters by Leon Legrain, E. Burrows, Arthur Keith, and Harold J. Plenderleith. 1934. Ur Excavations. Volume II... (tier P)
-- `src-mesopotamia-woolley-ur-iv-1955` — excavation-report; Woolley, Leonard. 1955. Ur Excavations. Volume IV: The Early Periods. A Report on the Sites and Objects Prior in Date to the Third Dynast... (tier P)
-- `src-mesopotamia-woolley-ur-v-1939` — excavation-report; Woolley, C. Leonard. 1939. Ur Excavations. Volume V: The Ziggurat and Its Surroundings. Publications of the Joint Expedition of the Briti... (tier P)
+- `src-mesopotamia-starr-nuzi-1939` — excavation-report; Starr, Richard F. S. 1937–1939. Nuzi: Report on the Excavations at Yorgan Tepa near Kirkuk, Iraq, Conducted by Harvard University in Conjunction with the Ame... (tier P)
+- `src-mesopotamia-strommenger-habuba-kabira-1980` — monograph; Strommenger, Eva. 1980. Habuba Kabira: eine Stadt vor 5000 Jahren. Ausgrabungen der Deutschen Orient-Gesellschaft am Euphrat in Habuba Kabira, Syrien. Mainz ... (tier S)
+- `src-mesopotamia-tobler-gawra-ii-1950` — excavation-report; Tobler, Arthur J. 1950. Excavations at Tepe Gawra. Volume II: Levels IX–XX. Philadelphia: University of Pennsylvania Press / University Museum. (tier P)
+- `src-mesopotamia-van-de-mieroop-2015` — monograph; Van De Mieroop, Marc. 2015. A History of the Ancient Near East, ca. 3000–323 BC. 3rd ed. Wiley-Blackwell (Blackwell History of the Ancient World). ISBN 978-1... (tier S)
+- `src-mesopotamia-weiss-leilan-aja-1990` — article; Weiss, Harvey; Peter M. M. G. Akkermans; Gil J. Stein; Dominique Parayre; and Robert M. Whiting. 1990. “1985 Excavations at Tell Leilan, Syria.” American Jou... (tier P)
+- `src-mesopotamia-wilson-adab-oip138-2012` — excavation-report; Wilson, Karen L., with contributions by Jacob Lauinger, Monica Louise Phillips, Benjamin Studevent-Hickman, and Aage Westenholz. 2012. Bismaya: Recovering th... (tier P)
+- `src-mesopotamia-woolley-ur-ii-1934` — excavation-report; Woolley, C. Leonard, with chapters by Leon Legrain, E. Burrows, Arthur Keith, and Harold J. Plenderleith. 1934. Ur Excavations. Volume II: The Royal Cemetery... (tier P)
+- `src-mesopotamia-woolley-ur-iv-1955` — excavation-report; Woolley, Leonard. 1955. Ur Excavations. Volume IV: The Early Periods. A Report on the Sites and Objects Prior in Date to the Third Dynasty of Ur Discovered i... (tier P)
+- `src-mesopotamia-woolley-ur-v-1939` — excavation-report; Woolley, C. Leonard. 1939. Ur Excavations. Volume V: The Ziggurat and Its Surroundings. Publications of the Joint Expedition of the British Museum and of the... (tier P)
+- `src-mesopotamia-woolley-ur-vi-1974` — excavation-report; Woolley, C. Leonard. 1974. Ur Excavations. Volume VI: The Buildings of the Third Dynasty. Publications of the Joint Expedition of the British Museum and of t... (tier P)
+- `src-mesopotamia-woolley-ur-vii-1976` — excavation-report; Woolley, Leonard, and Max Mallowan; edited by T. C. Mitchell. 1976. Ur Excavations. Volume VII: The Old Babylonian Period. London: British Museum Publication... (tier P)
+- `src-mesopotamia-zettler-inanna-nippur-1992` — monograph; Zettler, Richard L. 1992. The Ur III Temple of Inanna at Nippur: The Operation and Organization of Urban Religious Institutions in Mesopotamia in the Late Th... (tier P)

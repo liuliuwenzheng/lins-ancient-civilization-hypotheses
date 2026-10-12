@@ -503,3 +503,31 @@
 
 **说明：** 卡斯马「最早国家」、印度河「帝国」、凤雏「社宫」、三星堆＝商/宝墩直线前身、锡拉＝LM IB 唯一主因与单一日历年、奥尔梅克母文化与 Cascajal「最早文字」、米拉多尔「首个国家」与中前古典完备神王等一律假说栏。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
 
+
+### D-2026-10-12-3 — 两河 + 埃及第四轮档案密度加深
+
+**决定：** 继续按老大优先级加深档案密度。对两河与埃及做**第四轮**可核验密度加深：仅登记尚未入库的一手（P）与必要强二手（S）；扩展结构化遗址、组合与主张；同步 `civ-mesopotamia.md` / `civ-ancient-egypt.md`；争议进假说栏；全仓 `export_check` 必须通过。诚信优于速度。
+
+**本轮主要新 P（及必要 S）：**
+
+**两河：**
+- Delougaz《迪亚拉陶器》OIP 63（1952）；Frankfort 迪亚拉雕像 OIP 44（1939）
+- Mallowan & Rose 阿尔帕契亚《Iraq》1935；Mallowan 查加尔巴扎尔第二季《Iraq》1937
+- Woolley《乌尔发掘》VI 乌尔三朝建筑（1974）；UE VII 古巴比伦（1976）
+- Parrot《马里》II.1 宫殿建筑（1958）；Starr《努兹》1937/1939
+- Reuther 巴比伦 Merkes WVDOG 47（1926）；Englund ATU 5（1994）；Zettler 尼普尔伊南娜神庙 BBVO 11（1992）
+
+**埃及：**
+- Reisner《吉萨墓地史》I（1942）；Caton-Thompson & Gardner《Desert Fayum》（1934）
+- Lauer《阶梯金字塔：建筑》（1936）；Petrie《Dendereh, 1898》（1900）
+- Borchardt 尼乌塞尔拉陵庙（1907）；Jéquier 佩皮二世陵 I（1936）
+- Brunton《Qau and Badari》II（1928）；Peet《阿拜多斯墓地》II（1914）
+- Arnold《塞索斯特里斯一世金字塔》（1988）；Frankfort 塞提一世衣冠冢（1933）；Winlock 德尔拜赫里 1911–1931（1942）
+
+**结构化结果（以 `export_check` 为准）：**
+- **mesopotamia：** 来源 55→66；遗址 31→37；器物组合与主张相应增加
+- **egypt：** 来源 49→60；遗址 31→37；器物组合与主张相应增加
+- 其余七包不变；出处闸门通过。
+
+**说明：** 努兹不作第三千纪南部城市；法尤姆新石器≠尼罗河国家唯一摇篮；奥西睿昂为新王国纪念建筑。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
+

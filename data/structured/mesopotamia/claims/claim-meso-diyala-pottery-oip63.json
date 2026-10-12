@@ -1,0 +1,35 @@
+{
+  "id": "claim-meso-diyala-pottery-oip63",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Delougaz《迪亚拉地区陶器》OIP 63（1952）合刊哈法杰、阿斯马尔、阿格拉卜与伊什查利的陶器形制与分期。",
+    "en": "Delougaz, Pottery from the Diyala Region, OIP 63 (1952), publishes pottery forms and periodization from Khafajah, Tell Asmar, Tell Agrab, and Ishchali."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-ishchali",
+    "site-khafajah",
+    "site-tell-asmar",
+    "site-tell-agrab"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-diyala-pottery-oip63"
+  ],
+  "sources": [
+    "src-mesopotamia-delougaz-oip63-1952"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-delougaz-oip63-1952.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

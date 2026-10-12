@@ -1,0 +1,41 @@
+{
+  "id": "asm-fayum-neolithic-kom-wk",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "法尤姆新石器科姆 W/K 组合",
+    "en": "Fayum Neolithic Kom W/K assemblage"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-fayum-kom-w",
+    "site-fayum-kom-k"
+  ],
+  "period_ids": [
+    "period-egypt-palaeolithic-badarian"
+  ],
+  "summary": {
+    "zh": "Caton-Thompson & Gardner 1934 报告的科姆 W、科姆 K 新石器组合。",
+    "en": "Neolithic assemblages at Kom W and Kom K as published in Caton-Thompson & Gardner 1934."
+  },
+  "sources": [
+    "src-egypt-caton-thompson-desert-fayum-1934"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://search.worldcat.org/title/3383842",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-caton-thompson-desert-fayum-1934.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

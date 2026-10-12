@@ -1,0 +1,32 @@
+{
+  "id": "claim-egypt-petrie-dendereh",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Petrie《Dendereh, 1898》(1900) 报告埃及探索基金会 1898 年丹达拉墓地发掘。",
+    "en": "Petrie, Dendereh, 1898 (1900), reports the Egypt Exploration Fund’s 1898 Dendereh cemetery excavations."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-dendereh"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [
+    "asm-dendereh-cemetery-1900"
+  ],
+  "sources": [
+    "src-egypt-petrie-dendereh-1900"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-dendereh-1900.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "asm-abydos-osireion-frankfort",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿拜多斯奥西睿昂组合（Frankfort）",
+    "en": "Abydos Osireion/Cenotaph assemblage (Frankfort)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos-osireion",
+    "site-abydos"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Frankfort 1933 报告的塞提一世衣冠冢/奥西睿昂建筑与铭文组合。",
+    "en": "Seti I Cenotaph/Osireion architecture and inscriptions as published in Frankfort 1933."
+  },
+  "sources": [
+    "src-egypt-frankfort-cenotaph-seti-1933"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/MEEF39.1",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-frankfort-cenotaph-seti-1933.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

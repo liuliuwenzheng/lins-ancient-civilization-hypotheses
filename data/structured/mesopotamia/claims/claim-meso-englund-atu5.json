@@ -1,0 +1,32 @@
+{
+  "id": "claim-meso-englund-atu5",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Englund ATU 5（1994）刊布乌鲁克早期战役所见古朴行政泥板。",
+    "en": "Englund ATU 5 (1994) publishes archaic administrative texts from the early Uruk campaigns."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "object_ids": [
+    "asm-uruk-atu5-archaic-tablets"
+  ],
+  "sources": [
+    "src-mesopotamia-englund-atu5-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-englund-atu5-1994.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

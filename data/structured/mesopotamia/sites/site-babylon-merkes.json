@@ -1,0 +1,30 @@
+{
+  "id": "site-babylon-merkes",
+  "entity": "site",
+  "names": {
+    "zh": "巴比伦—梅尔克斯内城",
+    "en": "Babylon — Merkes (inner city)",
+    "native": null
+  },
+  "kind_note": "DOG Merkes excavation zone within Babylon",
+  "region": "Central Mesopotamia / Babylon",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "德国东方学会巴比伦内城（Merkes）发掘区；Reuther 1926 WVDOG 47。作巴比伦城内可检索档案单元，不另造坐标。",
+    "en": "DOG Merkes (inner-city) excavation zone at Babylon; Reuther 1926 WVDOG 47. Archive unit within Babylon; no invented coordinates."
+  },
+  "sources": [
+    "src-mesopotamia-reuther-merkes-1926",
+    "src-mesopotamia-koldewey-babylon-1914"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-reuther-merkes-1926.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

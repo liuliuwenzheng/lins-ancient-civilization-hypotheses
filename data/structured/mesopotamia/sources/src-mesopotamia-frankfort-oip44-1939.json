@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-frankfort-oip44-1939",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Frankfort, Henri. 1939. Sculpture of the Third Millennium B.C. from Tell Asmar and Khafajah. Oriental Institute Publications 44. Chicago: University of Chicago Press. xiii + 87 pp., color frontispiece, 5 figures, 115 plates.",
+  "url": "https://isac.uchicago.edu/publications/sculpture-tell-asmar-and-khafajah",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Diyala sculpture corpus (Tell Asmar Square Temple cache and Khafajah). Style-period labels (ED II/III) follow Frankfort’s publication; later refinements noted in scholarship. Digitized OI/ISAC catalog verified 2026-10-12.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oip44-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "asm-nippur-inanna-ur-iii",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "尼普尔伊南娜神庙乌尔三朝组合（Zettler）",
+    "en": "Nippur Inanna temple Ur III assemblage (Zettler)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-nippur"
+  ],
+  "period_ids": [
+    "period-ur-iii"
+  ],
+  "summary": {
+    "zh": "Zettler 1992 基于发掘记录与档案重建的伊南娜神庙运作组合。",
+    "en": "Inanna temple operation assemblage reconstructed from excavation records and archives in Zettler 1992."
+  },
+  "sources": [
+    "src-mesopotamia-zettler-inanna-nippur-1992"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.geschkult.fu-berlin.de/en/e/altorient/institut/Publikationen/BBVO-11---The-Ur-III-Temple-of-Inanna-at-Nippur/index.html",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-zettler-inanna-nippur-1992.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

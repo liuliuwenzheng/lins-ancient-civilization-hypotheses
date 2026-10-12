@@ -1,0 +1,30 @@
+{
+  "id": "site-chagar-bazar",
+  "entity": "site",
+  "names": {
+    "zh": "查加尔巴扎尔",
+    "en": "Tell Chagar Bazar",
+    "native": null
+  },
+  "kind_note": "Habur plains multi-period mound",
+  "region": "Northeastern Syria / Habur region",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "马洛温哈布尔调查与两季发掘；1937《Iraq》第二季报告；1947 与布拉克合刊。",
+    "en": "Mallowan Habur survey and campaigns; 1937 Iraq second-campaign report; 1947 Brak–Chagar synthesis."
+  },
+  "sources": [
+    "src-mesopotamia-mallowan-chagar-bazar-1937",
+    "src-mesopotamia-mallowan-brak-1947"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-mallowan-chagar-bazar-1937.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

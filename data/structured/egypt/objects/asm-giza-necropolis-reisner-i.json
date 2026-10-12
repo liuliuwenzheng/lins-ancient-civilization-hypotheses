@@ -1,0 +1,40 @@
+{
+  "id": "asm-giza-necropolis-reisner-i",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吉萨墓地组合（Reisner 卷 I）",
+    "en": "Giza necropolis assemblage (Reisner Vol. I)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Reisner 1942 卷 I 所记马斯塔巴类型与墓园布局（组合级）。",
+    "en": "Mastaba typology and cemetery layout as published in Reisner 1942 Vol. I (assemblage-level)."
+  },
+  "sources": [
+    "src-egypt-reisner-giza-necropolis-i-1942"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "http://giza.fas.harvard.edu/pubdocs/128/intro/",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-reisner-giza-necropolis-i-1942.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

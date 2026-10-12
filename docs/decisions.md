@@ -427,3 +427,31 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Casma “earliest state,” Indus “empire,” Fengchu “she palace,” Sanxingdui=Shang / Baodun ancestor-state, Thera=sole LM IB cause and single calendar year, Olmec mother-culture and Cascajal “oldest writing,” Mirador “first state,” and Middle Preclassic full divine kingship stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
 
+
+### D-2026-10-12-3 — Fourth archive density pass for Mesopotamia + Egypt
+
+**Decision:** Continue owner priority on archive density. Apply a **fourth** verified density pass to Mesopotamia and Egypt: register only not-yet-ingested primary (P) and needed strong secondary (S) reports; expand structured sites, assemblages, and claims; sync `civ-mesopotamia.md` / `civ-ancient-egypt.md`; contested → hypothesis; full-repo `export_check` must pass. Integrity over speed.
+
+**Major new P (and needed S):**
+
+**Mesopotamia:**
+- Delougaz *Pottery from the Diyala Region* OIP 63 (1952); Frankfort Diyala sculpture OIP 44 (1939)
+- Mallowan & Rose Arpachiyah *Iraq* 1935; Mallowan Chagar Bazar second campaign *Iraq* 1937
+- Woolley *UE* VI Third Dynasty buildings (1974); *UE* VII Old Babylonian (1976)
+- Parrot *Mari* II.1 Palace Architecture (1958); Starr *Nuzi* 1937/1939
+- Reuther Babylon Merkes WVDOG 47 (1926); Englund ATU 5 (1994); Zettler Nippur Inanna temple BBVO 11 (1992)
+
+**Egypt:**
+- Reisner *Giza Necropolis* I (1942); Caton-Thompson & Gardner *The Desert Fayum* (1934)
+- Lauer *La pyramide à degrés* architecture (1936); Petrie *Dendereh, 1898* (1900)
+- Borchardt Niuserre funerary complex (1907); Jéquier Pepi II royal tomb I (1936)
+- Brunton *Qau and Badari* II (1928); Peet *Cemeteries of Abydos* II (1914)
+- Arnold *Pyramid of Senwosret I* (1988); Frankfort Cenotaph of Seti I (1933); Winlock Deir el-Bahri 1911–1931 (1942)
+
+**Structured results (`export_check`):**
+- **mesopotamia:** sources 55→66; sites 31→37; objects 37→48; claims 46→58
+- **egypt:** sources 49→60; sites 31→37; objects 36→47; claims 46→58
+- Other seven packs unchanged; citation gate green.
+
+**Notes:** Nuzi is not a third-millennium southern city; Fayum Neolithic ≠ sole Nile-state cradle; Osireion is New Kingdom. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
+

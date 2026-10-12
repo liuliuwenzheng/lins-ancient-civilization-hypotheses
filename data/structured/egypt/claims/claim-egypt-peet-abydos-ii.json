@@ -1,0 +1,30 @@
+{
+  "id": "claim-egypt-peet-abydos-ii",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Peet《阿拜多斯墓地》II（1914）报告 1911–1912 季阿拜多斯墓地发掘。",
+    "en": "Peet, The Cemeteries of Abydos II (1914), reports Abydos cemetery excavations of 1911–1912."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-abydos-cemeteries-peet-ii"
+  ],
+  "sources": [
+    "src-egypt-peet-abydos-cemeteries-ii-1914"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-peet-abydos-cemeteries-ii-1914.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

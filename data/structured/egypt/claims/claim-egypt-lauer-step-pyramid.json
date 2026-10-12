@@ -1,0 +1,32 @@
+{
+  "id": "claim-egypt-lauer-step-pyramid",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lauer《阶梯金字塔：建筑》(1936) 正式刊布萨卡拉左塞尔阶梯金字塔建筑。",
+    "en": "Lauer, La pyramide à degrés: l’architecture (1936), publishes the architecture of the Djoser Step Pyramid at Saqqara."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [
+    "asm-saqqara-step-pyramid-lauer"
+  ],
+  "sources": [
+    "src-egypt-lauer-pyramide-degres-1936"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-lauer-pyramide-degres-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

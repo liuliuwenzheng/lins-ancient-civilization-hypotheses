@@ -1,0 +1,40 @@
+{
+  "id": "asm-arpachiyah-halaf",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿尔帕契亚哈拉夫建筑与彩陶组合",
+    "en": "Arpachiyah Halaf architecture and painted-pottery assemblage"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-arpachiyah"
+  ],
+  "period_ids": [
+    "period-ubaid"
+  ],
+  "summary": {
+    "zh": "Mallowan & Rose 1935 报告的圆屋（tholoi）与哈拉夫彩陶组合（组合级）。",
+    "en": "Tholoi and Halaf painted pottery as published by Mallowan & Rose 1935 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-mallowan-arpachiyah-1935"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.cambridge.org/core/journals/iraq/article/excavations-at-tall-arpachiyah-1933/C0758018A327221ABF4BB1A33D3DF2B6",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-mallowan-arpachiyah-1935.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

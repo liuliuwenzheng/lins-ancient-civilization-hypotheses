@@ -1,0 +1,30 @@
+{
+  "id": "claim-meso-chagar-bazar-1936",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mallowan（1937）《Iraq》4/2 报告 1936 年查加尔巴扎尔第二季发掘与哈布尔地区调查。",
+    "en": "Mallowan (1937) Iraq 4/2 reports the 1936 second campaign at Chagar Bazar and Habur regional survey."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-chagar-bazar"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-chagar-bazar-1936"
+  ],
+  "sources": [
+    "src-mesopotamia-mallowan-chagar-bazar-1937"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-mallowan-chagar-bazar-1937.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

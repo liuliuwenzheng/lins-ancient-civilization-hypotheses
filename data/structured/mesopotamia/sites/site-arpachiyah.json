@@ -1,0 +1,29 @@
+{
+  "id": "site-arpachiyah",
+  "entity": "site",
+  "names": {
+    "zh": "阿尔帕契亚",
+    "en": "Tell Arpachiyah",
+    "native": null
+  },
+  "kind_note": "Halaf-period mound; prehistoric northern Mesopotamia",
+  "region": "Northern Iraq / Assyrian plain (near Mosul)",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "哈拉夫期关键遗址；Mallowan & Rose 1935《Iraq》正式报告圆屋与彩陶。",
+    "en": "Key Halaf-period site; Mallowan & Rose 1935 Iraq report on tholoi and painted pottery."
+  },
+  "sources": [
+    "src-mesopotamia-mallowan-arpachiyah-1935"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-mallowan-arpachiyah-1935.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

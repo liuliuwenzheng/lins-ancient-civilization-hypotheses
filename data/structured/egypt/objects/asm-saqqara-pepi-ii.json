@@ -1,0 +1,41 @@
+{
+  "id": "asm-saqqara-pepi-ii",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "佩皮二世王陵组合（Jéquier I）",
+    "en": "Pepi II royal tomb assemblage (Jéquier I)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara-pepi-ii",
+    "site-saqqara"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Jéquier 1936 卷 I 所记佩皮二世王陵建筑与丧葬文本出土组合。",
+    "en": "Pepi II royal tomb architecture and funerary texts as published in Jéquier 1936 Tome I."
+  },
+  "sources": [
+    "src-egypt-jequier-pepi-ii-i-1936"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/jequier1936bd1",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-jequier-pepi-ii-i-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

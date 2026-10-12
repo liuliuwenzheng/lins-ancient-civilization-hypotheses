@@ -1,0 +1,41 @@
+{
+  "id": "asm-ur-iii-buildings-ue6",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌尔三朝建筑组合（UE VI）",
+    "en": "Ur III buildings assemblage (UE VI)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-ur-ur-iii-buildings",
+    "site-ur"
+  ],
+  "period_ids": [
+    "period-ur-iii"
+  ],
+  "summary": {
+    "zh": "Woolley UE VI 所记杜吉/布尔辛陵、神庙、城墙与乌尔纳姆石碑等建筑—器物记录（组合级）。",
+    "en": "Mausolea, temples, city wall, and Stela of Ur-Nammu records as published in Woolley UE VI (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-woolley-ur-vi-1974"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://commons.library.stonybrook.edu/iraqi-archaeology-digital-texts/90/",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-woolley-ur-vi-1974.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

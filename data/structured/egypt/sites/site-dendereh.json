@@ -1,0 +1,29 @@
+{
+  "id": "site-dendereh",
+  "entity": "site",
+  "names": {
+    "zh": "丹达拉墓地（登德拉）",
+    "en": "Dendereh (Dendera cemetery)",
+    "native": null
+  },
+  "kind_note": "Old Kingdom and later cemetery excavated by Petrie 1898",
+  "region": "Upper Egypt / Dendera region",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Petrie《Dendereh, 1898》(1900) 报告古王国马斯塔巴等；勿与丹达拉神庙未登记发掘混并。",
+    "en": "Petrie Dendereh, 1898 (1900) reports Old Kingdom mastabas etc.; do not conflate with unregistered Dendera temple work."
+  },
+  "sources": [
+    "src-egypt-petrie-dendereh-1900"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-petrie-dendereh-1900.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

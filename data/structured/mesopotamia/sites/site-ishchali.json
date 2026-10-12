@@ -1,0 +1,29 @@
+{
+  "id": "site-ishchali",
+  "entity": "site",
+  "names": {
+    "zh": "伊什查利",
+    "en": "Ishchali",
+    "native": null
+  },
+  "kind_note": "Diyala site; pottery published with Khafajah–Asmar–Agrab",
+  "region": "Diyala region, east of Baghdad",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "迪亚拉四遗址之一；陶器合刊于 Delougaz OIP 63（1952）。",
+    "en": "One of four Diyala sites; pottery treated with Khafajah–Asmar–Agrab in Delougaz OIP 63 (1952)."
+  },
+  "sources": [
+    "src-mesopotamia-delougaz-oip63-1952"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-delougaz-oip63-1952.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "site-ur-ur-iii-buildings",
+  "entity": "site",
+  "names": {
+    "zh": "乌尔—乌尔三朝建筑群",
+    "en": "Ur — Third Dynasty buildings (non-ziggurat)",
+    "native": null
+  },
+  "kind_note": "Ur III monumental buildings published in UE VI",
+  "region": "Southern Mesopotamia / Ur",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "Woolley UE VI（1974）所报乌尔三朝建筑（杜吉/布尔辛陵、神庙、城墙、乌尔纳姆石碑等），与塔庙卷（UE V）分册。",
+    "en": "Ur III buildings published in Woolley UE VI (1974)—mausolea, temples, city wall, Stela of Ur-Nammu—separate from the ziggurat volume (UE V)."
+  },
+  "sources": [
+    "src-mesopotamia-woolley-ur-vi-1974"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-woolley-ur-vi-1974.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

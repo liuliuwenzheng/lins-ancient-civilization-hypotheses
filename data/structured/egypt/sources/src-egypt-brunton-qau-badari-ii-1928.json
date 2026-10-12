@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-brunton-qau-badari-ii-1928",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Brunton, Guy. 1928. Qau and Badari II. British School of Archaeology in Egypt / Egyptian Research Account 45. London: British School of Archaeology in Egypt; Bernard Quaritch. 32 pp. text, 104 plates.",
+  "url": "https://archive.org/details/ERA45",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary BSAE continuation of Qau–Badari cemetery publication (ERA 45). Complements Brunton Qau and Badari I (1927) already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-brunton-qau-badari-ii-1928.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

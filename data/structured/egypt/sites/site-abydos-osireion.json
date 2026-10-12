@@ -1,0 +1,29 @@
+{
+  "id": "site-abydos-osireion",
+  "entity": "site",
+  "names": {
+    "zh": "阿拜多斯—奥西睿昂（塞提一世衣冠冢）",
+    "en": "Abydos — Osireion (Cenotaph of Seti I)",
+    "native": null
+  },
+  "kind_note": "New Kingdom cenotaph/Osireion at Abydos",
+  "region": "Abydos",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Frankfort《塞提一世衣冠冢》(1933) EES 报告；新王国纪念建筑，不作前王朝王陵定论。",
+    "en": "Frankfort, The Cenotaph of Seti I (1933) EES report; New Kingdom monument, not a Predynastic royal tomb claim."
+  },
+  "sources": [
+    "src-egypt-frankfort-cenotaph-seti-1933"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-frankfort-cenotaph-seti-1933.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

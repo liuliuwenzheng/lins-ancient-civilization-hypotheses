@@ -17,12 +17,16 @@
   "sources": [
     "src-egypt-adams-hk6-2000",
     "src-egypt-allen-middle-egyptian-2014",
+    "src-egypt-arnold-senwosret-i-1988",
     "src-egypt-bard-archaeology-2015",
+    "src-egypt-borchardt-neuserre-1907",
     "src-egypt-borchardt-sahure-plates-1913",
     "src-egypt-brunton-caton-thompson-badarian-1928",
     "src-egypt-brunton-mostagedda-1937",
     "src-egypt-brunton-qau-badari-i-1927",
+    "src-egypt-brunton-qau-badari-ii-1928",
     "src-egypt-butzer-hydraulic-1976",
+    "src-egypt-caton-thompson-desert-fayum-1934",
     "src-egypt-chlodnicki-farkha-i-2012",
     "src-egypt-de-morgan-dahchour-1895",
     "src-egypt-dreyer-umm-el-qaab-i-1998",
@@ -31,17 +35,22 @@
     "src-egypt-emery-great-tombs-ii-1954",
     "src-egypt-emery-great-tombs-iii-1958",
     "src-egypt-firth-quibell-step-pyramid-1935",
+    "src-egypt-frankfort-cenotaph-seti-1933",
     "src-egypt-garstang-mahasna-bet-khallaf-1903",
     "src-egypt-hoffman-before-pharaohs-1979",
+    "src-egypt-jequier-pepi-ii-i-1936",
     "src-egypt-junker-giza-i-1929",
     "src-egypt-kaiser-elephantine-mdaik26-1970",
     "src-egypt-kemp-anatomy-2006",
+    "src-egypt-lauer-pyramide-degres-1936",
     "src-egypt-lehner-complete-pyramids-1997",
     "src-egypt-midant-reynes-prehistory-2000",
     "src-egypt-mond-myers-armant-1937",
     "src-egypt-naville-deir-el-bahari-i-1895",
+    "src-egypt-peet-abydos-cemeteries-ii-1914",
     "src-egypt-petrie-abydos-i-1902",
     "src-egypt-petrie-abydos-ii-1903",
+    "src-egypt-petrie-dendereh-1900",
     "src-egypt-petrie-diospolis-parva-1901",
     "src-egypt-petrie-gerzeh-1912",
     "src-egypt-petrie-gizeh-1883",
@@ -55,6 +64,7 @@
     "src-egypt-quibell-green-hierakonpolis-1902",
     "src-egypt-quibell-hierakonpolis-1900",
     "src-egypt-randall-maciver-el-amrah-1902",
+    "src-egypt-reisner-giza-necropolis-i-1942",
     "src-egypt-reisner-mycerinus-1931",
     "src-egypt-reisner-naga-ed-der-i-1908",
     "src-egypt-rizkana-seeher-maadi-dai",
@@ -63,7 +73,8 @@
     "src-egypt-trigger-social-history-1983",
     "src-egypt-von-der-way-buto-i-1997",
     "src-egypt-wengrow-early-egypt-2006",
-    "src-egypt-wilkinson-early-dynastic-1999"
+    "src-egypt-wilkinson-early-dynastic-1999",
+    "src-egypt-winlock-deir-el-bahri-1942"
   ],
   "site_ids": [
     "site-abusir",
@@ -176,6 +187,6 @@
       "sources/src-egypt-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Updated in density pass D-2026-10-11-22. No new archaeological inventions; coordinates omitted. Second density pass 2026-10-11: +Badari/Hemamieh/Qau/Gerzeh/Hu-Abadiyeh/Armant/Mostagedda/Dahshur/Abusir/Farkha/Maadi. Density pass 3 (D-2026-10-12-1)."
+    "notes": "Updated in density pass D-2026-10-11-22. No new archaeological inventions; coordinates omitted. Second density pass 2026-10-11: +Badari/Hemamieh/Qau/Gerzeh/Hu-Abadiyeh/Armant/Mostagedda/Dahshur/Abusir/Farkha/Maadi. Density pass 3 (D-2026-10-12-1). Density pass 4 source list refreshed."
   }
 }

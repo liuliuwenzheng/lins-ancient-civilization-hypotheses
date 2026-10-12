@@ -1,0 +1,30 @@
+{
+  "id": "claim-meso-mari-palace-arch-1958",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Parrot《马里考古使命》II.1（1958）正式刊布马里宫殿建筑平面与构造。",
+    "en": "Parrot, Mission archéologique de Mari II.1 (1958), publishes the architecture of the Mari palace."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-mari"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mari-palace-architecture"
+  ],
+  "sources": [
+    "src-mesopotamia-parrot-mari-palais-arch-1958"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-parrot-mari-palais-arch-1958.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

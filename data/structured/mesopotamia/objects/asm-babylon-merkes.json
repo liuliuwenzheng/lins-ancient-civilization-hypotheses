@@ -1,0 +1,39 @@
+{
+  "id": "asm-babylon-merkes",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "巴比伦梅尔克斯内城组合（Reuther）",
+    "en": "Babylon Merkes inner-city assemblage (Reuther)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-babylon-merkes",
+    "site-babylon"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Reuther 1926 Merkes 报告所记内城房屋与街道层位组合。",
+    "en": "Inner-city houses and street levels as published in Reuther 1926 Merkes."
+  },
+  "sources": [
+    "src-mesopotamia-reuther-merkes-1926"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://commons.library.stonybrook.edu/amar/197/",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-reuther-merkes-1926.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

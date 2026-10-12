@@ -1,0 +1,29 @@
+{
+  "id": "site-nuzi",
+  "entity": "site",
+  "names": {
+    "zh": "努兹（约尔甘泰帕）",
+    "en": "Nuzi (Yorgan Tepa)",
+    "native": null
+  },
+  "kind_note": "Second-millennium town; Hurrian/Mittani-horizon archive site",
+  "region": "Northern Iraq near Kirkuk",
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "summary": {
+    "zh": "哈佛–ASOR–宾大 1927–1931 发掘；Starr 1937/1939 正式报告。属第二千纪北两河，不作第三千纪城市定论。",
+    "en": "Harvard–ASOR–Penn 1927–1931 excavations; Starr 1937/1939 final report. Second-millennium northern Mesopotamia; not an Early Dynastic urban claim."
+  },
+  "sources": [
+    "src-mesopotamia-starr-nuzi-1939"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-starr-nuzi-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "asm-saqqara-step-pyramid-lauer",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "萨卡拉阶梯金字塔建筑组合（Lauer）",
+    "en": "Saqqara Step Pyramid architecture assemblage (Lauer)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-saqqara"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "summary": {
+    "zh": "Lauer 1936《阶梯金字塔：建筑》所记平面、立面与构造（组合级）。",
+    "en": "Plans, elevations, and construction as published in Lauer 1936 Step Pyramid architecture volumes."
+  },
+  "sources": [
+    "src-egypt-lauer-pyramide-degres-1936",
+    "src-egypt-firth-quibell-step-pyramid-1935"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://atom.ifao.egnet.net/index.php/epreuves-annotees-du-tome-1-de-la-pyramide-a-degres",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-lauer-pyramide-degres-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

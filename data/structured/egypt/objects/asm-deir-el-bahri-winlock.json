@@ -1,0 +1,39 @@
+{
+  "id": "asm-deir-el-bahri-winlock",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "德尔拜赫里发掘组合（Winlock）",
+    "en": "Deir el-Bahri excavation assemblage (Winlock)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-deir-el-bahari"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Winlock 1942 综合 1911–1931 大都会博物馆队在德尔拜赫里的发掘组合。",
+    "en": "MMA Deir el-Bahri work 1911–1931 as synthesized in Winlock 1942."
+  },
+  "sources": [
+    "src-egypt-winlock-deir-el-bahri-1942",
+    "src-egypt-naville-deir-el-bahari-i-1895"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://digi.ub.uni-heidelberg.de/diglit/winlock1942/0016",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-winlock-deir-el-bahri-1942.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

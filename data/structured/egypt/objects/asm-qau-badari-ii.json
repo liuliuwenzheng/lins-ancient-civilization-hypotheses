@@ -1,0 +1,43 @@
+{
+  "id": "asm-qau-badari-ii",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡乌与巴达里墓地组合（Brunton II）",
+    "en": "Qau and Badari cemetery assemblage (Brunton II)"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-qau",
+    "site-badari"
+  ],
+  "period_ids": [
+    "period-egypt-palaeolithic-badarian",
+    "period-egypt-naqada"
+  ],
+  "summary": {
+    "zh": "Brunton《Qau and Badari》II（1928）续刊墓地器物与图版组合。",
+    "en": "Cemetery objects and plates continued in Brunton Qau and Badari II (1928)."
+  },
+  "sources": [
+    "src-egypt-brunton-qau-badari-ii-1928",
+    "src-egypt-brunton-qau-badari-i-1927"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/ERA45",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-brunton-qau-badari-ii-1928.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "asm-diyala-sculpture-oip44",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迪亚拉第三千纪雕像组合（OIP 44）",
+    "en": "Diyala third-millennium sculpture assemblage (OIP 44)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar",
+    "site-khafajah"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "summary": {
+    "zh": "Frankfort OIP 44 刊布的阿斯马尔广场神庙窖藏与哈法杰雕像组合。",
+    "en": "Tell Asmar Square Temple cache and Khafajah sculpture as published in Frankfort OIP 44."
+  },
+  "sources": [
+    "src-mesopotamia-frankfort-oip44-1939"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/publications/sculpture-tell-asmar-and-khafajah",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oip44-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

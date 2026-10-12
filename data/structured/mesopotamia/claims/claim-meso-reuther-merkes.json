@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-reuther-merkes",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Reuther《巴比伦内城（Merkes）》（1926，WVDOG 47）报告德国东方学会对巴比伦梅尔克斯区的发掘。",
+    "en": "Reuther, Die Innenstadt von Babylon (Merkes) (1926, WVDOG 47), reports DOG excavations in Babylon’s Merkes district."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-babylon-merkes",
+    "site-babylon"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-babylon-merkes"
+  ],
+  "sources": [
+    "src-mesopotamia-reuther-merkes-1926"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-reuther-merkes-1926.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-egypt-reisner-giza-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Reisner《吉萨墓地史》卷 I（1942）系统刊布吉萨墓园马斯塔巴类型与布局。",
+    "en": "Reisner, A History of the Giza Necropolis I (1942), systematically publishes mastaba typology and cemetery layout at Giza."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-giza"
+  ],
+  "period_ids": [
+    "period-egypt-old-kingdom"
+  ],
+  "object_ids": [
+    "asm-giza-necropolis-reisner-i"
+  ],
+  "sources": [
+    "src-egypt-reisner-giza-necropolis-i-1942"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-reisner-giza-necropolis-i-1942.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

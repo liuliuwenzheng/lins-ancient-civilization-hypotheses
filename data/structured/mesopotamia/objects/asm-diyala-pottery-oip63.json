@@ -1,0 +1,45 @@
+{
+  "id": "asm-diyala-pottery-oip63",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "迪亚拉陶器组合（OIP 63）",
+    "en": "Diyala pottery assemblage (OIP 63)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-khafajah",
+    "site-tell-asmar",
+    "site-tell-agrab",
+    "site-ishchali"
+  ],
+  "period_ids": [
+    "period-early-dynastic",
+    "period-jemdet-nasr",
+    "period-akkad"
+  ],
+  "summary": {
+    "zh": "Delougaz OIP 63 刊布的迪亚拉四遗址陶器形制与分期图版组合。",
+    "en": "Pottery forms and period plates from the four Diyala sites as published in Delougaz OIP 63."
+  },
+  "sources": [
+    "src-mesopotamia-delougaz-oip63-1952"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://isac.uchicago.edu/publications/pottery-diyala-region",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-delougaz-oip63-1952.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

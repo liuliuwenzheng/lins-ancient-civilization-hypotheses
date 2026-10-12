@@ -1,0 +1,38 @@
+{
+  "id": "asm-lisht-senwosret-i",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "利什特塞索斯特里斯一世金字塔组合",
+    "en": "Lisht Senwosret I pyramid assemblage"
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-lisht"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Arnold 1988 刊布的塞索斯特里斯一世金字塔与祭庙装置组合。",
+    "en": "Senwosret I pyramid and mortuary installations as published in Arnold 1988."
+  },
+  "sources": [
+    "src-egypt-arnold-senwosret-i-1988"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.metmuseum.org/en/met-publications/the-pyramid-of-senwosret-i",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-arnold-senwosret-i-1988.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

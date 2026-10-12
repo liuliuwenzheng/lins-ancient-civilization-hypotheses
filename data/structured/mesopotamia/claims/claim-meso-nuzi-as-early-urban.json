@@ -1,0 +1,31 @@
+{
+  "id": "claim-meso-nuzi-as-early-urban",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "若将努兹直接并入「第三千纪南部城市革命」同一叙事，易混淆第二千纪北两河档案城镇与乌鲁克—早王朝南部城市轨迹。",
+    "en": "Folding Nuzi directly into the same narrative as the southern third-millennium urban revolution risks conflating a second-millennium northern archive-town with the Uruk–ED southern trajectory."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-nuzi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-nuzi-yorgan-tepa"
+  ],
+  "sources": [
+    "src-mesopotamia-starr-nuzi-1939",
+    "src-mesopotamia-algaze-2008"
+  ],
+  "disclaimer": "Hypothesis: chronological and regional mismatch; Starr documents Nuzi as excavated, not as an Early Dynastic southern city.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-starr-nuzi-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-meso-frankfort-oip44",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Frankfort OIP 44（1939）刊布阿斯马尔与哈法杰的第三千纪雕像。",
+    "en": "Frankfort OIP 44 (1939) publishes third-millennium sculpture from Tell Asmar and Khafajah."
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-tell-asmar",
+    "site-khafajah"
+  ],
+  "period_ids": [
+    "period-early-dynastic"
+  ],
+  "object_ids": [
+    "asm-diyala-sculpture-oip44"
+  ],
+  "sources": [
+    "src-mesopotamia-frankfort-oip44-1939"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-frankfort-oip44-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

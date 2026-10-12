@@ -1,0 +1,29 @@
+{
+  "id": "site-lisht",
+  "entity": "site",
+  "names": {
+    "zh": "利什特",
+    "en": "Lisht (el-Lisht)",
+    "native": null
+  },
+  "kind_note": "Middle Kingdom royal cemetery; Senwosret I pyramid",
+  "region": "Memphite region / Lisht",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "中王国王陵区；Arnold《Senwosret I 金字塔》(1988) 刊布南墓园第一卷。",
+    "en": "Middle Kingdom royal cemetery; Arnold, The Pyramid of Senwosret I (1988), South Cemeteries of Lisht vol. I."
+  },
+  "sources": [
+    "src-egypt-arnold-senwosret-i-1988"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-arnold-senwosret-i-1988.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

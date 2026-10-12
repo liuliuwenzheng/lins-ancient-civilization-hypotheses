@@ -1,0 +1,38 @@
+{
+  "id": "asm-nuzi-yorgan-tepa",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "努兹约尔甘泰帕发掘组合（Starr）",
+    "en": "Nuzi Yorgan Tepa excavation assemblage (Starr)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-nuzi"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Starr 1937/1939 报告中的建筑、器物与档案出土组合（组合级；不发明泥板号）。",
+    "en": "Architecture, objects, and archive finds as published by Starr 1937/1939 (assemblage-level; no invented tablet numbers)."
+  },
+  "sources": [
+    "src-mesopotamia-starr-nuzi-1939"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://commons.library.stonybrook.edu/amar/350/",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-starr-nuzi-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

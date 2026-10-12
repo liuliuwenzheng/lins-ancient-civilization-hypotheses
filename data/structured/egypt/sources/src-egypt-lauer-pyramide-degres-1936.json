@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-lauer-pyramide-degres-1936",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Lauer, Jean-Philippe. 1936. La pyramide à degrés: l’architecture. Tome I: Texte; Tome II: Planches. Fouilles à Saqqarah. Cairo: Service des Antiquités de l’Égypte / IFAO.",
+  "url": "https://atom.ifao.egnet.net/index.php/epreuves-annotees-du-tome-1-de-la-pyramide-a-degres",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary architectural publication of the Step Pyramid complex at Saqqara (Djoser). Complements Firth & Quibell 1935 already registered. Tome III Compléments (1939) not separately ingested this pass.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-lauer-pyramide-degres-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

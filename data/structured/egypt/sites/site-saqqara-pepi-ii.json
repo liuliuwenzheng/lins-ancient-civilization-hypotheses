@@ -1,0 +1,29 @@
+{
+  "id": "site-saqqara-pepi-ii",
+  "entity": "site",
+  "names": {
+    "zh": "萨卡拉南—佩皮二世陵",
+    "en": "Saqqara South — Pyramid of Pepi II",
+    "native": null
+  },
+  "kind_note": "Old Kingdom pyramid complex of Pepi II",
+  "region": "Saqqara South",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Jéquier《佩皮二世陵墓》I（1936）正式报告王陵；作萨卡拉南可检索单元。",
+    "en": "Jéquier, Le monument funéraire de Pepi II I (1936), royal tomb; archive unit in Saqqara South."
+  },
+  "sources": [
+    "src-egypt-jequier-pepi-ii-i-1936"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-jequier-pepi-ii-i-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

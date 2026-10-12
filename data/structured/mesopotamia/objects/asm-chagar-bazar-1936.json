@@ -1,0 +1,40 @@
+{
+  "id": "asm-chagar-bazar-1936",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "查加尔巴扎尔 1936 季组合",
+    "en": "Chagar Bazar 1936 campaign assemblage"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-chagar-bazar"
+  ],
+  "period_ids": [
+    "period-ubaid"
+  ],
+  "summary": {
+    "zh": "Mallowan 1937《Iraq》第二季报告所记地层与器物组合。",
+    "en": "Levels and finds of the 1936 second campaign as published in Mallowan 1937 Iraq."
+  },
+  "sources": [
+    "src-mesopotamia-mallowan-chagar-bazar-1937"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.cambridge.org/core/journals/iraq/article/abs/excavations-at-tall-chagar-bazar-and-an-archaeological-survey-of-the-habur-region-second-campaign-1936/4751E07571F43444E2EE263E7A4D1D49",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-mallowan-chagar-bazar-1937.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

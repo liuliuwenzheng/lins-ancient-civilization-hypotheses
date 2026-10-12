@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-jequier-pepi-ii-i-1936",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Jéquier, Gustave. 1936. Le monument funéraire de Pepi II. Tome I: Le tombeau royal. Fouilles à Saqqarah. Cairo: Service des Antiquités de l’Égypte.",
+  "url": "https://digi.ub.uni-heidelberg.de/diglit/jequier1936bd1",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Saqqara South report on Pepi II’s royal tomb/pyramid complex (1932–1935 work as published). Later tomes cover queens and temples; this pass registers Tome I.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-jequier-pepi-ii-i-1936.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

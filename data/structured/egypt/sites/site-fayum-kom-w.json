@@ -1,0 +1,29 @@
+{
+  "id": "site-fayum-kom-w",
+  "entity": "site",
+  "names": {
+    "zh": "法尤姆科姆 W",
+    "en": "Fayum — Kom W",
+    "native": null
+  },
+  "kind_note": "Neolithic Fayum A settlement/midden excavated by Caton-Thompson",
+  "region": "Fayum depression, northern Egypt",
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "summary": {
+    "zh": "Caton-Thompson & Gardner《Desert Fayum》(1934) 主要新石器发掘点之一。",
+    "en": "One of the principal Neolithic localities published in Caton-Thompson & Gardner, The Desert Fayum (1934)."
+  },
+  "sources": [
+    "src-egypt-caton-thompson-desert-fayum-1934"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-caton-thompson-desert-fayum-1934.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Coordinates not asserted; density pass 4."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-starr-nuzi-1939",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Starr, Richard F. S. 1937–1939. Nuzi: Report on the Excavations at Yorgan Tepa near Kirkuk, Iraq, Conducted by Harvard University in Conjunction with the American Schools of Oriental Research and the University Museum of Philadelphia, 1927–1931. 2 vols. (Vol. II Plates and Plans, 1937; Vol. I Text, 1939). Cambridge, Mass.: Harvard University Press.",
+  "url": "https://commons.library.stonybrook.edu/amar/350/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Harvard–ASOR–Penn excavation report for Nuzi (Yorgan Tepa). Second-millennium Hurrian/Mittani-horizon site; included for northern Mesopotamia density. No invented tablet or room numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-starr-nuzi-1939.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

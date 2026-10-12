@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-caton-thompson-desert-fayum-1934",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Caton-Thompson, G., and E. W. Gardner. 1934. The Desert Fayum. 2 vols. (Text: xiv + 167 pp.; Plates: viii + 107 plates and 7 maps). London: Royal Anthropological Institute of Great Britain and Ireland.",
+  "url": "https://search.worldcat.org/title/3383842",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary RAI report on northern Fayum Neolithic survey and excavations (including Kom W and Kom K). Absolute chronology refined later; use published contexts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-caton-thompson-desert-fayum-1934.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

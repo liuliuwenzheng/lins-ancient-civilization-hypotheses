@@ -25,9 +25,12 @@
     "src-mesopotamia-crawford-sumerian-world-2013",
     "src-mesopotamia-delougaz-khafajah-oip53-1940",
     "src-mesopotamia-delougaz-lloyd-oip58-1942",
+    "src-mesopotamia-delougaz-oip63-1952",
+    "src-mesopotamia-englund-atu5-1994",
     "src-mesopotamia-finkbeiner-uruk-auwe4-1991",
     "src-mesopotamia-frankfort-lloyd-jacobsen-oip43-1940",
     "src-mesopotamia-frankfort-oic13-1932",
+    "src-mesopotamia-frankfort-oip44-1939",
     "src-mesopotamia-genouillac-telloh-i-1934",
     "src-mesopotamia-gibson-nippur-oic23-1978",
     "src-mesopotamia-green-nissen-zatu-1987",
@@ -42,7 +45,9 @@
     "src-mesopotamia-loud-altman-khorsabad-oip40-1938",
     "src-mesopotamia-loud-khorsabad-oip38-1936",
     "src-mesopotamia-mackay-kish-a-cemetery-1925",
+    "src-mesopotamia-mallowan-arpachiyah-1935",
     "src-mesopotamia-mallowan-brak-1947",
+    "src-mesopotamia-mallowan-chagar-bazar-1937",
     "src-mesopotamia-mallowan-nimrud-1966",
     "src-mesopotamia-martin-fara-1988",
     "src-mesopotamia-matthews-jemdet-nasr-2002",
@@ -54,14 +59,17 @@
     "src-mesopotamia-oates-choga-mami-1969",
     "src-mesopotamia-oates-nimrud-2001",
     "src-mesopotamia-parrot-mari-ishtar-1956",
+    "src-mesopotamia-parrot-mari-palais-arch-1958",
     "src-mesopotamia-parrot-tello-1948",
     "src-mesopotamia-pollock-1999",
     "src-mesopotamia-postgate-1992",
     "src-mesopotamia-postgate-abu-salabikh-1983",
     "src-mesopotamia-potts-1997",
+    "src-mesopotamia-reuther-merkes-1926",
     "src-mesopotamia-roaf-1990",
     "src-mesopotamia-safar-lloyd-mustafa-eridu-1981",
     "src-mesopotamia-speiser-gawra-i-1935",
+    "src-mesopotamia-starr-nuzi-1939",
     "src-mesopotamia-strommenger-habuba-kabira-1980",
     "src-mesopotamia-tobler-gawra-ii-1950",
     "src-mesopotamia-van-de-mieroop-2015",
@@ -69,7 +77,10 @@
     "src-mesopotamia-wilson-adab-oip138-2012",
     "src-mesopotamia-woolley-ur-ii-1934",
     "src-mesopotamia-woolley-ur-iv-1955",
-    "src-mesopotamia-woolley-ur-v-1939"
+    "src-mesopotamia-woolley-ur-v-1939",
+    "src-mesopotamia-woolley-ur-vi-1974",
+    "src-mesopotamia-woolley-ur-vii-1976",
+    "src-mesopotamia-zettler-inanna-nippur-1992"
   ],
   "site_ids": [
     "site-abu-salabikh",
@@ -182,6 +193,6 @@
       "sources/src-mesopotamia-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass D-2026-10-11-21: expanded P/S site reports, sites, assemblages, claims. Link arrays refreshed from pack files. Second density pass 2026-10-11: +Gawra/Uqair/Adab/Agrab/Choga Mami/Assur/Brak/Isin. Density pass 3 (D-2026-10-12-1)."
+    "notes": "Density pass D-2026-10-11-21: expanded P/S site reports, sites, assemblages, claims. Link arrays refreshed from pack files. Second density pass 2026-10-11: +Gawra/Uqair/Adab/Agrab/Choga Mami/Assur/Brak/Isin. Density pass 3 (D-2026-10-12-1). Density pass 4 source list refreshed."
   }
 }

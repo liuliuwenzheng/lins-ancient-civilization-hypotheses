@@ -1,0 +1,31 @@
+{
+  "id": "claim-egypt-brunton-qau-ii",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Brunton《Qau and Badari》II（1928，ERA 45）续刊卡乌—巴达里墓地材料。",
+    "en": "Brunton, Qau and Badari II (1928, ERA 45), continues publication of the Qau–Badari cemeteries."
+  },
+  "civilization_ids": [
+    "civ-ancient-egypt"
+  ],
+  "site_ids": [
+    "site-qau",
+    "site-badari"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-qau-badari-ii"
+  ],
+  "sources": [
+    "src-egypt-brunton-qau-badari-ii-1928"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-brunton-qau-badari-ii-1928.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Density pass 4; contested material kept as hypothesis where applicable."
+  }
+}

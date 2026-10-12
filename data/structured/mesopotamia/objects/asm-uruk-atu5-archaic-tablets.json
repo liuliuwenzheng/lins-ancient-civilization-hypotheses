@@ -1,0 +1,41 @@
+{
+  "id": "asm-uruk-atu5-archaic-tablets",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌鲁克古朴行政泥板组合（ATU 5）",
+    "en": "Uruk archaic administrative tablet assemblage (ATU 5)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "period_ids": [
+    "period-uruk"
+  ],
+  "summary": {
+    "zh": "Englund ATU 5 刊布的早期战役古朴行政泥板摹写与编目（组合级）。",
+    "en": "Archaic administrative tablets from early Uruk campaigns as edited in Englund ATU 5 (assemblage-level)."
+  },
+  "sources": [
+    "src-mesopotamia-englund-atu5-1994",
+    "src-mesopotamia-cdli"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://cdli.earth/publications/1139",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-englund-atu5-1994.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}

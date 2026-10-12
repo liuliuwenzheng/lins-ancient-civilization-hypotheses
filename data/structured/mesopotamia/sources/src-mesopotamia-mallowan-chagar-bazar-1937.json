@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-mallowan-chagar-bazar-1937",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Mallowan, M. E. L. 1937. “The Excavations at Tall Chagar Bazar and an Archaeological Survey of the Ḫabur Region. Second Campaign, 1936.” Iraq 4 (2): 91–154.",
+  "url": "https://www.cambridge.org/core/journals/iraq/article/abs/excavations-at-tall-chagar-bazar-and-an-archaeological-survey-of-the-habur-region-second-campaign-1936/4751E07571F43444E2EE263E7A4D1D49",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary second-campaign report for Chagar Bazar (spring 1936) and Habur survey notes. Complements the 1947 Brak–Chagar Bazar synthesis already registered. Use published levels; no invented locus numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-mallowan-chagar-bazar-1937.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers."
+  }
+}

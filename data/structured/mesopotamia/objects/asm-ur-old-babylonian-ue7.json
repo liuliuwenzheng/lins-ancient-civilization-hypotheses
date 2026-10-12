@@ -1,0 +1,38 @@
+{
+  "id": "asm-ur-old-babylonian-ue7",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌尔古巴比伦层组合（UE VII）",
+    "en": "Ur Old Babylonian levels assemblage (UE VII)"
+  },
+  "civilization_ids": [
+    "civ-mesopotamia"
+  ],
+  "site_ids": [
+    "site-ur"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "Woolley & Mallowan UE VII 刊布的古巴比伦层建筑与器物组合。",
+    "en": "Old Babylonian architecture and finds as published in Woolley & Mallowan UE VII."
+  },
+  "sources": [
+    "src-mesopotamia-woolley-ur-vii-1976"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/ur-excavations-vii.-the-old-babylonian-period",
+    "notes": "Metadata class only; no forged binaries or invented inventory numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-woolley-ur-vii-1976.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary report; density pass 4."
+  }
+}
