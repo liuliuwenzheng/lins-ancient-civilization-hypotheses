@@ -1,0 +1,19 @@
+{
+  "id": "src-zimbabwe-robinson-orientation",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Robinson, K. R. — Great Zimbabwe excavation and ceramic sequence reports (1950s–60s National Museums tradition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Excavation sequence pointer; no invented locus numbers.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-nuragic-sacred-well-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "努拉吉圣井神庙框架",
+    "en": "Nuragic sacred-well temple frame"
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-su-tempiesu-orientation"
+  ],
+  "period_ids": [
+    "period-nuragic-late-bronze",
+    "period-nuragic-iron"
+  ],
+  "summary": {
+    "zh": "圣井神庙建筑传统指针。",
+    "en": "Sacred-well temple architectural tradition pointer."
+  },
+  "sources": [
+    "src-nuragic-lilliu-1988",
+    "src-nuragic-contu-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

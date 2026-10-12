@@ -1,0 +1,33 @@
+{
+  "id": "claim-hallstatt-type-site",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥地利哈尔施塔特作为哈尔施塔特文化定名遗址，盐业—墓地景观见教科文与博物馆取向（UNESCO 806；NHM）。",
+    "en": "Hallstatt in Austria is the type site of Hallstatt culture; salt–cemetery landscape per UNESCO and museum orientation (UNESCO 806; NHM)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-type"
+  ],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-unesco-806",
+    "src-hallstatt-nhm-vienna-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

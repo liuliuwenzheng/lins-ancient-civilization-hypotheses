@@ -1,0 +1,33 @@
+{
+  "id": "claim-hallstatt-heuneburg",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "霍伊内堡在文献中作为早期铁器设防中心/王侯座候选讨论（Cunliffe；Wells）。",
+    "en": "Heuneburg is discussed as an Early Iron Age fortified centre / princely-seat candidate (Cunliffe; Wells)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-heuneburg-orientation"
+  ],
+  "period_ids": [
+    "period-hallstatt-d"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-cunliffe-1997",
+    "src-hallstatt-wells-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

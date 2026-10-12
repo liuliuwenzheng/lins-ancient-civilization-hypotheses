@@ -1,0 +1,30 @@
+{
+  "id": "claim-rapanui-van-tilburg",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Van Tilburg 1994 综合复活节岛考古，强调摩艾研究与保护伦理（Oxford / related presses）。",
+    "en": "Van Tilburg 1994 synthesizes Easter Island archaeology with emphasis on moai research and conservation ethics (Oxford / related presses)."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-rapanui-ahu-moai"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-van-tilburg-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

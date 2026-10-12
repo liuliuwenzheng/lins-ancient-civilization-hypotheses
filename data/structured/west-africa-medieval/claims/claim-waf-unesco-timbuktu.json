@@ -1,0 +1,33 @@
+{
+  "id": "claim-waf-unesco-timbuktu",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将廷巴克图列入世界遗产，强调萨赫勒学术—宗教城市景观（UNESCO 119）。",
+    "en": "UNESCO lists Timbuktu as World Heritage, emphasizing Sahelian scholarly–religious urban landscape (UNESCO 119)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-timbuktu-medieval"
+  ],
+  "period_ids": [
+    "period-waf-mali",
+    "period-waf-songhai"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-unesco-timbuktu-119"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

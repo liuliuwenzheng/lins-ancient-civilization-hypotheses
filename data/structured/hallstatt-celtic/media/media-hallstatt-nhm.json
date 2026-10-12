@@ -1,0 +1,32 @@
+{
+  "id": "media-hallstatt-nhm",
+  "entity": "media",
+  "title": {
+    "zh": "维也纳自然史博物馆门户",
+    "en": "NHM Vienna portal",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.nhm-wien.ac.at/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-nhm-web"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Naturhistorisches Museum Wien",
+    "upstream_url": "https://www.nhm-wien.ac.at/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

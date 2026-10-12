@@ -1,0 +1,34 @@
+{
+  "id": "period-moche-i-iii",
+  "entity": "period",
+  "names": {
+    "zh": "莫切 I–III 窗",
+    "en": "Moche I–III window"
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "early EIP working band (phase labels debated)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Larco-derived phase labels; absolute and political models debated."
+  },
+  "summary": {
+    "zh": "早期莫切阶段工作窗。",
+    "en": "Early Moche phase working window."
+  },
+  "sources": [
+    "src-moche-donnan-mcclelland-1999",
+    "src-moche-lockard-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

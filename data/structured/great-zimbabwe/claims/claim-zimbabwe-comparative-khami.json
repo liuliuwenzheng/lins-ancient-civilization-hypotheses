@@ -1,0 +1,33 @@
+{
+  "id": "claim-zimbabwe-comparative-khami",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "文献常将卡米等后继石都与大津巴布韦比较讨论（Pikirayi 2001；Huffman 2007）。",
+    "en": "Literature often compares successor stone capitals such as Khami with Great Zimbabwe (Pikirayi 2001; Huffman 2007)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-khami-orientation"
+  ],
+  "period_ids": [
+    "period-zimbabwe-khami-succession"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-huffman-2007"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

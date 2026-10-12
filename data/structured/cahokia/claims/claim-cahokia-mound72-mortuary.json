@@ -1,0 +1,31 @@
+{
+  "id": "claim-cahokia-mound72-mortuary",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "文献将 72 号丘表述为卡霍基亚著名的密西西比葬仪土墩之一（Fowler 1997；Pauketat 2004）；细节待专刊加厚。",
+    "en": "Literature frames Mound 72 as one of Cahokia's famous Mississippian mortuary mounds (Fowler 1997; Pauketat 2004); details deferred to specialist reports."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-mound-72-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-fowler-1997",
+    "src-cahokia-pauketat-2004"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

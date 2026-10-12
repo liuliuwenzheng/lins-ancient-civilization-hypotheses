@@ -2,7 +2,7 @@
   "id": "civ-rapa-nui",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "拉帕努伊（复活节岛）",
     "en": "Rapa Nui (Easter Island)",
@@ -11,28 +11,58 @@
   "region": "Oceania / southeastern Pacific (Chilean Polynesia)",
   "time_span": "Polynesian settlement to monumental moai florescence broadly late 1st–early 2nd millennium CE (Hunt–Lipo / Martinsson-Wallin frames; ethics-first)",
   "summary": {
-    "zh": "拉帕努伊档案壳：伦理优先；Hunt–Lipo/Martinsson-Wallin + 教科文；library-seed。",
-    "en": "Rapa Nui archive shell: ethics-first; Hunt–Lipo/Martinsson-Wallin + UNESCO; library-seed."
+    "zh": "拉帕努伊档案（library-seed-rich）：Van Tilburg/Hunt–Lipo + 教科文；伦理优先，无伪造摩艾图像。",
+    "en": "Rapa Nui archive (library-seed-rich): Van Tilburg/Hunt–Lipo + UNESCO; ethics-first, no forged moai imagery."
   },
   "sources": [
-    "src-rapanui-unesco-715",
+    "src-rapanui-conrich-orientation",
+    "src-rapanui-edwards-orientation",
+    "src-rapanui-flenley-bahn-orientation",
+    "src-rapanui-hamilton-orientation",
     "src-rapanui-hunt-lipo-2011",
+    "src-rapanui-lipo-hunt-transport",
     "src-rapanui-martinsson-wallin-orientation",
-    "src-rapanui-van-tilburg-1994",
-    "src-rapanui-stevenson-orientation"
+    "src-rapanui-mulrooney-orientation",
+    "src-rapanui-routledge-1919",
+    "src-rapanui-seppenhofer-orientation",
+    "src-rapanui-shepardson-orientation",
+    "src-rapanui-stevenson-orientation",
+    "src-rapanui-unesco-715",
+    "src-rapanui-unesco-docs",
+    "src-rapanui-van-tilburg-1994"
   ],
   "site_ids": [
     "site-rapa-nui-national-park",
-    "site-rapanui-orongo-orientation"
+    "site-rapanui-ahu-akivi-orientation",
+    "site-rapanui-ahu-tongariki-orientation",
+    "site-rapanui-anakena-orientation",
+    "site-rapanui-orongo-orientation",
+    "site-rapanui-puna-pau-orientation",
+    "site-rapanui-rano-raraku-orientation"
   ],
   "period_ids": [
-    "period-rapa-nui-monumental"
+    "period-rapa-nui-monumental",
+    "period-rapanui-ahu-moai",
+    "period-rapanui-birdman",
+    "period-rapanui-colonization"
   ],
   "claim_ids": [
-    "claim-rapanui-moai-landscape"
+    "claim-rapanui-ethics",
+    "claim-rapanui-hunt-lipo",
+    "claim-rapanui-moai-landscape",
+    "claim-rapanui-orongo",
+    "claim-rapanui-pukao",
+    "claim-rapanui-rano-raraku",
+    "claim-rapanui-stevenson",
+    "claim-rapanui-tongariki",
+    "claim-rapanui-transport-hypothesis",
+    "claim-rapanui-unesco",
+    "claim-rapanui-van-tilburg"
   ],
   "object_ids": [
-    "asm-rapanui-moai-ahu-frame"
+    "asm-rapanui-moai-ahu-frame",
+    "asm-rapanui-moai-quarry-ahu-frame",
+    "asm-rapanui-orongo-birdman-frame"
   ],
   "related_ids": [
     "civ-lapita-pacific"
@@ -40,11 +70,11 @@
   "markdown_path": "data/civilizations/civ-rapa-nui.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

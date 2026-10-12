@@ -1,0 +1,35 @@
+{
+  "id": "period-waf-mali",
+  "entity": "period",
+  "names": {
+    "zh": "马里帝国窗",
+    "en": "Mali empire window"
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "time": {
+    "label": "broadly 13th–15th centuries CE",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "马里帝国工作窗。",
+    "en": "Mali empire working window."
+  },
+  "sources": [
+    "src-waf-gomez-2018",
+    "src-waf-conrad-orientation",
+    "src-waf-niane-sundiata-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

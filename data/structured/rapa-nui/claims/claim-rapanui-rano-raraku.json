@@ -1,0 +1,33 @@
+{
+  "id": "claim-rapanui-rano-raraku",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉诺拉拉库被表述为主要摩艾采石场，见教科文与 Van Tilburg 综合（UNESCO 715；Van Tilburg 1994）。",
+    "en": "Rano Raraku is framed as the primary moai quarry in UNESCO and Van Tilburg syntheses (UNESCO 715; Van Tilburg 1994)."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-rano-raraku-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-rapanui-moai-quarry-ahu-frame"
+  ],
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-van-tilburg-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

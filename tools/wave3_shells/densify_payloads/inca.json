@@ -1,0 +1,538 @@
+{
+  "civ_id": "civ-inca",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "印加档案（library-seed-rich）：D'Altroy/Hyslop/McEwan + 库斯科/马丘比丘教科文；仍非埃及级密度。",
+    "en": "Inca archive (library-seed-rich): D'Altroy/Hyslop/McEwan + Cusco/Machu Picchu UNESCO; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-inca-rowe-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Rowe, John Howland — Inca culture history and chronological frameworks (classic essays).",
+      "url": null,
+      "notes": "Culture-history orientation; foundational S."
+    },
+    {
+      "id": "src-inca-bauer-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bauer, Brian S. — Cusco and Inca sacred landscape / ceque studies.",
+      "url": null,
+      "notes": "Cusco/ceque orientation."
+    },
+    {
+      "id": "src-inca-protzen-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Protzen, Jean-Pierre. 1993. Inca Architecture and Construction at Ollantaytambo. New York: Oxford University Press.",
+      "url": null,
+      "notes": "Architecture/construction monograph; print."
+    },
+    {
+      "id": "src-inca-zuidema-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Zuidema, R. Tom — Inca social organization and ceque system studies.",
+      "url": null,
+      "notes": "Social/ceque orientation; interpretive."
+    },
+    {
+      "id": "src-inca-covey-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Covey, R. Alan — Inca heartland archaeology and state formation studies.",
+      "url": null,
+      "notes": "Heartland archaeology orientation."
+    },
+    {
+      "id": "src-inca-unesco-cusco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. City of Cuzco — documents. https://whc.unesco.org/en/list/273/documents/",
+      "url": "https://whc.unesco.org/en/list/273/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-inca-unesco-mp-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Historic Sanctuary of Machu Picchu — documents. https://whc.unesco.org/en/list/274/documents/",
+      "url": "https://whc.unesco.org/en/list/274/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-inca-niles-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Niles, Susan A. — Inca royal estates and architecture studies.",
+      "url": null,
+      "notes": "Royal estate orientation."
+    },
+    {
+      "id": "src-inca-morris-thompson-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Morris, Craig, and Donald E. Thompson — Huánuco Pampa Inca administrative centre excavations.",
+      "url": null,
+      "notes": "Administrative centre excavation orientation."
+    },
+    {
+      "id": "src-inca-qhapac-nan-unesco",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Qhapaq Ñan, Andean Road System. https://whc.unesco.org/en/list/1459/",
+      "url": "https://whc.unesco.org/en/list/1459/",
+      "notes": "Andean road system WH listing orientation; tier T."
+    }
+  ],
+  "fill_coords": {
+    "site-cusco-inca": {
+      "lat": -13.5169,
+      "lon": -71.9786,
+      "precision_note": "English Wikipedia primary coordinates for «Cusco»; access 2026-10-12 (UNESCO WH list 273 orientation site)"
+    },
+    "site-machu-picchu": {
+      "lat": -13.163333,
+      "lon": -72.545556,
+      "precision_note": "English Wikipedia primary coordinates for «Machu Picchu»; access 2026-10-12 (UNESCO WH list 274 orientation site)"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-inca-ollantaytambo-orientation",
+      "names": {
+        "zh": "奥扬泰坦博（指针）",
+        "en": "Ollantaytambo (orientation)",
+        "native": "Ollantaytambo"
+      },
+      "kind_note": "Inca royal estate / fortress-town",
+      "region": "Sacred Valley, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "印加王室庄园/要塞城镇指针。",
+        "en": "Inca royal estate / fortress-town orientation."
+      },
+      "sources": [
+        "src-inca-protzen-orientation",
+        "src-inca-daltroy-2014",
+        "src-inca-niles-orientation"
+      ]
+    },
+    {
+      "id": "site-inca-sacsayhuaman-orientation",
+      "names": {
+        "zh": "萨克萨瓦曼（指针）",
+        "en": "Sacsayhuamán (orientation)",
+        "native": "Sacsayhuamán"
+      },
+      "kind_note": "Cyclopean ceremonial–defensive complex above Cusco",
+      "region": "Cusco, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "库斯科上方巨石礼仪—防御复合体指针。",
+        "en": "Cyclopean ceremonial–defensive complex orientation above Cusco."
+      },
+      "sources": [
+        "src-inca-unesco-cusco-273",
+        "src-inca-bauer-orientation",
+        "src-inca-mcewan-2006"
+      ]
+    },
+    {
+      "id": "site-inca-pisac-orientation",
+      "names": {
+        "zh": "皮萨克（指针）",
+        "en": "Pisac (orientation)",
+        "native": "Pisac"
+      },
+      "kind_note": "Sacred Valley Inca complex",
+      "region": "Sacred Valley, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "圣谷印加复合体指针。",
+        "en": "Sacred Valley Inca complex orientation."
+      },
+      "sources": [
+        "src-inca-daltroy-2014",
+        "src-inca-niles-orientation"
+      ]
+    },
+    {
+      "id": "site-inca-huanuco-pampa-orientation",
+      "names": {
+        "zh": "瓦努科潘帕（指针）",
+        "en": "Huánuco Pampa (orientation)",
+        "native": "Huánuco Pampa"
+      },
+      "kind_note": "Inca administrative centre on Qhapaq Ñan",
+      "region": "Huánuco region, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "印加行政中心指针。",
+        "en": "Inca administrative centre orientation."
+      },
+      "sources": [
+        "src-inca-morris-thompson-orientation",
+        "src-inca-hyslop-1990",
+        "src-inca-qhapac-nan-unesco"
+      ]
+    },
+    {
+      "id": "site-inca-vilcashuaman-orientation",
+      "names": {
+        "zh": "比尔卡舒阿曼（指针）",
+        "en": "Vilcashuamán (orientation)",
+        "native": "Vilcashuamán"
+      },
+      "kind_note": "Inca provincial ceremonial–administrative centre",
+      "region": "Ayacucho region, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "印加行省礼仪—行政中心指针。",
+        "en": "Inca provincial ceremonial–administrative centre orientation."
+      },
+      "sources": [
+        "src-inca-daltroy-2014",
+        "src-inca-hyslop-1990"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-inca-early-expansion",
+      "names": {
+        "zh": "印加早期扩张窗",
+        "en": "Early Inca expansion window"
+      },
+      "time": {
+        "label": "ca. 1400–1470 CE working band (Rowe-related labels)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "早期扩张工作窗。",
+        "en": "Early expansion working window."
+      },
+      "sources": [
+        "src-inca-rowe-orientation",
+        "src-inca-daltroy-2014",
+        "src-inca-covey-orientation"
+      ]
+    },
+    {
+      "id": "period-inca-imperial-apex",
+      "names": {
+        "zh": "印加帝国极盛窗",
+        "en": "Imperial Inca apex window"
+      },
+      "time": {
+        "label": "ca. 1470–1532 CE working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "帝国极盛工作窗。",
+        "en": "Imperial apex working window."
+      },
+      "sources": [
+        "src-inca-daltroy-2014",
+        "src-inca-mcewan-2006"
+      ]
+    },
+    {
+      "id": "period-inca-early-colonial",
+      "names": {
+        "zh": "印加—早期殖民过渡窗",
+        "en": "Inca–early colonial transition window"
+      },
+      "time": {
+        "label": "after 1532 CE working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "征服后过渡窗。",
+        "en": "Post-conquest transition window."
+      },
+      "sources": [
+        "src-inca-daltroy-2014",
+        "src-inca-mcewan-2006"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-inca-ashlar-architecture-frame",
+      "names": {
+        "zh": "印加精细石作建筑框架",
+        "en": "Inca fine ashlar architecture frame"
+      },
+      "site_ids": [
+        "site-cusco-inca",
+        "site-machu-picchu",
+        "site-inca-sacsayhuaman-orientation"
+      ],
+      "period_ids": [
+        "period-inca-late-horizon",
+        "period-inca-imperial-apex"
+      ],
+      "sources": [
+        "src-inca-unesco-cusco-273",
+        "src-inca-unesco-machu-picchu-274",
+        "src-inca-protzen-orientation"
+      ],
+      "summary": {
+        "zh": "精细多边形石作传统指针。",
+        "en": "Fine polygonal ashlar tradition pointer."
+      }
+    },
+    {
+      "id": "asm-inca-qhapaq-nan-frame",
+      "names": {
+        "zh": "卡帕克南道路系统框架",
+        "en": "Qhapaq Ñan road-system frame"
+      },
+      "site_ids": [
+        "site-inca-huanuco-pampa-orientation"
+      ],
+      "period_ids": [
+        "period-inca-imperial-apex"
+      ],
+      "sources": [
+        "src-inca-hyslop-1990",
+        "src-inca-qhapac-nan-unesco"
+      ],
+      "summary": {
+        "zh": "安第斯道路系统指针。",
+        "en": "Andean road-system pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-inca-unesco-cusco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将库斯科城列入世界遗产，强调印加与殖民叠压城市景观（UNESCO 273）。",
+        "en": "UNESCO lists the City of Cuzco as World Heritage, emphasizing Inca and colonial superimposed urban landscape (UNESCO 273)."
+      },
+      "site_ids": [
+        "site-cusco-inca"
+      ],
+      "period_ids": [
+        "period-inca-late-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-inca-unesco-cusco-273"
+      ]
+    },
+    {
+      "id": "claim-inca-unesco-mp",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将马丘比丘历史圣地列入世界遗产（UNESCO 274）。",
+        "en": "UNESCO lists the Historic Sanctuary of Machu Picchu as World Heritage (UNESCO 274)."
+      },
+      "site_ids": [
+        "site-machu-picchu"
+      ],
+      "period_ids": [
+        "period-inca-imperial-apex"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-inca-unesco-machu-picchu-274"
+      ]
+    },
+    {
+      "id": "claim-inca-daltroy",
+      "kind": "fact",
+      "statement": {
+        "zh": "D'Altroy 2014 综合印加帝国政治经济与考古（revised Thames & Hudson / scholarly editions）。",
+        "en": "D'Altroy 2014 synthesizes Inca imperial political economy and archaeology (revised Thames & Hudson / scholarly editions)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-inca-late-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-inca-daltroy-2014"
+      ]
+    },
+    {
+      "id": "claim-inca-hyslop-roads",
+      "kind": "fact",
+      "statement": {
+        "zh": "Hyslop 1990 建立印加道路系统考古综合（Inka Road System）。",
+        "en": "Hyslop 1990 establishes an archaeological synthesis of the Inka road system."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-inca-imperial-apex"
+      ],
+      "object_ids": [
+        "asm-inca-qhapaq-nan-frame"
+      ],
+      "sources": [
+        "src-inca-hyslop-1990"
+      ]
+    },
+    {
+      "id": "claim-inca-protzen-ollantay",
+      "kind": "fact",
+      "statement": {
+        "zh": "Protzen 1993 专著分析奥扬泰坦博印加建筑与施工技术（OUP）。",
+        "en": "Protzen 1993 monograph analyzes Inca architecture and construction at Ollantaytambo (OUP)."
+      },
+      "site_ids": [
+        "site-inca-ollantaytambo-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-inca-protzen-orientation"
+      ]
+    },
+    {
+      "id": "claim-inca-sacsayhuaman",
+      "kind": "fact",
+      "statement": {
+        "zh": "萨克萨瓦曼被综合著作讨论为库斯科上方巨石礼仪—防御复合体（UNESCO Cusco；Bauer orientation）。",
+        "en": "Sacsayhuamán is discussed as a cyclopean ceremonial–defensive complex above Cusco (UNESCO Cusco; Bauer orientation)."
+      },
+      "site_ids": [
+        "site-inca-sacsayhuaman-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-inca-unesco-cusco-273",
+        "src-inca-bauer-orientation"
+      ]
+    },
+    {
+      "id": "claim-inca-huanuco-admin",
+      "kind": "fact",
+      "statement": {
+        "zh": "瓦努科潘帕作为印加行政中心见于 Morris & Thompson 发掘传统与道路系统文献（Hyslop；UNESCO Qhapaq Ñan）。",
+        "en": "Huánuco Pampa as Inca administrative centre appears in Morris & Thompson excavation tradition and road-system literature (Hyslop; UNESCO Qhapaq Ñan)."
+      },
+      "site_ids": [
+        "site-inca-huanuco-pampa-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-inca-morris-thompson-orientation",
+        "src-inca-hyslop-1990",
+        "src-inca-qhapac-nan-unesco"
+      ]
+    },
+    {
+      "id": "claim-inca-rowe-chronology",
+      "kind": "fact",
+      "statement": {
+        "zh": "Rowe 文化史框架为印加年代学提供经典标签（经典论文传统）；绝对年代仍可修订。",
+        "en": "Rowe's culture-history framework supplies classic labels for Inca chronology (classic essay tradition); absolute dates remain revisable."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-inca-early-expansion",
+        "period-inca-imperial-apex"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-inca-rowe-orientation",
+        "src-inca-daltroy-2014"
+      ]
+    },
+    {
+      "id": "claim-inca-ashlar-frame",
+      "kind": "fact",
+      "statement": {
+        "zh": "库斯科与马丘比丘细石作被教科文与建筑研究表述为印加标志性工程（UNESCO 273/274；Protzen）。",
+        "en": "Fine ashlar at Cusco and Machu Picchu is framed by UNESCO and architectural studies as hallmark Inca engineering (UNESCO 273/274; Protzen)."
+      },
+      "site_ids": [
+        "site-cusco-inca",
+        "site-machu-picchu"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-inca-ashlar-architecture-frame"
+      ],
+      "sources": [
+        "src-inca-unesco-cusco-273",
+        "src-inca-unesco-machu-picchu-274",
+        "src-inca-protzen-orientation"
+      ]
+    },
+    {
+      "id": "claim-inca-mcewan-overview",
+      "kind": "fact",
+      "statement": {
+        "zh": "McEwan 2006 提供印加的通识考古综合（Thames & Hudson / related）。",
+        "en": "McEwan 2006 provides an accessible archaeological synthesis of the Incas (Thames & Hudson / related)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-inca-late-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-inca-mcewan-2006"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-inca-unesco-cusco",
+      "title": {
+        "zh": "教科文：库斯科城",
+        "en": "UNESCO: City of Cuzco",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/273/",
+      "sources": [
+        "src-inca-unesco-cusco-273"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-inca-unesco-mp",
+      "title": {
+        "zh": "教科文：马丘比丘",
+        "en": "UNESCO: Machu Picchu",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/274/",
+      "sources": [
+        "src-inca-unesco-machu-picchu-274"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-inca-qhapaq-nan",
+      "title": {
+        "zh": "教科文：卡帕克南道路系统",
+        "en": "UNESCO: Qhapaq Ñan",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/1459/",
+      "sources": [
+        "src-inca-qhapac-nan-unesco"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

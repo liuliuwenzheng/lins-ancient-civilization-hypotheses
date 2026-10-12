@@ -1,0 +1,43 @@
+{
+  "id": "asm-zimbabwe-great-enclosure-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "大围场干石建筑框架",
+    "en": "Great Enclosure dry-stone frame"
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-great-enclosure"
+  ],
+  "period_ids": [
+    "period-zimbabwe-classic-capital"
+  ],
+  "summary": {
+    "zh": "大围场干石工程指针。",
+    "en": "Great Enclosure dry-stone engineering pointer."
+  },
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-garlake-1973"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

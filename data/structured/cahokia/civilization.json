@@ -2,7 +2,7 @@
   "id": "civ-cahokia",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "卡霍基亚（密西西比文化）",
     "en": "Cahokia (Mississippian)",
@@ -11,28 +11,58 @@
   "region": "North America / American Bottom (Illinois; Mississippi River floodplain)",
   "time_span": "Mississippian florescence ca. 1050–1350 CE (Pauketat / Emerson frames)",
   "summary": {
-    "zh": "卡霍基亚档案壳（library-seed）：Pauketat 综合 + 教科文；北美密西西比大型中心。",
-    "en": "Cahokia archive shell (library-seed): Pauketat synthesis + UNESCO; major Mississippian centre."
+    "zh": "卡霍基亚档案（library-seed-rich）：Pauketat/Emerson/Milner/Fowler + 教科文；密西西比大型中心，仍非埃及级密度。",
+    "en": "Cahokia archive (library-seed-rich): Pauketat/Emerson/Milner/Fowler + UNESCO; major Mississippian centre; not yet Egypt-level density."
   },
   "sources": [
-    "src-cahokia-unesco-198",
-    "src-cahokia-pauketat-2009",
+    "src-cahokia-alt-2010",
+    "src-cahokia-barrier-orientation",
+    "src-cahokia-collins-orientation",
     "src-cahokia-emerson-1997",
+    "src-cahokia-emerson-pauketat-orientation",
+    "src-cahokia-fowler-1997",
+    "src-cahokia-holley-orientation",
+    "src-cahokia-iseminger-orientation",
+    "src-cahokia-kelly-orientation",
     "src-cahokia-milner-1998",
-    "src-cahokia-fowler-1997"
+    "src-cahokia-nps-orientation",
+    "src-cahokia-pauketat-2004",
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-unesco-198",
+    "src-cahokia-unesco-docs"
   ],
   "site_ids": [
+    "site-cahokia-east-st-louis-orientation",
+    "site-cahokia-mitchell-orientation",
     "site-cahokia-monks-mound",
-    "site-cahokia-east-st-louis-orientation"
+    "site-cahokia-mound-72-orientation",
+    "site-cahokia-powell-mound-orientation",
+    "site-cahokia-st-louis-mound-group-orientation",
+    "site-cahokia-woodhenge-orientation"
   ],
   "period_ids": [
-    "period-cahokia-mississippian-floruit"
+    "period-cahokia-lohmann",
+    "period-cahokia-mississippian-floruit",
+    "period-cahokia-moorehead-sand-prairie",
+    "period-cahokia-stirling"
   ],
   "claim_ids": [
-    "claim-cahokia-mississippian-centre"
+    "claim-cahokia-american-bottom",
+    "claim-cahokia-emerson-power",
+    "claim-cahokia-fowler-atlas",
+    "claim-cahokia-milner-chiefdom",
+    "claim-cahokia-mississippian-centre",
+    "claim-cahokia-monks-mound-frame",
+    "claim-cahokia-mound72-mortuary",
+    "claim-cahokia-pauketat-city",
+    "claim-cahokia-phase-labels",
+    "claim-cahokia-unesco-listed",
+    "claim-cahokia-woodhenge"
   ],
   "object_ids": [
-    "asm-cahokia-mound-plaza-frame"
+    "asm-cahokia-monks-mound-frame",
+    "asm-cahokia-mound-plaza-frame",
+    "asm-cahokia-woodhenge-frame"
   ],
   "related_ids": [
     "civ-ancestral-pueblo"
@@ -40,11 +70,11 @@
   "markdown_path": "data/civilizations/civ-cahokia.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

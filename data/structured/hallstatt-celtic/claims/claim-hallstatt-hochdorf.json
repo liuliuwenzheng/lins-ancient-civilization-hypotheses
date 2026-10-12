@@ -1,0 +1,35 @@
+{
+  "id": "claim-hallstatt-hochdorf",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "霍赫多夫王侯墓是哈尔施塔特 D 期精英车葬的关键发掘案例（Biel publication tradition）。",
+    "en": "Hochdorf princely burial is a foundational excavation case of Hallstatt D elite wagon burial (Biel publication tradition)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-hochdorf-orientation"
+  ],
+  "period_ids": [
+    "period-hallstatt-d"
+  ],
+  "object_ids": [
+    "asm-hallstatt-princely-burial-frame"
+  ],
+  "sources": [
+    "src-hallstatt-biel-orientation",
+    "src-hallstatt-pare-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

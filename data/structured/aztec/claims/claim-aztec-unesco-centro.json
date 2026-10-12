@@ -1,0 +1,33 @@
+{
+  "id": "claim-aztec-unesco-centro",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将墨西哥城历史中心与霍奇米尔科列入世界遗产，覆盖特诺奇蒂特兰叠压城市景观（UNESCO 412）。",
+    "en": "UNESCO lists Historic Centre of Mexico City and Xochimilco as World Heritage, covering Tenochtitlan's superimposed urban landscape (UNESCO 412)."
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-templo-mayor-tenochtitlan",
+    "site-aztec-tenochtitlan-island-orientation"
+  ],
+  "period_ids": [
+    "period-aztec-late-postclassic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-unesco-mexico-city-412"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

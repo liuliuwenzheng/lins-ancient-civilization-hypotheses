@@ -2,7 +2,7 @@
   "id": "civ-aztec",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "阿兹特克（墨西卡）",
     "en": "Aztec (Mexica)",
@@ -11,27 +11,57 @@
   "region": "Mesoamerica / Basin of Mexico (Tenochtitlan–Tlatelolco)",
   "time_span": "Late Postclassic Triple Alliance floruit broadly 14th–early 16th centuries CE (Smith / Matos Moctezuma frames)",
   "summary": {
-    "zh": "阿兹特克档案壳：Smith/Matos + 大神庙发掘；library-seed。",
-    "en": "Aztec archive shell: Smith/Matos + Templo Mayor excavations; library-seed."
+    "zh": "阿兹特克/墨西卡档案（library-seed-rich）：Smith/Matos + 大神庙 INAH + 墨西哥城教科文；仍非埃及级密度。",
+    "en": "Aztec/Mexica archive (library-seed-rich): Smith/Matos + Templo Mayor INAH + Mexico City UNESCO; not yet Egypt-level density."
   },
   "sources": [
-    "src-aztec-smith-2012",
-    "src-aztec-matos-templo-mayor",
-    "src-aztec-unesco-mexico-city-412",
+    "src-aztec-berdan-orientation",
+    "src-aztec-carrasco-orientation",
+    "src-aztec-clendinnen-orientation",
+    "src-aztec-hassig-orientation",
+    "src-aztec-inah-templo-mayor-web",
     "src-aztec-lopez-austin-lopez-lujan",
-    "src-aztec-inah-templo-mayor-web"
+    "src-aztec-lopez-lujan-orientation",
+    "src-aztec-matos-inah-more",
+    "src-aztec-matos-templo-mayor",
+    "src-aztec-sahagun-orientation",
+    "src-aztec-smith-2012",
+    "src-aztec-smith-urban",
+    "src-aztec-townsend-orientation",
+    "src-aztec-unesco-docs",
+    "src-aztec-unesco-mexico-city-412"
   ],
   "site_ids": [
+    "site-aztec-chapultepec-orientation",
+    "site-aztec-tenochtitlan-island-orientation",
+    "site-aztec-texcoco-orientation",
+    "site-aztec-tlacopan-orientation",
+    "site-aztec-tlatelolco-market-orientation",
     "site-templo-mayor-tenochtitlan",
     "site-tlatelolco-orientation"
   ],
   "period_ids": [
-    "period-aztec-late-postclassic"
+    "period-aztec-early-mexica",
+    "period-aztec-late-postclassic",
+    "period-aztec-spanish-contact",
+    "period-aztec-triple-alliance"
   ],
   "claim_ids": [
-    "claim-aztec-templo-mayor-centre"
+    "claim-aztec-clendinnen",
+    "claim-aztec-hassig-warfare",
+    "claim-aztec-inah-web",
+    "claim-aztec-lopez-lujan-offerings",
+    "claim-aztec-matos-templo",
+    "claim-aztec-sahagun",
+    "claim-aztec-smith-aztecs",
+    "claim-aztec-templo-mayor-centre",
+    "claim-aztec-tlatelolco-market",
+    "claim-aztec-triple-alliance",
+    "claim-aztec-unesco-centro"
   ],
   "object_ids": [
+    "asm-aztec-codex-ethnohistory-frame",
+    "asm-aztec-templo-mayor-frame",
     "asm-aztec-templo-mayor-offerings-frame"
   ],
   "related_ids": [
@@ -42,11 +72,11 @@
   "markdown_path": "data/civilizations/civ-aztec.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

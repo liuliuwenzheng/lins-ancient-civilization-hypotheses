@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-sahagun",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "萨哈贡《佛罗伦萨抄本》传统是墨西卡宗教与社会研究的早期殖民民族史基础文献（scholarly editions）。",
+    "en": "Sahagún's Florentine Codex tradition is a foundational early colonial ethnohistoric source for Mexica religion and society (scholarly editions)."
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aztec-spanish-contact"
+  ],
+  "object_ids": [
+    "asm-aztec-codex-ethnohistory-frame"
+  ],
+  "sources": [
+    "src-aztec-sahagun-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

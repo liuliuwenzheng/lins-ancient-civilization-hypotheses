@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-huanuco-admin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦努科潘帕作为印加行政中心见于 Morris & Thompson 发掘传统与道路系统文献（Hyslop；UNESCO Qhapaq Ñan）。",
+    "en": "Huánuco Pampa as Inca administrative centre appears in Morris & Thompson excavation tradition and road-system literature (Hyslop; UNESCO Qhapaq Ñan)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-huanuco-pampa-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-morris-thompson-orientation",
+    "src-inca-hyslop-1990",
+    "src-inca-qhapac-nan-unesco"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

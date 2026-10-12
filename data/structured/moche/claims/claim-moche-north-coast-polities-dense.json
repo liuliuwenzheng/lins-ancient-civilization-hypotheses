@@ -1,0 +1,34 @@
+{
+  "id": "claim-moche-north-coast-polities-dense",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合著作将莫切表述为秘鲁北岸早期中间期多中心政体传统，而非单一帝国必然（Quilter 2010；Castillo–Uceda）。",
+    "en": "Syntheses frame Moche as an Early Intermediate Period north-coast multi-centre polity tradition rather than a necessary single empire (Quilter 2010; Castillo–Uceda)."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-huacas-de-moche",
+    "site-sipan-orientation"
+  ],
+  "period_ids": [
+    "period-moche-eip-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-quilter-2010",
+    "src-moche-castillo-uceda-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

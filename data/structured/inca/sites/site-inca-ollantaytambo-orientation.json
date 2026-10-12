@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-ollantaytambo-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "奥扬泰坦博（指针）",
+    "en": "Ollantaytambo (orientation)",
+    "native": "Ollantaytambo"
+  },
+  "kind_note": "Inca royal estate / fortress-town",
+  "region": "Sacred Valley, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "印加王室庄园/要塞城镇指针。",
+    "en": "Inca royal estate / fortress-town orientation."
+  },
+  "sources": [
+    "src-inca-protzen-orientation",
+    "src-inca-daltroy-2014",
+    "src-inca-niles-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

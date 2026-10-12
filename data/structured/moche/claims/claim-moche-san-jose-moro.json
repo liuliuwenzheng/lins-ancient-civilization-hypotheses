@@ -1,0 +1,31 @@
+{
+  "id": "claim-moche-san-jose-moro",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "圣何塞德莫罗以莫切女祭司等精英葬仪闻名，见于 Castillo–Uceda 项目传统。",
+    "en": "San José de Moro is known for Moche priestess and other elite mortuary contexts in the Castillo–Uceda project tradition."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-san-jose-moro-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-castillo-uceda-orientation",
+    "src-moche-uceda-castillo-pubs"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

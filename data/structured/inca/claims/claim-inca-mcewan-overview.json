@@ -1,0 +1,30 @@
+{
+  "id": "claim-inca-mcewan-overview",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "McEwan 2006 提供印加的通识考古综合（Thames & Hudson / related）。",
+    "en": "McEwan 2006 provides an accessible archaeological synthesis of the Incas (Thames & Hudson / related)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-late-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-mcewan-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-hochdorf-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "霍赫多夫王侯墓（指针）",
+    "en": "Hochdorf princely burial (orientation)",
+    "native": "Hochdorf"
+  },
+  "kind_note": "Hallstatt-period elite wagon burial",
+  "region": "Baden-Württemberg, Germany",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "哈尔施塔特期精英车葬指针。",
+    "en": "Hallstatt-period elite wagon-burial orientation."
+  },
+  "sources": [
+    "src-hallstatt-biel-orientation",
+    "src-hallstatt-pare-orientation",
+    "src-hallstatt-cunliffe-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-huanuco-pampa-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "瓦努科潘帕（指针）",
+    "en": "Huánuco Pampa (orientation)",
+    "native": "Huánuco Pampa"
+  },
+  "kind_note": "Inca administrative centre on Qhapaq Ñan",
+  "region": "Huánuco region, Peru",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "印加行政中心指针。",
+    "en": "Inca administrative centre orientation."
+  },
+  "sources": [
+    "src-inca-morris-thompson-orientation",
+    "src-inca-hyslop-1990",
+    "src-inca-qhapac-nan-unesco"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

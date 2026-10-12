@@ -1,0 +1,30 @@
+{
+  "id": "claim-cahokia-milner-chiefdom",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Milner 1998 以酋邦框架综合卡霍基亚密西西比社会考古（Smithsonian）。",
+    "en": "Milner 1998 synthesizes Cahokia Mississippian society archaeology in a chiefdom frame (Smithsonian)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-cahokia-mississippian-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-milner-1998"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

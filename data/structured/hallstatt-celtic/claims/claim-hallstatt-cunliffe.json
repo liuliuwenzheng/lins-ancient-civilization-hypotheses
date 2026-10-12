@@ -1,0 +1,30 @@
+{
+  "id": "claim-hallstatt-cunliffe",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cunliffe 1997 综合古代凯尔特人框架中讨论哈尔施塔特与拉坦诺铁器时代（Oxford/ Penguin 传统）。",
+    "en": "Cunliffe 1997 discusses Hallstatt and La Tène Iron Age within a synthesis of the ancient Celts (Oxford/Penguin tradition)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-cunliffe-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

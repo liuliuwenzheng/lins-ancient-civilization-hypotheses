@@ -1,0 +1,43 @@
+{
+  "id": "asm-inca-qhapaq-nan-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡帕克南道路系统框架",
+    "en": "Qhapaq Ñan road-system frame"
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-huanuco-pampa-orientation"
+  ],
+  "period_ids": [
+    "period-inca-imperial-apex"
+  ],
+  "summary": {
+    "zh": "安第斯道路系统指针。",
+    "en": "Andean road-system pointer."
+  },
+  "sources": [
+    "src-inca-hyslop-1990",
+    "src-inca-qhapac-nan-unesco"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

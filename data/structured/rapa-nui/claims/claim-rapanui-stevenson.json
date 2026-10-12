@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-stevenson",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Stevenson 等研究传统讨论拉帕努伊年代学与农业景观（orientation source in shell）。",
+    "en": "Stevenson and related research traditions discuss Rapa Nui chronology and agricultural landscapes (orientation source in shell)."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-rapanui-colonization",
+    "period-rapanui-ahu-moai"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-stevenson-orientation",
+    "src-rapanui-mulrooney-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

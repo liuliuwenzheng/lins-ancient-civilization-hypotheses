@@ -1,0 +1,34 @@
+{
+  "id": "period-moche-v-late",
+  "entity": "period",
+  "names": {
+    "zh": "莫切 V / 晚期窗",
+    "en": "Moche V / late window"
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "late EIP working band before Wari-period transitions",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "晚期莫切与过渡工作窗。",
+    "en": "Late Moche and transition working window."
+  },
+  "sources": [
+    "src-moche-lockard-orientation",
+    "src-moche-quilter-2010"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

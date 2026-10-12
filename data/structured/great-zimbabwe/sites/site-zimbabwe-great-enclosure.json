@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-great-enclosure",
+  "entity": "site",
+  "names": {
+    "zh": "大围场（指针）",
+    "en": "Great Enclosure (orientation)",
+    "native": null
+  },
+  "kind_note": "Major freestanding dry-stone enclosure",
+  "region": "Great Zimbabwe National Monument",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "标志性干石大围场指针。",
+    "en": "Hallmark freestanding dry-stone enclosure orientation."
+  },
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-garlake-1973",
+    "src-zimbabwe-whitty-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "asm-aztec-templo-mayor-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "大神庙双金字塔框架",
+    "en": "Templo Mayor twin-pyramid frame"
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-templo-mayor-tenochtitlan"
+  ],
+  "period_ids": [
+    "period-aztec-late-postclassic",
+    "period-aztec-triple-alliance"
+  ],
+  "summary": {
+    "zh": "大神庙建筑与供奉传统指针；无伪造供奉坑号。",
+    "en": "Templo Mayor architecture and offering tradition pointer; no forged offering-pit numbers."
+  },
+  "sources": [
+    "src-aztec-matos-templo-mayor",
+    "src-aztec-inah-templo-mayor-web",
+    "src-aztec-lopez-lujan-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

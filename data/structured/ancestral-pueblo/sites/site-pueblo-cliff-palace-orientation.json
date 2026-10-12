@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-cliff-palace-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "悬崖宫殿（指针）",
+    "en": "Cliff Palace (orientation)",
+    "native": null
+  },
+  "kind_note": "Mesa Verde cliff dwelling",
+  "region": "Mesa Verde National Park, Colorado",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "梅萨维德著名崖居指针。",
+    "en": "Famous Mesa Verde cliff-dwelling orientation."
+  },
+  "sources": [
+    "src-pueblo-unesco-mesa-verde-27",
+    "src-pueblo-nps-mesa-verde",
+    "src-pueblo-plog-2008"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

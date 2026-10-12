@@ -1,0 +1,45 @@
+{
+  "id": "asm-angkor-wat-temple-mountain-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吴哥窟庙山框架",
+    "en": "Angkor Wat temple-mountain frame"
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat"
+  ],
+  "period_ids": [
+    "period-angkor-classic",
+    "period-angkorian-floruit"
+  ],
+  "summary": {
+    "zh": "吴哥窟庙山建筑指针。",
+    "en": "Angkor Wat temple-mountain architecture pointer."
+  },
+  "sources": [
+    "src-angkor-unesco-668",
+    "src-angkor-jacques-lafond-2007",
+    "src-angkor-coe-evans-2018"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

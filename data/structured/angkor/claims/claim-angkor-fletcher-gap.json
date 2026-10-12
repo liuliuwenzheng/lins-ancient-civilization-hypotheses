@@ -1,0 +1,33 @@
+{
+  "id": "claim-angkor-fletcher-gap",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Fletcher 等大吴哥项目讨论水利—城市景观系统（GAP tradition）。",
+    "en": "Fletcher and the Greater Angkor Project discuss hydraulic–urban landscape systems (GAP tradition)."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-west-baray-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-angkor-hydraulic-city-frame"
+  ],
+  "sources": [
+    "src-angkor-fletcher-orientation",
+    "src-angkor-coe-evans-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

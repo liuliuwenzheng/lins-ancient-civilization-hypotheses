@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-bonito",
+  "entity": "site",
+  "names": {
+    "zh": "普韦布洛博尼托（指针）",
+    "en": "Pueblo Bonito (orientation)",
+    "native": "Pueblo Bonito"
+  },
+  "kind_note": "Chaco great house",
+  "region": "Chaco Canyon, New Mexico",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "查科著名大屋指针。",
+    "en": "Famous Chaco great-house orientation."
+  },
+  "sources": [
+    "src-pueblo-unesco-chaco-353",
+    "src-pueblo-vivian-1990",
+    "src-pueblo-nps-chaco-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

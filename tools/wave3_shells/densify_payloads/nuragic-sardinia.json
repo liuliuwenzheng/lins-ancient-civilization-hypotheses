@@ -1,0 +1,511 @@
+{
+  "civ_id": "civ-nuragic-sardinia",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "努拉吉档案（library-seed-rich）：Lilliu/Webster + 巴鲁米尼苏努拉希教科文；仍非埃及级密度。",
+    "en": "Nuragic archive (library-seed-rich): Lilliu/Webster + Su Nuraxi Barumini UNESCO; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-nuragic-depalmas-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Depalmas, Anna — Nuragic chronology and settlement archaeology studies.",
+      "url": null,
+      "notes": "Chronology/settlement orientation."
+    },
+    {
+      "id": "src-nuragic-contu-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Contu, Ercole — Nuragic architecture and Sardinian prehistory syntheses.",
+      "url": null,
+      "notes": "Architecture synthesis orientation."
+    },
+    {
+      "id": "src-nuragic-campus-leonelli-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Campus, Franco, and Valentina Leonelli — Nuragic typology and cataloguing tradition.",
+      "url": null,
+      "notes": "Typology/catalog orientation."
+    },
+    {
+      "id": "src-nuragic-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Su Nuraxi di Barumini — documents. https://whc.unesco.org/en/list/833/documents/",
+      "url": "https://whc.unesco.org/en/list/833/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-nuragic-usalai-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Usai, Alessandro / Soprintendenza tradition — Nuragic excavation and landscape reports.",
+      "url": null,
+      "notes": "Heritage authority excavation orientation."
+    },
+    {
+      "id": "src-nuragic-lo-schiavo-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Lo Schiavo, Fulvia — Nuragic metallurgy and Mediterranean exchange studies.",
+      "url": null,
+      "notes": "Metallurgy/exchange orientation."
+    },
+    {
+      "id": "src-nuragic-bernardini-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bernardini, Paolo — Nuragic sanctuaries and bronze figurine studies.",
+      "url": null,
+      "notes": "Sanctuary/figurine orientation."
+    },
+    {
+      "id": "src-nuragic-webster-settlement",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Webster, Gary S. 1996. A Prehistory of Sardinia 2300–500 BC. Sheffield: Sheffield Academic Press.",
+      "url": null,
+      "notes": "Already cited in shell; densify notes settlement scope."
+    },
+    {
+      "id": "src-nuragic-blake-settlement",
+      "type": "article",
+      "tier": "S",
+      "citation": "Blake, Emma — Nuragic settlement and identity studies (building on 1999 orientation).",
+      "url": null,
+      "notes": "Settlement/identity orientation."
+    },
+    {
+      "id": "src-nuragic-mibact-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "Italian heritage / Barumini site institutional orientation pages for Su Nuraxi.",
+      "url": null,
+      "notes": "Institutional site orientation; tier T."
+    }
+  ],
+  "fill_coords": {
+    "site-su-nuraxi-barumini": {
+      "lat": 39.705833,
+      "lon": 8.990556,
+      "precision_note": "English Wikipedia primary coordinates for «Su Nuraxi (Barumini)»; access 2026-10-12 (UNESCO WH list 833 orientation site)"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-nuragic-santimbru-orientation",
+      "names": {
+        "zh": "圣伊姆贝尼亚等地（指针）",
+        "en": "Sant'Imbenia and related (orientation)",
+        "native": null
+      },
+      "kind_note": "Nuragic coastal settlement with Mediterranean contacts",
+      "region": "Alghero area, Sardinia",
+      "coords": null,
+      "summary": {
+        "zh": "有地中海接触的滨海努拉吉聚落指针。",
+        "en": "Coastal Nuragic settlement with Mediterranean contacts orientation."
+      },
+      "sources": [
+        "src-nuragic-lo-schiavo-orientation",
+        "src-nuragic-webster-1996"
+      ]
+    },
+    {
+      "id": "site-nuragic-santa-vittoria-orientation",
+      "names": {
+        "zh": "圣维多利亚圣所（指针）",
+        "en": "Santa Vittoria sanctuary (orientation)",
+        "native": "Santa Vittoria"
+      },
+      "kind_note": "Nuragic federal sanctuary / festival site debates",
+      "region": "Serri, Sardinia",
+      "coords": null,
+      "summary": {
+        "zh": "努拉吉圣所/集会遗址讨论指针。",
+        "en": "Nuragic sanctuary / assembly-site debate orientation."
+      },
+      "sources": [
+        "src-nuragic-bernardini-orientation",
+        "src-nuragic-lilliu-1988"
+      ]
+    },
+    {
+      "id": "site-nuragic-su-tempiesu-orientation",
+      "names": {
+        "zh": "苏滕皮耶苏圣井（指针）",
+        "en": "Su Tempiesu sacred well (orientation)",
+        "native": "Su Tempiesu"
+      },
+      "kind_note": "Nuragic sacred well temple",
+      "region": "Orune, Sardinia",
+      "coords": null,
+      "summary": {
+        "zh": "努拉吉圣井神庙指针。",
+        "en": "Nuragic sacred-well temple orientation."
+      },
+      "sources": [
+        "src-nuragic-lilliu-1988",
+        "src-nuragic-contu-orientation"
+      ]
+    },
+    {
+      "id": "site-nuragic-arrubiu-orientation",
+      "names": {
+        "zh": "阿鲁比乌努拉格（指针）",
+        "en": "Nuraghe Arrubiu (orientation)",
+        "native": "Arrubiu"
+      },
+      "kind_note": "Complex multi-tower nuraghe",
+      "region": "Orroli, Sardinia",
+      "coords": null,
+      "summary": {
+        "zh": "复杂多塔努拉格指针。",
+        "en": "Complex multi-tower nuraghe orientation."
+      },
+      "sources": [
+        "src-nuragic-campus-leonelli-orientation",
+        "src-nuragic-webster-1996"
+      ]
+    },
+    {
+      "id": "site-nuragic-lena-orientation",
+      "names": {
+        "zh": "洛萨努拉格等地（指针）",
+        "en": "Nuraghe Losa and peers (orientation)",
+        "native": "Losa"
+      },
+      "kind_note": "Well-preserved nuraghe tower complex",
+      "region": "Abbasanta, Sardinia",
+      "coords": null,
+      "summary": {
+        "zh": "保存较好的努拉格塔楼复合体指针。",
+        "en": "Well-preserved nuraghe tower-complex orientation."
+      },
+      "sources": [
+        "src-nuragic-lilliu-1988",
+        "src-nuragic-contu-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-nuragic-middle-bronze",
+      "names": {
+        "zh": "努拉吉中青铜窗",
+        "en": "Nuragic Middle Bronze window"
+      },
+      "time": {
+        "label": "ca. 1600–1300 BCE working band",
+        "approx_from_bce": 1600,
+        "approx_to_bce": 1300,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "中青铜努拉吉形成窗。",
+        "en": "Middle Bronze Nuragic formation window."
+      },
+      "sources": [
+        "src-nuragic-depalmas-orientation",
+        "src-nuragic-webster-1996"
+      ]
+    },
+    {
+      "id": "period-nuragic-late-bronze",
+      "names": {
+        "zh": "努拉吉晚青铜窗",
+        "en": "Nuragic Late Bronze window"
+      },
+      "time": {
+        "label": "ca. 1300–900 BCE working band",
+        "approx_from_bce": 1300,
+        "approx_to_bce": 900,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "晚青铜繁荣工作窗。",
+        "en": "Late Bronze floruit working window."
+      },
+      "sources": [
+        "src-nuragic-lilliu-1988",
+        "src-nuragic-lo-schiavo-orientation"
+      ]
+    },
+    {
+      "id": "period-nuragic-iron",
+      "names": {
+        "zh": "努拉吉铁器/地中海接触窗",
+        "en": "Nuragic Iron / Mediterranean contact window"
+      },
+      "time": {
+        "label": "ca. 900–500 BCE working band",
+        "approx_from_bce": 900,
+        "approx_to_bce": 500,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "铁器时代与地中海接触窗。",
+        "en": "Iron Age and Mediterranean contact window."
+      },
+      "sources": [
+        "src-nuragic-blake-1999",
+        "src-nuragic-lo-schiavo-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-nuragic-su-nuraxi-frame",
+      "names": {
+        "zh": "苏努拉希多塔复合体框架",
+        "en": "Su Nuraxi multi-tower complex frame"
+      },
+      "site_ids": [
+        "site-su-nuraxi-barumini"
+      ],
+      "period_ids": [
+        "period-nuragic-bronze-iron"
+      ],
+      "sources": [
+        "src-nuragic-unesco-833",
+        "src-nuragic-lilliu-1988"
+      ],
+      "summary": {
+        "zh": "教科文典型多塔努拉格指针。",
+        "en": "UNESCO type multi-tower nuraghe pointer."
+      }
+    },
+    {
+      "id": "asm-nuragic-sacred-well-frame",
+      "names": {
+        "zh": "努拉吉圣井神庙框架",
+        "en": "Nuragic sacred-well temple frame"
+      },
+      "site_ids": [
+        "site-nuragic-su-tempiesu-orientation"
+      ],
+      "period_ids": [
+        "period-nuragic-late-bronze",
+        "period-nuragic-iron"
+      ],
+      "sources": [
+        "src-nuragic-lilliu-1988",
+        "src-nuragic-contu-orientation"
+      ],
+      "summary": {
+        "zh": "圣井神庙建筑传统指针。",
+        "en": "Sacred-well temple architectural tradition pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-nuragic-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将巴鲁米尼苏努拉希列入世界遗产，强调努拉吉石塔建筑（UNESCO 833）。",
+        "en": "UNESCO lists Su Nuraxi di Barumini as World Heritage, emphasizing Nuragic stone-tower architecture (UNESCO 833)."
+      },
+      "site_ids": [
+        "site-su-nuraxi-barumini"
+      ],
+      "period_ids": [
+        "period-nuragic-bronze-iron"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-unesco-833"
+      ]
+    },
+    {
+      "id": "claim-nuragic-lilliu",
+      "kind": "fact",
+      "statement": {
+        "zh": "Lilliu 1988 等综合建立撒丁努拉吉文明的经典叙事框架（后期修订不断）。",
+        "en": "Lilliu 1988 and related syntheses established a classic narrative frame for Sardinian Nuragic civilization (continually revised)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-nuragic-bronze-iron"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-lilliu-1988"
+      ]
+    },
+    {
+      "id": "claim-nuragic-webster",
+      "kind": "fact",
+      "statement": {
+        "zh": "Webster 1996 提供公元前 2300–500 年撒丁史前综合（Sheffield）。",
+        "en": "Webster 1996 provides a prehistory of Sardinia 2300–500 BCE synthesis (Sheffield)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-nuragic-bronze-iron"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-webster-1996"
+      ]
+    },
+    {
+      "id": "claim-nuragic-blake",
+      "kind": "fact",
+      "statement": {
+        "zh": "Blake 讨论努拉吉认同与聚落考古（1999 orientation 及后续研究）。",
+        "en": "Blake discusses Nuragic identity and settlement archaeology (1999 orientation and later work)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-nuragic-iron"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-blake-1999",
+        "src-nuragic-blake-settlement"
+      ]
+    },
+    {
+      "id": "claim-nuragic-metallurgy",
+      "kind": "fact",
+      "statement": {
+        "zh": "Lo Schiavo 等研究传统讨论努拉吉冶金与地中海交换（metallurgy orientation）。",
+        "en": "Lo Schiavo and related research traditions discuss Nuragic metallurgy and Mediterranean exchange."
+      },
+      "site_ids": [
+        "site-nuragic-santimbru-orientation"
+      ],
+      "period_ids": [
+        "period-nuragic-late-bronze",
+        "period-nuragic-iron"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-lo-schiavo-orientation"
+      ]
+    },
+    {
+      "id": "claim-nuragic-su-nuraxi-representative",
+      "kind": "fact",
+      "statement": {
+        "zh": "苏努拉希被教科文与综合表述为复杂多塔努拉格的代表性遗址（UNESCO 833；Lilliu）。",
+        "en": "Su Nuraxi is framed by UNESCO and syntheses as a representative complex multi-tower nuraghe (UNESCO 833; Lilliu)."
+      },
+      "site_ids": [
+        "site-su-nuraxi-barumini"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-nuragic-su-nuraxi-frame"
+      ],
+      "sources": [
+        "src-nuragic-unesco-833",
+        "src-nuragic-lilliu-1988"
+      ]
+    },
+    {
+      "id": "claim-nuragic-sacred-wells",
+      "kind": "fact",
+      "statement": {
+        "zh": "苏滕皮耶苏等圣井神庙是努拉吉礼仪建筑的重要类型（Lilliu；Contu orientation）。",
+        "en": "Sacred-well temples such as Su Tempiesu are an important Nuragic ritual architecture type (Lilliu; Contu orientation)."
+      },
+      "site_ids": [
+        "site-nuragic-su-tempiesu-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-nuragic-sacred-well-frame"
+      ],
+      "sources": [
+        "src-nuragic-lilliu-1988",
+        "src-nuragic-contu-orientation"
+      ]
+    },
+    {
+      "id": "claim-nuragic-sanctuaries",
+      "kind": "fact",
+      "statement": {
+        "zh": "圣维多利亚等圣所在文献中与努拉吉集会/礼仪景观讨论（Bernardini orientation；Lilliu）。",
+        "en": "Sanctuaries such as Santa Vittoria are discussed with Nuragic assembly/ritual landscapes (Bernardini orientation; Lilliu)."
+      },
+      "site_ids": [
+        "site-nuragic-santa-vittoria-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-bernardini-orientation",
+        "src-nuragic-lilliu-1988"
+      ]
+    },
+    {
+      "id": "claim-nuragic-complex-towers",
+      "kind": "fact",
+      "statement": {
+        "zh": "阿鲁比乌、洛萨等复杂努拉格展示多塔与庭院规划，见于类型学目录传统（Campus & Leonelli；Lilliu）。",
+        "en": "Complex nuraghi such as Arrubiu and Losa show multi-tower and courtyard planning in typology catalog traditions (Campus & Leonelli; Lilliu)."
+      },
+      "site_ids": [
+        "site-nuragic-arrubiu-orientation",
+        "site-nuragic-lena-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-campus-leonelli-orientation",
+        "src-nuragic-lilliu-1988"
+      ]
+    },
+    {
+      "id": "claim-nuragic-trump",
+      "kind": "fact",
+      "statement": {
+        "zh": "Trump 等通识取向著作将努拉吉置于撒丁史前叙事（orientation source already in shell）。",
+        "en": "Trump and related accessible works place Nuragic culture in Sardinian prehistory narratives (orientation source already in shell)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-nuragic-bronze-iron"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-nuragic-trump-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-nuragic-unesco",
+      "title": {
+        "zh": "教科文：巴鲁米尼苏努拉希",
+        "en": "UNESCO: Su Nuraxi di Barumini",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/833/",
+      "sources": [
+        "src-nuragic-unesco-833"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-nuragic-unesco-docs",
+      "title": {
+        "zh": "教科文苏努拉希文档",
+        "en": "UNESCO Su Nuraxi documents",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/833/documents/",
+      "sources": [
+        "src-nuragic-unesco-docs"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

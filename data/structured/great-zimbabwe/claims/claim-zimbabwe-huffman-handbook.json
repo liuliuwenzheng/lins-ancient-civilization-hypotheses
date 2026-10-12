@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-huffman-handbook",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Huffman 2007 铁器时代手册将津巴布韦文化置于南部非洲农耕社会框架（UKZN Press）；模型有争议。",
+    "en": "Huffman 2007 Iron Age handbook places Zimbabwe Culture in southern African farming-society frames (UKZN Press); models are contested."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-great-zimbabwe-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-huffman-2007"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

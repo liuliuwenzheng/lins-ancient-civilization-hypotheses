@@ -19,7 +19,11 @@
     "src-rapanui-unesco-715",
     "src-rapanui-van-tilburg-1994"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -27.15,
+    "lon": -109.45,
+    "precision_note": "English Wikipedia primary coordinates for «Rapa Nui National Park»; access 2026-10-12 (UNESCO WH list 715 orientation site)"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave3_shells/generate_wave3.py",
@@ -27,6 +31,6 @@
       "docs/decisions.md#d-2026-10-12-15"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-17."
   }
 }

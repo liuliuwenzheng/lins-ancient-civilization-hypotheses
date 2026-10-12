@@ -1,0 +1,32 @@
+{
+  "id": "site-zimbabwe-mapungubwe-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "马蓬古布韦（指针）",
+    "en": "Mapungubwe (orientation)",
+    "native": "Mapungubwe"
+  },
+  "kind_note": "Earlier Limpopo state often linked in Zimbabwe Culture origins debates",
+  "region": "Limpopo, South Africa",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "起源讨论中常提及的林波波早期国家指针。",
+    "en": "Earlier Limpopo state orientation in origins debates."
+  },
+  "sources": [
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-huffman-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

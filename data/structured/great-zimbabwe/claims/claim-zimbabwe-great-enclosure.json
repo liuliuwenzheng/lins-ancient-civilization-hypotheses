@@ -1,0 +1,33 @@
+{
+  "id": "claim-zimbabwe-great-enclosure",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大围场被教科文与综合著作表述为标志性干石自由立围墙建筑（UNESCO 364；Garlake 1973）。",
+    "en": "The Great Enclosure is framed by UNESCO and syntheses as hallmark freestanding dry-stone architecture (UNESCO 364; Garlake 1973)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-great-enclosure"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-zimbabwe-great-enclosure-frame"
+  ],
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-garlake-1973"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-hill-complex",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "山丘建筑群与谷地废墟构成大津巴布韦核心分区，见于教科文与综合描述（UNESCO 364；Pikirayi 2001）。",
+    "en": "Hill Complex and Valley Ruins form core sectors of Great Zimbabwe in UNESCO and synthesis descriptions (UNESCO 364; Pikirayi 2001)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-hill-complex",
+    "site-zimbabwe-valley-ruins-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-pikirayi-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

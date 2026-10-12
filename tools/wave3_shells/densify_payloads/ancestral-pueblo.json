@@ -1,0 +1,536 @@
+{
+  "civ_id": "civ-ancestral-pueblo",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "先祖普韦布洛档案（library-seed-rich）：Lekson/Plog + 查科/梅萨维德教科文；仍非埃及级密度。",
+    "en": "Ancestral Puebloan archive (library-seed-rich): Lekson/Plog + Chaco/Mesa Verde UNESCO; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-pueblo-vivian-1990",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Vivian, R. Gwinn. 1990. The Chacoan Prehistory of the San Juan Basin. San Diego: Academic Press.",
+      "url": null,
+      "notes": "Chacoan prehistory synthesis; print."
+    },
+    {
+      "id": "src-pueblo-judge-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Judge, W. James — Chaco Canyon research and San Juan Basin survey tradition.",
+      "url": null,
+      "notes": "Chaco research orientation pointer."
+    },
+    {
+      "id": "src-pueblo-neitzel-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Neitzel, Jill E., ed. — Chaco Canyon and regional system studies (edited volumes).",
+      "url": null,
+      "notes": "Regional system orientation."
+    },
+    {
+      "id": "src-pueblo-crown-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Crown, Patricia L. — Chaco and Southwest ceramic/ritual studies.",
+      "url": null,
+      "notes": "Ceramic/ritual orientation pointer."
+    },
+    {
+      "id": "src-pueblo-sebastian-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Sebastian, Lynne. 1992. The Chaco Anasazi: Sociopolitical Evolution in the Prehistoric Southwest. Cambridge: Cambridge University Press.",
+      "url": null,
+      "notes": "Sociopolitical evolution synthesis; print; older ethnonym in title noted."
+    },
+    {
+      "id": "src-pueblo-wills-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Wills, Wirt H. — Chaco agriculture and environment studies.",
+      "url": null,
+      "notes": "Agroecology orientation."
+    },
+    {
+      "id": "src-pueblo-nps-mesa-verde",
+      "type": "web",
+      "tier": "T",
+      "citation": "U.S. National Park Service. Mesa Verde National Park — history and culture orientation.",
+      "url": "https://www.nps.gov/meve/learn/historyculture/index.htm",
+      "notes": "NPS institutional orientation; tier T."
+    },
+    {
+      "id": "src-pueblo-unesco-chaco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Chaco Culture — documents landing. https://whc.unesco.org/en/list/353/documents/",
+      "url": "https://whc.unesco.org/en/list/353/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-pueblo-unesco-mv-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Mesa Verde National Park — documents landing. https://whc.unesco.org/en/list/27/documents/",
+      "url": "https://whc.unesco.org/en/list/27/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-pueblo-lekson-chaco-meridian",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Lekson, Stephen H. 1999. The Chaco Meridian: Centers of Political Power in the Ancient Southwest. Walnut Creek, CA: AltaMira Press.",
+      "url": null,
+      "notes": "Influential and debated meridian/political model; cite as S orientation."
+    }
+  ],
+  "fill_coords": {
+    "site-chaco-canyon": {
+      "lat": 36.06,
+      "lon": -107.96,
+      "precision_note": "English Wikipedia primary coordinates for «Chaco Culture National Historical Park»; access 2026-10-12 (UNESCO WH list 353 orientation site)"
+    },
+    "site-mesa-verde": {
+      "lat": 37.1838,
+      "lon": -108.4887,
+      "precision_note": "English Wikipedia primary coordinates for «Mesa Verde National Park»; access 2026-10-12 (UNESCO WH list 27 orientation site)"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-pueblo-bonito",
+      "names": {
+        "zh": "普韦布洛博尼托（指针）",
+        "en": "Pueblo Bonito (orientation)",
+        "native": "Pueblo Bonito"
+      },
+      "kind_note": "Chaco great house",
+      "region": "Chaco Canyon, New Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "查科著名大屋指针。",
+        "en": "Famous Chaco great-house orientation."
+      },
+      "sources": [
+        "src-pueblo-unesco-chaco-353",
+        "src-pueblo-vivian-1990",
+        "src-pueblo-nps-chaco-orientation"
+      ]
+    },
+    {
+      "id": "site-pueblo-aztec-ruins-orientation",
+      "names": {
+        "zh": "阿兹特克遗址大屋（指针）",
+        "en": "Aztec Ruins great house (orientation)",
+        "native": null
+      },
+      "kind_note": "Chacoan outlier great house",
+      "region": "Northwestern New Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "查科外围大屋指针；名称易与墨西卡混淆，仅作遗址名。",
+        "en": "Chacoan outlier great-house orientation; name is site label only, not Mexica."
+      },
+      "sources": [
+        "src-pueblo-lekson-2009",
+        "src-pueblo-vivian-1990"
+      ]
+    },
+    {
+      "id": "site-pueblo-cliff-palace-orientation",
+      "names": {
+        "zh": "悬崖宫殿（指针）",
+        "en": "Cliff Palace (orientation)",
+        "native": null
+      },
+      "kind_note": "Mesa Verde cliff dwelling",
+      "region": "Mesa Verde National Park, Colorado",
+      "coords": null,
+      "summary": {
+        "zh": "梅萨维德著名崖居指针。",
+        "en": "Famous Mesa Verde cliff-dwelling orientation."
+      },
+      "sources": [
+        "src-pueblo-unesco-mesa-verde-27",
+        "src-pueblo-nps-mesa-verde",
+        "src-pueblo-plog-2008"
+      ]
+    },
+    {
+      "id": "site-pueblo-salmon-ruins-orientation",
+      "names": {
+        "zh": "萨蒙遗址（指针）",
+        "en": "Salmon Ruins (orientation)",
+        "native": null
+      },
+      "kind_note": "Chacoan outlier",
+      "region": "San Juan Basin, New Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "查科外围萨蒙大屋指针。",
+        "en": "Chacoan Salmon outlier orientation."
+      },
+      "sources": [
+        "src-pueblo-vivian-1990",
+        "src-pueblo-judge-orientation"
+      ]
+    },
+    {
+      "id": "site-pueblo-chetro-ketl-orientation",
+      "names": {
+        "zh": "切特罗凯特尔（指针）",
+        "en": "Chetro Ketl (orientation)",
+        "native": "Chetro Ketl"
+      },
+      "kind_note": "Chaco Canyon great house",
+      "region": "Chaco Canyon, New Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "查科峡谷另一大屋指针。",
+        "en": "Another Chaco Canyon great-house orientation."
+      },
+      "sources": [
+        "src-pueblo-vivian-1990",
+        "src-pueblo-nps-chaco-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-pueblo-basketmaker",
+      "names": {
+        "zh": "编篮者–普韦布洛早期窗",
+        "en": "Basketmaker–early Pueblo window"
+      },
+      "time": {
+        "label": "broadly early centuries CE–ca. 900 CE (Pecos labels)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Pecos Classification labels; absolute refine later."
+      },
+      "summary": {
+        "zh": "编篮者至早期普韦布洛工作窗。",
+        "en": "Basketmaker to early Pueblo working window."
+      },
+      "sources": [
+        "src-pueblo-plog-2008",
+        "src-pueblo-lekson-2009"
+      ]
+    },
+    {
+      "id": "period-pueblo-ii-chaco",
+      "names": {
+        "zh": "普韦布洛 II / 查科繁荣窗",
+        "en": "Pueblo II / Chaco floruit window"
+      },
+      "time": {
+        "label": "ca. 900–1150 CE (Chaco great-house floruit labels)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Pecos / Chaco chronology labels."
+      },
+      "summary": {
+        "zh": "查科大屋繁荣工作窗。",
+        "en": "Chaco great-house floruit working window."
+      },
+      "sources": [
+        "src-pueblo-vivian-1990",
+        "src-pueblo-sebastian-orientation"
+      ]
+    },
+    {
+      "id": "period-pueblo-iii-mesa-verde",
+      "names": {
+        "zh": "普韦布洛 III / 梅萨维德窗",
+        "en": "Pueblo III / Mesa Verde window"
+      },
+      "time": {
+        "label": "ca. 1150–1300 CE (cliff-dwelling floruit labels)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Pecos labels; migration debates open."
+      },
+      "summary": {
+        "zh": "崖居繁荣与迁徙讨论窗。",
+        "en": "Cliff-dwelling floruit and migration discussion window."
+      },
+      "sources": [
+        "src-pueblo-plog-2008",
+        "src-pueblo-unesco-mesa-verde-27"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-pueblo-great-house-chaco",
+      "names": {
+        "zh": "查科大屋建筑框架组合",
+        "en": "Chaco great-house architecture frame"
+      },
+      "site_ids": [
+        "site-chaco-canyon",
+        "site-pueblo-bonito"
+      ],
+      "period_ids": [
+        "period-pueblo-ii-chaco"
+      ],
+      "sources": [
+        "src-pueblo-unesco-chaco-353",
+        "src-pueblo-vivian-1990"
+      ],
+      "summary": {
+        "zh": "查科大屋建筑传统指针。",
+        "en": "Chaco great-house architectural tradition pointer."
+      }
+    },
+    {
+      "id": "asm-pueblo-cliff-dwelling-frame",
+      "names": {
+        "zh": "梅萨维德崖居框架组合",
+        "en": "Mesa Verde cliff-dwelling frame"
+      },
+      "site_ids": [
+        "site-mesa-verde",
+        "site-pueblo-cliff-palace-orientation"
+      ],
+      "period_ids": [
+        "period-pueblo-iii-mesa-verde"
+      ],
+      "sources": [
+        "src-pueblo-unesco-mesa-verde-27",
+        "src-pueblo-nps-mesa-verde"
+      ],
+      "summary": {
+        "zh": "崖居建筑传统指针。",
+        "en": "Cliff-dwelling architectural tradition pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-pueblo-unesco-chaco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将查科文化列入世界遗产，强调大屋、道路与礼仪景观（UNESCO 353）。",
+        "en": "UNESCO lists Chaco Culture as World Heritage, emphasizing great houses, roads, and ceremonial landscape (UNESCO 353)."
+      },
+      "site_ids": [
+        "site-chaco-canyon"
+      ],
+      "period_ids": [
+        "period-pueblo-ii-chaco"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-unesco-chaco-353"
+      ]
+    },
+    {
+      "id": "claim-pueblo-unesco-mesa-verde",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将梅萨维德国家公园列入世界遗产，强调崖居与台地聚落（UNESCO 27）。",
+        "en": "UNESCO lists Mesa Verde National Park as World Heritage, emphasizing cliff dwellings and mesa settlements (UNESCO 27)."
+      },
+      "site_ids": [
+        "site-mesa-verde"
+      ],
+      "period_ids": [
+        "period-pueblo-iii-mesa-verde"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-unesco-mesa-verde-27"
+      ]
+    },
+    {
+      "id": "claim-pueblo-lekson-synthesis",
+      "kind": "fact",
+      "statement": {
+        "zh": "Lekson 综合将美国西南部古代政治中心与查科等节点纳入长时段叙事（Lekson 2009）。",
+        "en": "Lekson's synthesis places ancient Southwest political centres including Chaco nodes in a long-term narrative (Lekson 2009)."
+      },
+      "site_ids": [
+        "site-chaco-canyon"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-lekson-2009"
+      ]
+    },
+    {
+      "id": "claim-pueblo-vivian-chacoan",
+      "kind": "fact",
+      "statement": {
+        "zh": "Vivian 1990 建立圣胡安盆地查科式史前综合框架（Academic Press）。",
+        "en": "Vivian 1990 establishes a Chacoan prehistory synthesis for the San Juan Basin (Academic Press)."
+      },
+      "site_ids": [
+        "site-chaco-canyon",
+        "site-pueblo-bonito"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-vivian-1990"
+      ]
+    },
+    {
+      "id": "claim-pueblo-plog-overview",
+      "kind": "fact",
+      "statement": {
+        "zh": "Plog 2008 提供美国西南部古代人群的通识综合（Thames and Hudson）。",
+        "en": "Plog 2008 provides an accessible synthesis of ancient peoples of the American Southwest (Thames and Hudson)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-ancestral-pueblo-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-plog-2008"
+      ]
+    },
+    {
+      "id": "claim-pueblo-bonito-greathouse",
+      "kind": "fact",
+      "statement": {
+        "zh": "文献将普韦布洛博尼托表述为查科峡谷标志性大屋之一（UNESCO 353；Vivian 1990）。",
+        "en": "Literature frames Pueblo Bonito as one of Chaco Canyon's hallmark great houses (UNESCO 353; Vivian 1990)."
+      },
+      "site_ids": [
+        "site-pueblo-bonito"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-pueblo-great-house-chaco"
+      ],
+      "sources": [
+        "src-pueblo-unesco-chaco-353",
+        "src-pueblo-vivian-1990"
+      ]
+    },
+    {
+      "id": "claim-pueblo-cliff-palace",
+      "kind": "fact",
+      "statement": {
+        "zh": "悬崖宫殿被 NPS/教科文讨论为梅萨维德代表性崖居（UNESCO 27；NPS）。",
+        "en": "Cliff Palace is discussed by NPS/UNESCO as a representative Mesa Verde cliff dwelling (UNESCO 27; NPS)."
+      },
+      "site_ids": [
+        "site-pueblo-cliff-palace-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-pueblo-cliff-dwelling-frame"
+      ],
+      "sources": [
+        "src-pueblo-unesco-mesa-verde-27",
+        "src-pueblo-nps-mesa-verde"
+      ]
+    },
+    {
+      "id": "claim-pueblo-outliers",
+      "kind": "fact",
+      "statement": {
+        "zh": "阿兹特克遗址与萨蒙等查科外围大屋在区域系统文献中讨论（Vivian 1990；Lekson）。",
+        "en": "Aztec Ruins and Salmon among other Chacoan outlier great houses are discussed in regional-system literature (Vivian 1990; Lekson)."
+      },
+      "site_ids": [
+        "site-pueblo-aztec-ruins-orientation",
+        "site-pueblo-salmon-ruins-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-vivian-1990",
+        "src-pueblo-lekson-2009"
+      ]
+    },
+    {
+      "id": "claim-pueblo-phase-labels",
+      "kind": "fact",
+      "statement": {
+        "zh": "Pecos 分类标签（编篮者、普韦布洛 II/III 等）用于西南年代学工作框架（Plog 2008）；绝对年代仍可修订。",
+        "en": "Pecos Classification labels (Basketmaker, Pueblo II/III, etc.) structure Southwest chronology working frames (Plog 2008); absolute dates remain revisable."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-pueblo-basketmaker",
+        "period-pueblo-ii-chaco",
+        "period-pueblo-iii-mesa-verde"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-plog-2008",
+        "src-pueblo-lekson-2009"
+      ]
+    },
+    {
+      "id": "claim-pueblo-sebastian-politics",
+      "kind": "fact",
+      "statement": {
+        "zh": "Sebastian 1992 讨论查科安萨齐社会政治演化模型（CUP）；模型与术语均可修订。",
+        "en": "Sebastian 1992 discusses sociopolitical evolution models for Chaco Anasazi (CUP); models and ethnonyms remain revisable."
+      },
+      "site_ids": [
+        "site-chaco-canyon"
+      ],
+      "period_ids": [
+        "period-pueblo-ii-chaco"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-pueblo-sebastian-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-pueblo-unesco-chaco",
+      "title": {
+        "zh": "教科文：查科文化",
+        "en": "UNESCO: Chaco Culture",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/353/",
+      "sources": [
+        "src-pueblo-unesco-chaco-353"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-pueblo-unesco-mv",
+      "title": {
+        "zh": "教科文：梅萨维德",
+        "en": "UNESCO: Mesa Verde",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/27/",
+      "sources": [
+        "src-pueblo-unesco-mesa-verde-27"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-pueblo-nps-chaco",
+      "title": {
+        "zh": "NPS 查科文化历史公园",
+        "en": "NPS Chaco Culture NHP",
+        "native": null
+      },
+      "external_url": "https://www.nps.gov/chcu/learn/historyculture/index.htm",
+      "sources": [
+        "src-pueblo-nps-chaco-orientation"
+      ],
+      "attribution": "U.S. National Park Service",
+      "media_type": "document-link"
+    }
+  ]
+}

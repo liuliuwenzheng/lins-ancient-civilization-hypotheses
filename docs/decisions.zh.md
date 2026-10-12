@@ -826,3 +826,36 @@
 
 **备注：** 距埃及/两河 `fact-library` 密度仍远。宁薄勿假。工具：`tools/wave2_shells/densify_wave2.py` + `densify_payloads/*.json`。
 
+
+
+### D-2026-10-12-17 — 第三波加厚至 `library-seed-rich`
+
+**决策：** 将 D-2026-10-12-15 所开十一个第三波包自 `library-seed` 加厚至可调用密度（`library-seed-rich`）。配方同第一/二波加厚：约 +10 来源、+5 遗址、+3 时段、+2 对象、+10 主张、+1–3 外链媒体。诚信优先：不编造考古、页码、坐标或媒体图。
+
+**各包加厚后计数（结构化 JSON）：**
+
+| 包 | sources | sites | periods | objects | claims | media |
+|------|--------:|------:|--------:|--------:|-------:|------:|
+| cahokia | 15 | 7 | 4 | 3 | 11 | 3 |
+| ancestral-pueblo | 15 | 7 | 4 | 3 | 11 | 3 |
+| great-zimbabwe | 15 | 7 | 4 | 3 | 11 | 2 |
+| west-africa-medieval | 15 | 8 | 4 | 3 | 11 | 2 |
+| hallstatt-celtic | 15 | 7 | 4 | 3 | 11 | 2 |
+| nuragic-sardinia | 15 | 7 | 4 | 3 | 11 | 2 |
+| rapa-nui | 15 | 7 | 4 | 3 | 11 | 2 |
+| inca | 15 | 7 | 4 | 3 | 11 | 3 |
+| moche | 15 | 7 | 4 | 3 | 11 | 1 |
+| aztec | 15 | 7 | 4 | 3 | 11 | 2 |
+| angkor | 15 | 8 | 4 | 3 | 11 | 3 |
+| **增量合计** | **+110** | **+55** | **+33** | **+22** | **+110** | **+25** |
+
+**坐标：** 主要教科文取向遗址填维基百科主坐标（卡霍基亚、查科、梅萨维德、大津巴布韦、杰内、廷巴克图、哈尔施塔特、苏努拉希、拉帕努伊、库斯科、马丘比丘、大神庙、吴哥窟、太阳金字塔等），并写明精度说明——本轮教科文 WHC 被 Cloudflare 拦截。含糊者留空。
+
+**媒体：** 仅外链落地页（教科文 / NPS / INAH / APSARA / 项目门户）。`local_path` 仍为空。拉帕努伊仍伦理优先（不托管摩艾图像）。
+
+**文档：** 覆盖图已更新；`civ-*.md` 与包 README 已同步。机器摘要：[`docs/audits/pass-2026-10-12-wave3-densify.json`](audits/pass-2026-10-12-wave3-densify.json)。
+
+**核验：** `export_check` OK（**40** 包；出处闸门绿）。
+
+**备注：** 距埃及/两河 `fact-library` 密度仍远（该九包仍为密档层）。宁薄勿假。工具：`tools/wave3_shells/densify_wave3.py` + `densify_payloads/*.json`。
+

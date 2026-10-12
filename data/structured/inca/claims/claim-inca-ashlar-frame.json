@@ -1,0 +1,35 @@
+{
+  "id": "claim-inca-ashlar-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "库斯科与马丘比丘细石作被教科文与建筑研究表述为印加标志性工程（UNESCO 273/274；Protzen）。",
+    "en": "Fine ashlar at Cusco and Machu Picchu is framed by UNESCO and architectural studies as hallmark Inca engineering (UNESCO 273/274; Protzen)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-cusco-inca",
+    "site-machu-picchu"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-inca-ashlar-architecture-frame"
+  ],
+  "sources": [
+    "src-inca-unesco-cusco-273",
+    "src-inca-unesco-machu-picchu-274",
+    "src-inca-protzen-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

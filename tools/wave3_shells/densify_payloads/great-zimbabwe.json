@@ -1,0 +1,512 @@
+{
+  "civ_id": "civ-great-zimbabwe",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "大津巴布韦档案（library-seed-rich）：Pikirayi/Huffman/Garlake + 教科文；仍非埃及级密度。",
+    "en": "Great Zimbabwe archive (library-seed-rich): Pikirayi/Huffman/Garlake + UNESCO; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-zimbabwe-chirikure-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Chirikure, Shadreck — Great Zimbabwe and Zimbabwe Culture metallurgy/heritage studies.",
+      "url": null,
+      "notes": "Metallurgy and heritage orientation."
+    },
+    {
+      "id": "src-zimbabwe-beach-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Beach, David N. — Shona history and Zimbabwe plateau state traditions (scholarly syntheses).",
+      "url": null,
+      "notes": "Historical tradition orientation; archaeology/history interface."
+    },
+    {
+      "id": "src-zimbabwe-caton-thompson-1931",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Caton-Thompson, Gertrude. 1931. The Zimbabwe Culture: Ruins and Reactions. Oxford: Clarendon Press.",
+      "url": null,
+      "notes": "Classic excavation monograph establishing local African authorship; P-tradition."
+    },
+    {
+      "id": "src-zimbabwe-robinson-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Robinson, K. R. — Great Zimbabwe excavation and ceramic sequence reports (1950s–60s National Museums tradition).",
+      "url": null,
+      "notes": "Excavation sequence pointer; no invented locus numbers."
+    },
+    {
+      "id": "src-zimbabwe-whitty-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Whitty, Anthony — Great Zimbabwe wall styles and architectural typology studies.",
+      "url": null,
+      "notes": "Wall-style typology orientation."
+    },
+    {
+      "id": "src-zimbabwe-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Great Zimbabwe National Monument — documents. https://whc.unesco.org/en/list/364/documents/",
+      "url": "https://whc.unesco.org/en/list/364/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-zimbabwe-matenga-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Matenga, Edward — Great Zimbabwe soapstone birds and heritage interpretation studies.",
+      "url": null,
+      "notes": "Bird sculptures / heritage orientation."
+    },
+    {
+      "id": "src-zimbabwe-pwiti-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Pwiti, Gilbert — Zimbabwe plateau archaeology and heritage management essays.",
+      "url": null,
+      "notes": "Regional archaeology orientation."
+    },
+    {
+      "id": "src-zimbabwe-manyanga-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Manyanga, Munyaradzi — Great Zimbabwe landscape and cattle/settlement studies.",
+      "url": null,
+      "notes": "Landscape archaeology orientation."
+    },
+    {
+      "id": "src-zimbabwe-nmmz-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "National Museums and Monuments of Zimbabwe — Great Zimbabwe orientation (institutional).",
+      "url": null,
+      "notes": "National heritage authority orientation; URL may vary; tier T."
+    }
+  ],
+  "fill_coords": {
+    "site-great-zimbabwe-monument": {
+      "lat": -20.266667,
+      "lon": 30.933333,
+      "precision_note": "English Wikipedia primary coordinates for «Great Zimbabwe»; access 2026-10-12 (UNESCO WH list 364 orientation site)"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-zimbabwe-hill-complex",
+      "names": {
+        "zh": "山丘建筑群（指针）",
+        "en": "Hill Complex (orientation)",
+        "native": null
+      },
+      "kind_note": "Hilltop dry-stone sector at Great Zimbabwe",
+      "region": "Masvingo Province, Zimbabwe",
+      "coords": null,
+      "summary": {
+        "zh": "大津巴布韦山丘干石区指针。",
+        "en": "Hilltop dry-stone sector orientation."
+      },
+      "sources": [
+        "src-zimbabwe-unesco-364",
+        "src-zimbabwe-garlake-1973",
+        "src-zimbabwe-pikirayi-2001"
+      ]
+    },
+    {
+      "id": "site-zimbabwe-great-enclosure",
+      "names": {
+        "zh": "大围场（指针）",
+        "en": "Great Enclosure (orientation)",
+        "native": null
+      },
+      "kind_note": "Major freestanding dry-stone enclosure",
+      "region": "Great Zimbabwe National Monument",
+      "coords": null,
+      "summary": {
+        "zh": "标志性干石大围场指针。",
+        "en": "Hallmark freestanding dry-stone enclosure orientation."
+      },
+      "sources": [
+        "src-zimbabwe-unesco-364",
+        "src-zimbabwe-garlake-1973",
+        "src-zimbabwe-whitty-orientation"
+      ]
+    },
+    {
+      "id": "site-zimbabwe-valley-ruins-orientation",
+      "names": {
+        "zh": "谷地废墟区（指针）",
+        "en": "Valley Ruins sector (orientation)",
+        "native": null
+      },
+      "kind_note": "Valley dry-stone enclosures",
+      "region": "Great Zimbabwe National Monument",
+      "coords": null,
+      "summary": {
+        "zh": "谷地干石围场区指针。",
+        "en": "Valley dry-stone enclosure sector orientation."
+      },
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-garlake-1973"
+      ]
+    },
+    {
+      "id": "site-zimbabwe-khami-orientation",
+      "names": {
+        "zh": "卡米遗址（指针）",
+        "en": "Khami (orientation)",
+        "native": "Khami"
+      },
+      "kind_note": "Later Zimbabwe Culture stone capital (UNESCO separate listing often discussed comparatively)",
+      "region": "Near Bulawayo, Zimbabwe",
+      "coords": null,
+      "summary": {
+        "zh": "晚期津巴布韦文化石都比较指针。",
+        "en": "Later Zimbabwe Culture stone-capital comparative orientation."
+      },
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-huffman-2007"
+      ]
+    },
+    {
+      "id": "site-zimbabwe-mapungubwe-orientation",
+      "names": {
+        "zh": "马蓬古布韦（指针）",
+        "en": "Mapungubwe (orientation)",
+        "native": "Mapungubwe"
+      },
+      "kind_note": "Earlier Limpopo state often linked in Zimbabwe Culture origins debates",
+      "region": "Limpopo, South Africa",
+      "coords": null,
+      "summary": {
+        "zh": "起源讨论中常提及的林波波早期国家指针。",
+        "en": "Earlier Limpopo state orientation in origins debates."
+      },
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-huffman-2007"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-zimbabwe-mapungubwe-horizon",
+      "names": {
+        "zh": "马蓬古布韦相关窗",
+        "en": "Mapungubwe-related horizon"
+      },
+      "time": {
+        "label": "ca. 11th–13th centuries CE working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "起源讨论相关早期窗。",
+        "en": "Early window related to origins debates."
+      },
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-huffman-2007"
+      ]
+    },
+    {
+      "id": "period-zimbabwe-classic-capital",
+      "names": {
+        "zh": "大津巴布韦经典都城窗",
+        "en": "Great Zimbabwe classic capital window"
+      },
+      "time": {
+        "label": "ca. 13th–15th centuries CE floruit labels",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "经典干石都城繁荣窗。",
+        "en": "Classic dry-stone capital floruit window."
+      },
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-garlake-1973",
+        "src-zimbabwe-unesco-364"
+      ]
+    },
+    {
+      "id": "period-zimbabwe-khami-succession",
+      "names": {
+        "zh": "卡米等后继窗",
+        "en": "Khami and successor window"
+      },
+      "time": {
+        "label": "after ca. 15th century CE working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "后继石都与区域延续窗。",
+        "en": "Successor stone capitals and regional continuity window."
+      },
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-huffman-2007"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-zimbabwe-great-enclosure-frame",
+      "names": {
+        "zh": "大围场干石建筑框架",
+        "en": "Great Enclosure dry-stone frame"
+      },
+      "site_ids": [
+        "site-zimbabwe-great-enclosure"
+      ],
+      "period_ids": [
+        "period-zimbabwe-classic-capital"
+      ],
+      "sources": [
+        "src-zimbabwe-unesco-364",
+        "src-zimbabwe-garlake-1973"
+      ],
+      "summary": {
+        "zh": "大围场干石工程指针。",
+        "en": "Great Enclosure dry-stone engineering pointer."
+      }
+    },
+    {
+      "id": "asm-zimbabwe-soapstone-bird-frame",
+      "names": {
+        "zh": "皂石鸟雕像框架组合",
+        "en": "Soapstone bird sculpture frame"
+      },
+      "site_ids": [
+        "site-great-zimbabwe-monument"
+      ],
+      "period_ids": [
+        "period-zimbabwe-classic-capital"
+      ],
+      "sources": [
+        "src-zimbabwe-matenga-orientation",
+        "src-zimbabwe-unesco-364"
+      ],
+      "summary": {
+        "zh": "皂石鸟传统指针；无伪造馆藏号。",
+        "en": "Soapstone bird tradition pointer; no forged catalog numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-zimbabwe-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将大津巴布韦国家纪念地列入世界遗产，强调干石墙都城景观（UNESCO 364）。",
+        "en": "UNESCO lists Great Zimbabwe National Monument as World Heritage, emphasizing dry-stone capital landscape (UNESCO 364)."
+      },
+      "site_ids": [
+        "site-great-zimbabwe-monument"
+      ],
+      "period_ids": [
+        "period-great-zimbabwe-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-unesco-364"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-pikirayi-synthesis",
+      "kind": "fact",
+      "statement": {
+        "zh": "Pikirayi 2001 综合津巴布韦文化起源与南部赞比西亚国家兴衰（AltaMira）。",
+        "en": "Pikirayi 2001 synthesizes Zimbabwe Culture origins and decline of southern Zambezian states (AltaMira)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-great-zimbabwe-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-pikirayi-2001"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-caton-thompson",
+      "kind": "fact",
+      "statement": {
+        "zh": "Caton-Thompson 1931 发掘专著确立大津巴布韦为非洲本地建造传统的关键田野论证（Clarendon）。",
+        "en": "Caton-Thompson 1931 excavation monograph established a foundational field case for Great Zimbabwe as a local African building tradition (Clarendon)."
+      },
+      "site_ids": [
+        "site-great-zimbabwe-monument"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-caton-thompson-1931"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-garlake",
+      "kind": "fact",
+      "statement": {
+        "zh": "Garlake 1973 提供大津巴布韦干石建筑与历史的通识综合（Thames and Hudson）。",
+        "en": "Garlake 1973 provides an accessible synthesis of Great Zimbabwe dry-stone architecture and history (Thames and Hudson)."
+      },
+      "site_ids": [
+        "site-great-zimbabwe-monument",
+        "site-zimbabwe-great-enclosure"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-garlake-1973"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-huffman-handbook",
+      "kind": "fact",
+      "statement": {
+        "zh": "Huffman 2007 铁器时代手册将津巴布韦文化置于南部非洲农耕社会框架（UKZN Press）；模型有争议。",
+        "en": "Huffman 2007 Iron Age handbook places Zimbabwe Culture in southern African farming-society frames (UKZN Press); models are contested."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-great-zimbabwe-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-huffman-2007"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-great-enclosure",
+      "kind": "fact",
+      "statement": {
+        "zh": "大围场被教科文与综合著作表述为标志性干石自由立围墙建筑（UNESCO 364；Garlake 1973）。",
+        "en": "The Great Enclosure is framed by UNESCO and syntheses as hallmark freestanding dry-stone architecture (UNESCO 364; Garlake 1973)."
+      },
+      "site_ids": [
+        "site-zimbabwe-great-enclosure"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-zimbabwe-great-enclosure-frame"
+      ],
+      "sources": [
+        "src-zimbabwe-unesco-364",
+        "src-zimbabwe-garlake-1973"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-hill-complex",
+      "kind": "fact",
+      "statement": {
+        "zh": "山丘建筑群与谷地废墟构成大津巴布韦核心分区，见于教科文与综合描述（UNESCO 364；Pikirayi 2001）。",
+        "en": "Hill Complex and Valley Ruins form core sectors of Great Zimbabwe in UNESCO and synthesis descriptions (UNESCO 364; Pikirayi 2001)."
+      },
+      "site_ids": [
+        "site-zimbabwe-hill-complex",
+        "site-zimbabwe-valley-ruins-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-unesco-364",
+        "src-zimbabwe-pikirayi-2001"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-comparative-khami",
+      "kind": "fact",
+      "statement": {
+        "zh": "文献常将卡米等后继石都与大津巴布韦比较讨论（Pikirayi 2001；Huffman 2007）。",
+        "en": "Literature often compares successor stone capitals such as Khami with Great Zimbabwe (Pikirayi 2001; Huffman 2007)."
+      },
+      "site_ids": [
+        "site-zimbabwe-khami-orientation"
+      ],
+      "period_ids": [
+        "period-zimbabwe-khami-succession"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-huffman-2007"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-mapungubwe-debate",
+      "kind": "fact",
+      "statement": {
+        "zh": "马蓬古布韦常出现在津巴布韦文化起源与早期国家讨论中（Pikirayi 2001；Huffman 2007）；关系模型开放。",
+        "en": "Mapungubwe often appears in Zimbabwe Culture origins and early-state debates (Pikirayi 2001; Huffman 2007); relational models remain open."
+      },
+      "site_ids": [
+        "site-zimbabwe-mapungubwe-orientation"
+      ],
+      "period_ids": [
+        "period-zimbabwe-mapungubwe-horizon"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-pikirayi-2001",
+        "src-zimbabwe-huffman-2007"
+      ]
+    },
+    {
+      "id": "claim-zimbabwe-ndoro-heritage",
+      "kind": "fact",
+      "statement": {
+        "zh": "Ndoro 2001 讨论大津巴布韦作为地方圣地与遗产管理对象的意义（Uppsala）。",
+        "en": "Ndoro 2001 discusses Great Zimbabwe as local shrine and heritage-management subject (Uppsala)."
+      },
+      "site_ids": [
+        "site-great-zimbabwe-monument"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-zimbabwe-ndoro-2001"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-zimbabwe-unesco",
+      "title": {
+        "zh": "教科文：大津巴布韦",
+        "en": "UNESCO: Great Zimbabwe",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/364/",
+      "sources": [
+        "src-zimbabwe-unesco-364"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-zimbabwe-unesco-docs",
+      "title": {
+        "zh": "教科文大津巴布韦文档",
+        "en": "UNESCO Great Zimbabwe documents",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/364/documents/",
+      "sources": [
+        "src-zimbabwe-unesco-docs"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

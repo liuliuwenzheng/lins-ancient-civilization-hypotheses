@@ -1,0 +1,30 @@
+{
+  "id": "claim-hallstatt-kristiansen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kristiansen & Larsson 2005 在青铜–铁器欧洲远距离互动框架中讨论哈尔施塔特精英网络（CUP）。",
+    "en": "Kristiansen & Larsson 2005 discuss Hallstatt elite networks within Bronze–Iron Age European long-distance interaction (CUP)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-hallstatt-d"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-kristiansen-larsson-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

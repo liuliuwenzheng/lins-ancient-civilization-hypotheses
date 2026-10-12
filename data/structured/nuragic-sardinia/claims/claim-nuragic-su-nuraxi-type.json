@@ -3,8 +3,8 @@
   "entity": "claim",
   "kind": "fact",
   "statement": {
-    "zh": "教科文将巴鲁米尼苏努拉西表述为撒丁努拉吉文明石塔建筑最完整的例证之一（UNESCO 833）。",
-    "en": "UNESCO frames Su Nuraxi di Barumini as one of the most complete examples of Nuragic stone-tower architecture on Sardinia (UNESCO 833)."
+    "zh": "苏努拉希被教科文与综合表述为复杂多塔努拉格的代表性遗址（UNESCO 833；Lilliu）。",
+    "en": "Su Nuraxi is framed by UNESCO and syntheses as a representative complex multi-tower nuraghe (UNESCO 833; Lilliu)."
   },
   "civilization_ids": [
     "civ-nuragic-sardinia"
@@ -12,24 +12,22 @@
   "site_ids": [
     "site-su-nuraxi-barumini"
   ],
-  "period_ids": [
-    "period-nuragic-bronze-iron"
-  ],
+  "period_ids": [],
   "object_ids": [
-    "asm-nuragic-tower-village-frame"
+    "asm-nuragic-su-nuraxi-frame"
   ],
   "sources": [
     "src-nuragic-unesco-833",
-    "src-nuragic-webster-1996"
+    "src-nuragic-lilliu-1988"
   ],
   "disclaimer": null,
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

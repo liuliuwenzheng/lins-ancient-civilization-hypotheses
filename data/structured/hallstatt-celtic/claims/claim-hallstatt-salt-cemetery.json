@@ -1,0 +1,35 @@
+{
+  "id": "claim-hallstatt-salt-cemetery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈尔施塔特盐矿与定名墓地构成文化编年的类型学基础，见 NHM Wien 与教科文描述（UNESCO 806；NHM）。",
+    "en": "Hallstatt salt mines and type cemetery underpin cultural chronology typology in NHM Wien and UNESCO descriptions (UNESCO 806; NHM)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-salt-mines-orientation",
+    "site-hallstatt-cemetery-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-hallstatt-salt-mine-frame"
+  ],
+  "sources": [
+    "src-hallstatt-unesco-806",
+    "src-hallstatt-nhm-vienna-orientation",
+    "src-hallstatt-hodson-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

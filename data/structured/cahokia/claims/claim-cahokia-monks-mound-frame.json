@@ -1,0 +1,33 @@
+{
+  "id": "claim-cahokia-monks-mound-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与图集将修士丘表述为北美史前最大土墩之一与卡霍基亚中轴纪念建筑（UNESCO 198；Fowler 1997）。",
+    "en": "UNESCO and the atlas frame Monks Mound as among North America's largest prehistoric mounds and Cahokia's axial monument (UNESCO 198; Fowler 1997)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-monks-mound"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cahokia-monks-mound-frame"
+  ],
+  "sources": [
+    "src-cahokia-unesco-198",
+    "src-cahokia-fowler-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-hallstatt-collis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Collis 2003 批判性讨论“凯尔特人”概念与铁器时代考古（Tempus / later editions）。",
+    "en": "Collis 2003 critically discusses the concept of the Celts and Iron Age archaeology (Tempus / later editions)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-collis-2003"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将大津巴布韦国家纪念地列入世界遗产，强调干石墙都城景观（UNESCO 364）。",
+    "en": "UNESCO lists Great Zimbabwe National Monument as World Heritage, emphasizing dry-stone capital landscape (UNESCO 364)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-great-zimbabwe-monument"
+  ],
+  "period_ids": [
+    "period-great-zimbabwe-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-unesco-364"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

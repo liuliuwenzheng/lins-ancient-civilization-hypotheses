@@ -1,0 +1,43 @@
+{
+  "id": "asm-cahokia-woodhenge-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "木垣柱圈框架组合",
+    "en": "Woodhenge post-circle frame"
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-woodhenge-orientation"
+  ],
+  "period_ids": [
+    "period-cahokia-stirling"
+  ],
+  "summary": {
+    "zh": "柱圈仪礼装置指针。",
+    "en": "Post-circle ceremonial installation pointer."
+  },
+  "sources": [
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-iseminger-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

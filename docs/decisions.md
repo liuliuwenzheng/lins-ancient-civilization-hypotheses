@@ -752,3 +752,36 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Still far from Egypt/Mesopotamia `fact-library` density. Prefer honest thin over fake dense. Tooling: `tools/wave2_shells/densify_wave2.py` + `densify_payloads/*.json`.
 
+
+
+### D-2026-10-12-17 — Wave-3 densify to `library-seed-rich`
+
+**Decision:** Densify all eleven Wave-3 packs opened in D-2026-10-12-15 from `library-seed` toward usable archive density (`library-seed-rich`). Same recipe as Wave-1/Wave-2 densify: ~+10 Sources, +5 Sites, +3 Periods, +2 Objects, +10 Claims, +1–3 outbound media. Integrity over completeness: no invented archaeology, page numbers, coordinates, or media art.
+
+**Per-pack after counts (structured JSON):**
+
+| Pack | sources | sites | periods | objects | claims | media |
+|------|--------:|------:|--------:|--------:|-------:|------:|
+| cahokia | 15 | 7 | 4 | 3 | 11 | 3 |
+| ancestral-pueblo | 15 | 7 | 4 | 3 | 11 | 3 |
+| great-zimbabwe | 15 | 7 | 4 | 3 | 11 | 2 |
+| west-africa-medieval | 15 | 8 | 4 | 3 | 11 | 2 |
+| hallstatt-celtic | 15 | 7 | 4 | 3 | 11 | 2 |
+| nuragic-sardinia | 15 | 7 | 4 | 3 | 11 | 2 |
+| rapa-nui | 15 | 7 | 4 | 3 | 11 | 2 |
+| inca | 15 | 7 | 4 | 3 | 11 | 3 |
+| moche | 15 | 7 | 4 | 3 | 11 | 1 |
+| aztec | 15 | 7 | 4 | 3 | 11 | 2 |
+| angkor | 15 | 8 | 4 | 3 | 11 | 3 |
+| **Delta totals** | **+110** | **+55** | **+33** | **+22** | **+110** | **+25** |
+
+**Coordinates:** English Wikipedia primary coordinates filled for major UNESCO-orientation sites (Cahokia, Chaco, Mesa Verde, Great Zimbabwe, Djenné, Timbuktu, Hallstatt, Su Nuraxi, Rapa Nui, Cusco, Machu Picchu, Templo Mayor, Angkor Wat, Huaca del Sol, etc.) with honest precision notes — UNESCO WHC pages were Cloudflare-blocked this pass. Ambiguous sites left **null**.
+
+**Media:** Outbound-link-only landings (UNESCO / NPS / INAH / APSARA / project portals). `local_path` remains null. Rapa Nui remains ethics-first (no hosted moai imagery).
+
+**Docs:** Coverage map updated; `civ-*.md` + pack READMEs synced. Machine summary: [`docs/audits/pass-2026-10-12-wave3-densify.json`](audits/pass-2026-10-12-wave3-densify.json).
+
+**Verified:** `export_check` OK (**40** packs; citation gate green).
+
+**Notes:** Still far from Egypt/Mesopotamia `fact-library` density (those nine remain the dense tier). Prefer honest thin over fake dense. Tooling: `tools/wave3_shells/densify_wave3.py` + `densify_payloads/*.json`.
+

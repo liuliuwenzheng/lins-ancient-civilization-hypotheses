@@ -1,0 +1,33 @@
+{
+  "id": "claim-angkor-roluos",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "罗洛士/哈里哈拉洛耶组群代表早期吴哥都城阶段（Higham；Coe & Evans）。",
+    "en": "Roluos / Hariharalaya group represents an early Angkorian capital phase (Higham; Coe & Evans)."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-hariharalaya-orientation"
+  ],
+  "period_ids": [
+    "period-angkor-early-hariharalaya"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-higham-orientation",
+    "src-angkor-coe-evans-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

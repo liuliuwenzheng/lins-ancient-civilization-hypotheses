@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-tlatelolco-market",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "特拉特洛尔科大市场在民族史与考古讨论中作为盆地交换中心（Smith；Berdan）。",
+    "en": "Tlatelolco's great market is discussed as a Basin exchange centre in ethnohistory and archaeology (Smith; Berdan)."
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-tlatelolco-orientation",
+    "site-aztec-tlatelolco-market-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-smith-2012",
+    "src-aztec-berdan-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

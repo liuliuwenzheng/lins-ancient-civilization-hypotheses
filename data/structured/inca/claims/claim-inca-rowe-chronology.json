@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-rowe-chronology",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rowe 文化史框架为印加年代学提供经典标签（经典论文传统）；绝对年代仍可修订。",
+    "en": "Rowe's culture-history framework supplies classic labels for Inca chronology (classic essay tradition); absolute dates remain revisable."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-early-expansion",
+    "period-inca-imperial-apex"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-rowe-orientation",
+    "src-inca-daltroy-2014"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

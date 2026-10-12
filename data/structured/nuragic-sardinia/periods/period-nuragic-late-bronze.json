@@ -1,0 +1,34 @@
+{
+  "id": "period-nuragic-late-bronze",
+  "entity": "period",
+  "names": {
+    "zh": "努拉吉晚青铜窗",
+    "en": "Nuragic Late Bronze window"
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "time": {
+    "label": "ca. 1300–900 BCE working band",
+    "approx_from_bce": 1300,
+    "approx_to_bce": 900,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "晚青铜繁荣工作窗。",
+    "en": "Late Bronze floruit working window."
+  },
+  "sources": [
+    "src-nuragic-lilliu-1988",
+    "src-nuragic-lo-schiavo-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

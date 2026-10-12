@@ -1,0 +1,31 @@
+{
+  "id": "claim-cahokia-pauketat-city",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pauketat 综合将卡霍基亚表述为密西西比河流域的大型仪礼—城市中心（Pauketat 2009/2004）。",
+    "en": "Pauketat's syntheses frame Cahokia as a major ceremonial–urban centre in the Mississippi Valley (Pauketat 2009/2004)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-monks-mound"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-pauketat-2004"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

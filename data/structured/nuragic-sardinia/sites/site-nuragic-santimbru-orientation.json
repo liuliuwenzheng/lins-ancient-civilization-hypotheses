@@ -1,0 +1,32 @@
+{
+  "id": "site-nuragic-santimbru-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "圣伊姆贝尼亚等地（指针）",
+    "en": "Sant'Imbenia and related (orientation)",
+    "native": null
+  },
+  "kind_note": "Nuragic coastal settlement with Mediterranean contacts",
+  "region": "Alghero area, Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "有地中海接触的滨海努拉吉聚落指针。",
+    "en": "Coastal Nuragic settlement with Mediterranean contacts orientation."
+  },
+  "sources": [
+    "src-nuragic-lo-schiavo-orientation",
+    "src-nuragic-webster-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

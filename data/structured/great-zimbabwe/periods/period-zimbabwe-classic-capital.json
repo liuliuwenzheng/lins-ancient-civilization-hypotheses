@@ -1,0 +1,35 @@
+{
+  "id": "period-zimbabwe-classic-capital",
+  "entity": "period",
+  "names": {
+    "zh": "大津巴布韦经典都城窗",
+    "en": "Great Zimbabwe classic capital window"
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "time": {
+    "label": "ca. 13th–15th centuries CE floruit labels",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "经典干石都城繁荣窗。",
+    "en": "Classic dry-stone capital floruit window."
+  },
+  "sources": [
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-garlake-1973",
+    "src-zimbabwe-unesco-364"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

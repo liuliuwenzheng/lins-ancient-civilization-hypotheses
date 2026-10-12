@@ -1,0 +1,43 @@
+{
+  "id": "asm-aztec-codex-ethnohistory-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "早期殖民民族史抄本框架",
+    "en": "Early colonial ethnohistoric codex frame"
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-tenochtitlan-island-orientation"
+  ],
+  "period_ids": [
+    "period-aztec-spanish-contact"
+  ],
+  "summary": {
+    "zh": "萨哈贡等民族史传统指针；无伪造页码。",
+    "en": "Sahagún et al. ethnohistoric tradition pointer; no forged page numbers."
+  },
+  "sources": [
+    "src-aztec-sahagun-orientation",
+    "src-aztec-lopez-austin-lopez-lujan"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

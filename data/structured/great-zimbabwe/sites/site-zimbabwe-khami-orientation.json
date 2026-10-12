@@ -1,0 +1,32 @@
+{
+  "id": "site-zimbabwe-khami-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "卡米遗址（指针）",
+    "en": "Khami (orientation)",
+    "native": "Khami"
+  },
+  "kind_note": "Later Zimbabwe Culture stone capital (UNESCO separate listing often discussed comparatively)",
+  "region": "Near Bulawayo, Zimbabwe",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "晚期津巴布韦文化石都比较指针。",
+    "en": "Later Zimbabwe Culture stone-capital comparative orientation."
+  },
+  "sources": [
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-huffman-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

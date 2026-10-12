@@ -1,0 +1,520 @@
+{
+  "civ_id": "civ-rapa-nui",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "拉帕努伊档案（library-seed-rich）：Van Tilburg/Hunt–Lipo + 教科文；伦理优先，无伪造摩艾图像。",
+    "en": "Rapa Nui archive (library-seed-rich): Van Tilburg/Hunt–Lipo + UNESCO; ethics-first, no forged moai imagery."
+  },
+  "sources": [
+    {
+      "id": "src-rapanui-routledge-1919",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Routledge, Katherine. 1919. The Mystery of Easter Island. London: Sifton, Praed & Co.",
+      "url": null,
+      "notes": "Early ethnographic–archaeological expedition account; historical S; colonial-era biases noted."
+    },
+    {
+      "id": "src-rapanui-mulrooney-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Mulrooney, Mara A. — Rapa Nui chronology and settlement pattern studies.",
+      "url": null,
+      "notes": "Chronology/settlement orientation."
+    },
+    {
+      "id": "src-rapanui-shepardson-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Shepardson, Britton L. — moai spatial analysis and conservation studies.",
+      "url": null,
+      "notes": "Spatial/conservation orientation; ethics-aware."
+    },
+    {
+      "id": "src-rapanui-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Rapa Nui National Park — documents. https://whc.unesco.org/en/list/715/documents/",
+      "url": "https://whc.unesco.org/en/list/715/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-rapanui-flenley-bahn-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Flenley, John, and Paul Bahn — Easter Island earth-island environmental history syntheses.",
+      "url": null,
+      "notes": "Environmental history orientation; models debated with Hunt–Lipo."
+    },
+    {
+      "id": "src-rapanui-edwards-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Edwards, Edmundo / Rapa Nui archaeological survey traditions.",
+      "url": null,
+      "notes": "Survey orientation."
+    },
+    {
+      "id": "src-rapanui-hamilton-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Hamilton, Sue — Rapa Nui landscape archaeology and ahu studies.",
+      "url": null,
+      "notes": "Landscape/ahu orientation."
+    },
+    {
+      "id": "src-rapanui-conrich-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Conrich, Ian, and Hermann Mückler, eds. — Rapa Nui / Easter Island cultural studies collections.",
+      "url": null,
+      "notes": "Cultural studies orientation."
+    },
+    {
+      "id": "src-rapanui-seppenhofer-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "Consejo de Monumentos Nacionales / Parque Nacional Rapa Nui institutional orientation.",
+      "url": null,
+      "notes": "Chilean heritage / park orientation; tier T."
+    },
+    {
+      "id": "src-rapanui-lipo-hunt-transport",
+      "type": "article",
+      "tier": "S",
+      "citation": "Lipo, Carl P., and Terry L. Hunt — moai transport experiments and 'walking' hypothesis papers.",
+      "url": null,
+      "notes": "Transport hypothesis orientation; contested; cite as S."
+    }
+  ],
+  "fill_coords": {
+    "site-rapa-nui-national-park": {
+      "lat": -27.15,
+      "lon": -109.45,
+      "precision_note": "English Wikipedia primary coordinates for «Rapa Nui National Park»; access 2026-10-12 (UNESCO WH list 715 orientation site)"
+    },
+    "site-rapanui-orongo-orientation": {
+      "lat": -27.189444,
+      "lon": -109.4425,
+      "precision_note": "English Wikipedia primary coordinates for «Orongo»; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-rapanui-rano-raraku-orientation",
+      "names": {
+        "zh": "拉诺拉拉库采石场（指针）",
+        "en": "Rano Raraku quarry (orientation)",
+        "native": "Rano Raraku"
+      },
+      "kind_note": "Primary moai quarry crater",
+      "region": "Rapa Nui",
+      "coords": null,
+      "summary": {
+        "zh": "主要摩艾采石坑指针；不附伪造图像。",
+        "en": "Primary moai quarry crater orientation; no forged imagery."
+      },
+      "sources": [
+        "src-rapanui-unesco-715",
+        "src-rapanui-van-tilburg-1994",
+        "src-rapanui-shepardson-orientation"
+      ]
+    },
+    {
+      "id": "site-rapanui-ahu-tongariki-orientation",
+      "names": {
+        "zh": "阿胡东加里基（指针）",
+        "en": "Ahu Tongariki (orientation)",
+        "native": "Ahu Tongariki"
+      },
+      "kind_note": "Restored multi-moai ahu platform",
+      "region": "Rapa Nui south coast",
+      "coords": null,
+      "summary": {
+        "zh": "多摩艾阿胡祭坛指针；伦理优先描述。",
+        "en": "Multi-moai ahu platform orientation; ethics-first description."
+      },
+      "sources": [
+        "src-rapanui-unesco-715",
+        "src-rapanui-van-tilburg-1994",
+        "src-rapanui-hamilton-orientation"
+      ]
+    },
+    {
+      "id": "site-rapanui-anakena-orientation",
+      "names": {
+        "zh": "阿纳凯纳（指针）",
+        "en": "Anakena (orientation)",
+        "native": "Anakena"
+      },
+      "kind_note": "Coastal ahu / landing tradition site",
+      "region": "Rapa Nui north coast",
+      "coords": null,
+      "summary": {
+        "zh": "滨海阿胡/登陆传统地点指针。",
+        "en": "Coastal ahu / landing-tradition site orientation."
+      },
+      "sources": [
+        "src-rapanui-hunt-lipo-2011",
+        "src-rapanui-van-tilburg-1994"
+      ]
+    },
+    {
+      "id": "site-rapanui-puna-pau-orientation",
+      "names": {
+        "zh": "普纳保（指针）",
+        "en": "Puna Pau (orientation)",
+        "native": "Puna Pau"
+      },
+      "kind_note": "Red scoria pukao quarry",
+      "region": "Rapa Nui",
+      "coords": null,
+      "summary": {
+        "zh": "红色火山渣顶髻采石场指针。",
+        "en": "Red scoria pukao quarry orientation."
+      },
+      "sources": [
+        "src-rapanui-van-tilburg-1994",
+        "src-rapanui-unesco-715"
+      ]
+    },
+    {
+      "id": "site-rapanui-ahu-akivi-orientation",
+      "names": {
+        "zh": "阿胡阿基维（指针）",
+        "en": "Ahu Akivi (orientation)",
+        "native": "Ahu Akivi"
+      },
+      "kind_note": "Inland restored ahu with seaward-facing moai",
+      "region": "Rapa Nui interior",
+      "coords": null,
+      "summary": {
+        "zh": "内陆修复阿胡指针。",
+        "en": "Inland restored ahu orientation."
+      },
+      "sources": [
+        "src-rapanui-van-tilburg-1994",
+        "src-rapanui-hamilton-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-rapanui-colonization",
+      "names": {
+        "zh": "拉帕努伊拓殖窗",
+        "en": "Rapa Nui colonization window"
+      },
+      "time": {
+        "label": "ca. 12th–13th centuries CE working band (radiocarbon debates open)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "波利尼西亚拓殖工作窗；年代争论开放。",
+        "en": "Polynesian colonization working window; dating debates open."
+      },
+      "sources": [
+        "src-rapanui-hunt-lipo-2011",
+        "src-rapanui-mulrooney-orientation"
+      ]
+    },
+    {
+      "id": "period-rapanui-ahu-moai",
+      "names": {
+        "zh": "阿胡–摩艾纪念建筑窗",
+        "en": "Ahu–moai monumental window"
+      },
+      "time": {
+        "label": "broadly 13th–17th centuries CE working labels",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "纪念性阿胡与摩艾工作窗。",
+        "en": "Monumental ahu and moai working window."
+      },
+      "sources": [
+        "src-rapanui-van-tilburg-1994",
+        "src-rapanui-unesco-715"
+      ]
+    },
+    {
+      "id": "period-rapanui-birdman",
+      "names": {
+        "zh": "鸟人教/奥龙戈窗",
+        "en": "Birdman cult / Orongo window"
+      },
+      "time": {
+        "label": "later pre-contact to early historic centuries CE",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "鸟人礼仪与奥龙戈村窗。",
+        "en": "Birdman ritual and Orongo village window."
+      },
+      "sources": [
+        "src-rapanui-routledge-1919",
+        "src-rapanui-unesco-715"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-rapanui-moai-quarry-ahu-frame",
+      "names": {
+        "zh": "摩艾–阿胡纪念框架组合",
+        "en": "Moai–ahu monumental frame"
+      },
+      "site_ids": [
+        "site-rapa-nui-national-park",
+        "site-rapanui-ahu-tongariki-orientation",
+        "site-rapanui-rano-raraku-orientation"
+      ],
+      "period_ids": [
+        "period-rapanui-ahu-moai"
+      ],
+      "sources": [
+        "src-rapanui-unesco-715",
+        "src-rapanui-van-tilburg-1994"
+      ],
+      "summary": {
+        "zh": "摩艾与阿胡传统元数据指针；无本地图像文件。",
+        "en": "Moai and ahu tradition metadata pointer; no local image files."
+      }
+    },
+    {
+      "id": "asm-rapanui-orongo-birdman-frame",
+      "names": {
+        "zh": "奥龙戈鸟人礼仪框架",
+        "en": "Orongo birdman ritual frame"
+      },
+      "site_ids": [
+        "site-rapanui-orongo-orientation"
+      ],
+      "period_ids": [
+        "period-rapanui-birdman"
+      ],
+      "sources": [
+        "src-rapanui-unesco-715",
+        "src-rapanui-routledge-1919"
+      ],
+      "summary": {
+        "zh": "鸟人礼仪村寨指针。",
+        "en": "Birdman ritual village pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-rapanui-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将拉帕努伊国家公园列入世界遗产，强调波利尼西亚纪念性石雕与礼仪景观（UNESCO 715）。",
+        "en": "UNESCO lists Rapa Nui National Park as World Heritage, emphasizing Polynesian monumental stone sculpture and ritual landscape (UNESCO 715)."
+      },
+      "site_ids": [
+        "site-rapa-nui-national-park"
+      ],
+      "period_ids": [
+        "period-rapa-nui-monumental"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-unesco-715"
+      ]
+    },
+    {
+      "id": "claim-rapanui-van-tilburg",
+      "kind": "fact",
+      "statement": {
+        "zh": "Van Tilburg 1994 综合复活节岛考古，强调摩艾研究与保护伦理（Oxford / related presses）。",
+        "en": "Van Tilburg 1994 synthesizes Easter Island archaeology with emphasis on moai research and conservation ethics (Oxford / related presses)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-rapanui-ahu-moai"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-van-tilburg-1994"
+      ]
+    },
+    {
+      "id": "claim-rapanui-hunt-lipo",
+      "kind": "fact",
+      "statement": {
+        "zh": "Hunt & Lipo 2011 等提出与“生态崩溃”叙事竞争的拓殖、大鼠与资源模型（争议性 S 级综合）。",
+        "en": "Hunt & Lipo 2011 and related work propose colonization, rat, and resource models competing with 'ecocide' narratives (contested S-tier synthesis)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-rapanui-colonization"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-hunt-lipo-2011"
+      ]
+    },
+    {
+      "id": "claim-rapanui-rano-raraku",
+      "kind": "fact",
+      "statement": {
+        "zh": "拉诺拉拉库被表述为主要摩艾采石场，见教科文与 Van Tilburg 综合（UNESCO 715；Van Tilburg 1994）。",
+        "en": "Rano Raraku is framed as the primary moai quarry in UNESCO and Van Tilburg syntheses (UNESCO 715; Van Tilburg 1994)."
+      },
+      "site_ids": [
+        "site-rapanui-rano-raraku-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-rapanui-moai-quarry-ahu-frame"
+      ],
+      "sources": [
+        "src-rapanui-unesco-715",
+        "src-rapanui-van-tilburg-1994"
+      ]
+    },
+    {
+      "id": "claim-rapanui-tongariki",
+      "kind": "fact",
+      "statement": {
+        "zh": "阿胡东加里基是修复后的多摩艾滨海祭坛，见于教科文景观描述（UNESCO 715；Van Tilburg）。",
+        "en": "Ahu Tongariki is a restored multi-moai coastal platform in UNESCO landscape descriptions (UNESCO 715; Van Tilburg)."
+      },
+      "site_ids": [
+        "site-rapanui-ahu-tongariki-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-unesco-715",
+        "src-rapanui-van-tilburg-1994"
+      ]
+    },
+    {
+      "id": "claim-rapanui-orongo",
+      "kind": "fact",
+      "statement": {
+        "zh": "奥龙戈与鸟人教礼仪景观见于 Routledge 记述与教科文公园描述（Routledge 1919；UNESCO 715）。",
+        "en": "Orongo and birdman ritual landscape appear in Routledge's account and UNESCO park descriptions (Routledge 1919; UNESCO 715)."
+      },
+      "site_ids": [
+        "site-rapanui-orongo-orientation"
+      ],
+      "period_ids": [
+        "period-rapanui-birdman"
+      ],
+      "object_ids": [
+        "asm-rapanui-orongo-birdman-frame"
+      ],
+      "sources": [
+        "src-rapanui-routledge-1919",
+        "src-rapanui-unesco-715"
+      ]
+    },
+    {
+      "id": "claim-rapanui-transport-hypothesis",
+      "kind": "fact",
+      "statement": {
+        "zh": "Lipo & Hunt 等发表摩艾“行走”运输实验假说，属于争议性技术史讨论（article orientation）。",
+        "en": "Lipo & Hunt and collaborators publish 'walking' moai transport experimental hypotheses as contested technical-history discussion."
+      },
+      "site_ids": [
+        "site-rapanui-rano-raraku-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-lipo-hunt-transport",
+        "src-rapanui-hunt-lipo-2011"
+      ]
+    },
+    {
+      "id": "claim-rapanui-pukao",
+      "kind": "fact",
+      "statement": {
+        "zh": "普纳保作为红色火山渣顶髻（pukao）采石场出现在综合描述中（Van Tilburg 1994；UNESCO 715）。",
+        "en": "Puna Pau appears in syntheses as the red scoria pukao quarry (Van Tilburg 1994; UNESCO 715)."
+      },
+      "site_ids": [
+        "site-rapanui-puna-pau-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-van-tilburg-1994",
+        "src-rapanui-unesco-715"
+      ]
+    },
+    {
+      "id": "claim-rapanui-ethics",
+      "kind": "fact",
+      "statement": {
+        "zh": "本包对外媒体仅用教科文/机构文档外链，不托管摩艾文物图像，以符合伦理优先立场（coverage-map / shell notes）。",
+        "en": "This pack uses outbound UNESCO/institutional document links only and hosts no moai artifact images, per ethics-first stance (coverage-map / shell notes)."
+      },
+      "site_ids": [
+        "site-rapa-nui-national-park"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-unesco-715",
+        "src-rapanui-unesco-docs"
+      ]
+    },
+    {
+      "id": "claim-rapanui-stevenson",
+      "kind": "fact",
+      "statement": {
+        "zh": "Stevenson 等研究传统讨论拉帕努伊年代学与农业景观（orientation source in shell）。",
+        "en": "Stevenson and related research traditions discuss Rapa Nui chronology and agricultural landscapes (orientation source in shell)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-rapanui-colonization",
+        "period-rapanui-ahu-moai"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-rapanui-stevenson-orientation",
+        "src-rapanui-mulrooney-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-rapanui-unesco",
+      "title": {
+        "zh": "教科文：拉帕努伊国家公园",
+        "en": "UNESCO: Rapa Nui National Park",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/715/",
+      "sources": [
+        "src-rapanui-unesco-715"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-rapanui-unesco-docs",
+      "title": {
+        "zh": "教科文拉帕努伊文档",
+        "en": "UNESCO Rapa Nui documents",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/715/documents/",
+      "sources": [
+        "src-rapanui-unesco-docs"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

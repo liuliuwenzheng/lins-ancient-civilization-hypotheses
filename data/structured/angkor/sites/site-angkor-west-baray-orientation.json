@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-west-baray-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "西巴莱水库（指针）",
+    "en": "West Baray (orientation)",
+    "native": "West Baray"
+  },
+  "kind_note": "Angkorian hydraulic reservoir",
+  "region": "Angkor, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "吴哥水利水库指针。",
+    "en": "Angkorian hydraulic reservoir orientation."
+  },
+  "sources": [
+    "src-angkor-fletcher-orientation",
+    "src-angkor-evans-lidar-orientation",
+    "src-angkor-coe-evans-2018"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

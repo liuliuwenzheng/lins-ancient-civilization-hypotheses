@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-hill-complex",
+  "entity": "site",
+  "names": {
+    "zh": "山丘建筑群（指针）",
+    "en": "Hill Complex (orientation)",
+    "native": null
+  },
+  "kind_note": "Hilltop dry-stone sector at Great Zimbabwe",
+  "region": "Masvingo Province, Zimbabwe",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "大津巴布韦山丘干石区指针。",
+    "en": "Hilltop dry-stone sector orientation."
+  },
+  "sources": [
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-garlake-1973",
+    "src-zimbabwe-pikirayi-2001"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

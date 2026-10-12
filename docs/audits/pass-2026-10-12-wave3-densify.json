@@ -1,0 +1,333 @@
+{
+  "decision": "D-2026-10-12-17",
+  "date": "2026-10-12",
+  "packs": [
+    {
+      "pack": "cahokia",
+      "civ_id": "civ-cahokia",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "ancestral-pueblo",
+      "civ_id": "civ-ancestral-pueblo",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "great-zimbabwe",
+      "civ_id": "civ-great-zimbabwe",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "west-africa-medieval",
+      "civ_id": "civ-west-africa-medieval",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 3,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 8,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "hallstatt-celtic",
+      "civ_id": "civ-hallstatt-celtic",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "nuragic-sardinia",
+      "civ_id": "civ-nuragic-sardinia",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "rapa-nui",
+      "civ_id": "civ-rapa-nui",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "inca",
+      "civ_id": "civ-inca",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "moche",
+      "civ_id": "civ-moche",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 1
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 1
+      }
+    },
+    {
+      "pack": "aztec",
+      "civ_id": "civ-aztec",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "angkor",
+      "civ_id": "civ-angkor",
+      "status": "library-seed-rich",
+      "before": {
+        "sources": 5,
+        "sites": 3,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 8,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    }
+  ],
+  "delta_totals": {
+    "sources": 110,
+    "sites": 55,
+    "periods": 33,
+    "objects": 22,
+    "claims": 110,
+    "media": 25
+  }
+}

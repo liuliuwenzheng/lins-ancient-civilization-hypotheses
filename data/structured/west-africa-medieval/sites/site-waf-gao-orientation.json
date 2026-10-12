@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-gao-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "加奥（指针）",
+    "en": "Gao (orientation)",
+    "native": "Gao"
+  },
+  "kind_note": "Songhay / Middle Niger political centre",
+  "region": "Gao Region, Mali",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "桑海/中尼日尔政治中心指针。",
+    "en": "Songhay / Middle Niger political-centre orientation."
+  },
+  "sources": [
+    "src-waf-insoll-orientation",
+    "src-waf-takezawa-cisse-orientation",
+    "src-waf-hunwick-timbuktu-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

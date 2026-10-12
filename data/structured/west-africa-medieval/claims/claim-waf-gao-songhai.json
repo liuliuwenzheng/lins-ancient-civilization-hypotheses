@@ -1,0 +1,33 @@
+{
+  "id": "claim-waf-gao-songhai",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "加奥在桑海政治与伊斯兰考古文献中作为关键中心讨论（Insoll；Hunwick orientation）。",
+    "en": "Gao is discussed as a key centre in Songhay political and Islamic archaeology literature (Insoll; Hunwick orientation)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-gao-orientation"
+  ],
+  "period_ids": [
+    "period-waf-songhai"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-insoll-orientation",
+    "src-waf-hunwick-timbuktu-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

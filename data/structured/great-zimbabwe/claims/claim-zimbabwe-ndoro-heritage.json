@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-ndoro-heritage",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Ndoro 2001 讨论大津巴布韦作为地方圣地与遗产管理对象的意义（Uppsala）。",
+    "en": "Ndoro 2001 discusses Great Zimbabwe as local shrine and heritage-management subject (Uppsala)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-great-zimbabwe-monument"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-ndoro-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

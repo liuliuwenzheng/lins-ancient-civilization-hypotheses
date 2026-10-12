@@ -1,0 +1,32 @@
+{
+  "id": "site-waf-aoudaghost-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "奥达戈斯特（指针）",
+    "en": "Awdāghust / Aoudaghost (orientation)",
+    "native": "Awdāghust"
+  },
+  "kind_note": "Early Ghana-period trading town in Arabic sources",
+  "region": "Mauritania",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "早期加纳时期商镇（阿拉伯文献）指针。",
+    "en": "Early Ghana-period trading-town orientation in Arabic sources."
+  },
+  "sources": [
+    "src-waf-levtzion-hopkins-2000",
+    "src-waf-arabic-geo-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

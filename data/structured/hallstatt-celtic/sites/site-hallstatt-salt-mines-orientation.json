@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-salt-mines-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "哈尔施塔特盐矿（指针）",
+    "en": "Hallstatt salt mines (orientation)",
+    "native": null
+  },
+  "kind_note": "Prehistoric salt-mining landscape",
+  "region": "Hallstatt, Austria",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "史前盐矿景观指针。",
+    "en": "Prehistoric salt-mining landscape orientation."
+  },
+  "sources": [
+    "src-hallstatt-unesco-806",
+    "src-hallstatt-nhm-vienna-orientation",
+    "src-hallstatt-egg-kramer-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-pueblo-plog-overview",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Plog 2008 提供美国西南部古代人群的通识综合（Thames and Hudson）。",
+    "en": "Plog 2008 provides an accessible synthesis of ancient peoples of the American Southwest (Thames and Hudson)."
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ancestral-pueblo-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-plog-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

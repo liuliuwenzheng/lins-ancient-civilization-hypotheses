@@ -1,0 +1,31 @@
+{
+  "id": "claim-zimbabwe-garlake",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Garlake 1973 提供大津巴布韦干石建筑与历史的通识综合（Thames and Hudson）。",
+    "en": "Garlake 1973 provides an accessible synthesis of Great Zimbabwe dry-stone architecture and history (Thames and Hudson)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-great-zimbabwe-monument",
+    "site-zimbabwe-great-enclosure"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-garlake-1973"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

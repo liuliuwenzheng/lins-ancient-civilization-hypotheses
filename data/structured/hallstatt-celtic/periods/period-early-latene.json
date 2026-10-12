@@ -1,0 +1,34 @@
+{
+  "id": "period-early-latene",
+  "entity": "period",
+  "names": {
+    "zh": "早期拉坦诺窗",
+    "en": "Early La Tène window"
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "time": {
+    "label": "ca. 450–300 BCE working band (LT A/B labels)",
+    "approx_from_bce": 450,
+    "approx_to_bce": 300,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "早期拉坦诺过渡窗。",
+    "en": "Early La Tène transition window."
+  },
+  "sources": [
+    "src-hallstatt-cunliffe-1997",
+    "src-hallstatt-collis-2003"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

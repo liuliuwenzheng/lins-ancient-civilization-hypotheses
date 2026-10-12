@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-pikirayi-synthesis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pikirayi 2001 综合津巴布韦文化起源与南部赞比西亚国家兴衰（AltaMira）。",
+    "en": "Pikirayi 2001 synthesizes Zimbabwe Culture origins and decline of southern Zambezian states (AltaMira)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-great-zimbabwe-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-pikirayi-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-inca-protzen-ollantay",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Protzen 1993 专著分析奥扬泰坦博印加建筑与施工技术（OUP）。",
+    "en": "Protzen 1993 monograph analyzes Inca architecture and construction at Ollantaytambo (OUP)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-ollantaytambo-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-protzen-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-waf-manuscript-centre-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "廷巴克图学术手稿中心框架",
+    "en": "Timbuktu scholarly manuscript-centre frame"
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-timbuktu-medieval"
+  ],
+  "period_ids": [
+    "period-waf-songhai",
+    "period-waf-mali"
+  ],
+  "summary": {
+    "zh": "学术手稿中心传统指针；无伪造卷号。",
+    "en": "Scholarly manuscript-centre tradition pointer; no forged shelfmarks."
+  },
+  "sources": [
+    "src-waf-unesco-timbuktu-119",
+    "src-waf-hunwick-timbuktu-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

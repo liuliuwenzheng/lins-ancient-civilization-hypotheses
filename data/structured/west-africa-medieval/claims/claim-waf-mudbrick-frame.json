@@ -1,0 +1,35 @@
+{
+  "id": "claim-waf-mudbrick-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与综合将廷巴克图/杰内泥砖城市景观表述为萨赫勒帝国期城市传统代表（UNESCO 119/116；McIntosh 2005）。",
+    "en": "UNESCO and syntheses frame Timbuktu/Djenné mudbrick urban landscapes as representative Sahelian empire-period urban tradition (UNESCO 119/116; McIntosh 2005)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-timbuktu-medieval",
+    "site-djenne-old-towns"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-waf-mudbrick-urban-frame"
+  ],
+  "sources": [
+    "src-waf-unesco-timbuktu-119",
+    "src-waf-unesco-djenne-116",
+    "src-waf-mcintosh-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

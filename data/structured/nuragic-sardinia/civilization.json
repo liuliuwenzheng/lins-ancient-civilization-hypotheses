@@ -2,7 +2,7 @@
   "id": "civ-nuragic-sardinia",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "努拉吉（撒丁）",
     "en": "Nuragic Sardinia",
@@ -11,27 +11,57 @@
   "region": "Europe / Sardinia (Mediterranean island)",
   "time_span": "Nuragic florescence broadly Mid–Late Bronze to Early Iron Age (Lilliu / Webster frames)",
   "summary": {
-    "zh": "努拉吉档案壳：Lilliu/Webster + 巴鲁米尼苏努拉西教科文；library-seed。",
-    "en": "Nuragic archive shell: Lilliu/Webster + Su Nuraxi di Barumini UNESCO; library-seed."
+    "zh": "努拉吉档案（library-seed-rich）：Lilliu/Webster + 巴鲁米尼苏努拉希教科文；仍非埃及级密度。",
+    "en": "Nuragic archive (library-seed-rich): Lilliu/Webster + Su Nuraxi Barumini UNESCO; not yet Egypt-level density."
   },
   "sources": [
-    "src-nuragic-unesco-833",
-    "src-nuragic-lilliu-1988",
-    "src-nuragic-webster-1996",
+    "src-nuragic-bernardini-orientation",
     "src-nuragic-blake-1999",
-    "src-nuragic-trump-orientation"
+    "src-nuragic-blake-settlement",
+    "src-nuragic-campus-leonelli-orientation",
+    "src-nuragic-contu-orientation",
+    "src-nuragic-depalmas-orientation",
+    "src-nuragic-lilliu-1988",
+    "src-nuragic-lo-schiavo-orientation",
+    "src-nuragic-mibact-orientation",
+    "src-nuragic-trump-orientation",
+    "src-nuragic-unesco-833",
+    "src-nuragic-unesco-docs",
+    "src-nuragic-usalai-orientation",
+    "src-nuragic-webster-1996",
+    "src-nuragic-webster-settlement"
   ],
   "site_ids": [
-    "site-su-nuraxi-barumini",
-    "site-nuragic-landscape-orientation"
+    "site-nuragic-arrubiu-orientation",
+    "site-nuragic-landscape-orientation",
+    "site-nuragic-lena-orientation",
+    "site-nuragic-santa-vittoria-orientation",
+    "site-nuragic-santimbru-orientation",
+    "site-nuragic-su-tempiesu-orientation",
+    "site-su-nuraxi-barumini"
   ],
   "period_ids": [
-    "period-nuragic-bronze-iron"
+    "period-nuragic-bronze-iron",
+    "period-nuragic-iron",
+    "period-nuragic-late-bronze",
+    "period-nuragic-middle-bronze"
   ],
   "claim_ids": [
-    "claim-nuragic-su-nuraxi-type"
+    "claim-nuragic-blake",
+    "claim-nuragic-complex-towers",
+    "claim-nuragic-lilliu",
+    "claim-nuragic-metallurgy",
+    "claim-nuragic-sacred-wells",
+    "claim-nuragic-sanctuaries",
+    "claim-nuragic-su-nuraxi-representative",
+    "claim-nuragic-su-nuraxi-type",
+    "claim-nuragic-trump",
+    "claim-nuragic-unesco",
+    "claim-nuragic-webster"
   ],
   "object_ids": [
+    "asm-nuragic-sacred-well-frame",
+    "asm-nuragic-su-nuraxi-frame",
     "asm-nuragic-tower-village-frame"
   ],
   "related_ids": [
@@ -42,11 +72,11 @@
   "markdown_path": "data/civilizations/civ-nuragic-sardinia.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "claim-nuragic-metallurgy",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lo Schiavo 等研究传统讨论努拉吉冶金与地中海交换（metallurgy orientation）。",
+    "en": "Lo Schiavo and related research traditions discuss Nuragic metallurgy and Mediterranean exchange."
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-santimbru-orientation"
+  ],
+  "period_ids": [
+    "period-nuragic-late-bronze",
+    "period-nuragic-iron"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-lo-schiavo-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

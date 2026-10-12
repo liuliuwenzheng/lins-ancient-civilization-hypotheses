@@ -1,0 +1,45 @@
+{
+  "id": "asm-hallstatt-salt-mine-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈尔施塔特盐矿—墓地框架",
+    "en": "Hallstatt salt-mine / cemetery frame"
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-type",
+    "site-hallstatt-salt-mines-orientation",
+    "site-hallstatt-cemetery-orientation"
+  ],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "summary": {
+    "zh": "盐矿与定名墓地景观指针。",
+    "en": "Salt-mine and type-cemetery landscape pointer."
+  },
+  "sources": [
+    "src-hallstatt-unesco-806",
+    "src-hallstatt-nhm-vienna-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

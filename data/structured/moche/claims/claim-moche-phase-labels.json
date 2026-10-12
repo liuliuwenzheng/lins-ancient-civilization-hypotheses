@@ -1,0 +1,34 @@
+{
+  "id": "claim-moche-phase-labels",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Larco 衍生的莫切 I–V 阶段标签仍广泛使用，但政治统一性与绝对年代争论开放（Donnan；Lockard；Quilter）。",
+    "en": "Larco-derived Moche I–V phase labels remain widely used, but political unity and absolute dating debates are open (Donnan; Lockard; Quilter)."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-i-iii",
+    "period-moche-iv",
+    "period-moche-v-late"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-donnan-mcclelland-1999",
+    "src-moche-lockard-orientation",
+    "src-moche-quilter-2010"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

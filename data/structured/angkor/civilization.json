@@ -2,7 +2,7 @@
   "id": "civ-angkor",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "吴哥（高棉）",
     "en": "Angkor (Khmer)",
@@ -11,29 +11,59 @@
   "region": "Southeast Asia / Cambodia (Tonlé Sap basin; Khmer empire heartland)",
   "time_span": "Angkorian florescence broadly 9th–15th centuries CE (Coe–Evans / Jacques frames)",
   "summary": {
-    "zh": "吴哥档案壳：Coe–Evans/Jacques + 教科文；library-seed。",
-    "en": "Angkor archive shell: Coe–Evans/Jacques + UNESCO; library-seed."
+    "zh": "吴哥档案（library-seed-rich）：Coe–Evans/Jacques + APSARA/教科文 + 激光雷达景观；仍非埃及级密度。",
+    "en": "Angkor archive (library-seed-rich): Coe–Evans/Jacques + APSARA/UNESCO + lidar landscape; not yet Egypt-level density."
   },
   "sources": [
-    "src-angkor-unesco-668",
+    "src-angkor-apsara-orientation",
+    "src-angkor-apsara-web",
     "src-angkor-coe-evans-2018",
-    "src-angkor-jacques-lafond-2007",
+    "src-angkor-efeo-orientation",
     "src-angkor-evans-lidar-orientation",
-    "src-angkor-apsara-orientation"
+    "src-angkor-evans-pnas-orientation",
+    "src-angkor-fletcher-orientation",
+    "src-angkor-freeman-jacques-orientation",
+    "src-angkor-higham-orientation",
+    "src-angkor-jacques-epigraphy",
+    "src-angkor-jacques-lafond-2007",
+    "src-angkor-pottier-orientation",
+    "src-angkor-stark-orientation",
+    "src-angkor-unesco-668",
+    "src-angkor-unesco-docs"
   ],
   "site_ids": [
-    "site-angkor-wat",
+    "site-angkor-baphuon-orientation",
+    "site-angkor-bayon-orientation",
+    "site-angkor-hariharalaya-orientation",
+    "site-angkor-hydraulic-orientation",
+    "site-angkor-ta-prohm-orientation",
     "site-angkor-thom",
-    "site-angkor-hydraulic-orientation"
+    "site-angkor-wat",
+    "site-angkor-west-baray-orientation"
   ],
   "period_ids": [
+    "period-angkor-classic",
+    "period-angkor-early-hariharalaya",
+    "period-angkor-late-jayavarmanvii",
     "period-angkorian-floruit"
   ],
   "claim_ids": [
-    "claim-angkor-khmer-capital-landscape"
+    "claim-angkor-apsara",
+    "claim-angkor-bayon",
+    "claim-angkor-coe-evans",
+    "claim-angkor-fletcher-gap",
+    "claim-angkor-jacques-monuments",
+    "claim-angkor-khmer-capital-landscape",
+    "claim-angkor-lidar",
+    "claim-angkor-pottier-efeo",
+    "claim-angkor-roluos",
+    "claim-angkor-unesco",
+    "claim-angkor-wat-mountain"
   ],
   "object_ids": [
-    "asm-angkor-temple-mountain-frame"
+    "asm-angkor-hydraulic-city-frame",
+    "asm-angkor-temple-mountain-frame",
+    "asm-angkor-wat-temple-mountain-frame"
   ],
   "related_ids": [
     "civ-dong-son",
@@ -42,11 +72,11 @@
   "markdown_path": "data/civilizations/civ-angkor.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

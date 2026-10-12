@@ -1,0 +1,44 @@
+{
+  "id": "asm-moche-huaca-platforms-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "太阳月亮金字塔台地框架",
+    "en": "Huacas del Sol y de la Luna platform frame"
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-huacas-de-moche",
+    "site-moche-huaca-de-la-luna-sector"
+  ],
+  "period_ids": [
+    "period-moche-eip-floruit"
+  ],
+  "summary": {
+    "zh": "莫切礼仪土坯台地指针。",
+    "en": "Moche ceremonial adobe platform pointer."
+  },
+  "sources": [
+    "src-moche-huacas-project-web",
+    "src-moche-uceda-castillo-pubs"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

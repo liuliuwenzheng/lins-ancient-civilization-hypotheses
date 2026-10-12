@@ -1,0 +1,30 @@
+{
+  "id": "claim-moche-bourget-sacrifice",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bourget 2006 等研究讨论莫切仪式与献祭图像—考古（University of Texas Press tradition）。",
+    "en": "Bourget 2006 and related work discuss Moche ritual and sacrifice in image and archaeology (University of Texas Press tradition)."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-eip-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-bourget-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

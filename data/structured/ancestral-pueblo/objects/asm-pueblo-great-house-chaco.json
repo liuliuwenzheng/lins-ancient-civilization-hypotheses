@@ -1,0 +1,44 @@
+{
+  "id": "asm-pueblo-great-house-chaco",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "查科大屋建筑框架组合",
+    "en": "Chaco great-house architecture frame"
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-chaco-canyon",
+    "site-pueblo-bonito"
+  ],
+  "period_ids": [
+    "period-pueblo-ii-chaco"
+  ],
+  "summary": {
+    "zh": "查科大屋建筑传统指针。",
+    "en": "Chaco great-house architectural tradition pointer."
+  },
+  "sources": [
+    "src-pueblo-unesco-chaco-353",
+    "src-pueblo-vivian-1990"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

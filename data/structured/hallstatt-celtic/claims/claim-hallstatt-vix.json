@@ -1,0 +1,33 @@
+{
+  "id": "claim-hallstatt-vix",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "维克斯/蒙拉索瓦复合体以精英葬与进口器物闻名，见于凯尔特艺术与铁器综合（Cunliffe；Megaw）。",
+    "en": "Vix / Mont Lassois complex is famous for elite burial and imports in Celtic art and Iron Age syntheses (Cunliffe; Megaw)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-vix-orientation"
+  ],
+  "period_ids": [
+    "period-hallstatt-d"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-cunliffe-1997",
+    "src-hallstatt-megaw-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

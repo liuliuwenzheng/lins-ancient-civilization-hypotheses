@@ -1,0 +1,32 @@
+{
+  "id": "site-nuragic-lena-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "洛萨努拉格等地（指针）",
+    "en": "Nuraghe Losa and peers (orientation)",
+    "native": "Losa"
+  },
+  "kind_note": "Well-preserved nuraghe tower complex",
+  "region": "Abbasanta, Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "保存较好的努拉格塔楼复合体指针。",
+    "en": "Well-preserved nuraghe tower-complex orientation."
+  },
+  "sources": [
+    "src-nuragic-lilliu-1988",
+    "src-nuragic-contu-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-rapanui-tongariki",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿胡东加里基是修复后的多摩艾滨海祭坛，见于教科文景观描述（UNESCO 715；Van Tilburg）。",
+    "en": "Ahu Tongariki is a restored multi-moai coastal platform in UNESCO landscape descriptions (UNESCO 715; Van Tilburg)."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-ahu-tongariki-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-van-tilburg-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

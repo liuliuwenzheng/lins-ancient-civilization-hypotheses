@@ -1,0 +1,32 @@
+{
+  "id": "site-aztec-texcoco-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "特斯科科（指针）",
+    "en": "Texcoco (orientation)",
+    "native": "Texcoco"
+  },
+  "kind_note": "Acolhua capital of the Triple Alliance",
+  "region": "Basin of Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "三重同盟阿科尔瓦都城指针。",
+    "en": "Acolhua Triple Alliance capital orientation."
+  },
+  "sources": [
+    "src-aztec-smith-2012",
+    "src-aztec-hassig-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

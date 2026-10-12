@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将巴鲁米尼苏努拉希列入世界遗产，强调努拉吉石塔建筑（UNESCO 833）。",
+    "en": "UNESCO lists Su Nuraxi di Barumini as World Heritage, emphasizing Nuragic stone-tower architecture (UNESCO 833)."
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-su-nuraxi-barumini"
+  ],
+  "period_ids": [
+    "period-nuragic-bronze-iron"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-unesco-833"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

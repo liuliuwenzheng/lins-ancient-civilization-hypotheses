@@ -1,0 +1,45 @@
+{
+  "id": "asm-angkor-hydraulic-city-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吴哥水利城市框架",
+    "en": "Angkor hydraulic-city frame"
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-hydraulic-orientation",
+    "site-angkor-west-baray-orientation"
+  ],
+  "period_ids": [
+    "period-angkor-classic"
+  ],
+  "summary": {
+    "zh": "巴莱—渠道水利城市景观指针。",
+    "en": "Baray–canal hydraulic urban landscape pointer."
+  },
+  "sources": [
+    "src-angkor-fletcher-orientation",
+    "src-angkor-evans-lidar-orientation",
+    "src-angkor-coe-evans-2018"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

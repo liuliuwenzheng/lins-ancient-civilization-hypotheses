@@ -1,0 +1,30 @@
+{
+  "id": "claim-waf-levtzion-corpus",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Levtzion & Hopkins 语料汇编早期阿拉伯文献中关于西非加纳/马里/桑海的记载（Markus Wiener 重印）。",
+    "en": "Levtzion & Hopkins assemble early Arabic sources on West African Ghāna/Mālī/Songhay (Markus Wiener reprint)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-west-africa-sahelian-empires"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-levtzion-hopkins-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

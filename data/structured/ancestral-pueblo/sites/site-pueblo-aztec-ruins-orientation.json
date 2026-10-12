@@ -1,0 +1,32 @@
+{
+  "id": "site-pueblo-aztec-ruins-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿兹特克遗址大屋（指针）",
+    "en": "Aztec Ruins great house (orientation)",
+    "native": null
+  },
+  "kind_note": "Chacoan outlier great house",
+  "region": "Northwestern New Mexico",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "查科外围大屋指针；名称易与墨西卡混淆，仅作遗址名。",
+    "en": "Chacoan outlier great-house orientation; name is site label only, not Mexica."
+  },
+  "sources": [
+    "src-pueblo-lekson-2009",
+    "src-pueblo-vivian-1990"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-gomez-dominion",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Gomez 2018 提供西非早期与中世纪帝国的新史学综合（Princeton）。",
+    "en": "Gomez 2018 provides a new historical synthesis of early and medieval West African empire (Princeton)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-waf-ghana",
+    "period-waf-mali",
+    "period-waf-songhai"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-gomez-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

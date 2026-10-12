@@ -1,0 +1,32 @@
+{
+  "id": "site-waf-jenne-jeno-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "杰内-杰诺（指针）",
+    "en": "Jenné-jeno (orientation)",
+    "native": "Jenné-jeno"
+  },
+  "kind_note": "Early Middle Niger urban mound complex",
+  "region": "Near Djenné, Mali",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "中尼日尔早期城市土丘指针。",
+    "en": "Early Middle Niger urban mound orientation."
+  },
+  "sources": [
+    "src-waf-mcintosh-2005",
+    "src-waf-mcintosh-sj-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

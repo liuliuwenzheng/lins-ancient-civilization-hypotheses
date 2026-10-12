@@ -1,0 +1,32 @@
+{
+  "id": "media-pueblo-nps-chaco",
+  "entity": "media",
+  "title": {
+    "zh": "NPS 查科文化历史公园",
+    "en": "NPS Chaco Culture NHP",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.nps.gov/chcu/learn/historyculture/index.htm",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-nps-chaco-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "U.S. National Park Service",
+    "upstream_url": "https://www.nps.gov/chcu/learn/historyculture/index.htm",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-pueblo-cliff-palace",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "悬崖宫殿被 NPS/教科文讨论为梅萨维德代表性崖居（UNESCO 27；NPS）。",
+    "en": "Cliff Palace is discussed by NPS/UNESCO as a representative Mesa Verde cliff dwelling (UNESCO 27; NPS)."
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-cliff-palace-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-pueblo-cliff-dwelling-frame"
+  ],
+  "sources": [
+    "src-pueblo-unesco-mesa-verde-27",
+    "src-pueblo-nps-mesa-verde"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

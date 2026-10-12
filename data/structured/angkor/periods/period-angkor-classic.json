@@ -1,0 +1,35 @@
+{
+  "id": "period-angkor-classic",
+  "entity": "period",
+  "names": {
+    "zh": "经典吴哥窗",
+    "en": "Classic Angkor window"
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "ca. 10th–13th centuries CE floruit labels",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "经典庙山与水利繁荣窗。",
+    "en": "Classic temple-mountain and hydraulic floruit window."
+  },
+  "sources": [
+    "src-angkor-jacques-lafond-2007",
+    "src-angkor-coe-evans-2018",
+    "src-angkor-unesco-668"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

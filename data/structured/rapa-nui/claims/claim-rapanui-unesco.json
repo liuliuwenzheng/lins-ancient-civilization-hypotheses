@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将拉帕努伊国家公园列入世界遗产，强调波利尼西亚纪念性石雕与礼仪景观（UNESCO 715）。",
+    "en": "UNESCO lists Rapa Nui National Park as World Heritage, emphasizing Polynesian monumental stone sculpture and ritual landscape (UNESCO 715)."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapa-nui-national-park"
+  ],
+  "period_ids": [
+    "period-rapa-nui-monumental"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-unesco-715"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

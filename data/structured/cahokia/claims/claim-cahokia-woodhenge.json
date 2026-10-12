@@ -1,0 +1,33 @@
+{
+  "id": "claim-cahokia-woodhenge",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卡霍基亚木垣/柱圈被综合著作讨论为与仪礼历法相关的装置（Pauketat 2009；Iseminger 2010）。",
+    "en": "Cahokia Woodhenge/post-circles are discussed in syntheses as installations related to ceremonial calendrics (Pauketat 2009; Iseminger 2010)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-woodhenge-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cahokia-woodhenge-frame"
+  ],
+  "sources": [
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-iseminger-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

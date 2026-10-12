@@ -1,0 +1,31 @@
+{
+  "id": "claim-rapanui-transport-hypothesis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lipo & Hunt 等发表摩艾“行走”运输实验假说，属于争议性技术史讨论（article orientation）。",
+    "en": "Lipo & Hunt and collaborators publish 'walking' moai transport experimental hypotheses as contested technical-history discussion."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-rano-raraku-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-lipo-hunt-transport",
+    "src-rapanui-hunt-lipo-2011"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

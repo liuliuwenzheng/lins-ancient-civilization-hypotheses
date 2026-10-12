@@ -1,0 +1,32 @@
+{
+  "id": "site-cahokia-st-louis-mound-group-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "圣路易斯土墩组群（指针）",
+    "en": "St. Louis Mound Group (orientation)",
+    "native": null
+  },
+  "kind_note": "Historic Mississippian mound cluster across the river (mostly destroyed)",
+  "region": "St. Louis, Missouri",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "河对岸历史密西西比土墩组群指针（多已毁）。",
+    "en": "Historic Mississippian mound cluster orientation across the river (mostly destroyed)."
+  },
+  "sources": [
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-milner-1998"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

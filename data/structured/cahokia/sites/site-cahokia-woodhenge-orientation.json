@@ -1,0 +1,32 @@
+{
+  "id": "site-cahokia-woodhenge-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "木垣/天文观测区（指针）",
+    "en": "Woodhenge / calendar-circle sector (orientation)",
+    "native": null
+  },
+  "kind_note": "Post-circle ceremonial sector discussed in Cahokia literature",
+  "region": "Cahokia Mounds SHS",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "文献讨论的柱圈仪礼区指针。",
+    "en": "Post-circle ceremonial sector orientation in Cahokia literature."
+  },
+  "sources": [
+    "src-cahokia-pauketat-2009",
+    "src-cahokia-iseminger-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "media-moche-huacas-portal",
+  "entity": "media",
+  "title": {
+    "zh": "太阳月亮金字塔项目门户",
+    "en": "Huacas de Moche project portal",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.huacasdemoche.pe/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-moche-huacas-web-docs",
+    "src-moche-huacas-project-web"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Proyecto Huacas del Sol y de la Luna",
+    "upstream_url": "https://www.huacasdemoche.pe/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

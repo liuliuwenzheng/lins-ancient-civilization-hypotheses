@@ -1,0 +1,31 @@
+{
+  "id": "claim-angkor-apsara",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "APSARA 国家管理局负责吴哥考古公园管理，机构门户提供保护取向（APSARA web / shell orientation）。",
+    "en": "APSARA National Authority manages Angkor Archaeological Park; institutional portals provide conservation orientation."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-apsara-web",
+    "src-angkor-apsara-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-cahokia-mound-72-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "72号丘葬仪区（指针）",
+    "en": "Mound 72 mortuary sector (orientation)",
+    "native": null
+  },
+  "kind_note": "Famous Mississippian mortuary mound discussed in Fowler/Pauketat",
+  "region": "Cahokia Mounds SHS",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "Fowler/Pauketat 讨论的著名葬仪丘指针；无伪造墓号细节。",
+    "en": "Famous mortuary mound orientation; no forged burial-number detail."
+  },
+  "sources": [
+    "src-cahokia-fowler-1997",
+    "src-cahokia-pauketat-2004"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

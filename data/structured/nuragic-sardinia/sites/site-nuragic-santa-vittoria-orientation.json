@@ -1,0 +1,32 @@
+{
+  "id": "site-nuragic-santa-vittoria-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "圣维多利亚圣所（指针）",
+    "en": "Santa Vittoria sanctuary (orientation)",
+    "native": "Santa Vittoria"
+  },
+  "kind_note": "Nuragic federal sanctuary / festival site debates",
+  "region": "Serri, Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "努拉吉圣所/集会遗址讨论指针。",
+    "en": "Nuragic sanctuary / assembly-site debate orientation."
+  },
+  "sources": [
+    "src-nuragic-bernardini-orientation",
+    "src-nuragic-lilliu-1988"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

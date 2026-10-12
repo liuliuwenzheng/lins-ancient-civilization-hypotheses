@@ -2,7 +2,7 @@
   "id": "civ-west-africa-medieval",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "西非中世纪诸国（加纳–马里–桑海）",
     "en": "West African medieval empires (Ghana–Mali–Songhai)",
@@ -11,28 +11,58 @@
   "region": "West Africa / Sahel–Savanna (Senegal–Niger bend; Middle Niger)",
   "time_span": "Sahelian empire floruit broadly 8th–16th centuries CE (Levtzion / McIntosh frames)",
   "summary": {
-    "zh": "西非中世纪诸国档案壳：Levtzion/McIntosh + 廷巴克图/杰内教科文；library-seed。",
-    "en": "West African medieval empires shell: Levtzion/McIntosh + Timbuktu/Djenné UNESCO; library-seed."
+    "zh": "西非中世纪诸国档案（library-seed-rich）：Levtzion/McIntosh + 廷巴克图/杰内教科文；仍非埃及级密度。",
+    "en": "West African medieval empires archive (library-seed-rich): Levtzion/McIntosh + Timbuktu/Djenné UNESCO; not yet Egypt-level density."
   },
   "sources": [
-    "src-waf-unesco-timbuktu-119",
-    "src-waf-unesco-djenne-116",
+    "src-waf-arabic-geo-orientation",
+    "src-waf-conna-2001",
+    "src-waf-conrad-orientation",
+    "src-waf-gomez-2018",
+    "src-waf-hunwick-timbuktu-orientation",
+    "src-waf-insoll-orientation",
     "src-waf-levtzion-hopkins-2000",
     "src-waf-mcintosh-2005",
-    "src-waf-hunwick-timbuktu-orientation"
+    "src-waf-mcintosh-sj-orientation",
+    "src-waf-niane-sundiata-orientation",
+    "src-waf-takezawa-cisse-orientation",
+    "src-waf-unesco-djenne-116",
+    "src-waf-unesco-djenne-docs",
+    "src-waf-unesco-timbuktu-119",
+    "src-waf-unesco-timbuktu-docs"
   ],
   "site_ids": [
-    "site-timbuktu-medieval",
     "site-djenne-old-towns",
-    "site-koumbi-saleh-orientation"
+    "site-koumbi-saleh-orientation",
+    "site-timbuktu-medieval",
+    "site-waf-aoudaghost-orientation",
+    "site-waf-gao-orientation",
+    "site-waf-jenne-jeno-orientation",
+    "site-waf-niani-orientation",
+    "site-waf-walata-orientation"
   ],
   "period_ids": [
+    "period-waf-ghana",
+    "period-waf-mali",
+    "period-waf-songhai",
     "period-west-africa-sahelian-empires"
   ],
   "claim_ids": [
-    "claim-waf-sahelian-urban-centres"
+    "claim-waf-conna-civilizations",
+    "claim-waf-gao-songhai",
+    "claim-waf-gomez-dominion",
+    "claim-waf-jenne-jeno",
+    "claim-waf-koumbi-debate",
+    "claim-waf-levtzion-corpus",
+    "claim-waf-mcintosh-urbanism",
+    "claim-waf-mudbrick-frame",
+    "claim-waf-sahelian-urban-centres",
+    "claim-waf-unesco-djenne",
+    "claim-waf-unesco-timbuktu"
   ],
   "object_ids": [
+    "asm-waf-manuscript-centre-frame",
+    "asm-waf-mudbrick-urban-frame",
     "asm-waf-sahel-urban-manuscript-frame"
   ],
   "related_ids": [
@@ -42,11 +72,11 @@
   "markdown_path": "data/civilizations/civ-west-africa-medieval.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

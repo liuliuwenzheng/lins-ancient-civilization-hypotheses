@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将哈尔施塔特–达赫施泰因/萨尔茨卡默古特文化景观列入世界遗产，强调史前盐业与聚落（UNESCO 806）。",
+    "en": "UNESCO lists Hallstatt-Dachstein / Salzkammergut Cultural Landscape as World Heritage, emphasizing prehistoric salt industry and settlement (UNESCO 806)."
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-type"
+  ],
+  "period_ids": [
+    "period-hallstatt-cd-early-latene"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-unesco-806"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

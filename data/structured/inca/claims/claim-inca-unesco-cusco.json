@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-unesco-cusco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将库斯科城列入世界遗产，强调印加与殖民叠压城市景观（UNESCO 273）。",
+    "en": "UNESCO lists the City of Cuzco as World Heritage, emphasizing Inca and colonial superimposed urban landscape (UNESCO 273)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-cusco-inca"
+  ],
+  "period_ids": [
+    "period-inca-late-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-unesco-cusco-273"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

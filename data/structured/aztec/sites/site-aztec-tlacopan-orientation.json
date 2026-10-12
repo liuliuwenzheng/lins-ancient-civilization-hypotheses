@@ -1,0 +1,32 @@
+{
+  "id": "site-aztec-tlacopan-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "特拉科潘（指针）",
+    "en": "Tlacopan (orientation)",
+    "native": "Tlacopan"
+  },
+  "kind_note": "Tepanec partner in the Triple Alliance",
+  "region": "Basin of Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "三重同盟特帕内克伙伴指针。",
+    "en": "Tepanec Triple Alliance partner orientation."
+  },
+  "sources": [
+    "src-aztec-smith-2012",
+    "src-aztec-hassig-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

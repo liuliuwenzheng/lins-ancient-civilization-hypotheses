@@ -1,0 +1,32 @@
+{
+  "id": "media-aztec-inah-templo",
+  "entity": "media",
+  "title": {
+    "zh": "INAH 大神庙取向页",
+    "en": "INAH Templo Mayor orientation",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.templomayor.inah.gob.mx/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-aztec-inah-templo-mayor-web"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "INAH / Museo del Templo Mayor",
+    "upstream_url": "https://www.templomayor.inah.gob.mx/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-rapanui-pukao",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "普纳保作为红色火山渣顶髻（pukao）采石场出现在综合描述中（Van Tilburg 1994；UNESCO 715）。",
+    "en": "Puna Pau appears in syntheses as the red scoria pukao quarry (Van Tilburg 1994; UNESCO 715)."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-puna-pau-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-van-tilburg-1994",
+    "src-rapanui-unesco-715"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

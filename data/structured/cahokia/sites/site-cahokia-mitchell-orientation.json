@@ -1,0 +1,32 @@
+{
+  "id": "site-cahokia-mitchell-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "米切尔遗址等相关聚落（指针）",
+    "en": "Mitchell and related settlements (orientation)",
+    "native": null
+  },
+  "kind_note": "American Bottom Mississippian settlements in Cahokia hinterland",
+  "region": "American Bottom, Illinois",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "卡霍基亚腹地密西西比聚落指针。",
+    "en": "Mississippian settlement orientation in Cahokia hinterland."
+  },
+  "sources": [
+    "src-cahokia-kelly-orientation",
+    "src-cahokia-emerson-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

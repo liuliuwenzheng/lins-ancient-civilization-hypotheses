@@ -2,7 +2,7 @@
   "id": "civ-great-zimbabwe",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "大津巴布韦",
     "en": "Great Zimbabwe",
@@ -11,28 +11,58 @@
   "region": "Southern Africa / Zimbabwe plateau (Masvingo region)",
   "time_span": "Stone-walled capital floruit broadly 11th–15th centuries CE (Pikirayi / Huffman frames)",
   "summary": {
-    "zh": "大津巴布韦档案壳：Pikirayi/Huffman 综合 + 教科文；library-seed。",
-    "en": "Great Zimbabwe archive shell: Pikirayi/Huffman synthesis + UNESCO; library-seed."
+    "zh": "大津巴布韦档案（library-seed-rich）：Pikirayi/Huffman/Garlake + 教科文；仍非埃及级密度。",
+    "en": "Great Zimbabwe archive (library-seed-rich): Pikirayi/Huffman/Garlake + UNESCO; not yet Egypt-level density."
   },
   "sources": [
-    "src-zimbabwe-unesco-364",
-    "src-zimbabwe-pikirayi-2001",
-    "src-zimbabwe-huffman-2007",
+    "src-zimbabwe-beach-orientation",
+    "src-zimbabwe-caton-thompson-1931",
+    "src-zimbabwe-chirikure-orientation",
     "src-zimbabwe-garlake-1973",
-    "src-zimbabwe-ndoro-2001"
+    "src-zimbabwe-huffman-2007",
+    "src-zimbabwe-manyanga-orientation",
+    "src-zimbabwe-matenga-orientation",
+    "src-zimbabwe-ndoro-2001",
+    "src-zimbabwe-nmmz-orientation",
+    "src-zimbabwe-pikirayi-2001",
+    "src-zimbabwe-pwiti-orientation",
+    "src-zimbabwe-robinson-orientation",
+    "src-zimbabwe-unesco-364",
+    "src-zimbabwe-unesco-docs",
+    "src-zimbabwe-whitty-orientation"
   ],
   "site_ids": [
     "site-great-zimbabwe-monument",
-    "site-zimbabwe-culture-orientation"
+    "site-zimbabwe-culture-orientation",
+    "site-zimbabwe-great-enclosure",
+    "site-zimbabwe-hill-complex",
+    "site-zimbabwe-khami-orientation",
+    "site-zimbabwe-mapungubwe-orientation",
+    "site-zimbabwe-valley-ruins-orientation"
   ],
   "period_ids": [
-    "period-great-zimbabwe-floruit"
+    "period-great-zimbabwe-floruit",
+    "period-zimbabwe-classic-capital",
+    "period-zimbabwe-khami-succession",
+    "period-zimbabwe-mapungubwe-horizon"
   ],
   "claim_ids": [
-    "claim-great-zimbabwe-stone-capital"
+    "claim-great-zimbabwe-stone-capital",
+    "claim-zimbabwe-caton-thompson",
+    "claim-zimbabwe-comparative-khami",
+    "claim-zimbabwe-garlake",
+    "claim-zimbabwe-great-enclosure",
+    "claim-zimbabwe-hill-complex",
+    "claim-zimbabwe-huffman-handbook",
+    "claim-zimbabwe-mapungubwe-debate",
+    "claim-zimbabwe-ndoro-heritage",
+    "claim-zimbabwe-pikirayi-synthesis",
+    "claim-zimbabwe-unesco"
   ],
   "object_ids": [
-    "asm-zimbabwe-dry-stone-frame"
+    "asm-zimbabwe-dry-stone-frame",
+    "asm-zimbabwe-great-enclosure-frame",
+    "asm-zimbabwe-soapstone-bird-frame"
   ],
   "related_ids": [
     "civ-west-africa-medieval"
@@ -40,11 +70,11 @@
   "markdown_path": "data/civilizations/civ-great-zimbabwe.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

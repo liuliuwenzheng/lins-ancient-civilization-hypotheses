@@ -1,0 +1,35 @@
+{
+  "id": "claim-rapanui-orongo",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥龙戈与鸟人教礼仪景观见于 Routledge 记述与教科文公园描述（Routledge 1919；UNESCO 715）。",
+    "en": "Orongo and birdman ritual landscape appear in Routledge's account and UNESCO park descriptions (Routledge 1919; UNESCO 715)."
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-orongo-orientation"
+  ],
+  "period_ids": [
+    "period-rapanui-birdman"
+  ],
+  "object_ids": [
+    "asm-rapanui-orongo-birdman-frame"
+  ],
+  "sources": [
+    "src-rapanui-routledge-1919",
+    "src-rapanui-unesco-715"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

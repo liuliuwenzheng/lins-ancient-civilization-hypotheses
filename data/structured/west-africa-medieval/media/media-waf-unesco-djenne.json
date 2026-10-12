@@ -1,0 +1,32 @@
+{
+  "id": "media-waf-unesco-djenne",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：杰内老城",
+    "en": "UNESCO: Old Towns of Djenné",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/116/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-waf-unesco-djenne-116"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/116/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-cahokia-emerson-power",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Emerson 1997 从权力与意识形态考古角度讨论卡霍基亚政治景观（University of Alabama Press）。",
+    "en": "Emerson 1997 discusses Cahokia's political landscape through archaeology of power and ideology (University of Alabama Press)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-cahokia-mississippian-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-emerson-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "asm-hallstatt-princely-burial-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "王侯车葬框架组合",
+    "en": "Princely wagon-burial frame"
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-hochdorf-orientation",
+    "site-hallstatt-vix-orientation"
+  ],
+  "period_ids": [
+    "period-hallstatt-d"
+  ],
+  "summary": {
+    "zh": "精英车葬传统指针；无伪造器物号。",
+    "en": "Elite wagon-burial tradition pointer; no forged inventory numbers."
+  },
+  "sources": [
+    "src-hallstatt-biel-orientation",
+    "src-hallstatt-pare-orientation",
+    "src-hallstatt-cunliffe-1997"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

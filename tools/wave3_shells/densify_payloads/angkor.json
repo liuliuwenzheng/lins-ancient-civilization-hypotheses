@@ -1,0 +1,545 @@
+{
+  "civ_id": "civ-angkor",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "吴哥档案（library-seed-rich）：Coe–Evans/Jacques + APSARA/教科文 + 激光雷达景观；仍非埃及级密度。",
+    "en": "Angkor archive (library-seed-rich): Coe–Evans/Jacques + APSARA/UNESCO + lidar landscape; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-angkor-higham-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Higham, Charles — Early Mainland Southeast Asia / Angkor syntheses.",
+      "url": null,
+      "notes": "Mainland SEA / Angkor orientation."
+    },
+    {
+      "id": "src-angkor-stark-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Stark, Miriam T. — Angkorian archaeology and early historic Cambodia studies.",
+      "url": null,
+      "notes": "Angkorian archaeology orientation."
+    },
+    {
+      "id": "src-angkor-fletcher-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Fletcher, Roland — Greater Angkor Project urban landscape studies.",
+      "url": null,
+      "notes": "GAP urban landscape orientation."
+    },
+    {
+      "id": "src-angkor-pottier-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Pottier, Christophe — Angkor mapping and EFEO archaeological missions.",
+      "url": null,
+      "notes": "EFEO mapping/excavation orientation; P-tradition."
+    },
+    {
+      "id": "src-angkor-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Angkor — documents. https://whc.unesco.org/en/list/668/documents/",
+      "url": "https://whc.unesco.org/en/list/668/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-angkor-evans-pnas-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Evans, Damian, et al. — airborne laser scanning of Angkorian landscapes (PNAS and related papers).",
+      "url": null,
+      "notes": "Lidar landscape orientation (alongside shell Evans lidar source)."
+    },
+    {
+      "id": "src-angkor-jacques-epigraphy",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Jacques, Claude — Khmer epigraphy and Angkor historical geography (complementing Jacques & Lafond 2007).",
+      "url": null,
+      "notes": "Epigraphy orientation."
+    },
+    {
+      "id": "src-angkor-freeman-jacques-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Freeman, Michael, and Claude Jacques — Angkor guide-synthesis tradition.",
+      "url": null,
+      "notes": "Accessible monument guide-synthesis."
+    },
+    {
+      "id": "src-angkor-efeo-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "École française d'Extrême-Orient — Angkor research orientation portals.",
+      "url": null,
+      "notes": "EFEO institutional orientation; tier T."
+    },
+    {
+      "id": "src-angkor-apsara-web",
+      "type": "web",
+      "tier": "T",
+      "citation": "APSARA National Authority — Angkor archaeological park orientation.",
+      "url": "https://apsaraauthority.gov.kh/",
+      "notes": "Cambodian management authority portal; tier T."
+    }
+  ],
+  "fill_coords": {
+    "site-angkor-wat": {
+      "lat": 13.4125,
+      "lon": 103.866667,
+      "precision_note": "English Wikipedia primary coordinates for «Angkor Wat»; access 2026-10-12 (UNESCO WH list 668 orientation site)"
+    },
+    "site-angkor-thom": {
+      "lat": 13.441,
+      "lon": 103.859,
+      "precision_note": "Approximate Angkor Thom core point derived from published Angkor park geography (English Wikipedia Angkor page vicinity); not a UNESCO DMS read (WHC Cloudflare-blocked 2026-10-12). Treat as low-precision orientation only."
+    }
+  },
+  "sites": [
+    {
+      "id": "site-angkor-bayon-orientation",
+      "names": {
+        "zh": "巴戎寺（指针）",
+        "en": "Bayon (orientation)",
+        "native": "Bayon"
+      },
+      "kind_note": "State temple of Jayavarman VII at Angkor Thom",
+      "region": "Angkor, Cambodia",
+      "coords": null,
+      "summary": {
+        "zh": "阇耶跋摩七世国寺指针。",
+        "en": "Jayavarman VII state-temple orientation at Angkor Thom."
+      },
+      "sources": [
+        "src-angkor-unesco-668",
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-coe-evans-2018"
+      ]
+    },
+    {
+      "id": "site-angkor-ta-prohm-orientation",
+      "names": {
+        "zh": "塔布笼寺（指针）",
+        "en": "Ta Prohm (orientation)",
+        "native": "Ta Prohm"
+      },
+      "kind_note": "Buddhist monastic temple complex",
+      "region": "Angkor, Cambodia",
+      "coords": null,
+      "summary": {
+        "zh": "佛教寺院建筑群指针。",
+        "en": "Buddhist monastic temple-complex orientation."
+      },
+      "sources": [
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-unesco-668"
+      ]
+    },
+    {
+      "id": "site-angkor-baphuon-orientation",
+      "names": {
+        "zh": "巴普昂寺（指针）",
+        "en": "Baphuon (orientation)",
+        "native": "Baphuon"
+      },
+      "kind_note": "11th-century temple-mountain in Angkor Thom",
+      "region": "Angkor Thom, Cambodia",
+      "coords": null,
+      "summary": {
+        "zh": "吴哥城内11世纪庙山指针。",
+        "en": "11th-century temple-mountain orientation in Angkor Thom."
+      },
+      "sources": [
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-freeman-jacques-orientation"
+      ]
+    },
+    {
+      "id": "site-angkor-west-baray-orientation",
+      "names": {
+        "zh": "西巴莱水库（指针）",
+        "en": "West Baray (orientation)",
+        "native": "West Baray"
+      },
+      "kind_note": "Angkorian hydraulic reservoir",
+      "region": "Angkor, Cambodia",
+      "coords": null,
+      "summary": {
+        "zh": "吴哥水利水库指针。",
+        "en": "Angkorian hydraulic reservoir orientation."
+      },
+      "sources": [
+        "src-angkor-fletcher-orientation",
+        "src-angkor-evans-lidar-orientation",
+        "src-angkor-coe-evans-2018"
+      ]
+    },
+    {
+      "id": "site-angkor-hariharalaya-orientation",
+      "names": {
+        "zh": "哈里哈拉洛耶/罗洛士（指针）",
+        "en": "Hariharalaya / Roluos (orientation)",
+        "native": "Hariharalaya"
+      },
+      "kind_note": "Early Angkorian capital zone",
+      "region": "Roluos group, Cambodia",
+      "coords": null,
+      "summary": {
+        "zh": "早期吴哥都城区指针。",
+        "en": "Early Angkorian capital-zone orientation."
+      },
+      "sources": [
+        "src-angkor-higham-orientation",
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-coe-evans-2018"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-angkor-early-hariharalaya",
+      "names": {
+        "zh": "早期吴哥/哈里哈拉洛耶窗",
+        "en": "Early Angkor / Hariharalaya window"
+      },
+      "time": {
+        "label": "ca. late 8th–9th centuries CE working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "早期都城工作窗。",
+        "en": "Early capital working window."
+      },
+      "sources": [
+        "src-angkor-higham-orientation",
+        "src-angkor-coe-evans-2018"
+      ]
+    },
+    {
+      "id": "period-angkor-classic",
+      "names": {
+        "zh": "经典吴哥窗",
+        "en": "Classic Angkor window"
+      },
+      "time": {
+        "label": "ca. 10th–13th centuries CE floruit labels",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "经典庙山与水利繁荣窗。",
+        "en": "Classic temple-mountain and hydraulic floruit window."
+      },
+      "sources": [
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-coe-evans-2018",
+        "src-angkor-unesco-668"
+      ]
+    },
+    {
+      "id": "period-angkor-late-jayavarmanvii",
+      "names": {
+        "zh": "阇耶跋摩七世及晚期窗",
+        "en": "Jayavarman VII and late window"
+      },
+      "time": {
+        "label": "ca. late 12th–14th centuries CE working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "国寺佛教化与晚期工作窗。",
+        "en": "State-temple Buddhistization and late working window."
+      },
+      "sources": [
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-coe-evans-2018"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-angkor-wat-temple-mountain-frame",
+      "names": {
+        "zh": "吴哥窟庙山框架",
+        "en": "Angkor Wat temple-mountain frame"
+      },
+      "site_ids": [
+        "site-angkor-wat"
+      ],
+      "period_ids": [
+        "period-angkor-classic",
+        "period-angkorian-floruit"
+      ],
+      "sources": [
+        "src-angkor-unesco-668",
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-coe-evans-2018"
+      ],
+      "summary": {
+        "zh": "吴哥窟庙山建筑指针。",
+        "en": "Angkor Wat temple-mountain architecture pointer."
+      }
+    },
+    {
+      "id": "asm-angkor-hydraulic-city-frame",
+      "names": {
+        "zh": "吴哥水利城市框架",
+        "en": "Angkor hydraulic-city frame"
+      },
+      "site_ids": [
+        "site-angkor-hydraulic-orientation",
+        "site-angkor-west-baray-orientation"
+      ],
+      "period_ids": [
+        "period-angkor-classic"
+      ],
+      "sources": [
+        "src-angkor-fletcher-orientation",
+        "src-angkor-evans-lidar-orientation",
+        "src-angkor-coe-evans-2018"
+      ],
+      "summary": {
+        "zh": "巴莱—渠道水利城市景观指针。",
+        "en": "Baray–canal hydraulic urban landscape pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-angkor-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将吴哥列入世界遗产，强调高棉都城庙山与水利景观（UNESCO 668）。",
+        "en": "UNESCO lists Angkor as World Heritage, emphasizing Khmer capital temple-mountains and hydraulic landscape (UNESCO 668)."
+      },
+      "site_ids": [
+        "site-angkor-wat",
+        "site-angkor-thom"
+      ],
+      "period_ids": [
+        "period-angkorian-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-unesco-668"
+      ]
+    },
+    {
+      "id": "claim-angkor-coe-evans",
+      "kind": "fact",
+      "statement": {
+        "zh": "Coe & Evans 2018 综合吴哥考古，纳入激光雷达城市景观成果（Thames & Hudson）。",
+        "en": "Coe & Evans 2018 synthesize Angkor archaeology including lidar urban-landscape results (Thames & Hudson)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-angkorian-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-coe-evans-2018",
+        "src-angkor-evans-lidar-orientation"
+      ]
+    },
+    {
+      "id": "claim-angkor-jacques-monuments",
+      "kind": "fact",
+      "statement": {
+        "zh": "Jacques & Lafond 2007 提供吴哥古迹的详细建筑—历史综合。",
+        "en": "Jacques & Lafond 2007 provide a detailed architectural–historical synthesis of Angkor monuments."
+      },
+      "site_ids": [
+        "site-angkor-wat",
+        "site-angkor-bayon-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-jacques-lafond-2007"
+      ]
+    },
+    {
+      "id": "claim-angkor-lidar",
+      "kind": "fact",
+      "statement": {
+        "zh": "Evans 等机载激光雷达研究揭示大吴哥低密度城市延伸（PNAS 等；与 shell lidar 源并立）。",
+        "en": "Evans et al. airborne laser scanning reveals Greater Angkor low-density urban extent (PNAS et al.; alongside shell lidar source)."
+      },
+      "site_ids": [
+        "site-angkor-hydraulic-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-evans-lidar-orientation",
+        "src-angkor-evans-pnas-orientation"
+      ]
+    },
+    {
+      "id": "claim-angkor-fletcher-gap",
+      "kind": "fact",
+      "statement": {
+        "zh": "Fletcher 等大吴哥项目讨论水利—城市景观系统（GAP tradition）。",
+        "en": "Fletcher and the Greater Angkor Project discuss hydraulic–urban landscape systems (GAP tradition)."
+      },
+      "site_ids": [
+        "site-angkor-west-baray-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-angkor-hydraulic-city-frame"
+      ],
+      "sources": [
+        "src-angkor-fletcher-orientation",
+        "src-angkor-coe-evans-2018"
+      ]
+    },
+    {
+      "id": "claim-angkor-wat-mountain",
+      "kind": "fact",
+      "statement": {
+        "zh": "吴哥窟被教科文与综合表述为高棉庙山建筑的标志（UNESCO 668；Jacques；Coe & Evans）。",
+        "en": "Angkor Wat is framed by UNESCO and syntheses as the hallmark Khmer temple-mountain (UNESCO 668; Jacques; Coe & Evans)."
+      },
+      "site_ids": [
+        "site-angkor-wat"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-angkor-wat-temple-mountain-frame"
+      ],
+      "sources": [
+        "src-angkor-unesco-668",
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-coe-evans-2018"
+      ]
+    },
+    {
+      "id": "claim-angkor-bayon",
+      "kind": "fact",
+      "statement": {
+        "zh": "巴戎寺作为阇耶跋摩七世国寺出现在吴哥城核心（Jacques；UNESCO Angkor）。",
+        "en": "Bayon appears as Jayavarman VII's state temple in the Angkor Thom core (Jacques; UNESCO Angkor)."
+      },
+      "site_ids": [
+        "site-angkor-bayon-orientation",
+        "site-angkor-thom"
+      ],
+      "period_ids": [
+        "period-angkor-late-jayavarmanvii"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-jacques-lafond-2007",
+        "src-angkor-unesco-668"
+      ]
+    },
+    {
+      "id": "claim-angkor-roluos",
+      "kind": "fact",
+      "statement": {
+        "zh": "罗洛士/哈里哈拉洛耶组群代表早期吴哥都城阶段（Higham；Coe & Evans）。",
+        "en": "Roluos / Hariharalaya group represents an early Angkorian capital phase (Higham; Coe & Evans)."
+      },
+      "site_ids": [
+        "site-angkor-hariharalaya-orientation"
+      ],
+      "period_ids": [
+        "period-angkor-early-hariharalaya"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-higham-orientation",
+        "src-angkor-coe-evans-2018"
+      ]
+    },
+    {
+      "id": "claim-angkor-apsara",
+      "kind": "fact",
+      "statement": {
+        "zh": "APSARA 国家管理局负责吴哥考古公园管理，机构门户提供保护取向（APSARA web / shell orientation）。",
+        "en": "APSARA National Authority manages Angkor Archaeological Park; institutional portals provide conservation orientation."
+      },
+      "site_ids": [
+        "site-angkor-wat"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-apsara-web",
+        "src-angkor-apsara-orientation"
+      ]
+    },
+    {
+      "id": "claim-angkor-pottier-efeo",
+      "kind": "fact",
+      "statement": {
+        "zh": "Pottier / EFEO 测绘与发掘传统为吴哥空间考古提供基础数据取向。",
+        "en": "Pottier / EFEO mapping and excavation tradition supplies foundational spatial-archaeology orientation for Angkor."
+      },
+      "site_ids": [
+        "site-angkor-thom",
+        "site-angkor-hydraulic-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-angkor-pottier-orientation",
+        "src-angkor-efeo-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-angkor-unesco",
+      "title": {
+        "zh": "教科文：吴哥",
+        "en": "UNESCO: Angkor",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/668/",
+      "sources": [
+        "src-angkor-unesco-668"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-angkor-unesco-docs",
+      "title": {
+        "zh": "教科文吴哥文档",
+        "en": "UNESCO Angkor documents",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/668/documents/",
+      "sources": [
+        "src-angkor-unesco-docs"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-angkor-apsara",
+      "title": {
+        "zh": "APSARA 吴哥管理机构门户",
+        "en": "APSARA Angkor authority portal",
+        "native": null
+      },
+      "external_url": "https://apsaraauthority.gov.kh/",
+      "sources": [
+        "src-angkor-apsara-web"
+      ],
+      "attribution": "APSARA National Authority",
+      "media_type": "document-link"
+    }
+  ]
+}

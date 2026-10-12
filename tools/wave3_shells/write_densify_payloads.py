@@ -1,0 +1,375 @@
+#!/usr/bin/env python3
+"""Write Wave-3 densify payloads (D-2026-10-12-17). Real P/S/T only; no invented finds/pages/coords/media art."""
+from __future__ import annotations
+import json
+from pathlib import Path
+
+OUT = Path(__file__).resolve().parent / "densify_payloads"
+
+def wp(lat, lon, page, unesco=None):
+    note = f"English Wikipedia primary coordinates for «{page}»; access 2026-10-12"
+    if unesco:
+        note += f" (UNESCO WH list {unesco} orientation site)"
+    return {"lat": round(float(lat), 6), "lon": round(float(lon), 6), "precision_note": note}
+
+def dump(name, obj):
+    OUT.mkdir(parents=True, exist_ok=True)
+    path = OUT / f"{name}.json"
+    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print("wrote", path.name, "src", len(obj["sources"]), "sites", len(obj["sites"]),
+          "per", len(obj["periods"]), "cl", len(obj["claims"]), "media", len(obj.get("media") or []))
+
+def S(id, type, tier, citation, url=None, notes=""):
+    return {"id": id, "type": type, "tier": tier, "citation": citation, "url": url, "notes": notes}
+
+def site(id, zh, en, native, kind, region, summary_zh, summary_en, sources, coords=None):
+    return {
+        "id": id,
+        "names": {"zh": zh, "en": en, "native": native},
+        "kind_note": kind,
+        "region": region,
+        "coords": coords,
+        "summary": {"zh": summary_zh, "en": summary_en},
+        "sources": sources,
+    }
+
+def per(id, zh, en, label, summary_zh, summary_en, sources, from_bce=None, to_bce=None, scheme="Working window; absolute debates open."):
+    return {
+        "id": id,
+        "names": {"zh": zh, "en": en},
+        "time": {"label": label, "approx_from_bce": from_bce, "approx_to_bce": to_bce, "scheme_note": scheme},
+        "summary": {"zh": summary_zh, "en": summary_en},
+        "sources": sources,
+    }
+
+def obj(id, zh, en, site_ids, period_ids, sources, summary_zh, summary_en):
+    return {
+        "id": id,
+        "names": {"zh": zh, "en": en},
+        "site_ids": site_ids,
+        "period_ids": period_ids,
+        "sources": sources,
+        "summary": {"zh": summary_zh, "en": summary_en},
+    }
+
+def claim(id, zh, en, sources, site_ids=None, period_ids=None, object_ids=None, kind="fact"):
+    return {
+        "id": id, "kind": kind,
+        "statement": {"zh": zh, "en": en},
+        "site_ids": site_ids or [],
+        "period_ids": period_ids or [],
+        "object_ids": object_ids or [],
+        "sources": sources,
+    }
+
+def media(id, zh, en, url, sources, attribution, media_type="document-link"):
+    return {
+        "id": id,
+        "title": {"zh": zh, "en": en, "native": None},
+        "external_url": url,
+        "sources": sources,
+        "attribution": attribution,
+        "media_type": media_type,
+    }
+
+# ---------------------------------------------------------------------------
+# CAHOKIA
+# ---------------------------------------------------------------------------
+dump("cahokia", {
+  "civ_id": "civ-cahokia",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "卡霍基亚档案（library-seed-rich）：Pauketat/Emerson/Milner/Fowler + 教科文；密西西比大型中心，仍非埃及级密度。",
+    "en": "Cahokia archive (library-seed-rich): Pauketat/Emerson/Milner/Fowler + UNESCO; major Mississippian centre; not yet Egypt-level density."
+  },
+  "sources": [
+    S("src-cahokia-pauketat-2004", "monograph", "S",
+      "Pauketat, Timothy R. 2004. Ancient Cahokia and the Mississippians. Cambridge: Cambridge University Press.",
+      notes="Urbanism/Mississippian synthesis; print; TOC-level densify."),
+    S("src-cahokia-alt-2010", "monograph", "S",
+      "Alt, Susan M., ed. 2010. Ancient Complexities: New Perspectives in Pre-Columbian North America. Salt Lake City: University of Utah Press.",
+      notes="Edited volume with Cahokia/Mississippian essays; print orientation."),
+    S("src-cahokia-kelly-orientation", "article", "S",
+      "Kelly, John E. — Cahokia and American Bottom Mississippian settlement archaeology (ITARP / UIUC tradition).",
+      notes="Settlement archaeology orientation pointer."),
+    S("src-cahokia-iseminger-orientation", "monograph", "S",
+      "Iseminger, William R. 2010. Cahokia Mounds: America's First City. Charleston, SC: History Press.",
+      notes="Accessible site history; print; institutional interpreter tradition."),
+    S("src-cahokia-barrier-orientation", "article", "S",
+      "Barrier, Casey R., and Timothy R. Pauketat — Cahokia neighborhood and mound-plaza spatial studies.",
+      notes="Neighborhood/spatial archaeology orientation."),
+    S("src-cahokia-holley-orientation", "article", "S",
+      "Holley, George R. — Cahokia ceramics and American Bottom chronology studies.",
+      notes="Ceramic chronology orientation."),
+    S("src-cahokia-collins-orientation", "article", "S",
+      "Collins, James M. — Cahokia Tract 15A and related excavation reports (ITARP tradition).",
+      notes="P-tradition excavation pointer; no invented locus numbers."),
+    S("src-cahokia-nps-orientation", "web", "T",
+      "U.S. / Illinois Historic Preservation — Cahokia Mounds State Historic Site orientation (interpretive).",
+      "https://cahokiamounds.org/",
+      notes="Institutional site portal; tier T."),
+    S("src-cahokia-unesco-docs", "web", "T",
+      "UNESCO World Heritage Centre. Cahokia Mounds State Historic Site — documents landing. https://whc.unesco.org/en/list/198/documents/",
+      "https://whc.unesco.org/en/list/198/documents/",
+      notes="Documents landing for outbound media."),
+    S("src-cahokia-emerson-pauketat-orientation", "monograph", "S",
+      "Emerson, Thomas E., and Timothy R. Pauketat — Cahokia political/ideological archaeology essays and edited collections.",
+      notes="Power/ideology orientation pointer."),
+  ],
+  "fill_coords": {
+    "site-cahokia-monks-mound": wp(38.653889, -90.064444, "Cahokia", "198"),
+  },
+  "sites": [
+    site("site-cahokia-powell-mound-orientation", "鲍威尔丘等相关土墩（指针）", "Powell Mound and related mounds (orientation)", None,
+         "Mississippian mound group within Cahokia landscape", "American Bottom, Illinois",
+         "卡霍基亚景观内相关土墩指针。", "Related mound orientation within Cahokia landscape.",
+         ["src-cahokia-fowler-1997", "src-cahokia-pauketat-2009"]),
+    site("site-cahokia-woodhenge-orientation", "木垣/天文观测区（指针）", "Woodhenge / calendar-circle sector (orientation)", None,
+         "Post-circle ceremonial sector discussed in Cahokia literature", "Cahokia Mounds SHS",
+         "文献讨论的柱圈仪礼区指针。", "Post-circle ceremonial sector orientation in Cahokia literature.",
+         ["src-cahokia-pauketat-2009", "src-cahokia-iseminger-orientation"]),
+    site("site-cahokia-mound-72-orientation", "72号丘葬仪区（指针）", "Mound 72 mortuary sector (orientation)", None,
+         "Famous Mississippian mortuary mound discussed in Fowler/Pauketat", "Cahokia Mounds SHS",
+         "Fowler/Pauketat 讨论的著名葬仪丘指针；无伪造墓号细节。", "Famous mortuary mound orientation; no forged burial-number detail.",
+         ["src-cahokia-fowler-1997", "src-cahokia-pauketat-2004"]),
+    site("site-cahokia-st-louis-mound-group-orientation", "圣路易斯土墩组群（指针）", "St. Louis Mound Group (orientation)", None,
+         "Historic Mississippian mound cluster across the river (mostly destroyed)", "St. Louis, Missouri",
+         "河对岸历史密西西比土墩组群指针（多已毁）。", "Historic Mississippian mound cluster orientation across the river (mostly destroyed).",
+         ["src-cahokia-pauketat-2009", "src-cahokia-milner-1998"]),
+    site("site-cahokia-mitchell-orientation", "米切尔遗址等相关聚落（指针）", "Mitchell and related settlements (orientation)", None,
+         "American Bottom Mississippian settlements in Cahokia hinterland", "American Bottom, Illinois",
+         "卡霍基亚腹地密西西比聚落指针。", "Mississippian settlement orientation in Cahokia hinterland.",
+         ["src-cahokia-kelly-orientation", "src-cahokia-emerson-1997"]),
+  ],
+  "periods": [
+    per("period-cahokia-lohmann", "洛曼阶段窗", "Lohmann phase window",
+        "ca. 1050–1100 CE (American Bottom phase labels)",
+        "美底区洛曼阶段工作窗。", "American Bottom Lohmann-phase working window.",
+        ["src-cahokia-pauketat-2004", "src-cahokia-holley-orientation"], scheme="American Bottom ceramic/phase labels; absolute refine later."),
+    per("period-cahokia-stirling", "斯特林阶段窗", "Stirling phase window",
+        "ca. 1100–1200 CE (American Bottom phase labels)",
+        "斯特林阶段繁荣工作窗。", "Stirling-phase floruit working window.",
+        ["src-cahokia-pauketat-2004", "src-cahokia-milner-1998"], scheme="American Bottom phase labels; absolute refine later."),
+    per("period-cahokia-moorehead-sand-prairie", "穆尔黑德–沙草原窗", "Moorehead–Sand Prairie window",
+        "ca. 1200–1350 CE decline/transition labels",
+        "晚期/衰退过渡工作窗。", "Late / decline–transition working window.",
+        ["src-cahokia-pauketat-2009", "src-cahokia-emerson-1997"], scheme="Phase labels; absolute debates open."),
+  ],
+  "objects": [
+    obj("asm-cahokia-monks-mound-frame", "修士丘巨型土墩框架组合", "Monks Mound monumental earthwork frame",
+        ["site-cahokia-monks-mound"], ["period-cahokia-mississippian-floruit", "period-cahokia-stirling"],
+        ["src-cahokia-unesco-198", "src-cahokia-fowler-1997"],
+        "修士丘巨型土方工程指针；无伪造馆藏号。", "Monks Mound monumental earthwork pointer; no forged catalog numbers."),
+    obj("asm-cahokia-woodhenge-frame", "木垣柱圈框架组合", "Woodhenge post-circle frame",
+        ["site-cahokia-woodhenge-orientation"], ["period-cahokia-stirling"],
+        ["src-cahokia-pauketat-2009", "src-cahokia-iseminger-orientation"],
+        "柱圈仪礼装置指针。", "Post-circle ceremonial installation pointer."),
+  ],
+  "claims": [
+    claim("claim-cahokia-unesco-listed",
+          "教科文将卡霍基亚土墩历史遗址列入世界遗产，强调密西西比文化巨型土墩与城市规划（UNESCO 198）。",
+          "UNESCO lists Cahokia Mounds State Historic Site as World Heritage, emphasizing Mississippian monumental mounds and urban planning (UNESCO 198).",
+          ["src-cahokia-unesco-198"], ["site-cahokia-monks-mound"], ["period-cahokia-mississippian-floruit"]),
+    claim("claim-cahokia-pauketat-city",
+          "Pauketat 综合将卡霍基亚表述为密西西比河流域的大型仪礼—城市中心（Pauketat 2009/2004）。",
+          "Pauketat's syntheses frame Cahokia as a major ceremonial–urban centre in the Mississippi Valley (Pauketat 2009/2004).",
+          ["src-cahokia-pauketat-2009", "src-cahokia-pauketat-2004"], ["site-cahokia-monks-mound"]),
+    claim("claim-cahokia-fowler-atlas",
+          "Fowler 图集建立卡霍基亚土墩编号与发掘史的基础田野框架（Fowler 1997）。",
+          "Fowler's atlas establishes a foundational field frame for Cahokia mound numbering and excavation history (Fowler 1997).",
+          ["src-cahokia-fowler-1997"], ["site-cahokia-monks-mound", "site-cahokia-mound-72-orientation"]),
+    claim("claim-cahokia-emerson-power",
+          "Emerson 1997 从权力与意识形态考古角度讨论卡霍基亚政治景观（University of Alabama Press）。",
+          "Emerson 1997 discusses Cahokia's political landscape through archaeology of power and ideology (University of Alabama Press).",
+          ["src-cahokia-emerson-1997"], [], ["period-cahokia-mississippian-floruit"]),
+    claim("claim-cahokia-milner-chiefdom",
+          "Milner 1998 以酋邦框架综合卡霍基亚密西西比社会考古（Smithsonian）。",
+          "Milner 1998 synthesizes Cahokia Mississippian society archaeology in a chiefdom frame (Smithsonian).",
+          ["src-cahokia-milner-1998"], [], ["period-cahokia-mississippian-floruit"]),
+    claim("claim-cahokia-phase-labels",
+          "美底区陶瓷/阶段标签（洛曼、斯特林、穆尔黑德等）用于描述卡霍基亚繁荣与过渡（Pauketat 2004）；绝对年代仍可修订。",
+          "American Bottom ceramic/phase labels (Lohmann, Stirling, Moorehead, etc.) describe Cahokia floruit and transition (Pauketat 2004); absolute dates remain revisable.",
+          ["src-cahokia-pauketat-2004", "src-cahokia-holley-orientation"], [],
+          ["period-cahokia-lohmann", "period-cahokia-stirling", "period-cahokia-moorehead-sand-prairie"]),
+    claim("claim-cahokia-mound72-mortuary",
+          "文献将 72 号丘表述为卡霍基亚著名的密西西比葬仪土墩之一（Fowler 1997；Pauketat 2004）；细节待专刊加厚。",
+          "Literature frames Mound 72 as one of Cahokia's famous Mississippian mortuary mounds (Fowler 1997; Pauketat 2004); details deferred to specialist reports.",
+          ["src-cahokia-fowler-1997", "src-cahokia-pauketat-2004"], ["site-cahokia-mound-72-orientation"]),
+    claim("claim-cahokia-woodhenge",
+          "卡霍基亚木垣/柱圈被综合著作讨论为与仪礼历法相关的装置（Pauketat 2009；Iseminger 2010）。",
+          "Cahokia Woodhenge/post-circles are discussed in syntheses as installations related to ceremonial calendrics (Pauketat 2009; Iseminger 2010).",
+          ["src-cahokia-pauketat-2009", "src-cahokia-iseminger-orientation"],
+          ["site-cahokia-woodhenge-orientation"], object_ids=["asm-cahokia-woodhenge-frame"]),
+    claim("claim-cahokia-american-bottom",
+          "东圣路易斯与美底区相关组群在文献中与卡霍基亚中心互动讨论（Pauketat 2009；Emerson 1997）。",
+          "East St. Louis and American Bottom related clusters are discussed as interacting with the Cahokia centre (Pauketat 2009; Emerson 1997).",
+          ["src-cahokia-pauketat-2009", "src-cahokia-emerson-1997"],
+          ["site-cahokia-east-st-louis-orientation", "site-cahokia-mitchell-orientation"]),
+    claim("claim-cahokia-monks-mound-frame",
+          "教科文与图集将修士丘表述为北美史前最大土墩之一与卡霍基亚中轴纪念建筑（UNESCO 198；Fowler 1997）。",
+          "UNESCO and the atlas frame Monks Mound as among North America's largest prehistoric mounds and Cahokia's axial monument (UNESCO 198; Fowler 1997).",
+          ["src-cahokia-unesco-198", "src-cahokia-fowler-1997"],
+          ["site-cahokia-monks-mound"], object_ids=["asm-cahokia-monks-mound-frame"]),
+  ],
+  "media": [
+    media("media-cahokia-unesco", "教科文：卡霍基亚土墩", "UNESCO: Cahokia Mounds",
+          "https://whc.unesco.org/en/list/198/", ["src-cahokia-unesco-198"], "UNESCO World Heritage Centre"),
+    media("media-cahokia-unesco-docs", "教科文卡霍基亚文档页", "UNESCO Cahokia documents",
+          "https://whc.unesco.org/en/list/198/documents/", ["src-cahokia-unesco-docs"], "UNESCO World Heritage Centre"),
+    media("media-cahokia-site-portal", "卡霍基亚土墩遗址门户", "Cahokia Mounds site portal",
+          "https://cahokiamounds.org/", ["src-cahokia-nps-orientation"], "Cahokia Mounds State Historic Site"),
+  ],
+})
+
+# ---------------------------------------------------------------------------
+# ANCESTRAL PUEBLO
+# ---------------------------------------------------------------------------
+dump("ancestral-pueblo", {
+  "civ_id": "civ-ancestral-pueblo",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "先祖普韦布洛档案（library-seed-rich）：Lekson/Plog + 查科/梅萨维德教科文；仍非埃及级密度。",
+    "en": "Ancestral Puebloan archive (library-seed-rich): Lekson/Plog + Chaco/Mesa Verde UNESCO; not yet Egypt-level density."
+  },
+  "sources": [
+    S("src-pueblo-vivian-1990", "monograph", "S",
+      "Vivian, R. Gwinn. 1990. The Chacoan Prehistory of the San Juan Basin. San Diego: Academic Press.",
+      notes="Chacoan prehistory synthesis; print."),
+    S("src-pueblo-judge-orientation", "article", "S",
+      "Judge, W. James — Chaco Canyon research and San Juan Basin survey tradition.",
+      notes="Chaco research orientation pointer."),
+    S("src-pueblo-neitzel-orientation", "monograph", "S",
+      "Neitzel, Jill E., ed. — Chaco Canyon and regional system studies (edited volumes).",
+      notes="Regional system orientation."),
+    S("src-pueblo-crown-orientation", "monograph", "S",
+      "Crown, Patricia L. — Chaco and Southwest ceramic/ritual studies.",
+      notes="Ceramic/ritual orientation pointer."),
+    S("src-pueblo-sebastian-orientation", "monograph", "S",
+      "Sebastian, Lynne. 1992. The Chaco Anasazi: Sociopolitical Evolution in the Prehistoric Southwest. Cambridge: Cambridge University Press.",
+      notes="Sociopolitical evolution synthesis; print; older ethnonym in title noted."),
+    S("src-pueblo-wills-orientation", "article", "S",
+      "Wills, Wirt H. — Chaco agriculture and environment studies.",
+      notes="Agroecology orientation."),
+    S("src-pueblo-nps-mesa-verde", "web", "T",
+      "U.S. National Park Service. Mesa Verde National Park — history and culture orientation.",
+      "https://www.nps.gov/meve/learn/historyculture/index.htm",
+      notes="NPS institutional orientation; tier T."),
+    S("src-pueblo-unesco-chaco-docs", "web", "T",
+      "UNESCO World Heritage Centre. Chaco Culture — documents landing. https://whc.unesco.org/en/list/353/documents/",
+      "https://whc.unesco.org/en/list/353/documents/",
+      notes="Documents landing."),
+    S("src-pueblo-unesco-mv-docs", "web", "T",
+      "UNESCO World Heritage Centre. Mesa Verde National Park — documents landing. https://whc.unesco.org/en/list/27/documents/",
+      "https://whc.unesco.org/en/list/27/documents/",
+      notes="Documents landing."),
+    S("src-pueblo-lekson-chaco-meridian", "monograph", "S",
+      "Lekson, Stephen H. 1999. The Chaco Meridian: Centers of Political Power in the Ancient Southwest. Walnut Creek, CA: AltaMira Press.",
+      notes="Influential and debated meridian/political model; cite as S orientation."),
+  ],
+  "fill_coords": {
+    "site-chaco-canyon": wp(36.06, -107.96, "Chaco Culture National Historical Park", "353"),
+    "site-mesa-verde": wp(37.1838, -108.4887, "Mesa Verde National Park", "27"),
+  },
+  "sites": [
+    site("site-pueblo-bonito", "普韦布洛博尼托（指针）", "Pueblo Bonito (orientation)", "Pueblo Bonito",
+         "Chaco great house", "Chaco Canyon, New Mexico",
+         "查科著名大屋指针。", "Famous Chaco great-house orientation.",
+         ["src-pueblo-unesco-chaco-353", "src-pueblo-vivian-1990", "src-pueblo-nps-chaco-orientation"]),
+    site("site-pueblo-aztec-ruins-orientation", "阿兹特克遗址大屋（指针）", "Aztec Ruins great house (orientation)", None,
+         "Chacoan outlier great house", "Northwestern New Mexico",
+         "查科外围大屋指针；名称易与墨西卡混淆，仅作遗址名。", "Chacoan outlier great-house orientation; name is site label only, not Mexica.",
+         ["src-pueblo-lekson-2009", "src-pueblo-vivian-1990"]),
+    site("site-pueblo-cliff-palace-orientation", "悬崖宫殿（指针）", "Cliff Palace (orientation)", None,
+         "Mesa Verde cliff dwelling", "Mesa Verde National Park, Colorado",
+         "梅萨维德著名崖居指针。", "Famous Mesa Verde cliff-dwelling orientation.",
+         ["src-pueblo-unesco-mesa-verde-27", "src-pueblo-nps-mesa-verde", "src-pueblo-plog-2008"]),
+    site("site-pueblo-salmon-ruins-orientation", "萨蒙遗址（指针）", "Salmon Ruins (orientation)", None,
+         "Chacoan outlier", "San Juan Basin, New Mexico",
+         "查科外围萨蒙大屋指针。", "Chacoan Salmon outlier orientation.",
+         ["src-pueblo-vivian-1990", "src-pueblo-judge-orientation"]),
+    site("site-pueblo-chetro-ketl-orientation", "切特罗凯特尔（指针）", "Chetro Ketl (orientation)", "Chetro Ketl",
+         "Chaco Canyon great house", "Chaco Canyon, New Mexico",
+         "查科峡谷另一大屋指针。", "Another Chaco Canyon great-house orientation.",
+         ["src-pueblo-vivian-1990", "src-pueblo-nps-chaco-orientation"]),
+  ],
+  "periods": [
+    per("period-pueblo-basketmaker", "编篮者–普韦布洛早期窗", "Basketmaker–early Pueblo window",
+        "broadly early centuries CE–ca. 900 CE (Pecos labels)",
+        "编篮者至早期普韦布洛工作窗。", "Basketmaker to early Pueblo working window.",
+        ["src-pueblo-plog-2008", "src-pueblo-lekson-2009"], scheme="Pecos Classification labels; absolute refine later."),
+    per("period-pueblo-ii-chaco", "普韦布洛 II / 查科繁荣窗", "Pueblo II / Chaco floruit window",
+        "ca. 900–1150 CE (Chaco great-house floruit labels)",
+        "查科大屋繁荣工作窗。", "Chaco great-house floruit working window.",
+        ["src-pueblo-vivian-1990", "src-pueblo-sebastian-orientation"], scheme="Pecos / Chaco chronology labels."),
+    per("period-pueblo-iii-mesa-verde", "普韦布洛 III / 梅萨维德窗", "Pueblo III / Mesa Verde window",
+        "ca. 1150–1300 CE (cliff-dwelling floruit labels)",
+        "崖居繁荣与迁徙讨论窗。", "Cliff-dwelling floruit and migration discussion window.",
+        ["src-pueblo-plog-2008", "src-pueblo-unesco-mesa-verde-27"], scheme="Pecos labels; migration debates open."),
+  ],
+  "objects": [
+    obj("asm-pueblo-great-house-chaco", "查科大屋建筑框架组合", "Chaco great-house architecture frame",
+        ["site-chaco-canyon", "site-pueblo-bonito"], ["period-pueblo-ii-chaco"],
+        ["src-pueblo-unesco-chaco-353", "src-pueblo-vivian-1990"],
+        "查科大屋建筑传统指针。", "Chaco great-house architectural tradition pointer."),
+    obj("asm-pueblo-cliff-dwelling-frame", "梅萨维德崖居框架组合", "Mesa Verde cliff-dwelling frame",
+        ["site-mesa-verde", "site-pueblo-cliff-palace-orientation"], ["period-pueblo-iii-mesa-verde"],
+        ["src-pueblo-unesco-mesa-verde-27", "src-pueblo-nps-mesa-verde"],
+        "崖居建筑传统指针。", "Cliff-dwelling architectural tradition pointer."),
+  ],
+  "claims": [
+    claim("claim-pueblo-unesco-chaco",
+          "教科文将查科文化列入世界遗产，强调大屋、道路与礼仪景观（UNESCO 353）。",
+          "UNESCO lists Chaco Culture as World Heritage, emphasizing great houses, roads, and ceremonial landscape (UNESCO 353).",
+          ["src-pueblo-unesco-chaco-353"], ["site-chaco-canyon"], ["period-pueblo-ii-chaco"]),
+    claim("claim-pueblo-unesco-mesa-verde",
+          "教科文将梅萨维德国家公园列入世界遗产，强调崖居与台地聚落（UNESCO 27）。",
+          "UNESCO lists Mesa Verde National Park as World Heritage, emphasizing cliff dwellings and mesa settlements (UNESCO 27).",
+          ["src-pueblo-unesco-mesa-verde-27"], ["site-mesa-verde"], ["period-pueblo-iii-mesa-verde"]),
+    claim("claim-pueblo-lekson-synthesis",
+          "Lekson 综合将美国西南部古代政治中心与查科等节点纳入长时段叙事（Lekson 2009）。",
+          "Lekson's synthesis places ancient Southwest political centres including Chaco nodes in a long-term narrative (Lekson 2009).",
+          ["src-pueblo-lekson-2009"], ["site-chaco-canyon"]),
+    claim("claim-pueblo-vivian-chacoan",
+          "Vivian 1990 建立圣胡安盆地查科式史前综合框架（Academic Press）。",
+          "Vivian 1990 establishes a Chacoan prehistory synthesis for the San Juan Basin (Academic Press).",
+          ["src-pueblo-vivian-1990"], ["site-chaco-canyon", "site-pueblo-bonito"]),
+    claim("claim-pueblo-plog-overview",
+          "Plog 2008 提供美国西南部古代人群的通识综合（Thames and Hudson）。",
+          "Plog 2008 provides an accessible synthesis of ancient peoples of the American Southwest (Thames and Hudson).",
+          ["src-pueblo-plog-2008"], [], ["period-ancestral-pueblo-floruit"]),
+    claim("claim-pueblo-bonito-greathouse",
+          "文献将普韦布洛博尼托表述为查科峡谷标志性大屋之一（UNESCO 353；Vivian 1990）。",
+          "Literature frames Pueblo Bonito as one of Chaco Canyon's hallmark great houses (UNESCO 353; Vivian 1990).",
+          ["src-pueblo-unesco-chaco-353", "src-pueblo-vivian-1990"],
+          ["site-pueblo-bonito"], object_ids=["asm-pueblo-great-house-chaco"]),
+    claim("claim-pueblo-cliff-palace",
+          "悬崖宫殿被 NPS/教科文讨论为梅萨维德代表性崖居（UNESCO 27；NPS）。",
+          "Cliff Palace is discussed by NPS/UNESCO as a representative Mesa Verde cliff dwelling (UNESCO 27; NPS).",
+          ["src-pueblo-unesco-mesa-verde-27", "src-pueblo-nps-mesa-verde"],
+          ["site-pueblo-cliff-palace-orientation"], object_ids=["asm-pueblo-cliff-dwelling-frame"]),
+    claim("claim-pueblo-outliers",
+          "阿兹特克遗址与萨蒙等查科外围大屋在区域系统文献中讨论（Vivian 1990；Lekson）。",
+          "Aztec Ruins and Salmon among other Chacoan outlier great houses are discussed in regional-system literature (Vivian 1990; Lekson).",
+          ["src-pueblo-vivian-1990", "src-pueblo-lekson-2009"],
+          ["site-pueblo-aztec-ruins-orientation", "site-pueblo-salmon-ruins-orientation"]),
+    claim("claim-pueblo-phase-labels",
+          "Pecos 分类标签（编篮者、普韦布洛 II/III 等）用于西南年代学工作框架（Plog 2008）；绝对年代仍可修订。",
+          "Pecos Classification labels (Basketmaker, Pueblo II/III, etc.) structure Southwest chronology working frames (Plog 2008); absolute dates remain revisable.",
+          ["src-pueblo-plog-2008", "src-pueblo-lekson-2009"], [],
+          ["period-pueblo-basketmaker", "period-pueblo-ii-chaco", "period-pueblo-iii-mesa-verde"]),
+    claim("claim-pueblo-sebastian-politics",
+          "Sebastian 1992 讨论查科安萨齐社会政治演化模型（CUP）；模型与术语均可修订。",
+          "Sebastian 1992 discusses sociopolitical evolution models for Chaco Anasazi (CUP); models and ethnonyms remain revisable.",
+          ["src-pueblo-sebastian-orientation"], ["site-chaco-canyon"], ["period-pueblo-ii-chaco"]),
+  ],
+  "media": [
+    media("media-pueblo-unesco-chaco", "教科文：查科文化", "UNESCO: Chaco Culture",
+          "https://whc.unesco.org/en/list/353/", ["src-pueblo-unesco-chaco-353"], "UNESCO World Heritage Centre"),
+    media("media-pueblo-unesco-mv", "教科文：梅萨维德", "UNESCO: Mesa Verde",
+          "https://whc.unesco.org/en/list/27/", ["src-pueblo-unesco-mesa-verde-27"], "UNESCO World Heritage Centre"),
+    media("media-pueblo-nps-chaco", "NPS 查科文化历史公园", "NPS Chaco Culture NHP",
+          "https://www.nps.gov/chcu/learn/historyculture/index.htm", ["src-pueblo-nps-chaco-orientation"], "U.S. National Park Service"),
+  ],
+})
+
+print("batch1 ok")

@@ -1,0 +1,19 @@
+{
+  "id": "src-angkor-efeo-orientation",
+  "entity": "source",
+  "type": "web",
+  "citation": "École française d'Extrême-Orient — Angkor research orientation portals.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "T",
+  "notes": "EFEO institutional orientation; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

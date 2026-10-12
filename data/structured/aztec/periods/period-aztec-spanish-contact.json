@@ -1,0 +1,34 @@
+{
+  "id": "period-aztec-spanish-contact",
+  "entity": "period",
+  "names": {
+    "zh": "西班接触与征服窗",
+    "en": "Spanish contact and conquest window"
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "time": {
+    "label": "1519–1521 CE and early colonial aftermath",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "接触与征服工作窗。",
+    "en": "Contact and conquest working window."
+  },
+  "sources": [
+    "src-aztec-clendinnen-orientation",
+    "src-aztec-sahagun-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

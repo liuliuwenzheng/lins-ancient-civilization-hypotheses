@@ -1,0 +1,32 @@
+{
+  "id": "site-angkor-baphuon-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "巴普昂寺（指针）",
+    "en": "Baphuon (orientation)",
+    "native": "Baphuon"
+  },
+  "kind_note": "11th-century temple-mountain in Angkor Thom",
+  "region": "Angkor Thom, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "吴哥城内11世纪庙山指针。",
+    "en": "11th-century temple-mountain orientation in Angkor Thom."
+  },
+  "sources": [
+    "src-angkor-jacques-lafond-2007",
+    "src-angkor-freeman-jacques-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

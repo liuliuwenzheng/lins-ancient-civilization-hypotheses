@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-huaca-de-la-luna-sector",
+  "entity": "site",
+  "names": {
+    "zh": "月亮金字塔区（指针）",
+    "en": "Huaca de la Luna sector (orientation)",
+    "native": "Huaca de la Luna"
+  },
+  "kind_note": "Ceremonial platform with polychrome reliefs at Huacas de Moche",
+  "region": "Moche Valley, Peru",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "太阳月亮金字塔礼仪台地指针。",
+    "en": "Ceremonial platform with polychrome reliefs orientation."
+  },
+  "sources": [
+    "src-moche-huacas-project-web",
+    "src-moche-uceda-castillo-pubs",
+    "src-moche-chapdelaine-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

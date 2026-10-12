@@ -1,0 +1,30 @@
+{
+  "id": "claim-nuragic-trump",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Trump 等通识取向著作将努拉吉置于撒丁史前叙事（orientation source already in shell）。",
+    "en": "Trump and related accessible works place Nuragic culture in Sardinian prehistory narratives (orientation source already in shell)."
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nuragic-bronze-iron"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-trump-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

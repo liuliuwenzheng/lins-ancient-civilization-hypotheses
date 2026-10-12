@@ -1,0 +1,504 @@
+{
+  "civ_id": "civ-moche",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "莫切档案（library-seed-rich）：Quilter/Donnan/Castillo–Uceda + 太阳月亮金字塔项目；仍非埃及级密度。",
+    "en": "Moche archive (library-seed-rich): Quilter/Donnan/Castillo–Uceda + Huacas de Moche project; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-moche-chapdelaine-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Chapdelaine, Claude — Moche urbanism and Huacas de Moche residential archaeology.",
+      "url": null,
+      "notes": "Urbanism orientation."
+    },
+    {
+      "id": "src-moche-swenson-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Swenson, Edward — Moche politics, ritual violence, and hinterland studies.",
+      "url": null,
+      "notes": "Politics/ritual orientation."
+    },
+    {
+      "id": "src-moche-uceda-castillo-pubs",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Uceda, Santiago, and Luis Jaime Castillo — Huacas de Moche / San José de Moro project reports.",
+      "url": null,
+      "notes": "P-tradition project reports pointer; no invented locus numbers."
+    },
+    {
+      "id": "src-moche-benson-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Benson, Elizabeth P. — Moche iconography and art studies.",
+      "url": null,
+      "notes": "Iconography orientation."
+    },
+    {
+      "id": "src-moche-pillsbury-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Pillsbury, Joanne, ed. — Moche art and archaeology collections (National Gallery / related).",
+      "url": null,
+      "notes": "Art/archaeology orientation."
+    },
+    {
+      "id": "src-moche-alva-sipan-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Alva, Walter — Sipán royal tombs discovery publications.",
+      "url": null,
+      "notes": "Sipán discovery orientation; P/S boundary; no forged tomb inventories."
+    },
+    {
+      "id": "src-moche-bourget-jones-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bourget, Steve, and Kimberly L. Jones, eds. — The Art and Archaeology of the Moche.",
+      "url": null,
+      "notes": "Edited volume orientation (alongside Bourget 2006 already in shell)."
+    },
+    {
+      "id": "src-moche-lockard-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Lockard, Gregory — Moche chronology and southern Moche studies.",
+      "url": null,
+      "notes": "Chronology orientation."
+    },
+    {
+      "id": "src-moche-huacas-web-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "Proyecto Huacas del Sol y de la Luna — institutional project pages.",
+      "url": "https://www.huacasdemoche.pe/",
+      "notes": "Project portal; tier T; URL may redirect."
+    },
+    {
+      "id": "src-moche-shimada-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Shimada, Izumi — Andean metallurgy and north-coast craft production (comparative Moche context).",
+      "url": null,
+      "notes": "Craft/metallurgy comparative orientation."
+    }
+  ],
+  "fill_coords": {
+    "site-huacas-de-moche": {
+      "lat": -8.1322,
+      "lon": -78.9947,
+      "precision_note": "English Wikipedia primary coordinates for «Huaca del Sol»; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-moche-san-jose-moro-orientation",
+      "names": {
+        "zh": "圣何塞德莫罗（指针）",
+        "en": "San José de Moro (orientation)",
+        "native": "San José de Moro"
+      },
+      "kind_note": "Moche elite cemetery / priestess burials",
+      "region": "Jequetepeque Valley, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "莫切精英墓地/女祭司葬指针。",
+        "en": "Moche elite cemetery / priestess burial orientation."
+      },
+      "sources": [
+        "src-moche-castillo-uceda-orientation",
+        "src-moche-uceda-castillo-pubs",
+        "src-moche-quilter-2010"
+      ]
+    },
+    {
+      "id": "site-moche-el-brujo-orientation",
+      "names": {
+        "zh": "埃尔布鲁霍（指针）",
+        "en": "El Brujo (orientation)",
+        "native": "El Brujo"
+      },
+      "kind_note": "Moche ceremonial complex including Huaca Cao Viejo",
+      "region": "Chicama Valley, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "含曹维耶老金字塔的礼仪复合体指针。",
+        "en": "Ceremonial complex including Huaca Cao Viejo orientation."
+      },
+      "sources": [
+        "src-moche-quilter-2010",
+        "src-moche-bourget-2006"
+      ]
+    },
+    {
+      "id": "site-moche-pacatnamu-orientation",
+      "names": {
+        "zh": "帕卡特纳穆（指针）",
+        "en": "Pacatnamú (orientation)",
+        "native": "Pacatnamú"
+      },
+      "kind_note": "Multi-period coastal centre with Moche occupation",
+      "region": "Jequetepeque, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "含莫切占用的滨海多时段中心指针。",
+        "en": "Multi-period coastal centre with Moche occupation orientation."
+      },
+      "sources": [
+        "src-moche-donnan-mcclelland-1999",
+        "src-moche-quilter-2010"
+      ]
+    },
+    {
+      "id": "site-moche-galindo-orientation",
+      "names": {
+        "zh": "加林多（指针）",
+        "en": "Galindo (orientation)",
+        "native": "Galindo"
+      },
+      "kind_note": "Late Moche settlement in Moche Valley",
+      "region": "Moche Valley, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "莫切谷地晚期莫切聚落指针。",
+        "en": "Late Moche settlement orientation in Moche Valley."
+      },
+      "sources": [
+        "src-moche-lockard-orientation",
+        "src-moche-quilter-2010"
+      ]
+    },
+    {
+      "id": "site-moche-huaca-de-la-luna-sector",
+      "names": {
+        "zh": "月亮金字塔区（指针）",
+        "en": "Huaca de la Luna sector (orientation)",
+        "native": "Huaca de la Luna"
+      },
+      "kind_note": "Ceremonial platform with polychrome reliefs at Huacas de Moche",
+      "region": "Moche Valley, Peru",
+      "coords": null,
+      "summary": {
+        "zh": "太阳月亮金字塔礼仪台地指针。",
+        "en": "Ceremonial platform with polychrome reliefs orientation."
+      },
+      "sources": [
+        "src-moche-huacas-project-web",
+        "src-moche-uceda-castillo-pubs",
+        "src-moche-chapdelaine-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-moche-i-iii",
+      "names": {
+        "zh": "莫切 I–III 窗",
+        "en": "Moche I–III window"
+      },
+      "time": {
+        "label": "early EIP working band (phase labels debated)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Larco-derived phase labels; absolute and political models debated."
+      },
+      "summary": {
+        "zh": "早期莫切阶段工作窗。",
+        "en": "Early Moche phase working window."
+      },
+      "sources": [
+        "src-moche-donnan-mcclelland-1999",
+        "src-moche-lockard-orientation"
+      ]
+    },
+    {
+      "id": "period-moche-iv",
+      "names": {
+        "zh": "莫切 IV 繁荣窗",
+        "en": "Moche IV floruit window"
+      },
+      "time": {
+        "label": "mid EIP working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "莫切 IV 繁荣工作窗。",
+        "en": "Moche IV floruit working window."
+      },
+      "sources": [
+        "src-moche-quilter-2010",
+        "src-moche-donnan-mcclelland-1999"
+      ]
+    },
+    {
+      "id": "period-moche-v-late",
+      "names": {
+        "zh": "莫切 V / 晚期窗",
+        "en": "Moche V / late window"
+      },
+      "time": {
+        "label": "late EIP working band before Wari-period transitions",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "晚期莫切与过渡工作窗。",
+        "en": "Late Moche and transition working window."
+      },
+      "sources": [
+        "src-moche-lockard-orientation",
+        "src-moche-quilter-2010"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-moche-huaca-platforms-frame",
+      "names": {
+        "zh": "太阳月亮金字塔台地框架",
+        "en": "Huacas del Sol y de la Luna platform frame"
+      },
+      "site_ids": [
+        "site-huacas-de-moche",
+        "site-moche-huaca-de-la-luna-sector"
+      ],
+      "period_ids": [
+        "period-moche-eip-floruit"
+      ],
+      "sources": [
+        "src-moche-huacas-project-web",
+        "src-moche-uceda-castillo-pubs"
+      ],
+      "summary": {
+        "zh": "莫切礼仪土坯台地指针。",
+        "en": "Moche ceremonial adobe platform pointer."
+      }
+    },
+    {
+      "id": "asm-moche-fineline-narrative-frame",
+      "names": {
+        "zh": "莫切细线彩陶框架",
+        "en": "Moche fineline ceramic frame"
+      },
+      "site_ids": [
+        "site-huacas-de-moche"
+      ],
+      "period_ids": [
+        "period-moche-iv",
+        "period-moche-eip-floruit"
+      ],
+      "sources": [
+        "src-moche-donnan-mcclelland-1999",
+        "src-moche-benson-orientation"
+      ],
+      "summary": {
+        "zh": "细线叙事彩陶传统指针；无伪造器号。",
+        "en": "Fineline narrative ceramic tradition pointer; no forged vessel numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-moche-quilter-synthesis",
+      "kind": "fact",
+      "statement": {
+        "zh": "Quilter 2010 提供莫切的通识考古综合（Thames & Hudson）。",
+        "en": "Quilter 2010 provides an accessible archaeological synthesis of the Moche (Thames & Hudson)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-moche-eip-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-moche-quilter-2010"
+      ]
+    },
+    {
+      "id": "claim-moche-donnan-fineline",
+      "kind": "fact",
+      "statement": {
+        "zh": "Donnan & McClelland 1999 建立莫切细线彩陶研究的重要图录—分析框架。",
+        "en": "Donnan & McClelland 1999 establish a major corpus–analysis frame for Moche fineline ceramics."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-moche-iv"
+      ],
+      "object_ids": [
+        "asm-moche-fineline-narrative-frame"
+      ],
+      "sources": [
+        "src-moche-donnan-mcclelland-1999"
+      ]
+    },
+    {
+      "id": "claim-moche-huacas-project",
+      "kind": "fact",
+      "statement": {
+        "zh": "太阳月亮金字塔长期项目以发掘报告与门户持续公布莫切礼仪中心研究（Uceda/Castillo tradition；project web）。",
+        "en": "Huacas de Moche long-term project continuously publishes research on the Moche ceremonial centre (Uceda/Castillo tradition; project web)."
+      },
+      "site_ids": [
+        "site-huacas-de-moche",
+        "site-moche-huaca-de-la-luna-sector"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-moche-huaca-platforms-frame"
+      ],
+      "sources": [
+        "src-moche-huacas-project-web",
+        "src-moche-uceda-castillo-pubs"
+      ]
+    },
+    {
+      "id": "claim-moche-sipan",
+      "kind": "fact",
+      "statement": {
+        "zh": "西潘在文献中作为莫切精英墓葬发现的关键案例讨论（Alva orientation；Quilter 2010）。",
+        "en": "Sipán is discussed as a foundational Moche elite tomb discovery case (Alva orientation; Quilter 2010)."
+      },
+      "site_ids": [
+        "site-sipan-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-moche-alva-sipan-orientation",
+        "src-moche-quilter-2010"
+      ]
+    },
+    {
+      "id": "claim-moche-san-jose-moro",
+      "kind": "fact",
+      "statement": {
+        "zh": "圣何塞德莫罗以莫切女祭司等精英葬仪闻名，见于 Castillo–Uceda 项目传统。",
+        "en": "San José de Moro is known for Moche priestess and other elite mortuary contexts in the Castillo–Uceda project tradition."
+      },
+      "site_ids": [
+        "site-moche-san-jose-moro-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-moche-castillo-uceda-orientation",
+        "src-moche-uceda-castillo-pubs"
+      ]
+    },
+    {
+      "id": "claim-moche-bourget-sacrifice",
+      "kind": "fact",
+      "statement": {
+        "zh": "Bourget 2006 等研究讨论莫切仪式与献祭图像—考古（University of Texas Press tradition）。",
+        "en": "Bourget 2006 and related work discuss Moche ritual and sacrifice in image and archaeology (University of Texas Press tradition)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-moche-eip-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-moche-bourget-2006"
+      ]
+    },
+    {
+      "id": "claim-moche-el-brujo",
+      "kind": "fact",
+      "statement": {
+        "zh": "埃尔布鲁霍复合体（含曹维耶老金字塔）是奇卡马谷地莫切礼仪中心指针（Quilter；Bourget）。",
+        "en": "El Brujo complex (including Huaca Cao Viejo) is a Chicama Valley Moche ceremonial-centre orientation (Quilter; Bourget)."
+      },
+      "site_ids": [
+        "site-moche-el-brujo-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-moche-quilter-2010",
+        "src-moche-bourget-2006"
+      ]
+    },
+    {
+      "id": "claim-moche-phase-labels",
+      "kind": "fact",
+      "statement": {
+        "zh": "Larco 衍生的莫切 I–V 阶段标签仍广泛使用，但政治统一性与绝对年代争论开放（Donnan；Lockard；Quilter）。",
+        "en": "Larco-derived Moche I–V phase labels remain widely used, but political unity and absolute dating debates are open (Donnan; Lockard; Quilter)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-moche-i-iii",
+        "period-moche-iv",
+        "period-moche-v-late"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-moche-donnan-mcclelland-1999",
+        "src-moche-lockard-orientation",
+        "src-moche-quilter-2010"
+      ]
+    },
+    {
+      "id": "claim-moche-chapdelaine-urban",
+      "kind": "fact",
+      "statement": {
+        "zh": "Chapdelaine 等讨论太阳月亮金字塔周边的莫切城市居住考古。",
+        "en": "Chapdelaine and colleagues discuss Moche urban residential archaeology around Huacas de Moche."
+      },
+      "site_ids": [
+        "site-huacas-de-moche"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-moche-chapdelaine-orientation",
+        "src-moche-huacas-project-web"
+      ]
+    },
+    {
+      "id": "claim-moche-north-coast-polities-dense",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合著作将莫切表述为秘鲁北岸早期中间期多中心政体传统，而非单一帝国必然（Quilter 2010；Castillo–Uceda）。",
+        "en": "Syntheses frame Moche as an Early Intermediate Period north-coast multi-centre polity tradition rather than a necessary single empire (Quilter 2010; Castillo–Uceda)."
+      },
+      "site_ids": [
+        "site-huacas-de-moche",
+        "site-sipan-orientation"
+      ],
+      "period_ids": [
+        "period-moche-eip-floruit"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-moche-quilter-2010",
+        "src-moche-castillo-uceda-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-moche-huacas-portal",
+      "title": {
+        "zh": "太阳月亮金字塔项目门户",
+        "en": "Huacas de Moche project portal",
+        "native": null
+      },
+      "external_url": "https://www.huacasdemoche.pe/",
+      "sources": [
+        "src-moche-huacas-web-docs",
+        "src-moche-huacas-project-web"
+      ],
+      "attribution": "Proyecto Huacas del Sol y de la Luna",
+      "media_type": "document-link"
+    }
+  ]
+}

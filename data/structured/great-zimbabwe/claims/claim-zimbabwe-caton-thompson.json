@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-caton-thompson",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Caton-Thompson 1931 发掘专著确立大津巴布韦为非洲本地建造传统的关键田野论证（Clarendon）。",
+    "en": "Caton-Thompson 1931 excavation monograph established a foundational field case for Great Zimbabwe as a local African building tradition (Clarendon)."
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-great-zimbabwe-monument"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-caton-thompson-1931"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -2,7 +2,7 @@
   "id": "civ-moche",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "莫切",
     "en": "Moche",
@@ -11,28 +11,58 @@
   "region": "South America / north coast Peru (Moche–Chicama–Lambayeque valleys)",
   "time_span": "Early Intermediate / Moche florescence broadly 1st–8th centuries CE (Quilter / Castillo frames)",
   "summary": {
-    "zh": "莫切档案壳：Quilter/Castillo + 太阳/月亮金字塔发掘传统；library-seed。",
-    "en": "Moche archive shell: Quilter/Castillo + Huacas de Moche excavation tradition; library-seed."
+    "zh": "莫切档案（library-seed-rich）：Quilter/Donnan/Castillo–Uceda + 太阳月亮金字塔项目；仍非埃及级密度。",
+    "en": "Moche archive (library-seed-rich): Quilter/Donnan/Castillo–Uceda + Huacas de Moche project; not yet Egypt-level density."
   },
   "sources": [
-    "src-moche-quilter-2010",
-    "src-moche-castillo-uceda-orientation",
-    "src-moche-donnan-mcclelland-1999",
+    "src-moche-alva-sipan-orientation",
+    "src-moche-benson-orientation",
     "src-moche-bourget-2006",
-    "src-moche-huacas-project-web"
+    "src-moche-bourget-jones-orientation",
+    "src-moche-castillo-uceda-orientation",
+    "src-moche-chapdelaine-orientation",
+    "src-moche-donnan-mcclelland-1999",
+    "src-moche-huacas-project-web",
+    "src-moche-huacas-web-docs",
+    "src-moche-lockard-orientation",
+    "src-moche-pillsbury-orientation",
+    "src-moche-quilter-2010",
+    "src-moche-shimada-orientation",
+    "src-moche-swenson-orientation",
+    "src-moche-uceda-castillo-pubs"
   ],
   "site_ids": [
     "site-huacas-de-moche",
+    "site-moche-el-brujo-orientation",
+    "site-moche-galindo-orientation",
+    "site-moche-huaca-de-la-luna-sector",
+    "site-moche-pacatnamu-orientation",
+    "site-moche-san-jose-moro-orientation",
     "site-sipan-orientation"
   ],
   "period_ids": [
-    "period-moche-eip-floruit"
+    "period-moche-eip-floruit",
+    "period-moche-i-iii",
+    "period-moche-iv",
+    "period-moche-v-late"
   ],
   "claim_ids": [
-    "claim-moche-north-coast-polities"
+    "claim-moche-bourget-sacrifice",
+    "claim-moche-chapdelaine-urban",
+    "claim-moche-donnan-fineline",
+    "claim-moche-el-brujo",
+    "claim-moche-huacas-project",
+    "claim-moche-north-coast-polities",
+    "claim-moche-north-coast-polities-dense",
+    "claim-moche-phase-labels",
+    "claim-moche-quilter-synthesis",
+    "claim-moche-san-jose-moro",
+    "claim-moche-sipan"
   ],
   "object_ids": [
-    "asm-moche-fineline-ceramic-frame"
+    "asm-moche-fineline-ceramic-frame",
+    "asm-moche-fineline-narrative-frame",
+    "asm-moche-huaca-platforms-frame"
   ],
   "related_ids": [
     "civ-andes",
@@ -42,11 +72,11 @@
   "markdown_path": "data/civilizations/civ-moche.md",
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

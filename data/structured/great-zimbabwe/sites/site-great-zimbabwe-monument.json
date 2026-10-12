@@ -20,7 +20,11 @@
     "src-zimbabwe-pikirayi-2001",
     "src-zimbabwe-garlake-1973"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -20.266667,
+    "lon": 30.933333,
+    "precision_note": "English Wikipedia primary coordinates for «Great Zimbabwe»; access 2026-10-12 (UNESCO WH list 364 orientation site)"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave3_shells/generate_wave3.py",
@@ -28,6 +32,6 @@
       "docs/decisions.md#d-2026-10-12-15"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-17."
   }
 }

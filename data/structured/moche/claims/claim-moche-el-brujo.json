@@ -1,0 +1,31 @@
+{
+  "id": "claim-moche-el-brujo",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "埃尔布鲁霍复合体（含曹维耶老金字塔）是奇卡马谷地莫切礼仪中心指针（Quilter；Bourget）。",
+    "en": "El Brujo complex (including Huaca Cao Viejo) is a Chicama Valley Moche ceremonial-centre orientation (Quilter; Bourget)."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-el-brujo-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-quilter-2010",
+    "src-moche-bourget-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

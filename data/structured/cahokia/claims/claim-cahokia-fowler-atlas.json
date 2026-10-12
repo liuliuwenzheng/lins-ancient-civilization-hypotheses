@@ -1,0 +1,31 @@
+{
+  "id": "claim-cahokia-fowler-atlas",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Fowler 图集建立卡霍基亚土墩编号与发掘史的基础田野框架（Fowler 1997）。",
+    "en": "Fowler's atlas establishes a foundational field frame for Cahokia mound numbering and excavation history (Fowler 1997)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-monks-mound",
+    "site-cahokia-mound-72-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-fowler-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

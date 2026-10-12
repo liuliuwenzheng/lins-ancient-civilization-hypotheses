@@ -1,0 +1,45 @@
+{
+  "id": "asm-waf-mudbrick-urban-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "萨赫勒泥砖城市框架组合",
+    "en": "Sahelian mudbrick urban frame"
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-djenne-old-towns",
+    "site-timbuktu-medieval"
+  ],
+  "period_ids": [
+    "period-west-africa-sahelian-empires"
+  ],
+  "summary": {
+    "zh": "泥砖城市建筑传统指针。",
+    "en": "Mudbrick urban architectural tradition pointer."
+  },
+  "sources": [
+    "src-waf-unesco-djenne-116",
+    "src-waf-unesco-timbuktu-119",
+    "src-waf-mcintosh-2005"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

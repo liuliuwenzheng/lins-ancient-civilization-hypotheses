@@ -1,0 +1,33 @@
+{
+  "id": "claim-pueblo-bonito-greathouse",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "文献将普韦布洛博尼托表述为查科峡谷标志性大屋之一（UNESCO 353；Vivian 1990）。",
+    "en": "Literature frames Pueblo Bonito as one of Chaco Canyon's hallmark great houses (UNESCO 353; Vivian 1990)."
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-bonito"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-pueblo-great-house-chaco"
+  ],
+  "sources": [
+    "src-pueblo-unesco-chaco-353",
+    "src-pueblo-vivian-1990"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

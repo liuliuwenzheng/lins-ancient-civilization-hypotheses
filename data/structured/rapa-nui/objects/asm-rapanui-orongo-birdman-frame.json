@@ -1,0 +1,43 @@
+{
+  "id": "asm-rapanui-orongo-birdman-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "奥龙戈鸟人礼仪框架",
+    "en": "Orongo birdman ritual frame"
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-orongo-orientation"
+  ],
+  "period_ids": [
+    "period-rapanui-birdman"
+  ],
+  "summary": {
+    "zh": "鸟人礼仪村寨指针。",
+    "en": "Birdman ritual village pointer."
+  },
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-routledge-1919"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-tenochtitlan-island-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "特诺奇蒂特兰岛城（指针）",
+    "en": "Tenochtitlan island city (orientation)",
+    "native": "Tenochtitlan"
+  },
+  "kind_note": "Mexica island capital under modern Mexico City",
+  "region": "Basin of Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "墨西卡岛都指针（叠压于现代墨西哥城）。",
+    "en": "Mexica island-capital orientation (under modern Mexico City)."
+  },
+  "sources": [
+    "src-aztec-unesco-mexico-city-412",
+    "src-aztec-smith-2012",
+    "src-aztec-matos-templo-mayor"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

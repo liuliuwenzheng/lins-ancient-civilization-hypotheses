@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-hariharalaya-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "哈里哈拉洛耶/罗洛士（指针）",
+    "en": "Hariharalaya / Roluos (orientation)",
+    "native": "Hariharalaya"
+  },
+  "kind_note": "Early Angkorian capital zone",
+  "region": "Roluos group, Cambodia",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "早期吴哥都城区指针。",
+    "en": "Early Angkorian capital-zone orientation."
+  },
+  "sources": [
+    "src-angkor-higham-orientation",
+    "src-angkor-jacques-lafond-2007",
+    "src-angkor-coe-evans-2018"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

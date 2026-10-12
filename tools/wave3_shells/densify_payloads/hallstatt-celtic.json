@@ -1,0 +1,527 @@
+{
+  "civ_id": "civ-hallstatt-celtic",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "哈尔施塔特档案（library-seed-rich）：Cunliffe/Collis/Kristiansen + 教科文盐矿景观；仍非埃及级密度。",
+    "en": "Hallstatt archive (library-seed-rich): Cunliffe/Collis/Kristiansen + UNESCO salt landscape; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-hallstatt-wells-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Wells, Peter S. — Iron Age Europe and Hallstatt/La Tène settlement studies.",
+      "url": null,
+      "notes": "Iron Age settlement orientation."
+    },
+    {
+      "id": "src-hallstatt-megaw-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Megaw, Ruth, and Vincent Megaw — Celtic art surveys including Hallstatt–La Tène metalwork.",
+      "url": null,
+      "notes": "Art/metalwork orientation."
+    },
+    {
+      "id": "src-hallstatt-hodson-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Hodson, F. R. — Hallstatt cemetery chronology and typology studies.",
+      "url": null,
+      "notes": "Cemetery chronology orientation."
+    },
+    {
+      "id": "src-hallstatt-egg-kramer-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Egg, Markus, and Konrad Kramer / NHM Wien — Hallstatt cemetery publication tradition.",
+      "url": null,
+      "notes": "Natural History Museum Vienna cemetery publication orientation."
+    },
+    {
+      "id": "src-hallstatt-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Hallstatt-Dachstein / Salzkammergut Cultural Landscape — documents. https://whc.unesco.org/en/list/806/documents/",
+      "url": "https://whc.unesco.org/en/list/806/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-hallstatt-pare-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Pare, Christopher — Hallstatt wagon and elite burial studies.",
+      "url": null,
+      "notes": "Wagon burial orientation."
+    },
+    {
+      "id": "src-hallstatt-dietler-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Dietler, Michael — consumption, identity, and Iron Age Europe (Hallstatt/La Tène contact studies).",
+      "url": null,
+      "notes": "Consumption/contact orientation."
+    },
+    {
+      "id": "src-hallstatt-fontijn-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Fontijn, David — deposition and ritual in later prehistoric Europe (comparative for Hallstatt elite ritual).",
+      "url": null,
+      "notes": "Deposition/ritual comparative orientation."
+    },
+    {
+      "id": "src-hallstatt-biel-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Biel, Jörg — Hochdorf princely burial excavation publications.",
+      "url": null,
+      "notes": "Hochdorf P-tradition pointer; no invented inventory numbers."
+    },
+    {
+      "id": "src-hallstatt-nhm-web",
+      "type": "web",
+      "tier": "T",
+      "citation": "Naturhistorisches Museum Wien — Hallstatt research / collection orientation pages.",
+      "url": "https://www.nhm-wien.ac.at/",
+      "notes": "Museum institutional portal; tier T."
+    }
+  ],
+  "fill_coords": {
+    "site-hallstatt-type": {
+      "lat": 47.562,
+      "lon": 13.649,
+      "precision_note": "English Wikipedia primary coordinates for «Hallstatt»; access 2026-10-12 (UNESCO WH list 806 orientation site)"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-hallstatt-hochdorf-orientation",
+      "names": {
+        "zh": "霍赫多夫王侯墓（指针）",
+        "en": "Hochdorf princely burial (orientation)",
+        "native": "Hochdorf"
+      },
+      "kind_note": "Hallstatt-period elite wagon burial",
+      "region": "Baden-Württemberg, Germany",
+      "coords": null,
+      "summary": {
+        "zh": "哈尔施塔特期精英车葬指针。",
+        "en": "Hallstatt-period elite wagon-burial orientation."
+      },
+      "sources": [
+        "src-hallstatt-biel-orientation",
+        "src-hallstatt-pare-orientation",
+        "src-hallstatt-cunliffe-1997"
+      ]
+    },
+    {
+      "id": "site-hallstatt-heuneburg-orientation",
+      "names": {
+        "zh": "霍伊内堡（指针）",
+        "en": "Heuneburg (orientation)",
+        "native": "Heuneburg"
+      },
+      "kind_note": "Early Iron Age fortified centre / Fürstensitz debates",
+      "region": "Danube, Germany",
+      "coords": null,
+      "summary": {
+        "zh": "早期铁器设防中心/王侯座讨论指针。",
+        "en": "Early Iron Age fortified centre / princely-seat debate orientation."
+      },
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-wells-orientation",
+        "src-hallstatt-collis-2003"
+      ]
+    },
+    {
+      "id": "site-hallstatt-vix-orientation",
+      "names": {
+        "zh": "维克斯/蒙拉索瓦（指针）",
+        "en": "Vix / Mont Lassois (orientation)",
+        "native": "Vix"
+      },
+      "kind_note": "Hallstatt elite burial and hillfort complex",
+      "region": "Burgundy, France",
+      "coords": null,
+      "summary": {
+        "zh": "哈尔施塔特精英葬与山城指针。",
+        "en": "Hallstatt elite burial and hillfort orientation."
+      },
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-megaw-orientation"
+      ]
+    },
+    {
+      "id": "site-hallstatt-salt-mines-orientation",
+      "names": {
+        "zh": "哈尔施塔特盐矿（指针）",
+        "en": "Hallstatt salt mines (orientation)",
+        "native": null
+      },
+      "kind_note": "Prehistoric salt-mining landscape",
+      "region": "Hallstatt, Austria",
+      "coords": null,
+      "summary": {
+        "zh": "史前盐矿景观指针。",
+        "en": "Prehistoric salt-mining landscape orientation."
+      },
+      "sources": [
+        "src-hallstatt-unesco-806",
+        "src-hallstatt-nhm-vienna-orientation",
+        "src-hallstatt-egg-kramer-orientation"
+      ]
+    },
+    {
+      "id": "site-hallstatt-cemetery-orientation",
+      "names": {
+        "zh": "哈尔施塔特墓地（指针）",
+        "en": "Hallstatt cemetery (orientation)",
+        "native": null
+      },
+      "kind_note": "Type-site cemetery for Hallstatt culture chronology",
+      "region": "Hallstatt, Austria",
+      "coords": null,
+      "summary": {
+        "zh": "文化定名墓地指针。",
+        "en": "Type-site cemetery orientation for Hallstatt chronology."
+      },
+      "sources": [
+        "src-hallstatt-hodson-orientation",
+        "src-hallstatt-egg-kramer-orientation",
+        "src-hallstatt-nhm-vienna-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-hallstatt-c",
+      "names": {
+        "zh": "哈尔施塔特 C 窗",
+        "en": "Hallstatt C window"
+      },
+      "time": {
+        "label": "ca. 800–600 BCE working band (Ha C labels)",
+        "approx_from_bce": 800,
+        "approx_to_bce": 600,
+        "scheme_note": "Hallstatt relative chronology labels; absolute refine later."
+      },
+      "summary": {
+        "zh": "哈尔施塔特 C 工作窗。",
+        "en": "Hallstatt C working window."
+      },
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-hodson-orientation"
+      ]
+    },
+    {
+      "id": "period-hallstatt-d",
+      "names": {
+        "zh": "哈尔施塔特 D 窗",
+        "en": "Hallstatt D window"
+      },
+      "time": {
+        "label": "ca. 600–450 BCE working band (Ha D / princely burials)",
+        "approx_from_bce": 600,
+        "approx_to_bce": 450,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "王侯葬繁荣工作窗。",
+        "en": "Princely-burial floruit working window."
+      },
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-biel-orientation"
+      ]
+    },
+    {
+      "id": "period-early-latene",
+      "names": {
+        "zh": "早期拉坦诺窗",
+        "en": "Early La Tène window"
+      },
+      "time": {
+        "label": "ca. 450–300 BCE working band (LT A/B labels)",
+        "approx_from_bce": 450,
+        "approx_to_bce": 300,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "早期拉坦诺过渡窗。",
+        "en": "Early La Tène transition window."
+      },
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-collis-2003"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-hallstatt-salt-mine-frame",
+      "names": {
+        "zh": "哈尔施塔特盐矿—墓地框架",
+        "en": "Hallstatt salt-mine / cemetery frame"
+      },
+      "site_ids": [
+        "site-hallstatt-type",
+        "site-hallstatt-salt-mines-orientation",
+        "site-hallstatt-cemetery-orientation"
+      ],
+      "period_ids": [
+        "period-hallstatt-cd-early-latene"
+      ],
+      "sources": [
+        "src-hallstatt-unesco-806",
+        "src-hallstatt-nhm-vienna-orientation"
+      ],
+      "summary": {
+        "zh": "盐矿与定名墓地景观指针。",
+        "en": "Salt-mine and type-cemetery landscape pointer."
+      }
+    },
+    {
+      "id": "asm-hallstatt-princely-burial-frame",
+      "names": {
+        "zh": "王侯车葬框架组合",
+        "en": "Princely wagon-burial frame"
+      },
+      "site_ids": [
+        "site-hallstatt-hochdorf-orientation",
+        "site-hallstatt-vix-orientation"
+      ],
+      "period_ids": [
+        "period-hallstatt-d"
+      ],
+      "sources": [
+        "src-hallstatt-biel-orientation",
+        "src-hallstatt-pare-orientation",
+        "src-hallstatt-cunliffe-1997"
+      ],
+      "summary": {
+        "zh": "精英车葬传统指针；无伪造器物号。",
+        "en": "Elite wagon-burial tradition pointer; no forged inventory numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-hallstatt-unesco",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将哈尔施塔特–达赫施泰因/萨尔茨卡默古特文化景观列入世界遗产，强调史前盐业与聚落（UNESCO 806）。",
+        "en": "UNESCO lists Hallstatt-Dachstein / Salzkammergut Cultural Landscape as World Heritage, emphasizing prehistoric salt industry and settlement (UNESCO 806)."
+      },
+      "site_ids": [
+        "site-hallstatt-type"
+      ],
+      "period_ids": [
+        "period-hallstatt-cd-early-latene"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-unesco-806"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-cunliffe",
+      "kind": "fact",
+      "statement": {
+        "zh": "Cunliffe 1997 综合古代凯尔特人框架中讨论哈尔施塔特与拉坦诺铁器时代（Oxford/ Penguin 传统）。",
+        "en": "Cunliffe 1997 discusses Hallstatt and La Tène Iron Age within a synthesis of the ancient Celts (Oxford/Penguin tradition)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-hallstatt-cd-early-latene"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-cunliffe-1997"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-collis",
+      "kind": "fact",
+      "statement": {
+        "zh": "Collis 2003 批判性讨论“凯尔特人”概念与铁器时代考古（Tempus / later editions）。",
+        "en": "Collis 2003 critically discusses the concept of the Celts and Iron Age archaeology (Tempus / later editions)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-hallstatt-cd-early-latene"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-collis-2003"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-kristiansen",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kristiansen & Larsson 2005 在青铜–铁器欧洲远距离互动框架中讨论哈尔施塔特精英网络（CUP）。",
+        "en": "Kristiansen & Larsson 2005 discuss Hallstatt elite networks within Bronze–Iron Age European long-distance interaction (CUP)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-hallstatt-d"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-kristiansen-larsson-2005"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-hochdorf",
+      "kind": "fact",
+      "statement": {
+        "zh": "霍赫多夫王侯墓是哈尔施塔特 D 期精英车葬的关键发掘案例（Biel publication tradition）。",
+        "en": "Hochdorf princely burial is a foundational excavation case of Hallstatt D elite wagon burial (Biel publication tradition)."
+      },
+      "site_ids": [
+        "site-hallstatt-hochdorf-orientation"
+      ],
+      "period_ids": [
+        "period-hallstatt-d"
+      ],
+      "object_ids": [
+        "asm-hallstatt-princely-burial-frame"
+      ],
+      "sources": [
+        "src-hallstatt-biel-orientation",
+        "src-hallstatt-pare-orientation"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-heuneburg",
+      "kind": "fact",
+      "statement": {
+        "zh": "霍伊内堡在文献中作为早期铁器设防中心/王侯座候选讨论（Cunliffe；Wells）。",
+        "en": "Heuneburg is discussed as an Early Iron Age fortified centre / princely-seat candidate (Cunliffe; Wells)."
+      },
+      "site_ids": [
+        "site-hallstatt-heuneburg-orientation"
+      ],
+      "period_ids": [
+        "period-hallstatt-d"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-wells-orientation"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-vix",
+      "kind": "fact",
+      "statement": {
+        "zh": "维克斯/蒙拉索瓦复合体以精英葬与进口器物闻名，见于凯尔特艺术与铁器综合（Cunliffe；Megaw）。",
+        "en": "Vix / Mont Lassois complex is famous for elite burial and imports in Celtic art and Iron Age syntheses (Cunliffe; Megaw)."
+      },
+      "site_ids": [
+        "site-hallstatt-vix-orientation"
+      ],
+      "period_ids": [
+        "period-hallstatt-d"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-megaw-orientation"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-salt-cemetery",
+      "kind": "fact",
+      "statement": {
+        "zh": "哈尔施塔特盐矿与定名墓地构成文化编年的类型学基础，见 NHM Wien 与教科文描述（UNESCO 806；NHM）。",
+        "en": "Hallstatt salt mines and type cemetery underpin cultural chronology typology in NHM Wien and UNESCO descriptions (UNESCO 806; NHM)."
+      },
+      "site_ids": [
+        "site-hallstatt-salt-mines-orientation",
+        "site-hallstatt-cemetery-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-hallstatt-salt-mine-frame"
+      ],
+      "sources": [
+        "src-hallstatt-unesco-806",
+        "src-hallstatt-nhm-vienna-orientation",
+        "src-hallstatt-hodson-orientation"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-phase-labels",
+      "kind": "fact",
+      "statement": {
+        "zh": "哈尔施塔特 C/D 与早期拉坦诺相对年代标签用于欧洲早期铁器编年（Cunliffe 1997）；绝对年代仍可修订。",
+        "en": "Hallstatt C/D and Early La Tène relative chronology labels structure Early Iron Age Europe (Cunliffe 1997); absolute dates remain revisable."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-hallstatt-c",
+        "period-hallstatt-d",
+        "period-early-latene"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-cunliffe-1997",
+        "src-hallstatt-hodson-orientation"
+      ]
+    },
+    {
+      "id": "claim-hallstatt-type-site",
+      "kind": "fact",
+      "statement": {
+        "zh": "奥地利哈尔施塔特作为哈尔施塔特文化定名遗址，盐业—墓地景观见教科文与博物馆取向（UNESCO 806；NHM）。",
+        "en": "Hallstatt in Austria is the type site of Hallstatt culture; salt–cemetery landscape per UNESCO and museum orientation (UNESCO 806; NHM)."
+      },
+      "site_ids": [
+        "site-hallstatt-type"
+      ],
+      "period_ids": [
+        "period-hallstatt-cd-early-latene"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-hallstatt-unesco-806",
+        "src-hallstatt-nhm-vienna-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-hallstatt-unesco",
+      "title": {
+        "zh": "教科文：哈尔施塔特文化景观",
+        "en": "UNESCO: Hallstatt cultural landscape",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/806/",
+      "sources": [
+        "src-hallstatt-unesco-806"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-hallstatt-nhm",
+      "title": {
+        "zh": "维也纳自然史博物馆门户",
+        "en": "NHM Vienna portal",
+        "native": null
+      },
+      "external_url": "https://www.nhm-wien.ac.at/",
+      "sources": [
+        "src-hallstatt-nhm-web"
+      ],
+      "attribution": "Naturhistorisches Museum Wien",
+      "media_type": "document-link"
+    }
+  ]
+}

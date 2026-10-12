@@ -1,0 +1,32 @@
+{
+  "id": "site-rapanui-puna-pau-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "普纳保（指针）",
+    "en": "Puna Pau (orientation)",
+    "native": "Puna Pau"
+  },
+  "kind_note": "Red scoria pukao quarry",
+  "region": "Rapa Nui",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "红色火山渣顶髻采石场指针。",
+    "en": "Red scoria pukao quarry orientation."
+  },
+  "sources": [
+    "src-rapanui-van-tilburg-1994",
+    "src-rapanui-unesco-715"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

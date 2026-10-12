@@ -1,0 +1,32 @@
+{
+  "id": "site-cahokia-powell-mound-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "鲍威尔丘等相关土墩（指针）",
+    "en": "Powell Mound and related mounds (orientation)",
+    "native": null
+  },
+  "kind_note": "Mississippian mound group within Cahokia landscape",
+  "region": "American Bottom, Illinois",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "卡霍基亚景观内相关土墩指针。",
+    "en": "Related mound orientation within Cahokia landscape."
+  },
+  "sources": [
+    "src-cahokia-fowler-1997",
+    "src-cahokia-pauketat-2009"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

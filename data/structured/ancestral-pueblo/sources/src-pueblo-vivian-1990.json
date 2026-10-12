@@ -1,0 +1,19 @@
+{
+  "id": "src-pueblo-vivian-1990",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Vivian, R. Gwinn. 1990. The Chacoan Prehistory of the San Juan Basin. San Diego: Academic Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Chacoan prehistory synthesis; print.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

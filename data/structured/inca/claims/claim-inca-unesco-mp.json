@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-unesco-mp",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将马丘比丘历史圣地列入世界遗产（UNESCO 274）。",
+    "en": "UNESCO lists the Historic Sanctuary of Machu Picchu as World Heritage (UNESCO 274)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-machu-picchu"
+  ],
+  "period_ids": [
+    "period-inca-imperial-apex"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-unesco-machu-picchu-274"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

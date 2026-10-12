@@ -1,0 +1,33 @@
+{
+  "id": "claim-pueblo-phase-labels",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pecos 分类标签（编篮者、普韦布洛 II/III 等）用于西南年代学工作框架（Plog 2008）；绝对年代仍可修订。",
+    "en": "Pecos Classification labels (Basketmaker, Pueblo II/III, etc.) structure Southwest chronology working frames (Plog 2008); absolute dates remain revisable."
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-pueblo-basketmaker",
+    "period-pueblo-ii-chaco",
+    "period-pueblo-iii-mesa-verde"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-plog-2008",
+    "src-pueblo-lekson-2009"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

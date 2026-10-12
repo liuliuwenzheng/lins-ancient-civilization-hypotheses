@@ -1,0 +1,32 @@
+{
+  "id": "claim-cahokia-unesco-listed",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将卡霍基亚土墩历史遗址列入世界遗产，强调密西西比文化巨型土墩与城市规划（UNESCO 198）。",
+    "en": "UNESCO lists Cahokia Mounds State Historic Site as World Heritage, emphasizing Mississippian monumental mounds and urban planning (UNESCO 198)."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-monks-mound"
+  ],
+  "period_ids": [
+    "period-cahokia-mississippian-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-unesco-198"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

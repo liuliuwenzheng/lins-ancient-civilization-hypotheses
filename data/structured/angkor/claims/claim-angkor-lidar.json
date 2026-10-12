@@ -1,0 +1,31 @@
+{
+  "id": "claim-angkor-lidar",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Evans 等机载激光雷达研究揭示大吴哥低密度城市延伸（PNAS 等；与 shell lidar 源并立）。",
+    "en": "Evans et al. airborne laser scanning reveals Greater Angkor low-density urban extent (PNAS et al.; alongside shell lidar source)."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-hydraulic-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-evans-lidar-orientation",
+    "src-angkor-evans-pnas-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

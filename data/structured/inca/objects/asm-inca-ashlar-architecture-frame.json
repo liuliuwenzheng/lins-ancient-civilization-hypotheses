@@ -1,0 +1,47 @@
+{
+  "id": "asm-inca-ashlar-architecture-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "印加精细石作建筑框架",
+    "en": "Inca fine ashlar architecture frame"
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-cusco-inca",
+    "site-machu-picchu",
+    "site-inca-sacsayhuaman-orientation"
+  ],
+  "period_ids": [
+    "period-inca-late-horizon",
+    "period-inca-imperial-apex"
+  ],
+  "summary": {
+    "zh": "精细多边形石作传统指针。",
+    "en": "Fine polygonal ashlar tradition pointer."
+  },
+  "sources": [
+    "src-inca-unesco-cusco-273",
+    "src-inca-unesco-machu-picchu-274",
+    "src-inca-protzen-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

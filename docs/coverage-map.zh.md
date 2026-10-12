@@ -2,7 +2,7 @@
 
 [English](coverage-map.md) | 中文
 
-**决策：** [D-2026-10-12-12](decisions.zh.md)（第一波开壳）· [D-2026-10-12-13](decisions.zh.md)（第一波加厚）· [D-2026-10-12-14](decisions.zh.md)（第二波开壳）· [D-2026-10-12-15](decisions.zh.md)（第三波开壳）· [D-2026-10-12-16](decisions.zh.md)（第二波加厚）  
+**决策：** [D-2026-10-12-12](decisions.zh.md)（第一波开壳）· [D-2026-10-12-13](decisions.zh.md)（第一波加厚）· [D-2026-10-12-14](decisions.zh.md)（第二波开壳）· [D-2026-10-12-15](decisions.zh.md)（第三波开壳）· [D-2026-10-12-16](decisions.zh.md)（第二波加厚） · [D-2026-10-12-17](decisions.zh.md#d-2026-10-12-17--第三波加厚至-library-seed-rich)（第三波加厚）
 **审议：** [`deliberations/delib-2026-10-12-global-coverage.md`](../deliberations/delib-2026-10-12-global-coverage.md)
 
 ## 范围
@@ -36,8 +36,8 @@
 | **东南亚** | — | 东山（`library-seed-rich`）；班清（`library-seed-rich`）；吴哥（`library-seed`） | 扶南必要时拆分 | 1 已加厚；2 已开 |
 | **西非 / 萨赫勒** | — | 诺克（`library-seed-rich`）；西非中世纪、大津巴布韦（`library-seed`） | 伊费/贝宁 | 1 已加厚；2–3 |
 | **中美洲** | 奥尔梅克；早期玛雅 | 特奥蒂瓦坎；萨波特克（`library-seed-rich`）；经典玛雅（`library-seed-rich`）；阿兹特克（`library-seed`） | 米斯特克 | 1 已加厚；2 已开 |
-| **安第斯 / 南美** | 安第斯（卡拉尔–北奇科） | 查文；蒂瓦纳科；瓦里（`library-seed-rich`）；莫切；印加（`library-seed`） | — | 2 已开；3 以后 |
-| **大洋洲** | — | 拉皮塔（`library-seed-rich`）；拉帕努伊（`library-seed`） | 更广波利尼西亚酋邦 | 1 已加厚；3 |
+| **安第斯 / 南美** | 安第斯（卡拉尔–北奇科） | 查文；蒂瓦纳科；瓦里；莫切；印加（`library-seed-rich`） | — | 2 已开；3 以后 |
+| **大洋洲** | — | 拉皮塔；拉帕努伊（`library-seed-rich`） | 更广波利尼西亚酋邦 | 1 已加厚；3 |
 | **欧洲（爱琴以外）** | — | — | 伊比利亚；哈尔施塔特；努拉吉 | 3 |
 | **北美** | — | — | 密西西比/卡霍基亚；先祖普韦布洛 | 3 |
 
@@ -79,32 +79,32 @@
 | `mitanni` | `civ-mitanni` | library-seed-rich | 晚青铜胡里安 / 上美索不达米亚 |
 | `phoenician` | `civ-phoenician` | library-seed-rich | 黎凡特海岸 + 西地中海布匿节点 |
 
-## 第三波包（D-2026-10-12-15 开壳）
+## 第三波包（D-2026-10-12-15 开壳；D-2026-10-12-17 加厚）
 
-状态：**`library-seed`**。典型壳密度：**5 来源**、**2–3 遗址**、**1 时段**、**1 对象**、**1 条有出处主张**、**0 媒体**。坐标默认空。**不编造发现、页码或媒体图。** 生成器：`tools/wave3_shells/generate_wave3.py`。
+状态升为 **`library-seed-rich`**。加厚后典型密度：约 **15 来源**、**7–8 遗址**、**4 时段**、约 **11 主张**、**1–3 外链媒体**。本轮教科文 WHC 不可达时用维基百科主坐标并写明精度；否则留空。**不编造发现、页码或媒体图。** 工具：`tools/wave3_shells/densify_wave3.py`。
 
 | 包 id | 文明 id | 状态 | 填补空白 |
 |-------|---------|------|----------|
-| `cahokia` | `civ-cahokia` | library-seed | 密西西比 / 美底区 |
-| `ancestral-pueblo` | `civ-ancestral-pueblo` | library-seed | 科罗拉多高原 / 查科–梅萨维德 |
-| `great-zimbabwe` | `civ-great-zimbabwe` | library-seed | 南部非洲铁器时代都城 |
-| `west-africa-medieval` | `civ-west-africa-medieval` | library-seed | 加纳–马里–桑海萨赫勒诸国 |
-| `hallstatt-celtic` | `civ-hallstatt-celtic` | library-seed | 阿尔卑斯早期铁器 / 哈尔施塔特 |
-| `nuragic-sardinia` | `civ-nuragic-sardinia` | library-seed | 撒丁努拉吉石塔 |
-| `rapa-nui` | `civ-rapa-nui` | library-seed | 波利尼西亚拉帕努伊（伦理优先） |
-| `inca` | `civ-inca` | library-seed | 印加晚地平线 |
-| `moche` | `civ-moche` | library-seed | 秘鲁北岸早期中间期 |
-| `aztec` | `civ-aztec` | library-seed | 墨西卡 / 三重同盟 |
-| `angkor` | `civ-angkor` | library-seed | 高棉吴哥都城景观 |
+| `cahokia` | `civ-cahokia` | library-seed-rich | 密西西比 / 美底区 |
+| `ancestral-pueblo` | `civ-ancestral-pueblo` | library-seed-rich | 科罗拉多高原 / 查科–梅萨维德 |
+| `great-zimbabwe` | `civ-great-zimbabwe` | library-seed-rich | 南部非洲铁器时代都城 |
+| `west-africa-medieval` | `civ-west-africa-medieval` | library-seed-rich | 加纳–马里–桑海萨赫勒诸国 |
+| `hallstatt-celtic` | `civ-hallstatt-celtic` | library-seed-rich | 阿尔卑斯早期铁器 / 哈尔施塔特 |
+| `nuragic-sardinia` | `civ-nuragic-sardinia` | library-seed-rich | 撒丁努拉吉石塔 |
+| `rapa-nui` | `civ-rapa-nui` | library-seed-rich | 波利尼西亚拉帕努伊（伦理优先） |
+| `inca` | `civ-inca` | library-seed-rich | 印加晚地平线 |
+| `moche` | `civ-moche` | library-seed-rich | 秘鲁北岸早期中间期 |
+| `aztec` | `civ-aztec` | library-seed-rich | 墨西卡 / 三重同盟 |
+| `angkor` | `civ-angkor` | library-seed-rich | 高棉吴哥都城景观 |
 
 **仍缺（更后）：** 伊比利亚铜石并用/青铜；更完整拉坦诺；米斯特克；扶南拆分；塞浦路斯晚青铜加厚；伊费/贝宁；更广波利尼西亚酋邦；晚期基督教努比亚必要时拆分。
 
 ## 用户现在如何看到
 
-- **API：** `GET /api/v1/civilizations` 自动发现所有 `data/structured/*/civilization.json` — 第三波为 `library-seed`；第二波为 `library-seed-rich`。
-- **UI：** `/ui` 同源列表；壳故意偏薄。
-- **闸门：** `tools/export_check.py` 对全部包出处失败即关闭（第三波开壳 + 第二波加厚后 **40** 包）。
+- **API：** `GET /api/v1/civilizations` 自动发现所有 `data/structured/*/civilization.json` — 一/二/三波加厚包为 `library-seed-rich`；既有九密包仍为 `fact-library`。
+- **UI：** `/ui` 同源列表。
+- **闸门：** `tools/export_check.py` 对全部 **40** 包出处失败即关闭。
 
 ## 产品立场
 
-**40 包可调用：9 密 + 11 第一波加厚 + 9 第二波加厚 + 11 第三波壳。** 状态诚实优于条数虚荣。下一步：第三波加厚至 `library-seed-rich`，继续补坐标/媒体，并在档案允许处开仍缺项。
+**40 包可调用：9 密（`fact-library`）+ 31 加厚中（`library-seed-rich`）。** 状态诚实优于条数虚荣。下一步：继续坐标/媒体加厚逼近 fact-library；档案允许处开仍缺项。

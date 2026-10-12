@@ -1,0 +1,32 @@
+{
+  "id": "media-rapanui-unesco",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：拉帕努伊国家公园",
+    "en": "UNESCO: Rapa Nui National Park",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/715/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-unesco-715"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/715/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

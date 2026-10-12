@@ -1,0 +1,32 @@
+{
+  "id": "site-nuragic-su-tempiesu-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "苏滕皮耶苏圣井（指针）",
+    "en": "Su Tempiesu sacred well (orientation)",
+    "native": "Su Tempiesu"
+  },
+  "kind_note": "Nuragic sacred well temple",
+  "region": "Orune, Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "努拉吉圣井神庙指针。",
+    "en": "Nuragic sacred-well temple orientation."
+  },
+  "sources": [
+    "src-nuragic-lilliu-1988",
+    "src-nuragic-contu-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

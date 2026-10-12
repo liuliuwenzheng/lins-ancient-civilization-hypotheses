@@ -1,0 +1,32 @@
+{
+  "id": "site-moche-pacatnamu-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "帕卡特纳穆（指针）",
+    "en": "Pacatnamú (orientation)",
+    "native": "Pacatnamú"
+  },
+  "kind_note": "Multi-period coastal centre with Moche occupation",
+  "region": "Jequetepeque, Peru",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "含莫切占用的滨海多时段中心指针。",
+    "en": "Multi-period coastal centre with Moche occupation orientation."
+  },
+  "sources": [
+    "src-moche-donnan-mcclelland-1999",
+    "src-moche-quilter-2010"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

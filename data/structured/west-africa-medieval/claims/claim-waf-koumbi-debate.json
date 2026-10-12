@@ -1,0 +1,33 @@
+{
+  "id": "claim-waf-koumbi-debate",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "昆比萨利赫常与阿拉伯文献中的加纳都城相联系，但鉴定讨论仍开放（Levtzion & Hopkins；McIntosh）。",
+    "en": "Koumbi Saleh is often linked to Ghāna's capital in Arabic sources, but identification debates remain open (Levtzion & Hopkins; McIntosh)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-koumbi-saleh-orientation"
+  ],
+  "period_ids": [
+    "period-waf-ghana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-levtzion-hopkins-2000",
+    "src-waf-mcintosh-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

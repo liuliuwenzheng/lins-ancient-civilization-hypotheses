@@ -1,0 +1,33 @@
+{
+  "id": "claim-cahokia-phase-labels",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "美底区陶瓷/阶段标签（洛曼、斯特林、穆尔黑德等）用于描述卡霍基亚繁荣与过渡（Pauketat 2004）；绝对年代仍可修订。",
+    "en": "American Bottom ceramic/phase labels (Lohmann, Stirling, Moorehead, etc.) describe Cahokia floruit and transition (Pauketat 2004); absolute dates remain revisable."
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-cahokia-lohmann",
+    "period-cahokia-stirling",
+    "period-cahokia-moorehead-sand-prairie"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-pauketat-2004",
+    "src-cahokia-holley-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

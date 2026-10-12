@@ -1,0 +1,32 @@
+{
+  "id": "site-aztec-chapultepec-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "查普尔特佩克（指针）",
+    "en": "Chapultepec (orientation)",
+    "native": "Chapultepec"
+  },
+  "kind_note": "Sacred hill / aqueduct and park landscape tied to Tenochtitlan",
+  "region": "Mexico City",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "与特诺奇蒂特兰相关的圣山/水道景观指针。",
+    "en": "Sacred hill / aqueduct landscape orientation tied to Tenochtitlan."
+  },
+  "sources": [
+    "src-aztec-townsend-orientation",
+    "src-aztec-unesco-mexico-city-412"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

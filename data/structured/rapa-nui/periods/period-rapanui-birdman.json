@@ -1,0 +1,34 @@
+{
+  "id": "period-rapanui-birdman",
+  "entity": "period",
+  "names": {
+    "zh": "鸟人教/奥龙戈窗",
+    "en": "Birdman cult / Orongo window"
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "time": {
+    "label": "later pre-contact to early historic centuries CE",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "鸟人礼仪与奥龙戈村窗。",
+    "en": "Birdman ritual and Orongo village window."
+  },
+  "sources": [
+    "src-rapanui-routledge-1919",
+    "src-rapanui-unesco-715"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

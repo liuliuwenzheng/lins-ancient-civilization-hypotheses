@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-heuneburg-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "霍伊内堡（指针）",
+    "en": "Heuneburg (orientation)",
+    "native": "Heuneburg"
+  },
+  "kind_note": "Early Iron Age fortified centre / Fürstensitz debates",
+  "region": "Danube, Germany",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "早期铁器设防中心/王侯座讨论指针。",
+    "en": "Early Iron Age fortified centre / princely-seat debate orientation."
+  },
+  "sources": [
+    "src-hallstatt-cunliffe-1997",
+    "src-hallstatt-wells-orientation",
+    "src-hallstatt-collis-2003"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

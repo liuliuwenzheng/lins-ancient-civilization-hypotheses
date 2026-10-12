@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-pottier-efeo",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pottier / EFEO 测绘与发掘传统为吴哥空间考古提供基础数据取向。",
+    "en": "Pottier / EFEO mapping and excavation tradition supplies foundational spatial-archaeology orientation for Angkor."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-thom",
+    "site-angkor-hydraulic-orientation"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-pottier-orientation",
+    "src-angkor-efeo-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

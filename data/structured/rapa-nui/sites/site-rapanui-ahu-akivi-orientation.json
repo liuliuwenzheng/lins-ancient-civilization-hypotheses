@@ -1,0 +1,32 @@
+{
+  "id": "site-rapanui-ahu-akivi-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿胡阿基维（指针）",
+    "en": "Ahu Akivi (orientation)",
+    "native": "Ahu Akivi"
+  },
+  "kind_note": "Inland restored ahu with seaward-facing moai",
+  "region": "Rapa Nui interior",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "内陆修复阿胡指针。",
+    "en": "Inland restored ahu orientation."
+  },
+  "sources": [
+    "src-rapanui-van-tilburg-1994",
+    "src-rapanui-hamilton-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

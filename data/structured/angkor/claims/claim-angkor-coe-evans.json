@@ -1,0 +1,31 @@
+{
+  "id": "claim-angkor-coe-evans",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Coe & Evans 2018 综合吴哥考古，纳入激光雷达城市景观成果（Thames & Hudson）。",
+    "en": "Coe & Evans 2018 synthesize Angkor archaeology including lidar urban-landscape results (Thames & Hudson)."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-angkorian-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-coe-evans-2018",
+    "src-angkor-evans-lidar-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

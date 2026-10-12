@@ -1,0 +1,34 @@
+{
+  "id": "period-nuragic-iron",
+  "entity": "period",
+  "names": {
+    "zh": "努拉吉铁器/地中海接触窗",
+    "en": "Nuragic Iron / Mediterranean contact window"
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "time": {
+    "label": "ca. 900–500 BCE working band",
+    "approx_from_bce": 900,
+    "approx_to_bce": 500,
+    "scheme_note": "Working window; absolute debates open."
+  },
+  "summary": {
+    "zh": "铁器时代与地中海接触窗。",
+    "en": "Iron Age and Mediterranean contact window."
+  },
+  "sources": [
+    "src-nuragic-blake-1999",
+    "src-nuragic-lo-schiavo-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

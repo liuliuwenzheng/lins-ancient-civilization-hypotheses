@@ -19,7 +19,11 @@
     "src-angkor-unesco-668",
     "src-angkor-jacques-lafond-2007"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 13.441,
+    "lon": 103.859,
+    "precision_note": "Approximate Angkor Thom core point derived from published Angkor park geography (English Wikipedia Angkor page vicinity); not a UNESCO DMS read (WHC Cloudflare-blocked 2026-10-12). Treat as low-precision orientation only."
+  },
   "editorial": {
     "derived_from": [
       "tools/wave3_shells/generate_wave3.py",
@@ -27,6 +31,6 @@
       "docs/decisions.md#d-2026-10-12-15"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-17."
   }
 }

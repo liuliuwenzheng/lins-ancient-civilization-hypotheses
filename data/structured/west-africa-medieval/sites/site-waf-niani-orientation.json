@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-niani-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "尼亚尼等地（指针）",
+    "en": "Niani and related Mali centres (orientation)",
+    "native": "Niani"
+  },
+  "kind_note": "Often discussed as Mali empire capital candidate(s)",
+  "region": "Upper Niger region",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "马里帝国都城候选讨论指针；鉴定开放。",
+    "en": "Mali empire capital-candidate orientation; identification open."
+  },
+  "sources": [
+    "src-waf-levtzion-hopkins-2000",
+    "src-waf-gomez-2018",
+    "src-waf-conrad-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

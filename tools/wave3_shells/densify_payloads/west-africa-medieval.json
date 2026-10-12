@@ -1,0 +1,531 @@
+{
+  "civ_id": "civ-west-africa-medieval",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "西非中世纪诸国档案（library-seed-rich）：Levtzion/McIntosh + 廷巴克图/杰内教科文；仍非埃及级密度。",
+    "en": "West African medieval empires archive (library-seed-rich): Levtzion/McIntosh + Timbuktu/Djenné UNESCO; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-waf-insoll-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Insoll, Timothy — Islamic archaeology of West Africa / Gao and related studies.",
+      "url": null,
+      "notes": "Islamic archaeology orientation."
+    },
+    {
+      "id": "src-waf-conna-2001",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Connah, Graham. 2001. African Civilizations: An Archaeological Perspective. 2nd ed. Cambridge: Cambridge University Press.",
+      "url": null,
+      "notes": "Continent-scale archaeological synthesis including Sahelian cities; print."
+    },
+    {
+      "id": "src-waf-gomez-2018",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Gomez, Michael A. 2018. African Dominion: A New History of Empire in Early and Medieval West Africa. Princeton: Princeton University Press.",
+      "url": null,
+      "notes": "Historical synthesis of West African empire; print; S-tier history."
+    },
+    {
+      "id": "src-waf-niane-sundiata-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Niane, D. T. — Sundiata epic / oral tradition editions (Présence Africaine tradition).",
+      "url": null,
+      "notes": "Oral-epic orientation for Mali; literary/historical interface; not excavation."
+    },
+    {
+      "id": "src-waf-conrad-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Conrad, David C. — Mali empire and Mande oral tradition studies.",
+      "url": null,
+      "notes": "Mande historical tradition orientation."
+    },
+    {
+      "id": "src-waf-mcintosh-sj-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "McIntosh, Susan Keech — Jenné-jeno and Middle Niger urbanism excavation syntheses.",
+      "url": null,
+      "notes": "P/S excavation synthesis orientation for Jenné-jeno."
+    },
+    {
+      "id": "src-waf-unesco-timbuktu-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Timbuktu — documents. https://whc.unesco.org/en/list/119/documents/",
+      "url": "https://whc.unesco.org/en/list/119/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-waf-unesco-djenne-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Old Towns of Djenné — documents. https://whc.unesco.org/en/list/116/documents/",
+      "url": "https://whc.unesco.org/en/list/116/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-waf-takezawa-cisse-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Takezawa, Shoichiro, and Mamadou Cissé — Gao / Middle Niger excavation reports.",
+      "url": null,
+      "notes": "Gao excavation orientation."
+    },
+    {
+      "id": "src-waf-arabic-geo-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Arabic geographical tradition on Ghāna / Mālī / Songhay (al-Bakrī, Ibn Battūta, etc.) as assembled in Levtzion & Hopkins corpus.",
+      "url": null,
+      "notes": "Primary-text tradition via corpus; shell cites corpus already registered."
+    }
+  ],
+  "fill_coords": {
+    "site-timbuktu-medieval": {
+      "lat": 16.775833,
+      "lon": -3.009444,
+      "precision_note": "English Wikipedia primary coordinates for «Timbuktu»; access 2026-10-12 (UNESCO WH list 119 orientation site)"
+    },
+    "site-djenne-old-towns": {
+      "lat": 13.905556,
+      "lon": -4.555,
+      "precision_note": "English Wikipedia primary coordinates for «Djenné»; access 2026-10-12 (UNESCO WH list 116 orientation site)"
+    },
+    "site-koumbi-saleh-orientation": {
+      "lat": 15.765556,
+      "lon": -7.968611,
+      "precision_note": "English Wikipedia primary coordinates for «Koumbi Saleh»; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-waf-jenne-jeno-orientation",
+      "names": {
+        "zh": "杰内-杰诺（指针）",
+        "en": "Jenné-jeno (orientation)",
+        "native": "Jenné-jeno"
+      },
+      "kind_note": "Early Middle Niger urban mound complex",
+      "region": "Near Djenné, Mali",
+      "coords": null,
+      "summary": {
+        "zh": "中尼日尔早期城市土丘指针。",
+        "en": "Early Middle Niger urban mound orientation."
+      },
+      "sources": [
+        "src-waf-mcintosh-2005",
+        "src-waf-mcintosh-sj-orientation"
+      ]
+    },
+    {
+      "id": "site-waf-gao-orientation",
+      "names": {
+        "zh": "加奥（指针）",
+        "en": "Gao (orientation)",
+        "native": "Gao"
+      },
+      "kind_note": "Songhay / Middle Niger political centre",
+      "region": "Gao Region, Mali",
+      "coords": null,
+      "summary": {
+        "zh": "桑海/中尼日尔政治中心指针。",
+        "en": "Songhay / Middle Niger political-centre orientation."
+      },
+      "sources": [
+        "src-waf-insoll-orientation",
+        "src-waf-takezawa-cisse-orientation",
+        "src-waf-hunwick-timbuktu-orientation"
+      ]
+    },
+    {
+      "id": "site-waf-niani-orientation",
+      "names": {
+        "zh": "尼亚尼等地（指针）",
+        "en": "Niani and related Mali centres (orientation)",
+        "native": "Niani"
+      },
+      "kind_note": "Often discussed as Mali empire capital candidate(s)",
+      "region": "Upper Niger region",
+      "coords": null,
+      "summary": {
+        "zh": "马里帝国都城候选讨论指针；鉴定开放。",
+        "en": "Mali empire capital-candidate orientation; identification open."
+      },
+      "sources": [
+        "src-waf-levtzion-hopkins-2000",
+        "src-waf-gomez-2018",
+        "src-waf-conrad-orientation"
+      ]
+    },
+    {
+      "id": "site-waf-walata-orientation",
+      "names": {
+        "zh": "瓦拉塔（指针）",
+        "en": "Walata / Oualata (orientation)",
+        "native": "Walata"
+      },
+      "kind_note": "Sahelian caravan town in Arabic and archaeological discussion",
+      "region": "SE Mauritania",
+      "coords": null,
+      "summary": {
+        "zh": "萨赫勒商路城镇指针。",
+        "en": "Sahelian caravan-town orientation."
+      },
+      "sources": [
+        "src-waf-levtzion-hopkins-2000",
+        "src-waf-gomez-2018"
+      ]
+    },
+    {
+      "id": "site-waf-aoudaghost-orientation",
+      "names": {
+        "zh": "奥达戈斯特（指针）",
+        "en": "Awdāghust / Aoudaghost (orientation)",
+        "native": "Awdāghust"
+      },
+      "kind_note": "Early Ghana-period trading town in Arabic sources",
+      "region": "Mauritania",
+      "coords": null,
+      "summary": {
+        "zh": "早期加纳时期商镇（阿拉伯文献）指针。",
+        "en": "Early Ghana-period trading-town orientation in Arabic sources."
+      },
+      "sources": [
+        "src-waf-levtzion-hopkins-2000",
+        "src-waf-arabic-geo-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-waf-ghana",
+      "names": {
+        "zh": "加纳/瓦加杜窗",
+        "en": "Ghāna / Wagadou window"
+      },
+      "time": {
+        "label": "broadly 8th–12th centuries CE (Arabic + archaeology working frame)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "加纳帝国工作窗。",
+        "en": "Ghāna empire working window."
+      },
+      "sources": [
+        "src-waf-levtzion-hopkins-2000",
+        "src-waf-gomez-2018"
+      ]
+    },
+    {
+      "id": "period-waf-mali",
+      "names": {
+        "zh": "马里帝国窗",
+        "en": "Mali empire window"
+      },
+      "time": {
+        "label": "broadly 13th–15th centuries CE",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "马里帝国工作窗。",
+        "en": "Mali empire working window."
+      },
+      "sources": [
+        "src-waf-gomez-2018",
+        "src-waf-conrad-orientation",
+        "src-waf-niane-sundiata-orientation"
+      ]
+    },
+    {
+      "id": "period-waf-songhai",
+      "names": {
+        "zh": "桑海帝国窗",
+        "en": "Songhai empire window"
+      },
+      "time": {
+        "label": "broadly 15th–16th centuries CE",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "桑海帝国工作窗。",
+        "en": "Songhai empire working window."
+      },
+      "sources": [
+        "src-waf-hunwick-timbuktu-orientation",
+        "src-waf-gomez-2018"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-waf-mudbrick-urban-frame",
+      "names": {
+        "zh": "萨赫勒泥砖城市框架组合",
+        "en": "Sahelian mudbrick urban frame"
+      },
+      "site_ids": [
+        "site-djenne-old-towns",
+        "site-timbuktu-medieval"
+      ],
+      "period_ids": [
+        "period-west-africa-sahelian-empires"
+      ],
+      "sources": [
+        "src-waf-unesco-djenne-116",
+        "src-waf-unesco-timbuktu-119",
+        "src-waf-mcintosh-2005"
+      ],
+      "summary": {
+        "zh": "泥砖城市建筑传统指针。",
+        "en": "Mudbrick urban architectural tradition pointer."
+      }
+    },
+    {
+      "id": "asm-waf-manuscript-centre-frame",
+      "names": {
+        "zh": "廷巴克图学术手稿中心框架",
+        "en": "Timbuktu scholarly manuscript-centre frame"
+      },
+      "site_ids": [
+        "site-timbuktu-medieval"
+      ],
+      "period_ids": [
+        "period-waf-songhai",
+        "period-waf-mali"
+      ],
+      "sources": [
+        "src-waf-unesco-timbuktu-119",
+        "src-waf-hunwick-timbuktu-orientation"
+      ],
+      "summary": {
+        "zh": "学术手稿中心传统指针；无伪造卷号。",
+        "en": "Scholarly manuscript-centre tradition pointer; no forged shelfmarks."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-waf-unesco-timbuktu",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将廷巴克图列入世界遗产，强调萨赫勒学术—宗教城市景观（UNESCO 119）。",
+        "en": "UNESCO lists Timbuktu as World Heritage, emphasizing Sahelian scholarly–religious urban landscape (UNESCO 119)."
+      },
+      "site_ids": [
+        "site-timbuktu-medieval"
+      ],
+      "period_ids": [
+        "period-waf-mali",
+        "period-waf-songhai"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-waf-unesco-timbuktu-119"
+      ]
+    },
+    {
+      "id": "claim-waf-unesco-djenne",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将杰内老城列入世界遗产，强调中尼日尔泥砖城市传统（UNESCO 116）。",
+        "en": "UNESCO lists Old Towns of Djenné as World Heritage, emphasizing Middle Niger mudbrick urban tradition (UNESCO 116)."
+      },
+      "site_ids": [
+        "site-djenne-old-towns"
+      ],
+      "period_ids": [
+        "period-west-africa-sahelian-empires"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-waf-unesco-djenne-116"
+      ]
+    },
+    {
+      "id": "claim-waf-levtzion-corpus",
+      "kind": "fact",
+      "statement": {
+        "zh": "Levtzion & Hopkins 语料汇编早期阿拉伯文献中关于西非加纳/马里/桑海的记载（Markus Wiener 重印）。",
+        "en": "Levtzion & Hopkins assemble early Arabic sources on West African Ghāna/Mālī/Songhay (Markus Wiener reprint)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-west-africa-sahelian-empires"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-waf-levtzion-hopkins-2000"
+      ]
+    },
+    {
+      "id": "claim-waf-mcintosh-urbanism",
+      "kind": "fact",
+      "statement": {
+        "zh": "McIntosh 2005 以考古视角综合中尼日尔城市化与自组织景观（CUP）。",
+        "en": "McIntosh 2005 synthesizes Middle Niger urbanism and self-organizing landscape archaeologically (CUP)."
+      },
+      "site_ids": [
+        "site-waf-jenne-jeno-orientation",
+        "site-djenne-old-towns"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-waf-mcintosh-2005"
+      ]
+    },
+    {
+      "id": "claim-waf-gomez-dominion",
+      "kind": "fact",
+      "statement": {
+        "zh": "Gomez 2018 提供西非早期与中世纪帝国的新史学综合（Princeton）。",
+        "en": "Gomez 2018 provides a new historical synthesis of early and medieval West African empire (Princeton)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-waf-ghana",
+        "period-waf-mali",
+        "period-waf-songhai"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-waf-gomez-2018"
+      ]
+    },
+    {
+      "id": "claim-waf-koumbi-debate",
+      "kind": "fact",
+      "statement": {
+        "zh": "昆比萨利赫常与阿拉伯文献中的加纳都城相联系，但鉴定讨论仍开放（Levtzion & Hopkins；McIntosh）。",
+        "en": "Koumbi Saleh is often linked to Ghāna's capital in Arabic sources, but identification debates remain open (Levtzion & Hopkins; McIntosh)."
+      },
+      "site_ids": [
+        "site-koumbi-saleh-orientation"
+      ],
+      "period_ids": [
+        "period-waf-ghana"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-waf-levtzion-hopkins-2000",
+        "src-waf-mcintosh-2005"
+      ]
+    },
+    {
+      "id": "claim-waf-jenne-jeno",
+      "kind": "fact",
+      "statement": {
+        "zh": "杰内-杰诺在考古文献中被表述为中尼日尔早期城市传统的关键遗址（McIntosh tradition）。",
+        "en": "Jenné-jeno is framed in archaeological literature as a foundational early Middle Niger urban site (McIntosh tradition)."
+      },
+      "site_ids": [
+        "site-waf-jenne-jeno-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-waf-mcintosh-2005",
+        "src-waf-mcintosh-sj-orientation"
+      ]
+    },
+    {
+      "id": "claim-waf-gao-songhai",
+      "kind": "fact",
+      "statement": {
+        "zh": "加奥在桑海政治与伊斯兰考古文献中作为关键中心讨论（Insoll；Hunwick orientation）。",
+        "en": "Gao is discussed as a key centre in Songhay political and Islamic archaeology literature (Insoll; Hunwick orientation)."
+      },
+      "site_ids": [
+        "site-waf-gao-orientation"
+      ],
+      "period_ids": [
+        "period-waf-songhai"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-waf-insoll-orientation",
+        "src-waf-hunwick-timbuktu-orientation"
+      ]
+    },
+    {
+      "id": "claim-waf-mudbrick-frame",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文与综合将廷巴克图/杰内泥砖城市景观表述为萨赫勒帝国期城市传统代表（UNESCO 119/116；McIntosh 2005）。",
+        "en": "UNESCO and syntheses frame Timbuktu/Djenné mudbrick urban landscapes as representative Sahelian empire-period urban tradition (UNESCO 119/116; McIntosh 2005)."
+      },
+      "site_ids": [
+        "site-timbuktu-medieval",
+        "site-djenne-old-towns"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-waf-mudbrick-urban-frame"
+      ],
+      "sources": [
+        "src-waf-unesco-timbuktu-119",
+        "src-waf-unesco-djenne-116",
+        "src-waf-mcintosh-2005"
+      ]
+    },
+    {
+      "id": "claim-waf-conna-civilizations",
+      "kind": "fact",
+      "statement": {
+        "zh": "Connah 2001 在非洲文明考古视角下讨论萨赫勒等城市中心（CUP 第2版）。",
+        "en": "Connah 2001 discusses Sahelian and other urban centres in an archaeological perspective on African civilizations (CUP 2nd ed.)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-west-africa-sahelian-empires"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-waf-conna-2001"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-waf-unesco-timbuktu",
+      "title": {
+        "zh": "教科文：廷巴克图",
+        "en": "UNESCO: Timbuktu",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/119/",
+      "sources": [
+        "src-waf-unesco-timbuktu-119"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-waf-unesco-djenne",
+      "title": {
+        "zh": "教科文：杰内老城",
+        "en": "UNESCO: Old Towns of Djenné",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/116/",
+      "sources": [
+        "src-waf-unesco-djenne-116"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    }
+  ]
+}

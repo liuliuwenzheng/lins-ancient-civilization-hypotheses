@@ -1,0 +1,32 @@
+{
+  "id": "site-nuragic-arrubiu-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿鲁比乌努拉格（指针）",
+    "en": "Nuraghe Arrubiu (orientation)",
+    "native": "Arrubiu"
+  },
+  "kind_note": "Complex multi-tower nuraghe",
+  "region": "Orroli, Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "复杂多塔努拉格指针。",
+    "en": "Complex multi-tower nuraghe orientation."
+  },
+  "sources": [
+    "src-nuragic-campus-leonelli-orientation",
+    "src-nuragic-webster-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-inca-daltroy",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "D'Altroy 2014 综合印加帝国政治经济与考古（revised Thames & Hudson / scholarly editions）。",
+    "en": "D'Altroy 2014 synthesizes Inca imperial political economy and archaeology (revised Thames & Hudson / scholarly editions)."
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-late-horizon"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-daltroy-2014"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

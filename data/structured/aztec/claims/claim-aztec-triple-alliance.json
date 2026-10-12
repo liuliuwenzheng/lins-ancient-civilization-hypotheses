@@ -1,0 +1,35 @@
+{
+  "id": "claim-aztec-triple-alliance",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "特诺奇蒂特兰、特斯科科与特拉科潘组成三重同盟的帝国政治框架，见于考古—民族史综合（Smith；Hassig）。",
+    "en": "Tenochtitlan, Texcoco, and Tlacopan form the Triple Alliance imperial political frame in archaeological–ethnohistoric syntheses (Smith; Hassig)."
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-tenochtitlan-island-orientation",
+    "site-aztec-texcoco-orientation",
+    "site-aztec-tlacopan-orientation"
+  ],
+  "period_ids": [
+    "period-aztec-triple-alliance"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-smith-2012",
+    "src-aztec-hassig-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

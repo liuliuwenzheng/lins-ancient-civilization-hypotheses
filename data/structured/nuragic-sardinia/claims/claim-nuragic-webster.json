@@ -1,0 +1,30 @@
+{
+  "id": "claim-nuragic-webster",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Webster 1996 提供公元前 2300–500 年撒丁史前综合（Sheffield）。",
+    "en": "Webster 1996 provides a prehistory of Sardinia 2300–500 BCE synthesis (Sheffield)."
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nuragic-bronze-iron"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-webster-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

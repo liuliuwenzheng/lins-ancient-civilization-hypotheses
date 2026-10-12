@@ -1,0 +1,44 @@
+{
+  "id": "asm-pueblo-cliff-dwelling-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "梅萨维德崖居框架组合",
+    "en": "Mesa Verde cliff-dwelling frame"
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-mesa-verde",
+    "site-pueblo-cliff-palace-orientation"
+  ],
+  "period_ids": [
+    "period-pueblo-iii-mesa-verde"
+  ],
+  "summary": {
+    "zh": "崖居建筑传统指针。",
+    "en": "Cliff-dwelling architectural tradition pointer."
+  },
+  "sources": [
+    "src-pueblo-unesco-mesa-verde-27",
+    "src-pueblo-nps-mesa-verde"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-waf-conna-civilizations",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Connah 2001 在非洲文明考古视角下讨论萨赫勒等城市中心（CUP 第2版）。",
+    "en": "Connah 2001 discusses Sahelian and other urban centres in an archaeological perspective on African civilizations (CUP 2nd ed.)."
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-west-africa-sahelian-empires"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-conna-2001"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

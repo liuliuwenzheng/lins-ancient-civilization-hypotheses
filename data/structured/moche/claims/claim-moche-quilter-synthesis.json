@@ -1,0 +1,30 @@
+{
+  "id": "claim-moche-quilter-synthesis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Quilter 2010 提供莫切的通识考古综合（Thames & Hudson）。",
+    "en": "Quilter 2010 provides an accessible archaeological synthesis of the Moche (Thames & Hudson)."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-eip-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-quilter-2010"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

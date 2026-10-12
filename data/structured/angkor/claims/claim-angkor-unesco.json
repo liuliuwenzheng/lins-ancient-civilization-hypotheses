@@ -1,0 +1,33 @@
+{
+  "id": "claim-angkor-unesco",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将吴哥列入世界遗产，强调高棉都城庙山与水利景观（UNESCO 668）。",
+    "en": "UNESCO lists Angkor as World Heritage, emphasizing Khmer capital temple-mountains and hydraulic landscape (UNESCO 668)."
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-wat",
+    "site-angkor-thom"
+  ],
+  "period_ids": [
+    "period-angkorian-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-unesco-668"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

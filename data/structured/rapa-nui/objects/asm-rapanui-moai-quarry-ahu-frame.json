@@ -1,0 +1,45 @@
+{
+  "id": "asm-rapanui-moai-quarry-ahu-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "摩艾–阿胡纪念框架组合",
+    "en": "Moai–ahu monumental frame"
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapa-nui-national-park",
+    "site-rapanui-ahu-tongariki-orientation",
+    "site-rapanui-rano-raraku-orientation"
+  ],
+  "period_ids": [
+    "period-rapanui-ahu-moai"
+  ],
+  "summary": {
+    "zh": "摩艾与阿胡传统元数据指针；无本地图像文件。",
+    "en": "Moai and ahu tradition metadata pointer; no local image files."
+  },
+  "sources": [
+    "src-rapanui-unesco-715",
+    "src-rapanui-van-tilburg-1994"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

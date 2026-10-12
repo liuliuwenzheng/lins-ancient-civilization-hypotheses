@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-donnan-fineline",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Donnan & McClelland 1999 建立莫切细线彩陶研究的重要图录—分析框架。",
+    "en": "Donnan & McClelland 1999 establish a major corpus–analysis frame for Moche fineline ceramics."
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-iv"
+  ],
+  "object_ids": [
+    "asm-moche-fineline-narrative-frame"
+  ],
+  "sources": [
+    "src-moche-donnan-mcclelland-1999"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

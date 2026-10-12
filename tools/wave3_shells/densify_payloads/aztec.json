@@ -1,0 +1,515 @@
+{
+  "civ_id": "civ-aztec",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "阿兹特克/墨西卡档案（library-seed-rich）：Smith/Matos + 大神庙 INAH + 墨西哥城教科文；仍非埃及级密度。",
+    "en": "Aztec/Mexica archive (library-seed-rich): Smith/Matos + Templo Mayor INAH + Mexico City UNESCO; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-aztec-carrasco-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Carrasco, Davíd — Aztec ceremonial centres and religion studies.",
+      "url": null,
+      "notes": "Religion/ceremonial orientation."
+    },
+    {
+      "id": "src-aztec-townsend-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Townsend, Richard F. — The Aztecs (Thames & Hudson editions).",
+      "url": null,
+      "notes": "Accessible synthesis orientation."
+    },
+    {
+      "id": "src-aztec-hassig-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Hassig, Ross — Aztec warfare and imperial organization studies.",
+      "url": null,
+      "notes": "Warfare/empire orientation."
+    },
+    {
+      "id": "src-aztec-clendinnen-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Clendinnen, Inga. 1991. Aztecs: An Interpretation. Cambridge: Cambridge University Press.",
+      "url": null,
+      "notes": "Interpretive historical anthropology; print."
+    },
+    {
+      "id": "src-aztec-lopez-lujan-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "López Luján, Leonardo — Templo Mayor offerings and excavation syntheses.",
+      "url": null,
+      "notes": "Templo Mayor offerings orientation (alongside López Austin & López Luján shell source)."
+    },
+    {
+      "id": "src-aztec-unesco-docs",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Historic Centre of Mexico City and Xochimilco — documents. https://whc.unesco.org/en/list/412/documents/",
+      "url": "https://whc.unesco.org/en/list/412/documents/",
+      "notes": "Documents landing."
+    },
+    {
+      "id": "src-aztec-sahagun-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Sahagún, Bernardino de — Florentine Codex / Primeros Memoriales (primary ethnohistoric tradition; editions vary).",
+      "url": null,
+      "notes": "Ethnohistoric primary tradition; cite via scholarly editions; S for early colonial compilation."
+    },
+    {
+      "id": "src-aztec-berdan-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Berdan, Frances F. — Aztec archaeology and ethnohistory handbooks.",
+      "url": null,
+      "notes": "Handbook orientation."
+    },
+    {
+      "id": "src-aztec-matos-inah-more",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Matos Moctezuma, Eduardo, and collaborators — Templo Mayor excavation report series (INAH).",
+      "url": null,
+      "notes": "P-tradition INAH reports; no invented offering numbers."
+    },
+    {
+      "id": "src-aztec-smith-urban",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Smith, Michael E. — Aztec city-state urbanism studies (complementing Smith 2012 shell source).",
+      "url": null,
+      "notes": "Urbanism orientation."
+    }
+  ],
+  "fill_coords": {
+    "site-templo-mayor-tenochtitlan": {
+      "lat": 19.4333,
+      "lon": -99.13278,
+      "precision_note": "English Wikipedia primary coordinates for «Templo Mayor»; access 2026-10-12 (UNESCO WH list 412 orientation site)"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-aztec-tenochtitlan-island-orientation",
+      "names": {
+        "zh": "特诺奇蒂特兰岛城（指针）",
+        "en": "Tenochtitlan island city (orientation)",
+        "native": "Tenochtitlan"
+      },
+      "kind_note": "Mexica island capital under modern Mexico City",
+      "region": "Basin of Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "墨西卡岛都指针（叠压于现代墨西哥城）。",
+        "en": "Mexica island-capital orientation (under modern Mexico City)."
+      },
+      "sources": [
+        "src-aztec-unesco-mexico-city-412",
+        "src-aztec-smith-2012",
+        "src-aztec-matos-templo-mayor"
+      ]
+    },
+    {
+      "id": "site-aztec-tlatelolco-market-orientation",
+      "names": {
+        "zh": "特拉特洛尔科市场区（指针）",
+        "en": "Tlatelolco market precinct (orientation)",
+        "native": "Tlatelolco"
+      },
+      "kind_note": "Twin city / great market",
+      "region": "Mexico City",
+      "coords": null,
+      "summary": {
+        "zh": "双子城大市场区指针。",
+        "en": "Twin-city great-market precinct orientation."
+      },
+      "sources": [
+        "src-aztec-smith-2012",
+        "src-aztec-berdan-orientation"
+      ]
+    },
+    {
+      "id": "site-aztec-texcoco-orientation",
+      "names": {
+        "zh": "特斯科科（指针）",
+        "en": "Texcoco (orientation)",
+        "native": "Texcoco"
+      },
+      "kind_note": "Acolhua capital of the Triple Alliance",
+      "region": "Basin of Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "三重同盟阿科尔瓦都城指针。",
+        "en": "Acolhua Triple Alliance capital orientation."
+      },
+      "sources": [
+        "src-aztec-smith-2012",
+        "src-aztec-hassig-orientation"
+      ]
+    },
+    {
+      "id": "site-aztec-tlacopan-orientation",
+      "names": {
+        "zh": "特拉科潘（指针）",
+        "en": "Tlacopan (orientation)",
+        "native": "Tlacopan"
+      },
+      "kind_note": "Tepanec partner in the Triple Alliance",
+      "region": "Basin of Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "三重同盟特帕内克伙伴指针。",
+        "en": "Tepanec Triple Alliance partner orientation."
+      },
+      "sources": [
+        "src-aztec-smith-2012",
+        "src-aztec-hassig-orientation"
+      ]
+    },
+    {
+      "id": "site-aztec-chapultepec-orientation",
+      "names": {
+        "zh": "查普尔特佩克（指针）",
+        "en": "Chapultepec (orientation)",
+        "native": "Chapultepec"
+      },
+      "kind_note": "Sacred hill / aqueduct and park landscape tied to Tenochtitlan",
+      "region": "Mexico City",
+      "coords": null,
+      "summary": {
+        "zh": "与特诺奇蒂特兰相关的圣山/水道景观指针。",
+        "en": "Sacred hill / aqueduct landscape orientation tied to Tenochtitlan."
+      },
+      "sources": [
+        "src-aztec-townsend-orientation",
+        "src-aztec-unesco-mexico-city-412"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-aztec-early-mexica",
+      "names": {
+        "zh": "早期墨西卡/迁徙传说窗",
+        "en": "Early Mexica / migration-tradition window"
+      },
+      "time": {
+        "label": "broadly 13th–14th centuries CE working labels",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "早期墨西卡工作窗（传说与考古交织）。",
+        "en": "Early Mexica working window (tradition and archaeology intertwined)."
+      },
+      "sources": [
+        "src-aztec-smith-2012",
+        "src-aztec-sahagun-orientation"
+      ]
+    },
+    {
+      "id": "period-aztec-triple-alliance",
+      "names": {
+        "zh": "三重同盟帝国窗",
+        "en": "Triple Alliance imperial window"
+      },
+      "time": {
+        "label": "ca. 1428–1521 CE working band",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "三重同盟帝国工作窗。",
+        "en": "Triple Alliance imperial working window."
+      },
+      "sources": [
+        "src-aztec-smith-2012",
+        "src-aztec-hassig-orientation"
+      ]
+    },
+    {
+      "id": "period-aztec-spanish-contact",
+      "names": {
+        "zh": "西班接触与征服窗",
+        "en": "Spanish contact and conquest window"
+      },
+      "time": {
+        "label": "1519–1521 CE and early colonial aftermath",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Working window; absolute debates open."
+      },
+      "summary": {
+        "zh": "接触与征服工作窗。",
+        "en": "Contact and conquest working window."
+      },
+      "sources": [
+        "src-aztec-clendinnen-orientation",
+        "src-aztec-sahagun-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-aztec-templo-mayor-frame",
+      "names": {
+        "zh": "大神庙双金字塔框架",
+        "en": "Templo Mayor twin-pyramid frame"
+      },
+      "site_ids": [
+        "site-templo-mayor-tenochtitlan"
+      ],
+      "period_ids": [
+        "period-aztec-late-postclassic",
+        "period-aztec-triple-alliance"
+      ],
+      "sources": [
+        "src-aztec-matos-templo-mayor",
+        "src-aztec-inah-templo-mayor-web",
+        "src-aztec-lopez-lujan-orientation"
+      ],
+      "summary": {
+        "zh": "大神庙建筑与供奉传统指针；无伪造供奉坑号。",
+        "en": "Templo Mayor architecture and offering tradition pointer; no forged offering-pit numbers."
+      }
+    },
+    {
+      "id": "asm-aztec-codex-ethnohistory-frame",
+      "names": {
+        "zh": "早期殖民民族史抄本框架",
+        "en": "Early colonial ethnohistoric codex frame"
+      },
+      "site_ids": [
+        "site-aztec-tenochtitlan-island-orientation"
+      ],
+      "period_ids": [
+        "period-aztec-spanish-contact"
+      ],
+      "sources": [
+        "src-aztec-sahagun-orientation",
+        "src-aztec-lopez-austin-lopez-lujan"
+      ],
+      "summary": {
+        "zh": "萨哈贡等民族史传统指针；无伪造页码。",
+        "en": "Sahagún et al. ethnohistoric tradition pointer; no forged page numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-aztec-unesco-centro",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将墨西哥城历史中心与霍奇米尔科列入世界遗产，覆盖特诺奇蒂特兰叠压城市景观（UNESCO 412）。",
+        "en": "UNESCO lists Historic Centre of Mexico City and Xochimilco as World Heritage, covering Tenochtitlan's superimposed urban landscape (UNESCO 412)."
+      },
+      "site_ids": [
+        "site-templo-mayor-tenochtitlan",
+        "site-aztec-tenochtitlan-island-orientation"
+      ],
+      "period_ids": [
+        "period-aztec-late-postclassic"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-unesco-mexico-city-412"
+      ]
+    },
+    {
+      "id": "claim-aztec-matos-templo",
+      "kind": "fact",
+      "statement": {
+        "zh": "Matos Moctezuma 领导的大神庙发掘确立特诺奇蒂特兰主神庙考古框架（INAH 报告传统）。",
+        "en": "Matos Moctezuma-led Templo Mayor excavations establish the archaeological frame for Tenochtitlan's main temple (INAH report tradition)."
+      },
+      "site_ids": [
+        "site-templo-mayor-tenochtitlan"
+      ],
+      "period_ids": [],
+      "object_ids": [
+        "asm-aztec-templo-mayor-frame"
+      ],
+      "sources": [
+        "src-aztec-matos-templo-mayor",
+        "src-aztec-matos-inah-more"
+      ]
+    },
+    {
+      "id": "claim-aztec-smith-aztecs",
+      "kind": "fact",
+      "statement": {
+        "zh": "Smith 2012 提供阿兹特克的考古通识综合（Wiley-Blackwell 等版本）。",
+        "en": "Smith 2012 provides an archaeological synthesis of the Aztecs (Wiley-Blackwell and related editions)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-aztec-triple-alliance"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-smith-2012"
+      ]
+    },
+    {
+      "id": "claim-aztec-lopez-lujan-offerings",
+      "kind": "fact",
+      "statement": {
+        "zh": "López Luján 等研究综合大神庙供奉坑考古（INAH / scholarly monographs）。",
+        "en": "López Luján and collaborators synthesize Templo Mayor offering-cache archaeology (INAH / scholarly monographs)."
+      },
+      "site_ids": [
+        "site-templo-mayor-tenochtitlan"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-lopez-lujan-orientation",
+        "src-aztec-lopez-austin-lopez-lujan"
+      ]
+    },
+    {
+      "id": "claim-aztec-triple-alliance",
+      "kind": "fact",
+      "statement": {
+        "zh": "特诺奇蒂特兰、特斯科科与特拉科潘组成三重同盟的帝国政治框架，见于考古—民族史综合（Smith；Hassig）。",
+        "en": "Tenochtitlan, Texcoco, and Tlacopan form the Triple Alliance imperial political frame in archaeological–ethnohistoric syntheses (Smith; Hassig)."
+      },
+      "site_ids": [
+        "site-aztec-tenochtitlan-island-orientation",
+        "site-aztec-texcoco-orientation",
+        "site-aztec-tlacopan-orientation"
+      ],
+      "period_ids": [
+        "period-aztec-triple-alliance"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-smith-2012",
+        "src-aztec-hassig-orientation"
+      ]
+    },
+    {
+      "id": "claim-aztec-tlatelolco-market",
+      "kind": "fact",
+      "statement": {
+        "zh": "特拉特洛尔科大市场在民族史与考古讨论中作为盆地交换中心（Smith；Berdan）。",
+        "en": "Tlatelolco's great market is discussed as a Basin exchange centre in ethnohistory and archaeology (Smith; Berdan)."
+      },
+      "site_ids": [
+        "site-tlatelolco-orientation",
+        "site-aztec-tlatelolco-market-orientation"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-smith-2012",
+        "src-aztec-berdan-orientation"
+      ]
+    },
+    {
+      "id": "claim-aztec-sahagun",
+      "kind": "fact",
+      "statement": {
+        "zh": "萨哈贡《佛罗伦萨抄本》传统是墨西卡宗教与社会研究的早期殖民民族史基础文献（scholarly editions）。",
+        "en": "Sahagún's Florentine Codex tradition is a foundational early colonial ethnohistoric source for Mexica religion and society (scholarly editions)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-aztec-spanish-contact"
+      ],
+      "object_ids": [
+        "asm-aztec-codex-ethnohistory-frame"
+      ],
+      "sources": [
+        "src-aztec-sahagun-orientation"
+      ]
+    },
+    {
+      "id": "claim-aztec-clendinnen",
+      "kind": "fact",
+      "statement": {
+        "zh": "Clendinnen 1991 以解释性历史人类学讨论阿兹特克（CUP）。",
+        "en": "Clendinnen 1991 discusses the Aztecs through interpretive historical anthropology (CUP)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-aztec-triple-alliance",
+        "period-aztec-spanish-contact"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-clendinnen-orientation"
+      ]
+    },
+    {
+      "id": "claim-aztec-inah-web",
+      "kind": "fact",
+      "statement": {
+        "zh": "INAH 大神庙博物馆/项目门户提供机构层发掘与展示取向（inah-templo-mayor-web）。",
+        "en": "INAH Templo Mayor museum/project portal provides institutional excavation and display orientation."
+      },
+      "site_ids": [
+        "site-templo-mayor-tenochtitlan"
+      ],
+      "period_ids": [],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-inah-templo-mayor-web"
+      ]
+    },
+    {
+      "id": "claim-aztec-hassig-warfare",
+      "kind": "fact",
+      "statement": {
+        "zh": "Hassig 研究讨论阿兹特克战争与帝国组织（warfare orientation monographs）。",
+        "en": "Hassig's research discusses Aztec warfare and imperial organization (warfare orientation monographs)."
+      },
+      "site_ids": [],
+      "period_ids": [
+        "period-aztec-triple-alliance"
+      ],
+      "object_ids": [],
+      "sources": [
+        "src-aztec-hassig-orientation"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "id": "media-aztec-unesco",
+      "title": {
+        "zh": "教科文：墨西哥城历史中心",
+        "en": "UNESCO: Historic Centre of Mexico City",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/412/",
+      "sources": [
+        "src-aztec-unesco-mexico-city-412"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-aztec-inah-templo",
+      "title": {
+        "zh": "INAH 大神庙取向页",
+        "en": "INAH Templo Mayor orientation",
+        "native": null
+      },
+      "external_url": "https://www.templomayor.inah.gob.mx/",
+      "sources": [
+        "src-aztec-inah-templo-mayor-web"
+      ],
+      "attribution": "INAH / Museo del Templo Mayor",
+      "media_type": "document-link"
+    }
+  ]
+}

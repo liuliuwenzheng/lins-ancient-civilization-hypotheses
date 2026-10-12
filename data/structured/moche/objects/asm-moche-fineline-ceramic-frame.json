@@ -3,7 +3,7 @@
   "entity": "object",
   "object_kind": "assemblage",
   "names": {
-    "zh": "莫切细线彩陶框架组合",
+    "zh": "莫切细线彩陶框架",
     "en": "Moche fineline ceramic frame"
   },
   "civilization_ids": [
@@ -13,31 +13,32 @@
     "site-huacas-de-moche"
   ],
   "period_ids": [
+    "period-moche-iv",
     "period-moche-eip-floruit"
   ],
   "summary": {
-    "zh": "壳级细线彩陶与肖像指针；无伪造馆藏号。",
-    "en": "Shell fineline ceramic and portraiture pointer; no forged catalog numbers."
+    "zh": "细线叙事彩陶传统指针；无伪造器号。",
+    "en": "Fineline narrative ceramic tradition pointer; no forged vessel numbers."
   },
   "sources": [
     "src-moche-donnan-mcclelland-1999",
-    "src-moche-quilter-2010"
+    "src-moche-benson-orientation"
   ],
   "rights": {
     "status": "outbound-link-only",
     "license": null,
     "attribution": null,
     "upstream_url": null,
-    "notes": "Metadata-only shell assemblage; no forged plates or museum numbers."
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
   },
   "media_ids": [],
   "editorial": {
     "derived_from": [
-      "tools/wave3_shells/generate_wave3.py",
+      "tools/wave3_shells/densify_wave3.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-15"
+      "docs/decisions.md#d-2026-10-12-17"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-3 library-seed shell (D-2026-10-12-15). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

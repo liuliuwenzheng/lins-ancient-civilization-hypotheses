@@ -1,0 +1,30 @@
+{
+  "id": "claim-aztec-hassig-warfare",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hassig 研究讨论阿兹特克战争与帝国组织（warfare orientation monographs）。",
+    "en": "Hassig's research discusses Aztec warfare and imperial organization (warfare orientation monographs)."
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aztec-triple-alliance"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-hassig-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave3_shells/densify_wave3.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-17"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-3 densify to library-seed-rich (D-2026-10-12-17). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}
