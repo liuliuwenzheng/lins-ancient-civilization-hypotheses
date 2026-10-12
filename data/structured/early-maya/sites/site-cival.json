@@ -18,14 +18,18 @@
     "src-maya-estrada-belli-2011",
     "src-maya-inomata-ceibal-plateau-2019"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.3675,
+    "lon": -89.25917,
+    "precision_note": "GeoNames 11071661 Cival (S.ANS) 17.3675, -89.25917 GT; accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

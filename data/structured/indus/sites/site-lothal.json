@@ -19,13 +19,17 @@
     "src-indus-rao-lothal-1979",
     "src-indus-kenoyer-1991"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 22.31667,
+    "lon": 72.4,
+    "precision_note": "GeoNames 1264752 Lothal (S.RUIN) 22.31667, 72.4; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-indus-valley.md",
       "sources/src-indus-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-23; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

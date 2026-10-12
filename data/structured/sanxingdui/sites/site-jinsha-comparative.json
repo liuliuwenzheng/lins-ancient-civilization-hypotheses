@@ -23,7 +23,11 @@
     "src-sanxingdui-flad-urbanism-2018",
     "src-sanxingdui-unesco-tentative-2013"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.683611,
+    "lon": 104.011389,
+    "precision_note": "UNESCO Tentative List 5816 Ancient Shu State — Jinsha Site published DMS N30 41 01 E104 00 41 (decimal); accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
@@ -31,7 +35,7 @@
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

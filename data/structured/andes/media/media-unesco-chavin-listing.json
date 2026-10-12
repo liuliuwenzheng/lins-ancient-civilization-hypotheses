@@ -1,0 +1,29 @@
+{
+  "id": "media-unesco-chavin-listing",
+  "entity": "media",
+  "title": {
+    "zh": "教科文查文考古遗址世界遗产条目",
+    "en": "UNESCO Chavin (Archaeological Site) listing"
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/330/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-andes-unesco-chavin-1985"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/330/",
+    "notes": "Outbound heritage page; OUV text ≠ excavation verdict."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-unesco-chavin-1985.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

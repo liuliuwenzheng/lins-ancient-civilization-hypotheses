@@ -1,0 +1,29 @@
+{
+  "id": "media-zonacaral-peacs-values-2008",
+  "entity": "media",
+  "title": {
+    "zh": "卡拉尔–苏佩 PEACS 2008 社会文化价值英文 PDF",
+    "en": "Caral-Supe PEACS 2008 social/cultural values English PDF"
+  },
+  "media_type": "document-link",
+  "external_url": "http://www.zonacaral.gob.pe/downloads/publicaciones/the-social-and-cultural-values-of-caral-supe-2008-ingles.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-andes-shady-caral-social-values-2008"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Proyecto Especial Arqueológico Caral-Supe / INC",
+    "upstream_url": "http://www.zonacaral.gob.pe/downloads/publicaciones/the-social-and-cultural-values-of-caral-supe-2008-ingles.pdf",
+    "notes": "Outbound project PDF; title primacy language not adopted as fact ranking."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-shady-caral-social-values-2008.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

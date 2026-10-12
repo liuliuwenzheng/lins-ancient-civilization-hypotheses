@@ -18,15 +18,20 @@
   "sources": [
     "src-andes-burger-excavaciones-chavin-1998",
     "src-andes-rick-kembel-chavin-architecture-1998",
-    "src-andes-burger-chavin-1995"
+    "src-andes-burger-chavin-1995",
+    "src-andes-unesco-chavin-1985"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": -9.592773,
+    "lon": -77.178454,
+    "precision_note": "UNESCO WHC list 330 Chavin (Archaeological Site) published DMS S9 35 33.981 W77 10 42.433 (decimal); maps page accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-andes.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "notes": "Density pass 5 (D-2026-10-12-6); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

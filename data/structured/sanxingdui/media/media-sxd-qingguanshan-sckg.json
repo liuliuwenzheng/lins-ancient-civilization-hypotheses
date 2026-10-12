@@ -1,0 +1,29 @@
+{
+  "id": "media-sxd-qingguanshan-sckg",
+  "entity": "media",
+  "title": {
+    "zh": "三星堆青关山建筑基址发掘简报（开放 PDF）",
+    "en": "Sanxingdui Qingguanshan building foundation excavation brief (open PDF)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.sckg.com/uploads/soft/20230509/2-230509155622R7.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-qingguanshan-brief"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Sichuan Provincial Institute of Cultural Relics and Archaeology / sckg.com",
+    "upstream_url": "https://www.sckg.com/uploads/soft/20230509/2-230509155622R7.pdf",
+    "notes": "Outbound open PDF brief; no local image hosting."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-qingguanshan-brief.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "media-zhao-nsr-2021-pmc",
+  "entity": "media",
+  "title": {
+    "zh": "赵伟杰 NSR 2021 PMC 全文镜像",
+    "en": "Zhao NSR 2021 PMC full-text mirror"
+  },
+  "media_type": "document-link",
+  "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8310767/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-zhao-nsr-2021"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "National Science Review / PMC",
+    "upstream_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8310767/",
+    "notes": "Outbound PMC mirror of registered NSR highlight; research-history only."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-zhao-nsr-2021.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

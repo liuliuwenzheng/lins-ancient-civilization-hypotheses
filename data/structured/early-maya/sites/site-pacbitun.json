@@ -18,13 +18,17 @@
   "sources": [
     "src-maya-powis-pacbitun-2019"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.09211,
+    "lon": -88.99433,
+    "precision_note": "GeoNames 11072639 Pacbitun (S.ANS) 17.09211, -88.99433 BZ; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

@@ -20,14 +20,18 @@
     "src-maya-hansen-tigre-mirador",
     "src-maya-matheny-tigre-mirador-1990"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.67991,
+    "lon": -89.83516,
+    "precision_note": "GeoNames 11072613 Nakbe (S.ANS) 17.67991, -89.83516 GT; accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

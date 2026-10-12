@@ -20,13 +20,17 @@
     "src-maya-adams-altar-ceramics-1971",
     "src-maya-willey-altar-conclusions-1973"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 16.47378,
+    "lon": -90.52518,
+    "precision_note": "GeoNames 3599775 Sitio Arqueológico Altar de Los Sacrificios (S.ANS) 16.47378, -90.52518 GT; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

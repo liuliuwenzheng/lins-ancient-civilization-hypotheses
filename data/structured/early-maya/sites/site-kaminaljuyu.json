@@ -20,13 +20,17 @@
     "src-maya-coe-houston-2015",
     "src-maya-demarest-2004"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 14.63126,
+    "lon": -90.54847,
+    "precision_note": "GeoNames 3595058 Kaminaljuyú (S.ANS) 14.63126, -90.54847 GT; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-27; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

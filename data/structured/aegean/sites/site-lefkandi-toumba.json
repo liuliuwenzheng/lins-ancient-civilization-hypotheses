@@ -19,13 +19,17 @@
     "src-aegean-popham-lefkandi-i-1980",
     "src-aegean-popham-lefkandi-ii-1993"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 38.413205,
+    "lon": 23.672837,
+    "precision_note": "Pleiades place 176836030 (Lefkandi Heroon(?)) — Toumba monumental building/cemetery locus; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords). Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

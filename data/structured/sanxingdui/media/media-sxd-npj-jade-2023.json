@@ -1,0 +1,29 @@
+{
+  "id": "media-sxd-npj-jade-2023",
+  "entity": "media",
+  "title": {
+    "zh": "三星堆玉器现场分析（npj Heritage Science 开放文章）",
+    "en": "Sanxingdui jade on-site analysis (npj Heritage Science OA)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.nature.com/articles/s40494-023-00960-1",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-npj-jade-2023"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "npj Heritage Science / Springer Nature",
+    "upstream_url": "https://www.nature.com/articles/s40494-023-00960-1",
+    "notes": "Outbound OA article landing; materials analysis only."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-npj-jade-2023.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

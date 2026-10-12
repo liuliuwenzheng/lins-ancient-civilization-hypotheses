@@ -19,13 +19,17 @@
     "src-aegean-macgillivray-sackett-driesen-palaikastro",
     "src-aegean-driessen-macdonald-troubled-island-1997"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 35.197578,
+    "lon": 26.254175,
+    "precision_note": "Pleiades place 213924739 (Palaikastro, Crete) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

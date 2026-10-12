@@ -1,0 +1,29 @@
+{
+  "id": "media-unesco-yinxu-maps",
+  "entity": "media",
+  "title": {
+    "zh": "教科文殷墟地图页",
+    "en": "UNESCO Yin Xu maps page"
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/1114/maps/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-china-unesco-yinxu-2006"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/1114/maps/",
+    "notes": "Outbound maps page documenting published WHC coordinates."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-unesco-yinxu-2006.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

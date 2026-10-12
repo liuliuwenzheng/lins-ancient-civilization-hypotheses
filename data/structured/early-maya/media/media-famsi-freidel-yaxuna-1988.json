@@ -1,0 +1,29 @@
+{
+  "id": "media-famsi-freidel-yaxuna-1988",
+  "entity": "media",
+  "title": {
+    "zh": "FAMSI Freidel Yaxuná 研究 PDF",
+    "en": "FAMSI Freidel Yaxuná research PDF"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.famsi.org/research/freidel/1988Freidel.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-maya-ringle-yaxuna"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "FAMSI",
+    "upstream_url": "https://www.famsi.org/research/freidel/1988Freidel.pdf",
+    "notes": "Outbound open PDF landing; no local hosting of copyrighted page images."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-ringle-yaxuna.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-11 outbound media."
+  }
+}

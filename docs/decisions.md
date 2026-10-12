@@ -626,3 +626,20 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified:** `export_check` OK (9 packs; citation gate green).
 
 **Notes:** Honest partial fill > fake completeness. Sanxingdui coordinates intentionally remain all-null this pass.
+
+
+### D-2026-10-12-11 — Open-web gazetteer thicken (coords + sources + media)
+
+**Decision:** Continue W1/W4 remediation with a second **honest** open-web pass after D-2026-10-12-10. Priority: sanxingdui → china-bronze → andes → indus → olmec → early-maya → remaining egypt/aegean empties. No invented archaeology.
+
+**Coordinates:** **+26** sites (cumulative filled **84 → 110**). Sanxingdui/Jinsha from UNESCO Tentative **5816**; Chavín from UNESCO **330**; others from Pleiades CSV or GeoNames `S.ANS`/`S.RUIN` with country lock. Fuzzy / PPL-town / survey-frame hits left null.
+
+**Sources:** New `src-andes-unesco-chavin-1985`, `src-sanxingdui-npj-jade-2023`; filled open PDF URLs on Qingguanshan + Pit 4 briefs.
+
+**Media:** **+11** outbound records (**58 → 69**). Rights `outbound-link-only`; no forged images.
+
+**Report:** [`docs/audits/pass-2026-10-12-web-sources.md`](audits/pass-2026-10-12-web-sources.md) ([中文](audits/pass-2026-10-12-web-sources.zh.md)).
+
+**Verified:** `export_check` OK (9 packs; citation gate green).
+
+**Notes:** Slack search found no Hermes/嘻嘻 contact in this workspace. Paywalled titles listed in the audit as title-only (not fake-cited).

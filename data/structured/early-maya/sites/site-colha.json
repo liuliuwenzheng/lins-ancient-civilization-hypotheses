@@ -19,13 +19,17 @@
     "src-maya-ashmore-lowland-settlement-1981",
     "src-maya-sharer-traxler-2006"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.95572,
+    "lon": -88.36654,
+    "precision_note": "GeoNames 3582346 Colha (S.ANS) 17.95572, -88.36654 BZ; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

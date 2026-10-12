@@ -19,13 +19,17 @@
     "src-maya-ringle-yaxuna",
     "src-maya-estrada-belli-2011"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 20.5416,
+    "lon": -88.66254,
+    "precision_note": "GeoNames 11073389 Yaxuna (S.ANS) 20.5416, -88.66254 MX; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

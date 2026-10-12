@@ -18,13 +18,17 @@
   "sources": [
     "src-egypt-chlodnicki-farkha-i-2012"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.874944,
+    "lon": 31.601659,
+    "precision_note": "Pleiades place 189900109 (Tell el-Farkha) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-ancient-egypt.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass; coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass; coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

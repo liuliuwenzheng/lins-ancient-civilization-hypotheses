@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-unesco-chavin-1985",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. “Chavin (Archaeological Site).” World Heritage List, property ID 330. Inscribed 1985 (criterion iii). https://whc.unesco.org/en/list/330/",
+  "url": "https://whc.unesco.org/en/list/330/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Tertiary heritage listing + maps page (published DMS). Use for inscription year, official property name, and published coordinates only. Do NOT treat OUV marketing as archaeological verdict.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-unesco-chavin-1985.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Registered D-2026-10-12-11 web-sources pass."
+  }
+}

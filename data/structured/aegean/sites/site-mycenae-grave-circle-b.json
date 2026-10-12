@@ -18,13 +18,17 @@
   "sources": [
     "src-aegean-mylonas-grave-circle-b-1973"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 37.730752,
+    "lon": 22.754842,
+    "precision_note": "Pleiades place 593460162 (Grave Circle B) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-aegean.md",
       "sources/src-*"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "notes": "Density pass 4 (D-2026-10-12-4); bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

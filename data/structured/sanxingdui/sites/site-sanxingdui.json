@@ -22,7 +22,11 @@
     "src-sanxingdui-chen-xiandan-1990",
     "src-sanxingdui-unesco-tentative-2013"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.993889,
+    "lon": 104.199444,
+    "precision_note": "UNESCO Tentative List 5816 Ancient Shu State — Sanxingdui Site published DMS N30 59 38 E104 11 58 (decimal); accessed 2026-10-12"
+  },
   "entity": "site",
   "editorial": {
     "derived_from": [
@@ -30,7 +34,7 @@
       "data/civilizations/civ-sanxingdui.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Density pass D-2026-10-11-25; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

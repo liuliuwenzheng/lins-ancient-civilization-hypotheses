@@ -19,13 +19,17 @@
     "src-maya-freidel-cerros-1986",
     "src-maya-estrada-belli-2011"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 18.35382,
+    "lon": -88.35068,
+    "precision_note": "GeoNames 3582405 Cerros (S.ANS) 18.35382, -88.35068 BZ (coastal Cerros/Cerro Maya); accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

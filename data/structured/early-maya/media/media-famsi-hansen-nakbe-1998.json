@@ -1,0 +1,29 @@
+{
+  "id": "media-famsi-hansen-nakbe-1998",
+  "entity": "media",
+  "title": {
+    "zh": "FAMSI Hansen Nakbe 报告 PDF",
+    "en": "FAMSI Hansen Nakbe report PDF"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.famsi.org/reports/95113/95113Hansen01.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-maya-hansen-nakbe-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Foundation for the Advancement of Mesoamerican Studies (FAMSI)",
+    "upstream_url": "https://www.famsi.org/reports/95113/95113Hansen01.pdf",
+    "notes": "Outbound open PDF landing; no local hosting of copyrighted page images."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-hansen-nakbe-1998.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-11 outbound media."
+  }
+}

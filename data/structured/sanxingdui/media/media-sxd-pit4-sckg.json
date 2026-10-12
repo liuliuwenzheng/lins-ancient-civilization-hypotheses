@@ -1,0 +1,29 @@
+{
+  "id": "media-sxd-pit4-sckg",
+  "entity": "media",
+  "title": {
+    "zh": "三星堆四号祭祀坑简报（开放 PDF）",
+    "en": "Sanxingdui Pit 4 excavation brief (open PDF)"
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.sckg.com/uploads/soft/20230509/2-230509155UK58.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-sanxingdui-hei-ma-sen-pit4-c14"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Sichuan Provincial Institute of Cultural Relics and Archaeology / sckg.com",
+    "upstream_url": "https://www.sckg.com/uploads/soft/20230509/2-230509155UK58.pdf",
+    "notes": "Outbound open PDF brief; radiocarbon/context details still cite the brief text."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-hei-ma-sen-pit4-c14.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

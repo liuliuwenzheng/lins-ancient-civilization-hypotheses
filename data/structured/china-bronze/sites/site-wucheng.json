@@ -19,13 +19,17 @@
     "src-china-wucheng-1973-2002-2005",
     "src-china-xingan-dayangzhou-1997"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 27.98122,
+    "lon": 115.25632,
+    "precision_note": "GeoNames 7685354 Wucheng Yizhi (S.ANS archaeological/prehistoric site) 27.98122, 115.25632; accessed 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-china-bronze.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted."
+    "derived_on": "2026-10-12",
+    "notes": "Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images. Coordinates not asserted. Coordinates filled 2026-10-12 from cited gazetteer/UNESCO (see precision_note; D-2026-10-12-11)."
   }
 }

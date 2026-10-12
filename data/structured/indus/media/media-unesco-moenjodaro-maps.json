@@ -1,0 +1,29 @@
+{
+  "id": "media-unesco-moenjodaro-maps",
+  "entity": "media",
+  "title": {
+    "zh": "教科文摩亨佐-达罗地图页",
+    "en": "UNESCO Moenjodaro maps page"
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/138/maps/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-indus-unesco-moenjodaro-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/138/maps/",
+    "notes": "Outbound maps/listing page; already have main listing media — maps page for coordinate documentation."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-unesco-moenjodaro-1980.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Outbound link only; D-2026-10-12-11. No forged artifact images."
+  }
+}

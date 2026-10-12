@@ -1,0 +1,29 @@
+{
+  "id": "media-inah-teopantecuanitlan",
+  "entity": "media",
+  "title": {
+    "zh": "INAH 特奥潘特夸尼特兰地点页",
+    "en": "INAH Teopantecuanitlán place page"
+  },
+  "media_type": "document-link",
+  "external_url": "https://lugares.inah.gob.mx/en/node/4467",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-olmec-martinez-donjuan-teopantecuanitlan"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Instituto Nacional de Antropología e Historia (INAH)",
+    "upstream_url": "https://lugares.inah.gob.mx/en/node/4467",
+    "notes": "Outbound INAH lugares page linked from registered source; no local images."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-martinez-donjuan-teopantecuanitlan.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "D-2026-10-12-11 outbound media."
+  }
+}
