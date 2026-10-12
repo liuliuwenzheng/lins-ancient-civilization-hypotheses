@@ -563,3 +563,17 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified counts (`export_check` 2026-10-12, post pass 5):** packs=9; sources **622**; sites **357**; periods **58**; objects **442**; claims **561** (fact 438 / hypothesis 123); media **28**.
 
 **Notes:** Lenses are AI thinking aids (`perspective: true`, `person_endorsement: false`), not person endorsements. Integrity over vanity coverage.
+
+
+### D-2026-10-12-8 — Mesopotamia + Egypt quality audit complete
+
+**Decision:** Complete the claim/site quality audit for `data/structured/mesopotamia/` and `data/structured/egypt/` per D-2026-10-12-7 priority #1. Full report: [`docs/audits/audit-2026-10-12-mesopotamia-egypt.md`](audits/audit-2026-10-12-mesopotamia-egypt.md) ([中文](audits/audit-2026-10-12-mesopotamia-egypt.zh.md)).
+
+**Findings:**
+- **FAIL: 0 / 0** (Mesopotamia / Egypt). No empty or dangling claim `sources[]`; contested primacy rankings already `kind=hypothesis` with disclaimers; no invented site coordinates; objects are assemblage/artifact-class metadata only (no fake inventory numbers).
+- **WARN (open):** (1) all 86 audited sites have `coordinates: null` — intentional, do not invent; (2) bibliographic-meta facts dominate substance facts (~40/63 meso, ~46/63 egypt) — deepen with *sourced* substance next, not vanity prose; (3) a few soft interpretive framings on handbook facts — watchlist only; (4) media still thin (outbound links only).
+- **JSON remediations this pass:** none (no clear FAILs to relabel/trim/drop). Inventing archaeology to close WARNs is forbidden.
+
+**Verified:** `export_check` OK after audit (9 packs; citation gate green).
+
+**Notes:** Integrity over speed. Open WARNs are documented for the next ranked work (cited coordinates + substance claims), not swept under a fake FAIL fix.

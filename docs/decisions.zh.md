@@ -639,3 +639,17 @@
 **核实计数（`export_check` 2026-10-12，第五轮后）：** packs=9；sources **622**；sites **357**；periods **58**；objects **442**；claims **561**（fact 438 / hypothesis 123）；media **28**。
 
 **说明：** 透镜为 AI 思维工具（`perspective: true`，`person_endorsement: false`），非人物背书。完整性优先于虚荣覆盖。
+
+
+### D-2026-10-12-8 — 两河 + 埃及质量审计完成
+
+**决定：** 按 D-2026-10-12-7 优先项 #1，完成 `data/structured/mesopotamia/` 与 `data/structured/egypt/` 的主张/遗址质量审计。全文见 [`docs/audits/audit-2026-10-12-mesopotamia-egypt.zh.md`](audits/audit-2026-10-12-mesopotamia-egypt.zh.md)（[English](audits/audit-2026-10-12-mesopotamia-egypt.md)）。
+
+**结论：**
+- **FAIL：0 / 0**（两河 / 埃及）。主张 `sources[]` 无空、无悬空；争议性「最早/唯一」排名已在假说栏并带免责；遗址无编造坐标；器物仅为组合/器类元数据（无假馆藏号）。
+- **WARN（仍开放）：**（1）审计范围内 86 处遗址 `coordinates: null` — 有意为之，禁止编造；（2）书目元事实远多于实质考古事实（两河约 40/63，埃及约 46/63）— 下一步用*有出处*实质主张加深，禁虚荣散文；（3）少数手册式解释性措辞 — 仅观察清单；（4）媒体仍薄（仅外链）。
+- **本轮 JSON 修复：** 无（无清晰 FAIL 可改标/删改）。禁止为消掉 WARN 而编造考古内容。
+
+**核实：** 审计后 `export_check` 通过（9 包；出处闸门绿）。
+
+**说明：** 诚信优于速度。开放 WARN 记入下一优先工作（有出处坐标 + 实质主张），不用假 FAIL 修复粉饰。
