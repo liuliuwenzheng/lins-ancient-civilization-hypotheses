@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-taube-olmeca-iconography-deepen",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Taube, Karl A. Additional Olmec iconography studies beyond Taube 2004 Dumbarton Oaks volume already registered (maize god; rain symbolism).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Secondary iconographic analyses. Symbol readings are interpretive; do not treat as proven theology.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-taube-olmeca-iconography-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

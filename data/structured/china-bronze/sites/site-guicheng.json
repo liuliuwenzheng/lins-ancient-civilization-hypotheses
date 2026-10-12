@@ -1,0 +1,30 @@
+{
+  "id": "site-guicheng",
+  "entity": "site",
+  "names": {
+    "zh": "归城",
+    "en": "Guicheng",
+    "native": null
+  },
+  "kind_note": "Western Zhou walled settlement / foundry (Shandong)",
+  "region": "Longkou, Shandong, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "中美归城项目报告的西周城址与冶金遗存。",
+    "en": "Western Zhou walled settlement and metallurgy per Sino-American Guicheng Project."
+  },
+  "sources": [
+    "src-china-guicheng-survey-excavation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

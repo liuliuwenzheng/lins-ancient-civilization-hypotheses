@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-cohre-andrews-uaxactun-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Additional Carnegie Institution Uaxactun reporting beyond Ricketson/Smith volumes already registered (architectural/sequence deepeners).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Additional primary Carnegie Uaxactun materials. Complements existing Uaxactun sources; no invented structure numbers.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-cohre-andrews-uaxactun-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

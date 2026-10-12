@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-qianzhangda",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《滕州前掌大墓地》（2005）报告商–周墓地发掘。",
+    "en": "The 2005 Qianzhangda cemetery report publishes Shang–Zhou cemetery excavations."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-qianzhangda"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-qianzhangda-cemetery"
+  ],
+  "sources": [
+    "src-china-qianzhangda-tengzhou-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

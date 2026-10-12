@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-fangchijie-chengdu",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Chengdu excavation briefs on Fangchijie (方池街) and related early Chengdu urban loci bridging Shi'erqiao–Jinsha sequences.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary urban-sequence briefs for early Chengdu plain loci. Cite published stratigraphic summaries only.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-fangchijie-chengdu.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

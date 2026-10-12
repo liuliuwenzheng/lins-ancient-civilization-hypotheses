@@ -1,0 +1,30 @@
+{
+  "id": "claim-aegean-single-calendar-year",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "将锡拉喷发钉死在单一日历年——超出当前模型稳健性，留假说栏。",
+    "en": "Pinning the Thera eruption to a single calendar year exceeds current model robustness — keep as hypothesis."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-thera-chronology-pointer"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aegean-manning-thera-plos-2022",
+    "src-aegean-wiener-chronology-debate"
+  ],
+  "disclaimer": "Hypothesis: Bayesian ranges are not unique calendar-year facts.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

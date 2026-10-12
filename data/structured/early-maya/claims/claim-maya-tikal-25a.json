@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-tikal-25a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Culbert TR 25A（1993）公布蒂卡尔墓葬/窖藏/问题堆积整器。",
+    "en": "Culbert TR 25A (1993) publishes Tikal whole vessels from burials, caches, and problematical deposits."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-tikal-ceramics-tr25"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tikal-tr25a-vessels"
+  ],
+  "sources": [
+    "src-maya-culbert-tikal-25a-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

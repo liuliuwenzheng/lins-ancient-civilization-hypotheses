@@ -1,0 +1,32 @@
+{
+  "id": "claim-sxd-pits-3-8",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "2021 起官方简报公布三星堆祭祀坑 3–8 的受控发掘与现场保护。",
+    "en": "Official 2021– briefs publish controlled excavation and on-site conservation of Sanxingdui pits 3–8."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui-pits-3-8",
+    "site-sanxingdui-pits-3-8-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-pits-3-8-2021"
+  ],
+  "sources": [
+    "src-sanxingdui-pit3-8-kaogu-briefs-2021"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

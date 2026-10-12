@@ -1,0 +1,32 @@
+{
+  "id": "claim-china-fengchu-she-palace",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "凤雏三号基址庭院为西周「社宫」国家级祭祀场所——属简报作者解释，不作唯一定论。",
+    "en": "That Fengchu Foundation No. 3 courtyard is a Western Zhou state-level \"she palace\" shrine is the brief authors' interpretation — not a sole verdict."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-zhouyuan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-zhouyuan-fengchu"
+  ],
+  "sources": [
+    "src-china-zhouyuan-fengchu3-brief-2014",
+    "src-china-zhouyuan-char-2017"
+  ],
+  "disclaimer": "Hypothesis: ritual function labels (she palace) remain interpretive pending broader consensus.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

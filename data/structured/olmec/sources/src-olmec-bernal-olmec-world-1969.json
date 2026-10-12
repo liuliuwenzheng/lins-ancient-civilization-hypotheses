@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-bernal-olmec-world-1969",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Bernal, Ignacio. 1969. The Olmec World. Translated by Doris Heyden and Fernando Horcasitas. Berkeley: University of California Press.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Classic secondary synthesis of Olmec archaeology and art (English translation of El mundo olmeca). Prefer site reports for excavation facts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-bernal-olmec-world-1969.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

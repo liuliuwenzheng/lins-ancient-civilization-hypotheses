@@ -1,0 +1,30 @@
+{
+  "id": "site-jiangzhang",
+  "entity": "site",
+  "names": {
+    "zh": "江章村/江章",
+    "en": "Jiangzhang",
+    "native": null
+  },
+  "kind_note": "Baodun-culture peer walled site",
+  "region": "Chengdu Plain, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "宝墩文化同型城址简报点。",
+    "en": "Baodun-culture peer walled site per excavation briefs."
+  },
+  "sources": [
+    "src-sanxingdui-jiangzhang-baodun-peer"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

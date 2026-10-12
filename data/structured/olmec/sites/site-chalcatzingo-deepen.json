@@ -1,0 +1,31 @@
+{
+  "id": "site-chalcatzingo-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "查尔卡钦戈（加深）",
+    "en": "Chalcatzingo (deepened)",
+    "native": null
+  },
+  "kind_note": "Highland Formative center with Olmec-style monuments",
+  "region": "Morelos, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Grove 后续报告加深的高地纪念碑中心。",
+    "en": "Highland monument center deepened via later Grove reporting."
+  },
+  "sources": [
+    "src-olmec-grove-chalcatzingo-revisit",
+    "src-olmec-grove-chalcatzingo-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

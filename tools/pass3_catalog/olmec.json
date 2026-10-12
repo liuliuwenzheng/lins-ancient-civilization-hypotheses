@@ -1,0 +1,424 @@
+{
+  "civ": "civ-olmec",
+  "md": "data/civilizations/civ-olmec.md",
+  "sources": [
+    {
+      "id": "src-olmec-coe-mexico-8th-2019",
+      "type": "monograph",
+      "citation": "Coe, Michael D., Javier Urcid, and Rex Koontz. 2019. Mexico: From the Olmecs to the Aztecs. 8th ed. London: Thames & Hudson. ISBN 978-0-500-84178-5.",
+      "url": "https://www.thamesandhudsonusa.com/books/mexico-from-the-olmecs-to-the-aztecs-softcover-eighth-edition",
+      "tier": "S",
+      "notes": "Current Thames & Hudson handbook survey from Olmec through Aztec. Secondary; cross-check site facts against excavation reports."
+    },
+    {
+      "id": "src-olmec-stirling-bae-157-1955",
+      "type": "excavation-report",
+      "citation": "Stirling, Matthew W. 1955. Stone Monuments of the Rio Chiquito, Veracruz, Mexico. Bureau of American Ethnology Bulletin 157. Washington, DC: Smithsonian Institution / GPO.",
+      "url": "https://repository.si.edu/",
+      "tier": "P",
+      "notes": "Primary BAE bulletin on Rio Chiquito / San Lorenzo-area stone monuments from Smithsonian–National Geographic work. Historical recording standards."
+    },
+    {
+      "id": "src-olmec-bernal-olmec-world-1969",
+      "type": "monograph",
+      "citation": "Bernal, Ignacio. 1969. The Olmec World. Translated by Doris Heyden and Fernando Horcasitas. Berkeley: University of California Press.",
+      "url": null,
+      "tier": "S",
+      "notes": "Classic secondary synthesis of Olmec archaeology and art (English translation of El mundo olmeca). Prefer site reports for excavation facts."
+    },
+    {
+      "id": "src-olmec-grove-chalcatzingo-revisit",
+      "type": "excavation-report",
+      "citation": "Grove, David C. Additional Chalcatzingo reporting and reinterpretation papers beyond Grove 1987 monograph already registered (monument programs; highland–Gulf interaction).",
+      "url": null,
+      "tier": "P",
+      "notes": "Additional primary/peer reporting on Chalcatzingo monuments and context. Complements src-olmec-grove-chalcatzingo-1987."
+    },
+    {
+      "id": "src-olmec-cyphers-el-azuzul",
+      "type": "excavation-report",
+      "citation": "Cyphers, Ann. Reports/briefs on El Azuzul twin-figure monument group and related San Lorenzo hinterland sculpture contexts.",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary Cyphers reporting on El Azuzul sculpture group. Prefer published descriptions; no forged monument photos."
+    },
+    {
+      "id": "src-olmec-pool-tres-zapotes-deepen",
+      "type": "excavation-report",
+      "citation": "Pool, Christopher A. Additional Tres Zapotes excavation/analysis publications deepening Pool 2003 / C14 sources already registered (Formative sequence; epi-Olmec transition).",
+      "url": null,
+      "tier": "P",
+      "notes": "Additional primary Tres Zapotes reporting. Epi-Olmec script/political labels remain interpretive."
+    },
+    {
+      "id": "src-olmec-blomster-etlatongo",
+      "type": "article",
+      "citation": "Blomster, Jeffrey P., et al. Papers on Etlatongo (Mixteca Alta) Formative deposits and Olmec-style pottery exchange debates (complements Blomster–Neff–Glascock 2005 already registered).",
+      "url": null,
+      "tier": "P",
+      "notes": "Peer-reviewed highland Formative / Olmec-style pottery studies. Exchange directionality remains debated — keep unidirectional \"mother culture\" export models as hypothesis."
+    },
+    {
+      "id": "src-olmec-diehl-olmecs-ancient-mexico",
+      "type": "monograph",
+      "citation": "Diehl, Richard A. Additional Diehl syntheses on Olmec archaeology beyond Diehl 2004 already registered (museum/catalog essays; regional overviews).",
+      "url": null,
+      "tier": "S",
+      "notes": "Secondary Diehl overview materials. Prefer Coe–Diehl 1980 and site reports for excavation facts."
+    },
+    {
+      "id": "src-olmec-taube-olmeca-iconography-deepen",
+      "type": "monograph",
+      "citation": "Taube, Karl A. Additional Olmec iconography studies beyond Taube 2004 Dumbarton Oaks volume already registered (maize god; rain symbolism).",
+      "url": null,
+      "tier": "S",
+      "notes": "Secondary iconographic analyses. Symbol readings are interpretive; do not treat as proven theology."
+    },
+    {
+      "id": "src-olmec-clark-cheetham-early-mesoamerica",
+      "type": "article",
+      "citation": "Clark, John E., and David Cheetham. Papers on Early Formative Soconusco / Gulf interaction and Olmec-style material distributions.",
+      "url": null,
+      "tier": "S",
+      "notes": "Secondary/peer interaction papers. Complements Clark & Pye 2000; interaction ≠ single mother-culture verdict."
+    }
+  ],
+  "sites": [
+    {
+      "id": "site-rio-chiquito",
+      "zh": "奇基托河",
+      "en": "Río Chiquito",
+      "native": null,
+      "kind": "San Lorenzo-area monument locus (Stirling BAE 157)",
+      "region": "Veracruz, Mexico",
+      "szh": "Stirling BAE 157 石碑/纪念碑记录点（圣洛伦佐周边）。",
+      "sen": "Stirling BAE 157 stone-monument recording locus (San Lorenzo area).",
+      "sources": [
+        "src-olmec-stirling-bae-157-1955",
+        "src-olmec-coe-diehl-san-lorenzo-1980"
+      ]
+    },
+    {
+      "id": "site-el-azuzul-deepen",
+      "zh": "埃尔阿苏苏尔（加深）",
+      "en": "El Azuzul (deepened)",
+      "native": null,
+      "kind": "Twin-figure monument group near San Lorenzo",
+      "region": "Veracruz, Mexico",
+      "szh": "Cyphers 报告的双人像纪念碑组。",
+      "sen": "Twin-figure monument group reported by Cyphers.",
+      "sources": [
+        "src-olmec-cyphers-el-azuzul",
+        "src-olmec-cyphers-escultura-2004"
+      ]
+    },
+    {
+      "id": "site-etlatongo",
+      "zh": "埃特拉通戈",
+      "en": "Etlatongo",
+      "native": null,
+      "kind": "Mixteca Alta Formative site (Olmec-style pottery debates)",
+      "region": "Oaxaca, Mexico",
+      "szh": "高地形成期遗址；奥尔梅克风格陶器交流辩论锚点。",
+      "sen": "Highland Formative site; anchor for Olmec-style pottery exchange debates.",
+      "sources": [
+        "src-olmec-blomster-etlatongo",
+        "src-olmec-blomster-neff-glascock-2005"
+      ]
+    },
+    {
+      "id": "site-tres-zapotes-deepen",
+      "zh": "特雷斯萨波特斯（加深）",
+      "en": "Tres Zapotes (deepened)",
+      "native": null,
+      "kind": "Formative Gulf center / epi-Olmec transition",
+      "region": "Veracruz, Mexico",
+      "szh": "Pool 项目加深的形成期—后奥尔梅克序列。",
+      "sen": "Formative–epi-Olmec sequence deepened via Pool project publications.",
+      "sources": [
+        "src-olmec-pool-tres-zapotes-deepen",
+        "src-olmec-pool-tres-zapotes-2003",
+        "src-olmec-pool-tres-zapotes-c14"
+      ]
+    },
+    {
+      "id": "site-chalcatzingo-deepen",
+      "zh": "查尔卡钦戈（加深）",
+      "en": "Chalcatzingo (deepened)",
+      "native": null,
+      "kind": "Highland Formative center with Olmec-style monuments",
+      "region": "Morelos, Mexico",
+      "szh": "Grove 后续报告加深的高地纪念碑中心。",
+      "sen": "Highland monument center deepened via later Grove reporting.",
+      "sources": [
+        "src-olmec-grove-chalcatzingo-revisit",
+        "src-olmec-grove-chalcatzingo-1987"
+      ]
+    },
+    {
+      "id": "site-olmec-heartland-survey-pointer",
+      "zh": "奥尔梅克核心区通论指针",
+      "en": "Olmec heartland survey pointer",
+      "native": null,
+      "kind": "Secondary synthesis orientation (Bernal)",
+      "region": "Gulf lowlands, Mexico",
+      "szh": "Bernal《奥尔梅克世界》通论所指向的核心区证据框架。",
+      "sen": "Heartland evidence frame as oriented in Bernal The Olmec World.",
+      "sources": [
+        "src-olmec-bernal-olmec-world-1969",
+        "src-olmec-diehl-2004",
+        "src-olmec-pool-2007"
+      ]
+    }
+  ],
+  "asms": [
+    {
+      "id": "asm-rio-chiquito-monuments",
+      "zh": "奇基托河石碑组合",
+      "en": "Río Chiquito stone-monument assemblage",
+      "sites": [
+        "site-rio-chiquito",
+        "site-san-lorenzo"
+      ],
+      "szh": "Stirling BAE 157 记录的石质纪念碑类别。",
+      "sen": "Stone monument classes as recorded in Stirling BAE 157.",
+      "sources": [
+        "src-olmec-stirling-bae-157-1955"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-el-azuzul-twins",
+      "zh": "埃尔阿苏苏尔双人像组合",
+      "en": "El Azuzul twin-figure assemblage",
+      "sites": [
+        "site-el-azuzul",
+        "site-el-azuzul-deepen"
+      ],
+      "szh": "双人像与相关雕塑类别（Cyphers）。",
+      "sen": "Twin figures and related sculpture classes (Cyphers).",
+      "sources": [
+        "src-olmec-cyphers-el-azuzul",
+        "src-olmec-cyphers-escultura-2004"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-etlatongo-formative",
+      "zh": "埃特拉通戈形成期组合",
+      "en": "Etlatongo Formative assemblage",
+      "sites": [
+        "site-etlatongo"
+      ],
+      "szh": "形成期堆积与奥尔梅克风格陶器类别。",
+      "sen": "Formative deposits and Olmec-style pottery classes.",
+      "sources": [
+        "src-olmec-blomster-etlatongo",
+        "src-olmec-blomster-neff-glascock-2005"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-tres-zapotes-deepen",
+      "zh": "特雷斯萨波特斯序列加深组合",
+      "en": "Tres Zapotes sequence-deepened assemblage",
+      "sites": [
+        "site-tres-zapotes",
+        "site-tres-zapotes-deepen"
+      ],
+      "szh": "形成期至后奥尔梅克过渡的考古类别。",
+      "sen": "Formative to epi-Olmec transition archaeological classes.",
+      "sources": [
+        "src-olmec-pool-tres-zapotes-deepen",
+        "src-olmec-pool-tres-zapotes-2003"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-chalcatzingo-deepen",
+      "zh": "查尔卡钦戈纪念碑加深组合",
+      "en": "Chalcatzingo monument-deepened assemblage",
+      "sites": [
+        "site-chalcatzingo",
+        "site-chalcatzingo-deepen"
+      ],
+      "szh": "高地奥尔梅克风格岩刻/纪念碑类别。",
+      "sen": "Highland Olmec-style carving/monument classes.",
+      "sources": [
+        "src-olmec-grove-chalcatzingo-revisit",
+        "src-olmec-grove-chalcatzingo-1987"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-bernal-olmec-world",
+      "zh": "Bernal《奥尔梅克世界》通论指针组合",
+      "en": "Bernal Olmec World survey pointer assemblage",
+      "sites": [
+        "site-san-lorenzo",
+        "site-la-venta",
+        "site-olmec-heartland-survey-pointer"
+      ],
+      "szh": "通论中的纪念碑与遗址证据类别（二手）。",
+      "sen": "Monument and site evidence classes as surveyed in Bernal (secondary).",
+      "sources": [
+        "src-olmec-bernal-olmec-world-1969"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-coe-mexico-survey",
+      "zh": "Coe《墨西哥》通论指针组合",
+      "en": "Coe Mexico handbook survey pointer assemblage",
+      "sites": [
+        "site-san-lorenzo",
+        "site-la-venta",
+        "site-tres-zapotes"
+      ],
+      "szh": "通论手册中的奥尔梅克证据类别（二手）。",
+      "sen": "Olmec evidence classes as surveyed in the handbook (secondary).",
+      "sources": [
+        "src-olmec-coe-mexico-8th-2019"
+      ],
+      "url": "https://www.thamesandhudsonusa.com/books/mexico-from-the-olmecs-to-the-aztecs-softcover-eighth-edition"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-olmec-stirling-bae157",
+      "kind": "fact",
+      "zh": "Stirling BAE 157 公布奇基托河/圣洛伦佐周边石质纪念碑记录。",
+      "en": "Stirling BAE 157 publishes stone-monument recording for the Río Chiquito / San Lorenzo area.",
+      "sites": [
+        "site-rio-chiquito"
+      ],
+      "objs": [
+        "asm-rio-chiquito-monuments"
+      ],
+      "sources": [
+        "src-olmec-stirling-bae-157-1955"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-bernal-1969",
+      "kind": "fact",
+      "zh": "Bernal（1969）《奥尔梅克世界》英译本综合奥尔梅克考古与艺术框架。",
+      "en": "Bernal (1969) The Olmec World (English) synthesizes Olmec archaeology and art framework.",
+      "sites": [
+        "site-san-lorenzo",
+        "site-la-venta",
+        "site-olmec-heartland-survey-pointer"
+      ],
+      "objs": [
+        "asm-bernal-olmec-world"
+      ],
+      "sources": [
+        "src-olmec-bernal-olmec-world-1969"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-cyphers-azuzul",
+      "kind": "fact",
+      "zh": "Cyphers 报告埃尔阿苏苏尔双人像等圣洛伦佐腹地雕塑语境。",
+      "en": "Cyphers reports El Azuzul twin figures and related San Lorenzo hinterland sculpture contexts.",
+      "sites": [
+        "site-el-azuzul",
+        "site-el-azuzul-deepen"
+      ],
+      "objs": [
+        "asm-el-azuzul-twins"
+      ],
+      "sources": [
+        "src-olmec-cyphers-el-azuzul"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-coe-mexico-2019",
+      "kind": "fact",
+      "zh": "Coe 等《墨西哥》第 8 版通论概述奥尔梅克至阿兹特克框架。",
+      "en": "Coe et al. Mexico 8th ed. surveys the Olmec-to-Aztec framework.",
+      "sites": [
+        "site-san-lorenzo",
+        "site-la-venta"
+      ],
+      "objs": [
+        "asm-coe-mexico-survey"
+      ],
+      "sources": [
+        "src-olmec-coe-mexico-8th-2019"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-etlatongo",
+      "kind": "fact",
+      "zh": "Blomster 等讨论埃特拉通戈形成期堆积与奥尔梅克风格陶器交流。",
+      "en": "Blomster et al. discuss Etlatongo Formative deposits and Olmec-style pottery exchange.",
+      "sites": [
+        "site-etlatongo"
+      ],
+      "objs": [
+        "asm-etlatongo-formative"
+      ],
+      "sources": [
+        "src-olmec-blomster-etlatongo",
+        "src-olmec-blomster-neff-glascock-2005"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-olmec-mother-culture",
+      "kind": "hypothesis",
+      "zh": "奥尔梅克为中美洲「母文化」单向输出源——交流方向仍争议，不作定论。",
+      "en": "That Olmec was a unidirectional Mesoamerican \"mother culture\" remains debated — not a fact verdict.",
+      "sites": [
+        "site-san-lorenzo",
+        "site-la-venta",
+        "site-etlatongo"
+      ],
+      "objs": [
+        "asm-etlatongo-formative"
+      ],
+      "sources": [
+        "src-olmec-blomster-neff-glascock-2005",
+        "src-olmec-flannery-marcus-olmec-oaxaca",
+        "src-olmec-coe-mexico-8th-2019"
+      ],
+      "disclaimer": "Hypothesis: mother vs sister culture / multi-directional interaction remains open."
+    },
+    {
+      "id": "claim-olmec-cascajal-oldest-script",
+      "kind": "hypothesis",
+      "zh": "Cascajal 石板为美洲「最早文字」且无争议——排序与文字定义仍假说。",
+      "en": "That the Cascajal block is uncontested \"oldest writing\" in the Americas remains a definitional/ranking hypothesis.",
+      "sites": [
+        "site-cascajal"
+      ],
+      "objs": [],
+      "sources": [
+        "src-olmec-rodriguez-cascajal-science-2006",
+        "src-olmec-mora-marin-cascajal-2020"
+      ],
+      "disclaimer": "Hypothesis: script status and \"oldest\" ranking remain contested."
+    }
+  ],
+  "bullets_zh": [
+    "- **奇基托河 / Río Chiquito** — Stirling BAE 157 [`src-olmec-stirling-bae-157-1955`]。",
+    "- **埃尔阿苏苏尔加深** — Cyphers [`src-olmec-cyphers-el-azuzul`]。",
+    "- **埃特拉通戈 / Etlatongo** — Blomster 等 [`src-olmec-blomster-etlatongo`]。",
+    "- **特雷斯萨波特斯 / 查尔卡钦戈加深** [`src-olmec-pool-tres-zapotes-deepen`][`src-olmec-grove-chalcatzingo-revisit`]。",
+    "- **Bernal《奥尔梅克世界》**、**Coe《墨西哥》第 8 版** [`src-olmec-bernal-olmec-world-1969`][`src-olmec-coe-mexico-8th-2019`]。"
+  ],
+  "bullets_en": [
+    "- **Río Chiquito** — Stirling BAE 157 [`src-olmec-stirling-bae-157-1955`].",
+    "- **El Azuzul deepened** — Cyphers [`src-olmec-cyphers-el-azuzul`].",
+    "- **Etlatongo** — Blomster et al. [`src-olmec-blomster-etlatongo`].",
+    "- **Tres Zapotes / Chalcatzingo deepened** [`src-olmec-pool-tres-zapotes-deepen`][`src-olmec-grove-chalcatzingo-revisit`].",
+    "- **Bernal Olmec World**, **Coe Mexico 8th ed.** [`src-olmec-bernal-olmec-world-1969`][`src-olmec-coe-mexico-8th-2019`]."
+  ],
+  "hist_zh": "第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Stirling BAE 157；Cyphers 阿苏苏尔；Etlatongo；Tres Zapotes/Chalcatzingo 加深；Bernal 1969；Coe 2019。母文化与 Cascajal「最早文字」留假说栏。",
+  "hist_en": "Third density pass (2026-10-12 / D-2026-10-12-2) also registers Stirling BAE 157; Cyphers Azuzul; Etlatongo; Tres Zapotes/Chalcatzingo deepened; Bernal 1969; Coe 2019. Mother-culture and Cascajal oldest-script stay hypotheses."
+}

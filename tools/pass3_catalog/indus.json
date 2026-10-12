@@ -1,0 +1,418 @@
+{
+  "civ": "civ-indus-valley",
+  "md": "data/civilizations/civ-indus-valley.md",
+  "sources": [
+    {
+      "id": "src-indus-bisht-banawali-1982",
+      "type": "article",
+      "citation": "Bisht, R. S. 1982. \"Excavations at Banawali, 1974–77.\" In Harappan Civilization: A Contemporary Perspective, edited by Gregory L. Possehl, 113–124. New Delhi: Oxford & IBH / American Institute of Indian Studies.",
+      "url": "https://www.harappa.com/content/harappan-civilization-and-rojdi",
+      "tier": "P",
+      "notes": "Primary ASI excavation summary for Banawali 1974–77 seasons (Pre-/Mature-/Post-Harappan sequence). Page range as published in Possehl 1982 volume; no invented find lists."
+    },
+    {
+      "id": "src-indus-possehl-raval-rojdi-1989",
+      "type": "excavation-report",
+      "citation": "Possehl, Gregory L., and M. H. Raval. 1989. Harappan Civilization and Rojdi. New Delhi: Oxford & IBH / American Institute of Indian Studies; Leiden: E. J. Brill (ISBN 90-04-09157-1 / 978-90-04-09157-3).",
+      "url": "https://www.harappa.com/content/harappan-civilization-and-rojdi",
+      "tier": "P",
+      "notes": "Primary monograph on four seasons at Rojdi (Rajkot District, Saurashtra) by Gujarat State Archaeology and University of Pennsylvania."
+    },
+    {
+      "id": "src-indus-fairservis-novitates-2055-1961",
+      "type": "article",
+      "citation": "Fairservis, Walter A., Jr. 1961. \"The Harappan Civilization: New Evidence and More Theory.\" American Museum Novitates, no. 2055. New York: American Museum of Natural History.",
+      "url": "https://digitallibrary.amnh.org/items/2dc29e0b-743e-4207-a92b-5397551510ef",
+      "tier": "S",
+      "notes": "AMNH Novitates synthesis of Harappan evidence and theory (1961). Secondary relative to site reports; useful for mid-20th-century research history."
+    },
+    {
+      "id": "src-indus-allchin-birth-1968",
+      "type": "monograph",
+      "citation": "Allchin, Bridget, and Raymond Allchin. 1968. The Birth of Indian Civilization: India and Pakistan before 500 B.C. Harmondsworth: Penguin Books (Pelican).",
+      "url": "https://archive.org/details/in.ernet.dli.2015.126973",
+      "tier": "S",
+      "notes": "Broad Penguin survey of South Asian prehistory including Indus/Harappan. Secondary handbook; cross-check site claims against primary reports."
+    },
+    {
+      "id": "src-indus-possehl-ancient-cities-1979",
+      "type": "monograph",
+      "citation": "Possehl, Gregory L., ed. 1979. Ancient Cities of the Indus. Durham, N.C.: Carolina Academic Press / New Delhi: Vikas. ISBN 0-89089-093-5.",
+      "url": "https://www.exoticindiaart.com/book/details/ancient-cities-of-indus-nam783/",
+      "tier": "S",
+      "notes": "Edited compilation of key articles on Indus urbanism with bibliography. Secondary container; cite individual papers when claims are paper-specific."
+    },
+    {
+      "id": "src-indus-rao-lothal-vol2-1985",
+      "type": "excavation-report",
+      "citation": "Rao, S. R. 1985. Lothal: A Harappan Port Town (1955–62). Volume 2. Memoirs of the Archaeological Survey of India, no. 78. New Delhi: Archaeological Survey of India.",
+      "url": "https://archive.org/details/in.ernet.dli.2015.532560",
+      "tier": "P",
+      "notes": "ASI Memoir 78 vol. 2 specialist reports (human/animal remains, chemical/botanical analyses, portable finds). Complements Rao 1979 vol. 1 already registered."
+    },
+    {
+      "id": "src-indus-bisht-banawali-town-planning-1984",
+      "type": "article",
+      "citation": "Bisht, R. S. 1984. \"Structural Remains and Town-Planning of Banawali.\" In Frontiers of the Indus Civilization, edited by B. B. Lal and S. P. Gupta, 89–97. New Delhi: Books & Books.",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary structural/town-planning discussion of Banawali based on ASI excavations. No invented street-grid measurements beyond published description."
+    },
+    {
+      "id": "src-indus-jansen-mohenjo-daro-interim-1984",
+      "type": "excavation-report",
+      "citation": "Jansen, Michael, and Günter Urban, eds. 1984. Interim Reports Vol. 1: Reports on Field Work Carried out at Mohenjo-Daro, Pakistan, 1982–83 by the IsMEO–Aachen University Mission. Aachen / Rome: RWTH Aachen / IsMEO.",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary interim field reports of the German–Italian documentation/excavation mission at Mohenjo-Daro (architectural documentation, non-invasive survey)."
+    },
+    {
+      "id": "src-indus-shaffer-indus-tradition-1992",
+      "type": "article",
+      "citation": "Shaffer, Jim G. 1992. \"The Indus Valley, Baluchistan, and Helmand Traditions: Neolithic through Bronze Age.\" In Chronologies in Old World Archaeology, 3rd ed., edited by Robert W. Ehrich, vol. 1, 441–464. Chicago: University of Chicago Press.",
+      "url": null,
+      "tier": "S",
+      "notes": "Secondary chronological tradition essay framing Indus/Baluchistan/Helmand sequences. Useful for periodization pointers; not a substitute for site reports."
+    },
+    {
+      "id": "src-indus-kenoyer-bead-technologies-1997",
+      "type": "article",
+      "citation": "Kenoyer, Jonathan Mark. 1997. \"Trade and Technology of the Indus Valley: New Insights from Harappa, Pakistan.\" World Archaeology 29 (2): 262–280.",
+      "url": "https://doi.org/10.1080/00438243.1997.9980377",
+      "tier": "P",
+      "notes": "Peer-reviewed craft/trade synthesis grounded in Harappa excavations (bead and related technologies). Complements Meadow/Kenoyer Harappa reports already registered."
+    }
+  ],
+  "sites": [
+    {
+      "id": "site-banawali",
+      "zh": "巴纳瓦利",
+      "en": "Banawali",
+      "native": null,
+      "kind": "Harappan town with Pre-/Mature-/Post- sequence (ASI)",
+      "region": "Fatehabad District, Haryana, India",
+      "szh": "Bisht 报告的早/成熟/晚哈拉帕序列与城址规划讨论。",
+      "sen": "Bisht reports Pre-/Mature-/Post-Harappan sequence and town-planning discussion.",
+      "sources": [
+        "src-indus-bisht-banawali-1982",
+        "src-indus-bisht-banawali-town-planning-1984"
+      ]
+    },
+    {
+      "id": "site-rojdi",
+      "zh": "罗杰迪",
+      "en": "Rojdi",
+      "native": null,
+      "kind": "Saurashtra Harappan town (Gujarat–Penn excavations)",
+      "region": "Rajkot District, Gujarat, India",
+      "szh": "Possehl & Raval 1989 四季发掘专报遗址。",
+      "sen": "Four-season excavation monograph site (Possehl & Raval 1989).",
+      "sources": [
+        "src-indus-possehl-raval-rojdi-1989"
+      ]
+    },
+    {
+      "id": "site-lothal-vol2-specialists",
+      "zh": "洛塔尔（卷二专科）",
+      "en": "Lothal (vol. 2 specialists)",
+      "native": null,
+      "kind": "ASI Memoir 78 vol. 2 specialist appendices orientation",
+      "region": "Ahmedabad District, Gujarat, India",
+      "szh": "Rao 1985 卷二专科报告所锚定的洛塔尔可检索单元（与既有洛塔尔址互补）。",
+      "sen": "Archive unit for Rao 1985 vol. 2 specialist reports (complements existing Lothal site).",
+      "sources": [
+        "src-indus-rao-lothal-vol2-1985",
+        "src-indus-rao-lothal-1979"
+      ]
+    },
+    {
+      "id": "site-mohenjo-daro-aachen",
+      "zh": "摩亨佐-达罗（亚琛—IsMEO 记录）",
+      "en": "Mohenjo-Daro (Aachen–IsMEO documentation)",
+      "native": null,
+      "kind": "RWTH Aachen / IsMEO documentation mission locus",
+      "region": "Sindh, Pakistan",
+      "szh": "Jansen/Urban 临时报告所代表的德意记录/发掘任务。",
+      "sen": "German–Italian documentation/excavation mission represented by Jansen/Urban interim reports.",
+      "sources": [
+        "src-indus-jansen-mohenjo-daro-interim-1984",
+        "src-indus-marshall-1931"
+      ]
+    },
+    {
+      "id": "site-harappa-craft-kenoyer",
+      "zh": "哈拉帕（工艺/贸易加深）",
+      "en": "Harappa (craft/trade deepened)",
+      "native": null,
+      "kind": "Craft and trade evidence from Harappa excavations",
+      "region": "Punjab, Pakistan",
+      "szh": "Kenoyer 1997 以哈拉帕发掘为基础的贸易与技术讨论锚点。",
+      "sen": "Kenoyer 1997 trade/technology discussion anchored in Harappa excavations.",
+      "sources": [
+        "src-indus-kenoyer-bead-technologies-1997",
+        "src-indus-meadow-harappa-1991",
+        "src-indus-kenoyer-1998"
+      ]
+    },
+    {
+      "id": "site-indus-tradition-shaffer",
+      "zh": "印度河传统（年代框架指针）",
+      "en": "Indus tradition (chronology-framework pointer)",
+      "native": null,
+      "kind": "Regional tradition framing (Shaffer 1992)",
+      "region": "Greater Indus / Baluchistan / Helmand",
+      "szh": "Shaffer 1992 传统—年代框架指针；非单一遗址发掘。",
+      "sen": "Shaffer 1992 tradition–chronology framework pointer; not a single excavated site.",
+      "sources": [
+        "src-indus-shaffer-indus-tradition-1992"
+      ]
+    }
+  ],
+  "asms": [
+    {
+      "id": "asm-banawali-sequence",
+      "zh": "巴纳瓦利三期文化组合",
+      "en": "Banawali three-fold cultural assemblage",
+      "sites": [
+        "site-banawali"
+      ],
+      "szh": "早/成熟/晚哈拉帕层序与结构遗存类别（Bisht）。",
+      "sen": "Pre-/Mature-/Post-Harappan sequence and structural remain classes (Bisht).",
+      "sources": [
+        "src-indus-bisht-banawali-1982",
+        "src-indus-bisht-banawali-town-planning-1984"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-rojdi-harappan",
+      "zh": "罗杰迪哈拉帕发掘组合",
+      "en": "Rojdi Harappan excavation assemblage",
+      "sites": [
+        "site-rojdi"
+      ],
+      "szh": "Possehl & Raval 专报中的城址与器物组合类别。",
+      "sen": "Town and artifact-class assemblage as published in Possehl & Raval.",
+      "sources": [
+        "src-indus-possehl-raval-rojdi-1989"
+      ],
+      "url": "https://www.harappa.com/content/harappan-civilization-and-rojdi"
+    },
+    {
+      "id": "asm-lothal-vol2",
+      "zh": "洛塔尔卷二专科组合",
+      "en": "Lothal vol. 2 specialist assemblage",
+      "sites": [
+        "site-lothal",
+        "site-lothal-vol2-specialists"
+      ],
+      "szh": "人骨、动物、化学与植物等专科分析类别（Rao 1985）。",
+      "sen": "Human, faunal, chemical, and botanical specialist-analysis classes (Rao 1985).",
+      "sources": [
+        "src-indus-rao-lothal-vol2-1985"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-mohenjo-daro-aachen",
+      "zh": "摩亨佐-达罗亚琛记录组合",
+      "en": "Mohenjo-Daro Aachen documentation assemblage",
+      "sites": [
+        "site-mohenjo-daro",
+        "site-mohenjo-daro-aachen"
+      ],
+      "szh": "建筑记录与无创调查类别（Jansen/Urban 临时报告）。",
+      "sen": "Architectural documentation and non-invasive survey classes (Jansen/Urban interim reports).",
+      "sources": [
+        "src-indus-jansen-mohenjo-daro-interim-1984"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-harappa-craft-trade",
+      "zh": "哈拉帕工艺与贸易组合",
+      "en": "Harappa craft and trade assemblage",
+      "sites": [
+        "site-harappa",
+        "site-harappa-craft-kenoyer"
+      ],
+      "szh": "珠作及相关技术/贸易证据类别（Kenoyer 1997）。",
+      "sen": "Bead and related technology/trade evidence classes (Kenoyer 1997).",
+      "sources": [
+        "src-indus-kenoyer-bead-technologies-1997"
+      ],
+      "url": "https://doi.org/10.1080/00438243.1997.9980377"
+    },
+    {
+      "id": "asm-fairservis-harappan-synthesis",
+      "zh": "Fairservis 哈拉帕综合指针组合",
+      "en": "Fairservis Harappan synthesis pointer assemblage",
+      "sites": [
+        "site-mohenjo-daro",
+        "site-harappa"
+      ],
+      "szh": "1961 Novitates 综合所讨论的遗址/证据类别（二手指针）。",
+      "sen": "Site/evidence classes discussed in 1961 Novitates synthesis (secondary pointer).",
+      "sources": [
+        "src-indus-fairservis-novitates-2055-1961"
+      ],
+      "url": "https://digitallibrary.amnh.org/items/2dc29e0b-743e-4207-a92b-5397551510ef"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-indus-banawali-bisht",
+      "kind": "fact",
+      "zh": "Bisht（1982/1984）报告巴纳瓦利 1974–77 发掘的早/成熟/晚哈拉帕序列与结构/规划遗存。",
+      "en": "Bisht (1982/1984) reports Banawali 1974–77 Pre-/Mature-/Post-Harappan sequence and structural/planning remains.",
+      "sites": [
+        "site-banawali"
+      ],
+      "objs": [
+        "asm-banawali-sequence"
+      ],
+      "sources": [
+        "src-indus-bisht-banawali-1982",
+        "src-indus-bisht-banawali-town-planning-1984"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-rojdi-possehl",
+      "kind": "fact",
+      "zh": "Possehl & Raval（1989）专报公布古吉拉特罗杰迪四季发掘结果。",
+      "en": "Possehl & Raval (1989) publish four seasons of excavation at Rojdi, Gujarat.",
+      "sites": [
+        "site-rojdi"
+      ],
+      "objs": [
+        "asm-rojdi-harappan"
+      ],
+      "sources": [
+        "src-indus-possehl-raval-rojdi-1989"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-lothal-vol2",
+      "kind": "fact",
+      "zh": "Rao（1985）ASI Memoir 78 卷二公布洛塔尔专科分析报告。",
+      "en": "Rao (1985) ASI Memoir 78 vol. 2 publishes Lothal specialist analyses.",
+      "sites": [
+        "site-lothal",
+        "site-lothal-vol2-specialists"
+      ],
+      "objs": [
+        "asm-lothal-vol2"
+      ],
+      "sources": [
+        "src-indus-rao-lothal-vol2-1985"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-jansen-aachen",
+      "kind": "fact",
+      "zh": "Jansen/Urban（1984）临时报告公布亚琛—IsMEO 在摩亨佐-达罗的田野记录工作。",
+      "en": "Jansen/Urban (1984) interim reports publish Aachen–IsMEO field documentation at Mohenjo-Daro.",
+      "sites": [
+        "site-mohenjo-daro",
+        "site-mohenjo-daro-aachen"
+      ],
+      "objs": [
+        "asm-mohenjo-daro-aachen"
+      ],
+      "sources": [
+        "src-indus-jansen-mohenjo-daro-interim-1984"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-kenoyer-craft",
+      "kind": "fact",
+      "zh": "Kenoyer（1997）基于哈拉帕发掘讨论印度河贸易与珠作等技术。",
+      "en": "Kenoyer (1997) discusses Indus trade and bead technologies grounded in Harappa excavations.",
+      "sites": [
+        "site-harappa"
+      ],
+      "objs": [
+        "asm-harappa-craft-trade"
+      ],
+      "sources": [
+        "src-indus-kenoyer-bead-technologies-1997"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-fairservis-1961",
+      "kind": "fact",
+      "zh": "Fairservis（1961）AMNH Novitates 综合哈拉帕证据并提出更多理论讨论。",
+      "en": "Fairservis (1961) AMNH Novitates synthesizes Harappan evidence and further theory.",
+      "sites": [
+        "site-harappa",
+        "site-mohenjo-daro"
+      ],
+      "objs": [
+        "asm-fairservis-harappan-synthesis"
+      ],
+      "sources": [
+        "src-indus-fairservis-novitates-2055-1961"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-allchin-survey",
+      "kind": "fact",
+      "zh": "Allchin & Allchin（1968）企鹅通史概述公元前 500 年以前南亚（含印度河）史前框架。",
+      "en": "Allchin & Allchin (1968) Penguin survey outlines South Asian prehistory before 500 BCE, including Indus.",
+      "sites": [
+        "site-harappa",
+        "site-mohenjo-daro"
+      ],
+      "objs": [
+        "asm-fairservis-harappan-synthesis"
+      ],
+      "sources": [
+        "src-indus-allchin-birth-1968"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-indus-empire-model",
+      "kind": "hypothesis",
+      "zh": "成熟哈拉帕为统一「帝国」——学界模型之一，本条不升为定论。",
+      "en": "That Mature Harappan was a unified \"empire\" is one scholarly model — not elevated to fact here.",
+      "sites": [
+        "site-harappa",
+        "site-mohenjo-daro",
+        "site-banawali"
+      ],
+      "objs": [
+        "asm-banawali-sequence"
+      ],
+      "sources": [
+        "src-indus-possehl-ancient-cities-1979",
+        "src-indus-kenoyer-cambridge-2014"
+      ],
+      "disclaimer": "Hypothesis: empire vs urban network / political form remains open; keep in hypothesis column."
+    }
+  ],
+  "bullets_zh": [
+    "- **巴纳瓦利 / Banawali** — Bisht 1982/1984 [`src-indus-bisht-banawali-1982`][`src-indus-bisht-banawali-town-planning-1984`]。",
+    "- **罗杰迪 / Rojdi** — Possehl & Raval 1989 [`src-indus-possehl-raval-rojdi-1989`]。",
+    "- **洛塔尔卷二** — Rao ASI Memoir 78 vol. 2（1985）[`src-indus-rao-lothal-vol2-1985`]。",
+    "- **摩亨佐-达罗亚琛记录** — Jansen/Urban 1984 [`src-indus-jansen-mohenjo-daro-interim-1984`]。",
+    "- **哈拉帕工艺加深** — Kenoyer 1997 World Archaeology [`src-indus-kenoyer-bead-technologies-1997`]。",
+    "- **通论指针** — Fairservis 1961；Allchin 1968；Possehl Ancient Cities 1979；Shaffer 1992 [`src-indus-fairservis-novitates-2055-1961`][`src-indus-allchin-birth-1968`][`src-indus-possehl-ancient-cities-1979`][`src-indus-shaffer-indus-tradition-1992`]。"
+  ],
+  "bullets_en": [
+    "- **Banawali** — Bisht 1982/1984 [`src-indus-bisht-banawali-1982`][`src-indus-bisht-banawali-town-planning-1984`].",
+    "- **Rojdi** — Possehl & Raval 1989 [`src-indus-possehl-raval-rojdi-1989`].",
+    "- **Lothal vol. 2** — Rao ASI Memoir 78 vol. 2 (1985) [`src-indus-rao-lothal-vol2-1985`].",
+    "- **Mohenjo-Daro Aachen documentation** — Jansen/Urban 1984 [`src-indus-jansen-mohenjo-daro-interim-1984`].",
+    "- **Harappa craft deepened** — Kenoyer 1997 World Archaeology [`src-indus-kenoyer-bead-technologies-1997`].",
+    "- **Survey pointers** — Fairservis 1961; Allchin 1968; Possehl Ancient Cities 1979; Shaffer 1992 [`src-indus-fairservis-novitates-2055-1961`][`src-indus-allchin-birth-1968`][`src-indus-possehl-ancient-cities-1979`][`src-indus-shaffer-indus-tradition-1992`]."
+  ],
+  "hist_zh": "第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Bisht 巴纳瓦利；Possehl & Raval 罗杰迪；Rao 洛塔尔卷二；Jansen 摩亨佐-达罗临时报告；Kenoyer 珠作贸易；Fairservis/Allchin/Possehl/Shaffer 通论。「帝国」模型留假说栏。",
+  "hist_en": "Third density pass (2026-10-12 / D-2026-10-12-2) also registers Bisht Banawali; Possehl & Raval Rojdi; Rao Lothal vol. 2; Jansen Mohenjo-Daro interim; Kenoyer bead/trade; Fairservis/Allchin/Possehl/Shaffer surveys. Empire model stays hypothesis."
+}

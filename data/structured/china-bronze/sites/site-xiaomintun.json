@@ -1,0 +1,31 @@
+{
+  "id": "site-xiaomintun",
+  "entity": "site",
+  "names": {
+    "zh": "孝民屯",
+    "en": "Xiaomintun",
+    "native": null
+  },
+  "kind_note": "Yinxu bronze foundry workshop locus",
+  "region": "Anyang, Henan, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "殷墟铸铜作坊遗存（炉址、陶范、废料）。",
+    "en": "Yinxu bronze foundry remains (furnaces, molds, debris)."
+  },
+  "sources": [
+    "src-china-xiaomintun-foundry-2008",
+    "src-china-yinxu-1958-1961-1987"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

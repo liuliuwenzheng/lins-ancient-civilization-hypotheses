@@ -1,30 +1,35 @@
 {
   "id": "claim-olmec-mother-culture",
+  "entity": "claim",
   "kind": "hypothesis",
   "statement": {
-    "zh": "「中美洲母文化」vs「姊妹文化 / 同侪互动」仍属开放争议；Diehl 书名 primacy 语言不采纳为事实。",
-    "en": "“Mother culture of Mesoamerica” vs sister cultures / peer interaction remains open debate; Diehl title primacy language is not adopted as fact."
+    "zh": "奥尔梅克为中美洲「母文化」单向输出源——交流方向仍争议，不作定论。",
+    "en": "That Olmec was a unidirectional Mesoamerican \"mother culture\" remains debated — not a fact verdict."
   },
   "civilization_ids": [
     "civ-olmec"
   ],
-  "site_ids": [],
-  "period_ids": [],
-  "object_ids": [],
-  "sources": [
-    "src-olmec-pool-2007",
-    "src-olmec-diehl-2004",
-    "src-olmec-clark-pye-nga-2000",
-    "src-mesoamerica-nichols-pool-handbook-2012"
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta",
+    "site-etlatongo"
   ],
-  "disclaimer": "This record is a HYPOTHESIS / contested scholarly reading, not an established archaeological conclusion. Do not treat as fact.",
-  "entity": "claim",
+  "period_ids": [],
+  "object_ids": [
+    "asm-etlatongo-formative"
+  ],
+  "sources": [
+    "src-olmec-blomster-neff-glascock-2005",
+    "src-olmec-flannery-marcus-olmec-oaxaca",
+    "src-olmec-coe-mexico-8th-2019"
+  ],
+  "disclaimer": "Hypothesis: mother vs sister culture / multi-directional interaction remains open.",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-olmec.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Derived only from civ MD + registered sources. No new archaeological inventions."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
   }
 }

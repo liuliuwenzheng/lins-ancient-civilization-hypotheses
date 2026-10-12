@@ -1,0 +1,31 @@
+{
+  "id": "claim-olmec-stirling-bae157",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Stirling BAE 157 公布奇基托河/圣洛伦佐周边石质纪念碑记录。",
+    "en": "Stirling BAE 157 publishes stone-monument recording for the Río Chiquito / San Lorenzo area."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-rio-chiquito"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-rio-chiquito-monuments"
+  ],
+  "sources": [
+    "src-olmec-stirling-bae-157-1955"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

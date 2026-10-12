@@ -1,0 +1,31 @@
+{
+  "id": "site-mohenjo-daro-aachen",
+  "entity": "site",
+  "names": {
+    "zh": "摩亨佐-达罗（亚琛—IsMEO 记录）",
+    "en": "Mohenjo-Daro (Aachen–IsMEO documentation)",
+    "native": null
+  },
+  "kind_note": "RWTH Aachen / IsMEO documentation mission locus",
+  "region": "Sindh, Pakistan",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Jansen/Urban 临时报告所代表的德意记录/发掘任务。",
+    "en": "German–Italian documentation/excavation mission represented by Jansen/Urban interim reports."
+  },
+  "sources": [
+    "src-indus-jansen-mohenjo-daro-interim-1984",
+    "src-indus-marshall-1931"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

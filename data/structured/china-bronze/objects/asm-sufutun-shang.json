@@ -1,0 +1,39 @@
+{
+  "id": "asm-sufutun-shang",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "苏埠屯商墓青铜组合",
+    "en": "Sufutun Shang tomb bronze assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-sufutun"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "大型商墓与青铜礼器组合类别（简报）。",
+    "en": "Large Shang tombs and ritual bronze assemblage classes (briefs)."
+  },
+  "sources": [
+    "src-china-sufutun-yidu-1972"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

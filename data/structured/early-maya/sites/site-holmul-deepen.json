@@ -1,0 +1,31 @@
+{
+  "id": "site-holmul-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "霍尔穆尔（加深）",
+    "en": "Holmul (deepened)",
+    "native": null
+  },
+  "kind_note": "Preclassic Holmul region center",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Estrada-Belli 后续报告加深的前古典中心。",
+    "en": "Preclassic center deepened via later Estrada-Belli reporting."
+  },
+  "sources": [
+    "src-maya-estrada-belli-holmul-deepen",
+    "src-maya-estrada-belli-holmul"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

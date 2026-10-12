@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-possehl-raval-rojdi-1989",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Possehl, Gregory L., and M. H. Raval. 1989. Harappan Civilization and Rojdi. New Delhi: Oxford & IBH / American Institute of Indian Studies; Leiden: E. J. Brill (ISBN 90-04-09157-1 / 978-90-04-09157-3).",
+  "url": "https://www.harappa.com/content/harappan-civilization-and-rojdi",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary monograph on four seasons at Rojdi (Rajkot District, Saurashtra) by Gujarat State Archaeology and University of Pennsylvania.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-possehl-raval-rojdi-1989.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

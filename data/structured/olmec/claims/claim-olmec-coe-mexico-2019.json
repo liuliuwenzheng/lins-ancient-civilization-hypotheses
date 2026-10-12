@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-coe-mexico-2019",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Coe 等《墨西哥》第 8 版通论概述奥尔梅克至阿兹特克框架。",
+    "en": "Coe et al. Mexico 8th ed. surveys the Olmec-to-Aztec framework."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-coe-mexico-survey"
+  ],
+  "sources": [
+    "src-olmec-coe-mexico-8th-2019"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

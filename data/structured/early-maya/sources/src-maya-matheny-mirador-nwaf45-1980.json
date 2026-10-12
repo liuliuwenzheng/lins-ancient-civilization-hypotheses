@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-matheny-mirador-nwaf45-1980",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Matheny, Ray T., ed. 1980. El Mirador, Petén, Guatemala: An Interim Report. Papers of the New World Archaeological Foundation, no. 45. Provo, UT: New World Archaeological Foundation, Brigham Young University.",
+  "url": "https://contentdm.lib.byu.edu/digital/collection/NWAF/id/15396/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary NWAF interim report on first field seasons at El Mirador (Middle–Late Formative). Complements later Mirador Basin publications.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-matheny-mirador-nwaf45-1980.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

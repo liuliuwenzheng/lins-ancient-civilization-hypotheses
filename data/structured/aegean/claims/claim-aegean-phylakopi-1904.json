@@ -1,0 +1,32 @@
+{
+  "id": "claim-aegean-phylakopi-1904",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Atkinson 等（1904）公布米洛斯菲拉科皮青铜时代城镇发掘。",
+    "en": "Atkinson et al. (1904) publish the Bronze Age town excavation at Phylakopi on Melos."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-phylakopi",
+    "site-phylakopi-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-phylakopi-1904"
+  ],
+  "sources": [
+    "src-aegean-atkinson-phylakopi-1904"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

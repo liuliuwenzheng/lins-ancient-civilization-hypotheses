@@ -1,0 +1,30 @@
+{
+  "id": "site-rojdi",
+  "entity": "site",
+  "names": {
+    "zh": "罗杰迪",
+    "en": "Rojdi",
+    "native": null
+  },
+  "kind_note": "Saurashtra Harappan town (Gujarat–Penn excavations)",
+  "region": "Rajkot District, Gujarat, India",
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "summary": {
+    "zh": "Possehl & Raval 1989 四季发掘专报遗址。",
+    "en": "Four-season excavation monograph site (Possehl & Raval 1989)."
+  },
+  "sources": [
+    "src-indus-possehl-raval-rojdi-1989"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

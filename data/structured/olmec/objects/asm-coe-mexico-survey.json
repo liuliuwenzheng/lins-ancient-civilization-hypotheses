@@ -1,0 +1,41 @@
+{
+  "id": "asm-coe-mexico-survey",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Coe《墨西哥》通论指针组合",
+    "en": "Coe Mexico handbook survey pointer assemblage"
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-san-lorenzo",
+    "site-la-venta",
+    "site-tres-zapotes"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "通论手册中的奥尔梅克证据类别（二手）。",
+    "en": "Olmec evidence classes as surveyed in the handbook (secondary)."
+  },
+  "sources": [
+    "src-olmec-coe-mexico-8th-2019"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.thamesandhudsonusa.com/books/mexico-from-the-olmecs-to-the-aztecs-softcover-eighth-edition",
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

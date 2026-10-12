@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-cpas-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "成都平原考古调查（CPAS）发表连接宝墩—三星堆—金沙的聚落调查数据。",
+    "en": "Chengdu Plain Archaeological Survey (CPAS) publishes settlement data linking Baodun–Sanxingdui–Jinsha landscapes."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-cpas-survey-region"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cpas-settlement"
+  ],
+  "sources": [
+    "src-sanxingdui-cpas-chengdu-plain-survey"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

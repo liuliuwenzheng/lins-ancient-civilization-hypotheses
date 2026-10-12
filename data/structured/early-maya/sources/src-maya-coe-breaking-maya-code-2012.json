@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-coe-breaking-maya-code-2012",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Coe, Michael D. 2012. Breaking the Maya Code. 3rd ed. London: Thames & Hudson. ISBN 978-0-500-28955-9 (first ed. 1992).",
+  "url": "https://archive.org/details/breakingmayacode00coem_0",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Secondary history of Maya script decipherment. Not an excavation report; useful for writing-system research history.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-coe-breaking-maya-code-2012.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

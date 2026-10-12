@@ -1,0 +1,471 @@
+{
+  "civ": "civ-andes",
+  "md": "data/civilizations/civ-andes.md",
+  "sources": [
+    {
+      "id": "src-andes-samaniego-cerro-sechin-1985",
+      "type": "article",
+      "citation": "Samaniego, Lorenzo, Enrique Vergara, and Henning Bischof. 1985. \"New Evidence on Cerro Sechín, Casma Valley, Peru.\" In Early Ceremonial Architecture in the Andes: A Conference at Dumbarton Oaks, 8th to 10th October 1982, edited by Christopher B. Donnan, 165–190. Washington, DC: Dumbarton Oaks Research Library and Collection.",
+      "url": "https://www.doaks.org/resources/publications/books/early-ceremonial-architecture-in-the-andes",
+      "tier": "P",
+      "notes": "Primary chapter on Cerro Sechín architecture, carved stones, paintings, and revised chronology from stratigraphy and radiocarbon/TL. Historical methods; cross-check absolute dates with later work."
+    },
+    {
+      "id": "src-andes-pozorski-antiquity-casma-1992",
+      "type": "article",
+      "citation": "Pozorski, Shelia, and Thomas Pozorski. 1992. \"Early Civilization in the Casma Valley, Peru.\" Antiquity 66 (253): 845–870. https://doi.org/10.1017/S0003598X00044781",
+      "url": "https://doi.org/10.1017/S0003598X00044781",
+      "tier": "P",
+      "notes": "Peer-reviewed synthesis of Initial Period monumental centers in Casma (incl. Sechín Alto complex). Civilization/state framing is authors' model — not a global ranking here."
+    },
+    {
+      "id": "src-andes-burger-salazar-huaricoto-1985",
+      "type": "article",
+      "citation": "Burger, Richard L., and Lucy Salazar-Burger. 1985. \"The Early Ceremonial Center of Huaricoto.\" In Early Ceremonial Architecture in the Andes, edited by Christopher B. Donnan, 111–138. Washington, DC: Dumbarton Oaks.",
+      "url": "https://www.doaks.org/resources/publications/books/early-ceremonial-architecture-in-the-andes",
+      "tier": "P",
+      "notes": "Primary report on Huaricoto (Callejón de Huaylas) Kotosh–Mito-style hearth structures; highland comparative. Do not collapse highland and coastal polities."
+    },
+    {
+      "id": "src-andes-izumi-sono-kotosh-andes2-1963",
+      "type": "excavation-report",
+      "citation": "Izumi, Seiichi, and Toshihiko Sono. 1963. Andes 2: Excavations at Kotosh, Peru, 1960. Tokyo: University of Tokyo / Kadokawa Publishing Co.",
+      "url": "https://www.journals.uchicago.edu/doi/10.2307/502282",
+      "tier": "P",
+      "notes": "Primary University of Tokyo report on the 1960 Kotosh season (Andes 2). Temple of the Crossed Hands sequence anchors Kotosh-tradition discussion."
+    },
+    {
+      "id": "src-andes-izumi-terada-kotosh-andes4-1972",
+      "type": "excavation-report",
+      "citation": "Izumi, Seiichi, and Kazuo Terada, eds. 1972. Andes 4: Excavations at Kotosh, Peru, 1963 and 1966. Tokyo: University of Tokyo Press.",
+      "url": "https://www.si.edu/object/siris_sil_153745",
+      "tier": "P",
+      "notes": "Primary report on 1963 and 1966 Kotosh seasons (Andes 4). Cite for published architecture/strata, not invented inventories."
+    },
+    {
+      "id": "src-andes-sandweiss-jaguay-science-1998",
+      "type": "article",
+      "citation": "Sandweiss, Daniel H., Heather McInnis, Richard L. Burger, Asunción Cano, Bernardino Ojeda, Rolando Paredes, María del Carmen Sandweiss, and Michael D. Glascock. 1998. \"Quebrada Jaguay: Early South American Maritime Adaptations.\" Science 281 (5384): 1830–1832. https://doi.org/10.1126/science.281.5384.1830",
+      "url": "https://www.science.org/doi/10.1126/science.281.5384.1830",
+      "tier": "P",
+      "notes": "Primary Science report on Terminal Pleistocene / early Holocene maritime economy at Quebrada Jaguay (QJ-280). Comparative — outside Norte Chico core."
+    },
+    {
+      "id": "src-andes-keefer-tacahuay-science-1998",
+      "type": "article",
+      "citation": "Keefer, David K., Susan D. deFrance, Michael E. Moseley, James B. Richardson III, Dennis R. Satterlee, and Amy Day-Lewis. 1998. \"Early Maritime Economy and El Niño Events at Quebrada Tacahuay, Peru.\" Science 281 (5384): 1833–1835. https://doi.org/10.1126/science.281.5384.1833",
+      "url": "https://pubs.usgs.gov/publication/70020538",
+      "tier": "P",
+      "notes": "Primary Science report on early maritime economy and El Niño burial of deposits at Quebrada Tacahuay. Comparative far-south coastal site."
+    },
+    {
+      "id": "src-andes-dillehay-monte-verde-ii-1997",
+      "type": "excavation-report",
+      "citation": "Dillehay, Tom D. 1997. Monte Verde: A Late Pleistocene Settlement in Chile. Volume 2: The Archaeological Context and Interpretation. Smithsonian Series in Archaeological Inquiry. Washington, DC: Smithsonian Institution Press.",
+      "url": "https://core.tdar.org/document/250047/the-archaeological-context-and-interpretation",
+      "tier": "P",
+      "notes": "Primary final-report volume on Monte Verde (southern Chile). Comparative Late Pleistocene settlement — do not relocate into Norte Chico chronology."
+    },
+    {
+      "id": "src-andes-pozorski-square-room-2011",
+      "type": "article",
+      "citation": "Pozorski, Shelia, and Thomas Pozorski. 2011. \"The Square-Room Unit as an Emblem of Power and Authority in the Initial Period Sechín Alto Polity, Casma Valley, Peru.\" Latin American Antiquity 22 (4): 427–451.",
+      "url": "https://doi.org/10.7183/1045-6635.22.4.427",
+      "tier": "P",
+      "notes": "Peer-reviewed architecture paper on square-room units in the Sechín Alto Initial Period complex. Polity/power-emblem reading is authors' interpretation."
+    },
+    {
+      "id": "src-andes-donnan-early-ceremonial-1985",
+      "type": "monograph",
+      "citation": "Donnan, Christopher B., ed. 1985. Early Ceremonial Architecture in the Andes: A Conference at Dumbarton Oaks, 8th to 10th October 1982. Washington, DC: Dumbarton Oaks Research Library and Collection. ISBN 0-88402-135-1.",
+      "url": "https://www.doaks.org/resources/publications/books/early-ceremonial-architecture-in-the-andes",
+      "tier": "S",
+      "notes": "Edited conference volume consolidating early Andean ceremonial-architecture research (container for Samaniego/Burger chapters)."
+    }
+  ],
+  "sites": [
+    {
+      "id": "site-kotosh",
+      "zh": "科托什",
+      "en": "Kotosh",
+      "native": "Kotosh",
+      "kind": "Highland ceremonial center (University of Tokyo)",
+      "region": "Huánuco highland Peru",
+      "szh": "东京大学发掘的山间礼仪中心；十字交叉手神庙序列为科托什传统讨论锚点。",
+      "sen": "Highland ceremonial center excavated by University of Tokyo; Temple of the Crossed Hands sequence anchors Kotosh-tradition discussion.",
+      "sources": [
+        "src-andes-izumi-sono-kotosh-andes2-1963",
+        "src-andes-izumi-terada-kotosh-andes4-1972"
+      ]
+    },
+    {
+      "id": "site-huaricoto",
+      "zh": "瓦里科托",
+      "en": "Huaricoto",
+      "native": null,
+      "kind": "Highland Kotosh–Mito hearth structures",
+      "region": "Callejón de Huaylas, Ancash, Peru",
+      "szh": "Burger & Salazar-Burger 报告的山间早期礼仪中心；Kotosh–Mito 式中心火塘建筑。",
+      "sen": "Highland early ceremonial center with Kotosh–Mito-style central-hearth structures (Burger & Salazar-Burger).",
+      "sources": [
+        "src-andes-burger-salazar-huaricoto-1985"
+      ]
+    },
+    {
+      "id": "site-taukachi-konkan",
+      "zh": "陶卡奇-孔坎",
+      "en": "Taukachi-Konkán",
+      "native": null,
+      "kind": "Initial Period mound/plaza in Sechín Alto cluster",
+      "region": "Casma Valley, Peru",
+      "szh": "塞钦阿尔托复合体组成部分；与潘帕德拉斯拉马斯–莫塞克等有建筑/器物可比性（Pozorski）。",
+      "sen": "Component of the Sechín Alto complex; architectural/artifact parallels noted by Pozorski.",
+      "sources": [
+        "src-andes-pozorski-antiquity-casma-1992",
+        "src-andes-pozorski-casma-1987",
+        "src-andes-pozorski-square-room-2011"
+      ]
+    },
+    {
+      "id": "site-las-haldas",
+      "zh": "拉斯哈尔达斯",
+      "en": "Las Haldas",
+      "native": null,
+      "kind": "Coastal Initial Period ceremonial/residential site",
+      "region": "Casma coast, Peru",
+      "szh": "卡斯马海岸初始期大址；Pozorski 综合中作为河谷—海岸系统节点讨论。",
+      "sen": "Coastal Initial Period center in Pozorski Casma settlement/subsistence syntheses.",
+      "sources": [
+        "src-andes-pozorski-casma-1987",
+        "src-andes-pozorski-antiquity-casma-1992"
+      ]
+    },
+    {
+      "id": "site-quebrada-jaguay",
+      "zh": "哈瓜伊干谷",
+      "en": "Quebrada Jaguay",
+      "native": "QJ-280",
+      "kind": "Terminal Pleistocene / early Holocene maritime camp",
+      "region": "Far south coast Peru",
+      "szh": "Sandweiss 等 1998 Science：终末更新世/早全新世海洋适应；远离北奇科核心。",
+      "sen": "Sandweiss et al. 1998 Science: Terminal Pleistocene / early Holocene maritime adaptations; outside Norte Chico core.",
+      "sources": [
+        "src-andes-sandweiss-jaguay-science-1998"
+      ]
+    },
+    {
+      "id": "site-quebrada-tacahuay",
+      "zh": "塔卡瓦伊干谷",
+      "en": "Quebrada Tacahuay",
+      "native": null,
+      "kind": "Early maritime economy / El Niño-sealed deposits",
+      "region": "Far south coast Peru",
+      "szh": "Keefer 等 1998 Science：早期海洋经济与厄尔尼诺埋藏层；比较性南岸遗址。",
+      "sen": "Keefer et al. 1998 Science: early maritime economy and El Niño-sealed deposits; comparative south-coast site.",
+      "sources": [
+        "src-andes-keefer-tacahuay-science-1998"
+      ]
+    },
+    {
+      "id": "site-monte-verde",
+      "zh": "蒙特维德",
+      "en": "Monte Verde",
+      "native": null,
+      "kind": "Late Pleistocene settlement (southern Chile, comparative)",
+      "region": "Los Lagos Region, Chile",
+      "szh": "Dillehay 最终报告卷二：晚更新世定居；仅作比较，不并入北奇科年代。",
+      "sen": "Dillehay final-report vol. 2: Late Pleistocene settlement; comparative only — not folded into Norte Chico chronology.",
+      "sources": [
+        "src-andes-dillehay-monte-verde-ii-1997"
+      ]
+    }
+  ],
+  "asms": [
+    {
+      "id": "asm-kotosh-crossed-hands",
+      "zh": "科托什十字交叉手神庙组合",
+      "en": "Kotosh Temple of the Crossed Hands assemblage",
+      "sites": [
+        "site-kotosh"
+      ],
+      "szh": "东京大学报告中的礼仪建筑与泥塑浮雕组合（组合级）。",
+      "sen": "Ceremonial architecture and modeled reliefs as published in University of Tokyo reports (assemblage-level).",
+      "sources": [
+        "src-andes-izumi-sono-kotosh-andes2-1963",
+        "src-andes-izumi-terada-kotosh-andes4-1972"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-huaricoto-mito-hearths",
+      "zh": "瓦里科托 Mito 火塘礼仪组合",
+      "en": "Huaricoto Mito hearth ceremonial assemblage",
+      "sites": [
+        "site-huaricoto"
+      ],
+      "szh": "中心火塘、分阶地面、壁龛等 Kotosh–Mito 式结构类别。",
+      "sen": "Central-hearth, split-level floors, and niche classes of Kotosh–Mito-style structures.",
+      "sources": [
+        "src-andes-burger-salazar-huaricoto-1985"
+      ],
+      "url": "https://www.doaks.org/resources/publications/books/early-ceremonial-architecture-in-the-andes"
+    },
+    {
+      "id": "asm-cerro-sechin-samaniego",
+      "zh": "塞钦山石雕与建筑组合（Samaniego 1985）",
+      "en": "Cerro Sechín carved-stone and architecture assemblage (Samaniego 1985)",
+      "sites": [
+        "site-cerro-sechin"
+      ],
+      "szh": "中心建筑、石雕与彩绘类别；年代修订依地层与测年样本。",
+      "sen": "Central building, stone carvings, and painted decoration classes; chronology revised from strata and dated samples.",
+      "sources": [
+        "src-andes-samaniego-cerro-sechin-1985"
+      ],
+      "url": "https://www.doaks.org/resources/publications/books/early-ceremonial-architecture-in-the-andes"
+    },
+    {
+      "id": "asm-taukachi-square-rooms",
+      "zh": "陶卡奇-孔坎方形房间单位组合",
+      "en": "Taukachi-Konkán square-room unit assemblage",
+      "sites": [
+        "site-taukachi-konkan"
+      ],
+      "szh": "与潘帕德拉斯拉马斯–莫塞克 Huaca A 模块可比的矩形房间单位。",
+      "sen": "Rectangular room units comparable to modular construction at Pampa de las Llamas–Moxeke Huaca A.",
+      "sources": [
+        "src-andes-pozorski-antiquity-casma-1992",
+        "src-andes-pozorski-square-room-2011"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-jaguay-maritime",
+      "zh": "哈瓜伊干谷海洋适应组合",
+      "en": "Quebrada Jaguay maritime adaptation assemblage",
+      "sites": [
+        "site-quebrada-jaguay"
+      ],
+      "szh": "终末更新世/早全新世海洋资源利用与石器组合（Science 1998）。",
+      "sen": "Terminal Pleistocene / early Holocene maritime resource use and lithic assemblage (Science 1998).",
+      "sources": [
+        "src-andes-sandweiss-jaguay-science-1998"
+      ],
+      "url": "https://www.science.org/doi/10.1126/science.281.5384.1830"
+    },
+    {
+      "id": "asm-tacahuay-maritime",
+      "zh": "塔卡瓦伊干谷海洋经济组合",
+      "en": "Quebrada Tacahuay maritime-economy assemblage",
+      "sites": [
+        "site-quebrada-tacahuay"
+      ],
+      "szh": "早期海洋经济与厄尔尼诺相关埋藏层（Science 1998）。",
+      "sen": "Early maritime economy and El Niño-related sealed deposits (Science 1998).",
+      "sources": [
+        "src-andes-keefer-tacahuay-science-1998"
+      ],
+      "url": "https://pubs.usgs.gov/publication/70020538"
+    },
+    {
+      "id": "asm-monte-verde-late-pleistocene",
+      "zh": "蒙特维德晚更新世定居组合",
+      "en": "Monte Verde Late Pleistocene settlement assemblage",
+      "sites": [
+        "site-monte-verde"
+      ],
+      "szh": "Dillehay 卷二所综合的居住与木构等发现类别（组合级）。",
+      "sen": "Habitation and wooden-architecture find classes as synthesized in Dillehay vol. 2 (assemblage-level).",
+      "sources": [
+        "src-andes-dillehay-monte-verde-ii-1997"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-las-haldas-initial",
+      "zh": "拉斯哈尔达斯初始期组合",
+      "en": "Las Haldas Initial Period assemblage",
+      "sites": [
+        "site-las-haldas"
+      ],
+      "szh": "卡斯马海岸初始期纪念性/居住组合（Pozorski 综合）。",
+      "sen": "Coastal Initial Period monumental/residential assemblage classes (Pozorski syntheses).",
+      "sources": [
+        "src-andes-pozorski-casma-1987",
+        "src-andes-pozorski-antiquity-casma-1992"
+      ],
+      "url": "https://uipress.uiowa.edu/books/early-settlement-and-subsistence-casma-valley-peru"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-andes-kotosh-tokyo-reports",
+      "kind": "fact",
+      "zh": "东京大学《安第斯》2/4 报告科托什 1960/1963/1966 季发掘结果（礼仪建筑序列）。",
+      "en": "University of Tokyo Andes 2/4 reports publish Kotosh 1960/1963/1966 excavation results (ceremonial architecture sequence).",
+      "sites": [
+        "site-kotosh"
+      ],
+      "objs": [
+        "asm-kotosh-crossed-hands"
+      ],
+      "sources": [
+        "src-andes-izumi-sono-kotosh-andes2-1963",
+        "src-andes-izumi-terada-kotosh-andes4-1972"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-andes-huaricoto-mito",
+      "kind": "fact",
+      "zh": "Burger & Salazar-Burger（1985）报告瓦里科托存在 Kotosh–Mito 式中心火塘礼仪建筑。",
+      "en": "Burger & Salazar-Burger (1985) report Kotosh–Mito-style central-hearth ceremonial architecture at Huaricoto.",
+      "sites": [
+        "site-huaricoto"
+      ],
+      "objs": [
+        "asm-huaricoto-mito-hearths"
+      ],
+      "sources": [
+        "src-andes-burger-salazar-huaricoto-1985"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-andes-samaniego-cerro-sechin",
+      "kind": "fact",
+      "zh": "Samaniego 等（1985）公布塞钦山中心建筑、石雕与彩绘，并据地层与测年修订年代。",
+      "en": "Samaniego et al. (1985) publish Cerro Sechín central architecture, carvings, and paintings, revising chronology from strata and dates.",
+      "sites": [
+        "site-cerro-sechin"
+      ],
+      "objs": [
+        "asm-cerro-sechin-samaniego"
+      ],
+      "sources": [
+        "src-andes-samaniego-cerro-sechin-1985"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-andes-casma-antiquity-1992",
+      "kind": "fact",
+      "zh": "Pozorski & Pozorski（1992）在 Antiquity 综合卡斯马河谷初始期纪念性中心（含塞钦阿尔托复合体）。",
+      "en": "Pozorski & Pozorski (1992) synthesize Initial Period monumental centers of the Casma Valley (incl. Sechín Alto complex) in Antiquity.",
+      "sites": [
+        "site-taukachi-konkan",
+        "site-las-haldas",
+        "site-sechin-alto"
+      ],
+      "objs": [
+        "asm-taukachi-square-rooms",
+        "asm-las-haldas-initial"
+      ],
+      "sources": [
+        "src-andes-pozorski-antiquity-casma-1992"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-andes-jaguay-maritime",
+      "kind": "fact",
+      "zh": "Sandweiss 等（1998）报告哈瓜伊干谷终末更新世/早全新世海洋适应证据。",
+      "en": "Sandweiss et al. (1998) report Terminal Pleistocene / early Holocene maritime adaptations at Quebrada Jaguay.",
+      "sites": [
+        "site-quebrada-jaguay"
+      ],
+      "objs": [
+        "asm-jaguay-maritime"
+      ],
+      "sources": [
+        "src-andes-sandweiss-jaguay-science-1998"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-andes-tacahuay-maritime",
+      "kind": "fact",
+      "zh": "Keefer 等（1998）报告塔卡瓦伊干谷早期海洋经济与厄尔尼诺相关埋藏。",
+      "en": "Keefer et al. (1998) report early maritime economy and El Niño-related burial of deposits at Quebrada Tacahuay.",
+      "sites": [
+        "site-quebrada-tacahuay"
+      ],
+      "objs": [
+        "asm-tacahuay-maritime"
+      ],
+      "sources": [
+        "src-andes-keefer-tacahuay-science-1998"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-andes-monte-verde-report",
+      "kind": "fact",
+      "zh": "Dillehay（1997）卷二综合蒙特维德晚更新世考古语境与解释。",
+      "en": "Dillehay (1997) vol. 2 synthesizes Monte Verde Late Pleistocene archaeological context and interpretation.",
+      "sites": [
+        "site-monte-verde"
+      ],
+      "objs": [
+        "asm-monte-verde-late-pleistocene"
+      ],
+      "sources": [
+        "src-andes-dillehay-monte-verde-ii-1997"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-andes-casma-earliest-state",
+      "kind": "hypothesis",
+      "zh": "卡斯马塞钦阿尔托复合体代表安第斯「最早国家」——此为 Pozorski 等学术模型，不作定论。",
+      "en": "That the Casma Sechín Alto complex represents an \"earliest Andean state\" is a Pozorski et al. scholarly model — not a fact verdict here.",
+      "sites": [
+        "site-sechin-alto",
+        "site-taukachi-konkan"
+      ],
+      "objs": [
+        "asm-taukachi-square-rooms"
+      ],
+      "sources": [
+        "src-andes-pozorski-antiquity-casma-1992",
+        "src-andes-pozorski-square-room-2011"
+      ],
+      "disclaimer": "Hypothesis: state / earliest-polity rankings remain debated; keep in hypothesis column."
+    },
+    {
+      "id": "claim-andes-square-room-emblem",
+      "kind": "hypothesis",
+      "zh": "方形房间单位为塞钦阿尔托政体权力徽识——属作者解释，不作唯一政治定论。",
+      "en": "That square-room units are emblems of Sechín Alto polity power is the authors' interpretation, not a sole political verdict.",
+      "sites": [
+        "site-taukachi-konkan",
+        "site-sechin-alto"
+      ],
+      "objs": [
+        "asm-taukachi-square-rooms"
+      ],
+      "sources": [
+        "src-andes-pozorski-square-room-2011"
+      ],
+      "disclaimer": "Hypothesis: architectural emblem → polity power mapping is interpretive."
+    }
+  ],
+  "bullets_zh": [
+    "- **科托什 / Kotosh** — 东京大学 Andes 2/4 [`src-andes-izumi-sono-kotosh-andes2-1963`][`src-andes-izumi-terada-kotosh-andes4-1972`]。",
+    "- **瓦里科托 / Huaricoto** — Burger & Salazar-Burger 1985 [`src-andes-burger-salazar-huaricoto-1985`]。",
+    "- **塞钦山加深** — Samaniego 等 1985 Dumbarton Oaks 章 [`src-andes-samaniego-cerro-sechin-1985`]。",
+    "- **陶卡奇-孔坎 / Taukachi-Konkán**、**拉斯哈尔达斯 / Las Haldas** — Pozorski Antiquity 1992 / 方房间文 2011 [`src-andes-pozorski-antiquity-casma-1992`][`src-andes-pozorski-square-room-2011`]。",
+    "- **哈瓜伊干谷 / Quebrada Jaguay**、**塔卡瓦伊干谷 / Quebrada Tacahuay** — Science 1998 南岸比较 [`src-andes-sandweiss-jaguay-science-1998`][`src-andes-keefer-tacahuay-science-1998`]。",
+    "- **蒙特维德 / Monte Verde** — Dillehay 1997 卷二（比较，非北奇科）[`src-andes-dillehay-monte-verde-ii-1997`]。"
+  ],
+  "bullets_en": [
+    "- **Kotosh** — University of Tokyo Andes 2/4 [`src-andes-izumi-sono-kotosh-andes2-1963`][`src-andes-izumi-terada-kotosh-andes4-1972`].",
+    "- **Huaricoto** — Burger & Salazar-Burger 1985 [`src-andes-burger-salazar-huaricoto-1985`].",
+    "- **Cerro Sechín deepened** — Samaniego et al. 1985 Dumbarton Oaks chapter [`src-andes-samaniego-cerro-sechin-1985`].",
+    "- **Taukachi-Konkán**, **Las Haldas** — Pozorski Antiquity 1992 / square-room 2011 [`src-andes-pozorski-antiquity-casma-1992`][`src-andes-pozorski-square-room-2011`].",
+    "- **Quebrada Jaguay**, **Quebrada Tacahuay** — Science 1998 south-coast comparative [`src-andes-sandweiss-jaguay-science-1998`][`src-andes-keefer-tacahuay-science-1998`].",
+    "- **Monte Verde** — Dillehay 1997 vol. 2 (comparative, not Norte Chico) [`src-andes-dillehay-monte-verde-ii-1997`]."
+  ],
+  "hist_zh": "第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Samaniego 塞钦山；Pozorski Antiquity 1992 / 方房间 2011；Burger Huaricoto；Izumi Kotosh Andes 2/4；Sandweiss Jaguay / Keefer Tacahuay Science 1998；Dillehay Monte Verde II；Donnan 1985 文集。卡斯马「最早国家」与方房间＝权力徽识留假说栏。",
+  "hist_en": "Third density pass (2026-10-12 / D-2026-10-12-2) also registers Samaniego Cerro Sechín; Pozorski Antiquity 1992 / square-room 2011; Burger Huaricoto; Izumi Kotosh Andes 2/4; Sandweiss Jaguay / Keefer Tacahuay Science 1998; Dillehay Monte Verde II; Donnan 1985 volume. Casma \"earliest state\" and square-room=power-emblem stay hypotheses."
+}

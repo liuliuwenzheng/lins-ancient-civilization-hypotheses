@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-furumark-mycenaean-pottery-1941",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Furumark, Arne. 1941. The Mycenaean Pottery: Analysis and Classification / The Chronology of Mycenaean Pottery. Stockholm: Kungl. Vitterhets Historie och Antikvitets Akademien (2 vols.).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Foundational secondary typology/chronology of Mycenaean pottery. Still cited; absolute dates revised by later radiocarbon/synchronisms.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-furumark-mycenaean-pottery-1941.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

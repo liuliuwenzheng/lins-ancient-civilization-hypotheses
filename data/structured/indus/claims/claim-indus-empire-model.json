@@ -1,0 +1,34 @@
+{
+  "id": "claim-indus-empire-model",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "成熟哈拉帕为统一「帝国」——学界模型之一，本条不升为定论。",
+    "en": "That Mature Harappan was a unified \"empire\" is one scholarly model — not elevated to fact here."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa",
+    "site-mohenjo-daro",
+    "site-banawali"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-banawali-sequence"
+  ],
+  "sources": [
+    "src-indus-possehl-ancient-cities-1979",
+    "src-indus-kenoyer-cambridge-2014"
+  ],
+  "disclaimer": "Hypothesis: empire vs urban network / political form remains open; keep in hypothesis column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

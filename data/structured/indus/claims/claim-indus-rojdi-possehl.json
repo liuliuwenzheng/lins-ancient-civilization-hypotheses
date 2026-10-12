@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-rojdi-possehl",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Possehl & Raval（1989）专报公布古吉拉特罗杰迪四季发掘结果。",
+    "en": "Possehl & Raval (1989) publish four seasons of excavation at Rojdi, Gujarat."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-rojdi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-rojdi-harappan"
+  ],
+  "sources": [
+    "src-indus-possehl-raval-rojdi-1989"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

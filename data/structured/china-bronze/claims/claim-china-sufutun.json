@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-sufutun",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "苏埠屯商代墓地简报公布大型墓葬与青铜器组合。",
+    "en": "Sufutun Shang cemetery briefs publish large tombs and bronze assemblages."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-sufutun"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-sufutun-shang"
+  ],
+  "sources": [
+    "src-china-sufutun-yidu-1972"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

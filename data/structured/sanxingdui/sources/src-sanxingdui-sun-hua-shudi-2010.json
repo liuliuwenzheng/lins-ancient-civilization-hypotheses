@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-sun-hua-shudi-2010",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Sun Hua. Synthesis volumes/chapters on Shu archaeology and Sanxingdui–Jinsha cultural sequence (Chinese academic press; complements Sun 2003 cultures overview already registered).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Secondary synthesis by Sun Hua on Shu cultural sequence. Prefer excavation briefs for find facts; this orients interpretive framing.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-sun-hua-shudi-2010.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

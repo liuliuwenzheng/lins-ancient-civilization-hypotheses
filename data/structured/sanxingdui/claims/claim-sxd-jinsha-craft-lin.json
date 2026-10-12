@@ -1,0 +1,32 @@
+{
+  "id": "claim-sxd-jinsha-craft-lin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lin（2019）综合金沙遗址群手工业与聚落格局。",
+    "en": "Lin (2019) synthesizes craft production and settlement pattern of the Jinsha site cluster."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-jinsha-comparative",
+    "site-jinsha-meiyuan-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-jinsha-meiyuan-ivory"
+  ],
+  "sources": [
+    "src-sanxingdui-lin-jinsha-craft-2019"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

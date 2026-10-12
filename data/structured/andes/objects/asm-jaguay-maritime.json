@@ -1,0 +1,39 @@
+{
+  "id": "asm-jaguay-maritime",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈瓜伊干谷海洋适应组合",
+    "en": "Quebrada Jaguay maritime adaptation assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-quebrada-jaguay"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "终末更新世/早全新世海洋资源利用与石器组合（Science 1998）。",
+    "en": "Terminal Pleistocene / early Holocene maritime resource use and lithic assemblage (Science 1998)."
+  },
+  "sources": [
+    "src-andes-sandweiss-jaguay-science-1998"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.science.org/doi/10.1126/science.281.5384.1830",
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-pool-tres-zapotes-deepen",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Pool, Christopher A. Additional Tres Zapotes excavation/analysis publications deepening Pool 2003 / C14 sources already registered (Formative sequence; epi-Olmec transition).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Additional primary Tres Zapotes reporting. Epi-Olmec script/political labels remain interpretive.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-pool-tres-zapotes-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-andes-casma-earliest-state",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "卡斯马塞钦阿尔托复合体代表安第斯「最早国家」——此为 Pozorski 等学术模型，不作定论。",
+    "en": "That the Casma Sechín Alto complex represents an \"earliest Andean state\" is a Pozorski et al. scholarly model — not a fact verdict here."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-sechin-alto",
+    "site-taukachi-konkan"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-taukachi-square-rooms"
+  ],
+  "sources": [
+    "src-andes-pozorski-antiquity-casma-1992",
+    "src-andes-pozorski-square-room-2011"
+  ],
+  "disclaimer": "Hypothesis: state / earliest-polity rankings remain debated; keep in hypothesis column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

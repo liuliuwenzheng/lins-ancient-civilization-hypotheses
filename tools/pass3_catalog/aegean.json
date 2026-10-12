@@ -1,0 +1,403 @@
+{
+  "civ": "civ-aegean",
+  "md": "data/civilizations/civ-aegean.md",
+  "sources": [
+    {
+      "id": "src-aegean-caskey-lerna-hesperia-1954",
+      "type": "excavation-report",
+      "citation": "Caskey, John L. 1954. \"Excavations at Lerna, 1952–1953.\" Hesperia 23 (1): 3–30. https://www.jstor.org/stable/146722",
+      "url": "https://www.ascsa.edu.gr/publications/hesperia/article/23/1/3-30",
+      "tier": "P",
+      "notes": "Primary ASCSA preliminary report on early Lerna seasons (Neolithic–Early Helladic exposures). Historical excavation standards."
+    },
+    {
+      "id": "src-aegean-caskey-lerna-hesperia-1955",
+      "type": "excavation-report",
+      "citation": "Caskey, John L. 1955. \"Excavations at Lerna, 1954.\" Hesperia 24 (1): 25–49. https://www.jstor.org/stable/147061",
+      "url": "https://www.ascsa.edu.gr/publications/hesperia/article/24/1/25-49",
+      "tier": "P",
+      "notes": "Primary ASCSA preliminary report for the 1954 Lerna season."
+    },
+    {
+      "id": "src-aegean-wiencke-lerna-iv-2000",
+      "type": "excavation-report",
+      "citation": "Wiencke, Martha H. 2000. Lerna: A Preclassical Site in the Argolid. Volume IV: The Architecture, Stratification, and Pottery of Lerna III. 2 vols. Princeton: American School of Classical Studies at Athens. ISBN 0-87661-226-5.",
+      "url": "https://www.ascsa.edu.gr/publications/books/browse-by-series/lerna",
+      "tier": "P",
+      "notes": "Primary final-report volumes on Early Helladic II / Lerna III architecture and pottery, including the House of the Tiles."
+    },
+    {
+      "id": "src-aegean-blegen-troy-i-1950",
+      "type": "excavation-report",
+      "citation": "Blegen, Carl W., John L. Caskey, and Marion Rawson. 1950. Troy: Excavations Conducted by the University of Cincinnati, 1932–1938. Volume I: General Introduction. The First and Second Settlements. Princeton: Princeton University Press for the University of Cincinnati.",
+      "url": "https://archive.org/details/troyexcavationsc0003univ",
+      "tier": "P",
+      "notes": "Primary Cincinnati Troy final-report vol. I (Troy I–II). Historical methods; absolute chronology must be cross-checked with later Aegean schemes."
+    },
+    {
+      "id": "src-aegean-popham-lefkandi-i-1980",
+      "type": "excavation-report",
+      "citation": "Popham, M. R., L. H. Sackett, and P. G. Themelis, eds. 1979–1980. Lefkandi I: The Iron Age. The Settlement and the Cemeteries. BSA Supplementary Volume 11. London: Thames and Hudson for the British School at Athens.",
+      "url": "http://lefkandi.classics.ox.ac.uk/publications.html",
+      "tier": "P",
+      "notes": "Primary BSA report on Lefkandi Iron Age settlement and cemeteries. Early Iron Age — later than Bronze Age core but key Aegean sequence site already oriented in pack."
+    },
+    {
+      "id": "src-aegean-popham-lefkandi-ii-1993",
+      "type": "excavation-report",
+      "citation": "Popham, M. R., P. G. Calligas, and L. H. Sackett, eds. 1993. Lefkandi II: The Protogeometric Building at Toumba. BSA Supplementary Volume 22–23. London: British School at Athens.",
+      "url": "http://lefkandi.classics.ox.ac.uk/publications.html",
+      "tier": "P",
+      "notes": "Primary report on the Protogeometric monumental building (\"heroon\") at Toumba, Lefkandi."
+    },
+    {
+      "id": "src-aegean-atkinson-phylakopi-1904",
+      "type": "excavation-report",
+      "citation": "Atkinson, T. D., et al. 1904. Excavations at Phylakopi in Melos. Society for the Promotion of Hellenic Studies Supplementary Paper No. 4. London: Macmillan / BSA.",
+      "url": "https://archive.org/details/excavationsatphy00brituoft",
+      "tier": "P",
+      "notes": "Primary BSA Phylakopi excavation volume (Cycladic Bronze Age town). Historical recording; later work revises phasing."
+    },
+    {
+      "id": "src-aegean-furumark-mycenaean-pottery-1941",
+      "type": "monograph",
+      "citation": "Furumark, Arne. 1941. The Mycenaean Pottery: Analysis and Classification / The Chronology of Mycenaean Pottery. Stockholm: Kungl. Vitterhets Historie och Antikvitets Akademien (2 vols.).",
+      "url": null,
+      "tier": "S",
+      "notes": "Foundational secondary typology/chronology of Mycenaean pottery. Still cited; absolute dates revised by later radiocarbon/synchronisms."
+    },
+    {
+      "id": "src-aegean-manning-thera-plos-2022",
+      "type": "article",
+      "citation": "Manning, Sturt W., et al. 2022. \"Second Intermediate Period Date for the Thera (Santorini) Eruption and Historical Implications.\" PLOS ONE. https://doi.org/10.1371/journal.pone.0274835",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0274835",
+      "tier": "S",
+      "notes": "Peer-reviewed chronological modeling for Thera eruption. Competing high/low chronologies remain open — treat single calendar-year claims as hypothesis."
+    },
+    {
+      "id": "src-aegean-banks-lerna-vii-2015",
+      "type": "excavation-report",
+      "citation": "Banks, Elizabeth C. 2015. Lerna: A Preclassical Site in the Argolid. Volume VII: The Neolithic Settlement. Princeton: American School of Classical Studies at Athens.",
+      "url": "https://www.ascsa.edu.gr/publications/books/browse-by-series/lerna",
+      "tier": "P",
+      "notes": "Primary final report on Neolithic settlement at Lerna. Complements Wiencke Lerna IV for earlier strata."
+    }
+  ],
+  "sites": [
+    {
+      "id": "site-lerna",
+      "zh": "勒尔纳",
+      "en": "Lerna",
+      "native": null,
+      "kind": "Neolithic–Early Helladic key site (Argolid)",
+      "region": "Argolid, Greece",
+      "szh": "Caskey 发掘；House of the Tiles（EH II）见 Wiencke Lerna IV。",
+      "sen": "Caskey excavations; House of the Tiles (EH II) in Wiencke Lerna IV.",
+      "sources": [
+        "src-aegean-caskey-lerna-hesperia-1954",
+        "src-aegean-caskey-lerna-hesperia-1955",
+        "src-aegean-wiencke-lerna-iv-2000",
+        "src-aegean-banks-lerna-vii-2015"
+      ]
+    },
+    {
+      "id": "site-troy-hissarlik",
+      "zh": "特洛伊（希沙里克）",
+      "en": "Troy (Hisarlık)",
+      "native": null,
+      "kind": "University of Cincinnati excavations 1932–38",
+      "region": "Çanakkale Province, Türkiye",
+      "szh": "Blegen 等 Troy 最终报告第一卷（I–II 层）。",
+      "sen": "Blegen et al. Troy final-report vol. I (settlements I–II).",
+      "sources": [
+        "src-aegean-blegen-troy-i-1950"
+      ]
+    },
+    {
+      "id": "site-lefkandi-toumba",
+      "zh": "勒夫坎迪（图姆巴）",
+      "en": "Lefkandi (Toumba)",
+      "native": null,
+      "kind": "Protogeometric monumental building and cemetery",
+      "region": "Euboea, Greece",
+      "szh": "Popham 等 BSA 报告的图姆巴大建筑与墓地。",
+      "sen": "Popham et al. BSA reports on Toumba monumental building and cemetery.",
+      "sources": [
+        "src-aegean-popham-lefkandi-i-1980",
+        "src-aegean-popham-lefkandi-ii-1993"
+      ]
+    },
+    {
+      "id": "site-phylakopi-deepen",
+      "zh": "菲拉科皮（加深）",
+      "en": "Phylakopi (deepened)",
+      "native": null,
+      "kind": "Cycladic Bronze Age town on Melos",
+      "region": "Melos, Greece",
+      "szh": "Atkinson 等 1904 初版发掘报告加深既有菲拉科皮条目。",
+      "sen": "Atkinson et al. 1904 primary volume deepens existing Phylakopi entry.",
+      "sources": [
+        "src-aegean-atkinson-phylakopi-1904",
+        "src-aegean-renfrew-1972"
+      ]
+    },
+    {
+      "id": "site-thera-chronology-pointer",
+      "zh": "锡拉年代辩论指针",
+      "en": "Thera chronology debate pointer",
+      "native": null,
+      "kind": "Eruption-dating debate frame (not a new excavation)",
+      "region": "Santorini, Greece",
+      "szh": "Manning 等 2022 等年代模型指针；非新发掘地点。",
+      "sen": "Pointer for Manning et al. 2022 and related dating models; not a new excavation.",
+      "sources": [
+        "src-aegean-manning-thera-plos-2022",
+        "src-aegean-manning-science-2006",
+        "src-aegean-wiener-chronology-debate"
+      ]
+    }
+  ],
+  "asms": [
+    {
+      "id": "asm-lerna-house-of-tiles",
+      "zh": "勒尔纳砖瓦之屋组合",
+      "en": "Lerna House of the Tiles assemblage",
+      "sites": [
+        "site-lerna"
+      ],
+      "szh": "EH II 纪念性建筑与封印/陶器类别（Wiencke Lerna IV）。",
+      "sen": "EH II monumental architecture and sealing/pottery classes (Wiencke Lerna IV).",
+      "sources": [
+        "src-aegean-wiencke-lerna-iv-2000",
+        "src-aegean-caskey-lerna-hesperia-1954"
+      ],
+      "url": "https://www.ascsa.edu.gr/publications/books/browse-by-series/lerna"
+    },
+    {
+      "id": "asm-lerna-neolithic",
+      "zh": "勒尔纳新石器聚落组合",
+      "en": "Lerna Neolithic settlement assemblage",
+      "sites": [
+        "site-lerna"
+      ],
+      "szh": "新石器聚落建筑与陶器类别（Banks Lerna VII）。",
+      "sen": "Neolithic settlement architecture and pottery classes (Banks Lerna VII).",
+      "sources": [
+        "src-aegean-banks-lerna-vii-2015"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-troy-i-ii",
+      "zh": "特洛伊 I–II 层组合",
+      "en": "Troy I–II settlement assemblage",
+      "sites": [
+        "site-troy-hissarlik"
+      ],
+      "szh": "Blegen Troy I 卷所综合的早期聚落建筑与器物类别。",
+      "sen": "Early settlement architecture and artifact classes as synthesized in Blegen Troy I.",
+      "sources": [
+        "src-aegean-blegen-troy-i-1950"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-lefkandi-toumba-building",
+      "zh": "勒夫坎迪图姆巴大建筑组合",
+      "en": "Lefkandi Toumba monumental building assemblage",
+      "sites": [
+        "site-lefkandi-toumba",
+        "site-lefkandi"
+      ],
+      "szh": "原几何大建筑与相关墓葬组合（Lefkandi II）。",
+      "sen": "Protogeometric monumental building and related burial assemblage (Lefkandi II).",
+      "sources": [
+        "src-aegean-popham-lefkandi-ii-1993",
+        "src-aegean-popham-lefkandi-i-1980"
+      ],
+      "url": "http://lefkandi.classics.ox.ac.uk/publications.html"
+    },
+    {
+      "id": "asm-phylakopi-1904",
+      "zh": "菲拉科皮 1904 发掘组合",
+      "en": "Phylakopi 1904 excavation assemblage",
+      "sites": [
+        "site-phylakopi",
+        "site-phylakopi-deepen"
+      ],
+      "szh": "1904 卷公布的青铜时代城镇建筑与陶器类别。",
+      "sen": "Bronze Age town architecture and pottery classes as published in the 1904 volume.",
+      "sources": [
+        "src-aegean-atkinson-phylakopi-1904"
+      ],
+      "url": "https://archive.org/details/excavationsatphy00brituoft"
+    },
+    {
+      "id": "asm-furumark-mycenaean-pottery",
+      "zh": "Furumark 迈锡尼陶器类型指针",
+      "en": "Furumark Mycenaean pottery typology pointer",
+      "sites": [
+        "site-mycenae",
+        "site-pylos"
+      ],
+      "szh": "迈锡尼陶器类型学/年代学基础分类（二手）。",
+      "sen": "Foundational Mycenaean pottery typology/chronology classes (secondary).",
+      "sources": [
+        "src-aegean-furumark-mycenaean-pottery-1941"
+      ],
+      "url": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-aegean-caskey-lerna",
+      "kind": "fact",
+      "zh": "Caskey《Hesperia》预备报告公布勒尔纳 1952–54 季早期发掘。",
+      "en": "Caskey Hesperia preliminary reports publish early Lerna excavation seasons 1952–54.",
+      "sites": [
+        "site-lerna"
+      ],
+      "objs": [
+        "asm-lerna-house-of-tiles"
+      ],
+      "sources": [
+        "src-aegean-caskey-lerna-hesperia-1954",
+        "src-aegean-caskey-lerna-hesperia-1955"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-wiencke-lerna-iv",
+      "kind": "fact",
+      "zh": "Wiencke Lerna IV（2000）正式报告 EH II / Lerna III 建筑与陶器（含砖瓦之屋）。",
+      "en": "Wiencke Lerna IV (2000) is the final report on EH II / Lerna III architecture and pottery (incl. House of the Tiles).",
+      "sites": [
+        "site-lerna"
+      ],
+      "objs": [
+        "asm-lerna-house-of-tiles"
+      ],
+      "sources": [
+        "src-aegean-wiencke-lerna-iv-2000"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-blegen-troy-i",
+      "kind": "fact",
+      "zh": "Blegen 等 Troy I（1950）正式报告辛辛那提大学特洛伊 I–II 层发掘。",
+      "en": "Blegen et al. Troy I (1950) is the final report on Cincinnati Troy settlements I–II.",
+      "sites": [
+        "site-troy-hissarlik"
+      ],
+      "objs": [
+        "asm-troy-i-ii"
+      ],
+      "sources": [
+        "src-aegean-blegen-troy-i-1950"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-lefkandi-toumba",
+      "kind": "fact",
+      "zh": "Popham 等 Lefkandi I/II 报告勒夫坎迪铁器时代聚落/墓地与图姆巴原几何大建筑。",
+      "en": "Popham et al. Lefkandi I/II report Lefkandi Iron Age settlement/cemeteries and the Toumba Protogeometric building.",
+      "sites": [
+        "site-lefkandi-toumba",
+        "site-lefkandi"
+      ],
+      "objs": [
+        "asm-lefkandi-toumba-building"
+      ],
+      "sources": [
+        "src-aegean-popham-lefkandi-i-1980",
+        "src-aegean-popham-lefkandi-ii-1993"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-phylakopi-1904",
+      "kind": "fact",
+      "zh": "Atkinson 等（1904）公布米洛斯菲拉科皮青铜时代城镇发掘。",
+      "en": "Atkinson et al. (1904) publish the Bronze Age town excavation at Phylakopi on Melos.",
+      "sites": [
+        "site-phylakopi",
+        "site-phylakopi-deepen"
+      ],
+      "objs": [
+        "asm-phylakopi-1904"
+      ],
+      "sources": [
+        "src-aegean-atkinson-phylakopi-1904"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-banks-lerna-neolithic",
+      "kind": "fact",
+      "zh": "Banks Lerna VII（2015）正式报告勒尔纳新石器聚落。",
+      "en": "Banks Lerna VII (2015) is the final report on the Neolithic settlement at Lerna.",
+      "sites": [
+        "site-lerna"
+      ],
+      "objs": [
+        "asm-lerna-neolithic"
+      ],
+      "sources": [
+        "src-aegean-banks-lerna-vii-2015"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-aegean-thera-sole-lmib",
+      "kind": "hypothesis",
+      "zh": "锡拉喷发为 LM IB 破坏的唯一主因——年代与因果仍争议，不作定论。",
+      "en": "That the Thera eruption is the sole cause of LM IB destructions remains contested in date and causation — not a fact verdict.",
+      "sites": [
+        "site-akrotiri",
+        "site-thera-chronology-pointer"
+      ],
+      "objs": [
+        "asm-furumark-mycenaean-pottery"
+      ],
+      "sources": [
+        "src-aegean-manning-thera-plos-2022",
+        "src-aegean-manning-science-2006",
+        "src-aegean-driessen-macdonald-troubled-island-1997"
+      ],
+      "disclaimer": "Hypothesis: eruption–destruction causal link and high/low chronology remain open."
+    },
+    {
+      "id": "claim-aegean-single-calendar-year",
+      "kind": "hypothesis",
+      "zh": "将锡拉喷发钉死在单一日历年——超出当前模型稳健性，留假说栏。",
+      "en": "Pinning the Thera eruption to a single calendar year exceeds current model robustness — keep as hypothesis.",
+      "sites": [
+        "site-thera-chronology-pointer"
+      ],
+      "objs": [],
+      "sources": [
+        "src-aegean-manning-thera-plos-2022",
+        "src-aegean-wiener-chronology-debate"
+      ],
+      "disclaimer": "Hypothesis: Bayesian ranges are not unique calendar-year facts."
+    }
+  ],
+  "bullets_zh": [
+    "- **勒尔纳 / Lerna** — Caskey Hesperia；Wiencke Lerna IV；Banks Lerna VII [`src-aegean-caskey-lerna-hesperia-1954`][`src-aegean-wiencke-lerna-iv-2000`][`src-aegean-banks-lerna-vii-2015`]。",
+    "- **特洛伊 / Troy** — Blegen Troy I（1950）[`src-aegean-blegen-troy-i-1950`]。",
+    "- **勒夫坎迪图姆巴 / Lefkandi Toumba** — Lefkandi I/II [`src-aegean-popham-lefkandi-i-1980`][`src-aegean-popham-lefkandi-ii-1993`]。",
+    "- **菲拉科皮加深** — Atkinson 1904 [`src-aegean-atkinson-phylakopi-1904`]。",
+    "- **锡拉年代** — Manning PLOS 2022；Furumark 陶器类型学 [`src-aegean-manning-thera-plos-2022`][`src-aegean-furumark-mycenaean-pottery-1941`]。"
+  ],
+  "bullets_en": [
+    "- **Lerna** — Caskey Hesperia; Wiencke Lerna IV; Banks Lerna VII [`src-aegean-caskey-lerna-hesperia-1954`][`src-aegean-wiencke-lerna-iv-2000`][`src-aegean-banks-lerna-vii-2015`].",
+    "- **Troy** — Blegen Troy I (1950) [`src-aegean-blegen-troy-i-1950`].",
+    "- **Lefkandi Toumba** — Lefkandi I/II [`src-aegean-popham-lefkandi-i-1980`][`src-aegean-popham-lefkandi-ii-1993`].",
+    "- **Phylakopi deepened** — Atkinson 1904 [`src-aegean-atkinson-phylakopi-1904`].",
+    "- **Thera chronology** — Manning PLOS 2022; Furumark pottery typology [`src-aegean-manning-thera-plos-2022`][`src-aegean-furumark-mycenaean-pottery-1941`]."
+  ],
+  "hist_zh": "第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Caskey/Wiencke/Banks 勒尔纳；Blegen 特洛伊 I；Popham 勒夫坎迪 I/II；Atkinson 菲拉科皮 1904；Furumark；Manning 2022。锡拉＝LM IB 唯一主因与单一日历年留假说栏。",
+  "hist_en": "Third density pass (2026-10-12 / D-2026-10-12-2) also registers Caskey/Wiencke/Banks Lerna; Blegen Troy I; Popham Lefkandi I/II; Atkinson Phylakopi 1904; Furumark; Manning 2022. Thera=sole LM IB cause and single calendar year stay hypotheses."
+}

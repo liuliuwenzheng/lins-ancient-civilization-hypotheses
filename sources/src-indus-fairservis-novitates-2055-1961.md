@@ -1,0 +1,23 @@
+---
+id: src-indus-fairservis-novitates-2055-1961
+type: article
+citation: "Fairservis, Walter A., Jr. 1961. \"The Harappan Civilization: New Evidence and More Theory.\" American Museum Novitates, no. 2055. New York: American Museum of Natural History."
+url: "https://digitallibrary.amnh.org/items/2dc29e0b-743e-4207-a92b-5397551510ef"
+access_date: "2026-10-12"
+reliability_tier: S
+notes: "AMNH Novitates synthesis of Harappan evidence and theory (1961). Secondary relative to site reports; useful for mid-20th-century research history."
+---
+
+# Source: `src-indus-fairservis-novitates-2055-1961`
+
+| Field | Value |
+|-------|--------|
+| Type | article |
+| Tier | S |
+| Citation | Fairservis, Walter A., Jr. 1961. "The Harappan Civilization: New Evidence and More Theory." American Museum Novitates, no. 2055. New York: American Museum of Natural History. |
+| URL | https://digitallibrary.amnh.org/items/2dc29e0b-743e-4207-a92b-5397551510ef |
+| Accessed | 2026-10-12 |
+
+## Notes
+
+AMNH Novitates synthesis of Harappan evidence and theory (1961). Secondary relative to site reports; useful for mid-20th-century research history.

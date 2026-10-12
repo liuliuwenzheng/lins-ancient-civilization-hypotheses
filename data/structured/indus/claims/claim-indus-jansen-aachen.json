@@ -1,0 +1,32 @@
+{
+  "id": "claim-indus-jansen-aachen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Jansen/Urban（1984）临时报告公布亚琛—IsMEO 在摩亨佐-达罗的田野记录工作。",
+    "en": "Jansen/Urban (1984) interim reports publish Aachen–IsMEO field documentation at Mohenjo-Daro."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-mohenjo-daro",
+    "site-mohenjo-daro-aachen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mohenjo-daro-aachen"
+  ],
+  "sources": [
+    "src-indus-jansen-mohenjo-daro-interim-1984"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-indus-fairservis-1961",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Fairservis（1961）AMNH Novitates 综合哈拉帕证据并提出更多理论讨论。",
+    "en": "Fairservis (1961) AMNH Novitates synthesizes Harappan evidence and further theory."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa",
+    "site-mohenjo-daro"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-fairservis-harappan-synthesis"
+  ],
+  "sources": [
+    "src-indus-fairservis-novitates-2055-1961"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

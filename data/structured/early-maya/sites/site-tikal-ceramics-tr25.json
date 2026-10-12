@@ -1,0 +1,32 @@
+{
+  "id": "site-tikal-ceramics-tr25",
+  "entity": "site",
+  "names": {
+    "zh": "蒂卡尔（陶器专报 TR25）",
+    "en": "Tikal (ceramic reports TR25)",
+    "native": null
+  },
+  "kind_note": "Penn Tikal ceramic sequence unit",
+  "region": "Petén, Guatemala",
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "summary": {
+    "zh": "Culbert TR 25A/25B 陶器序列与特殊堆积整器。",
+    "en": "Culbert TR 25A/25B ceramic sequence and special-deposit whole vessels."
+  },
+  "sources": [
+    "src-maya-culbert-tikal-25a-1993",
+    "src-maya-culbert-kosakowsky-tikal-25b-2019",
+    "src-maya-laporte-fialko-mundo-perdido-1995"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

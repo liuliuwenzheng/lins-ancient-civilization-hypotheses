@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-cyphers-el-azuzul",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Cyphers, Ann. Reports/briefs on El Azuzul twin-figure monument group and related San Lorenzo hinterland sculpture contexts.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary Cyphers reporting on El Azuzul sculpture group. Prefer published descriptions; no forged monument photos.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-cyphers-el-azuzul.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

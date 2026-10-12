@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-diehl-olmecs-ancient-mexico",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Diehl, Richard A. Additional Diehl syntheses on Olmec archaeology beyond Diehl 2004 already registered (museum/catalog essays; regional overviews).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Secondary Diehl overview materials. Prefer Coe–Diehl 1980 and site reports for excavation facts.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-diehl-olmecs-ancient-mexico.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-olmec-heartland-survey-pointer",
+  "entity": "site",
+  "names": {
+    "zh": "奥尔梅克核心区通论指针",
+    "en": "Olmec heartland survey pointer",
+    "native": null
+  },
+  "kind_note": "Secondary synthesis orientation (Bernal)",
+  "region": "Gulf lowlands, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "Bernal《奥尔梅克世界》通论所指向的核心区证据框架。",
+    "en": "Heartland evidence frame as oriented in Bernal The Olmec World."
+  },
+  "sources": [
+    "src-olmec-bernal-olmec-world-1969",
+    "src-olmec-diehl-2004",
+    "src-olmec-pool-2007"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

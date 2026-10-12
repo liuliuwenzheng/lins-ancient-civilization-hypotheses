@@ -91,7 +91,6 @@ The table aligns **Preclassic–Early Classic conventional phases** with registe
 - **San Bartolo** — Late Preclassic murals and early writing [`src-maya-saturno-stuart-beltran-2006`].
 - **Tikal and peers (Classic-onset pointer only)** — 3rd-century CE early carved royal monuments; no full Classic political history here [`src-maya-estrada-belli-2011`][`src-maya-sharer-traxler-2006`].
 
-
 ### Density D-2026-10-11-27 site expansions
 
 - **阿瓜达·费尼克斯 / Aguada Fénix** — Inomata 等 2020 *Nature*：约 1400 m 人工台地、九堤道、测年约前 1000–800 年 [`src-maya-inomata-aguada-fenix-nature-2020`]。
@@ -106,6 +105,20 @@ The table aligns **Preclassic–Early Classic conventional phases** with registe
 - **Tikal Mundo Perdido** — Laporte & Fialko 1995 [`src-maya-laporte-fialko-mundo-perdido-1995`].
 - **Uaxactún** — Carnegie Ricketson/Smith [`src-maya-ricketson-uaxactun`][`src-maya-smith-uaxactun`].
 - **El Mirador Tigre** — NWAF/Matheny; Hansen basin reports [`src-maya-matheny-tigre-mirador-1990`].
+
+### Density pass 3 (D-2026-10-12-2)
+
+- **埃尔米拉多尔 NWAF 45** — Matheny 1980 [`src-maya-matheny-mirador-nwaf45-1980`]。
+- **蒂卡尔 TR 25A/25B** — Culbert 1993；Culbert & Kosakowsky 2019 [`src-maya-culbert-tikal-25a-1993`][`src-maya-culbert-kosakowsky-tikal-25b-2019`]。
+- **圣巴托洛 / 霍尔穆尔 / 阿瓜达菲尼克斯加深** [`src-maya-saturno-san-bartolo-deepen`][`src-maya-estrada-belli-holmul-deepen`][`src-maya-inomata-aguada-fenix-deepen`]。
+- **米拉多尔建筑加深** [`src-maya-hansen-mirador-architecture`]。
+- **通论** — Coe 破译史；Martin & Grube 王朝编年 [`src-maya-coe-breaking-maya-code-2012`][`src-maya-martin-grube-chronicle-2008`]。
+
+- **El Mirador NWAF 45** — Matheny 1980 [`src-maya-matheny-mirador-nwaf45-1980`].
+- **Tikal TR 25A/25B** — Culbert 1993; Culbert & Kosakowsky 2019 [`src-maya-culbert-tikal-25a-1993`][`src-maya-culbert-kosakowsky-tikal-25b-2019`].
+- **San Bartolo / Holmul / Aguada Fénix deepened** [`src-maya-saturno-san-bartolo-deepen`][`src-maya-estrada-belli-holmul-deepen`][`src-maya-inomata-aguada-fenix-deepen`].
+- **Mirador architecture deepened** [`src-maya-hansen-mirador-architecture`].
+- **Surveys** — Coe decipherment history; Martin & Grube chronicle [`src-maya-coe-breaking-maya-code-2012`][`src-maya-martin-grube-chronicle-2008`].
 
 ## Urbanism, architecture & institutions
 
@@ -171,52 +184,60 @@ Second density (D-2026-10-11-30) also registers: Forsyth Nakbe 1993; Estrada-Bel
 - **亚舒纳 / Yaxuná** — FAMSI 1988 [`src-maya-ringle-yaxuna`]
 - **奥尔穆尔 / Holmul** — Estrada-Belli 项目 [`src-maya-estrada-belli-holmul`]
 
+第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Matheny NWAF 45；Culbert TR25A/25B；Coe 破译史；Martin & Grube；米拉多尔/圣巴托洛/霍尔穆尔/阿瓜达菲尼克斯加深。米拉多尔「首个国家」与中前古典完备神王留假说栏。
+
+Third density pass (2026-10-12 / D-2026-10-12-2) also registers Matheny NWAF 45; Culbert TR25A/25B; Coe decipherment history; Martin & Grube; Mirador/San Bartolo/Holmul/Aguada Fénix deepened. Mirador first-state and Middle Preclassic full divine kingship stay hypotheses.
 
 ## Sources
 
-- `src-maya-sharer-traxler-2006` — secondary handbook; long-view Maya synthesis (tier S)
-- `src-maya-estrada-belli-2011` — secondary monograph; Preclassic ritual/power; Nakbe / El Mirador / Cival (tier S)
-- `src-maya-inomata-ceibal-science-2013` — peer-reviewed article; Ceibal ~1000–700 BCE ceremonial architecture (tier S)
-- `src-mesoamerica-nichols-pool-handbook-2012` — secondary handbook; Mesoamerica orientation (tier S)
-- `src-olmec-pool-2007` — secondary monograph; Formative Gulf comparative framing (tier S)
-- `src-maya-saturno-stuart-beltran-2006` — peer-reviewed article; San Bartolo early writing/murals (tier S)
-- `src-maya-clark-hansen-2001` — secondary chapter; early kingship / MFC comparative architecture (tier S)
-- `src-maya-demarest-2004` — secondary Cambridge synthesis; Preclassic florescence orientation (tier S)
-- `src-maya-inomata-ceibal-plateau-2019` — peer-reviewed article; Ceibal Preclassic artificial plateaus (tier S)
-- `src-maya-coe-houston-2015` — secondary survey; 9th ed. *The Maya* (tier S)
-- `src-maya-hansen-nakbe-1998` — secondary chapter/project synthesis; Nakbe Middle Preclassic architecture (tier S)
-- `src-maya-willey-seibal-1975` — primary Peabody multi-volume Seibal/Ceibal reports (tier P; Classic-leaning)
-
-
-### Density D-27 added sources
-- `src-maya-inomata-aguada-fenix-nature-2020` — P; Nature Aguada Fénix
-- `src-maya-hammond-cuello-1991` — P; Cuello monograph
-- `src-maya-laporte-fialko-mundo-perdido-1995` — P; Ancient Mesoamerica Mundo Perdido
-- `src-maya-matheny-tigre-mirador-1990` — P; NWAF Tigre Complex
-- `src-maya-hansen-tigre-mirador` — P; Mirador Basin reports pointer
-- `src-maya-ricketson-uaxactun` — P; Carnegie Group E 1937
-- `src-maya-smith-uaxactun` — P; Carnegie excavations 1950
-- `src-maya-aoyama-ceibal-lithics` — S; Ceibal lithics pointer
-- `src-maya-healy-cahal-pech` — P; Cahal Pech Preclassic
-- `src-maya-garber-blackman-eddy` — P; Blackman Eddy sequence
-- `src-maya-freidel-schele-forest-kings` — S; popular-scholarly (hypothesis hygiene)
-- `src-maya-cohre-or-md-andrews-uaxactun` — S; modern Uaxactún reassessment pointer
-- `src-maya-inomata-middle-preclassic-platforms` — S; related Middle Preclassic landscape
-- `src-maya-inomata-pnas-ceibal-2015` — P; PNAS Ceibal sedentism/ceremony
-- `src-maya-mcanany-living-ancestors-1995` — S; kinship/kingship synthesis
-- `src-maya-ashmore-lowland-settlement-1981` — S; settlement patterns volume
-
-
-- `src-maya-forsyth-nakbe-ceramics-1993` — primary article; Nakbe ceramics (tier P)
-- `src-maya-estrada-belli-cival-2006` — secondary; Cival ideology (tier S)
-- `src-maya-willey-belize-valley-1965` — primary; Belize Valley settlements (tier P)
-- `src-maya-freidel-cerros-1986` — primary project; Cerros (tier P)
-- `src-maya-pendergast-lamanai` — primary project; Lamanai (tier P)
-- `src-maya-ringle-yaxuna` — primary project; Yaxuná (tier P)
-- `src-maya-kosakowsky-cuello-ceramics-2003` — secondary; Cuello ceramics (tier S)
-- `src-maya-hansen-mirador-lidar-2022` — secondary; Mirador–Calakmul LiDAR (tier S)
-- `src-maya-estrada-belli-holmul` — primary project; Holmul (tier P)
-
+- `src-maya-aoyama-ceibal-lithics` — article; Aoyama, Kazuo. (peer-reviewed lithic analyses from Ceibal–Petexbatun / Ceibal Preclassic contexts; collaborator on In... (tier S)
+- `src-maya-ashmore-lowland-settlement-1981` — monograph; Ashmore, Wendy, ed. 1981. Lowland Maya Settlement Patterns. Albuquerque: University of New Mexico Press (School of Am... (tier S)
+- `src-maya-clark-hansen-2001` — monograph; Clark, John E., and Richard D. Hansen. 2001. The Architecture of Early Kingship: Comparative Perspectives on the Orig... (tier S)
+- `src-maya-coe-breaking-maya-code-2012` — monograph; Coe, Michael D. 2012. Breaking the Maya Code. 3rd ed. London: Thames & Hudson. ISBN 978-0-500-28955-9 (first ed. 1992). (tier S)
+- `src-maya-coe-houston-2015` — monograph; Coe, Michael D., and Stephen D. Houston. 2015. The Maya. 9th ed. Ancient Peoples and Places. London; New York: Thames... (tier S)
+- `src-maya-cohre-andrews-uaxactun-deepen` — excavation-report; Additional Carnegie Institution Uaxactun reporting beyond Ricketson/Smith volumes already registered (architectural/s... (tier P)
+- `src-maya-cohre-or-md-andrews-uaxactun` — monograph; Andrews, E. Wyllys V, and others / later Uaxactún reassessments (seed: keep Ricketson/Smith as P anchors; use modern ... (tier S)
+- `src-maya-culbert-kosakowsky-tikal-25b-2019` — excavation-report; Culbert, T. Patrick, and Laura J. Kosakowsky. 2019. The Ceramic Sequence of Tikal. Tikal Report 25B. Philadelphia: Un... (tier P)
+- `src-maya-culbert-tikal-25a-1993` — excavation-report; Culbert, T. Patrick. 1993. The Ceramics of Tikal: Vessels from the Burials, Caches, and Problematical Deposits. Tikal... (tier P)
+- `src-maya-demarest-2004` — monograph; Demarest, Arthur A. 2004. Ancient Maya: The Rise and Fall of a Rainforest Civilization. Case Studies in Early Societi... (tier S)
+- `src-maya-estrada-belli-2011` — monograph; Estrada-Belli, Francisco. 2011. The First Maya Civilization: Ritual and Power Before the Classic Period. London; New ... (tier S)
+- `src-maya-estrada-belli-cival-2006` — article; Estrada-Belli, Francisco. 2006. “Lightning Sky, Rain, and the Maize God: The Ideology of Preclassic Maya Rulers at Ci... (tier S)
+- `src-maya-estrada-belli-holmul-deepen` — excavation-report; Estrada-Belli, Francisco. Additional Holmul/Cival region reports beyond Estrada-Belli 2006/2011 already registered (P... (tier P)
+- `src-maya-estrada-belli-holmul` — excavation-report; Estrada-Belli, Francisco. Holmul Archaeological Project reports and related publications on Holmul and Cival (Peten) ... (tier P)
+- `src-maya-forsyth-nakbe-ceramics-1993` — article; Forsyth, Donald W. 1993. “The Ceramic Sequence at Nakbe, Guatemala.” Ancient Mesoamerica 4(1): 31–53. DOI 10.1017/S09... (tier P)
+- `src-maya-freidel-cerros-1986` — excavation-report; Freidel, David A., and others. Cerros (Cerro Maya), Belize, Late Preclassic center excavation reports and architectur... (tier P)
+- `src-maya-freidel-schele-forest-kings` — monograph; Schele, Linda, and David Freidel. 1990. A Forest of Kings: The Untold Story of the Ancient Maya. New York: William Mo... (tier S)
+- `src-maya-garber-blackman-eddy-deepened` — excavation-report; Garber, James F., et al. Blackman Eddy, Belize, Preclassic architectural sequence reports (deepened pointer alongside... (tier P)
+- `src-maya-garber-blackman-eddy` — article; Garber, James F., et al. (Blackman Eddy, Belize, Preclassic architectural sequence reports in Belize Valley edited vo... (tier P)
+- `src-maya-hammond-cuello-1991` — excavation-report; Hammond, Norman, ed. 1991. Cuello: An Early Maya Community in Belize. Cambridge University Press. (tier P)
+- `src-maya-hansen-mirador-architecture` — excavation-report; Hansen, Richard D. Additional Mirador Basin architectural/sequence reports beyond Hansen Nakbe 1998 / Tigre / LiDAR 2... (tier P)
+- `src-maya-hansen-mirador-lidar-2022` — article; Hansen, Richard D., et al. 2022. “LiDAR analyses in the contiguous Mirador-Calakmul Karst Basin, Guatemala: an introd... (tier S)
+- `src-maya-hansen-nakbe-1998` — article; Hansen, Richard D. 1998. Continuity and Discontinuity: The Early Middle Preclassic Architecture of Nakbé, Petén, Guat... (tier S)
+- `src-maya-hansen-tigre-mirador` — excavation-report; Hansen, Richard D. (Mirador Basin / El Mirador–Nakbe project reports and Simposio de Investigaciones Arqueológicas en... (tier P)
+- `src-maya-healy-cahal-pech` — article; Healy, Paul F., et al. (Belize Valley Preclassic Cahal Pech excavation reports and Ancient Mesoamerica / monograph ch... (tier P)
+- `src-maya-inomata-aguada-fenix-deepen` — article; Inomata, Takeshi, et al. Follow-on publications to the 2020 Nature Aguada Fénix report already registered (lidar; Mid... (tier P)
+- `src-maya-inomata-aguada-fenix-nature-2020` — article; Inomata, Takeshi, Daniela Triadan, Verónica A. Vázquez López, et al. 2020. “Monumental architecture at Aguada Fénix a... (tier P)
+- `src-maya-inomata-ceibal-plateau-2019` — article; Inomata, Takeshi, Daniela Triadan, Flory Pinzón, and Kazuo Aoyama. 2019. Artificial Plateau Construction during the P... (tier S)
+- `src-maya-inomata-ceibal-science-2013` — article; Inomata, Takeshi, Daniela Triadan, Kazuo Aoyama, Victor Castillo, and Hitoshi Yonenobu. 2013. Early Ceremonial Constr... (tier S)
+- `src-maya-inomata-middle-preclassic-platforms` — article; Inomata, Takeshi, et al. (related Middle Preclassic ceremonial-platform / “Middle Formative Usumacinta” landscape pap... (tier S)
+- `src-maya-inomata-pnas-ceibal-2015` — article; Inomata, Takeshi, Jessica MacLellan, Daniela Triadan, et al. 2015. “Development of sedentary communities in the Maya ... (tier P)
+- `src-maya-kosakowsky-cuello-ceramics-2003` — article; Kosakowsky, Laura J. 2003. “Shaping Ceramic Research at the Maya Site of Cuello, Belize.” Ancient Mesoamerica 14(1): ... (tier S)
+- `src-maya-laporte-fialko-mundo-perdido-1995` — article; Laporte, Juan Pedro, and Vilma Fialko. 1995. “Un reencuentro con Mundo Perdido, Tikal, Guatemala.” Ancient Mesoameric... (tier P)
+- `src-maya-martin-grube-chronicle-2008` — monograph; Martin, Simon, and Nikolai Grube. 2008. Chronicle of the Maya Kings and Queens. 2nd ed. London: Thames & Hudson. (1st... (tier S)
+- `src-maya-matheny-mirador-nwaf45-1980` — excavation-report; Matheny, Ray T., ed. 1980. El Mirador, Petén, Guatemala: An Interim Report. Papers of the New World Archaeological Fo... (tier P)
+- `src-maya-matheny-tigre-mirador-1990` — excavation-report; Matheny, Ray T., et al. / Hansen-linked NWAF reporting: Excavations in the Tigre Complex, El Mirador, Petén, Guatemal... (tier P)
+- `src-maya-mcanany-living-ancestors-1995` — monograph; McAnany, Patricia A. 1995. Living with the Ancestors: Kinship and Kingship in Ancient Maya Society. Austin: Universit... (tier S)
+- `src-maya-pendergast-lamanai` — excavation-report; Pendergast, David M. Lamanai, Belize, excavation reports (Royal Ontario Museum project): Preclassic through later occ... (tier P)
+- `src-maya-ricketson-uaxactun` — excavation-report; Ricketson, Oliver G., Jr., and Edith B. Ricketson. 1937. Uaxactun, Guatemala: Group E — 1926–1931. Carnegie Instituti... (tier P)
+- `src-maya-ringle-yaxuna` — excavation-report; Freidel, David; Suhler, Charles; et al. / Yaxuná Archaeological Survey reports (FAMSI and project reports), including... (tier P)
+- `src-maya-saturno-san-bartolo-deepen` — article; Saturno, William A., David Stuart, and Boris Beltrán. Additional San Bartolo mural and Preclassic writing papers beyo... (tier P)
+- `src-maya-saturno-stuart-beltran-2006` — article; Saturno, William A., David Stuart, and Boris Beltrán. 2006. Early Maya Writing at San Bartolo, Guatemala. Science 311... (tier S)
+- `src-maya-sharer-traxler-2006` — monograph; Sharer, Robert J., with Loa P. Traxler. 2006. The Ancient Maya. 6th ed. Stanford, Calif.: Stanford University Press. ... (tier S)
+- `src-maya-smith-uaxactun` — excavation-report; Smith, A. Ledyard. 1950. Uaxactun, Guatemala: Excavations of 1931–1937. Carnegie Institution of Washington Publicatio... (tier P)
+- `src-maya-willey-belize-valley-1965` — excavation-report; Willey, Gordon R.; Bullard, William R., Jr.; Glass, John B.; Gifford, James C. 1965. Prehistoric Maya Settlements in ... (tier P)
+- `src-maya-willey-seibal-1975` — excavation-report; Willey, Gordon R., A. Ledyard Smith, Jeremy A. Sabloff, et al. 1975–. Excavations at Seibal, Department of Petén, Gua... (tier P)
+- `src-mesoamerica-nichols-pool-handbook-2012` — monograph; Nichols, Deborah L., and Christopher A. Pool, eds. 2012. The Oxford Handbook of Mesoamerican Archaeology. Oxford; New... (tier S)
+- `src-olmec-pool-2007` — monograph; Pool, Christopher A. 2007. Olmec Archaeology and Early Mesoamerica. Cambridge World Archaeology. Cambridge; New York:... (tier S)
 
 ## Related civilizations
 

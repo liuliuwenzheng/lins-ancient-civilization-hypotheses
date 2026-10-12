@@ -1,0 +1,30 @@
+{
+  "id": "claim-olmec-cascajal-oldest-script",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Cascajal 石板为美洲「最早文字」且无争议——排序与文字定义仍假说。",
+    "en": "That the Cascajal block is uncontested \"oldest writing\" in the Americas remains a definitional/ranking hypothesis."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-cascajal"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-olmec-rodriguez-cascajal-science-2006",
+    "src-olmec-mora-marin-cascajal-2020"
+  ],
+  "disclaimer": "Hypothesis: script status and \"oldest\" ranking remain contested.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

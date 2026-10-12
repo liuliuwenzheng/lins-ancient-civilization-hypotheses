@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-hansen-mirador-architecture",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Hansen, Richard D. Additional Mirador Basin architectural/sequence reports beyond Hansen Nakbe 1998 / Tigre / LiDAR 2022 already registered (Danta, Tigre complexes).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Additional primary Mirador Basin architecture reporting. \"First state\" rankings stay hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-hansen-mirador-architecture.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

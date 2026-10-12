@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-possehl-ancient-cities-1979",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Possehl, Gregory L., ed. 1979. Ancient Cities of the Indus. Durham, N.C.: Carolina Academic Press / New Delhi: Vikas. ISBN 0-89089-093-5.",
+  "url": "https://www.exoticindiaart.com/book/details/ancient-cities-of-indus-nam783/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Edited compilation of key articles on Indus urbanism with bibliography. Secondary container; cite individual papers when claims are paper-specific.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-possehl-ancient-cities-1979.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

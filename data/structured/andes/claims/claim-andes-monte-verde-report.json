@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-monte-verde-report",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Dillehay（1997）卷二综合蒙特维德晚更新世考古语境与解释。",
+    "en": "Dillehay (1997) vol. 2 synthesizes Monte Verde Late Pleistocene archaeological context and interpretation."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-monte-verde"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-monte-verde-late-pleistocene"
+  ],
+  "sources": [
+    "src-andes-dillehay-monte-verde-ii-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

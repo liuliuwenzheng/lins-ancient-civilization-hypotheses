@@ -1,0 +1,32 @@
+{
+  "id": "claim-andes-kotosh-tokyo-reports",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "东京大学《安第斯》2/4 报告科托什 1960/1963/1966 季发掘结果（礼仪建筑序列）。",
+    "en": "University of Tokyo Andes 2/4 reports publish Kotosh 1960/1963/1966 excavation results (ceremonial architecture sequence)."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-kotosh"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-kotosh-crossed-hands"
+  ],
+  "sources": [
+    "src-andes-izumi-sono-kotosh-andes2-1963",
+    "src-andes-izumi-terada-kotosh-andes4-1972"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

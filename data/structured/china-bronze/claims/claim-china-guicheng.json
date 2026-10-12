@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-guicheng",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "归城中美项目报告山东西周城址与冶金遗存。",
+    "en": "Sino-American Guicheng Project reports Western Zhou walled settlement and metallurgy in Shandong."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-guicheng"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-guicheng-western-zhou"
+  ],
+  "sources": [
+    "src-china-guicheng-survey-excavation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

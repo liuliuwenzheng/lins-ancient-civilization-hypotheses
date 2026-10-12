@@ -1,0 +1,32 @@
+{
+  "id": "claim-sxd-same-polity-shang",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "三星堆与商为同一政体——学界争议模型，本条不升为定论。",
+    "en": "That Sanxingdui and Shang were the same polity is a contested scholarly model — not elevated to fact here."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-sanxingdui"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-pits-3-8-2021"
+  ],
+  "sources": [
+    "src-sanxingdui-bagley-ancient-sichuan-2001",
+    "src-sanxingdui-sun-hua-cultures-2003"
+  ],
+  "disclaimer": "Hypothesis: political identity relative to Shang remains open; keep in hypothesis column.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

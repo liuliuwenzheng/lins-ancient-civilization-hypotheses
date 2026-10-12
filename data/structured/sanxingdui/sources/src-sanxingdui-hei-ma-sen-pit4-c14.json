@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-hei-ma-sen-pit4-c14",
+  "entity": "source",
+  "type": "article",
+  "citation": "Additional radiocarbon and Bayesian modeling context papers for Sanxingdui Pit 4 and related pits (complementing Zhao NSR 2021 / Li et al. Antiquity 2022 already registered).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary/peer radiocarbon context for Pit 4 absolute dating. Absolute calendar endpoints remain model-dependent — do not invent single-year precision.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-hei-ma-sen-pit4-c14.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

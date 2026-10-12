@@ -1,0 +1,32 @@
+{
+  "id": "claim-maya-matheny-nwaf45",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Matheny（1980）NWAF 45 临时报告公布埃尔米拉多尔早期田野季结果。",
+    "en": "Matheny (1980) NWAF 45 interim report publishes early El Mirador field seasons."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-el-mirador",
+    "site-el-mirador-nwaf"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-mirador-nwaf45"
+  ],
+  "sources": [
+    "src-maya-matheny-mirador-nwaf45-1980"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

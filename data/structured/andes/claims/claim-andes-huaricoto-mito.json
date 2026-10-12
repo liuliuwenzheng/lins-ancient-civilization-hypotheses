@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-huaricoto-mito",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Burger & Salazar-Burger（1985）报告瓦里科托存在 Kotosh–Mito 式中心火塘礼仪建筑。",
+    "en": "Burger & Salazar-Burger (1985) report Kotosh–Mito-style central-hearth ceremonial architecture at Huaricoto."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-huaricoto"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-huaricoto-mito-hearths"
+  ],
+  "sources": [
+    "src-andes-burger-salazar-huaricoto-1985"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

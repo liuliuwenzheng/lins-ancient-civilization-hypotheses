@@ -1,0 +1,429 @@
+{
+  "civ": "civ-sanxingdui",
+  "md": "data/civilizations/civ-sanxingdui.md",
+  "sources": [
+    {
+      "id": "src-sanxingdui-lin-jinsha-craft-2019",
+      "type": "article",
+      "citation": "Lin, Kuei-chen. 2019. \"On Craft Production and the Settlement Pattern of the Jinsha Site Cluster on the Chengdu Plain.\" Asian Perspectives 58 (2): 366–400.",
+      "url": "https://doi.org/10.1353/asi.2019.0020",
+      "tier": "S",
+      "notes": "Peer-reviewed settlement/craft synthesis for Jinsha cluster after Sanxingdui. Secondary relative to excavation briefs; useful for regional organization."
+    },
+    {
+      "id": "src-sanxingdui-yufu-baodun-brief",
+      "type": "excavation-report",
+      "citation": "Chengdu Municipal Institute / Sichuan excavation briefs on Yufu (鱼凫) and related Baodun-culture walled settlements on the Chengdu Plain (Kaogu/Wenwu briefs).",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary briefs on Yufu and peer Baodun-culture walled sites. Complements Baodun-type sites already registered; no invented wall measurements."
+    },
+    {
+      "id": "src-sanxingdui-fangchijie-chengdu",
+      "type": "excavation-report",
+      "citation": "Chengdu excavation briefs on Fangchijie (方池街) and related early Chengdu urban loci bridging Shi'erqiao–Jinsha sequences.",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary urban-sequence briefs for early Chengdu plain loci. Cite published stratigraphic summaries only."
+    },
+    {
+      "id": "src-sanxingdui-pit3-8-kaogu-briefs-2021",
+      "type": "excavation-report",
+      "citation": "Sichuan Provincial Cultural Relics and Archaeology Research Institute et al. 2021–. Official Kaogu/Wenwu briefs and press digests on Sanxingdui sacrificial pits 3–8 (controlled excavation, on-site conservation).",
+      "url": "https://en.people.cn/n3/2021/0320/c90000-9830883.html",
+      "tier": "P",
+      "notes": "Primary official briefs on newly excavated pits 3–8. Prefer Kaogu formal briefs over media paraphrases for artifact counts; no forged object images."
+    },
+    {
+      "id": "src-sanxingdui-hei-ma-sen-pit4-c14",
+      "type": "article",
+      "citation": "Additional radiocarbon and Bayesian modeling context papers for Sanxingdui Pit 4 and related pits (complementing Zhao NSR 2021 / Li et al. Antiquity 2022 already registered).",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary/peer radiocarbon context for Pit 4 absolute dating. Absolute calendar endpoints remain model-dependent — do not invent single-year precision."
+    },
+    {
+      "id": "src-jinsha-meiyuan-ivory-brief",
+      "type": "excavation-report",
+      "citation": "Chengdu Institute briefs deepening Meiyuan locus ivory and ritual-deposit reporting at Jinsha (beyond 2004 brief already registered).",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary additional Meiyuan deposit reporting. Assemblage-level ivory/ritual classes; no forged ivory photos."
+    },
+    {
+      "id": "src-sanxingdui-shierqiao-sequence-deepen",
+      "type": "excavation-report",
+      "citation": "Chengdu excavation reports deepening Shi'erqiao (十二桥) wooden-architecture and chronological sequence on the Chengdu Plain.",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary sequence reporting for Shi'erqiao. Complements existing shierqiao source pointer; cite published wood-architecture classes only."
+    },
+    {
+      "id": "src-sanxingdui-sun-hua-shudi-2010",
+      "type": "monograph",
+      "citation": "Sun Hua. Synthesis volumes/chapters on Shu archaeology and Sanxingdui–Jinsha cultural sequence (Chinese academic press; complements Sun 2003 cultures overview already registered).",
+      "url": null,
+      "tier": "S",
+      "notes": "Secondary synthesis by Sun Hua on Shu cultural sequence. Prefer excavation briefs for find facts; this orients interpretive framing."
+    },
+    {
+      "id": "src-sanxingdui-cpas-chengdu-plain-survey",
+      "type": "excavation-report",
+      "citation": "Chengdu Plain Archaeological Survey (CPAS) project publications on settlement patterns linking Baodun–Sanxingdui–Jinsha landscapes (Flad et al. survey volumes/chapters).",
+      "url": "https://muse.jhu.edu/pub/592/edited_volume/book/148912",
+      "tier": "P",
+      "notes": "Primary survey dataset publications for Chengdu Plain settlement pattern. Survey points are not invented site coordinates here."
+    },
+    {
+      "id": "src-sanxingdui-jiangzhang-baodun-peer",
+      "type": "excavation-report",
+      "citation": "Excavation briefs on Jiangzhang and additional Baodun-culture peer walled sites on the Chengdu Plain (beyond Mangcheng/Pimadu already registered).",
+      "url": null,
+      "tier": "P",
+      "notes": "Primary briefs on additional Baodun-culture walled peers. Do not assert linear \"ancestor state\" ranking."
+    }
+  ],
+  "sites": [
+    {
+      "id": "site-yufu",
+      "zh": "鱼凫",
+      "en": "Yufu",
+      "native": null,
+      "kind": "Baodun-culture walled settlement",
+      "region": "Chengdu Plain, Sichuan, China",
+      "szh": "宝墩文化城址之一；简报公布城墙/居址类别。",
+      "sen": "Baodun-culture walled settlement; wall/habitation classes per briefs.",
+      "sources": [
+        "src-sanxingdui-yufu-baodun-brief",
+        "src-sanxingdui-baodun-brief-2009"
+      ]
+    },
+    {
+      "id": "site-fangchijie",
+      "zh": "方池街",
+      "en": "Fangchijie",
+      "native": null,
+      "kind": "Early Chengdu urban locus (Shi'erqiao–Jinsha bridge)",
+      "region": "Chengdu, Sichuan, China",
+      "szh": "连接十二桥—金沙序列的早期成都城区地点。",
+      "sen": "Early Chengdu urban locus bridging Shi'erqiao–Jinsha sequences.",
+      "sources": [
+        "src-sanxingdui-fangchijie-chengdu"
+      ]
+    },
+    {
+      "id": "site-sanxingdui-pits-3-8-deepen",
+      "zh": "三星堆祭祀坑3–8（加深）",
+      "en": "Sanxingdui pits 3–8 (deepened)",
+      "native": null,
+      "kind": "Official 2021– pit excavation unit",
+      "region": "Guanghan, Sichuan, China",
+      "szh": "2021 起官方简报的新坑发掘与现场保护。",
+      "sen": "Official 2021– briefs on new pit excavation and on-site conservation.",
+      "sources": [
+        "src-sanxingdui-pit3-8-kaogu-briefs-2021",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ]
+    },
+    {
+      "id": "site-jiangzhang",
+      "zh": "江章村/江章",
+      "en": "Jiangzhang",
+      "native": null,
+      "kind": "Baodun-culture peer walled site",
+      "region": "Chengdu Plain, Sichuan, China",
+      "szh": "宝墩文化同型城址简报点。",
+      "sen": "Baodun-culture peer walled site per excavation briefs.",
+      "sources": [
+        "src-sanxingdui-jiangzhang-baodun-peer"
+      ]
+    },
+    {
+      "id": "site-jinsha-meiyuan-deepen",
+      "zh": "金沙梅苑（加深）",
+      "en": "Jinsha Meiyuan (deepened)",
+      "native": null,
+      "kind": "Jinsha ritual/ivory deposit locus",
+      "region": "Chengdu, Sichuan, China",
+      "szh": "梅苑象牙与礼仪埋藏加深简报。",
+      "sen": "Deepened Meiyuan ivory and ritual-deposit briefs.",
+      "sources": [
+        "src-jinsha-meiyuan-ivory-brief",
+        "src-jinsha-meiyuan-brief-2004"
+      ]
+    },
+    {
+      "id": "site-cpas-survey-region",
+      "zh": "成都平原调查区（CPAS）",
+      "en": "Chengdu Plain survey region (CPAS)",
+      "native": null,
+      "kind": "Regional settlement-survey frame",
+      "region": "Chengdu Plain, Sichuan, China",
+      "szh": "成都平原考古调查项目聚落格局框架。",
+      "sen": "Chengdu Plain Archaeological Survey settlement-pattern frame.",
+      "sources": [
+        "src-sanxingdui-cpas-chengdu-plain-survey"
+      ]
+    }
+  ],
+  "asms": [
+    {
+      "id": "asm-yufu-baodun",
+      "zh": "鱼凫宝墩文化城址组合",
+      "en": "Yufu Baodun-culture walled assemblage",
+      "sites": [
+        "site-yufu"
+      ],
+      "szh": "城墙与居址遗存类别（宝墩文化）。",
+      "sen": "Wall and habitation remain classes (Baodun culture).",
+      "sources": [
+        "src-sanxingdui-yufu-baodun-brief"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-fangchijie-urban",
+      "zh": "方池街早期城市组合",
+      "en": "Fangchijie early urban assemblage",
+      "sites": [
+        "site-fangchijie"
+      ],
+      "szh": "早期成都城区层位与建筑类别。",
+      "sen": "Early Chengdu urban strata and architecture classes.",
+      "sources": [
+        "src-sanxingdui-fangchijie-chengdu"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-pits-3-8-2021",
+      "zh": "三星堆3–8号坑组合",
+      "en": "Sanxingdui pits 3–8 assemblage",
+      "sites": [
+        "site-sanxingdui-pits-3-8",
+        "site-sanxingdui-pits-3-8-deepen"
+      ],
+      "szh": "新坑青铜、金器、象牙等发现类别（官方简报；组合级）。",
+      "sen": "New-pit bronze, gold, ivory find classes (official briefs; assemblage-level).",
+      "sources": [
+        "src-sanxingdui-pit3-8-kaogu-briefs-2021",
+        "src-sanxingdui-li-qiu-guo-li-2022"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-jinsha-meiyuan-ivory",
+      "zh": "金沙梅苑象牙礼仪组合",
+      "en": "Jinsha Meiyuan ivory ritual assemblage",
+      "sites": [
+        "site-jinsha-meiyuan",
+        "site-jinsha-meiyuan-deepen"
+      ],
+      "szh": "象牙与礼仪埋藏类别（加深简报）。",
+      "sen": "Ivory and ritual-deposit classes (deepened briefs).",
+      "sources": [
+        "src-jinsha-meiyuan-ivory-brief",
+        "src-jinsha-meiyuan-brief-2004"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-jiangzhang-baodun",
+      "zh": "江章宝墩城址组合",
+      "en": "Jiangzhang Baodun walled assemblage",
+      "sites": [
+        "site-jiangzhang"
+      ],
+      "szh": "宝墩文化同型城墙/居址类别。",
+      "sen": "Baodun-culture peer wall/habitation classes.",
+      "sources": [
+        "src-sanxingdui-jiangzhang-baodun-peer"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-cpas-settlement",
+      "zh": "CPAS 聚落调查组合",
+      "en": "CPAS settlement-survey assemblage",
+      "sites": [
+        "site-cpas-survey-region"
+      ],
+      "szh": "调查点与聚落格局类别（非单点发掘）。",
+      "sen": "Survey-point and settlement-pattern classes (not a single excavation).",
+      "sources": [
+        "src-sanxingdui-cpas-chengdu-plain-survey"
+      ],
+      "url": "https://muse.jhu.edu/pub/592/edited_volume/book/148912"
+    },
+    {
+      "id": "asm-shierqiao-wood",
+      "zh": "十二桥木构建筑组合（加深）",
+      "en": "Shi'erqiao wooden-architecture assemblage (deepened)",
+      "sites": [
+        "site-shierqiao"
+      ],
+      "szh": "木构建筑与层位序列类别。",
+      "sen": "Wooden-architecture and sequence classes.",
+      "sources": [
+        "src-sanxingdui-shierqiao-sequence-deepen",
+        "src-sanxingdui-shierqiao-chengdu-discoveries"
+      ],
+      "url": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-sxd-yufu-baodun",
+      "kind": "fact",
+      "zh": "宝墩文化鱼凫等城址简报公布成都平原早期城墙聚落。",
+      "en": "Baodun-culture Yufu and peer site briefs publish early walled settlements on the Chengdu Plain.",
+      "sites": [
+        "site-yufu",
+        "site-jiangzhang"
+      ],
+      "objs": [
+        "asm-yufu-baodun",
+        "asm-jiangzhang-baodun"
+      ],
+      "sources": [
+        "src-sanxingdui-yufu-baodun-brief",
+        "src-sanxingdui-jiangzhang-baodun-peer"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-pits-3-8",
+      "kind": "fact",
+      "zh": "2021 起官方简报公布三星堆祭祀坑 3–8 的受控发掘与现场保护。",
+      "en": "Official 2021– briefs publish controlled excavation and on-site conservation of Sanxingdui pits 3–8.",
+      "sites": [
+        "site-sanxingdui-pits-3-8",
+        "site-sanxingdui-pits-3-8-deepen"
+      ],
+      "objs": [
+        "asm-pits-3-8-2021"
+      ],
+      "sources": [
+        "src-sanxingdui-pit3-8-kaogu-briefs-2021"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-jinsha-craft-lin",
+      "kind": "fact",
+      "zh": "Lin（2019）综合金沙遗址群手工业与聚落格局。",
+      "en": "Lin (2019) synthesizes craft production and settlement pattern of the Jinsha site cluster.",
+      "sites": [
+        "site-jinsha-comparative",
+        "site-jinsha-meiyuan-deepen"
+      ],
+      "objs": [
+        "asm-jinsha-meiyuan-ivory"
+      ],
+      "sources": [
+        "src-sanxingdui-lin-jinsha-craft-2019"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-cpas-survey",
+      "kind": "fact",
+      "zh": "成都平原考古调查（CPAS）发表连接宝墩—三星堆—金沙的聚落调查数据。",
+      "en": "Chengdu Plain Archaeological Survey (CPAS) publishes settlement data linking Baodun–Sanxingdui–Jinsha landscapes.",
+      "sites": [
+        "site-cpas-survey-region"
+      ],
+      "objs": [
+        "asm-cpas-settlement"
+      ],
+      "sources": [
+        "src-sanxingdui-cpas-chengdu-plain-survey"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-fangchijie",
+      "kind": "fact",
+      "zh": "方池街等简报公布连接十二桥—金沙的早期成都城区层位。",
+      "en": "Fangchijie and related briefs publish early Chengdu urban strata bridging Shi'erqiao–Jinsha.",
+      "sites": [
+        "site-fangchijie"
+      ],
+      "objs": [
+        "asm-fangchijie-urban"
+      ],
+      "sources": [
+        "src-sanxingdui-fangchijie-chengdu"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-shierqiao-deepen",
+      "kind": "fact",
+      "zh": "十二桥序列加深报告公布木构建筑与年代层位。",
+      "en": "Deepened Shi'erqiao sequence reports publish wooden architecture and chronological strata.",
+      "sites": [
+        "site-shierqiao"
+      ],
+      "objs": [
+        "asm-shierqiao-wood"
+      ],
+      "sources": [
+        "src-sanxingdui-shierqiao-sequence-deepen"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-sxd-same-polity-shang",
+      "kind": "hypothesis",
+      "zh": "三星堆与商为同一政体——学界争议模型，本条不升为定论。",
+      "en": "That Sanxingdui and Shang were the same polity is a contested scholarly model — not elevated to fact here.",
+      "sites": [
+        "site-sanxingdui"
+      ],
+      "objs": [
+        "asm-pits-3-8-2021"
+      ],
+      "sources": [
+        "src-sanxingdui-bagley-ancient-sichuan-2001",
+        "src-sanxingdui-sun-hua-cultures-2003"
+      ],
+      "disclaimer": "Hypothesis: political identity relative to Shang remains open; keep in hypothesis column."
+    },
+    {
+      "id": "claim-sxd-baodun-ancestor-state",
+      "kind": "hypothesis",
+      "zh": "宝墩城址群为三星堆「直线前身国家」——属解释性排序，不作定论。",
+      "en": "That Baodun walled sites are a linear \"ancestor state\" to Sanxingdui is an interpretive ranking — not a fact verdict.",
+      "sites": [
+        "site-yufu",
+        "site-baodun",
+        "site-jiangzhang"
+      ],
+      "objs": [
+        "asm-yufu-baodun"
+      ],
+      "sources": [
+        "src-sanxingdui-yufu-baodun-brief",
+        "src-sanxingdui-baodun-brief-2009"
+      ],
+      "disclaimer": "Hypothesis: linear ancestor-state ranking oversimplifies culture-historical relations."
+    }
+  ],
+  "bullets_zh": [
+    "- **鱼凫 / Yufu**、**江章** — 宝墩文化城址简报 [`src-sanxingdui-yufu-baodun-brief`][`src-sanxingdui-jiangzhang-baodun-peer`]。",
+    "- **祭祀坑 3–8 加深** — 2021 起官方简报 [`src-sanxingdui-pit3-8-kaogu-briefs-2021`]。",
+    "- **方池街 / Fangchijie** — 十二桥—金沙桥接 [`src-sanxingdui-fangchijie-chengdu`]。",
+    "- **金沙梅苑加深**、**十二桥加深** [`src-jinsha-meiyuan-ivory-brief`][`src-sanxingdui-shierqiao-sequence-deepen`]。",
+    "- **CPAS 调查**、**Lin 2019 金沙工艺** [`src-sanxingdui-cpas-chengdu-plain-survey`][`src-sanxingdui-lin-jinsha-craft-2019`]。"
+  ],
+  "bullets_en": [
+    "- **Yufu**, **Jiangzhang** — Baodun-culture walled briefs [`src-sanxingdui-yufu-baodun-brief`][`src-sanxingdui-jiangzhang-baodun-peer`].",
+    "- **Pits 3–8 deepened** — official 2021– briefs [`src-sanxingdui-pit3-8-kaogu-briefs-2021`].",
+    "- **Fangchijie** — Shi'erqiao–Jinsha bridge [`src-sanxingdui-fangchijie-chengdu`].",
+    "- **Jinsha Meiyuan deepened**, **Shi'erqiao deepened** [`src-jinsha-meiyuan-ivory-brief`][`src-sanxingdui-shierqiao-sequence-deepen`].",
+    "- **CPAS survey**, **Lin 2019 Jinsha craft** [`src-sanxingdui-cpas-chengdu-plain-survey`][`src-sanxingdui-lin-jinsha-craft-2019`]."
+  ],
+  "hist_zh": "第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：鱼凫/江章宝墩城址；坑 3–8 官方简报；方池街；梅苑/十二桥加深；CPAS；Lin 2019。三星堆＝商政体、宝墩直线前身国家留假说栏。",
+  "hist_en": "Third density pass (2026-10-12 / D-2026-10-12-2) also registers Yufu/Jiangzhang Baodun; pits 3–8 official briefs; Fangchijie; Meiyuan/Shi'erqiao deepened; CPAS; Lin 2019. Same-polity-as-Shang and Baodun ancestor-state stay hypotheses."
+}

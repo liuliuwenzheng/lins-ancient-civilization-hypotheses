@@ -1,0 +1,32 @@
+{
+  "id": "claim-aegean-caskey-lerna",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Caskey《Hesperia》预备报告公布勒尔纳 1952–54 季早期发掘。",
+    "en": "Caskey Hesperia preliminary reports publish early Lerna excavation seasons 1952–54."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-lerna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-lerna-house-of-tiles"
+  ],
+  "sources": [
+    "src-aegean-caskey-lerna-hesperia-1954",
+    "src-aegean-caskey-lerna-hesperia-1955"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-caskey-lerna-hesperia-1955",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Caskey, John L. 1955. \"Excavations at Lerna, 1954.\" Hesperia 24 (1): 25–49. https://www.jstor.org/stable/147061",
+  "url": "https://www.ascsa.edu.gr/publications/hesperia/article/24/1/25-49",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary ASCSA preliminary report for the 1954 Lerna season.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-caskey-lerna-hesperia-1955.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

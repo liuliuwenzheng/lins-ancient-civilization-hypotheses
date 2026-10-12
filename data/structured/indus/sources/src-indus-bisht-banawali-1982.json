@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-bisht-banawali-1982",
+  "entity": "source",
+  "type": "article",
+  "citation": "Bisht, R. S. 1982. \"Excavations at Banawali, 1974–77.\" In Harappan Civilization: A Contemporary Perspective, edited by Gregory L. Possehl, 113–124. New Delhi: Oxford & IBH / American Institute of Indian Studies.",
+  "url": "https://www.harappa.com/content/harappan-civilization-and-rojdi",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary ASI excavation summary for Banawali 1974–77 seasons (Pre-/Mature-/Post-Harappan sequence). Page range as published in Possehl 1982 volume; no invented find lists.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-bisht-banawali-1982.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

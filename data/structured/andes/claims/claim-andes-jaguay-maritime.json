@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-jaguay-maritime",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Sandweiss 等（1998）报告哈瓜伊干谷终末更新世/早全新世海洋适应证据。",
+    "en": "Sandweiss et al. (1998) report Terminal Pleistocene / early Holocene maritime adaptations at Quebrada Jaguay."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-quebrada-jaguay"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-jaguay-maritime"
+  ],
+  "sources": [
+    "src-andes-sandweiss-jaguay-science-1998"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

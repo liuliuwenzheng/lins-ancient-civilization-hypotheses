@@ -1,0 +1,41 @@
+{
+  "id": "asm-lefkandi-toumba-building",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "勒夫坎迪图姆巴大建筑组合",
+    "en": "Lefkandi Toumba monumental building assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-lefkandi-toumba",
+    "site-lefkandi"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "原几何大建筑与相关墓葬组合（Lefkandi II）。",
+    "en": "Protogeometric monumental building and related burial assemblage (Lefkandi II)."
+  },
+  "sources": [
+    "src-aegean-popham-lefkandi-ii-1993",
+    "src-aegean-popham-lefkandi-i-1980"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "http://lefkandi.classics.ox.ac.uk/publications.html",
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

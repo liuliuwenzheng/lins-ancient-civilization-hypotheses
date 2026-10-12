@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-etlatongo",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blomster 等讨论埃特拉通戈形成期堆积与奥尔梅克风格陶器交流。",
+    "en": "Blomster et al. discuss Etlatongo Formative deposits and Olmec-style pottery exchange."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-etlatongo"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-etlatongo-formative"
+  ],
+  "sources": [
+    "src-olmec-blomster-etlatongo",
+    "src-olmec-blomster-neff-glascock-2005"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

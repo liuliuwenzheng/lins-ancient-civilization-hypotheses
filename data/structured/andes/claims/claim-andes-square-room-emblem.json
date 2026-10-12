@@ -1,0 +1,32 @@
+{
+  "id": "claim-andes-square-room-emblem",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "方形房间单位为塞钦阿尔托政体权力徽识——属作者解释，不作唯一政治定论。",
+    "en": "That square-room units are emblems of Sechín Alto polity power is the authors' interpretation, not a sole political verdict."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-taukachi-konkan",
+    "site-sechin-alto"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-taukachi-square-rooms"
+  ],
+  "sources": [
+    "src-andes-pozorski-square-room-2011"
+  ],
+  "disclaimer": "Hypothesis: architectural emblem → polity power mapping is interpretive.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

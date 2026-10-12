@@ -1,0 +1,39 @@
+{
+  "id": "asm-tianma-qucun-jin",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "天马—曲村晋国墓地组合",
+    "en": "Tianma–Qucun Jin cemetery assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-tianma-qucun"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "晋国墓地随葬与聚落遗存类别（多卷报告）。",
+    "en": "Jin cemetery burial and settlement remain classes (multi-volume report)."
+  },
+  "sources": [
+    "src-china-tianma-qucun-1994"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

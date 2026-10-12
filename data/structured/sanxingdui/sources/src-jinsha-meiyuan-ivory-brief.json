@@ -1,0 +1,17 @@
+{
+  "id": "src-jinsha-meiyuan-ivory-brief",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Chengdu Institute briefs deepening Meiyuan locus ivory and ritual-deposit reporting at Jinsha (beyond 2004 brief already registered).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary additional Meiyuan deposit reporting. Assemblage-level ivory/ritual classes; no forged ivory photos.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-jinsha-meiyuan-ivory-brief.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

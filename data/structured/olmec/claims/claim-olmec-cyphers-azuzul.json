@@ -1,0 +1,32 @@
+{
+  "id": "claim-olmec-cyphers-azuzul",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cyphers 报告埃尔阿苏苏尔双人像等圣洛伦佐腹地雕塑语境。",
+    "en": "Cyphers reports El Azuzul twin figures and related San Lorenzo hinterland sculpture contexts."
+  },
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "site_ids": [
+    "site-el-azuzul",
+    "site-el-azuzul-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-el-azuzul-twins"
+  ],
+  "sources": [
+    "src-olmec-cyphers-el-azuzul"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

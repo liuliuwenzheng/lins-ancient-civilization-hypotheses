@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-wiencke-lerna-iv-2000",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Wiencke, Martha H. 2000. Lerna: A Preclassical Site in the Argolid. Volume IV: The Architecture, Stratification, and Pottery of Lerna III. 2 vols. Princeton: American School of Classical Studies at Athens. ISBN 0-87661-226-5.",
+  "url": "https://www.ascsa.edu.gr/publications/books/browse-by-series/lerna",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary final-report volumes on Early Helladic II / Lerna III architecture and pottery, including the House of the Tiles.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-wiencke-lerna-iv-2000.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

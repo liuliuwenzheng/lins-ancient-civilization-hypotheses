@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-shierqiao-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "十二桥序列加深报告公布木构建筑与年代层位。",
+    "en": "Deepened Shi'erqiao sequence reports publish wooden architecture and chronological strata."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-shierqiao"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-shierqiao-wood"
+  ],
+  "sources": [
+    "src-sanxingdui-shierqiao-sequence-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-banks-lerna-neolithic",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Banks Lerna VII（2015）正式报告勒尔纳新石器聚落。",
+    "en": "Banks Lerna VII (2015) is the final report on the Neolithic settlement at Lerna."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-lerna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-lerna-neolithic"
+  ],
+  "sources": [
+    "src-aegean-banks-lerna-vii-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

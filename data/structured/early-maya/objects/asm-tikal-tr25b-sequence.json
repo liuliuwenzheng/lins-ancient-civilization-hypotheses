@@ -1,0 +1,39 @@
+{
+  "id": "asm-tikal-tr25b-sequence",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "蒂卡尔 TR25B 陶器序列组合",
+    "en": "Tikal TR25B ceramic-sequence assemblage"
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-tikal-ceramics-tr25"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "前古典至古典陶器复合体序列类别（TR 25B）。",
+    "en": "Preclassic-to-Classic ceramic-complex sequence classes (TR 25B)."
+  },
+  "sources": [
+    "src-maya-culbert-kosakowsky-tikal-25b-2019"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://www.penn.museum/research/publications/publication/1017",
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

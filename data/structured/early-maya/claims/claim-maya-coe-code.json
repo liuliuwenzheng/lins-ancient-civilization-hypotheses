@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-coe-code",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Coe《破解玛雅文字》（第 3 版）综述玛雅文字破译史。",
+    "en": "Coe Breaking the Maya Code (3rd ed.) surveys the history of Maya script decipherment."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-tikal-ceramics-tr25"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tikal-tr25a-vessels"
+  ],
+  "sources": [
+    "src-maya-coe-breaking-maya-code-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

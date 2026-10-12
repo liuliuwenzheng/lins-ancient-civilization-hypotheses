@@ -132,6 +132,21 @@ Kenoyer notes overlapping older labels; Shaffer’s Tradition–Era–Phase sche
 
 - **Settlement counts / extent (secondary estimates)** — ~976 settlements (Possehl); ~680,000–800,000 km² — subject to update [`src-indus-kenoyer-1991`][`src-indus-possehl-2002`].
 
+### Density pass 3 (D-2026-10-12-2)
+
+- **巴纳瓦利 / Banawali** — Bisht 1982/1984 [`src-indus-bisht-banawali-1982`][`src-indus-bisht-banawali-town-planning-1984`]。
+- **罗杰迪 / Rojdi** — Possehl & Raval 1989 [`src-indus-possehl-raval-rojdi-1989`]。
+- **洛塔尔卷二** — Rao ASI Memoir 78 vol. 2（1985）[`src-indus-rao-lothal-vol2-1985`]。
+- **摩亨佐-达罗亚琛记录** — Jansen/Urban 1984 [`src-indus-jansen-mohenjo-daro-interim-1984`]。
+- **哈拉帕工艺加深** — Kenoyer 1997 World Archaeology [`src-indus-kenoyer-bead-technologies-1997`]。
+- **通论指针** — Fairservis 1961；Allchin 1968；Possehl Ancient Cities 1979；Shaffer 1992 [`src-indus-fairservis-novitates-2055-1961`][`src-indus-allchin-birth-1968`][`src-indus-possehl-ancient-cities-1979`][`src-indus-shaffer-indus-tradition-1992`]。
+
+- **Banawali** — Bisht 1982/1984 [`src-indus-bisht-banawali-1982`][`src-indus-bisht-banawali-town-planning-1984`].
+- **Rojdi** — Possehl & Raval 1989 [`src-indus-possehl-raval-rojdi-1989`].
+- **Lothal vol. 2** — Rao ASI Memoir 78 vol. 2 (1985) [`src-indus-rao-lothal-vol2-1985`].
+- **Mohenjo-Daro Aachen documentation** — Jansen/Urban 1984 [`src-indus-jansen-mohenjo-daro-interim-1984`].
+- **Harappa craft deepened** — Kenoyer 1997 World Archaeology [`src-indus-kenoyer-bead-technologies-1997`].
+- **Survey pointers** — Fairservis 1961; Allchin 1968; Possehl Ancient Cities 1979; Shaffer 1992 [`src-indus-fairservis-novitates-2055-1961`][`src-indus-allchin-birth-1968`][`src-indus-possehl-ancient-cities-1979`][`src-indus-shaffer-indus-tradition-1992`].
 
 ## Urbanism, architecture & institutions
 
@@ -209,37 +224,60 @@ Research arcs include Marshall’s 1920s Mohenjo-daro campaign and 1931 official
 
 Second density pass (2026-10-11 / D-2026-10-11-29) also registers Majumdar Sind 1934; Hargreaves Nāl 1929; Francfort Shortughaï 1978/1989; Durrani Rehman Dheri 1988; Jarrige Nausharo 1989/1996; Wheeler Harappa 1947; Dales Balakot 1974; Stein Ghaggar–Hakra 1942.
 
+第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Bisht 巴纳瓦利；Possehl & Raval 罗杰迪；Rao 洛塔尔卷二；Jansen 摩亨佐-达罗临时报告；Kenoyer 珠作贸易；Fairservis/Allchin/Possehl/Shaffer 通论。「帝国」模型留假说栏。
+
+Third density pass (2026-10-12 / D-2026-10-12-2) also registers Bisht Banawali; Possehl & Raval Rojdi; Rao Lothal vol. 2; Jansen Mohenjo-Daro interim; Kenoyer bead/trade; Fairservis/Allchin/Possehl/Shaffer surveys. Empire model stays hypothesis.
+
 ## Sources
 
-- `src-indus-kenoyer-1991` — secondary peer-reviewed synthesis; Table I eras; settlement, crafts, script, politics (tier S)
-- `src-indus-wright-2010` — secondary monograph; florescence 2600–1900 BCE; Indus / Ghaggar-Hakra; undeciphered script (tier S)
-- `src-indus-kenoyer-cambridge-2014` — secondary handbook chapter; Indus Tradition overview; script undeciphered (tier S)
-- `src-indus-possehl-2002` — secondary monograph; contemporary synthesis (tier S)
-- `src-indus-marshall-1931` — primary excavation report, Mohenjo-daro 1922–1927 (tier P)
-- `src-indus-meadow-harappa-1991` — primary/edited field volume, Harappa 1986–1990 (tier P)
-- `src-indus-kenoyer-1998` — secondary illustrated synthesis; urban Indus orientation (tier S)
-- `src-indus-mackay-1938` — primary excavation report, Mohenjo-daro 1927–1931 (tier P)
-- `src-indus-vats-1940` — primary excavation report, Harappa 1920–21 to 1933–34 (tier P)
-- `src-indus-parpola-1994` — secondary script/corpus monograph; undeciphered status; contested decipherment proposal not adopted (tier S)
-- `src-indus-giosan-pnas-2012` — peer-reviewed fluvial/climate article; monsoon-fed Ghaggar-Hakra; late aridification model (tier S)
-- `src-indus-rao-lothal-1979` — primary ASI memoir; Lothal 1955–62 (tier P)
-- `src-indus-ratnagar-2004` — secondary trade monograph; Euphrates–Indus Bronze Age encounters (tier S)
-- `src-indus-unesco-moenjodaro-1980` — tertiary UNESCO listing; Moenjodaro 1980 (tier T)
-- `src-indus-wheeler-1968` — secondary classic synthesis; research-history foil (tier S; partly superseded)
-- `src-indus-bisht-dholavira-2015` — primary ASI excavator **draft** report; Dholavira 1989–2005 (tier P; draft)
-- `src-indus-lal-kalibangan-early-2003` — primary ASI memoir MASI 98; Kalibangan Early Harappans (tier P)
-- `src-indus-lal-kalibangan-harappans-2015` — primary ASI memoir MASI 110; Kalibangan Mature Harappans (tier P)
-- `src-indus-mackay-chanhu-daro-1943` — primary excavation report; Chanhu-daro 1935–36 (tier P)
-- `src-indus-khan-kot-diji-1965` — primary report; Kot Diji in *Pakistan Archaeology* 2 (tier P)
-- `src-indus-casal-amri-1964` — primary excavation report; *Fouilles d’Amri* (tier P)
-- `src-indus-joshi-surkotada-1990` — primary ASI memoir MASI 87; Surkotada 1971–72 (tier P)
-- `src-indus-nath-rakhigarhi-draft` — primary ASI excavator **draft**; Rakhigarhi 1997–2000 (tier P; draft)
-- `src-indus-shinde-rakhigarhi-plos-2018` — primary peer-reviewed cemetery study; PLOS ONE 2018 (tier P)
-- `src-indus-jarrige-mehrgarh-1995` — primary edited field reports; Mehrgarh 1974–1985 (tier P)
-- `src-indus-mughal-cholistan-1982` — secondary survey chapter; Cholistan / Ganweriwala (tier S)
-- `src-indus-mughal-cholistan-1997` — secondary survey monograph; *Ancient Cholistan* (tier S)
-- `src-indus-unesco-dholavira-2021` — tertiary UNESCO listing; Dholavira 2021 (tier T)
-
+- `src-indus-allchin-birth-1968` — monograph; Allchin, Bridget, and Raymond Allchin. 1968. The Birth of Indian Civilization: India and Pakistan before 500 B.C. Har... (tier S)
+- `src-indus-bisht-banawali-1982` — article; Bisht, R. S. 1982. "Excavations at Banawali, 1974–77." In Harappan Civilization: A Contemporary Perspective, edited b... (tier P)
+- `src-indus-bisht-banawali-town-planning-1984` — article; Bisht, R. S. 1984. "Structural Remains and Town-Planning of Banawali." In Frontiers of the Indus Civilization, edited... (tier P)
+- `src-indus-bisht-dholavira-2015` — excavation-report; Bisht, R. S. 2015. Excavations at Dholavira (1989–90 to 2004–2005). Draft excavation report posted by the Archaeologi... (tier P)
+- `src-indus-casal-amri-1964` — excavation-report; Casal, Jean-Marie. 1964. Fouilles d’Amri. 2 vols. (I Texte with English summary; II Illustrations). Publications de l... (tier P)
+- `src-indus-dales-balakot-1974` — article; Dales, George F. 1974. “Excavations at Balakot, Pakistan, 1973.” Journal of Field Archaeology 1 (1–2): 3–22. DOI 10.1... (tier P)
+- `src-indus-durrani-rehman-dheri-1988` — excavation-report; Durrani, Farzand Ali. 1988. “Excavations in the Gomal Valley (Rehman Dheri Report No. 1).” Ancient Pakistan 6: 1–232. (tier P)
+- `src-indus-fairservis-novitates-2055-1961` — article; Fairservis, Walter A., Jr. 1961. "The Harappan Civilization: New Evidence and More Theory." American Museum Novitates... (tier S)
+- `src-indus-francfort-pottier-shortughai-1978` — article; Francfort, Henri-Paul, and Marie-Hélène Pottier. 1978. “Sondage préliminaire sur l’établissement protohistorique hara... (tier P)
+- `src-indus-francfort-shortughai-1989` — excavation-report; Francfort, Henri-Paul, with contributions by Ch. Boisset, L. Buchet, J. Desse, J.-C. Echallier, A. Kermorvant, and G.... (tier P)
+- `src-indus-giosan-pnas-2012` — article; Giosan, Liviu; Clift, Peter D.; Macklin, Mark G.; Fuller, Dorian Q.; Constantinescu, Stefan; Durcan, Julie A.; Steven... (tier S)
+- `src-indus-hargreaves-nal-1929` — excavation-report; Hargreaves, H. 1929. Excavations in Baluchistan 1925, Sampur Mound, Mastung and Sohr Damb, Nāl. Memoirs of the Archae... (tier P)
+- `src-indus-jansen-mohenjo-daro-interim-1984` — excavation-report; Jansen, Michael, and Günter Urban, eds. 1984. Interim Reports Vol. 1: Reports on Field Work Carried out at Mohenjo-Da... (tier P)
+- `src-indus-jarrige-mehrgarh-1995` — excavation-report; Jarrige, Catherine, Jean-François Jarrige, Richard H. Meadow, and Gonzague Quivron, eds. 1995. Mehrgarh: Field Report... (tier P)
+- `src-indus-jarrige-nausharo-1989` — excavation-report; Jarrige, Jean-François. 1989. “Excavations at Nausharo 1987–88.” Pakistan Archaeology 24: 21–67. (tier P)
+- `src-indus-jarrige-nausharo-crai-1996` — article; Jarrige, Jean-François. 1996. “Les fouilles de Nausharo au Balochistan pakistanais et leur contribution à l’étude de ... (tier S)
+- `src-indus-joshi-surkotada-1990` — excavation-report; Joshi, Jagat Pati. 1990. Excavations at Surkotada, 1971–72 and Exploration in Kutch. Memoirs of the Archaeological Su... (tier P)
+- `src-indus-kenoyer-1991` — article; Kenoyer, Jonathan Mark. 1991. “The Indus Valley Tradition of Pakistan and Western India.” Journal of World Prehistory... (tier S)
+- `src-indus-kenoyer-1998` — monograph; Kenoyer, Jonathan Mark. 1998. Ancient Cities of the Indus Valley Civilization. 1st ed. Karachi: Oxford University Pre... (tier S)
+- `src-indus-kenoyer-bead-technologies-1997` — article; Kenoyer, Jonathan Mark. 1997. "Trade and Technology of the Indus Valley: New Insights from Harappa, Pakistan." World ... (tier P)
+- `src-indus-kenoyer-cambridge-2014` — article; Kenoyer, Jonathan Mark. 2014. “The Indus Civilisation.” Chapter 1.25 in Colin Renfrew and Paul Bahn, eds., The Cambri... (tier S)
+- `src-indus-khan-kot-diji-1965` — excavation-report; Khan, F. A. 1965. “Excavations at Kot Diji.” Pakistan Archaeology, No. 2: 11–85, figs. 1–26, plates I–XXXIV. Karachi:... (tier P)
+- `src-indus-lal-kalibangan-early-2003` — excavation-report; Lal, B. B., Jagat Pati Joshi, B. K. Thapar, and Madhu Bala. 2003. Excavations at Kalibangan: The Early Harappans (196... (tier P)
+- `src-indus-lal-kalibangan-harappans-2015` — excavation-report; Lal, B. B., Jagat Pati Joshi, Madhu Bala, A. K. Sharma, and K. S. Ramachandran. 2015–2020. Excavations at Kalibangan:... (tier P)
+- `src-indus-mackay-1938` — excavation-report; Mackay, E. J. H. 1938. Further Excavations at Mohenjo-daro: Being an Official Account of Archaeological Excavations a... (tier P)
+- `src-indus-mackay-chanhu-daro-1943` — excavation-report; Mackay, Ernest J. H. 1943. Chanhu-daro Excavations, 1935–36. American Oriental Series, Vol. 20. New Haven: American O... (tier P)
+- `src-indus-majumdar-sind-1934` — excavation-report; Majumdar, N. G. 1934. Explorations in Sind: Being a Report of the Exploratory Survey Carried Out during the Years 192... (tier P)
+- `src-indus-marshall-1931` — excavation-report; Marshall, John, ed. 1931. Mohenjo-daro and the Indus Civilization: Being an Official Account of Archaeological Excava... (tier P)
+- `src-indus-meadow-harappa-1991` — excavation-report; Meadow, Richard H., ed. 1991. Harappa Excavations 1986–1990: A Multidisciplinary Approach to Third Millennium Urbanis... (tier P)
+- `src-indus-mughal-cholistan-1982` — article; Mughal, M. Rafique. 1982. “Recent Archaeological Research in the Cholistan Desert.” In Harappan Civilization: A Conte... (tier S)
+- `src-indus-mughal-cholistan-1997` — monograph; Mughal, Mohammad Rafique. 1997. Ancient Cholistan: Archaeology and Architecture. Lahore: Ferozsons (Pvt.) Ltd. (tier S)
+- `src-indus-nath-rakhigarhi-draft` — excavation-report; Nath, Amarendra. [circulated draft, c. 2014]. Excavations at Rakhigarhi [1997–98 to 1999–2000]. Draft excavation repo... (tier P)
+- `src-indus-parpola-1994` — monograph; Parpola, Asko. 1994. Deciphering the Indus Script. Cambridge: Cambridge University Press. xxii + 374 pp., 226 figs. I... (tier S)
+- `src-indus-possehl-2002` — monograph; Possehl, Gregory L. 2002. The Indus Civilization: A Contemporary Perspective. Walnut Creek, CA: AltaMira Press. ISBN ... (tier S)
+- `src-indus-possehl-ancient-cities-1979` — monograph; Possehl, Gregory L., ed. 1979. Ancient Cities of the Indus. Durham, N.C.: Carolina Academic Press / New Delhi: Vikas.... (tier S)
+- `src-indus-possehl-raval-rojdi-1989` — excavation-report; Possehl, Gregory L., and M. H. Raval. 1989. Harappan Civilization and Rojdi. New Delhi: Oxford & IBH / American Insti... (tier P)
+- `src-indus-rao-lothal-1979` — excavation-report; Rao, S. R. 1979. Lothal, a Harappan Port Town (1955–62). Memoirs of the Archaeological Survey of India No. 78, Vol. I... (tier P)
+- `src-indus-rao-lothal-vol2-1985` — excavation-report; Rao, S. R. 1985. Lothal: A Harappan Port Town (1955–62). Volume 2. Memoirs of the Archaeological Survey of India, no.... (tier P)
+- `src-indus-ratnagar-2004` — monograph; Ratnagar, Shereen. 2004. Trading Encounters: From the Euphrates to the Indus in the Bronze Age. New Delhi: Oxford Uni... (tier S)
+- `src-indus-shaffer-indus-tradition-1992` — article; Shaffer, Jim G. 1992. "The Indus Valley, Baluchistan, and Helmand Traditions: Neolithic through Bronze Age." In Chron... (tier S)
+- `src-indus-shinde-rakhigarhi-plos-2018` — article; Shinde, Vasant S., Yong Jun Kim, Eun Jin Woo, Nilesh Jadhav, Pranjali Waghmare, Yogesh Yadav, et al. 2018. “Archaeolo... (tier P)
+- `src-indus-stein-sarasvati-1942` — article; Stein, Aurel. 1942. “A Survey of Ancient Sites along the ‘Lost’ Sarasvati River.” The Geographical Journal 99 (4): 17... (tier P)
+- `src-indus-unesco-dholavira-2021` — web; UNESCO World Heritage Centre. “Dholavira: a Harappan City.” World Heritage List, site no. 1645. Inscribed 2021 (cultu... (tier T)
+- `src-indus-unesco-moenjodaro-1980` — web; UNESCO World Heritage Centre. “Archaeological Ruins at Moenjodaro.” World Heritage List, site no. 138. Inscribed 1980... (tier T)
+- `src-indus-vats-1940` — excavation-report; Vats, Madho Sarup. 1940. Excavations at Harappa: Being an Account of Archaeological Excavations at Harappa Carried Ou... (tier P)
+- `src-indus-wheeler-1968` — monograph; Wheeler, Mortimer. 1968. The Indus Civilization. 3rd ed. Supplementary volume to The Cambridge History of India. Camb... (tier S)
+- `src-indus-wheeler-harappa-1947` — excavation-report; Wheeler, R. E. M. 1947. “Harappa 1946: The Defences and Cemetery R 37.” Ancient India: Bulletin of the Archaeological... (tier P)
+- `src-indus-wright-2010` — monograph; Wright, Rita P. 2010. The Ancient Indus: Urbanism, Economy, and Society. Case Studies in Early Societies. Cambridge; ... (tier S)
 
 ## Related civilizations
 

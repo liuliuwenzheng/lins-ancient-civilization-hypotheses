@@ -1,0 +1,31 @@
+{
+  "id": "claim-sxd-fangchijie",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "方池街等简报公布连接十二桥—金沙的早期成都城区层位。",
+    "en": "Fangchijie and related briefs publish early Chengdu urban strata bridging Shi'erqiao–Jinsha."
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-fangchijie"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-fangchijie-urban"
+  ],
+  "sources": [
+    "src-sanxingdui-fangchijie-chengdu"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

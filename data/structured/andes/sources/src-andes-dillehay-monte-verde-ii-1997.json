@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-dillehay-monte-verde-ii-1997",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Dillehay, Tom D. 1997. Monte Verde: A Late Pleistocene Settlement in Chile. Volume 2: The Archaeological Context and Interpretation. Smithsonian Series in Archaeological Inquiry. Washington, DC: Smithsonian Institution Press.",
+  "url": "https://core.tdar.org/document/250047/the-archaeological-context-and-interpretation",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary final-report volume on Monte Verde (southern Chile). Comparative Late Pleistocene settlement — do not relocate into Norte Chico chronology.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-dillehay-monte-verde-ii-1997.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

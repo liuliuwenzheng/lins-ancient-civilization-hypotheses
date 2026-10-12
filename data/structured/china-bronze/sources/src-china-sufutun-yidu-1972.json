@@ -1,0 +1,17 @@
+{
+  "id": "src-china-sufutun-yidu-1972",
+  "entity": "source",
+  "type": "article",
+  "citation": "山东省博物馆. 1972. 「山东益都苏埠屯商代墓地」相关简报（文物/考古期刊系列）. Primary brief(s) on Shang elite cemetery at Sufutun, Yidu (Qingzhou), Shandong.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary brief(s) on Shang cemetery at Sufutun including large tombs with ya-xing layout and bronze assemblages. Prefer published Wenwu/Kaogu briefs; no forged vessel photos.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-sufutun-yidu-1972.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

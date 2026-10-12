@@ -471,3 +471,35 @@
 
 **说明：** 莱兰丘气候崩溃与 U-j「最早文字」排序留假说栏；Layard/Koldewey 为历史性 P（非现代地层报告）；不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
 
+### D-2026-10-12-2 — 其余七包第三轮档案密度加深
+
+**决定：** 在两河 + 埃及第三轮（D-2026-10-12-1）之后，对其余七包做**同标准第三轮**可核验密度加深：仅登记可核验 P/S；扩展遗址/组合/主张；争议进假说栏；同步各 `civ-*.md` 关键遗址与来源列表；全仓 `export_check` 必须通过。诚信优于速度。
+
+**本轮主要新 P（及必要 S）：**
+
+**安第斯：** Samaniego 等塞钦山（1985）；Pozorski Antiquity 1992 / 方房间 2011；Burger & Salazar-Burger 瓦里科托；Izumi Kotosh Andes 2/4；Sandweiss Jaguay / Keefer Tacahuay Science 1998；Dillehay Monte Verde II；Donnan 1985 文集（S）
+
+**印度河：** Bisht 巴纳瓦利 1982/1984；Possehl & Raval 罗杰迪 1989；Rao 洛塔尔卷二 1985；Jansen/Urban 摩亨佐-达罗临时报告；Kenoyer 珠作贸易 1997；Fairservis 1961；Allchin 1968；Possehl Ancient Cities 1979；Shaffer 1992
+
+**中国青铜：** 周原 CHAR 2017 / 凤雏三号简报；琉璃河燕国墓地 1995；天马—曲村；苏埠屯；孝民屯铸铜；归城；前掌大
+
+**三星堆：** 鱼凫/江章宝墩城址；坑 3–8 官方简报；方池街；梅苑/十二桥加深；CPAS；Lin 2019 金沙工艺
+
+**爱琴：** Caskey Hesperia 勒尔纳；Wiencke Lerna IV；Banks Lerna VII；Blegen Troy I；Popham Lefkandi I/II；Atkinson 菲拉科皮 1904；Furumark；Manning PLOS 2022
+
+**奥尔梅克：** Stirling BAE 157；Cyphers 阿苏苏尔；Etlatongo；Tres Zapotes/Chalcatzingo 加深；Bernal 1969；Coe《墨西哥》第 8 版
+
+**早期玛雅：** Matheny NWAF 45；Culbert TR 25A/25B；Coe 破译史；Martin & Grube；米拉多尔/圣巴托洛/霍尔穆尔/阿瓜达菲尼克斯加深
+
+**结构化结果（以 `export_check` 为准）：**
+- **andes：** 来源 38→48；遗址 22→29；器物组合 24→32；主张 36→45
+- **indus：** 来源 38→48；遗址 20→26；器物组合 24→30；主张 33→41
+- **china-bronze：** 来源 38→48；遗址 20→27；器物组合 24→31；主张 34→42
+- **sanxingdui：** 来源 38→48；遗址 18→24；器物组合 23→30；主张 31→39
+- **aegean：** 来源 38→48；遗址 23→28；器物组合 24→30；主张 32→40
+- **olmec：** 来源 38→48；遗址 19→25；器物组合 24→31；主张 31→37
+- **early-maya：** 来源 38→48；遗址 22→28；器物组合 24→31；主张 33→40
+- 全仓闸门通过（含两河/埃及既有第三轮）。
+
+**说明：** 卡斯马「最早国家」、印度河「帝国」、凤雏「社宫」、三星堆＝商/宝墩直线前身、锡拉＝LM IB 唯一主因与单一日历年、奥尔梅克母文化与 Cascajal「最早文字」、米拉多尔「首个国家」与中前古典完备神王等一律假说栏。不编造坐标/馆藏号/伪造图；README 计数以 `export_check` 为准。
+

@@ -395,3 +395,35 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Notes:** Tell Leilan climate-collapse and U-j “earliest writing” rankings stay hypotheses; Layard/Koldewey are historical P (not modern stratigraphy); no invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
 
+### D-2026-10-12-2 — Third archive density pass for remaining seven packs
+
+**Decision:** After Mesopotamia + Egypt pass 3 (D-2026-10-12-1), apply the **same third** verified density pass to the other seven packs: verified P/S only; expand sites/assemblages/claims; contested → hypothesis; sync each `civ-*.md` Key sites + Sources; full-repo `export_check` must pass. Integrity over speed.
+
+**Major new P (and needed S):**
+
+**Andes:** Samaniego et al. Cerro Sechín (1985); Pozorski Antiquity 1992 / square-room 2011; Burger & Salazar-Burger Huaricoto; Izumi Kotosh Andes 2/4; Sandweiss Jaguay / Keefer Tacahuay Science 1998; Dillehay Monte Verde II; Donnan 1985 volume (S)
+
+**Indus:** Bisht Banawali 1982/1984; Possehl & Raval Rojdi 1989; Rao Lothal vol. 2 1985; Jansen/Urban Mohenjo-Daro interim; Kenoyer bead/trade 1997; Fairservis 1961; Allchin 1968; Possehl Ancient Cities 1979; Shaffer 1992
+
+**China Bronze:** Zhouyuan CHAR 2017 / Fengchu No. 3 brief; Liulihe Yan cemetery 1995; Tianma–Qucun; Sufutun; Xiaomintun foundry; Guicheng; Qianzhangda
+
+**Sanxingdui:** Yufu/Jiangzhang Baodun; pits 3–8 official briefs; Fangchijie; Meiyuan/Shi'erqiao deepened; CPAS; Lin 2019 Jinsha craft
+
+**Aegean:** Caskey Hesperia Lerna; Wiencke Lerna IV; Banks Lerna VII; Blegen Troy I; Popham Lefkandi I/II; Atkinson Phylakopi 1904; Furumark; Manning PLOS 2022
+
+**Olmec:** Stirling BAE 157; Cyphers El Azuzul; Etlatongo; Tres Zapotes/Chalcatzingo deepened; Bernal 1969; Coe Mexico 8th ed.
+
+**Early Maya:** Matheny NWAF 45; Culbert TR 25A/25B; Coe decipherment history; Martin & Grube; Mirador/San Bartolo/Holmul/Aguada Fénix deepened
+
+**Structured results (`export_check`):**
+- **andes:** sources 38→48; sites 22→29; objects 24→32; claims 36→45
+- **indus:** sources 38→48; sites 20→26; objects 24→30; claims 33→41
+- **china-bronze:** sources 38→48; sites 20→27; objects 24→31; claims 34→42
+- **sanxingdui:** sources 38→48; sites 18→24; objects 23→30; claims 31→39
+- **aegean:** sources 38→48; sites 23→28; objects 24→30; claims 32→40
+- **olmec:** sources 38→48; sites 19→25; objects 24→31; claims 31→37
+- **early-maya:** sources 38→48; sites 22→28; objects 24→31; claims 33→40
+- Full-repo gate passes (including Mesopotamia/Egypt pass 3 already on main).
+
+**Notes:** Casma “earliest state,” Indus “empire,” Fengchu “she palace,” Sanxingdui=Shang / Baodun ancestor-state, Thera=sole LM IB cause and single calendar year, Olmec mother-culture and Cascajal “oldest writing,” Mirador “first state,” and Middle Preclassic full divine kingship stay hypotheses. No invented coordinates/museum numbers/forged images; README counts defer to `export_check`.
+

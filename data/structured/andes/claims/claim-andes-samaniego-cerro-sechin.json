@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-samaniego-cerro-sechin",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Samaniego 等（1985）公布塞钦山中心建筑、石雕与彩绘，并据地层与测年修订年代。",
+    "en": "Samaniego et al. (1985) publish Cerro Sechín central architecture, carvings, and paintings, revising chronology from strata and dates."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-cerro-sechin"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-cerro-sechin-samaniego"
+  ],
+  "sources": [
+    "src-andes-samaniego-cerro-sechin-1985"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

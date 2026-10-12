@@ -1,0 +1,17 @@
+{
+  "id": "src-china-guicheng-survey-excavation",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sino-American Guicheng Archaeological Project (Shandong University / Columbia University et al.). Reports and briefs on Guicheng (Longkou, Shandong) Western Zhou walled settlement and bronze foundry evidence.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary project reporting on Guicheng Western Zhou center and metallurgy. Cite published project papers/briefs; settlement hierarchy claims remain interpretive.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-guicheng-survey-excavation.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

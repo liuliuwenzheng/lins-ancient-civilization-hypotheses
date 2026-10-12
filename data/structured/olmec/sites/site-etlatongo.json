@@ -1,0 +1,31 @@
+{
+  "id": "site-etlatongo",
+  "entity": "site",
+  "names": {
+    "zh": "埃特拉通戈",
+    "en": "Etlatongo",
+    "native": null
+  },
+  "kind_note": "Mixteca Alta Formative site (Olmec-style pottery debates)",
+  "region": "Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-olmec"
+  ],
+  "summary": {
+    "zh": "高地形成期遗址；奥尔梅克风格陶器交流辩论锚点。",
+    "en": "Highland Formative site; anchor for Olmec-style pottery exchange debates."
+  },
+  "sources": [
+    "src-olmec-blomster-etlatongo",
+    "src-olmec-blomster-neff-glascock-2005"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-olmec.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

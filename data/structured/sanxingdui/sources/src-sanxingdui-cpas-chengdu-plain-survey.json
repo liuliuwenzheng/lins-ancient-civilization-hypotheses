@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-cpas-chengdu-plain-survey",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Chengdu Plain Archaeological Survey (CPAS) project publications on settlement patterns linking Baodun–Sanxingdui–Jinsha landscapes (Flad et al. survey volumes/chapters).",
+  "url": "https://muse.jhu.edu/pub/592/edited_volume/book/148912",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary survey dataset publications for Chengdu Plain settlement pattern. Survey points are not invented site coordinates here.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-cpas-chengdu-plain-survey.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

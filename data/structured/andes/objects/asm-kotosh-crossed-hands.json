@@ -1,0 +1,40 @@
+{
+  "id": "asm-kotosh-crossed-hands",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "科托什十字交叉手神庙组合",
+    "en": "Kotosh Temple of the Crossed Hands assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-kotosh"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "东京大学报告中的礼仪建筑与泥塑浮雕组合（组合级）。",
+    "en": "Ceremonial architecture and modeled reliefs as published in University of Tokyo reports (assemblage-level)."
+  },
+  "sources": [
+    "src-andes-izumi-sono-kotosh-andes2-1963",
+    "src-andes-izumi-terada-kotosh-andes4-1972"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

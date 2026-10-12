@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-culbert-kosakowsky-tikal-25b-2019",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Culbert, T. Patrick, and Laura J. Kosakowsky. 2019. The Ceramic Sequence of Tikal. Tikal Report 25B. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology. ISBN 978-1-949057-03-4.",
+  "url": "https://www.penn.museum/research/publications/publication/1017",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Tikal Report 25B ceramic sequence (Preclassic Eb–Cimi through Classic complexes). Specialist sherd-based sequence.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-culbert-kosakowsky-tikal-25b-2019.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

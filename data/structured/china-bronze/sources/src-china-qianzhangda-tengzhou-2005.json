@@ -1,0 +1,17 @@
+{
+  "id": "src-china-qianzhangda-tengzhou-2005",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "中国社会科学院考古研究所. 2005. 《滕州前掌大墓地》. 北京: 文物出版社.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Primary report on Qianzhangda Shang–Zhou cemetery at Tengzhou, Shandong. Elite burial assemblage classes as published.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-china-qianzhangda-tengzhou-2005.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

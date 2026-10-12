@@ -1,0 +1,32 @@
+{
+  "id": "claim-indus-banawali-bisht",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bisht（1982/1984）报告巴纳瓦利 1974–77 发掘的早/成熟/晚哈拉帕序列与结构/规划遗存。",
+    "en": "Bisht (1982/1984) reports Banawali 1974–77 Pre-/Mature-/Post-Harappan sequence and structural/planning remains."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-banawali"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-banawali-sequence"
+  ],
+  "sources": [
+    "src-indus-bisht-banawali-1982",
+    "src-indus-bisht-banawali-town-planning-1984"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

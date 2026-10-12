@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-liulihe-yan",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《琉璃河西周燕国墓地》（1995）报告 1973–77 燕国墓地与车马坑。",
+    "en": "The 1995 Liulihe Yan cemetery report publishes 1973–77 burials and chariot pits."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-liulihe"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-liulihe-yan-cemetery"
+  ],
+  "sources": [
+    "src-china-liulihe-yan-cemetery-1995"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

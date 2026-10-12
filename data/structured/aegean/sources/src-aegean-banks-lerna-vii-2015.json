@@ -1,0 +1,17 @@
+{
+  "id": "src-aegean-banks-lerna-vii-2015",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Banks, Elizabeth C. 2015. Lerna: A Preclassical Site in the Argolid. Volume VII: The Neolithic Settlement. Princeton: American School of Classical Studies at Athens.",
+  "url": "https://www.ascsa.edu.gr/publications/books/browse-by-series/lerna",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary final report on Neolithic settlement at Lerna. Complements Wiencke Lerna IV for earlier strata.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-aegean-banks-lerna-vii-2015.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

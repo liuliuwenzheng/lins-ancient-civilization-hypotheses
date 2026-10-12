@@ -1,0 +1,40 @@
+{
+  "id": "asm-taukachi-square-rooms",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "陶卡奇-孔坎方形房间单位组合",
+    "en": "Taukachi-Konkán square-room unit assemblage"
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-taukachi-konkan"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "与潘帕德拉斯拉马斯–莫塞克 Huaca A 模块可比的矩形房间单位。",
+    "en": "Rectangular room units comparable to modular construction at Pampa de las Llamas–Moxeke Huaca A."
+  },
+  "sources": [
+    "src-andes-pozorski-antiquity-casma-1992",
+    "src-andes-pozorski-square-room-2011"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-andes-casma-antiquity-1992",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pozorski & Pozorski（1992）在 Antiquity 综合卡斯马河谷初始期纪念性中心（含塞钦阿尔托复合体）。",
+    "en": "Pozorski & Pozorski (1992) synthesize Initial Period monumental centers of the Casma Valley (incl. Sechín Alto complex) in Antiquity."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-taukachi-konkan",
+    "site-las-haldas",
+    "site-sechin-alto"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-taukachi-square-rooms",
+    "asm-las-haldas-initial"
+  ],
+  "sources": [
+    "src-andes-pozorski-antiquity-casma-1992"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

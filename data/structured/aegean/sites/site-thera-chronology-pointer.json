@@ -1,0 +1,32 @@
+{
+  "id": "site-thera-chronology-pointer",
+  "entity": "site",
+  "names": {
+    "zh": "锡拉年代辩论指针",
+    "en": "Thera chronology debate pointer",
+    "native": null
+  },
+  "kind_note": "Eruption-dating debate frame (not a new excavation)",
+  "region": "Santorini, Greece",
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "summary": {
+    "zh": "Manning 等 2022 等年代模型指针；非新发掘地点。",
+    "en": "Pointer for Manning et al. 2022 and related dating models; not a new excavation."
+  },
+  "sources": [
+    "src-aegean-manning-thera-plos-2022",
+    "src-aegean-manning-science-2006",
+    "src-aegean-wiener-chronology-debate"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

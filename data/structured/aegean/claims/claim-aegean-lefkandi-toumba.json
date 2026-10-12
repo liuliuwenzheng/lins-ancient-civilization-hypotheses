@@ -1,0 +1,33 @@
+{
+  "id": "claim-aegean-lefkandi-toumba",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Popham 等 Lefkandi I/II 报告勒夫坎迪铁器时代聚落/墓地与图姆巴原几何大建筑。",
+    "en": "Popham et al. Lefkandi I/II report Lefkandi Iron Age settlement/cemeteries and the Toumba Protogeometric building."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-lefkandi-toumba",
+    "site-lefkandi"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-lefkandi-toumba-building"
+  ],
+  "sources": [
+    "src-aegean-popham-lefkandi-i-1980",
+    "src-aegean-popham-lefkandi-ii-1993"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

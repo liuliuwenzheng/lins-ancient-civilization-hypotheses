@@ -1,0 +1,31 @@
+{
+  "id": "claim-andes-tacahuay-maritime",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Keefer 等（1998）报告塔卡瓦伊干谷早期海洋经济与厄尔尼诺相关埋藏。",
+    "en": "Keefer et al. (1998) report early maritime economy and El Niño-related burial of deposits at Quebrada Tacahuay."
+  },
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "site_ids": [
+    "site-quebrada-tacahuay"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tacahuay-maritime"
+  ],
+  "sources": [
+    "src-andes-keefer-tacahuay-science-1998"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

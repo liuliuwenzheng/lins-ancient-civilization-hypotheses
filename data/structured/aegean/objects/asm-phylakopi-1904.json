@@ -1,0 +1,40 @@
+{
+  "id": "asm-phylakopi-1904",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "菲拉科皮 1904 发掘组合",
+    "en": "Phylakopi 1904 excavation assemblage"
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-phylakopi",
+    "site-phylakopi-deepen"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "1904 卷公布的青铜时代城镇建筑与陶器类别。",
+    "en": "Bronze Age town architecture and pottery classes as published in the 1904 volume."
+  },
+  "sources": [
+    "src-aegean-atkinson-phylakopi-1904"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": "https://archive.org/details/excavationsatphy00brituoft",
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

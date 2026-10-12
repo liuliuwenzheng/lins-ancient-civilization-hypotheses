@@ -1,0 +1,34 @@
+{
+  "id": "claim-aegean-thera-sole-lmib",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "锡拉喷发为 LM IB 破坏的唯一主因——年代与因果仍争议，不作定论。",
+    "en": "That the Thera eruption is the sole cause of LM IB destructions remains contested in date and causation — not a fact verdict."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-akrotiri",
+    "site-thera-chronology-pointer"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-furumark-mycenaean-pottery"
+  ],
+  "sources": [
+    "src-aegean-manning-thera-plos-2022",
+    "src-aegean-manning-science-2006",
+    "src-aegean-driessen-macdonald-troubled-island-1997"
+  ],
+  "disclaimer": "Hypothesis: eruption–destruction causal link and high/low chronology remain open.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

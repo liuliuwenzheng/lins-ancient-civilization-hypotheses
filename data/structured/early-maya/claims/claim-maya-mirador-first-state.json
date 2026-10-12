@@ -3,30 +3,32 @@
   "entity": "claim",
   "kind": "hypothesis",
   "statement": {
-    "zh": "将米拉多尔盆地简单定为「最早玛雅国家」或唯一首个国家，仍属排序性假说，不是本库定论。",
-    "en": "Ranking the Mirador Basin simply as the ‘first Maya state’ or unique primary state remains an ordering hypothesis, not library fact."
+    "zh": "米拉多尔盆地为玛雅「第一个国家」——政治形态排序仍争议，不作定论。",
+    "en": "That the Mirador Basin was the Maya \"first state\" remains a contested political ranking — not a fact verdict."
   },
   "civilization_ids": [
     "civ-early-maya"
   ],
   "site_ids": [
     "site-el-mirador",
-    "site-nakbe"
+    "site-mirador-architecture-deepen"
   ],
   "period_ids": [],
-  "object_ids": [],
-  "sources": [
-    "src-maya-hansen-mirador-lidar-2022",
-    "src-maya-hansen-tigre-mirador",
-    "src-maya-estrada-belli-2011"
+  "object_ids": [
+    "asm-mirador-architecture-deepen"
   ],
-  "disclaimer": "Hypothesis / ranking claim — not established fact. Labelled kind=hypothesis.",
+  "sources": [
+    "src-maya-hansen-mirador-architecture",
+    "src-maya-hansen-mirador-lidar-2022",
+    "src-maya-matheny-mirador-nwaf45-1980"
+  ],
+  "disclaimer": "Hypothesis: first-state / kingdom rankings for Mirador remain debated.",
   "editorial": {
     "derived_from": [
       "data/civilizations/civ-early-maya.md",
       "sources/src-*"
     ],
-    "derived_on": "2026-10-11",
-    "notes": "Paraphrased from cited registered sources only. Second density pass D-2026-10-11-30; bibliographic details verified via WebSearch/catalogs; no invented page numbers/coordinates/forged images."
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
   }
 }

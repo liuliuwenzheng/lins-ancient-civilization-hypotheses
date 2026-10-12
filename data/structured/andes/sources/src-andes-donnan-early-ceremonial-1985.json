@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-donnan-early-ceremonial-1985",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Donnan, Christopher B., ed. 1985. Early Ceremonial Architecture in the Andes: A Conference at Dumbarton Oaks, 8th to 10th October 1982. Washington, DC: Dumbarton Oaks Research Library and Collection. ISBN 0-88402-135-1.",
+  "url": "https://www.doaks.org/resources/publications/books/early-ceremonial-architecture-in-the-andes",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Edited conference volume consolidating early Andean ceremonial-architecture research (container for Samaniego/Burger chapters).",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-donnan-early-ceremonial-1985.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

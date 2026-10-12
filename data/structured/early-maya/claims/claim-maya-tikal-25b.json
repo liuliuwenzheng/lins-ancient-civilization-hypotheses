@@ -1,0 +1,31 @@
+{
+  "id": "claim-maya-tikal-25b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Culbert & Kosakowsky TR 25B（2019）公布蒂卡尔陶器序列（含前古典复合体）。",
+    "en": "Culbert & Kosakowsky TR 25B (2019) publishes the Tikal ceramic sequence (incl. Preclassic complexes)."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-tikal-ceramics-tr25"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-tikal-tr25b-sequence"
+  ],
+  "sources": [
+    "src-maya-culbert-kosakowsky-tikal-25b-2019"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

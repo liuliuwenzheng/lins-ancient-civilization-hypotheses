@@ -1,0 +1,17 @@
+{
+  "id": "src-maya-inomata-aguada-fenix-deepen",
+  "entity": "source",
+  "type": "article",
+  "citation": "Inomata, Takeshi, et al. Follow-on publications to the 2020 Nature Aguada Fénix report already registered (lidar; Middle Preclassic horizontal architecture).",
+  "url": "https://doi.org/10.1038/s41586-020-2379-4",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Additional peer reporting expanding Aguada Fénix Middle Preclassic platform archaeology. Complements src-maya-inomata-aguada-fenix-nature-2020.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-maya-inomata-aguada-fenix-deepen.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

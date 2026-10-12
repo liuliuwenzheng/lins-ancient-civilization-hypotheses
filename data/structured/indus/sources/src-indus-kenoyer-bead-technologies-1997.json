@@ -1,0 +1,17 @@
+{
+  "id": "src-indus-kenoyer-bead-technologies-1997",
+  "entity": "source",
+  "type": "article",
+  "citation": "Kenoyer, Jonathan Mark. 1997. \"Trade and Technology of the Indus Valley: New Insights from Harappa, Pakistan.\" World Archaeology 29 (2): 262–280.",
+  "url": "https://doi.org/10.1080/00438243.1997.9980377",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Peer-reviewed craft/trade synthesis grounded in Harappa excavations (bead and related technologies). Complements Meadow/Kenoyer Harappa reports already registered.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-indus-kenoyer-bead-technologies-1997.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

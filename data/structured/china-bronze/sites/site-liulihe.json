@@ -1,0 +1,30 @@
+{
+  "id": "site-liulihe",
+  "entity": "site",
+  "names": {
+    "zh": "琉璃河",
+    "en": "Liulihe",
+    "native": "琉璃河"
+  },
+  "kind_note": "Early Western Zhou Yan capital cemetery/settlement",
+  "region": "Fangshan, Beijing, China",
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "summary": {
+    "zh": "1973–77 燕国墓地与车马坑；早期燕都相关遗存。",
+    "en": "1973–77 Yan cemetery and chariot pits; early Yan capital-related remains."
+  },
+  "sources": [
+    "src-china-liulihe-yan-cemetery-1995"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-izumi-sono-kotosh-andes2-1963",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Izumi, Seiichi, and Toshihiko Sono. 1963. Andes 2: Excavations at Kotosh, Peru, 1960. Tokyo: University of Tokyo / Kadokawa Publishing Co.",
+  "url": "https://www.journals.uchicago.edu/doi/10.2307/502282",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary University of Tokyo report on the 1960 Kotosh season (Andes 2). Temple of the Crossed Hands sequence anchors Kotosh-tradition discussion.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-izumi-sono-kotosh-andes2-1963.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

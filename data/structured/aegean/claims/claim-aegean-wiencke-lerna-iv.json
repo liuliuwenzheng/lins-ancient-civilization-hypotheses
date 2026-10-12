@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-wiencke-lerna-iv",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Wiencke Lerna IV（2000）正式报告 EH II / Lerna III 建筑与陶器（含砖瓦之屋）。",
+    "en": "Wiencke Lerna IV (2000) is the final report on EH II / Lerna III architecture and pottery (incl. House of the Tiles)."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-lerna"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-lerna-house-of-tiles"
+  ],
+  "sources": [
+    "src-aegean-wiencke-lerna-iv-2000"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-aegean-blegen-troy-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blegen 等 Troy I（1950）正式报告辛辛那提大学特洛伊 I–II 层发掘。",
+    "en": "Blegen et al. Troy I (1950) is the final report on Cincinnati Troy settlements I–II."
+  },
+  "civilization_ids": [
+    "civ-aegean"
+  ],
+  "site_ids": [
+    "site-troy-hissarlik"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-troy-i-ii"
+  ],
+  "sources": [
+    "src-aegean-blegen-troy-i-1950"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-aegean.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

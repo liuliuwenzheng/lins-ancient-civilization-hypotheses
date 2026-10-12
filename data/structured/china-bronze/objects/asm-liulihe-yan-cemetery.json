@@ -1,0 +1,39 @@
+{
+  "id": "asm-liulihe-yan-cemetery",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "琉璃河燕国墓地组合",
+    "en": "Liulihe Yan cemetery assemblage"
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-liulihe"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "西周燕国墓葬与车马坑组合类别。",
+    "en": "Western Zhou Yan burials and chariot-pit assemblage classes."
+  },
+  "sources": [
+    "src-china-liulihe-yan-cemetery-1995"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

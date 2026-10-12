@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-clark-cheetham-early-mesoamerica",
+  "entity": "source",
+  "type": "article",
+  "citation": "Clark, John E., and David Cheetham. Papers on Early Formative Soconusco / Gulf interaction and Olmec-style material distributions.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Secondary/peer interaction papers. Complements Clark & Pye 2000; interaction ≠ single mother-culture verdict.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-clark-cheetham-early-mesoamerica.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-andes-sandweiss-jaguay-science-1998",
+  "entity": "source",
+  "type": "article",
+  "citation": "Sandweiss, Daniel H., Heather McInnis, Richard L. Burger, Asunción Cano, Bernardino Ojeda, Rolando Paredes, María del Carmen Sandweiss, and Michael D. Glascock. 1998. \"Quebrada Jaguay: Early South American Maritime Adaptations.\" Science 281 (5384): 1830–1832. https://doi.org/10.1126/science.281.5384.1830",
+  "url": "https://www.science.org/doi/10.1126/science.281.5384.1830",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary Science report on Terminal Pleistocene / early Holocene maritime economy at Quebrada Jaguay (QJ-280). Comparative — outside Norte Chico core.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-andes-sandweiss-jaguay-science-1998.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

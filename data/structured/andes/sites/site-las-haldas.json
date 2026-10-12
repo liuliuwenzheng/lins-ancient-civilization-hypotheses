@@ -1,0 +1,31 @@
+{
+  "id": "site-las-haldas",
+  "entity": "site",
+  "names": {
+    "zh": "拉斯哈尔达斯",
+    "en": "Las Haldas",
+    "native": null
+  },
+  "kind_note": "Coastal Initial Period ceremonial/residential site",
+  "region": "Casma coast, Peru",
+  "civilization_ids": [
+    "civ-andes"
+  ],
+  "summary": {
+    "zh": "卡斯马海岸初始期大址；Pozorski 综合中作为河谷—海岸系统节点讨论。",
+    "en": "Coastal Initial Period center in Pozorski Casma settlement/subsistence syntheses."
+  },
+  "sources": [
+    "src-andes-pozorski-casma-1987",
+    "src-andes-pozorski-antiquity-casma-1992"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-andes.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

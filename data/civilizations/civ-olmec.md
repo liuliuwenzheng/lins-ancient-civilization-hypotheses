@@ -86,7 +86,6 @@ The table aligns **conventional Formative frames** with registered sources. Cali
 - **Chalcatzingo (highland Morelos)** — Formative center with Olmec-style monumental art outside the heartland; Grove 1987 — interaction anchor, not a colony verdict [`src-olmec-grove-chalcatzingo-1987`].
 - **Other Gulf sites (e.g. Tres Zapotes)** — oriented via Diehl / Clark & Pye; no invented monument lists [`src-olmec-diehl-2004`][`src-olmec-clark-pye-nga-2000`].
 
-
 ### Density D-2026-10-11-27 site expansions
 
 - **特雷斯·萨波特斯 / Tres Zapotes** — Stirling BAE 138；Weiant BAE 139；Drucker BAE 140；Pool 2003 定居考古 [`src-olmec-stirling-bae-138-1943`][`src-olmec-weiant-bae-139-1943`][`src-olmec-drucker-bae-140-1943`][`src-olmec-pool-tres-zapotes-2003`]。
@@ -99,6 +98,20 @@ The table aligns **conventional Formative frames** with registered sources. Cali
 - **El Manatí** — Ortiz & Rodríguez spring offerings [`src-olmec-ortiz-rodriguez-manati-am`].
 - **San Lorenzo survey** — Symonds/Cyphers; Cyphers sculpture corpus [`src-olmec-symonds-cyphers-settlement`][`src-olmec-cyphers-escultura-2004`].
 - **La Venta continuations** — Rust & Sharer 1988; González Lauck pointer [`src-olmec-rust-sharer-la-venta-1988`].
+
+### Density pass 3 (D-2026-10-12-2)
+
+- **奇基托河 / Río Chiquito** — Stirling BAE 157 [`src-olmec-stirling-bae-157-1955`]。
+- **埃尔阿苏苏尔加深** — Cyphers [`src-olmec-cyphers-el-azuzul`]。
+- **埃特拉通戈 / Etlatongo** — Blomster 等 [`src-olmec-blomster-etlatongo`]。
+- **特雷斯萨波特斯 / 查尔卡钦戈加深** [`src-olmec-pool-tres-zapotes-deepen`][`src-olmec-grove-chalcatzingo-revisit`]。
+- **Bernal《奥尔梅克世界》**、**Coe《墨西哥》第 8 版** [`src-olmec-bernal-olmec-world-1969`][`src-olmec-coe-mexico-8th-2019`]。
+
+- **Río Chiquito** — Stirling BAE 157 [`src-olmec-stirling-bae-157-1955`].
+- **El Azuzul deepened** — Cyphers [`src-olmec-cyphers-el-azuzul`].
+- **Etlatongo** — Blomster et al. [`src-olmec-blomster-etlatongo`].
+- **Tres Zapotes / Chalcatzingo deepened** [`src-olmec-pool-tres-zapotes-deepen`][`src-olmec-grove-chalcatzingo-revisit`].
+- **Bernal Olmec World**, **Coe Mexico 8th ed.** [`src-olmec-bernal-olmec-world-1969`][`src-olmec-coe-mexico-8th-2019`].
 
 ## Urbanism, architecture & institutions
 
@@ -161,50 +174,60 @@ Second density (D-2026-10-11-30) also registers: Cascajal Science 2006 + Mora-Ma
 - **希卡罗作坊 / Llano del Jícaro** — 石雕生产点 [`src-olmec-llano-del-jicaro`]
 - **阿royo 佩斯克罗** — 绿石发现地（非控制发掘警示）[`src-olmec-arroyo-pesquero`]
 
+第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Stirling BAE 157；Cyphers 阿苏苏尔；Etlatongo；Tres Zapotes/Chalcatzingo 加深；Bernal 1969；Coe 2019。母文化与 Cascajal「最早文字」留假说栏。
+
+Third density pass (2026-10-12 / D-2026-10-12-2) also registers Stirling BAE 157; Cyphers Azuzul; Etlatongo; Tres Zapotes/Chalcatzingo deepened; Bernal 1969; Coe 2019. Mother-culture and Cascajal oldest-script stay hypotheses.
 
 ## Sources
 
-- `src-olmec-pool-2007` — secondary monograph; Veracruz–Tabasco Formative Olmec (tier S)
-- `src-olmec-diehl-2004` — secondary survey; San Lorenzo / La Venta / abroad / Epi-Olmec (tier S; title primacy = framing)
-- `src-olmec-coe-diehl-san-lorenzo-1980` — primary excavation report; San Lorenzo Tenochtitlán (tier P)
-- `src-olmec-grove-chalcatzingo-1987` — primary edited site monograph; Chalcatzingo (tier P)
-- `src-mesoamerica-nichols-pool-handbook-2012` — secondary handbook; Mesoamerica orientation (tier S)
-- `src-maya-inomata-ceibal-science-2013` — peer-reviewed article; Ceibal; interregional vs one-way La Venta (tier S)
-- `src-olmec-drucker-la-venta-1952` — primary BAE monograph; La Venta ceramics/art (tier P)
-- `src-olmec-drucker-heizer-squier-1959` — primary BAE report; La Venta 1955 excavations (tier P)
-- `src-olmec-cyphers-escultura-2004` — secondary sculpture catalog/synthesis; San Lorenzo (tier S)
-- `src-olmec-clark-pye-nga-2000` — secondary edited symposium volume (tier S)
-- `src-olmec-benson-fuente-1996` — secondary exhibition catalog; González Lauck on La Venta (tier S)
-- `src-olmec-blomster-neff-glascock-2005` — peer-reviewed INAA pottery-export study (tier S)
-- `src-olmec-taube-doaks-2004` — secondary museum catalog; Olmec portable art (tier S)
-
-
-### Density D-27 added sources
-- `src-olmec-stirling-bae-138-1943` — P; Stone Monuments of Southern Mexico
-- `src-olmec-weiant-bae-139-1943` — P; Tres Zapotes ceramics intro
-- `src-olmec-drucker-bae-140-1943` — P; Tres Zapotes ceramic sequences
-- `src-olmec-pool-tres-zapotes-2003` — P; Cotsen settlement monograph
-- `src-olmec-ortiz-rodriguez-manati-am` — P; El Manatí offerings
-- `src-olmec-gonzalez-lauck-la-venta` — P; INAH La Venta project pointer
-- `src-olmec-flannery-marcus-olmec-oaxaca` — S; mother-culture critique
-- `src-olmec-symonds-cyphers-settlement` — P; San Lorenzo settlement survey
-- `src-olmec-cheetham-cantona-or-san-lorenzo` — S; pottery exchange pointer
-- `src-olmec-beverido-clewlow-heads` — S; colossal heads catalog 1967
-- `src-olmec-rust-sharer-la-venta-1988` — P; Science settlement data
-- `src-olmec-arnold-san-lorenzo-ceramics` — S; ceramic economy pointer
-- `src-olmec-benson-neighbors-1981` — S; Dumbarton Oaks memorial essays
-- `src-olmec-milbrath-sculptural-chronology-1979` — S; sculptural chronology
-- `src-olmec-cyphers-bellas-teorias` — S; Early Preclassic controversies
-
-
-- `src-olmec-rodriguez-cascajal-science-2006` — secondary/peer-reviewed; Cascajal Block (tier S)
-- `src-olmec-mora-marin-cascajal-2020` — secondary; Cascajal imaging (tier S)
-- `src-olmec-martinez-donjuan-teopantecuanitlan` — primary field literature; Teopantecuanitlán (tier P)
-- `src-olmec-ortiz-rodriguez-manati-1988` — primary prelim; Manatí 1988 (tier P)
-- `src-olmec-san-andres-la-venta-satellite` — secondary; La Venta satellites (tier S)
-- `src-olmec-llano-del-jicaro` — secondary/project; workshop locale (tier S)
-- `src-olmec-arroyo-pesquero` — secondary; greenstone finds with provenience caveats (tier S)
-
+- `src-maya-inomata-ceibal-science-2013` — article; Inomata, Takeshi, Daniela Triadan, Kazuo Aoyama, Victor Castillo, and Hitoshi Yonenobu. 2013. Early Ceremonial Constr... (tier S)
+- `src-mesoamerica-nichols-pool-handbook-2012` — monograph; Nichols, Deborah L., and Christopher A. Pool, eds. 2012. The Oxford Handbook of Mesoamerican Archaeology. Oxford; New... (tier S)
+- `src-olmec-arnold-san-lorenzo-ceramics` — article; Arnold, Philip J. III. (Formative Gulf ceramic/economy studies; seed registers Arnold’s peer-reviewed San Lorenzo reg... (tier S)
+- `src-olmec-arroyo-pesquero` — article; Published notices and collection histories for the Arroyo Pesquero (Río Pesquero) jade/greenstone find locality (Vera... (tier S)
+- `src-olmec-benson-fuente-1996` — monograph; Benson, Elizabeth P., and Beatriz de la Fuente, eds. 1996. Olmec Art of Ancient Mexico. Washington, DC: National Gall... (tier S)
+- `src-olmec-benson-neighbors-1981` — monograph; Benson, Elizabeth P., ed. 1981. The Olmec and Their Neighbors: Essays in Memory of Matthew W. Stirling. Washington, D... (tier S)
+- `src-olmec-bernal-olmec-world-1969` — monograph; Bernal, Ignacio. 1969. The Olmec World. Translated by Doris Heyden and Fernando Horcasitas. Berkeley: University of C... (tier S)
+- `src-olmec-beverido-clewlow-heads` — monograph; Clewlow, C. William, et al. / related catalogs of Olmec colossal heads (historical catalogs; Cyphers 2004 remains pre... (tier S)
+- `src-olmec-beverido-pereira-heads-catalog` — monograph; Beverido Pereau, Francisco, and related catalogs of Olmec colossal heads (Veracruz/Tabasco museums and INAH registries). (tier S)
+- `src-olmec-blomster-etlatongo` — article; Blomster, Jeffrey P., et al. Papers on Etlatongo (Mixteca Alta) Formative deposits and Olmec-style pottery exchange d... (tier P)
+- `src-olmec-blomster-neff-glascock-2005` — article; Blomster, Jeffrey P., Héctor Neff, and Michael D. Glascock. 2005. Olmec Pottery Production and Export in Ancient Mexi... (tier S)
+- `src-olmec-cheetham-cantona-or-san-lorenzo` — article; Cheetham, David. (peer-reviewed studies on Early Formative San Lorenzo–style pottery distribution / Gulf–Maya lowland... (tier S)
+- `src-olmec-clark-cheetham-early-mesoamerica` — article; Clark, John E., and David Cheetham. Papers on Early Formative Soconusco / Gulf interaction and Olmec-style material d... (tier S)
+- `src-olmec-clark-pye-nga-2000` — monograph; Clark, John E., and Mary E. Pye, eds. 2000. Olmec Art and Archaeology in Mesoamerica. Studies in the History of Art 5... (tier S)
+- `src-olmec-coe-diehl-san-lorenzo-1980` — excavation-report; Coe, Michael D., and Richard A. Diehl. 1980. In the Land of the Olmec. 2 vols. Austin: University of Texas Press. Vol... (tier P)
+- `src-olmec-coe-mexico-8th-2019` — monograph; Coe, Michael D., Javier Urcid, and Rex Koontz. 2019. Mexico: From the Olmecs to the Aztecs. 8th ed. London: Thames & ... (tier S)
+- `src-olmec-cyphers-bellas-teorias` — monograph; Cyphers, Ann. 2012. Las bellas teorías y los terribles hechos: Controversias sobre los olmecas del Preclásico inferio... (tier S)
+- `src-olmec-cyphers-el-azuzul` — excavation-report; Cyphers, Ann. Reports/briefs on El Azuzul twin-figure monument group and related San Lorenzo hinterland sculpture con... (tier P)
+- `src-olmec-cyphers-escultura-2004` — monograph; Cyphers, Ann. 2004. Escultura olmeca de San Lorenzo Tenochtitlán. Mexico City: Universidad Nacional Autónoma de Méxic... (tier S)
+- `src-olmec-cyphers-san-lorenzo-settlement-2002` — excavation-report; Symonds, Stacey; Cyphers, Ann; Lunagómez, Roberto. 2002. Asentamiento prehispánico en San Lorenzo Tenochtitlán. Mexic... (tier P)
+- `src-olmec-diehl-2004` — monograph; Diehl, Richard A. 2004. The Olmecs: America’s First Civilization. Ancient Peoples and Places. London: Thames & Hudson... (tier S)
+- `src-olmec-diehl-olmecs-ancient-mexico` — monograph; Diehl, Richard A. Additional Diehl syntheses on Olmec archaeology beyond Diehl 2004 already registered (museum/catalo... (tier S)
+- `src-olmec-drucker-bae-140-1943` — excavation-report; Drucker, Philip. 1943. Ceramic Sequences at Tres Zapotes, Veracruz, Mexico. Bureau of American Ethnology Bulletin 140... (tier P)
+- `src-olmec-drucker-heizer-squier-1959` — excavation-report; Drucker, Philip, Robert F. Heizer, and Robert J. Squier. 1959. Excavations at La Venta, Tabasco, 1955. Bureau of Amer... (tier P)
+- `src-olmec-drucker-la-venta-1952` — excavation-report; Drucker, Philip. 1952. La Venta, Tabasco: A Study of Olmec Ceramics and Art. Bureau of American Ethnology Bulletin 15... (tier P)
+- `src-olmec-flannery-marcus-olmec-oaxaca` — monograph; Flannery, Kent V., and Joyce Marcus. 2000. “Formative Mexican Chiefdoms and the Myth of the ‘Mother Culture’.” Journa... (tier S)
+- `src-olmec-gonzalez-lauck-la-venta` — article; González Lauck, Rebecca. (INAH La Venta project reports and syntheses on Architecture Group A / Complex A and site co... (tier P)
+- `src-olmec-grove-chalcatzingo-1987` — excavation-report; Grove, David C., ed. 1987. Ancient Chalcatzingo. Texas Pan American Series. Austin: University of Texas Press. ISBN 0... (tier P)
+- `src-olmec-grove-chalcatzingo-revisit` — excavation-report; Grove, David C. Additional Chalcatzingo reporting and reinterpretation papers beyond Grove 1987 monograph already reg... (tier P)
+- `src-olmec-llano-del-jicaro` — article; Cyphers, Ann, and collaborators. Studies of the Llano del Jícaro monument workshop / related San Lorenzo-region sculp... (tier S)
+- `src-olmec-martinez-donjuan-teopantecuanitlan` — excavation-report; Martínez Donjuán, Guadalupe. 1986–1990s field reports and syntheses on Teopantecuanitlán (Guerrero), including the su... (tier P)
+- `src-olmec-milbrath-sculptural-chronology-1979` — monograph; Milbrath, Susan. 1979. A Study of Olmec Sculptural Chronology. Studies in Pre-Columbian Art and Archaeology 23. Washi... (tier S)
+- `src-olmec-mora-marin-cascajal-2020` — article; Mora-Marín, David F. 2020. “Digital Imaging and Archaeometric Analysis of the Cascajal Block: Establishing Context an... (tier S)
+- `src-olmec-ortiz-rodriguez-manati-1988` — excavation-report; Ortiz Ceballos, Ponciano, and María del Carmen Rodríguez. 1988. “El Proyecto Manatí, temporada 1988. Informe prelimin... (tier P)
+- `src-olmec-ortiz-rodriguez-manati-am` — article; Ortiz Ceballos, Ponciano, and María del Carmen Rodríguez Martínez. (project publications summarizing El Manatí spring... (tier P)
+- `src-olmec-pool-2007` — monograph; Pool, Christopher A. 2007. Olmec Archaeology and Early Mesoamerica. Cambridge World Archaeology. Cambridge; New York:... (tier S)
+- `src-olmec-pool-tres-zapotes-2003` — excavation-report; Pool, Christopher A., ed. 2003. Settlement Archaeology and Political Economy at Tres Zapotes, Veracruz, Mexico. Cotse... (tier P)
+- `src-olmec-pool-tres-zapotes-c14` — article; Pool, Christopher A., and colleagues. Radiocarbon and ceramic-chronology studies for Tres Zapotes Formative sequences... (tier S)
+- `src-olmec-pool-tres-zapotes-deepen` — excavation-report; Pool, Christopher A. Additional Tres Zapotes excavation/analysis publications deepening Pool 2003 / C14 sources alrea... (tier P)
+- `src-olmec-rodriguez-cascajal-science-2006` — article; Rodríguez Martínez, María del Carmen; Ortiz Ceballos, Ponciano; Coe, Michael D.; Diehl, Richard A.; Houston, Stephen ... (tier S)
+- `src-olmec-rust-sharer-la-venta-1988` — article; Rust, William F., and Robert J. Sharer. 1988. “Olmec Settlement Data from La Venta, Tabasco, Mexico.” Science 242(487... (tier P)
+- `src-olmec-san-andres-la-venta-satellite` — article; Rust, William F.; Sharer, Robert J.; and later La Venta hinterland studies including San Andrés and related satellite... (tier S)
+- `src-olmec-stirling-bae-138-1943` — excavation-report; Stirling, Matthew W. 1943. Stone Monuments of Southern Mexico. Bureau of American Ethnology Bulletin 138. Washington:... (tier P)
+- `src-olmec-stirling-bae-157-1955` — excavation-report; Stirling, Matthew W. 1955. Stone Monuments of the Rio Chiquito, Veracruz, Mexico. Bureau of American Ethnology Bullet... (tier P)
+- `src-olmec-symonds-cyphers-settlement` — article; Symonds, Stacey, Ann Cyphers, and Roberto Lunagómez. 2002. Asentamiento prehispánico en San Lorenzo Tenochtitlán. Mex... (tier P)
+- `src-olmec-taube-doaks-2004` — monograph; Taube, Karl A. 2004. Olmec Art at Dumbarton Oaks. Pre-Columbian Art at Dumbarton Oaks, No. 2. Washington, DC: Dumbart... (tier S)
+- `src-olmec-taube-olmeca-iconography-deepen` — monograph; Taube, Karl A. Additional Olmec iconography studies beyond Taube 2004 Dumbarton Oaks volume already registered (maize... (tier S)
+- `src-olmec-weiant-bae-139-1943` — excavation-report; Weiant, C. W. 1943. An Introduction to the Ceramics of Tres Zapotes, Veracruz, Mexico. Bureau of American Ethnology B... (tier P)
 
 ## Related civilizations
 

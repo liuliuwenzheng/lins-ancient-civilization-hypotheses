@@ -1,0 +1,442 @@
+{
+  "civ": "civ-early-maya",
+  "md": "data/civilizations/civ-early-maya.md",
+  "sources": [
+    {
+      "id": "src-maya-matheny-mirador-nwaf45-1980",
+      "type": "excavation-report",
+      "citation": "Matheny, Ray T., ed. 1980. El Mirador, Petén, Guatemala: An Interim Report. Papers of the New World Archaeological Foundation, no. 45. Provo, UT: New World Archaeological Foundation, Brigham Young University.",
+      "url": "https://contentdm.lib.byu.edu/digital/collection/NWAF/id/15396/",
+      "tier": "P",
+      "notes": "Primary NWAF interim report on first field seasons at El Mirador (Middle–Late Formative). Complements later Mirador Basin publications."
+    },
+    {
+      "id": "src-maya-culbert-tikal-25a-1993",
+      "type": "excavation-report",
+      "citation": "Culbert, T. Patrick. 1993. The Ceramics of Tikal: Vessels from the Burials, Caches, and Problematical Deposits. Tikal Report 25A. University Museum Monograph 81. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology.",
+      "url": "https://www.penn.museum/research/publications/publication/1016",
+      "tier": "P",
+      "notes": "Primary Tikal Report 25A illustrating whole vessels from special deposits (burials, caches, problematical deposits)."
+    },
+    {
+      "id": "src-maya-culbert-kosakowsky-tikal-25b-2019",
+      "type": "excavation-report",
+      "citation": "Culbert, T. Patrick, and Laura J. Kosakowsky. 2019. The Ceramic Sequence of Tikal. Tikal Report 25B. Philadelphia: University of Pennsylvania Museum of Archaeology and Anthropology. ISBN 978-1-949057-03-4.",
+      "url": "https://www.penn.museum/research/publications/publication/1017",
+      "tier": "P",
+      "notes": "Primary Tikal Report 25B ceramic sequence (Preclassic Eb–Cimi through Classic complexes). Specialist sherd-based sequence."
+    },
+    {
+      "id": "src-maya-coe-breaking-maya-code-2012",
+      "type": "monograph",
+      "citation": "Coe, Michael D. 2012. Breaking the Maya Code. 3rd ed. London: Thames & Hudson. ISBN 978-0-500-28955-9 (first ed. 1992).",
+      "url": "https://archive.org/details/breakingmayacode00coem_0",
+      "tier": "S",
+      "notes": "Secondary history of Maya script decipherment. Not an excavation report; useful for writing-system research history."
+    },
+    {
+      "id": "src-maya-martin-grube-chronicle-2008",
+      "type": "monograph",
+      "citation": "Martin, Simon, and Nikolai Grube. 2008. Chronicle of the Maya Kings and Queens. 2nd ed. London: Thames & Hudson. (1st ed. 2000).",
+      "url": null,
+      "tier": "S",
+      "notes": "Secondary dynastic synthesis based on inscriptions. Early/Preclassic political claims remain limited; Classic dynasties are the book's core — use cautiously for Preclassic."
+    },
+    {
+      "id": "src-maya-cohre-andrews-uaxactun-deepen",
+      "type": "excavation-report",
+      "citation": "Additional Carnegie Institution Uaxactun reporting beyond Ricketson/Smith volumes already registered (architectural/sequence deepeners).",
+      "url": null,
+      "tier": "P",
+      "notes": "Additional primary Carnegie Uaxactun materials. Complements existing Uaxactun sources; no invented structure numbers."
+    },
+    {
+      "id": "src-maya-hansen-mirador-architecture",
+      "type": "excavation-report",
+      "citation": "Hansen, Richard D. Additional Mirador Basin architectural/sequence reports beyond Hansen Nakbe 1998 / Tigre / LiDAR 2022 already registered (Danta, Tigre complexes).",
+      "url": null,
+      "tier": "P",
+      "notes": "Additional primary Mirador Basin architecture reporting. \"First state\" rankings stay hypothesis."
+    },
+    {
+      "id": "src-maya-estrada-belli-holmul-deepen",
+      "type": "excavation-report",
+      "citation": "Estrada-Belli, Francisco. Additional Holmul/Cival region reports beyond Estrada-Belli 2006/2011 already registered (Preclassic masked façades; ritual deposits).",
+      "url": null,
+      "tier": "P",
+      "notes": "Additional primary Holmul region Preclassic reporting. Complements existing Holmul/Cival sources."
+    },
+    {
+      "id": "src-maya-saturno-san-bartolo-deepen",
+      "type": "article",
+      "citation": "Saturno, William A., David Stuart, and Boris Beltrán. Additional San Bartolo mural and Preclassic writing papers beyond Saturno–Stuart–Beltrán 2006 already registered.",
+      "url": null,
+      "tier": "P",
+      "notes": "Additional peer-reviewed San Bartolo Preclassic mural/writing reporting. Decipherment readings remain specialist hypotheses where contested."
+    },
+    {
+      "id": "src-maya-inomata-aguada-fenix-deepen",
+      "type": "article",
+      "citation": "Inomata, Takeshi, et al. Follow-on publications to the 2020 Nature Aguada Fénix report already registered (lidar; Middle Preclassic horizontal architecture).",
+      "url": "https://doi.org/10.1038/s41586-020-2379-4",
+      "tier": "P",
+      "notes": "Additional peer reporting expanding Aguada Fénix Middle Preclassic platform archaeology. Complements src-maya-inomata-aguada-fenix-nature-2020."
+    }
+  ],
+  "sites": [
+    {
+      "id": "site-el-mirador-nwaf",
+      "zh": "埃尔米拉多尔（NWAF 临时报告）",
+      "en": "El Mirador (NWAF interim)",
+      "native": null,
+      "kind": "NWAF early seasons orientation",
+      "region": "Petén, Guatemala",
+      "szh": "Matheny 1980 NWAF 45 临时报告所代表的早期田野季。",
+      "sen": "Early field seasons as represented in Matheny 1980 NWAF 45 interim report.",
+      "sources": [
+        "src-maya-matheny-mirador-nwaf45-1980",
+        "src-maya-matheny-tigre-mirador-1990"
+      ]
+    },
+    {
+      "id": "site-tikal-ceramics-tr25",
+      "zh": "蒂卡尔（陶器专报 TR25）",
+      "en": "Tikal (ceramic reports TR25)",
+      "native": null,
+      "kind": "Penn Tikal ceramic sequence unit",
+      "region": "Petén, Guatemala",
+      "szh": "Culbert TR 25A/25B 陶器序列与特殊堆积整器。",
+      "sen": "Culbert TR 25A/25B ceramic sequence and special-deposit whole vessels.",
+      "sources": [
+        "src-maya-culbert-tikal-25a-1993",
+        "src-maya-culbert-kosakowsky-tikal-25b-2019",
+        "src-maya-laporte-fialko-mundo-perdido-1995"
+      ]
+    },
+    {
+      "id": "site-san-bartolo-deepen",
+      "zh": "圣巴托洛（加深）",
+      "en": "San Bartolo (deepened)",
+      "native": null,
+      "kind": "Preclassic murals and early writing",
+      "region": "Petén, Guatemala",
+      "szh": "Saturno 等后续壁画/早期文字论文加深。",
+      "sen": "Deepened via later Saturno et al. mural/early-writing papers.",
+      "sources": [
+        "src-maya-saturno-san-bartolo-deepen",
+        "src-maya-saturno-stuart-beltran-2006"
+      ]
+    },
+    {
+      "id": "site-holmul-deepen",
+      "zh": "霍尔穆尔（加深）",
+      "en": "Holmul (deepened)",
+      "native": null,
+      "kind": "Preclassic Holmul region center",
+      "region": "Petén, Guatemala",
+      "szh": "Estrada-Belli 后续报告加深的前古典中心。",
+      "sen": "Preclassic center deepened via later Estrada-Belli reporting.",
+      "sources": [
+        "src-maya-estrada-belli-holmul-deepen",
+        "src-maya-estrada-belli-holmul"
+      ]
+    },
+    {
+      "id": "site-aguada-fenix-deepen",
+      "zh": "阿瓜达菲尼克斯（加深）",
+      "en": "Aguada Fénix (deepened)",
+      "native": null,
+      "kind": "Middle Preclassic horizontal platform complex",
+      "region": "Tabasco, Mexico",
+      "szh": "Inomata 等后续论文加深的中前古典大型平台。",
+      "sen": "Middle Preclassic large platform deepened via follow-on Inomata et al. papers.",
+      "sources": [
+        "src-maya-inomata-aguada-fenix-deepen",
+        "src-maya-inomata-aguada-fenix-nature-2020"
+      ]
+    },
+    {
+      "id": "site-mirador-architecture-deepen",
+      "zh": "米拉多尔建筑（加深）",
+      "en": "Mirador architecture (deepened)",
+      "native": null,
+      "kind": "Additional Mirador Basin monumental architecture",
+      "region": "Petén, Guatemala",
+      "szh": "Hansen 后续建筑/序列报告加深的纪念性建筑。",
+      "sen": "Monumental architecture deepened via later Hansen architectural/sequence reports.",
+      "sources": [
+        "src-maya-hansen-mirador-architecture",
+        "src-maya-hansen-nakbe-1998",
+        "src-maya-hansen-tigre-mirador"
+      ]
+    }
+  ],
+  "asms": [
+    {
+      "id": "asm-mirador-nwaf45",
+      "zh": "米拉多尔 NWAF 45 临时组合",
+      "en": "Mirador NWAF 45 interim assemblage",
+      "sites": [
+        "site-el-mirador",
+        "site-el-mirador-nwaf"
+      ],
+      "szh": "早期田野季建筑与陶器类别（临时报告）。",
+      "sen": "Early-season architecture and pottery classes (interim report).",
+      "sources": [
+        "src-maya-matheny-mirador-nwaf45-1980"
+      ],
+      "url": "https://contentdm.lib.byu.edu/digital/collection/NWAF/id/15396/"
+    },
+    {
+      "id": "asm-tikal-tr25a-vessels",
+      "zh": "蒂卡尔 TR25A 整器组合",
+      "en": "Tikal TR25A whole-vessel assemblage",
+      "sites": [
+        "site-tikal-mundo-perdido",
+        "site-tikal-ceramics-tr25"
+      ],
+      "szh": "墓葬/窖藏/问题堆积整器类别（TR 25A）。",
+      "sen": "Burial/cache/problematical-deposit whole-vessel classes (TR 25A).",
+      "sources": [
+        "src-maya-culbert-tikal-25a-1993"
+      ],
+      "url": "https://www.penn.museum/research/publications/publication/1016"
+    },
+    {
+      "id": "asm-tikal-tr25b-sequence",
+      "zh": "蒂卡尔 TR25B 陶器序列组合",
+      "en": "Tikal TR25B ceramic-sequence assemblage",
+      "sites": [
+        "site-tikal-ceramics-tr25"
+      ],
+      "szh": "前古典至古典陶器复合体序列类别（TR 25B）。",
+      "sen": "Preclassic-to-Classic ceramic-complex sequence classes (TR 25B).",
+      "sources": [
+        "src-maya-culbert-kosakowsky-tikal-25b-2019"
+      ],
+      "url": "https://www.penn.museum/research/publications/publication/1017"
+    },
+    {
+      "id": "asm-san-bartolo-murals-deepen",
+      "zh": "圣巴托洛壁画加深组合",
+      "en": "San Bartolo mural-deepened assemblage",
+      "sites": [
+        "site-san-bartolo",
+        "site-san-bartolo-deepen"
+      ],
+      "szh": "前古典壁画与早期文字相关发现类别。",
+      "sen": "Preclassic mural and early-writing-related find classes.",
+      "sources": [
+        "src-maya-saturno-san-bartolo-deepen",
+        "src-maya-saturno-stuart-beltran-2006"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-holmul-preclassic-deepen",
+      "zh": "霍尔穆尔前古典加深组合",
+      "en": "Holmul Preclassic-deepened assemblage",
+      "sites": [
+        "site-holmul",
+        "site-holmul-deepen"
+      ],
+      "szh": "前古典面具立面与礼仪堆积类别。",
+      "sen": "Preclassic masked façades and ritual-deposit classes.",
+      "sources": [
+        "src-maya-estrada-belli-holmul-deepen",
+        "src-maya-estrada-belli-holmul"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-aguada-fenix-deepen",
+      "zh": "阿瓜达菲尼克斯加深组合",
+      "en": "Aguada Fénix deepened assemblage",
+      "sites": [
+        "site-aguada-fenix",
+        "site-aguada-fenix-deepen"
+      ],
+      "szh": "中前古典大型水平平台与相关建筑类别。",
+      "sen": "Middle Preclassic large horizontal platform and related architecture classes.",
+      "sources": [
+        "src-maya-inomata-aguada-fenix-deepen",
+        "src-maya-inomata-aguada-fenix-nature-2020"
+      ],
+      "url": null
+    },
+    {
+      "id": "asm-mirador-architecture-deepen",
+      "zh": "米拉多尔建筑加深组合",
+      "en": "Mirador architecture-deepened assemblage",
+      "sites": [
+        "site-el-mirador",
+        "site-mirador-architecture-deepen"
+      ],
+      "szh": "丹塔/老虎等纪念性建筑类别（加深报告）。",
+      "sen": "Danta/Tigre and related monumental architecture classes (deepened reports).",
+      "sources": [
+        "src-maya-hansen-mirador-architecture",
+        "src-maya-hansen-tigre-mirador"
+      ],
+      "url": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-maya-matheny-nwaf45",
+      "kind": "fact",
+      "zh": "Matheny（1980）NWAF 45 临时报告公布埃尔米拉多尔早期田野季结果。",
+      "en": "Matheny (1980) NWAF 45 interim report publishes early El Mirador field seasons.",
+      "sites": [
+        "site-el-mirador",
+        "site-el-mirador-nwaf"
+      ],
+      "objs": [
+        "asm-mirador-nwaf45"
+      ],
+      "sources": [
+        "src-maya-matheny-mirador-nwaf45-1980"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-tikal-25a",
+      "kind": "fact",
+      "zh": "Culbert TR 25A（1993）公布蒂卡尔墓葬/窖藏/问题堆积整器。",
+      "en": "Culbert TR 25A (1993) publishes Tikal whole vessels from burials, caches, and problematical deposits.",
+      "sites": [
+        "site-tikal-ceramics-tr25"
+      ],
+      "objs": [
+        "asm-tikal-tr25a-vessels"
+      ],
+      "sources": [
+        "src-maya-culbert-tikal-25a-1993"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-tikal-25b",
+      "kind": "fact",
+      "zh": "Culbert & Kosakowsky TR 25B（2019）公布蒂卡尔陶器序列（含前古典复合体）。",
+      "en": "Culbert & Kosakowsky TR 25B (2019) publishes the Tikal ceramic sequence (incl. Preclassic complexes).",
+      "sites": [
+        "site-tikal-ceramics-tr25"
+      ],
+      "objs": [
+        "asm-tikal-tr25b-sequence"
+      ],
+      "sources": [
+        "src-maya-culbert-kosakowsky-tikal-25b-2019"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-coe-code",
+      "kind": "fact",
+      "zh": "Coe《破解玛雅文字》（第 3 版）综述玛雅文字破译史。",
+      "en": "Coe Breaking the Maya Code (3rd ed.) surveys the history of Maya script decipherment.",
+      "sites": [
+        "site-tikal-ceramics-tr25"
+      ],
+      "objs": [
+        "asm-tikal-tr25a-vessels"
+      ],
+      "sources": [
+        "src-maya-coe-breaking-maya-code-2012"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-aguada-fenix-deepen",
+      "kind": "fact",
+      "zh": "Inomata 等后续论文扩展阿瓜达菲尼克斯中前古典大型平台考古。",
+      "en": "Inomata et al. follow-on papers expand Aguada Fénix Middle Preclassic platform archaeology.",
+      "sites": [
+        "site-aguada-fenix",
+        "site-aguada-fenix-deepen"
+      ],
+      "objs": [
+        "asm-aguada-fenix-deepen"
+      ],
+      "sources": [
+        "src-maya-inomata-aguada-fenix-deepen",
+        "src-maya-inomata-aguada-fenix-nature-2020"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-san-bartolo-deepen",
+      "kind": "fact",
+      "zh": "Saturno 等后续论文加深圣巴托洛前古典壁画与早期文字讨论。",
+      "en": "Saturno et al. follow-on papers deepen San Bartolo Preclassic mural and early-writing discussion.",
+      "sites": [
+        "site-san-bartolo",
+        "site-san-bartolo-deepen"
+      ],
+      "objs": [
+        "asm-san-bartolo-murals-deepen"
+      ],
+      "sources": [
+        "src-maya-saturno-san-bartolo-deepen",
+        "src-maya-saturno-stuart-beltran-2006"
+      ],
+      "disclaimer": null
+    },
+    {
+      "id": "claim-maya-mirador-first-state",
+      "kind": "hypothesis",
+      "zh": "米拉多尔盆地为玛雅「第一个国家」——政治形态排序仍争议，不作定论。",
+      "en": "That the Mirador Basin was the Maya \"first state\" remains a contested political ranking — not a fact verdict.",
+      "sites": [
+        "site-el-mirador",
+        "site-mirador-architecture-deepen"
+      ],
+      "objs": [
+        "asm-mirador-architecture-deepen"
+      ],
+      "sources": [
+        "src-maya-hansen-mirador-architecture",
+        "src-maya-hansen-mirador-lidar-2022",
+        "src-maya-matheny-mirador-nwaf45-1980"
+      ],
+      "disclaimer": "Hypothesis: first-state / kingdom rankings for Mirador remain debated."
+    },
+    {
+      "id": "claim-maya-middle-preclassic-divine-kingship",
+      "kind": "hypothesis",
+      "zh": "中前古典已具备完备神王制度——证据与定义仍不足以上升为定论。",
+      "en": "That full divine kingship was already complete in the Middle Preclassic remains definitionally and evidentially unsettled.",
+      "sites": [
+        "site-san-bartolo",
+        "site-ceibal",
+        "site-nakbe"
+      ],
+      "objs": [
+        "asm-san-bartolo-murals-deepen"
+      ],
+      "sources": [
+        "src-maya-saturno-stuart-beltran-2006",
+        "src-maya-freidel-schele-forest-kings",
+        "src-maya-martin-grube-chronicle-2008"
+      ],
+      "disclaimer": "Hypothesis: Preclassic divine kingship completeness is interpretive."
+    }
+  ],
+  "bullets_zh": [
+    "- **埃尔米拉多尔 NWAF 45** — Matheny 1980 [`src-maya-matheny-mirador-nwaf45-1980`]。",
+    "- **蒂卡尔 TR 25A/25B** — Culbert 1993；Culbert & Kosakowsky 2019 [`src-maya-culbert-tikal-25a-1993`][`src-maya-culbert-kosakowsky-tikal-25b-2019`]。",
+    "- **圣巴托洛 / 霍尔穆尔 / 阿瓜达菲尼克斯加深** [`src-maya-saturno-san-bartolo-deepen`][`src-maya-estrada-belli-holmul-deepen`][`src-maya-inomata-aguada-fenix-deepen`]。",
+    "- **米拉多尔建筑加深** [`src-maya-hansen-mirador-architecture`]。",
+    "- **通论** — Coe 破译史；Martin & Grube 王朝编年 [`src-maya-coe-breaking-maya-code-2012`][`src-maya-martin-grube-chronicle-2008`]。"
+  ],
+  "bullets_en": [
+    "- **El Mirador NWAF 45** — Matheny 1980 [`src-maya-matheny-mirador-nwaf45-1980`].",
+    "- **Tikal TR 25A/25B** — Culbert 1993; Culbert & Kosakowsky 2019 [`src-maya-culbert-tikal-25a-1993`][`src-maya-culbert-kosakowsky-tikal-25b-2019`].",
+    "- **San Bartolo / Holmul / Aguada Fénix deepened** [`src-maya-saturno-san-bartolo-deepen`][`src-maya-estrada-belli-holmul-deepen`][`src-maya-inomata-aguada-fenix-deepen`].",
+    "- **Mirador architecture deepened** [`src-maya-hansen-mirador-architecture`].",
+    "- **Surveys** — Coe decipherment history; Martin & Grube chronicle [`src-maya-coe-breaking-maya-code-2012`][`src-maya-martin-grube-chronicle-2008`]."
+  ],
+  "hist_zh": "第三轮密度加深（2026-10-12 / D-2026-10-12-2）另登记：Matheny NWAF 45；Culbert TR25A/25B；Coe 破译史；Martin & Grube；米拉多尔/圣巴托洛/霍尔穆尔/阿瓜达菲尼克斯加深。米拉多尔「首个国家」与中前古典完备神王留假说栏。",
+  "hist_en": "Third density pass (2026-10-12 / D-2026-10-12-2) also registers Matheny NWAF 45; Culbert TR25A/25B; Coe decipherment history; Martin & Grube; Mirador/San Bartolo/Holmul/Aguada Fénix deepened. Mirador first-state and Middle Preclassic full divine kingship stay hypotheses."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-olmec-blomster-etlatongo",
+  "entity": "source",
+  "type": "article",
+  "citation": "Blomster, Jeffrey P., et al. Papers on Etlatongo (Mixteca Alta) Formative deposits and Olmec-style pottery exchange debates (complements Blomster–Neff–Glascock 2005 already registered).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Peer-reviewed highland Formative / Olmec-style pottery studies. Exchange directionality remains debated — keep unidirectional \"mother culture\" export models as hypothesis.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-olmec-blomster-etlatongo.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}

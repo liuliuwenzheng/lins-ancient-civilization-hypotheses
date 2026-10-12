@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-aguada-fenix-deepen",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Inomata 等后续论文扩展阿瓜达菲尼克斯中前古典大型平台考古。",
+    "en": "Inomata et al. follow-on papers expand Aguada Fénix Middle Preclassic platform archaeology."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-aguada-fenix",
+    "site-aguada-fenix-deepen"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-aguada-fenix-deepen"
+  ],
+  "sources": [
+    "src-maya-inomata-aguada-fenix-deepen",
+    "src-maya-inomata-aguada-fenix-nature-2020"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "claim-indus-kenoyer-craft",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kenoyer（1997）基于哈拉帕发掘讨论印度河贸易与珠作等技术。",
+    "en": "Kenoyer (1997) discusses Indus trade and bead technologies grounded in Harappa excavations."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-harappa-craft-trade"
+  ],
+  "sources": [
+    "src-indus-kenoyer-bead-technologies-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

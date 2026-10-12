@@ -1,0 +1,40 @@
+{
+  "id": "asm-shierqiao-wood",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "十二桥木构建筑组合（加深）",
+    "en": "Shi'erqiao wooden-architecture assemblage (deepened)"
+  },
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "site_ids": [
+    "site-shierqiao"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "木构建筑与层位序列类别。",
+    "en": "Wooden-architecture and sequence classes."
+  },
+  "sources": [
+    "src-sanxingdui-shierqiao-sequence-deepen",
+    "src-sanxingdui-shierqiao-chengdu-discoveries"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata class only; no forged artifact images."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Assemblage-level from registered primary/secondary sources; density pass 3 (D-2026-10-12-2)."
+  }
+}

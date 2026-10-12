@@ -1,0 +1,35 @@
+{
+  "id": "claim-maya-middle-preclassic-divine-kingship",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "中前古典已具备完备神王制度——证据与定义仍不足以上升为定论。",
+    "en": "That full divine kingship was already complete in the Middle Preclassic remains definitionally and evidentially unsettled."
+  },
+  "civilization_ids": [
+    "civ-early-maya"
+  ],
+  "site_ids": [
+    "site-san-bartolo",
+    "site-ceibal",
+    "site-nakbe"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-san-bartolo-murals-deepen"
+  ],
+  "sources": [
+    "src-maya-saturno-stuart-beltran-2006",
+    "src-maya-freidel-schele-forest-kings",
+    "src-maya-martin-grube-chronicle-2008"
+  ],
+  "disclaimer": "Hypothesis: Preclassic divine kingship completeness is interpretive.",
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-early-maya.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

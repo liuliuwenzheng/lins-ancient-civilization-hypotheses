@@ -1,0 +1,32 @@
+{
+  "id": "claim-indus-allchin-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Allchin & Allchin（1968）企鹅通史概述公元前 500 年以前南亚（含印度河）史前框架。",
+    "en": "Allchin & Allchin (1968) Penguin survey outlines South Asian prehistory before 500 BCE, including Indus."
+  },
+  "civilization_ids": [
+    "civ-indus-valley"
+  ],
+  "site_ids": [
+    "site-harappa",
+    "site-mohenjo-daro"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-fairservis-harappan-synthesis"
+  ],
+  "sources": [
+    "src-indus-allchin-birth-1968"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-indus-valley.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

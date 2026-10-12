@@ -1,0 +1,31 @@
+{
+  "id": "site-sanxingdui-pits-3-8-deepen",
+  "entity": "site",
+  "names": {
+    "zh": "三星堆祭祀坑3–8（加深）",
+    "en": "Sanxingdui pits 3–8 (deepened)",
+    "native": null
+  },
+  "kind_note": "Official 2021– pit excavation unit",
+  "region": "Guanghan, Sichuan, China",
+  "civilization_ids": [
+    "civ-sanxingdui"
+  ],
+  "summary": {
+    "zh": "2021 起官方简报的新坑发掘与现场保护。",
+    "en": "Official 2021– briefs on new pit excavation and on-site conservation."
+  },
+  "sources": [
+    "src-sanxingdui-pit3-8-kaogu-briefs-2021",
+    "src-sanxingdui-li-qiu-guo-li-2022"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-sanxingdui.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "New site unit for density pass 3 (D-2026-10-12-2); coordinates omitted (no invented coords)."
+  }
+}

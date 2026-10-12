@@ -1,0 +1,31 @@
+{
+  "id": "claim-china-xiaomintun-foundry",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "安阳工作队报告殷墟孝民屯铸铜作坊遗存。",
+    "en": "Anyang Work Team reports Xiaomintun bronze foundry remains at Yinxu."
+  },
+  "civilization_ids": [
+    "civ-china-bronze"
+  ],
+  "site_ids": [
+    "site-xiaomintun"
+  ],
+  "period_ids": [],
+  "object_ids": [
+    "asm-xiaomintun-foundry"
+  ],
+  "sources": [
+    "src-china-xiaomintun-foundry-2008"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "data/civilizations/civ-china-bronze.md",
+      "sources/src-*"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Paraphrased from cited registered sources only; density pass 3 (D-2026-10-12-2)."
+  }
+}

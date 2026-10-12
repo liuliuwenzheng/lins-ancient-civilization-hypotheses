@@ -1,0 +1,17 @@
+{
+  "id": "src-sanxingdui-pit3-8-kaogu-briefs-2021",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sichuan Provincial Cultural Relics and Archaeology Research Institute et al. 2021–. Official Kaogu/Wenwu briefs and press digests on Sanxingdui sacrificial pits 3–8 (controlled excavation, on-site conservation).",
+  "url": "https://en.people.cn/n3/2021/0320/c90000-9830883.html",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Primary official briefs on newly excavated pits 3–8. Prefer Kaogu formal briefs over media paraphrases for artifact counts; no forged object images.",
+  "editorial": {
+    "derived_from": [
+      "sources/src-sanxingdui-pit3-8-kaogu-briefs-2021.md"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Bibliographic details verified via WebSearch/catalog pages 2026-10-12; no invented page numbers. Density pass 3 (D-2026-10-12-2)."
+  }
+}
