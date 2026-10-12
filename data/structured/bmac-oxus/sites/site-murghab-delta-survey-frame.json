@@ -1,0 +1,32 @@
+{
+  "id": "site-murghab-delta-survey-frame",
+  "entity": "site",
+  "names": {
+    "zh": "穆尔加布三角洲调查框架（指针）",
+    "en": "Murghab delta survey frame (orientation)",
+    "native": null
+  },
+  "kind_note": "survey-region",
+  "region": "Murghab delta, Turkmenistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "马尔吉亚纳绿洲调查框架。",
+    "en": "Margiana oasis survey frame."
+  },
+  "sources": [
+    "src-bmac-salvatori-tosi-orientation",
+    "src-bmac-hiebert-1994"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

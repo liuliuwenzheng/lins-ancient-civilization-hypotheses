@@ -1,0 +1,34 @@
+{
+  "id": "period-teotihuacan-xolalpan-metepec",
+  "entity": "period",
+  "names": {
+    "zh": "经典晚期—衰落窗",
+    "en": "Late Classic–decline window"
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "time": {
+    "label": "Xolalpan–Metepec working labels into 6th/7th c. CE debates (Cowgill)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Decline absolute dating debated; label-only."
+  },
+  "summary": {
+    "zh": "晚期至衰落讨论窗。",
+    "en": "Late to decline discussion window."
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-2015",
+    "src-teotihuacan-manzanilla-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

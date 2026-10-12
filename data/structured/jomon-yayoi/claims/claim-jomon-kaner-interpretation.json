@@ -1,0 +1,33 @@
+{
+  "id": "claim-jomon-kaner-interpretation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kaner 等博物馆/综述取向讨论绳文物质文化的当代解释框架（Kaner）。",
+    "en": "Kaner and related museum/synthesis orientations discuss contemporary interpretive frames for Jōmon material culture (Kaner)."
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-sannai-maruyama"
+  ],
+  "period_ids": [
+    "period-jomon-yayoi-overview"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-kaner-orientation",
+    "src-jomon-habu-ancient-jomon"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "claim-hittite-tablet-archives-reconstruction",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "泥板档案与语文学传统是重建赫梯政治史与仪礼实践的核心证据之一（Bryce；Beckman；van den Hout）。",
+    "en": "Tablet archives and philological tradition are core evidence for reconstructing Hittite political history and ritual practice (Bryce; Beckman; van den Hout)."
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [
+    "period-hittite-kingdom-empire"
+  ],
+  "object_ids": [
+    "asm-hattusa-archives-frame"
+  ],
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-beckman-text-orientation",
+    "src-hittite-van-den-hout-text-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

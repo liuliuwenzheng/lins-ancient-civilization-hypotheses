@@ -1,0 +1,32 @@
+{
+  "id": "site-nok-village-type",
+  "entity": "site",
+  "names": {
+    "zh": "诺克村（类型地）",
+    "en": "Nok village (type locality)",
+    "native": "Nok"
+  },
+  "kind_note": "Name-giving village locality",
+  "region": "Jos Plateau region, Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "文化命名地村落；与类型区并读。",
+    "en": "Name-giving village locality; read with type area."
+  },
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-fagg-1959-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

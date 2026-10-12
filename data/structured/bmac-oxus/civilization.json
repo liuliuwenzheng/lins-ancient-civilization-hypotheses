@@ -2,7 +2,7 @@
   "id": "civ-bmac-oxus",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "巴克特里亚–马尔吉亚纳 / 奥克苏斯",
     "en": "BMAC / Oxus Civilization",
@@ -11,28 +11,58 @@
   "region": "Central Asia / Margiana (Murghab) and Bactria oases",
   "time_span": "Bronze Age oasis florescence ca. 2200–1750 BCE Margiana frame (Hiebert 1994)",
   "summary": {
-    "zh": "奥克苏斯/BMAC 档案壳：Hiebert + Gonur；library-seed。",
-    "en": "Oxus/BMAC archive shell: Hiebert + Gonur; library-seed."
+    "zh": "奥克苏斯/BMAC 档案（library-seed-rich）：Hiebert/Sarianidi + Gonur/Altyn 等绿洲遗址；仍加厚中。",
+    "en": "Oxus/BMAC archive (library-seed-rich): Hiebert/Sarianidi + Gonur/Altyn oasis sites; still thickening."
   },
   "sources": [
+    "src-bmac-antiquity-special-section-1994",
+    "src-bmac-francfort-orientation",
     "src-bmac-hiebert-1994",
     "src-bmac-hiebert-antiquity-1994",
+    "src-bmac-hiebert-peabody-bulletin",
+    "src-bmac-kohl-central-asia-orientation",
     "src-bmac-lamberg-karlovsky-antiquity-1994",
     "src-bmac-lamberg-karlovsky-roa-2012",
-    "src-bmac-sarianidi-gonur-orientation"
+    "src-bmac-lyonnet-orientation",
+    "src-bmac-masse-vidale-orientation",
+    "src-bmac-pleiades-altyn-842000735",
+    "src-bmac-pleiades-gonur-391537222",
+    "src-bmac-salvatori-tosi-orientation",
+    "src-bmac-sarianidi-gonur-orientation",
+    "src-bmac-sarianidi-margiana-orientation"
   ],
   "site_ids": [
+    "site-altyn-depe",
+    "site-bactria-oasis-frame",
     "site-gonur-depe",
+    "site-gonur-north-south-frame",
+    "site-murghab-delta-survey-frame",
+    "site-shortughai-orientation",
     "site-togolok"
   ],
   "period_ids": [
+    "period-bmac-classic-margiana",
+    "period-bmac-early-oasis",
+    "period-bmac-late",
     "period-bmac-margiana-florescence"
   ],
   "claim_ids": [
-    "claim-bmac-margiana-oasis-frame"
+    "claim-bmac-altyn-urban-centre",
+    "claim-bmac-antiquity-1994-frame",
+    "claim-bmac-ceramic-chronology-orientation",
+    "claim-bmac-gonur-keystone-oasis",
+    "claim-bmac-hiebert-2200-1750",
+    "claim-bmac-indus-interaction-shortughai",
+    "claim-bmac-margiana-oasis-frame",
+    "claim-bmac-murghab-survey-landscape",
+    "claim-bmac-seal-amulet-assemblage",
+    "claim-bmac-state-level-hypothesis",
+    "claim-bmac-togolok-margiana-centre"
   ],
   "object_ids": [
-    "asm-bmac-gonur-frame"
+    "asm-bmac-gonur-frame",
+    "asm-bmac-gonur-palace-temple-frame",
+    "asm-bmac-seal-amulet-frame"
   ],
   "related_ids": [
     "civ-indus-valley",
@@ -42,10 +72,11 @@
   "markdown_path": "data/civilizations/civ-bmac-oxus.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

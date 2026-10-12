@@ -1,0 +1,33 @@
+{
+  "id": "claim-hittite-empire-collapse-frame",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说/叙事：帝国末期崩溃的绝对年代与因果（自然灾害、迁徙、内政）仍高度争议，需与地层证据分开（Bryce 叙事语境）。",
+    "en": "Hypothesis/narrative: absolute dating and causes of terminal empire collapse (disaster, migration, internal politics) remain highly debated and must be separated from stratified evidence (Bryce narrative context)."
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [
+    "period-hittite-empire"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-seeher-hattusa-2006"
+  ],
+  "disclaimer": "Hypothesis/narrative: LBA collapse causal models are debated; not a site-find fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

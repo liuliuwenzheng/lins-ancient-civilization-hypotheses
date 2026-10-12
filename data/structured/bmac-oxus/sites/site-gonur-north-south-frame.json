@@ -1,0 +1,32 @@
+{
+  "id": "site-gonur-north-south-frame",
+  "entity": "site",
+  "names": {
+    "zh": "戈努尔北/南区框架（指针）",
+    "en": "Gonur North/South sector frame (orientation)",
+    "native": null
+  },
+  "kind_note": "intra-site sector orientation",
+  "region": "Murghab delta, Turkmenistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "戈努尔遗址分区框架；非整站新坐标。",
+    "en": "Intra-site sector frame; not a new gazetteer point."
+  },
+  "sources": [
+    "src-bmac-sarianidi-gonur-orientation",
+    "src-bmac-hiebert-1994"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

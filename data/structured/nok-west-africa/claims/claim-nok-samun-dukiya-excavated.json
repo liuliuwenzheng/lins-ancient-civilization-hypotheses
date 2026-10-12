@@ -1,0 +1,33 @@
+{
+  "id": "claim-nok-samun-dukiya-excavated",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Frankfurt 项目报告将萨蒙·杜基亚等地点作为发掘的定居/陶俑语境（JAA outline）。",
+    "en": "Frankfurt project reports treat localities such as Samun Dukiya as excavated settlement/terracotta contexts (JAA outline)."
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-samun-dukiya"
+  ],
+  "period_ids": [
+    "period-nok-classic-terracotta"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-samun-dukiya-orientation",
+    "src-nok-jaa-outline-2016"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claim-zapotec-blanton-settlement-mapping",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Blanton 1978 聚落形态专著系统测绘蒙特·阿尔班山巅都城地表建筑与居住区（Blanton 1978）。",
+    "en": "Blanton 1978 systematically mapped surface architecture and residential zones of the Monte Albán hilltop capital (Blanton 1978)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "object_ids": [
+    "asm-monte-alban-settlement-frame"
+  ],
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-blanton-feinman-kowalewski"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "claim-nubia-barkal-unesco-napatan",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将杰贝尔·Barkal 与纳帕塔区遗址群列为纳帕塔期宗教—王室景观核心（UNESCO 1073）。",
+    "en": "UNESCO lists Gebel Barkal and Napatan-region sites as a core Napatan religious–royal landscape (UNESCO 1073)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-jebel-barkal",
+    "site-el-kurru",
+    "site-nuri"
+  ],
+  "period_ids": [
+    "period-nubia-napatan"
+  ],
+  "object_ids": [
+    "asm-nubia-napatan-pyramids-frame"
+  ],
+  "sources": [
+    "src-nubia-unesco-gebel-barkal-1073",
+    "src-nubia-welsby-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

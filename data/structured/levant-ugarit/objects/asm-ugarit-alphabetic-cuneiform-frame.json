@@ -1,0 +1,44 @@
+{
+  "id": "asm-ugarit-alphabetic-cuneiform-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌加里特字母楔形文本框架组合",
+    "en": "Ugaritic alphabetic-cuneiform text frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "summary": {
+    "zh": "字母楔形语料指针；无伪造博物馆号。",
+    "en": "Alphabetic-cuneiform corpus pointer; no forged museum numbers."
+  },
+  "sources": [
+    "src-ugarit-pardee-text-orientation",
+    "src-ugarit-dietrich-lorez-orientation",
+    "src-ugarit-bordreuil-pardee-manual"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

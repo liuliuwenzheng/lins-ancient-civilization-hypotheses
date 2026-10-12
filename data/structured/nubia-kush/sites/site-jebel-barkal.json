@@ -19,13 +19,17 @@
     "src-nubia-welsby-1996",
     "src-nubia-edwards-2004"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 18.537,
+    "lon": 31.828028,
+    "precision_note": "UNESCO WHC list 1073 component 1073-001 published DMS→decimal; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave1_shells/generate_wave1.py",
       "docs/coverage-map.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-13."
   }
 }

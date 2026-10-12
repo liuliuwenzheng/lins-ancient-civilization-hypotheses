@@ -19,13 +19,17 @@
     "src-elam-potts-2016",
     "src-elam-carter-stolper-1984"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 32.189458,
+    "lon": 48.256372,
+    "precision_note": "UNESCO WHC list 1455 component 1455-001 published DMS→decimal; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave1_shells/generate_wave1.py",
       "docs/coverage-map.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-13."
   }
 }

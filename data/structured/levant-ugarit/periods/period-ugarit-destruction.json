@@ -1,0 +1,34 @@
+{
+  "id": "period-ugarit-destruction",
+  "entity": "period",
+  "names": {
+    "zh": "乌加里特毁弃窗",
+    "en": "Ugarit destruction window"
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "early 12th c. BCE destruction horizon debates (Yon)",
+    "approx_from_bce": 1200,
+    "approx_to_bce": 1180,
+    "scheme_note": "Destruction absolute dating debated."
+  },
+  "summary": {
+    "zh": "毁弃层绝对年代有争议。",
+    "en": "Destruction-horizon absolute dating debated."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-schaeffer-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

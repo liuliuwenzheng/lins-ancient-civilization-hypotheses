@@ -1,0 +1,37 @@
+{
+  "id": "site-oyu-stone-circles",
+  "entity": "site",
+  "names": {
+    "zh": "大汤环状列石",
+    "en": "Ōyu Stone Circles",
+    "native": "大湯環状列石"
+  },
+  "kind_note": "Jōmon stone-circle ceremonial site; UNESCO component",
+  "region": "Kazuno, Akita, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "教科文绳文遗址群组分。",
+    "en": "UNESCO Jōmon serial property component."
+  },
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-unesco-1632-maps",
+    "src-jomon-oyu-stone-circles"
+  ],
+  "coordinates": {
+    "lat": 40.271389,
+    "lon": 140.804444,
+    "precision_note": "UNESCO WHC list 1632 component 1632-014 published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

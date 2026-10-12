@@ -1,0 +1,32 @@
+{
+  "id": "site-itazuke-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "板付（指针）",
+    "en": "Itazuke (orientation)",
+    "native": "板付"
+  },
+  "kind_note": "Early Yayoi paddy-field locality in northern Kyushu",
+  "region": "Fukuoka, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "早期弥生水田遗址指针。",
+    "en": "Early Yayoi paddy-field locality orientation."
+  },
+  "sources": [
+    "src-yayoi-wet-rice-orientation",
+    "src-yayoi-barnes-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

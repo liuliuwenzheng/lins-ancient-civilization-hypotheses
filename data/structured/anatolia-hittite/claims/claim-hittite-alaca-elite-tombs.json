@@ -1,0 +1,34 @@
+{
+  "id": "claim-hittite-alaca-elite-tombs",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合将阿拉贾霍尤克早王朝精英墓与其后赫梯期遗存一并讨论为中安纳托利亚序列要点（Bryce；Collins）。",
+    "en": "Syntheses discuss Alacahöyük early elite tombs and later Hittite-period remains as points in the central Anatolian sequence (Bryce; Collins)."
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-alacahoyuk"
+  ],
+  "period_ids": [
+    "period-hittite-old-kingdom"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-collins-2007",
+    "src-hittite-pleiades-alaca-991964195"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

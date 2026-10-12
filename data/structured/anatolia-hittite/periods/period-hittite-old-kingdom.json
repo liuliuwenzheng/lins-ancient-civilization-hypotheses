@@ -1,0 +1,34 @@
+{
+  "id": "period-hittite-old-kingdom",
+  "entity": "period",
+  "names": {
+    "zh": "赫梯古王国窗",
+    "en": "Hittite Old Kingdom window"
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "ca. 17th–15th c. BCE (Bryce narrative frame)",
+    "approx_from_bce": 1650,
+    "approx_to_bce": 1400,
+    "scheme_note": "Political-narrative chronology; absolute debates open."
+  },
+  "summary": {
+    "zh": "古王国政治叙事窗。",
+    "en": "Old Kingdom political-narrative window."
+  },
+  "sources": [
+    "src-hittite-bryce-2005",
+    "src-hittite-collins-2007"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

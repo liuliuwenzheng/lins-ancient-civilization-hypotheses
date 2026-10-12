@@ -1,0 +1,34 @@
+{
+  "id": "claim-hittite-sapinuwa-provincial-archives",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘传统将奥尔塔科伊—萨皮努瓦表述为出土大量泥板的赫梯行省中心（Süel 传统；Bryce）。",
+    "en": "Excavation tradition frames Ortaköy-Şapinuwa as a Hittite provincial centre that yielded substantial tablet finds (Süel tradition; Bryce)."
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-sapinuwa-ortakoy"
+  ],
+  "period_ids": [
+    "period-hittite-empire"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-kuloglu-or-ortakoy-orientation",
+    "src-hittite-bryce-2005",
+    "src-hittite-pleiades-sapinuwa-964671598"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

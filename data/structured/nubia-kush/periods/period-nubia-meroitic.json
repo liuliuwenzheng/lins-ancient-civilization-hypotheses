@@ -1,0 +1,35 @@
+{
+  "id": "period-nubia-meroitic",
+  "entity": "period",
+  "names": {
+    "zh": "麦罗埃期",
+    "en": "Meroitic period"
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Meroitic Kush floruit into ca. 4th c. CE (Edwards/Welsby)",
+    "approx_from_bce": 300,
+    "approx_to_bce": null,
+    "scheme_note": "approx_to_bce null; conventional end ~AD 350 noted in scheme only via label."
+  },
+  "summary": {
+    "zh": "麦罗埃期繁荣窗。",
+    "en": "Meroitic floruit window."
+  },
+  "sources": [
+    "src-nubia-edwards-2004",
+    "src-nubia-welsby-1996",
+    "src-nubia-unesco-island-meroe-2011"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

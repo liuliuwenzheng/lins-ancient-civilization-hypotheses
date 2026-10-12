@@ -1,0 +1,19 @@
+{
+  "id": "src-teotihuacan-sugiyama-feathered-serpent",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Sugiyama, Saburo. Human sacrifice and monumental architecture publications on the Feathered Serpent Pyramid / Ciudadela (orientation).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Feathered Serpent Pyramid excavation tradition.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

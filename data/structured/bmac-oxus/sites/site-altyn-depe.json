@@ -1,0 +1,37 @@
+{
+  "id": "site-altyn-depe",
+  "entity": "site",
+  "names": {
+    "zh": "阿尔登·德佩",
+    "en": "Altyn-Depe",
+    "native": "Altyn-Depe"
+  },
+  "kind_note": "BMAC urban centre",
+  "region": "Turkmenistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "BMAC 城市中心之一。",
+    "en": "One of the BMAC urban centres."
+  },
+  "sources": [
+    "src-bmac-pleiades-altyn-842000735",
+    "src-bmac-masse-vidale-orientation",
+    "src-bmac-hiebert-1994"
+  ],
+  "coordinates": {
+    "lat": 36.857748,
+    "lon": 60.432421,
+    "precision_note": "Pleiades place 842000735 (Altyn-Depe) representative point; CSV dump 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

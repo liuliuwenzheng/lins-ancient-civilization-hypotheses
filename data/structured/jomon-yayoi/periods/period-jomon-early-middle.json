@@ -1,0 +1,35 @@
+{
+  "id": "period-jomon-early-middle",
+  "entity": "period",
+  "names": {
+    "zh": "绳文早–中期窗",
+    "en": "Early–Middle Jōmon window"
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "time": {
+    "label": "Sannai occupation cited ca. 3900–2300 BCE in site materials (Habu)",
+    "approx_from_bce": 3900,
+    "approx_to_bce": 2300,
+    "scheme_note": "Site materials + Habu case study frame."
+  },
+  "summary": {
+    "zh": "三内等早中期窗。",
+    "en": "Early–Middle window incl. Sannai."
+  },
+  "sources": [
+    "src-jomon-habu-sannai-antiquity-2008",
+    "src-jomon-habu-ancient-jomon",
+    "src-jomon-sannai-official"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

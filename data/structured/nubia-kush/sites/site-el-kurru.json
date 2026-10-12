@@ -1,0 +1,37 @@
+{
+  "id": "site-el-kurru",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔·库鲁",
+    "en": "El-Kurru",
+    "native": "El-Kurru"
+  },
+  "kind_note": "Napatan royal cemetery",
+  "region": "Dongola Reach, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "纳帕塔王室墓地组成部分。",
+    "en": "Component of Napatan royal cemeteries."
+  },
+  "sources": [
+    "src-nubia-unesco-gebel-barkal-1073",
+    "src-nubia-dunham-barkal-orientation",
+    "src-nubia-welsby-1996"
+  ],
+  "coordinates": {
+    "lat": 18.41,
+    "lon": 31.771389,
+    "precision_note": "UNESCO WHC list 1073 component 1073-002 published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

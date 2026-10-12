@@ -1,0 +1,35 @@
+{
+  "id": "claim-teotihuacan-fsp-sacrifice",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Sugiyama 等发掘报告羽蛇金字塔相关的大规模祭祀埋藏（Sugiyama 传统）。",
+    "en": "Sugiyama and collaborators report large-scale sacrificial deposits associated with the Feathered Serpent Pyramid (Sugiyama tradition)."
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-ciudadela-fsp"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [
+    "asm-teotihuacan-fsp-sacrifices-frame"
+  ],
+  "sources": [
+    "src-teotihuacan-sugiyama-feathered-serpent",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

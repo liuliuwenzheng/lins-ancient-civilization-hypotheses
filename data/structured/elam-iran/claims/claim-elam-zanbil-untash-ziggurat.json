@@ -1,0 +1,35 @@
+{
+  "id": "claim-elam-zanbil-untash-ziggurat",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文与综合将恰高·占比尔（Dur-Untash）表述为中埃兰塔庙与相关圣区（UNESCO 113；Potts 2016）。",
+    "en": "UNESCO and syntheses frame Tchogha Zanbil (Dur-Untash) as a Middle Elamite ziggurat and sacred precinct (UNESCO 113; Potts 2016)."
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-tchogha-zanbil"
+  ],
+  "period_ids": [
+    "period-elam-middle"
+  ],
+  "object_ids": [
+    "asm-elam-zanbil-ziggurat-frame"
+  ],
+  "sources": [
+    "src-elam-unesco-tchogha-zanbil",
+    "src-elam-potts-2016"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

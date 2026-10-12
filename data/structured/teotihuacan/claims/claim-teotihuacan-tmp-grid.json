@@ -1,0 +1,36 @@
+{
+  "id": "claim-teotihuacan-tmp-grid",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Millon 测绘项目系统调查城市网格与地表采集，为都市规模提供关键证据（TMP；Antiquity data paper）。",
+    "en": "Millon’s Mapping Project systematically surveyed the city grid and surface collections, providing key evidence for urban scale (TMP; Antiquity data paper)."
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [
+    "asm-teotihuacan-urban-grid-frame"
+  ],
+  "sources": [
+    "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-tmp-antiquity-data",
+    "src-teotihuacan-tmp-data-paper"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

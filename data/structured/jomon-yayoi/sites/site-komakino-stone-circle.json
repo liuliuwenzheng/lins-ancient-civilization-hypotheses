@@ -1,0 +1,36 @@
+{
+  "id": "site-komakino-stone-circle",
+  "entity": "site",
+  "names": {
+    "zh": "小牧野环状列石",
+    "en": "Komakino Stone Circle",
+    "native": "小牧野"
+  },
+  "kind_note": "Jōmon stone circle; UNESCO component",
+  "region": "Aomori, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "教科文绳文遗址群组分。",
+    "en": "UNESCO Jōmon serial property component."
+  },
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-unesco-1632-maps"
+  ],
+  "coordinates": {
+    "lat": 40.7375,
+    "lon": 140.727778,
+    "precision_note": "UNESCO WHC list 1632 component 1632-012 published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-oaxaca-valley-survey-frame",
+  "entity": "site",
+  "names": {
+    "zh": "瓦哈卡谷地调查框架（指针）",
+    "en": "Valley of Oaxaca survey frame (orientation)",
+    "native": null
+  },
+  "kind_note": "survey-region",
+  "region": "Valley of Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "谷地聚落形态调查框架。",
+    "en": "Valley settlement-pattern survey frame."
+  },
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-blanton-feinman-kowalewski"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

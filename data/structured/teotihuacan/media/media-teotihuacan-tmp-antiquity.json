@@ -1,0 +1,32 @@
+{
+  "id": "media-teotihuacan-tmp-antiquity",
+  "entity": "media",
+  "title": {
+    "zh": "Antiquity：TMP 数据论文",
+    "en": "Antiquity: TMP data paper",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.cambridge.org/core/journals/antiquity/article/documenting-disseminating-and-archiving-data-from-the-teotihuacan-mapping-project/D86889A09A0496705424AE095F690FB1",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-tmp-antiquity-data"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Antiquity / Cambridge",
+    "upstream_url": "https://www.cambridge.org/core/journals/antiquity/article/documenting-disseminating-and-archiving-data-from-the-teotihuacan-mapping-project/D86889A09A0496705424AE095F690FB1",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

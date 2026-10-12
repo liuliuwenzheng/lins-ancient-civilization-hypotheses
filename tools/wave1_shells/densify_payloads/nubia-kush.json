@@ -1,0 +1,608 @@
+{
+  "civ_id": "civ-nubia-kush",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "努比亚/库施档案（library-seed-rich）：Edwards/Welsby + Kerma/纳帕塔/麦罗埃关键遗址与阶段窗；仍加厚中。",
+    "en": "Nubia/Kush archive (library-seed-rich): Edwards/Welsby + Kerma/Napata/Meroe keystone sites and phase windows; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-nubia-unesco-gebel-barkal-1073",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Gebel Barkal and the Sites of the Napatan Region. Inscribed 2003. https://whc.unesco.org/en/list/1073/",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "notes": "WHC orientation + published coordinates; tier T."
+    },
+    {
+      "id": "src-nubia-pleiades-meroe-805630",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Meroe (place 805630). https://pleiades.stoa.org/places/805630",
+      "url": "https://pleiades.stoa.org/places/805630",
+      "notes": "Gazetteer representative point."
+    },
+    {
+      "id": "src-nubia-pleiades-barkal-508356079",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Jebel Barkal (place 508356079). https://pleiades.stoa.org/places/508356079",
+      "url": "https://pleiades.stoa.org/places/508356079",
+      "notes": "Gazetteer mountain/site point."
+    },
+    {
+      "id": "src-nubia-pleiades-musawwarat-805632",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Musawwarat (place 805632). https://pleiades.stoa.org/places/805632",
+      "url": "https://pleiades.stoa.org/places/805632",
+      "notes": "Gazetteer point for Musawwarat es-Sufra."
+    },
+    {
+      "id": "src-nubia-pleiades-naqa-805635",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Naqa (place 805635). https://pleiades.stoa.org/places/805635",
+      "url": "https://pleiades.stoa.org/places/805635",
+      "notes": "Gazetteer point for Naqa."
+    },
+    {
+      "id": "src-nubia-torok-1997",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Török, László. 1997. The Kingdom of Kush: Handbook of the Napatan-Meroitic Civilization. Handbuch der Orientalistik. Leiden: Brill.",
+      "url": null,
+      "notes": "Major Napatan–Meroitic handbook; print; no page invention."
+    },
+    {
+      "id": "src-nubia-bonnet-honegger-kerma-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Bonnet, Charles; Honegger, Matthieu; and Swiss Archaeological Mission at Kerma — urban centre, deffufa, and cemetery publications.",
+      "url": null,
+      "notes": "Kerma capital excavation tradition; deepen with specific volumes later."
+    },
+    {
+      "id": "src-nubia-rilly-meroitic-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Rilly, Claude. Meroitic language and script publications (orientation for Meroitic epigraphy as archive medium).",
+      "url": null,
+      "notes": "Epigraphic orientation; not a grammar claim dump."
+    },
+    {
+      "id": "src-nubia-dunham-barkal-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Dunham, Dows. Napatan royal cemetery publications (Museum of Fine Arts, Boston / Gebel Barkal–Nuri–Kurru tradition).",
+      "url": null,
+      "notes": "Napatan royal cemetery memoir tradition pointer."
+    },
+    {
+      "id": "src-nubia-oxford-handbook-chapters-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Emberling & Williams eds. 2021. Oxford Handbook of Ancient Nubia — chapter-level orientation for Kerma, Napata, Meroe archaeology.",
+      "url": "https://doi.org/10.1093/oxfordhb/9780190496272.001.0001",
+      "notes": "Handbook already registered as volume; this id marks chapter-deepen track."
+    }
+  ],
+  "fill_coords": {
+    "site-meroe": {
+      "lat": 16.935183,
+      "lon": 33.7142,
+      "precision_note": "UNESCO WHC list 1336 component Meroe 1 town published DMS→decimal; access 2026-10-12"
+    },
+    "site-jebel-barkal": {
+      "lat": 18.537,
+      "lon": 31.828028,
+      "precision_note": "UNESCO WHC list 1073 component 1073-001 published DMS→decimal; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-el-kurru",
+      "names": {
+        "zh": "埃尔·库鲁",
+        "en": "El-Kurru",
+        "native": "El-Kurru"
+      },
+      "kind_note": "Napatan royal cemetery",
+      "region": "Dongola Reach, Sudan",
+      "coords": {
+        "lat": 18.41,
+        "lon": 31.771389,
+        "precision_note": "UNESCO WHC list 1073 component 1073-002 published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "纳帕塔王室墓地组成部分。",
+        "en": "Component of Napatan royal cemeteries."
+      },
+      "sources": [
+        "src-nubia-unesco-gebel-barkal-1073",
+        "src-nubia-dunham-barkal-orientation",
+        "src-nubia-welsby-1996"
+      ]
+    },
+    {
+      "id": "site-nuri",
+      "names": {
+        "zh": "努里",
+        "en": "Nuri",
+        "native": "Nuri"
+      },
+      "kind_note": "Napatan royal pyramid cemetery",
+      "region": "Dongola Reach, Sudan",
+      "coords": {
+        "lat": 18.563889,
+        "lon": 31.916667,
+        "precision_note": "UNESCO WHC list 1073 component 1073-003 published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "纳帕塔王室金字塔墓地。",
+        "en": "Napatan royal pyramid cemetery."
+      },
+      "sources": [
+        "src-nubia-unesco-gebel-barkal-1073",
+        "src-nubia-dunham-barkal-orientation",
+        "src-nubia-welsby-1996"
+      ]
+    },
+    {
+      "id": "site-musawwarat-es-sufra",
+      "names": {
+        "zh": "穆萨瓦拉特·苏弗拉",
+        "en": "Musawwarat es-Sufra",
+        "native": "Musawwarat"
+      },
+      "kind_note": "Meroitic temple complex",
+      "region": "Island of Meroe, Sudan",
+      "coords": {
+        "lat": 16.410817,
+        "lon": 33.328417,
+        "precision_note": "UNESCO WHC list 1336 component Musawwarat published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "麦罗埃期大型神庙建筑群。",
+        "en": "Large Meroitic temple complex."
+      },
+      "sources": [
+        "src-nubia-unesco-island-meroe-2011",
+        "src-nubia-pleiades-musawwarat-805632",
+        "src-nubia-welsby-1996"
+      ]
+    },
+    {
+      "id": "site-naqa",
+      "names": {
+        "zh": "纳卡",
+        "en": "Naqa",
+        "native": "Naqa"
+      },
+      "kind_note": "Meroitic temple/settlement centre",
+      "region": "Island of Meroe, Sudan",
+      "coords": {
+        "lat": 16.268683,
+        "lon": 33.273667,
+        "precision_note": "UNESCO WHC list 1336 component Naqa published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "麦罗埃期神庙与定居中心。",
+        "en": "Meroitic temple and settlement centre."
+      },
+      "sources": [
+        "src-nubia-unesco-island-meroe-2011",
+        "src-nubia-pleiades-naqa-805635",
+        "src-nubia-welsby-1996"
+      ]
+    },
+    {
+      "id": "site-sanam",
+      "names": {
+        "zh": "萨南",
+        "en": "Sanam",
+        "native": "Sanam"
+      },
+      "kind_note": "Napatan centre",
+      "region": "Dongola Reach, Sudan",
+      "coords": {
+        "lat": 18.482222,
+        "lon": 31.818889,
+        "precision_note": "UNESCO WHC list 1073 component 1073-004 published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "纳帕塔区组成部分。",
+        "en": "Napatan-region component site."
+      },
+      "sources": [
+        "src-nubia-unesco-gebel-barkal-1073",
+        "src-nubia-welsby-1996"
+      ]
+    },
+    {
+      "id": "site-kerma-eastern-cemetery-frame",
+      "names": {
+        "zh": "凯尔迈东部墓地框架（指针）",
+        "en": "Kerma eastern cemetery frame (orientation)",
+        "native": null
+      },
+      "kind_note": "cemetery survey frame",
+      "region": "Dongola Reach, Sudan",
+      "coords": null,
+      "summary": {
+        "zh": "凯尔迈王室/精英墓地框架指针；坐标待更稳地名词典。",
+        "en": "Kerma royal/elite cemetery frame; coords deferred pending cleaner gazetteer lock."
+      },
+      "sources": [
+        "src-nubia-bonnet-honegger-kerma-orientation",
+        "src-nubia-edwards-2004"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-nubia-kerma",
+      "names": {
+        "zh": "凯尔迈期",
+        "en": "Kerma period"
+      },
+      "time": {
+        "label": "Bronze Age Kerma kingdom floruit (Edwards/Bonnet frames)",
+        "approx_from_bce": 2500,
+        "approx_to_bce": 1500,
+        "scheme_note": "Coarse Kerma window; absolute debates open."
+      },
+      "summary": {
+        "zh": "凯尔迈青铜时代王国粗窗。",
+        "en": "Kerma Bronze Age kingdom coarse window."
+      },
+      "sources": [
+        "src-nubia-edwards-2004",
+        "src-nubia-bonnet-honegger-kerma-orientation"
+      ]
+    },
+    {
+      "id": "period-nubia-napatan",
+      "names": {
+        "zh": "纳帕塔期",
+        "en": "Napatan period"
+      },
+      "time": {
+        "label": "Napatan Kush / Twenty-Fifth Dynasty contexts (Welsby/Török frames)",
+        "approx_from_bce": 900,
+        "approx_to_bce": 300,
+        "scheme_note": "Napatan political–cemetery floruit; CE boundary deferred."
+      },
+      "summary": {
+        "zh": "纳帕塔政治—墓地繁荣窗。",
+        "en": "Napatan political–cemetery floruit window."
+      },
+      "sources": [
+        "src-nubia-welsby-1996",
+        "src-nubia-torok-1997",
+        "src-nubia-unesco-gebel-barkal-1073"
+      ]
+    },
+    {
+      "id": "period-nubia-meroitic",
+      "names": {
+        "zh": "麦罗埃期",
+        "en": "Meroitic period"
+      },
+      "time": {
+        "label": "Meroitic Kush floruit into ca. 4th c. CE (Edwards/Welsby)",
+        "approx_from_bce": 300,
+        "approx_to_bce": null,
+        "scheme_note": "approx_to_bce null; conventional end ~AD 350 noted in scheme only via label."
+      },
+      "summary": {
+        "zh": "麦罗埃期繁荣窗。",
+        "en": "Meroitic floruit window."
+      },
+      "sources": [
+        "src-nubia-edwards-2004",
+        "src-nubia-welsby-1996",
+        "src-nubia-unesco-island-meroe-2011"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-nubia-kerma-deffufa-frame",
+      "names": {
+        "zh": "凯尔迈德福法神庙土坯框架组合",
+        "en": "Kerma deffufa mudbrick temple frame assemblage"
+      },
+      "site_ids": [
+        "site-kerma"
+      ],
+      "period_ids": [
+        "period-nubia-kerma"
+      ],
+      "sources": [
+        "src-nubia-bonnet-honegger-kerma-orientation",
+        "src-nubia-edwards-2004"
+      ],
+      "summary": {
+        "zh": "西德福法等泥砖神庙体量指针。",
+        "en": "Western Deffufa-type mudbrick temple mass pointer."
+      }
+    },
+    {
+      "id": "asm-nubia-napatan-pyramids-frame",
+      "names": {
+        "zh": "纳帕塔王室金字塔框架组合",
+        "en": "Napatan royal pyramids frame assemblage"
+      },
+      "site_ids": [
+        "site-jebel-barkal",
+        "site-nuri",
+        "site-el-kurru"
+      ],
+      "period_ids": [
+        "period-nubia-napatan"
+      ],
+      "sources": [
+        "src-nubia-unesco-gebel-barkal-1073",
+        "src-nubia-dunham-barkal-orientation"
+      ],
+      "summary": {
+        "zh": "纳帕塔王室陵寝建筑指针。",
+        "en": "Napatan royal funerary architecture pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-nubia-kerma-deffufa-urban",
+      "kind": "fact",
+      "statement": {
+        "zh": "瑞士发掘传统将凯尔迈表述为含大型泥砖德福法神庙体量与相关城市/墓地布局的青铜时代中心（Bonnet/Honegger；Edwards 2004）。",
+        "en": "The Swiss excavation tradition frames Kerma as a Bronze Age centre with large mudbrick deffufa temple masses and related urban/cemetery layouts (Bonnet/Honegger; Edwards 2004)."
+      },
+      "site_ids": [
+        "site-kerma"
+      ],
+      "period_ids": [
+        "period-nubia-kerma"
+      ],
+      "sources": [
+        "src-nubia-bonnet-honegger-kerma-orientation",
+        "src-nubia-edwards-2004",
+        "src-nubia-bonnet-kerma-orientation"
+      ],
+      "object_ids": [
+        "asm-nubia-kerma-deffufa-frame"
+      ]
+    },
+    {
+      "id": "claim-nubia-barkal-unesco-napatan",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将杰贝尔·Barkal 与纳帕塔区遗址群列为纳帕塔期宗教—王室景观核心（UNESCO 1073）。",
+        "en": "UNESCO lists Gebel Barkal and Napatan-region sites as a core Napatan religious–royal landscape (UNESCO 1073)."
+      },
+      "site_ids": [
+        "site-jebel-barkal",
+        "site-el-kurru",
+        "site-nuri"
+      ],
+      "period_ids": [
+        "period-nubia-napatan"
+      ],
+      "sources": [
+        "src-nubia-unesco-gebel-barkal-1073",
+        "src-nubia-welsby-1996"
+      ],
+      "object_ids": [
+        "asm-nubia-napatan-pyramids-frame"
+      ]
+    },
+    {
+      "id": "claim-nubia-meroe-unesco-island",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将麦罗埃岛考古遗址群（含麦罗埃城址与金字塔墓地等）列为麦罗埃期关键遗产（UNESCO 1336）。",
+        "en": "UNESCO lists the Archaeological Sites of the Island of Meroe (including the town and pyramid cemeteries) as a key Meroitic property (UNESCO 1336)."
+      },
+      "site_ids": [
+        "site-meroe",
+        "site-musawwarat-es-sufra",
+        "site-naqa"
+      ],
+      "period_ids": [
+        "period-nubia-meroitic"
+      ],
+      "sources": [
+        "src-nubia-unesco-island-meroe-2011",
+        "src-nubia-welsby-1996"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nubia-musawwarat-temple-complex",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合与教科文将穆萨瓦拉特·苏弗拉表述为麦罗埃期大型神庙建筑群（UNESCO 1336；Welsby 1996）。",
+        "en": "Syntheses and UNESCO frame Musawwarat es-Sufra as a large Meroitic temple complex (UNESCO 1336; Welsby 1996)."
+      },
+      "site_ids": [
+        "site-musawwarat-es-sufra"
+      ],
+      "period_ids": [
+        "period-nubia-meroitic"
+      ],
+      "sources": [
+        "src-nubia-unesco-island-meroe-2011",
+        "src-nubia-welsby-1996",
+        "src-nubia-pleiades-musawwarat-805632"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nubia-naqa-temple-settlement",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合将纳卡表述为麦罗埃期神庙与定居中心之一（Welsby 1996；UNESCO 1336）。",
+        "en": "Syntheses frame Naqa as a Meroitic temple and settlement centre (Welsby 1996; UNESCO 1336)."
+      },
+      "site_ids": [
+        "site-naqa"
+      ],
+      "period_ids": [
+        "period-nubia-meroitic"
+      ],
+      "sources": [
+        "src-nubia-welsby-1996",
+        "src-nubia-unesco-island-meroe-2011",
+        "src-nubia-pleiades-naqa-805635"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nubia-napatan-royal-cemeteries",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘回忆录传统将库鲁、努里等墓地作为纳帕塔王室埋葬序列的关键证据（Dunham MFA 传统；UNESCO 1073）。",
+        "en": "Excavation memoir tradition treats cemeteries such as El-Kurru and Nuri as key evidence for Napatan royal burial sequences (Dunham MFA tradition; UNESCO 1073)."
+      },
+      "site_ids": [
+        "site-el-kurru",
+        "site-nuri"
+      ],
+      "period_ids": [
+        "period-nubia-napatan"
+      ],
+      "sources": [
+        "src-nubia-dunham-barkal-orientation",
+        "src-nubia-unesco-gebel-barkal-1073",
+        "src-nubia-welsby-1996"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nubia-meroitic-script-archive-medium",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究将麦罗埃文视为重建麦罗埃期行政与仪式实践的主要文字档案媒介之一（Rilly 传统；Török 1997）。",
+        "en": "Research treats Meroitic writing as a principal textual archive medium for reconstructing Meroitic administrative and ritual practice (Rilly tradition; Török 1997)."
+      },
+      "site_ids": [
+        "site-meroe"
+      ],
+      "period_ids": [
+        "period-nubia-meroitic"
+      ],
+      "sources": [
+        "src-nubia-rilly-meroitic-orientation",
+        "src-nubia-torok-1997"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nubia-long-sequence-edwards",
+      "kind": "fact",
+      "statement": {
+        "zh": "Edwards 综合将中尼罗表述为含凯尔迈、纳帕塔与麦罗埃等阶段的长时段考古序列（Edwards 2004）。",
+        "en": "Edwards’s synthesis frames the Middle Nile as a long archaeological sequence including Kerma, Napatan, and Meroitic phases (Edwards 2004)."
+      },
+      "site_ids": [
+        "site-kerma",
+        "site-meroe",
+        "site-jebel-barkal"
+      ],
+      "period_ids": [
+        "period-nubia-kush-overview"
+      ],
+      "sources": [
+        "src-nubia-edwards-2004",
+        "src-nubia-emberling-williams-2021"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nubia-twenty-fifth-dynasty-frame",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说/叙事框架：纳帕塔统治者在埃及第二十五王朝语境中的政治角色需与墓地—神庙证据分开审读（Welsby/Török）。",
+        "en": "Hypothesis/narrative frame: the political role of Napatan rulers in Twenty-Fifth Dynasty Egyptian contexts must be read separately from cemetery–temple evidence (Welsby/Török)."
+      },
+      "site_ids": [
+        "site-jebel-barkal"
+      ],
+      "period_ids": [
+        "period-nubia-napatan"
+      ],
+      "sources": [
+        "src-nubia-welsby-1996",
+        "src-nubia-torok-1997"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis/narrative: Egyptian Dyn. 25 political reconstruction is text-forward and debated; not a site-find fact claim."
+    },
+    {
+      "id": "claim-nubia-handbook-2021-orientation",
+      "kind": "fact",
+      "statement": {
+        "zh": "《牛津古代努比亚手册》提供凯尔迈至麦罗埃考古与史学的近期章节级入口（Emberling & Williams 2021）。",
+        "en": "The Oxford Handbook of Ancient Nubia provides a recent chapter-level entry to Kerma-through-Meroe archaeology and historiography (Emberling & Williams 2021)."
+      },
+      "site_ids": [
+        "site-kerma",
+        "site-meroe"
+      ],
+      "period_ids": [
+        "period-nubia-kush-overview"
+      ],
+      "sources": [
+        "src-nubia-emberling-williams-2021",
+        "src-nubia-oxford-handbook-chapters-orientation"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-nubia-unesco-meroe",
+      "title": {
+        "zh": "教科文：麦罗埃岛",
+        "en": "UNESCO: Island of Meroe",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/1336/",
+      "sources": [
+        "src-nubia-unesco-island-meroe-2011"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-nubia-unesco-barkal",
+      "title": {
+        "zh": "教科文：杰贝尔·Barkal",
+        "en": "UNESCO: Gebel Barkal",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/1073/",
+      "sources": [
+        "src-nubia-unesco-gebel-barkal-1073"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-nubia-pleiades-meroe",
+      "title": {
+        "zh": "Pleiades：麦罗埃",
+        "en": "Pleiades: Meroe",
+        "native": null
+      },
+      "external_url": "https://pleiades.stoa.org/places/805630",
+      "sources": [
+        "src-nubia-pleiades-meroe-805630"
+      ],
+      "attribution": "Pleiades / ISAW",
+      "media_type": "external-catalog"
+    }
+  ]
+}

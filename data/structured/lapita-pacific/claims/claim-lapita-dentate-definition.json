@@ -1,0 +1,36 @@
+{
+  "id": "claim-lapita-dentate-definition",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Green 等将拉皮塔文化复合体以齿印戳刺陶器等物质文化组合来界定（Green；Kirch）。",
+    "en": "Green and others define the Lapita Cultural Complex via dentate-stamped pottery and related assemblages (Green; Kirch)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-new-caledonia-type"
+  ],
+  "period_ids": [
+    "period-lapita-dispersal"
+  ],
+  "object_ids": [
+    "asm-lapita-dentate-pottery-frame"
+  ],
+  "sources": [
+    "src-lapita-green-definition",
+    "src-lapita-green-retrospective",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

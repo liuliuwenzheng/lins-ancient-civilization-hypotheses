@@ -1,0 +1,34 @@
+{
+  "id": "claim-elam-neo-elamite-into-achaemenid",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综述将新埃兰阶段置于阿契美尼德兴起之前的伊朗西南连续政治—文化序列中（Potts 2016）。",
+    "en": "Syntheses place Neo-Elamite in a continuous SW Iranian sequence preceding Achaemenid ascendancy (Potts 2016)."
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-susa",
+    "site-anshan-tall-e-malyan"
+  ],
+  "period_ids": [
+    "period-elam-neo"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-potts-2016",
+    "src-elam-alvarez-mon-elamite-world-2018"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

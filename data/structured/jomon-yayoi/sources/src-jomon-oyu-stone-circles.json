@@ -1,0 +1,19 @@
+{
+  "id": "src-jomon-oyu-stone-circles",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO / site portals for Ōyu Stone Circles component of Jōmon serial property (tier T).",
+  "url": "https://whc.unesco.org/en/list/1632/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "Component orientation within serial property.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

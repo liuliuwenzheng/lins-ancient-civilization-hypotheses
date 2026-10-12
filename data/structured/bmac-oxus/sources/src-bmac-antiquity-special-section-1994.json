@@ -1,0 +1,19 @@
+{
+  "id": "src-bmac-antiquity-special-section-1994",
+  "entity": "source",
+  "type": "article",
+  "citation": "Antiquity 68 (1994) Oxus Civilization special-section essays (Hiebert; Lamberg-Karlovsky framing).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Special-section framing already partly registered; deepen companion.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

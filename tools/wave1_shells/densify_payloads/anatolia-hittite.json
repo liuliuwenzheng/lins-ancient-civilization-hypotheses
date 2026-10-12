@@ -1,0 +1,574 @@
+{
+  "civ_id": "civ-anatolia-hittite",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "赫梯档案（library-seed-rich）：Bryce/Seeher + 哈图沙/阿拉贾/萨皮努瓦等遗址与王国—帝国窗；仍加厚中。",
+    "en": "Hittite archive (library-seed-rich): Bryce/Seeher + Hattusa/Alaca/Sapinuwa sites and kingdom–empire windows; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-hittite-pleiades-hattusa-283602441",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Hattusa (place 283602441). https://pleiades.stoa.org/places/283602441",
+      "url": "https://pleiades.stoa.org/places/283602441",
+      "notes": "Gazetteer representative point."
+    },
+    {
+      "id": "src-hittite-pleiades-alaca-991964195",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Alaca Höyük (place 991964195). https://pleiades.stoa.org/places/991964195",
+      "url": "https://pleiades.stoa.org/places/991964195",
+      "notes": "Gazetteer point."
+    },
+    {
+      "id": "src-hittite-pleiades-yazilikaya-478681498",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Yazılıkaya (Hattusa) (place 478681498). https://pleiades.stoa.org/places/478681498",
+      "url": "https://pleiades.stoa.org/places/478681498",
+      "notes": "Gazetteer point for rock sanctuary."
+    },
+    {
+      "id": "src-hittite-pleiades-sapinuwa-964671598",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Sapinuwa (place 964671598). https://pleiades.stoa.org/places/964671598",
+      "url": "https://pleiades.stoa.org/places/964671598",
+      "notes": "Gazetteer point for Ortaköy-Şapinuwa."
+    },
+    {
+      "id": "src-hittite-pleiades-kanes-58129442",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Kaneš (place 58129442). https://pleiades.stoa.org/places/58129442",
+      "url": "https://pleiades.stoa.org/places/58129442",
+      "notes": "Gazetteer point for Kültepe/Kaneš."
+    },
+    {
+      "id": "src-hittite-neve-hattusa-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Neve, Peter, and German Archaeological Institute Boğazköy-Hattuša excavation publications — capital architecture and temple district tradition.",
+      "url": null,
+      "notes": "DAI Hattusa excavation tradition pointer."
+    },
+    {
+      "id": "src-hittite-glatz-anatolia-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Glatz, Claudia. The Making of Empire in Bronze Age Anatolia (and related Anatolian archaeology syntheses) — regional landscape orientation.",
+      "url": null,
+      "notes": "Regional landscape synthesis orientation."
+    },
+    {
+      "id": "src-hittite-kuloglu-or-ortakoy-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Süel, Aygül / Süel, Mustafa and collaborators — Ortaköy-Şapinuwa excavation publications (Hittite provincial centre archives).",
+      "url": null,
+      "notes": "Sapinuwa excavation tradition pointer."
+    },
+    {
+      "id": "src-hittite-ozguc-kultepe-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Özgüç, Tahsin, and collaborators. Kültepe-Kaneš excavation publications — Old Assyrian trading colony and Anatolian centre.",
+      "url": null,
+      "notes": "Kültepe excavation tradition; no invented tablet numbers."
+    },
+    {
+      "id": "src-hittite-van-den-hout-text-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "van den Hout, Theo. Handbooks and surveys of Hittite scribal culture / tablet archives as textual archaeology orientation.",
+      "url": null,
+      "notes": "Textual-archive orientation complementary to Beckman tradition."
+    }
+  ],
+  "fill_coords": {
+    "site-hattusa": {
+      "lat": 40.013889,
+      "lon": 34.620556,
+      "precision_note": "UNESCO WHC list 377 component 377-001 published DMS→decimal; access 2026-10-12"
+    },
+    "site-alacahoyuk": {
+      "lat": 40.234485,
+      "lon": 34.695241,
+      "precision_note": "Pleiades place 991964195 (Alaca Höyük) representative point; CSV dump 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-yazilikaya",
+      "names": {
+        "zh": "亚兹利卡亚",
+        "en": "Yazılıkaya",
+        "native": "Yazılıkaya"
+      },
+      "kind_note": "Hittite rock sanctuary",
+      "region": "Çorum Province, Türkiye",
+      "coords": {
+        "lat": 40.024389,
+        "lon": 34.637722,
+        "precision_note": "UNESCO WHC list 377 component 377-002 published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "哈图沙相关岩刻圣所；教科文组分。",
+        "en": "Rock sanctuary associated with Hattusa; UNESCO component."
+      },
+      "sources": [
+        "src-hittite-unesco-hattusa",
+        "src-hittite-pleiades-yazilikaya-478681498",
+        "src-hittite-bryce-2005"
+      ]
+    },
+    {
+      "id": "site-sapinuwa-ortakoy",
+      "names": {
+        "zh": "萨皮努瓦（奥尔塔科伊）",
+        "en": "Sapinuwa (Ortaköy)",
+        "native": "Šapinuwa"
+      },
+      "kind_note": "Hittite provincial centre with archives",
+      "region": "Çorum region, Türkiye",
+      "coords": {
+        "lat": 40.254099,
+        "lon": 35.237424,
+        "precision_note": "Pleiades place 964671598 (Sapinuwa) representative point; CSV dump 2026-10-12"
+      },
+      "summary": {
+        "zh": "赫梯行省中心；泥板档案传统。",
+        "en": "Hittite provincial centre; tablet-archive tradition."
+      },
+      "sources": [
+        "src-hittite-pleiades-sapinuwa-964671598",
+        "src-hittite-kuloglu-or-ortakoy-orientation",
+        "src-hittite-bryce-2005"
+      ]
+    },
+    {
+      "id": "site-kultepe-kanes",
+      "names": {
+        "zh": "库尔泰佩（卡内什）",
+        "en": "Kültepe (Kaneš)",
+        "native": "Kaneš"
+      },
+      "kind_note": "Old Assyrian kārum / Anatolian centre",
+      "region": "Kayseri region, Türkiye",
+      "coords": {
+        "lat": 38.85006,
+        "lon": 35.637633,
+        "precision_note": "Pleiades place 58129442 (Kaneš) representative point; CSV dump 2026-10-12"
+      },
+      "summary": {
+        "zh": "古亚述商站与安纳托利亚中心；赫梯前史关键。",
+        "en": "Old Assyrian trading colony and Anatolian centre; key pre-Hittite archive."
+      },
+      "sources": [
+        "src-hittite-pleiades-kanes-58129442",
+        "src-hittite-ozguc-kultepe-orientation",
+        "src-hittite-bryce-2005"
+      ]
+    },
+    {
+      "id": "site-hattusa-lower-city-frame",
+      "names": {
+        "zh": "哈图沙下城框架（指针）",
+        "en": "Hattusa lower city frame (orientation)",
+        "native": null
+      },
+      "kind_note": "district orientation within capital",
+      "region": "Çorum Province, Türkiye",
+      "coords": null,
+      "summary": {
+        "zh": "都城下城街区框架指针；非整站点新坐标。",
+        "en": "Lower-city district frame within the capital; not a separate gazetteer point."
+      },
+      "sources": [
+        "src-hittite-neve-hattusa-orientation",
+        "src-hittite-seeher-hattusa-2006",
+        "src-hittite-unesco-hattusa"
+      ]
+    },
+    {
+      "id": "site-hattusa-temple-district-frame",
+      "names": {
+        "zh": "哈图沙神庙区框架（指针）",
+        "en": "Hattusa temple district frame (orientation)",
+        "native": null
+      },
+      "kind_note": "sanctuary district orientation",
+      "region": "Çorum Province, Türkiye",
+      "coords": null,
+      "summary": {
+        "zh": "都城神庙区框架指针。",
+        "en": "Temple-district frame within Hattusa."
+      },
+      "sources": [
+        "src-hittite-neve-hattusa-orientation",
+        "src-hittite-seeher-hattusa-2006"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-hittite-old-kingdom",
+      "names": {
+        "zh": "赫梯古王国窗",
+        "en": "Hittite Old Kingdom window"
+      },
+      "time": {
+        "label": "ca. 17th–15th c. BCE (Bryce narrative frame)",
+        "approx_from_bce": 1650,
+        "approx_to_bce": 1400,
+        "scheme_note": "Political-narrative chronology; absolute debates open."
+      },
+      "summary": {
+        "zh": "古王国政治叙事窗。",
+        "en": "Old Kingdom political-narrative window."
+      },
+      "sources": [
+        "src-hittite-bryce-2005",
+        "src-hittite-collins-2007"
+      ]
+    },
+    {
+      "id": "period-hittite-empire",
+      "names": {
+        "zh": "赫梯帝国窗",
+        "en": "Hittite Empire window"
+      },
+      "time": {
+        "label": "ca. 14th–early 12th c. BCE (Bryce)",
+        "approx_from_bce": 1400,
+        "approx_to_bce": 1180,
+        "scheme_note": "Empire floruit into collapse debates."
+      },
+      "summary": {
+        "zh": "帝国繁荣至崩溃讨论窗。",
+        "en": "Empire floruit into collapse-discussion window."
+      },
+      "sources": [
+        "src-hittite-bryce-2005",
+        "src-hittite-seeher-hattusa-2006"
+      ]
+    },
+    {
+      "id": "period-anatolia-assyrian-colony",
+      "names": {
+        "zh": "安纳托利亚亚述商站窗",
+        "en": "Anatolian Assyrian Colony window"
+      },
+      "time": {
+        "label": "ca. 20th–18th c. BCE Kaneš kārum floruit (Özgüç tradition)",
+        "approx_from_bce": 2000,
+        "approx_to_bce": 1700,
+        "scheme_note": "Pre-Hittite Kaneš archive window."
+      },
+      "summary": {
+        "zh": "卡内什商站繁荣窗。",
+        "en": "Kaneš kārum floruit window."
+      },
+      "sources": [
+        "src-hittite-ozguc-kultepe-orientation",
+        "src-hittite-bryce-2005"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-hattusa-temple-district-frame",
+      "names": {
+        "zh": "哈图沙神庙区建筑框架组合",
+        "en": "Hattusa temple-district architecture frame assemblage"
+      },
+      "site_ids": [
+        "site-hattusa"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-neve-hattusa-orientation",
+        "src-hittite-unesco-hattusa"
+      ],
+      "summary": {
+        "zh": "都城神庙区建筑指针。",
+        "en": "Capital temple-district architecture pointer."
+      }
+    },
+    {
+      "id": "asm-yazilikaya-relief-frame",
+      "names": {
+        "zh": "亚兹利卡亚岩刻框架组合",
+        "en": "Yazılıkaya rock-relief frame assemblage"
+      },
+      "site_ids": [
+        "site-yazilikaya"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-unesco-hattusa",
+        "src-hittite-bryce-2005"
+      ],
+      "summary": {
+        "zh": "岩刻圣所图像程序指针；无伪造编号。",
+        "en": "Rock-sanctuary image-program pointer; no forged numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-hittite-hattusa-unesco-capital",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将哈图沙定为赫梯都城世界遗产，并含亚兹利卡亚等组分（UNESCO 377）。",
+        "en": "UNESCO lists Hattusa as the Hittite capital World Heritage property, including components such as Yazılıkaya (UNESCO 377)."
+      },
+      "site_ids": [
+        "site-hattusa",
+        "site-yazilikaya"
+      ],
+      "period_ids": [
+        "period-hittite-kingdom-empire"
+      ],
+      "sources": [
+        "src-hittite-unesco-hattusa",
+        "src-hittite-bryce-2005"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-hittite-yazilikaya-rock-sanctuary",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文与综合将亚兹利卡亚表述为与哈图沙相关的岩刻圣所（UNESCO 377；Bryce 2005）。",
+        "en": "UNESCO and syntheses frame Yazılıkaya as a rock sanctuary associated with Hattusa (UNESCO 377; Bryce 2005)."
+      },
+      "site_ids": [
+        "site-yazilikaya"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-unesco-hattusa",
+        "src-hittite-bryce-2005",
+        "src-hittite-pleiades-yazilikaya-478681498"
+      ],
+      "object_ids": [
+        "asm-yazilikaya-relief-frame"
+      ]
+    },
+    {
+      "id": "claim-hittite-tablet-archives-reconstruction",
+      "kind": "fact",
+      "statement": {
+        "zh": "泥板档案与语文学传统是重建赫梯政治史与仪礼实践的核心证据之一（Bryce；Beckman；van den Hout）。",
+        "en": "Tablet archives and philological tradition are core evidence for reconstructing Hittite political history and ritual practice (Bryce; Beckman; van den Hout)."
+      },
+      "site_ids": [
+        "site-hattusa"
+      ],
+      "period_ids": [
+        "period-hittite-kingdom-empire"
+      ],
+      "sources": [
+        "src-hittite-bryce-2005",
+        "src-hittite-beckman-text-orientation",
+        "src-hittite-van-den-hout-text-orientation"
+      ],
+      "object_ids": [
+        "asm-hattusa-archives-frame"
+      ]
+    },
+    {
+      "id": "claim-hittite-sapinuwa-provincial-archives",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘传统将奥尔塔科伊—萨皮努瓦表述为出土大量泥板的赫梯行省中心（Süel 传统；Bryce）。",
+        "en": "Excavation tradition frames Ortaköy-Şapinuwa as a Hittite provincial centre that yielded substantial tablet finds (Süel tradition; Bryce)."
+      },
+      "site_ids": [
+        "site-sapinuwa-ortakoy"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-kuloglu-or-ortakoy-orientation",
+        "src-hittite-bryce-2005",
+        "src-hittite-pleiades-sapinuwa-964671598"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-hittite-kanes-karum-archives",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘传统将库尔泰佩—卡内什表述为古亚述商站（kārum）泥板档案与安纳托利亚中心（Özgüç 传统）。",
+        "en": "Excavation tradition frames Kültepe-Kaneš as an Old Assyrian kārum tablet archive and Anatolian centre (Özgüç tradition)."
+      },
+      "site_ids": [
+        "site-kultepe-kanes"
+      ],
+      "period_ids": [
+        "period-anatolia-assyrian-colony"
+      ],
+      "sources": [
+        "src-hittite-ozguc-kultepe-orientation",
+        "src-hittite-pleiades-kanes-58129442",
+        "src-hittite-bryce-2005"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-hittite-alaca-elite-tombs",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合将阿拉贾霍尤克早王朝精英墓与其后赫梯期遗存一并讨论为中安纳托利亚序列要点（Bryce；Collins）。",
+        "en": "Syntheses discuss Alacahöyük early elite tombs and later Hittite-period remains as points in the central Anatolian sequence (Bryce; Collins)."
+      },
+      "site_ids": [
+        "site-alacahoyuk"
+      ],
+      "period_ids": [
+        "period-hittite-old-kingdom"
+      ],
+      "sources": [
+        "src-hittite-bryce-2005",
+        "src-hittite-collins-2007",
+        "src-hittite-pleiades-alaca-991964195"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-hittite-hattusa-urban-chronology",
+      "kind": "fact",
+      "statement": {
+        "zh": "Seeher 等讨论为哈图沙城市地层与绝对年代提供新方法入口（Seeher 2006；Neve/DAI 传统）。",
+        "en": "Seeher and related work provide methodological entry points to Hattusa urban stratigraphy and absolute chronology (Seeher 2006; Neve/DAI tradition)."
+      },
+      "site_ids": [
+        "site-hattusa"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-seeher-hattusa-2006",
+        "src-hittite-neve-hattusa-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-hittite-empire-collapse-frame",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说/叙事：帝国末期崩溃的绝对年代与因果（自然灾害、迁徙、内政）仍高度争议，需与地层证据分开（Bryce 叙事语境）。",
+        "en": "Hypothesis/narrative: absolute dating and causes of terminal empire collapse (disaster, migration, internal politics) remain highly debated and must be separated from stratified evidence (Bryce narrative context)."
+      },
+      "site_ids": [
+        "site-hattusa"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-bryce-2005",
+        "src-hittite-seeher-hattusa-2006"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis/narrative: LBA collapse causal models are debated; not a site-find fact."
+    },
+    {
+      "id": "claim-hittite-temple-district-architecture",
+      "kind": "fact",
+      "statement": {
+        "zh": "DAI 发掘传统记录哈图沙神庙区大型建筑布局作为都城仪礼核心证据（Neve 传统；UNESCO 377）。",
+        "en": "DAI excavation tradition documents large-scale temple-district architecture as evidence for the capital’s ritual core (Neve tradition; UNESCO 377)."
+      },
+      "site_ids": [
+        "site-hattusa"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-neve-hattusa-orientation",
+        "src-hittite-unesco-hattusa"
+      ],
+      "object_ids": [
+        "asm-hattusa-temple-district-frame"
+      ]
+    },
+    {
+      "id": "claim-hittite-landscape-empire-orientation",
+      "kind": "fact",
+      "statement": {
+        "zh": "区域景观研究将赫梯权力置于安纳托利亚青铜时代景观与聚落网络中讨论（Glatz 取向）。",
+        "en": "Regional landscape research discusses Hittite power within Bronze Age Anatolian landscapes and settlement networks (Glatz orientation)."
+      },
+      "site_ids": [
+        "site-hattusa",
+        "site-sapinuwa-ortakoy"
+      ],
+      "period_ids": [
+        "period-hittite-empire"
+      ],
+      "sources": [
+        "src-hittite-glatz-anatolia-orientation",
+        "src-hittite-bryce-2005"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-hittite-unesco-hattusa",
+      "title": {
+        "zh": "教科文：哈图沙",
+        "en": "UNESCO: Hattusha",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/377/",
+      "sources": [
+        "src-hittite-unesco-hattusa"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-hittite-pleiades-hattusa",
+      "title": {
+        "zh": "Pleiades：哈图沙",
+        "en": "Pleiades: Hattusa",
+        "native": null
+      },
+      "external_url": "https://pleiades.stoa.org/places/283602441",
+      "sources": [
+        "src-hittite-pleiades-hattusa-283602441"
+      ],
+      "attribution": "Pleiades / ISAW",
+      "media_type": "external-catalog"
+    },
+    {
+      "id": "media-hittite-pleiades-yazilikaya",
+      "title": {
+        "zh": "Pleiades：亚兹利卡亚",
+        "en": "Pleiades: Yazılıkaya",
+        "native": null
+      },
+      "external_url": "https://pleiades.stoa.org/places/478681498",
+      "sources": [
+        "src-hittite-pleiades-yazilikaya-478681498"
+      ],
+      "attribution": "Pleiades / ISAW",
+      "media_type": "external-catalog"
+    }
+  ]
+}

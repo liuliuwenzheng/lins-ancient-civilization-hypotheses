@@ -2,7 +2,7 @@
   "id": "civ-levant-ugarit",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "黎凡特 / 乌加里特",
     "en": "Levant / Ugarit",
@@ -11,27 +11,57 @@
   "region": "Southwest Asia / northern Levantine coast (Syria)",
   "time_span": "Late Bronze Age floruit ca. 14th–early 12th c. BCE at Ras Shamra–Ugarit (Yon 2006 frame)",
   "summary": {
-    "zh": "乌加里特档案壳：Yon 综述 + Ras Shamra；library-seed。",
-    "en": "Ugarit archive shell: Yon synthesis + Ras Shamra; library-seed."
+    "zh": "乌加里特档案（library-seed-rich）：Yon/Schaeffer + Ras Shamra/外港与晚青铜档案窗；仍加厚中。",
+    "en": "Ugarit archive (library-seed-rich): Yon/Schaeffer + Ras Shamra/port and LBA archive windows; still thickening."
   },
   "sources": [
-    "src-ugarit-yon-2006",
-    "src-ugarit-schaeffer-orientation",
-    "src-ugarit-watson-wyatt-1999",
+    "src-ugarit-bordreuil-pardee-manual",
+    "src-ugarit-courtois-orientation",
+    "src-ugarit-dietrich-lorez-orientation",
+    "src-ugarit-freu-political-orientation",
+    "src-ugarit-lackenbacher-malbran-orientation",
+    "src-ugarit-matoian-orientation",
     "src-ugarit-pardee-text-orientation",
-    "src-ugarit-singer-political-orientation"
+    "src-ugarit-persee-schaeffer-crai",
+    "src-ugarit-saade-geography-orientation",
+    "src-ugarit-schaeffer-orientation",
+    "src-ugarit-singer-political-orientation",
+    "src-ugarit-van-soldt-archives-orientation",
+    "src-ugarit-watson-wyatt-1999",
+    "src-ugarit-yon-2006",
+    "src-ugarit-yon-mission-overview"
   ],
   "site_ids": [
+    "site-minet-el-beida",
+    "site-ras-ibn-hani-orientation",
     "site-ras-shamra-ugarit",
-    "site-minet-el-beida"
+    "site-ugarit-acropolis-temples-frame",
+    "site-ugarit-kingdom-territory-frame",
+    "site-ugarit-royal-palace-frame",
+    "site-ugarit-south-palace-archives-frame"
   ],
   "period_ids": [
-    "period-ugarit-lba-floruit"
+    "period-ugarit-destruction",
+    "period-ugarit-international-age",
+    "period-ugarit-lba-floruit",
+    "period-ugarit-mba-lba-transition"
   ],
   "claim_ids": [
-    "claim-ugarit-ras-shamra-capital"
+    "claim-ugarit-akkadian-international-letters",
+    "claim-ugarit-alphabetic-cuneiform-corpus",
+    "claim-ugarit-archive-topography",
+    "claim-ugarit-destruction-horizon",
+    "claim-ugarit-handbook-studies",
+    "claim-ugarit-kingdom-territory",
+    "claim-ugarit-minet-port",
+    "claim-ugarit-ras-shamra-capital",
+    "claim-ugarit-schaeffer-founding-excavation",
+    "claim-ugarit-sea-peoples-hypothesis",
+    "claim-ugarit-yon-city-layout"
   ],
   "object_ids": [
+    "asm-ugarit-akkadian-letters-frame",
+    "asm-ugarit-alphabetic-cuneiform-frame",
     "asm-ugarit-tablet-archives-frame"
   ],
   "related_ids": [
@@ -43,10 +73,11 @@
   "markdown_path": "data/civilizations/civ-levant-ugarit.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

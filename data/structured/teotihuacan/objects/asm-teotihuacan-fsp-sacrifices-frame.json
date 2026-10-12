@@ -1,0 +1,43 @@
+{
+  "id": "asm-teotihuacan-fsp-sacrifices-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "羽蛇金字塔祭祀埋藏框架组合",
+    "en": "Feathered Serpent Pyramid sacrificial-deposits frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-ciudadela-fsp"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "summary": {
+    "zh": "祭祀埋藏发掘传统指针；无伪造个体编号。",
+    "en": "Sacrificial-deposit excavation tradition pointer; no forged individual numbers."
+  },
+  "sources": [
+    "src-teotihuacan-sugiyama-feathered-serpent",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

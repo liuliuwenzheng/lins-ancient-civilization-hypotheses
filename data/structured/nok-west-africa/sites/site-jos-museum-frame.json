@@ -1,0 +1,32 @@
+{
+  "id": "site-jos-museum-frame",
+  "entity": "site",
+  "names": {
+    "zh": "乔斯博物馆藏品框架（指针）",
+    "en": "Jos Museum holdings frame (orientation)",
+    "native": null
+  },
+  "kind_note": "museum assemblage orientation",
+  "region": "Jos, Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "博物馆藏品框架；非田野点坐标。",
+    "en": "Museum holdings frame; not a field coordinate."
+  },
+  "sources": [
+    "src-nok-terracotta-style-orientation",
+    "src-nok-jemaa-terracotta-tradition"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

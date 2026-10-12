@@ -1,0 +1,43 @@
+{
+  "id": "asm-bmac-gonur-palace-temple-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "戈努尔宫殿—神庙框架组合",
+    "en": "Gonur palace–temple frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "summary": {
+    "zh": "绿洲中心大型建筑指针；无伪造平面编号。",
+    "en": "Oasis-centre monumental architecture pointer; no forged plan numbers."
+  },
+  "sources": [
+    "src-bmac-sarianidi-gonur-orientation",
+    "src-bmac-hiebert-1994"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

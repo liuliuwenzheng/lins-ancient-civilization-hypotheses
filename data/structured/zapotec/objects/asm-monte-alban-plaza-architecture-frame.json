@@ -1,0 +1,43 @@
+{
+  "id": "asm-monte-alban-plaza-architecture-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "蒙特·阿尔班主广场建筑框架组合",
+    "en": "Monte Albán Main Plaza architecture frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "summary": {
+    "zh": "主广场建筑群指针。",
+    "en": "Main Plaza architectural group pointer."
+  },
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-unesco-monte-alban-415"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-yayoi-paddy-field-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "弥生水田框架组合",
+    "en": "Yayoi paddy-field frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-itazuke-orientation",
+    "site-yoshinogari-orientation"
+  ],
+  "period_ids": [
+    "period-yayoi"
+  ],
+  "summary": {
+    "zh": "水田遗迹传统指针。",
+    "en": "Paddy-field remains tradition pointer."
+  },
+  "sources": [
+    "src-yayoi-wet-rice-orientation",
+    "src-yayoi-barnes-archaeology-japan"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

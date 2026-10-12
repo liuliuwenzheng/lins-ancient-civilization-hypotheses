@@ -1,0 +1,32 @@
+{
+  "id": "site-bourewa-or-fiji-frame",
+  "entity": "site",
+  "names": {
+    "zh": "斐济早期拉皮塔框架（指针）",
+    "en": "Fiji early Lapita frame (orientation)",
+    "native": null
+  },
+  "kind_note": "archipelago frame",
+  "region": "Fiji",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "斐济早期拉皮塔遗址群框架。",
+    "en": "Fiji early Lapita site-group frame."
+  },
+  "sources": [
+    "src-lapita-teinturier-or-fiji-orientation",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

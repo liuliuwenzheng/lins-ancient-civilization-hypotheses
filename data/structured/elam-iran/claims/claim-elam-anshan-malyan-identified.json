@@ -1,0 +1,34 @@
+{
+  "id": "claim-elam-anshan-malyan-identified",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘传统将 Tall-e Malyan 认定为文献中的安善高地中心（Sumner 传统；Potts 2016）。",
+    "en": "Excavation tradition identifies Tall-e Malyan as highland Anshan known from texts (Sumner tradition; Potts 2016)."
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-anshan-tall-e-malyan"
+  ],
+  "period_ids": [
+    "period-elam-overview"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-sumner-malyan-orientation",
+    "src-elam-potts-2016",
+    "src-elam-carter-stolper-1984"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-hattusa-temple-district-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "哈图沙神庙区建筑框架组合",
+    "en": "Hattusa temple-district architecture frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [
+    "period-hittite-empire"
+  ],
+  "summary": {
+    "zh": "都城神庙区建筑指针。",
+    "en": "Capital temple-district architecture pointer."
+  },
+  "sources": [
+    "src-hittite-neve-hattusa-orientation",
+    "src-hittite-unesco-hattusa"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

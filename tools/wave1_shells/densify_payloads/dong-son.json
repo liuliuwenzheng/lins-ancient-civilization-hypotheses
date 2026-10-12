@@ -1,0 +1,518 @@
+{
+  "civ_id": "civ-dong-son",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "东山档案（library-seed-rich）：Higham/Calò + 清化类型地/古螺与青铜鼓传统；仍加厚中。",
+    "en": "Đông Sơn archive (library-seed-rich): Higham/Calò + Thanh Hóa type-site/Cổ Loa and bronze-drum tradition; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-dongson-higham-early-mainland",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Higham, Charles. Early Mainland Southeast Asia / later SEA archaeology syntheses updating Bronze Age frames.",
+      "url": null,
+      "notes": "Later Higham synthesis orientation."
+    },
+    {
+      "id": "src-dongson-calo-drums-deepen",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Calò, Ambra. 2009. The Distribution of Bronze Drums in Early Southeast Asia (BAR) — drum distribution deepen.",
+      "url": null,
+      "notes": "Drum distribution study already registered; deepen track."
+    },
+    {
+      "id": "src-dongson-solheim-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Solheim, Wilhelm G. II — early essays on Southeast Asian bronze drums and interaction spheres (historiography orientation).",
+      "url": null,
+      "notes": "Historiographic orientation."
+    },
+    {
+      "id": "src-dongson-imamura-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Imamura, Keiji / Japanese SEA archaeology syntheses discussing Đông Sơn drums and metallurgy.",
+      "url": null,
+      "notes": "Metallurgy/drums orientation."
+    },
+    {
+      "id": "src-dongson-vietnam-institute-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Institute of Archaeology (Vietnam) / provincial museum reports on Đông Sơn type-site and Red River Delta cemeteries.",
+      "url": null,
+      "notes": "Vietnamese national excavation tradition pointer."
+    },
+    {
+      "id": "src-dongson-co-loa-kim-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Kim, Nam C., and collaborators — Cổ Loa fortification and early historic transition publications.",
+      "url": null,
+      "notes": "Cổ Loa excavation/survey orientation."
+    },
+    {
+      "id": "src-dongson-han-period-transition",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Syntheses on late Đông Sơn / early Chinese imperial contact in the Red River Delta (orientation).",
+      "url": null,
+      "notes": "Transition orientation; not Han political history dump."
+    },
+    {
+      "id": "src-dongson-persee-drums",
+      "type": "article",
+      "tier": "S",
+      "citation": "Arts Asiatiques / Persée essays on Đông Sơn drums as regalia or ritual instruments.",
+      "url": "https://www.persee.fr/doc/arasi_0004-3958_1991_num_46_1_1300",
+      "notes": "Drum interpretation OA orientation."
+    },
+    {
+      "id": "src-dongson-bellwood-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bellwood, Peter. Prehistory of the Indo-Malaysian Archipelago / SEA chapters touching mainland bronze exchange.",
+      "url": null,
+      "notes": "Broader SEA prehistory orientation."
+    },
+    {
+      "id": "src-dongson-nguyen-drum-typology",
+      "type": "article",
+      "tier": "S",
+      "citation": "Vietnamese typological studies of Heger-type bronze drums (Đông Sơn drum typology orientation).",
+      "url": null,
+      "notes": "Typology orientation; no forged museum numbers."
+    }
+  ],
+  "fill_coords": {},
+  "sites": [
+    {
+      "id": "site-viet-khe-orientation",
+      "names": {
+        "zh": "越溪（指针）",
+        "en": "Việt Khê (orientation)",
+        "native": "Việt Khê"
+      },
+      "kind_note": "Boat-burial / rich bronze cemetery often cited for Đông Sơn",
+      "region": "Hai Phong region, Vietnam",
+      "coords": null,
+      "summary": {
+        "zh": "东山富集青铜墓地指针。",
+        "en": "Rich Đông Sơn bronze cemetery orientation."
+      },
+      "sources": [
+        "src-dongson-vietnam-excavation-orientation",
+        "src-dongson-vietnam-institute-orientation",
+        "src-dongson-higham-bronze-age-sea-1996"
+      ]
+    },
+    {
+      "id": "site-lang-vac-orientation",
+      "names": {
+        "zh": "朗瓦（指针）",
+        "en": "Lang Vạc (orientation)",
+        "native": "Lang Vạc"
+      },
+      "kind_note": "Đông Sơn cemetery/settlement locality",
+      "region": "Nghệ An region, Vietnam",
+      "coords": null,
+      "summary": {
+        "zh": "东山墓地/定居点指针。",
+        "en": "Đông Sơn cemetery/settlement orientation."
+      },
+      "sources": [
+        "src-dongson-vietnam-institute-orientation",
+        "src-dongson-higham-bronze-age-sea-1996"
+      ]
+    },
+    {
+      "id": "site-chau-can-orientation",
+      "names": {
+        "zh": "周干（指针）",
+        "en": "Châu Can (orientation)",
+        "native": "Châu Can"
+      },
+      "kind_note": "Boat-coffin cemetery discussed in Đông Sơn mortuary studies",
+      "region": "Red River Delta, Vietnam",
+      "coords": null,
+      "summary": {
+        "zh": "船棺墓地指针。",
+        "en": "Boat-coffin cemetery orientation."
+      },
+      "sources": [
+        "src-dongson-vietnam-institute-orientation",
+        "src-dongson-higham-orientation-later"
+      ]
+    },
+    {
+      "id": "site-red-river-delta-frame",
+      "names": {
+        "zh": "红河三角洲框架（指针）",
+        "en": "Red River Delta frame (orientation)",
+        "native": null
+      },
+      "kind_note": "survey-region",
+      "region": "Northern Vietnam",
+      "coords": null,
+      "summary": {
+        "zh": "东山核心区域框架。",
+        "en": "Đông Sơn core-region frame."
+      },
+      "sources": [
+        "src-dongson-higham-bronze-age-sea-1996",
+        "src-dongson-higham-early-mainland"
+      ]
+    },
+    {
+      "id": "site-drum-exchange-sphere-frame",
+      "names": {
+        "zh": "青铜鼓交换圈框架（指针）",
+        "en": "Bronze-drum exchange-sphere frame (orientation)",
+        "native": null
+      },
+      "kind_note": "exchange-sphere orientation",
+      "region": "Mainland and Island Southeast Asia",
+      "coords": null,
+      "summary": {
+        "zh": "Calò 鼓分布交换圈框架；非单点。",
+        "en": "Calò drum-distribution exchange-sphere frame; not a site point."
+      },
+      "sources": [
+        "src-dongson-calo-bronze-drums-2009",
+        "src-dongson-calo-drums-deepen"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-dong-son-early-bronze",
+      "names": {
+        "zh": "东山早期青铜窗",
+        "en": "Đông Sơn early bronze window"
+      },
+      "time": {
+        "label": "early–mid 1st millennium BCE working floruit (Higham)",
+        "approx_from_bce": 1000,
+        "approx_to_bce": 500,
+        "scheme_note": "Early bronze working band."
+      },
+      "summary": {
+        "zh": "早期青铜工作窗。",
+        "en": "Early bronze working window."
+      },
+      "sources": [
+        "src-dongson-higham-bronze-age-sea-1996",
+        "src-dongson-higham-early-mainland"
+      ]
+    },
+    {
+      "id": "period-dong-son-classic-drums",
+      "names": {
+        "zh": "东山经典铜鼓窗",
+        "en": "Đông Sơn classic drums window"
+      },
+      "time": {
+        "label": "mid–late 1st millennium BCE drum floruit (Calò/Higham)",
+        "approx_from_bce": 500,
+        "approx_to_bce": 100,
+        "scheme_note": "Drum typological floruit."
+      },
+      "summary": {
+        "zh": "铜鼓类型学繁荣窗。",
+        "en": "Drum typological floruit window."
+      },
+      "sources": [
+        "src-dongson-calo-bronze-drums-2009",
+        "src-dongson-nguyen-drum-typology"
+      ]
+    },
+    {
+      "id": "period-dong-son-late-transition",
+      "names": {
+        "zh": "东山晚期—早期历史过渡窗",
+        "en": "Đông Sơn late / early historic transition"
+      },
+      "time": {
+        "label": "late 1st millennium BCE–early centuries CE (Cổ Loa debates)",
+        "approx_from_bce": 100,
+        "approx_to_bce": null,
+        "scheme_note": "Transition into early historic; approx_to null."
+      },
+      "summary": {
+        "zh": "晚期过渡窗。",
+        "en": "Late transition window."
+      },
+      "sources": [
+        "src-dongson-co-loa-kim-orientation",
+        "src-dongson-han-period-transition"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-dong-son-heger-drums-frame",
+      "names": {
+        "zh": "Heger 型东山铜鼓框架组合",
+        "en": "Heger-type Đông Sơn drums frame assemblage"
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-calo-bronze-drums-2009",
+        "src-dongson-nguyen-drum-typology",
+        "src-dongson-higham-bronze-age-sea-1996"
+      ],
+      "summary": {
+        "zh": "Heger 型铜鼓类型学指针；无伪造馆藏号。",
+        "en": "Heger-type drum typology pointer; no forged catalog numbers."
+      }
+    },
+    {
+      "id": "asm-dong-son-boat-burial-frame",
+      "names": {
+        "zh": "东山船棺葬框架组合",
+        "en": "Đông Sơn boat-burial frame assemblage"
+      },
+      "site_ids": [
+        "site-viet-khe-orientation",
+        "site-chau-can-orientation"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-vietnam-institute-orientation",
+        "src-dongson-higham-bronze-age-sea-1996"
+      ],
+      "summary": {
+        "zh": "船棺/富集青铜葬俗指针。",
+        "en": "Boat-coffin / rich bronze mortuary pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-dong-son-type-site-thanh-hoa",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究将清化东山遗址作为东山文化命名类型地（Higham；越南发掘传统）。",
+        "en": "Research treats the Đông Sơn site in Thanh Hóa as the name-giving type-site (Higham; Vietnamese excavation tradition)."
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-bronze-iron"
+      ],
+      "sources": [
+        "src-dongson-higham-bronze-age-sea-1996",
+        "src-dongson-vietnam-excavation-orientation",
+        "src-dongson-vietnam-institute-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-dong-son-bronze-drum-distribution",
+      "kind": "fact",
+      "statement": {
+        "zh": "Calò 研究青铜鼓在早期东南亚的分布，并讨论贸易路线与文化圈（Calò 2009）。",
+        "en": "Calò studies bronze-drum distribution across early Southeast Asia and discusses trade routes and cultural spheres (Calò 2009)."
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-calo-bronze-drums-2009",
+        "src-dongson-calo-drums-deepen"
+      ],
+      "object_ids": [
+        "asm-dong-son-bronze-drums-frame"
+      ]
+    },
+    {
+      "id": "claim-dong-son-heger-typology",
+      "kind": "fact",
+      "statement": {
+        "zh": "类型学研究使用 Heger 型分类讨论东山铜鼓形态变异（越南类型学传统；Calò）。",
+        "en": "Typological studies use Heger-type classifications to discuss Đông Sơn drum morphological variation (Vietnamese typology tradition; Calò)."
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-nguyen-drum-typology",
+        "src-dongson-calo-bronze-drums-2009"
+      ],
+      "object_ids": [
+        "asm-dong-son-heger-drums-frame"
+      ]
+    },
+    {
+      "id": "claim-dong-son-co-loa-fortification",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kim 等将古螺表述为红河三角洲大型城防中心，常与晚期东山/早期历史过渡一并讨论。",
+        "en": "Kim et al. frame Cổ Loa as a large fortified Red River centre often discussed with late Đông Sơn / early historic transition."
+      },
+      "site_ids": [
+        "site-co-loa-orientation"
+      ],
+      "period_ids": [
+        "period-dong-son-late-transition"
+      ],
+      "sources": [
+        "src-dongson-co-loa-kim-orientation",
+        "src-dongson-higham-orientation-later",
+        "src-dongson-higham-bronze-age-sea-1996"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-dong-son-boat-burials",
+      "kind": "fact",
+      "statement": {
+        "zh": "越南发掘报告讨论越溪等地点的船棺与富集青铜随葬（国家发掘传统；Higham）。",
+        "en": "Vietnamese excavation reports discuss boat-coffins and rich bronze grave goods at localities such as Việt Khê (national tradition; Higham)."
+      },
+      "site_ids": [
+        "site-viet-khe-orientation"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-vietnam-institute-orientation",
+        "src-dongson-higham-bronze-age-sea-1996"
+      ],
+      "object_ids": [
+        "asm-dong-son-boat-burial-frame"
+      ]
+    },
+    {
+      "id": "claim-dong-son-red-river-core",
+      "kind": "fact",
+      "statement": {
+        "zh": "Higham 将红河三角洲置于大陆东南亚青铜时代核心讨论中（Higham 1996及后续）。",
+        "en": "Higham places the Red River Delta within core mainland Southeast Asian Bronze Age discussions (Higham 1996 and later)."
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-bronze-iron"
+      ],
+      "sources": [
+        "src-dongson-higham-bronze-age-sea-1996",
+        "src-dongson-higham-early-mainland"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-dong-son-drum-ritual-regalia",
+      "kind": "fact",
+      "statement": {
+        "zh": "艺术史论文讨论铜鼓作为仪礼/权贵标志物的解释（Persée/Arts Asiatiques 传统）。",
+        "en": "Art-historical essays discuss drums as ritual/regalia instruments (Persée/Arts Asiatiques tradition)."
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-persee-drums",
+        "src-dongson-persee-drums-1991"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-dong-son-china-interaction-hypothesis",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说：东山青铜技术与长江/岭南传统的具体传播路径仍有争议，不宜写成单一来源事实（Higham/Bellwood 讨论语境）。",
+        "en": "Hypothesis: specific transmission paths between Đông Sơn bronze technology and Yangzi/Lingnan traditions remain debated; avoid single-source fact wording (Higham/Bellwood discussion context)."
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-early-bronze"
+      ],
+      "sources": [
+        "src-dongson-higham-bronze-age-sea-1996",
+        "src-dongson-bellwood-orientation"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: metallurgical-origin pathways are debated; not established fact."
+    },
+    {
+      "id": "claim-dong-son-lang-vac-cemetery",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘传统将朗瓦等地点作为东山墓地/定居研究案例（越南研究所传统）。",
+        "en": "Excavation tradition treats localities such as Lang Vạc as Đông Sơn cemetery/settlement case studies (Vietnamese institute tradition)."
+      },
+      "site_ids": [
+        "site-lang-vac-orientation"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-vietnam-institute-orientation",
+        "src-dongson-higham-bronze-age-sea-1996"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-dong-son-exchange-sphere",
+      "kind": "fact",
+      "statement": {
+        "zh": "鼓分布研究支持跨越大陆与海岛东南亚的交换/互动圈表述（Calò 2009）。",
+        "en": "Drum-distribution research supports exchange/interaction-sphere wording across mainland and island Southeast Asia (Calò 2009)."
+      },
+      "site_ids": [
+        "site-dong-son-thanh-hoa"
+      ],
+      "period_ids": [
+        "period-dong-son-classic-drums"
+      ],
+      "sources": [
+        "src-dongson-calo-bronze-drums-2009",
+        "src-dongson-solheim-orientation"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-dongson-persee-drums",
+      "title": {
+        "zh": "Persée：东山铜鼓论文",
+        "en": "Persée: Đông Sơn drums essay",
+        "native": null
+      },
+      "external_url": "https://www.persee.fr/doc/arasi_0004-3958_1991_num_46_1_1300",
+      "sources": [
+        "src-dongson-persee-drums-1991",
+        "src-dongson-persee-drums"
+      ],
+      "attribution": "Persée / Arts Asiatiques",
+      "media_type": "document-link"
+    }
+  ]
+}

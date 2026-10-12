@@ -1,0 +1,19 @@
+{
+  "id": "src-bmac-pleiades-altyn-842000735",
+  "entity": "source",
+  "type": "atlas",
+  "citation": "Pleiades. Altyn-Depe (place 842000735). https://pleiades.stoa.org/places/842000735",
+  "url": "https://pleiades.stoa.org/places/842000735",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Gazetteer point for Altyn-Depe.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

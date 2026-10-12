@@ -1,0 +1,34 @@
+{
+  "id": "claim-zapotec-marcus-flannery-urban-evolution",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Marcus & Flannery 1996 综合讨论瓦哈卡谷地如何演化出都市社会（Zapotec Civilization）。",
+    "en": "Marcus & Flannery 1996 synthesize how urban society evolved in the Valley of Oaxaca (Zapotec Civilization)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban",
+    "site-san-jose-mogote"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-marcus-flannery-1996",
+    "src-zapotec-marcus-flannery-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

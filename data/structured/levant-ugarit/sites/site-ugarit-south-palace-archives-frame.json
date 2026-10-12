@@ -1,0 +1,33 @@
+{
+  "id": "site-ugarit-south-palace-archives-frame",
+  "entity": "site",
+  "names": {
+    "zh": "南宫/档案区框架（指针）",
+    "en": "South palace / archives frame (orientation)",
+    "native": null
+  },
+  "kind_note": "archive district orientation",
+  "region": "Ras Shamra, Syria",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "泥板档案出土地带框架。",
+    "en": "Tablet-archive find-zone frame."
+  },
+  "sources": [
+    "src-ugarit-van-soldt-archives-orientation",
+    "src-ugarit-yon-2006",
+    "src-ugarit-pardee-text-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

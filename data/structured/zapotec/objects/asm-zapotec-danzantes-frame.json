@@ -1,0 +1,43 @@
+{
+  "id": "asm-zapotec-danzantes-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "舞者石碑框架组合",
+    "en": "Danzantes monuments frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-i-ii"
+  ],
+  "summary": {
+    "zh": "早期浮雕纪念碑指针；无伪造碑号。",
+    "en": "Early relief-monument pointer; no forged stele numbers."
+  },
+  "sources": [
+    "src-zapotec-umoto-danzantes-orientation",
+    "src-zapotec-marcus-flannery-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

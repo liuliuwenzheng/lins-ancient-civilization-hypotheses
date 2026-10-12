@@ -1,0 +1,32 @@
+{
+  "id": "site-monte-alban-main-plaza-frame",
+  "entity": "site",
+  "names": {
+    "zh": "蒙特·阿尔班主广场框架（指针）",
+    "en": "Monte Albán Main Plaza frame (orientation)",
+    "native": null
+  },
+  "kind_note": "ceremonial core orientation",
+  "region": "Valley of Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "山巅都城主广场仪礼核心。",
+    "en": "Hilltop capital Main Plaza ritual core."
+  },
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-unesco-monte-alban-415"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

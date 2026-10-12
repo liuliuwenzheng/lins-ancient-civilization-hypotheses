@@ -1,0 +1,33 @@
+{
+  "id": "claim-dong-son-red-river-core",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Higham 将红河三角洲置于大陆东南亚青铜时代核心讨论中（Higham 1996及后续）。",
+    "en": "Higham places the Red River Delta within core mainland Southeast Asian Bronze Age discussions (Higham 1996 and later)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-bronze-iron"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-higham-early-mainland"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

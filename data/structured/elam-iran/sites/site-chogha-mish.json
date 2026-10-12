@@ -1,0 +1,36 @@
+{
+  "id": "site-chogha-mish",
+  "entity": "site",
+  "names": {
+    "zh": "恰高·米什",
+    "en": "Chogha Mish",
+    "native": "Chogha Mish"
+  },
+  "kind_note": "Susiana prehistoric centre",
+  "region": "Khuzestan, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "苏萨纳史前—原埃兰中心。",
+    "en": "Susiana prehistoric–Proto-Elamite centre."
+  },
+  "sources": [
+    "src-elam-pleiades-chogha-mish-912829",
+    "src-elam-potts-2016"
+  ],
+  "coordinates": {
+    "lat": 32.224001,
+    "lon": 48.555519,
+    "precision_note": "Pleiades place 912829 (Chogha Mish) representative point; CSV dump 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

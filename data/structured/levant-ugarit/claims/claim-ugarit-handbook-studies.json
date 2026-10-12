@@ -1,0 +1,33 @@
+{
+  "id": "claim-ugarit-handbook-studies",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《乌加里特研究手册》提供语文、考古与历史的多学科入口（Watson & Wyatt 1999）。",
+    "en": "The Handbook of Ugaritic Studies provides a multidisciplinary entry to language, archaeology, and history (Watson & Wyatt 1999)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-watson-wyatt-1999",
+    "src-ugarit-yon-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

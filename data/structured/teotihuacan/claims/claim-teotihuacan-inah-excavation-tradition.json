@@ -1,0 +1,33 @@
+{
+  "id": "claim-teotihuacan-inah-excavation-tradition",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "INAH 协调的发掘传统自 20 世纪中叶起系统工作于死者之路仪礼轴与周边居住区（Cabrera Castro 等）。",
+    "en": "INAH-coordinated excavation tradition has worked systematically along the Street of the Dead ritual axis and surrounding housing since mid-20th century (Cabrera Castro et al.)."
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-cabrera-castro-orientation",
+    "src-teotihuacan-unesco-414"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "civ_id": "civ-teotihuacan",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "特奥蒂瓦坎档案（library-seed-rich）：Millon/Cowgill TMP + 太阳/月亮金字塔与公寓区框架；仍加厚中。",
+    "en": "Teotihuacan archive (library-seed-rich): Millon/Cowgill TMP + Sun/Moon pyramids and apartment-compound frames; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-teotihuacan-sugiyama-feathered-serpent",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Sugiyama, Saburo. Human sacrifice and monumental architecture publications on the Feathered Serpent Pyramid / Ciudadela (orientation).",
+      "url": null,
+      "notes": "Feathered Serpent Pyramid excavation tradition."
+    },
+    {
+      "id": "src-teotihuacan-cabrera-castro-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Cabrera Castro, Rubén, and INAH Teotihuacan project publications — Street of the Dead and compound excavations.",
+      "url": null,
+      "notes": "INAH excavation tradition pointer."
+    },
+    {
+      "id": "src-teotihuacan-manzanilla-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Manzanilla, Linda. Apartment-compound, tunnel, and multiethnicity publications on Teotihuacan urban society.",
+      "url": null,
+      "notes": "Compound/urban society orientation."
+    },
+    {
+      "id": "src-teotihuacan-spence-obsidian-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Spence, Michael W. Obsidian production and exchange studies at Teotihuacan.",
+      "url": null,
+      "notes": "Obsidian economy orientation."
+    },
+    {
+      "id": "src-teotihuacan-white-price-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "White, Christine / Price, T. Douglas and collaborators — isotopic/mobility studies of Teotihuacan populations (orientation).",
+      "url": null,
+      "notes": "Bioarchaeology orientation."
+    },
+    {
+      "id": "src-teotihuacan-pasztory-art-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Pasztory, Esther. Art and iconography syntheses of Teotihuacan mural and sculptural programs.",
+      "url": null,
+      "notes": "Art/iconography orientation."
+    },
+    {
+      "id": "src-teotihuacan-cowgill-urbanism-deepen",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Cowgill, George L. 2015. Ancient Teotihuacan (Cambridge) — deepen track for urban phases already registered.",
+      "url": "https://doi.org/10.1017/CBO9781139046817",
+      "notes": "DOI landing if available; synthesis deepen."
+    },
+    {
+      "id": "src-teotihuacan-tmp-data-paper",
+      "type": "article",
+      "tier": "S",
+      "citation": "Documenting, disseminating and archiving data from the Teotihuacan Mapping Project. Antiquity data-paper tradition.",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/documenting-disseminating-and-archiving-data-from-the-teotihuacan-mapping-project/D86889A09A0496705424AE095F690FB1",
+      "notes": "TMP data archiving."
+    },
+    {
+      "id": "src-teotihuacan-inah-site-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "INAH Zona Arqueológica de Teotihuacán public site orientation (tier T).",
+      "url": null,
+      "notes": "Public institutional orientation; stable URL deepen later."
+    },
+    {
+      "id": "src-teotihuacan-unesco-414-maps",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Pre-Hispanic City of Teotihuacan — maps/coordinates. https://whc.unesco.org/en/list/414/",
+      "url": "https://whc.unesco.org/en/list/414/",
+      "notes": "WHC published coordinates companion to existing UNESCO source."
+    }
+  ],
+  "fill_coords": {
+    "site-teotihuacan": {
+      "lat": 19.69167,
+      "lon": -98.84167,
+      "precision_note": "UNESCO WHC list 414 published DMS→decimal; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-teotihuacan-pyramid-sun-frame",
+      "names": {
+        "zh": "太阳金字塔框架（指针）",
+        "en": "Pyramid of the Sun frame (orientation)",
+        "native": null
+      },
+      "kind_note": "monument orientation within city",
+      "region": "State of Mexico, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "仪礼核心太阳金字塔框架。",
+        "en": "Ceremonial-core Pyramid of the Sun frame."
+      },
+      "sources": [
+        "src-teotihuacan-unesco-414",
+        "src-teotihuacan-cowgill-2015",
+        "src-teotihuacan-cabrera-castro-orientation"
+      ]
+    },
+    {
+      "id": "site-teotihuacan-pyramid-moon-frame",
+      "names": {
+        "zh": "月亮金字塔框架（指针）",
+        "en": "Pyramid of the Moon frame (orientation)",
+        "native": null
+      },
+      "kind_note": "monument orientation within city",
+      "region": "State of Mexico, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "月亮金字塔与北广场框架。",
+        "en": "Pyramid of the Moon and north plaza frame."
+      },
+      "sources": [
+        "src-teotihuacan-cowgill-2015",
+        "src-teotihuacan-cabrera-castro-orientation"
+      ]
+    },
+    {
+      "id": "site-teotihuacan-ciudadela-fsp",
+      "names": {
+        "zh": "城寨/羽蛇金字塔",
+        "en": "Ciudadela / Feathered Serpent Pyramid",
+        "native": "Ciudadela"
+      },
+      "kind_note": "Monumental precinct with sacrificial deposits",
+      "region": "State of Mexico, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "羽蛇金字塔与祭祀埋藏语境。",
+        "en": "Feathered Serpent Pyramid and sacrificial deposit contexts."
+      },
+      "sources": [
+        "src-teotihuacan-sugiyama-feathered-serpent",
+        "src-teotihuacan-cowgill-2015"
+      ]
+    },
+    {
+      "id": "site-teotihuacan-apartment-compounds-frame",
+      "names": {
+        "zh": "公寓复合建筑框架（指针）",
+        "en": "Apartment compounds frame (orientation)",
+        "native": null
+      },
+      "kind_note": "residential urban fabric orientation",
+      "region": "State of Mexico, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "TMP 测绘的公寓复合建筑居住织物。",
+        "en": "TMP-mapped apartment-compound residential fabric."
+      },
+      "sources": [
+        "src-teotihuacan-millon-mapping-orientation",
+        "src-teotihuacan-manzanilla-orientation",
+        "src-teotihuacan-tmp-antiquity-data"
+      ]
+    },
+    {
+      "id": "site-teotihuacan-obsidian-workshops-frame",
+      "names": {
+        "zh": "黑曜石作坊框架（指针）",
+        "en": "Obsidian workshops frame (orientation)",
+        "native": null
+      },
+      "kind_note": "craft production orientation",
+      "region": "State of Mexico, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "黑曜石生产与交换研究框架。",
+        "en": "Obsidian production and exchange research frame."
+      },
+      "sources": [
+        "src-teotihuacan-spence-obsidian-orientation",
+        "src-teotihuacan-cowgill-2015"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-teotihuacan-patlachique-tzacualli",
+      "names": {
+        "zh": "形成—早期城市窗",
+        "en": "Formative–early urban window"
+      },
+      "time": {
+        "label": "Patlachique/Tzacualli working labels (Cowgill phase tables deferred to label-only)",
+        "approx_from_bce": 200,
+        "approx_to_bce": 1,
+        "scheme_note": "BCE/CE boundary coarse; phase names as published labels only."
+      },
+      "summary": {
+        "zh": "形成至早期城市化粗窗。",
+        "en": "Formative to early urban coarse window."
+      },
+      "sources": [
+        "src-teotihuacan-cowgill-2015",
+        "src-teotihuacan-millon-mapping-orientation"
+      ]
+    },
+    {
+      "id": "period-teotihuacan-miccaotli-tlamimilolpa",
+      "names": {
+        "zh": "经典早期繁荣窗",
+        "en": "Early Classic floruit window"
+      },
+      "time": {
+        "label": "Miccaotli–Tlamimilolpa working labels (Cowgill)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "CE-span phases; approx years deferred — label-only honesty."
+      },
+      "summary": {
+        "zh": "经典早期标签窗。",
+        "en": "Early Classic label window."
+      },
+      "sources": [
+        "src-teotihuacan-cowgill-2015"
+      ]
+    },
+    {
+      "id": "period-teotihuacan-xolalpan-metepec",
+      "names": {
+        "zh": "经典晚期—衰落窗",
+        "en": "Late Classic–decline window"
+      },
+      "time": {
+        "label": "Xolalpan–Metepec working labels into 6th/7th c. CE debates (Cowgill)",
+        "approx_from_bce": null,
+        "approx_to_bce": null,
+        "scheme_note": "Decline absolute dating debated; label-only."
+      },
+      "summary": {
+        "zh": "晚期至衰落讨论窗。",
+        "en": "Late to decline discussion window."
+      },
+      "sources": [
+        "src-teotihuacan-cowgill-2015",
+        "src-teotihuacan-manzanilla-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-teotihuacan-pyramids-frame",
+      "names": {
+        "zh": "特奥蒂瓦坎金字塔仪礼核心框架组合",
+        "en": "Teotihuacan pyramid ceremonial-core frame assemblage"
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-unesco-414",
+        "src-teotihuacan-cowgill-2015"
+      ],
+      "summary": {
+        "zh": "太阳/月亮金字塔仪礼核心指针。",
+        "en": "Sun/Moon pyramid ceremonial-core pointer."
+      }
+    },
+    {
+      "id": "asm-teotihuacan-fsp-sacrifices-frame",
+      "names": {
+        "zh": "羽蛇金字塔祭祀埋藏框架组合",
+        "en": "Feathered Serpent Pyramid sacrificial-deposits frame assemblage"
+      },
+      "site_ids": [
+        "site-teotihuacan-ciudadela-fsp"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-sugiyama-feathered-serpent",
+        "src-teotihuacan-cowgill-2015"
+      ],
+      "summary": {
+        "zh": "祭祀埋藏发掘传统指针；无伪造个体编号。",
+        "en": "Sacrificial-deposit excavation tradition pointer; no forged individual numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-teotihuacan-unesco-metropolis",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将特奥蒂瓦坎表述为墨西哥盆地经典期规划大都，含太阳/月亮金字塔与羽蛇神庙等巨构（UNESCO 414）。",
+        "en": "UNESCO frames Teotihuacan as a planned Classic metropolis in the Basin of Mexico with monumental pyramids and the Temple of Quetzalcoatl (UNESCO 414)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-unesco-414",
+        "src-teotihuacan-unesco-414-maps",
+        "src-teotihuacan-cowgill-2015"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-teotihuacan-tmp-grid",
+      "kind": "fact",
+      "statement": {
+        "zh": "Millon 测绘项目系统调查城市网格与地表采集，为都市规模提供关键证据（TMP；Antiquity data paper）。",
+        "en": "Millon’s Mapping Project systematically surveyed the city grid and surface collections, providing key evidence for urban scale (TMP; Antiquity data paper)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-millon-mapping-orientation",
+        "src-teotihuacan-tmp-antiquity-data",
+        "src-teotihuacan-tmp-data-paper"
+      ],
+      "object_ids": [
+        "asm-teotihuacan-urban-grid-frame"
+      ]
+    },
+    {
+      "id": "claim-teotihuacan-apartment-compounds",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究将公寓复合建筑作为特奥蒂瓦坎主要居住单元，并讨论其多族群构成（Manzanilla；Cowgill）。",
+        "en": "Research treats apartment compounds as the primary residential units and discusses multiethnic composition (Manzanilla; Cowgill)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-manzanilla-orientation",
+        "src-teotihuacan-cowgill-2015"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-teotihuacan-fsp-sacrifice",
+      "kind": "fact",
+      "statement": {
+        "zh": "Sugiyama 等发掘报告羽蛇金字塔相关的大规模祭祀埋藏（Sugiyama 传统）。",
+        "en": "Sugiyama and collaborators report large-scale sacrificial deposits associated with the Feathered Serpent Pyramid (Sugiyama tradition)."
+      },
+      "site_ids": [
+        "site-teotihuacan-ciudadela-fsp"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-sugiyama-feathered-serpent",
+        "src-teotihuacan-cowgill-2015"
+      ],
+      "object_ids": [
+        "asm-teotihuacan-fsp-sacrifices-frame"
+      ]
+    },
+    {
+      "id": "claim-teotihuacan-obsidian-economy",
+      "kind": "fact",
+      "statement": {
+        "zh": "黑曜石生产与交换研究将特奥蒂瓦坎置于区域黑曜石经济网络中（Spence）。",
+        "en": "Obsidian production and exchange studies place Teotihuacan in a regional obsidian economy (Spence)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-spence-obsidian-orientation",
+        "src-teotihuacan-cowgill-2015"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-teotihuacan-inah-excavation-tradition",
+      "kind": "fact",
+      "statement": {
+        "zh": "INAH 协调的发掘传统自 20 世纪中叶起系统工作于死者之路仪礼轴与周边居住区（Cabrera Castro 等）。",
+        "en": "INAH-coordinated excavation tradition has worked systematically along the Street of the Dead ritual axis and surrounding housing since mid-20th century (Cabrera Castro et al.)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-cabrera-castro-orientation",
+        "src-teotihuacan-unesco-414"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-teotihuacan-mural-iconography",
+      "kind": "fact",
+      "statement": {
+        "zh": "艺术史综合讨论壁画与雕塑图像程序作为都市意识形态证据（Pasztory 取向）。",
+        "en": "Art-historical syntheses discuss mural and sculptural programs as evidence for urban ideology (Pasztory orientation)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-pasztory-art-orientation",
+        "src-teotihuacan-cowgill-2015"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-teotihuacan-decline-hypothesis",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说：6–7 世纪衰落的因果（内乱、气候、外敌）仍高度争议，需与地层烧毁/废弃证据分开（Cowgill 讨论语境）。",
+        "en": "Hypothesis: 6th–7th c. decline causes (internal conflict, climate, external enemies) remain debated and must be separated from stratified burn/abandonment evidence (Cowgill discussion context)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-xolalpan-metepec"
+      ],
+      "sources": [
+        "src-teotihuacan-cowgill-2015",
+        "src-teotihuacan-manzanilla-orientation"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: decline causal models are debated; not a single-site fact."
+    },
+    {
+      "id": "claim-teotihuacan-bioarchaeology-mobility",
+      "kind": "fact",
+      "statement": {
+        "zh": "同位素与生物考古研究讨论居民流动与多来源人口（White/Price 取向）。",
+        "en": "Isotopic and bioarchaeological studies discuss residential mobility and multi-origin populations (White/Price orientation)."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-white-price-orientation",
+        "src-teotihuacan-manzanilla-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-teotihuacan-cowgill-urban-synthesis",
+      "kind": "fact",
+      "statement": {
+        "zh": "Cowgill 2015 综合提供都城都市主义、分期与社会网络的英文学界标准入口。",
+        "en": "Cowgill 2015 provides a standard Anglophone synthesis entry on urbanism, phasing, and social networks."
+      },
+      "site_ids": [
+        "site-teotihuacan"
+      ],
+      "period_ids": [
+        "period-teotihuacan-classic-floruit"
+      ],
+      "sources": [
+        "src-teotihuacan-cowgill-2015",
+        "src-teotihuacan-cowgill-urbanism-deepen"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-teotihuacan-unesco",
+      "title": {
+        "zh": "教科文：特奥蒂瓦坎",
+        "en": "UNESCO: Teotihuacan",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/414/",
+      "sources": [
+        "src-teotihuacan-unesco-414"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-teotihuacan-tmp-antiquity",
+      "title": {
+        "zh": "Antiquity：TMP 数据论文",
+        "en": "Antiquity: TMP data paper",
+        "native": null
+      },
+      "external_url": "https://www.cambridge.org/core/journals/antiquity/article/documenting-disseminating-and-archiving-data-from-the-teotihuacan-mapping-project/D86889A09A0496705424AE095F690FB1",
+      "sources": [
+        "src-teotihuacan-tmp-antiquity-data"
+      ],
+      "attribution": "Antiquity / Cambridge",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-teotihuacan-asu-lab",
+      "title": {
+        "zh": "ASU：特奥蒂瓦坎研究实验室",
+        "en": "ASU: Teotihuacan Research Laboratory",
+        "native": null
+      },
+      "external_url": "https://shesc.asu.edu/centers/teotihuacan-research-laboratory/about",
+      "sources": [
+        "src-teotihuacan-asu-lab-orientation"
+      ],
+      "attribution": "Arizona State University",
+      "media_type": "document-link"
+    }
+  ]
+}

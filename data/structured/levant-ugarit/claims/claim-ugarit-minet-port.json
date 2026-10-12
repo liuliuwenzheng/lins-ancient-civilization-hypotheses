@@ -1,0 +1,34 @@
+{
+  "id": "claim-ugarit-minet-port",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘传统将米内特·贝达与乌加里特外港功能相联系（Yon；Schaeffer 传统）。",
+    "en": "Excavation tradition links Minet el-Beida with Ugarit’s port function (Yon; Schaeffer tradition)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-minet-el-beida",
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-schaeffer-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-teotihuacan-cowgill-urban-synthesis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cowgill 2015 综合提供都城都市主义、分期与社会网络的英文学界标准入口。",
+    "en": "Cowgill 2015 provides a standard Anglophone synthesis entry on urbanism, phasing, and social networks."
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-cowgill-2015",
+    "src-teotihuacan-cowgill-urbanism-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

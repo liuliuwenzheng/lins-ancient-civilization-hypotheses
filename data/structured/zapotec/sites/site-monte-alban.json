@@ -19,13 +19,17 @@
     "src-zapotec-blanton-monte-alban-1978",
     "src-zapotec-unesco-monte-alban-415"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 17.046323,
+    "lon": -96.768133,
+    "precision_note": "UNESCO WHC list 415 component 415-002 published DMS→decimal; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave1_shells/generate_wave1.py",
       "docs/coverage-map.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-13."
   }
 }

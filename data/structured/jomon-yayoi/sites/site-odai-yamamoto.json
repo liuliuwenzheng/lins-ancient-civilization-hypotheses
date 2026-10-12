@@ -1,0 +1,37 @@
+{
+  "id": "site-odai-yamamoto",
+  "entity": "site",
+  "names": {
+    "zh": "大平山元",
+    "en": "Odai Yamamoto",
+    "native": "大平山元"
+  },
+  "kind_note": "Early pottery site; UNESCO component",
+  "region": "Sotogahama, Aomori, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "早期陶器讨论相关教科文组分。",
+    "en": "UNESCO component often discussed for early pottery."
+  },
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-unesco-1632-maps",
+    "src-jomon-odai-yamamoto"
+  ],
+  "coordinates": {
+    "lat": 41.065556,
+    "lon": 140.552222,
+    "precision_note": "UNESCO WHC list 1632 component 1632-001 published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

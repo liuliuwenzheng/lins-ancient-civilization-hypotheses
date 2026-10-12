@@ -660,3 +660,35 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 **Verified:** `export_check` OK (**20** packs; citation gate green). API/UI auto-discover new packs via `data/structured/*/civilization.json`.
 
 **Notes:** Integrity > speed. Honest shells beat fake density. Generator: `tools/wave1_shells/generate_wave1.py`.
+
+
+### D-2026-10-12-13 — Wave-1 densify to `library-seed-rich`
+
+**Decision:** Densify all eleven Wave-1 packs opened in D-2026-10-12-12 from `library-seed` toward usable archive density. Schema status ladder uses **`library-seed-rich`** (not a free-text “expanding” label). Integrity over completeness: no invented archaeology, page numbers, coordinates, or media art.
+
+**Per-pack deltas (structured JSON counts):**
+
+| Pack | +sources | +sites | +periods | +objects | +claims | +media | After (src/site/claim/per/media) |
+|------|--------:|-------:|---------:|---------:|--------:|-------:|----------------------------------|
+| elam-iran | 10 | 5 | 3 | 2 | 10 | 3 | 15/8/11/4/3 |
+| nubia-kush | 10 | 6 | 3 | 2 | 10 | 3 | 15/9/11/4/3 |
+| anatolia-hittite | 10 | 5 | 3 | 2 | 10 | 3 | 15/7/11/4/3 |
+| levant-ugarit | 10 | 5 | 3 | 2 | 10 | 2 | 15/7/11/4/2 |
+| bmac-oxus | 10 | 5 | 3 | 2 | 10 | 2 | 15/7/11/4/2 |
+| nok-west-africa | 10 | 5 | 3 | 2 | 10 | 3 | 15/7/11/4/3 |
+| teotihuacan | 10 | 5 | 3 | 2 | 10 | 3 | 15/6/11/4/3 |
+| zapotec | 10 | 5 | 3 | 2 | 10 | 3 | 15/6/11/4/3 |
+| lapita-pacific | 10 | 5 | 3 | 2 | 10 | 2 | 15/7/11/4/2 |
+| dong-son | 10 | 5 | 3 | 2 | 10 | 1 | 15/7/11/4/1 |
+| jomon-yayoi | 10 | 5 | 3 | 2 | 10 | 3 | 15/6/11/4/3 |
+| **Totals** | **110** | **56** | **33** | **22** | **110** | **28** | — |
+
+**Coordinates:** UNESCO WHC published DMS (Susa 1455, Tchogha Zanbil 113, Hattusa/Yazılıkaya 377, Meroe island 1336, Gebel Barkal region 1073, Teotihuacan 414, Monte Albán 415, Jōmon serial 1632) and Pleiades CSV representative points (Malyan, Chogha Mish/Bonut, Kabnak, Alaca, Sapinuwa, Kaneš, Gonur, Altyn-Depe, etc.). Ambiguous or non-gazetteer sites left **null**.
+
+**Media:** Outbound-link-only landings (UNESCO / Pleiades / Persée / JAA Brill / ANU / Archive.org / institutional portals). `local_path` remains null.
+
+**Docs:** Coverage map updated; `civ-*.md` + pack READMEs synced. Machine summary: [`docs/audits/pass-2026-10-12-wave1-densify.json`](audits/pass-2026-10-12-wave1-densify.json).
+
+**Verified:** `export_check` OK (**20** packs; citation gate green).
+
+**Notes:** Still far from Egypt/Mesopotamia `fact-library` density. Prefer honest thin over fake dense. Tooling: `tools/wave1_shells/densify_wave1.py` + `densify_payloads/*.json`.

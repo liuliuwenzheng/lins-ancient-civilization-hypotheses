@@ -1,0 +1,33 @@
+{
+  "id": "claim-hittite-hattusa-urban-chronology",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Seeher 等讨论为哈图沙城市地层与绝对年代提供新方法入口（Seeher 2006；Neve/DAI 传统）。",
+    "en": "Seeher and related work provide methodological entry points to Hattusa urban stratigraphy and absolute chronology (Seeher 2006; Neve/DAI tradition)."
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [
+    "period-hittite-empire"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-seeher-hattusa-2006",
+    "src-hittite-neve-hattusa-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claim-nubia-meroe-unesco-island",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将麦罗埃岛考古遗址群（含麦罗埃城址与金字塔墓地等）列为麦罗埃期关键遗产（UNESCO 1336）。",
+    "en": "UNESCO lists the Archaeological Sites of the Island of Meroe (including the town and pyramid cemeteries) as a key Meroitic property (UNESCO 1336)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-meroe",
+    "site-musawwarat-es-sufra",
+    "site-naqa"
+  ],
+  "period_ids": [
+    "period-nubia-meroitic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-welsby-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

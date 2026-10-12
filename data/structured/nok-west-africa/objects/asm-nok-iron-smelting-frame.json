@@ -1,0 +1,45 @@
+{
+  "id": "asm-nok-iron-smelting-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "诺克早期冶铁框架组合",
+    "en": "Nok early iron-smelting frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-taruga-nok",
+    "site-nok-type-area"
+  ],
+  "period_ids": [
+    "period-nok-early"
+  ],
+  "summary": {
+    "zh": "早期冶铁证据指针；无伪造炉址编号。",
+    "en": "Early iron-smelting evidence pointer; no forged furnace numbers."
+  },
+  "sources": [
+    "src-nok-iron-smelting-orientation",
+    "src-nok-taruga-orientation",
+    "src-nok-breunig-renn-chronology"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

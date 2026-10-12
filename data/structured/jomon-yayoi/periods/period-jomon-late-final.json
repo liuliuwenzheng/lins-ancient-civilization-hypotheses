@@ -1,0 +1,34 @@
+{
+  "id": "period-jomon-late-final",
+  "entity": "period",
+  "names": {
+    "zh": "绳文晚–末期窗",
+    "en": "Late–Final Jōmon window"
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "time": {
+    "label": "late Jōmon into Yayoi transition debates",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 900,
+    "scheme_note": "Late/Final into transition."
+  },
+  "summary": {
+    "zh": "晚期至过渡。",
+    "en": "Late/Final into transition."
+  },
+  "sources": [
+    "src-jomon-habu-ancient-jomon",
+    "src-yayoi-barnes-archaeology-japan"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

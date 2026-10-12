@@ -1,0 +1,539 @@
+{
+  "civ_id": "civ-bmac-oxus",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "奥克苏斯/BMAC 档案（library-seed-rich）：Hiebert/Sarianidi + Gonur/Altyn 等绿洲遗址；仍加厚中。",
+    "en": "Oxus/BMAC archive (library-seed-rich): Hiebert/Sarianidi + Gonur/Altyn oasis sites; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-bmac-pleiades-gonur-391537222",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Gonur Tepe (place 391537222). https://pleiades.stoa.org/places/391537222",
+      "url": "https://pleiades.stoa.org/places/391537222",
+      "notes": "Gazetteer representative point."
+    },
+    {
+      "id": "src-bmac-pleiades-altyn-842000735",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Altyn-Depe (place 842000735). https://pleiades.stoa.org/places/842000735",
+      "url": "https://pleiades.stoa.org/places/842000735",
+      "notes": "Gazetteer point for Altyn-Depe."
+    },
+    {
+      "id": "src-bmac-sarianidi-margiana-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Sarianidi, Victor I. Margiana / Gonur excavation volumes and popular-scholarly reports — founding Oxus excavation tradition.",
+      "url": null,
+      "notes": "P-tradition; deepen without inventing inventories."
+    },
+    {
+      "id": "src-bmac-masse-vidale-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Masson, V. M. / Vidale, Massimo and related Central Asian Bronze Age settlement syntheses — oasis urbanism orientation.",
+      "url": null,
+      "notes": "Oasis urbanism orientation."
+    },
+    {
+      "id": "src-bmac-francfort-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Francfort, Henri-Paul. Shortughai and Bactrian–Indus interaction publications — northern Afghanistan BMAC-related orientation.",
+      "url": null,
+      "notes": "Bactria–Indus interaction orientation."
+    },
+    {
+      "id": "src-bmac-salvatori-tosi-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Salvatori, Sandro; Tosi, Maurizio — Murghab delta survey and BMAC landscape archaeology orientation.",
+      "url": null,
+      "notes": "Murghab survey orientation."
+    },
+    {
+      "id": "src-bmac-lyonnet-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Lyonnet, Bertille. Ceramic and chronostratigraphic essays on Bactria–Margiana sequences.",
+      "url": null,
+      "notes": "Ceramic chronology orientation."
+    },
+    {
+      "id": "src-bmac-kohl-central-asia-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Kohl, Philip L. Central Asia Bronze Age syntheses placing Oxus/BMAC in interregional exchange.",
+      "url": null,
+      "notes": "Interregional exchange synthesis orientation."
+    },
+    {
+      "id": "src-bmac-hiebert-peabody-bulletin",
+      "type": "monograph",
+      "tier": "P",
+      "citation": "Hiebert, Fredrik T. 1994. Origins of the Bronze Age Oasis Civilization in Central Asia (ASPR Bulletin 42) — already registered companion deepen.",
+      "url": "https://peabody.harvard.edu/publications/origins-bronze-age-oasis-civilization-central-asia",
+      "notes": "Peabody landing already used; marks deepen track."
+    },
+    {
+      "id": "src-bmac-antiquity-special-section-1994",
+      "type": "article",
+      "tier": "S",
+      "citation": "Antiquity 68 (1994) Oxus Civilization special-section essays (Hiebert; Lamberg-Karlovsky framing).",
+      "url": null,
+      "notes": "Special-section framing already partly registered; deepen companion."
+    }
+  ],
+  "fill_coords": {
+    "site-gonur-depe": {
+      "lat": 38.212838,
+      "lon": 62.037302,
+      "precision_note": "Pleiades place 391537222 (Gonur Tepe) representative point; CSV dump 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-altyn-depe",
+      "names": {
+        "zh": "阿尔登·德佩",
+        "en": "Altyn-Depe",
+        "native": "Altyn-Depe"
+      },
+      "kind_note": "BMAC urban centre",
+      "region": "Turkmenistan",
+      "coords": {
+        "lat": 36.857748,
+        "lon": 60.432421,
+        "precision_note": "Pleiades place 842000735 (Altyn-Depe) representative point; CSV dump 2026-10-12"
+      },
+      "summary": {
+        "zh": "BMAC 城市中心之一。",
+        "en": "One of the BMAC urban centres."
+      },
+      "sources": [
+        "src-bmac-pleiades-altyn-842000735",
+        "src-bmac-masse-vidale-orientation",
+        "src-bmac-hiebert-1994"
+      ]
+    },
+    {
+      "id": "site-gonur-north-south-frame",
+      "names": {
+        "zh": "戈努尔北/南区框架（指针）",
+        "en": "Gonur North/South sector frame (orientation)",
+        "native": null
+      },
+      "kind_note": "intra-site sector orientation",
+      "region": "Murghab delta, Turkmenistan",
+      "coords": null,
+      "summary": {
+        "zh": "戈努尔遗址分区框架；非整站新坐标。",
+        "en": "Intra-site sector frame; not a new gazetteer point."
+      },
+      "sources": [
+        "src-bmac-sarianidi-gonur-orientation",
+        "src-bmac-hiebert-1994"
+      ]
+    },
+    {
+      "id": "site-murghab-delta-survey-frame",
+      "names": {
+        "zh": "穆尔加布三角洲调查框架（指针）",
+        "en": "Murghab delta survey frame (orientation)",
+        "native": null
+      },
+      "kind_note": "survey-region",
+      "region": "Murghab delta, Turkmenistan",
+      "coords": null,
+      "summary": {
+        "zh": "马尔吉亚纳绿洲调查框架。",
+        "en": "Margiana oasis survey frame."
+      },
+      "sources": [
+        "src-bmac-salvatori-tosi-orientation",
+        "src-bmac-hiebert-1994"
+      ]
+    },
+    {
+      "id": "site-shortughai-orientation",
+      "names": {
+        "zh": "肖尔图盖（指针）",
+        "en": "Shortughai (orientation)",
+        "native": "Shortughai"
+      },
+      "kind_note": "Indus-related outpost in Bactria often discussed with Oxus exchange",
+      "region": "Northern Afghanistan",
+      "coords": null,
+      "summary": {
+        "zh": "与奥克苏斯交换常被讨论的印度河相关据点；坐标待稳。",
+        "en": "Indus-related outpost often discussed with Oxus exchange; coords deferred."
+      },
+      "sources": [
+        "src-bmac-francfort-orientation",
+        "src-bmac-kohl-central-asia-orientation"
+      ]
+    },
+    {
+      "id": "site-bactria-oasis-frame",
+      "names": {
+        "zh": "巴克特里亚绿洲框架（指针）",
+        "en": "Bactria oasis frame (orientation)",
+        "native": null
+      },
+      "kind_note": "regional oasis frame",
+      "region": "Northern Afghanistan / southern Uzbekistan",
+      "coords": null,
+      "summary": {
+        "zh": "巴克特里亚绿洲区域框架。",
+        "en": "Bactria oasis regional frame."
+      },
+      "sources": [
+        "src-bmac-lamberg-karlovsky-roa-2012",
+        "src-bmac-francfort-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-bmac-early-oasis",
+      "names": {
+        "zh": "早期绿洲窗",
+        "en": "Early oasis window"
+      },
+      "time": {
+        "label": "late 3rd millennium BCE formation debates (Hiebert/Sarianidi frames)",
+        "approx_from_bce": 2300,
+        "approx_to_bce": 2200,
+        "scheme_note": "Formation absolute bands debated."
+      },
+      "summary": {
+        "zh": "形成期粗窗。",
+        "en": "Formation coarse window."
+      },
+      "sources": [
+        "src-bmac-hiebert-1994",
+        "src-bmac-sarianidi-gonur-orientation"
+      ]
+    },
+    {
+      "id": "period-bmac-classic-margiana",
+      "names": {
+        "zh": "经典马尔吉亚纳窗",
+        "en": "Classic Margiana window"
+      },
+      "time": {
+        "label": "ca. 2200–1750 BCE (Hiebert 1994)",
+        "approx_from_bce": 2200,
+        "approx_to_bce": 1750,
+        "scheme_note": "Hiebert Margiana floruit frame."
+      },
+      "summary": {
+        "zh": "Hiebert 马尔吉亚纳繁荣窗。",
+        "en": "Hiebert Margiana floruit."
+      },
+      "sources": [
+        "src-bmac-hiebert-1994",
+        "src-bmac-hiebert-antiquity-1994"
+      ]
+    },
+    {
+      "id": "period-bmac-late",
+      "names": {
+        "zh": "晚期 BMAC 窗",
+        "en": "Late BMAC window"
+      },
+      "time": {
+        "label": "post-1750 BCE transformation debates",
+        "approx_from_bce": 1750,
+        "approx_to_bce": 1500,
+        "scheme_note": "Late transformation; absolute sparse."
+      },
+      "summary": {
+        "zh": "晚期转变讨论窗。",
+        "en": "Late transformation discussion window."
+      },
+      "sources": [
+        "src-bmac-lamberg-karlovsky-roa-2012",
+        "src-bmac-lyonnet-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-bmac-gonur-palace-temple-frame",
+      "names": {
+        "zh": "戈努尔宫殿—神庙框架组合",
+        "en": "Gonur palace–temple frame assemblage"
+      },
+      "site_ids": [
+        "site-gonur-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-sarianidi-gonur-orientation",
+        "src-bmac-hiebert-1994"
+      ],
+      "summary": {
+        "zh": "绿洲中心大型建筑指针；无伪造平面编号。",
+        "en": "Oasis-centre monumental architecture pointer; no forged plan numbers."
+      }
+    },
+    {
+      "id": "asm-bmac-seal-amulet-frame",
+      "names": {
+        "zh": "BMAC 印章—护符框架组合",
+        "en": "BMAC seal–amulet frame assemblage"
+      },
+      "site_ids": [
+        "site-gonur-depe",
+        "site-altyn-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-hiebert-1994",
+        "src-bmac-lamberg-karlovsky-roa-2012"
+      ],
+      "summary": {
+        "zh": "特色印章/护符物质文化指针。",
+        "en": "Distinctive seal/amulet material-culture pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-bmac-gonur-keystone-oasis",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘与综合将戈努尔表述为马尔吉亚纳绿洲关键大型遗址（Sarianidi；Hiebert 1994）。",
+        "en": "Excavation and synthesis frame Gonur as a keystone large Margiana oasis site (Sarianidi; Hiebert 1994)."
+      },
+      "site_ids": [
+        "site-gonur-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-sarianidi-gonur-orientation",
+        "src-bmac-hiebert-1994",
+        "src-bmac-pleiades-gonur-391537222"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-bmac-hiebert-2200-1750",
+      "kind": "fact",
+      "statement": {
+        "zh": "Hiebert 将马尔吉亚纳青铜绿洲文明繁荣置于约 2200–1750 BCE 工作框架（Hiebert 1994）。",
+        "en": "Hiebert places the Margiana Bronze oasis civilization floruit in a ca. 2200–1750 BCE working frame (Hiebert 1994)."
+      },
+      "site_ids": [
+        "site-gonur-depe",
+        "site-togolok"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-hiebert-1994",
+        "src-bmac-hiebert-antiquity-1994"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-bmac-altyn-urban-centre",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合将阿尔登·德佩讨论为 BMAC 城市中心之一（Masson/Vidale 取向；Hiebert）。",
+        "en": "Syntheses discuss Altyn-Depe as one of the BMAC urban centres (Masson/Vidale orientation; Hiebert)."
+      },
+      "site_ids": [
+        "site-altyn-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-masse-vidale-orientation",
+        "src-bmac-pleiades-altyn-842000735",
+        "src-bmac-hiebert-1994"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-bmac-murghab-survey-landscape",
+      "kind": "fact",
+      "statement": {
+        "zh": "穆尔加布三角洲调查将 BMAC 置于灌溉绿洲聚落景观中（Salvatori & Tosi 取向）。",
+        "en": "Murghab delta survey places BMAC in an irrigated oasis settlement landscape (Salvatori & Tosi orientation)."
+      },
+      "site_ids": [
+        "site-gonur-depe",
+        "site-togolok"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-salvatori-tosi-orientation",
+        "src-bmac-hiebert-1994"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-bmac-indus-interaction-shortughai",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究讨论巴克特里亚—印度河互动，并以肖尔图盖等据点为线索（Francfort；Kohl）。",
+        "en": "Research discusses Bactria–Indus interaction using outposts such as Shortughai as clues (Francfort; Kohl)."
+      },
+      "site_ids": [
+        "site-shortughai-orientation"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-francfort-orientation",
+        "src-bmac-kohl-central-asia-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-bmac-seal-amulet-assemblage",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合将特色印章与护符组合作为 Oxus/BMAC 物质文化识别标志之一（Hiebert；Lamberg-Karlovsky）。",
+        "en": "Syntheses treat distinctive seals and amulets as identifying markers of Oxus/BMAC material culture (Hiebert; Lamberg-Karlovsky)."
+      },
+      "site_ids": [
+        "site-gonur-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-hiebert-1994",
+        "src-bmac-lamberg-karlovsky-roa-2012"
+      ],
+      "object_ids": [
+        "asm-bmac-seal-amulet-frame"
+      ]
+    },
+    {
+      "id": "claim-bmac-antiquity-1994-frame",
+      "kind": "fact",
+      "statement": {
+        "zh": "《Antiquity》1994 年 Oxus 专刊为该复合体提供英文学界关键议程设置（Hiebert；Lamberg-Karlovsky）。",
+        "en": "The 1994 Antiquity Oxus special section provided key Anglophone agenda-setting for the complex (Hiebert; Lamberg-Karlovsky)."
+      },
+      "site_ids": [
+        "site-gonur-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-hiebert-antiquity-1994",
+        "src-bmac-lamberg-karlovsky-antiquity-1994"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-bmac-state-level-hypothesis",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说：将 BMAC 直接等同于「早期国家」或单一族群实体的模型证据不足，宜保持复合体/绿洲网络表述（Lamberg-Karlovsky 讨论语境）。",
+        "en": "Hypothesis: equating BMAC directly with an ‘early state’ or single ethnic entity is underdetermined; prefer complex/oasis-network wording (Lamberg-Karlovsky discussion context)."
+      },
+      "site_ids": [
+        "site-gonur-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-lamberg-karlovsky-roa-2012",
+        "src-bmac-hiebert-1994"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: state-level and ethnic equivalences are debated; not established fact."
+    },
+    {
+      "id": "claim-bmac-ceramic-chronology-orientation",
+      "kind": "fact",
+      "statement": {
+        "zh": "陶器与年代地层论文为巴克特里亚—马尔吉亚纳序列提供分期入口（Lyonnet 取向）。",
+        "en": "Ceramic and chronostratigraphic essays provide phasing entry points for Bactria–Margiana sequences (Lyonnet orientation)."
+      },
+      "site_ids": [
+        "site-gonur-depe",
+        "site-altyn-depe"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-lyonnet-orientation",
+        "src-bmac-hiebert-1994"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-bmac-togolok-margiana-centre",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合将托戈洛克列为马尔吉亚纳 BMAC 中心之一（Hiebert；Lamberg-Karlovsky）。",
+        "en": "Syntheses list Togolok among Margiana BMAC centres (Hiebert; Lamberg-Karlovsky)."
+      },
+      "site_ids": [
+        "site-togolok"
+      ],
+      "period_ids": [
+        "period-bmac-classic-margiana"
+      ],
+      "sources": [
+        "src-bmac-hiebert-1994",
+        "src-bmac-lamberg-karlovsky-roa-2012"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-bmac-pleiades-gonur",
+      "title": {
+        "zh": "Pleiades：戈努尔",
+        "en": "Pleiades: Gonur Tepe",
+        "native": null
+      },
+      "external_url": "https://pleiades.stoa.org/places/391537222",
+      "sources": [
+        "src-bmac-pleiades-gonur-391537222"
+      ],
+      "attribution": "Pleiades / ISAW",
+      "media_type": "external-catalog"
+    },
+    {
+      "id": "media-bmac-hiebert-peabody",
+      "title": {
+        "zh": "Peabody：Hiebert 1994 出版页",
+        "en": "Peabody: Hiebert 1994 publication page",
+        "native": null
+      },
+      "external_url": "https://peabody.harvard.edu/publications/origins-bronze-age-oasis-civilization-central-asia",
+      "sources": [
+        "src-bmac-hiebert-1994"
+      ],
+      "attribution": "Peabody Museum Press",
+      "media_type": "document-link"
+    }
+  ]
+}

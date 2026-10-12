@@ -1,0 +1,33 @@
+{
+  "id": "claim-bmac-antiquity-1994-frame",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《Antiquity》1994 年 Oxus 专刊为该复合体提供英文学界关键议程设置（Hiebert；Lamberg-Karlovsky）。",
+    "en": "The 1994 Antiquity Oxus special section provided key Anglophone agenda-setting for the complex (Hiebert; Lamberg-Karlovsky)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-hiebert-antiquity-1994",
+    "src-bmac-lamberg-karlovsky-antiquity-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -2,7 +2,7 @@
   "id": "civ-teotihuacan",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "特奥蒂瓦坎",
     "en": "Teotihuacan",
@@ -11,26 +11,56 @@
   "region": "Mesoamerica / Basin of Mexico (central Mexico)",
   "time_span": "Classic-period metropolis floruit broadly 1st–6th/7th c. CE (Cowgill / Mapping Project frames)",
   "summary": {
-    "zh": "特奥蒂瓦坎档案壳：Millon/Cowgill 测绘 + 教科文；library-seed。",
-    "en": "Teotihuacan archive shell: Millon/Cowgill mapping + UNESCO; library-seed."
+    "zh": "特奥蒂瓦坎档案（library-seed-rich）：Millon/Cowgill TMP + 太阳/月亮金字塔与公寓区框架；仍加厚中。",
+    "en": "Teotihuacan archive (library-seed-rich): Millon/Cowgill TMP + Sun/Moon pyramids and apartment-compound frames; still thickening."
   },
   "sources": [
-    "src-teotihuacan-unesco-414",
+    "src-teotihuacan-asu-lab-orientation",
+    "src-teotihuacan-cabrera-castro-orientation",
     "src-teotihuacan-cowgill-2015",
+    "src-teotihuacan-cowgill-urbanism-deepen",
+    "src-teotihuacan-inah-site-orientation",
+    "src-teotihuacan-manzanilla-orientation",
     "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-pasztory-art-orientation",
+    "src-teotihuacan-spence-obsidian-orientation",
+    "src-teotihuacan-sugiyama-feathered-serpent",
     "src-teotihuacan-tmp-antiquity-data",
-    "src-teotihuacan-asu-lab-orientation"
+    "src-teotihuacan-tmp-data-paper",
+    "src-teotihuacan-unesco-414",
+    "src-teotihuacan-unesco-414-maps",
+    "src-teotihuacan-white-price-orientation"
   ],
   "site_ids": [
-    "site-teotihuacan"
+    "site-teotihuacan",
+    "site-teotihuacan-apartment-compounds-frame",
+    "site-teotihuacan-ciudadela-fsp",
+    "site-teotihuacan-obsidian-workshops-frame",
+    "site-teotihuacan-pyramid-moon-frame",
+    "site-teotihuacan-pyramid-sun-frame"
   ],
   "period_ids": [
-    "period-teotihuacan-classic-floruit"
+    "period-teotihuacan-classic-floruit",
+    "period-teotihuacan-miccaotli-tlamimilolpa",
+    "period-teotihuacan-patlachique-tzacualli",
+    "period-teotihuacan-xolalpan-metepec"
   ],
   "claim_ids": [
-    "claim-teotihuacan-planned-metropolis"
+    "claim-teotihuacan-apartment-compounds",
+    "claim-teotihuacan-bioarchaeology-mobility",
+    "claim-teotihuacan-cowgill-urban-synthesis",
+    "claim-teotihuacan-decline-hypothesis",
+    "claim-teotihuacan-fsp-sacrifice",
+    "claim-teotihuacan-inah-excavation-tradition",
+    "claim-teotihuacan-mural-iconography",
+    "claim-teotihuacan-obsidian-economy",
+    "claim-teotihuacan-planned-metropolis",
+    "claim-teotihuacan-tmp-grid",
+    "claim-teotihuacan-unesco-metropolis"
   ],
   "object_ids": [
+    "asm-teotihuacan-fsp-sacrifices-frame",
+    "asm-teotihuacan-pyramids-frame",
     "asm-teotihuacan-urban-grid-frame"
   ],
   "related_ids": [
@@ -41,10 +71,11 @@
   "markdown_path": "data/civilizations/civ-teotihuacan.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

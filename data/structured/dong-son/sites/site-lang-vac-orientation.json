@@ -1,0 +1,32 @@
+{
+  "id": "site-lang-vac-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "朗瓦（指针）",
+    "en": "Lang Vạc (orientation)",
+    "native": "Lang Vạc"
+  },
+  "kind_note": "Đông Sơn cemetery/settlement locality",
+  "region": "Nghệ An region, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "东山墓地/定居点指针。",
+    "en": "Đông Sơn cemetery/settlement orientation."
+  },
+  "sources": [
+    "src-dongson-vietnam-institute-orientation",
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-ugarit-royal-palace-frame",
+  "entity": "site",
+  "names": {
+    "zh": "乌加里特王宫框架（指针）",
+    "en": "Ugarit royal palace frame (orientation)",
+    "native": null
+  },
+  "kind_note": "palace district orientation",
+  "region": "Ras Shamra, Syria",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "王宫区框架指针；坐标并入主丘。",
+    "en": "Palace-district frame; coords deferred with main tell."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-courtois-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

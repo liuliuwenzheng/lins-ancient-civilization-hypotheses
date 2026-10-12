@@ -1,0 +1,44 @@
+{
+  "id": "asm-dong-son-heger-drums-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "Heger 型东山铜鼓框架组合",
+    "en": "Heger-type Đông Sơn drums frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-classic-drums"
+  ],
+  "summary": {
+    "zh": "Heger 型铜鼓类型学指针；无伪造馆藏号。",
+    "en": "Heger-type drum typology pointer; no forged catalog numbers."
+  },
+  "sources": [
+    "src-dongson-calo-bronze-drums-2009",
+    "src-dongson-nguyen-drum-typology",
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "media-nok-jaa-chronology-pdf",
+  "entity": "media",
+  "title": {
+    "zh": "JAA：诺克年代学 PDF",
+    "en": "JAA: Nok chronology PDF",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://brill.com/view/journals/jaa/14/3/article-p257_2.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-nok-jaa-chronology-2016",
+    "src-nok-breunig-renn-chronology"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Journal of African Archaeology / Brill",
+    "upstream_url": "https://brill.com/view/journals/jaa/14/3/article-p257_2.pdf",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "period-lapita-remote-oceania",
+  "entity": "period",
+  "names": {
+    "zh": "远大洋洲扩散窗",
+    "en": "Remote Oceania dispersal window"
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "ca. 3000–2700 BP into Vanuatu/Fiji/Tonga/Samoa (working band)",
+    "approx_from_bce": 1050,
+    "approx_to_bce": 750,
+    "scheme_note": "Dispersal working band."
+  },
+  "summary": {
+    "zh": "远大洋洲扩散窗。",
+    "en": "Remote Oceania dispersal window."
+  },
+  "sources": [
+    "src-lapita-bedford-vanuatu",
+    "src-lapita-sheppard-orientation",
+    "src-lapita-teouma-antiquity"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -2,7 +2,7 @@
   "id": "civ-nubia-kush",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "努比亚 / 库施",
     "en": "Nubia / Kush",
@@ -11,29 +11,60 @@
   "region": "Northeast Africa / Middle Nile (southern Egypt and Sudan)",
   "time_span": "Kerma Bronze Age through Napatan–Meroitic Kush (Edwards 2004 overview)",
   "summary": {
-    "zh": "努比亚/库施档案壳：Edwards 综合 + Kerma/麦罗埃；library-seed。",
-    "en": "Nubia/Kush archive shell: Edwards synthesis + Kerma/Meroe; library-seed."
+    "zh": "努比亚/库施档案（library-seed-rich）：Edwards/Welsby + Kerma/纳帕塔/麦罗埃关键遗址与阶段窗；仍加厚中。",
+    "en": "Nubia/Kush archive (library-seed-rich): Edwards/Welsby + Kerma/Napata/Meroe keystone sites and phase windows; still thickening."
   },
   "sources": [
+    "src-nubia-bonnet-honegger-kerma-orientation",
+    "src-nubia-bonnet-kerma-orientation",
+    "src-nubia-dunham-barkal-orientation",
     "src-nubia-edwards-2004",
-    "src-nubia-welsby-1996",
-    "src-nubia-unesco-island-meroe-2011",
     "src-nubia-emberling-williams-2021",
-    "src-nubia-bonnet-kerma-orientation"
+    "src-nubia-oxford-handbook-chapters-orientation",
+    "src-nubia-pleiades-barkal-508356079",
+    "src-nubia-pleiades-meroe-805630",
+    "src-nubia-pleiades-musawwarat-805632",
+    "src-nubia-pleiades-naqa-805635",
+    "src-nubia-rilly-meroitic-orientation",
+    "src-nubia-torok-1997",
+    "src-nubia-unesco-gebel-barkal-1073",
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-welsby-1996"
   ],
   "site_ids": [
+    "site-el-kurru",
+    "site-jebel-barkal",
     "site-kerma",
+    "site-kerma-eastern-cemetery-frame",
     "site-meroe",
-    "site-jebel-barkal"
+    "site-musawwarat-es-sufra",
+    "site-naqa",
+    "site-nuri",
+    "site-sanam"
   ],
   "period_ids": [
-    "period-nubia-kush-overview"
+    "period-nubia-kerma",
+    "period-nubia-kush-overview",
+    "period-nubia-meroitic",
+    "period-nubia-napatan"
   ],
   "claim_ids": [
-    "claim-nubia-kerma-meroe-sequence"
+    "claim-nubia-barkal-unesco-napatan",
+    "claim-nubia-handbook-2021-orientation",
+    "claim-nubia-kerma-deffufa-urban",
+    "claim-nubia-kerma-meroe-sequence",
+    "claim-nubia-long-sequence-edwards",
+    "claim-nubia-meroe-unesco-island",
+    "claim-nubia-meroitic-script-archive-medium",
+    "claim-nubia-musawwarat-temple-complex",
+    "claim-nubia-napatan-royal-cemeteries",
+    "claim-nubia-naqa-temple-settlement",
+    "claim-nubia-twenty-fifth-dynasty-frame"
   ],
   "object_ids": [
-    "asm-nubia-meroe-pyramids-frame"
+    "asm-nubia-kerma-deffufa-frame",
+    "asm-nubia-meroe-pyramids-frame",
+    "asm-nubia-napatan-pyramids-frame"
   ],
   "related_ids": [
     "civ-ancient-egypt"
@@ -41,10 +72,11 @@
   "markdown_path": "data/civilizations/civ-nubia-kush.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

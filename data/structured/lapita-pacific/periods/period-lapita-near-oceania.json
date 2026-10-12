@@ -1,0 +1,35 @@
+{
+  "id": "period-lapita-near-oceania",
+  "entity": "period",
+  "names": {
+    "zh": "近大洋洲拉皮塔窗",
+    "en": "Near Oceania Lapita window"
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "ca. 3300–3000 BP Bismarck/Island Melanesia appearance (working band)",
+    "approx_from_bce": 1350,
+    "approx_to_bce": 1050,
+    "scheme_note": "BP→BCE coarse conversion; refine with cited models."
+  },
+  "summary": {
+    "zh": "近大洋洲出现窗。",
+    "en": "Near Oceania appearance window."
+  },
+  "sources": [
+    "src-lapita-summerhayes-orientation",
+    "src-lapita-dating-appearance-orientation",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

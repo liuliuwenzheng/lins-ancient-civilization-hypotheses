@@ -1,0 +1,35 @@
+{
+  "id": "claim-lapita-bismarck-origins",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究将早期拉皮塔出现与俾斯麦群岛生产/交换网络相联系（Summerhayes；Kirch）。",
+    "en": "Research links early Lapita appearance to Bismarck Archipelago production/exchange networks (Summerhayes; Kirch)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-bismarck-early-lapita-frame",
+    "site-talepakemalai"
+  ],
+  "period_ids": [
+    "period-lapita-near-oceania"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-summerhayes-orientation",
+    "src-lapita-kirch-talepakemalai",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claim-elam-haft-tepe-kabnak-centre",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘与综合将哈夫特·特佩与中埃兰 Kabnak 行政—宗教中心相联系（Negahban；Potts 2016）。",
+    "en": "Excavation and synthesis link Haft Tepe with Middle Elamite Kabnak (Negahban; Potts 2016)."
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-haft-tepe-kabnak"
+  ],
+  "period_ids": [
+    "period-elam-middle"
+  ],
+  "object_ids": [
+    "asm-elam-haft-tepe-frame"
+  ],
+  "sources": [
+    "src-elam-negahban-haft-tepe-orientation",
+    "src-elam-potts-2016"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

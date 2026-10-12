@@ -1,0 +1,33 @@
+{
+  "id": "claim-lapita-talepakemalai-near-oceania",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kirch 将塔勒帕克马莱表述为近大洋洲早期拉皮塔关键遗址（Mussau；Cotsen/UCLA 出版）。",
+    "en": "Kirch frames Talepakemalai as a key early Lapita site in Near Oceania (Mussau; Cotsen/UCLA publication)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-talepakemalai"
+  ],
+  "period_ids": [
+    "period-lapita-near-oceania"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-kirch-talepakemalai",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

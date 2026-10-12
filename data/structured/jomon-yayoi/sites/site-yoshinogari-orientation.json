@@ -1,0 +1,33 @@
+{
+  "id": "site-yoshinogari-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "吉野ケ里（指针）",
+    "en": "Yoshinogari (orientation)",
+    "native": "吉野ヶ里"
+  },
+  "kind_note": "Large Yayoi settlement/park often used as Yayoi type illustration",
+  "region": "Saga, Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "大型弥生聚落公共展示指针。",
+    "en": "Large Yayoi settlement public-orientation site."
+  },
+  "sources": [
+    "src-yayoi-yoshinogari-orientation",
+    "src-yayoi-barnes-orientation",
+    "src-yayoi-barnes-archaeology-japan"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "period-teotihuacan-miccaotli-tlamimilolpa",
+  "entity": "period",
+  "names": {
+    "zh": "经典早期繁荣窗",
+    "en": "Early Classic floruit window"
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "time": {
+    "label": "Miccaotli–Tlamimilolpa working labels (Cowgill)",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "CE-span phases; approx years deferred — label-only honesty."
+  },
+  "summary": {
+    "zh": "经典早期标签窗。",
+    "en": "Early Classic label window."
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

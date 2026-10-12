@@ -1,0 +1,33 @@
+{
+  "id": "claim-dong-son-lang-vac-cemetery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘传统将朗瓦等地点作为东山墓地/定居研究案例（越南研究所传统）。",
+    "en": "Excavation tradition treats localities such as Lang Vạc as Đông Sơn cemetery/settlement case studies (Vietnamese institute tradition)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-lang-vac-orientation"
+  ],
+  "period_ids": [
+    "period-dong-son-classic-drums"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-vietnam-institute-orientation",
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

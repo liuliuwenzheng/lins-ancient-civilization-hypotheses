@@ -1,0 +1,33 @@
+{
+  "id": "claim-bmac-state-level-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说：将 BMAC 直接等同于「早期国家」或单一族群实体的模型证据不足，宜保持复合体/绿洲网络表述（Lamberg-Karlovsky 讨论语境）。",
+    "en": "Hypothesis: equating BMAC directly with an ‘early state’ or single ethnic entity is underdetermined; prefer complex/oasis-network wording (Lamberg-Karlovsky discussion context)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-lamberg-karlovsky-roa-2012",
+    "src-bmac-hiebert-1994"
+  ],
+  "disclaimer": "Hypothesis: state-level and ethnic equivalences are debated; not established fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

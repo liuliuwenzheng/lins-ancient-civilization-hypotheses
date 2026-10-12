@@ -1,0 +1,33 @@
+{
+  "id": "claim-lapita-new-caledonia-type-name",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "新喀里多尼亚「Lapita」地点为齿印陶命名来源地（Sand；Green）。",
+    "en": "The New Caledonia ‘Lapita’ locality is the name-giving source for dentate-stamped pottery (Sand; Green)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-new-caledonia-type"
+  ],
+  "period_ids": [
+    "period-lapita-near-oceania"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-sand-western-lapita",
+    "src-lapita-green-retrospective"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

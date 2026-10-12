@@ -1,0 +1,37 @@
+{
+  "id": "site-nuri",
+  "entity": "site",
+  "names": {
+    "zh": "努里",
+    "en": "Nuri",
+    "native": "Nuri"
+  },
+  "kind_note": "Napatan royal pyramid cemetery",
+  "region": "Dongola Reach, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "纳帕塔王室金字塔墓地。",
+    "en": "Napatan royal pyramid cemetery."
+  },
+  "sources": [
+    "src-nubia-unesco-gebel-barkal-1073",
+    "src-nubia-dunham-barkal-orientation",
+    "src-nubia-welsby-1996"
+  ],
+  "coordinates": {
+    "lat": 18.563889,
+    "lon": 31.916667,
+    "precision_note": "UNESCO WHC list 1073 component 1073-003 published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

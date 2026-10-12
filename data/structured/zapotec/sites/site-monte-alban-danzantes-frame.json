@@ -1,0 +1,32 @@
+{
+  "id": "site-monte-alban-danzantes-frame",
+  "entity": "site",
+  "names": {
+    "zh": "舞者石碑框架（指针）",
+    "en": "Danzantes monuments frame (orientation)",
+    "native": null
+  },
+  "kind_note": "monument group orientation",
+  "region": "Valley of Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "早期浮雕/文字相关纪念碑框架。",
+    "en": "Early relief/writing-related monuments frame."
+  },
+  "sources": [
+    "src-zapotec-umoto-danzantes-orientation",
+    "src-zapotec-marcus-flannery-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "civ_id": "civ-zapotec",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "萨波特克档案（library-seed-rich）：Blanton/Marcus–Flannery + 蒙特·阿尔班与谷地聚落；仍加厚中。",
+    "en": "Zapotec archive (library-seed-rich): Blanton/Marcus–Flannery + Monte Albán and valley settlement; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-zapotec-marcus-flannery-1996",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Marcus, Joyce, and Kent V. Flannery. 1996. Zapotec Civilization: How Urban Society Evolved in Mexico's Oaxaca Valley. London: Thames and Hudson.",
+      "url": null,
+      "notes": "Major Oaxaca Formative–Classic synthesis."
+    },
+    {
+      "id": "src-zapotec-flannery-marcus-cloud-people",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Flannery, Kent V., and Joyce Marcus. The Cloud People and related Oaxaca Formative village publications.",
+      "url": null,
+      "notes": "Formative villages orientation."
+    },
+    {
+      "id": "src-zapotec-casternada-inah",
+      "type": "web",
+      "tier": "T",
+      "citation": "INAH Zona Arqueológica de Monte Albán public documentation (tier T).",
+      "url": "https://www.inah.gob.mx/",
+      "notes": "INAH institutional orientation; site-specific URL deepen later."
+    },
+    {
+      "id": "src-zapotec-unesco-415-maps",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Historic Centre of Oaxaca and Archaeological Site of Monte Albán — maps. https://whc.unesco.org/en/list/415/",
+      "url": "https://whc.unesco.org/en/list/415/",
+      "notes": "WHC published coordinates."
+    },
+    {
+      "id": "src-zapotec-blanton-feinman-kowalewski",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Blanton, Feinman, Kowalewski, Nicholas — Ancient Oaxaca / settlement-pattern volumes (Cambridge case-study tradition).",
+      "url": "https://www.cambridge.org/core/books/ancient-oaxaca/origins-of-monte-alban/42F9559B9F8C0456783C648CA57C7054",
+      "notes": "Origins of Monte Albán chapter orientation."
+    },
+    {
+      "id": "src-zapotec-umoto-danzantes-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Urcid, Javier / other epigraphers — Danzantes and early Zapotec writing orientation.",
+      "url": null,
+      "notes": "Early writing/Danzantes orientation."
+    },
+    {
+      "id": "src-zapotec-spencer-redmond-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Spencer, Charles S., and Elsa M. Redmond — Oaxaca state formation and Monte Albán expansion debates.",
+      "url": null,
+      "notes": "State-formation debate orientation."
+    },
+    {
+      "id": "src-zapotec-winter-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Winter, Marcus. Monte Albán and Oaxaca excavation/survey publications (INAH tradition).",
+      "url": null,
+      "notes": "INAH excavation tradition pointer."
+    },
+    {
+      "id": "src-zapotec-san-jose-mogote-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Flannery/Marcus San José Mogote Formative village excavation publications — pre-Monte Albán centre.",
+      "url": null,
+      "notes": "Formative keystone village tradition."
+    },
+    {
+      "id": "src-zapotec-mitla-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "Mitla (Lyobaa) later Zapotec centre public/INAH orientation (tier T; Classic–Postclassic continue).",
+      "url": null,
+      "notes": "Later centre orientation; not to inflate Classic density."
+    }
+  ],
+  "fill_coords": {
+    "site-monte-alban": {
+      "lat": 17.046323,
+      "lon": -96.768133,
+      "precision_note": "UNESCO WHC list 415 component 415-002 published DMS→decimal; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-san-jose-mogote",
+      "names": {
+        "zh": "圣何塞·莫戈特",
+        "en": "San José Mogote",
+        "native": "San José Mogote"
+      },
+      "kind_note": "Formative village centre preceding Monte Albán",
+      "region": "Valley of Oaxaca, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "蒙特·阿尔班之前的形成期村落中心。",
+        "en": "Formative village centre preceding Monte Albán."
+      },
+      "sources": [
+        "src-zapotec-san-jose-mogote-orientation",
+        "src-zapotec-marcus-flannery-1996",
+        "src-zapotec-flannery-marcus-cloud-people"
+      ]
+    },
+    {
+      "id": "site-monte-alban-main-plaza-frame",
+      "names": {
+        "zh": "蒙特·阿尔班主广场框架（指针）",
+        "en": "Monte Albán Main Plaza frame (orientation)",
+        "native": null
+      },
+      "kind_note": "ceremonial core orientation",
+      "region": "Valley of Oaxaca, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "山巅都城主广场仪礼核心。",
+        "en": "Hilltop capital Main Plaza ritual core."
+      },
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978",
+        "src-zapotec-unesco-monte-alban-415"
+      ]
+    },
+    {
+      "id": "site-monte-alban-danzantes-frame",
+      "names": {
+        "zh": "舞者石碑框架（指针）",
+        "en": "Danzantes monuments frame (orientation)",
+        "native": null
+      },
+      "kind_note": "monument group orientation",
+      "region": "Valley of Oaxaca, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "早期浮雕/文字相关纪念碑框架。",
+        "en": "Early relief/writing-related monuments frame."
+      },
+      "sources": [
+        "src-zapotec-umoto-danzantes-orientation",
+        "src-zapotec-marcus-flannery-1996"
+      ]
+    },
+    {
+      "id": "site-oaxaca-valley-survey-frame",
+      "names": {
+        "zh": "瓦哈卡谷地调查框架（指针）",
+        "en": "Valley of Oaxaca survey frame (orientation)",
+        "native": null
+      },
+      "kind_note": "survey-region",
+      "region": "Valley of Oaxaca, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "谷地聚落形态调查框架。",
+        "en": "Valley settlement-pattern survey frame."
+      },
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978",
+        "src-zapotec-blanton-feinman-kowalewski"
+      ]
+    },
+    {
+      "id": "site-mitla-orientation",
+      "names": {
+        "zh": "米特拉（指针）",
+        "en": "Mitla (orientation)",
+        "native": "Lyobaa"
+      },
+      "kind_note": "Later Zapotec centre",
+      "region": "Valley of Oaxaca, Mexico",
+      "coords": null,
+      "summary": {
+        "zh": "晚期萨波特克中心指针。",
+        "en": "Later Zapotec centre orientation."
+      },
+      "sources": [
+        "src-zapotec-mitla-orientation",
+        "src-zapotec-marcus-flannery-1996"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-zapotec-formative-villages",
+      "names": {
+        "zh": "形成期村落窗",
+        "en": "Formative villages window"
+      },
+      "time": {
+        "label": "Oaxaca Formative villages into Monte Albán foundation (~500 BCE) (Marcus & Flannery)",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 500,
+        "scheme_note": "Formative into foundation."
+      },
+      "summary": {
+        "zh": "形成期至建城。",
+        "en": "Formative into foundation."
+      },
+      "sources": [
+        "src-zapotec-marcus-flannery-1996",
+        "src-zapotec-san-jose-mogote-orientation"
+      ]
+    },
+    {
+      "id": "period-zapotec-monte-alban-i-ii",
+      "names": {
+        "zh": "蒙特·阿尔班 I–II 窗",
+        "en": "Monte Albán I–II window"
+      },
+      "time": {
+        "label": "Late Formative capital establishment phases (Blanton/Marcus frames)",
+        "approx_from_bce": 500,
+        "approx_to_bce": 100,
+        "scheme_note": "Phase labels as published; absolute refine later."
+      },
+      "summary": {
+        "zh": "建城早期阶段窗。",
+        "en": "Early capital-phase window."
+      },
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978",
+        "src-zapotec-marcus-flannery-1996"
+      ]
+    },
+    {
+      "id": "period-zapotec-monte-alban-iii",
+      "names": {
+        "zh": "蒙特·阿尔班 III 经典窗",
+        "en": "Monte Albán III Classic window"
+      },
+      "time": {
+        "label": "Classic capital florescence (Blanton frame)",
+        "approx_from_bce": 100,
+        "approx_to_bce": null,
+        "scheme_note": "CE Classic; end deferred."
+      },
+      "summary": {
+        "zh": "经典都城繁荣窗。",
+        "en": "Classic capital florescence window."
+      },
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978",
+        "src-zapotec-unesco-monte-alban-415"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-monte-alban-plaza-architecture-frame",
+      "names": {
+        "zh": "蒙特·阿尔班主广场建筑框架组合",
+        "en": "Monte Albán Main Plaza architecture frame assemblage"
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-florescence"
+      ],
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978",
+        "src-zapotec-unesco-monte-alban-415"
+      ],
+      "summary": {
+        "zh": "主广场建筑群指针。",
+        "en": "Main Plaza architectural group pointer."
+      }
+    },
+    {
+      "id": "asm-zapotec-danzantes-frame",
+      "names": {
+        "zh": "舞者石碑框架组合",
+        "en": "Danzantes monuments frame assemblage"
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-i-ii"
+      ],
+      "sources": [
+        "src-zapotec-umoto-danzantes-orientation",
+        "src-zapotec-marcus-flannery-1996"
+      ],
+      "summary": {
+        "zh": "早期浮雕纪念碑指针；无伪造碑号。",
+        "en": "Early relief-monument pointer; no forged stele numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-zapotec-unesco-monte-alban",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将蒙特·阿尔班列为瓦哈卡谷地古代萨波特克考古遗址（与瓦哈卡历史中心一并列入）（UNESCO 415）。",
+        "en": "UNESCO lists Monte Albán as the ancient Zapotec archaeological site of the Valley of Oaxaca (with the historic centre of Oaxaca) (UNESCO 415)."
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-florescence"
+      ],
+      "sources": [
+        "src-zapotec-unesco-monte-alban-415",
+        "src-zapotec-unesco-415-maps",
+        "src-zapotec-blanton-monte-alban-1978"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-zapotec-blanton-settlement-mapping",
+      "kind": "fact",
+      "statement": {
+        "zh": "Blanton 1978 聚落形态专著系统测绘蒙特·阿尔班山巅都城地表建筑与居住区（Blanton 1978）。",
+        "en": "Blanton 1978 systematically mapped surface architecture and residential zones of the Monte Albán hilltop capital (Blanton 1978)."
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-florescence"
+      ],
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978",
+        "src-zapotec-blanton-feinman-kowalewski"
+      ],
+      "object_ids": [
+        "asm-monte-alban-settlement-frame"
+      ]
+    },
+    {
+      "id": "claim-zapotec-san-jose-mogote-formative",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘传统将圣何塞·莫戈特表述为蒙特·阿尔班建城之前的关键形成期村落中心（Flannery & Marcus）。",
+        "en": "Excavation tradition frames San José Mogote as a key Formative village centre before Monte Albán’s foundation (Flannery & Marcus)."
+      },
+      "site_ids": [
+        "site-san-jose-mogote"
+      ],
+      "period_ids": [
+        "period-zapotec-formative-villages"
+      ],
+      "sources": [
+        "src-zapotec-san-jose-mogote-orientation",
+        "src-zapotec-marcus-flannery-1996",
+        "src-zapotec-flannery-marcus-cloud-people"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-zapotec-danzantes-early-writing",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究将舞者石碑群与早期萨波特克文字/政治展示联系起来（Urcid 等；Marcus & Flannery）。",
+        "en": "Research links the Danzantes monument group with early Zapotec writing/political display (Urcid et al.; Marcus & Flannery)."
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-i-ii"
+      ],
+      "sources": [
+        "src-zapotec-umoto-danzantes-orientation",
+        "src-zapotec-marcus-flannery-1996"
+      ],
+      "object_ids": [
+        "asm-zapotec-danzantes-frame"
+      ]
+    },
+    {
+      "id": "claim-zapotec-valley-survey",
+      "kind": "fact",
+      "statement": {
+        "zh": "谷地调查将蒙特·阿尔班置于瓦哈卡谷地聚落等级与腹地网络中（Blanton/Feinman/Kowalewski）。",
+        "en": "Valley survey places Monte Albán within Oaxaca settlement hierarchy and hinterland networks (Blanton/Feinman/Kowalewski)."
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-florescence"
+      ],
+      "sources": [
+        "src-zapotec-blanton-feinman-kowalewski",
+        "src-zapotec-blanton-monte-alban-1978"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-zapotec-marcus-flannery-urban-evolution",
+      "kind": "fact",
+      "statement": {
+        "zh": "Marcus & Flannery 1996 综合讨论瓦哈卡谷地如何演化出都市社会（Zapotec Civilization）。",
+        "en": "Marcus & Flannery 1996 synthesize how urban society evolved in the Valley of Oaxaca (Zapotec Civilization)."
+      },
+      "site_ids": [
+        "site-monte-alban",
+        "site-san-jose-mogote"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-florescence"
+      ],
+      "sources": [
+        "src-zapotec-marcus-flannery-1996",
+        "src-zapotec-marcus-flannery-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-zapotec-state-formation-debate",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说/争论：蒙特·阿尔班扩张与「早期国家」模型的机制（征服、殖民、联盟）仍有 Spencer/Redmond 等争论。",
+        "en": "Hypothesis/debate: mechanisms of Monte Albán expansion and ‘early state’ models (conquest, colonization, alliance) remain debated (Spencer/Redmond et al.)."
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-i-ii"
+      ],
+      "sources": [
+        "src-zapotec-spencer-redmond-orientation",
+        "src-zapotec-marcus-flannery-1996"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis/debate: state-formation mechanisms are contested; not a single fact claim."
+    },
+    {
+      "id": "claim-zapotec-winter-inah-excavation",
+      "kind": "fact",
+      "statement": {
+        "zh": "Winter 等 INAH 发掘/调查传统持续填充蒙特·阿尔班与谷地地层细节（Winter 传统）。",
+        "en": "Winter and related INAH excavation/survey traditions continue to fill stratigraphic detail at Monte Albán and in the valley (Winter tradition)."
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-florescence"
+      ],
+      "sources": [
+        "src-zapotec-winter-orientation",
+        "src-zapotec-blanton-monte-alban-1978"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-zapotec-mitla-later-centre",
+      "kind": "fact",
+      "statement": {
+        "zh": "公共/研究导向将米特拉作为晚期萨波特克中心之一讨论（INAH/T 级导向）。",
+        "en": "Public/research orientation discusses Mitla as a later Zapotec centre (INAH/tier-T orientation)."
+      },
+      "site_ids": [
+        "site-mitla-orientation"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-iii"
+      ],
+      "sources": [
+        "src-zapotec-mitla-orientation",
+        "src-zapotec-marcus-flannery-1996"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-zapotec-foundation-circa-500",
+      "kind": "fact",
+      "statement": {
+        "zh": "综合将蒙特·阿尔班建城置于约公元前 500 年前后的形成期末（Blanton；Marcus & Flannery）。",
+        "en": "Syntheses place Monte Albán’s foundation around ca. 500 BCE in the terminal Formative (Blanton; Marcus & Flannery)."
+      },
+      "site_ids": [
+        "site-monte-alban"
+      ],
+      "period_ids": [
+        "period-zapotec-monte-alban-i-ii"
+      ],
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978",
+        "src-zapotec-marcus-flannery-1996",
+        "src-zapotec-blanton-et-al-ancient-oaxaca"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-zapotec-unesco",
+      "title": {
+        "zh": "教科文：蒙特·阿尔班",
+        "en": "UNESCO: Monte Albán",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/415/",
+      "sources": [
+        "src-zapotec-unesco-monte-alban-415"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-zapotec-blanton-archive",
+      "title": {
+        "zh": "Archive.org：Blanton 1978",
+        "en": "Archive.org: Blanton 1978",
+        "native": null
+      },
+      "external_url": "https://archive.org/details/montealbansettle0000blan",
+      "sources": [
+        "src-zapotec-blanton-monte-alban-1978"
+      ],
+      "attribution": "Internet Archive",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-zapotec-inah",
+      "title": {
+        "zh": "INAH 门户",
+        "en": "INAH portal",
+        "native": null
+      },
+      "external_url": "https://www.inah.gob.mx/",
+      "sources": [
+        "src-zapotec-casternada-inah"
+      ],
+      "attribution": "INAH",
+      "media_type": "document-link"
+    }
+  ]
+}

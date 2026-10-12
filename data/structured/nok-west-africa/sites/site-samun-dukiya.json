@@ -1,0 +1,33 @@
+{
+  "id": "site-samun-dukiya",
+  "entity": "site",
+  "names": {
+    "zh": "萨蒙·杜基亚",
+    "en": "Samun Dukiya",
+    "native": "Samun Dukiya"
+  },
+  "kind_note": "Excavated Nok settlement/terracotta context",
+  "region": "Central Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "发掘的诺克定居/陶俑语境遗址。",
+    "en": "Excavated Nok settlement/terracotta context."
+  },
+  "sources": [
+    "src-nok-samun-dukiya-orientation",
+    "src-nok-jaa-outline-2016",
+    "src-nok-breunig-renn-chronology"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

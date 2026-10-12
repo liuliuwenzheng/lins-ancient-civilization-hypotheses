@@ -1,0 +1,35 @@
+{
+  "id": "claim-ugarit-yon-city-layout",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Yon 综合依据长期发掘将拉斯沙姆拉表述为含宫殿、卫城神庙与港口联系的晚青铜都城（Yon 2006）。",
+    "en": "Yon’s synthesis, based on long-term excavation, frames Ras Shamra as an LBA capital with palace, acropolis temples, and port links (Yon 2006)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit",
+    "site-minet-el-beida"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-courtois-orientation",
+    "src-ugarit-schaeffer-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

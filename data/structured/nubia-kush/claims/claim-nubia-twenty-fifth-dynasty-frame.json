@@ -1,0 +1,33 @@
+{
+  "id": "claim-nubia-twenty-fifth-dynasty-frame",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说/叙事框架：纳帕塔统治者在埃及第二十五王朝语境中的政治角色需与墓地—神庙证据分开审读（Welsby/Török）。",
+    "en": "Hypothesis/narrative frame: the political role of Napatan rulers in Twenty-Fifth Dynasty Egyptian contexts must be read separately from cemetery–temple evidence (Welsby/Török)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-jebel-barkal"
+  ],
+  "period_ids": [
+    "period-nubia-napatan"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-welsby-1996",
+    "src-nubia-torok-1997"
+  ],
+  "disclaimer": "Hypothesis/narrative: Egyptian Dyn. 25 political reconstruction is text-forward and debated; not a site-find fact claim.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

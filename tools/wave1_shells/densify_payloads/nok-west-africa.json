@@ -1,0 +1,550 @@
+{
+  "civ_id": "civ-nok-west-africa",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "诺克档案（library-seed-rich）：Frankfurt/JAA 年代学 + 陶俑/铁器传统遗址入口；非洲空白仍薄但可调用。",
+    "en": "Nok archive (library-seed-rich): Frankfurt/JAA chronology + terracotta/iron tradition site entries; Africa gap still thin but callable."
+  },
+  "sources": [
+    {
+      "id": "src-nok-jaa-outline-2016",
+      "type": "article",
+      "tier": "S",
+      "citation": "An Outline of Recent Studies on the Nigerian Nok Culture. Journal of African Archaeology (Frankfurt–Nigerian collaborative fieldwork survey).",
+      "url": "https://brill.com/view/journals/jaa/14/3/article-p237_1.pdf",
+      "notes": "Recent studies outline; OA/ Brill landing."
+    },
+    {
+      "id": "src-nok-jaa-chronology-2016",
+      "type": "article",
+      "tier": "S",
+      "citation": "Breunig, Peter; Rupp, Nicole; et al. Central Nigerian Nok Culture chronology papers in Journal of African Archaeology (~1500 BCE–turn of CE).",
+      "url": "https://brill.com/view/journals/jaa/14/3/article-p257_2.pdf",
+      "notes": "Absolute chronology orientation."
+    },
+    {
+      "id": "src-nok-fagg-1959-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Fagg, Bernard. Foundational articles identifying Nok culture terracottas (including Jemaa head tradition) in central Nigeria.",
+      "url": null,
+      "notes": "Discovery tradition; deepen with exact bibliographic pages later."
+    },
+    {
+      "id": "src-nok-jemkur-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Jemkur, Joseph F. Nok terracottas / central Nigerian Iron Age syntheses (orientation).",
+      "url": null,
+      "notes": "Regional synthesis orientation."
+    },
+    {
+      "id": "src-nok-iron-smelting-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Peer-reviewed papers on early iron-smelting evidence in Nok contexts (Frankfurt project / JAA tradition).",
+      "url": null,
+      "notes": "Iron technology orientation; no invented furnace inventories."
+    },
+    {
+      "id": "src-nok-terracotta-style-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Art-historical and archaeological catalogs of Nok-style terracotta sculpture in Nigerian museums (assemblage tradition).",
+      "url": null,
+      "notes": "Sculpture tradition; no forged inventory numbers."
+    },
+    {
+      "id": "src-nok-taruga-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Taruga (and related) early iron-smelting site publications often discussed with Nok iron chronology.",
+      "url": null,
+      "notes": "Taruga orientation pointer within Nok iron debates."
+    },
+    {
+      "id": "src-nok-samun-dukiya-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Samun Dukiya and related excavated Nok settlement/terracotta contexts (Frankfurt project site reports orientation).",
+      "url": null,
+      "notes": "Excavated settlement orientation."
+    },
+    {
+      "id": "src-nok-panafrican-iron-context",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Broader West African early iron syntheses placing Nok in regional ironization debates (handbook chapters).",
+      "url": null,
+      "notes": "Regional ironization orientation."
+    },
+    {
+      "id": "src-nok-british-museum-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "British Museum collection orientation pages for Nok-style terracottas (public catalog; tier T).",
+      "url": null,
+      "notes": "Public museum orientation; verify stable URL when deepening media."
+    }
+  ],
+  "fill_coords": {},
+  "sites": [
+    {
+      "id": "site-taruga-nok",
+      "names": {
+        "zh": "塔鲁加",
+        "en": "Taruga",
+        "native": "Taruga"
+      },
+      "kind_note": "Early iron-smelting locality discussed with Nok",
+      "region": "Central Nigeria",
+      "coords": null,
+      "summary": {
+        "zh": "与诺克铁器年代常被讨论的早期冶铁地点。",
+        "en": "Early iron-smelting locality often discussed with Nok iron chronology."
+      },
+      "sources": [
+        "src-nok-taruga-orientation",
+        "src-nok-breunig-renn-chronology",
+        "src-nok-iron-smelting-orientation"
+      ]
+    },
+    {
+      "id": "site-samun-dukiya",
+      "names": {
+        "zh": "萨蒙·杜基亚",
+        "en": "Samun Dukiya",
+        "native": "Samun Dukiya"
+      },
+      "kind_note": "Excavated Nok settlement/terracotta context",
+      "region": "Central Nigeria",
+      "coords": null,
+      "summary": {
+        "zh": "发掘的诺克定居/陶俑语境遗址。",
+        "en": "Excavated Nok settlement/terracotta context."
+      },
+      "sources": [
+        "src-nok-samun-dukiya-orientation",
+        "src-nok-jaa-outline-2016",
+        "src-nok-breunig-renn-chronology"
+      ]
+    },
+    {
+      "id": "site-nok-village-type",
+      "names": {
+        "zh": "诺克村（类型地）",
+        "en": "Nok village (type locality)",
+        "native": "Nok"
+      },
+      "kind_note": "Name-giving village locality",
+      "region": "Jos Plateau region, Nigeria",
+      "coords": null,
+      "summary": {
+        "zh": "文化命名地村落；与类型区并读。",
+        "en": "Name-giving village locality; read with type area."
+      },
+      "sources": [
+        "src-nok-fagg-orientation",
+        "src-nok-fagg-1959-orientation"
+      ]
+    },
+    {
+      "id": "site-nok-anama-orientation",
+      "names": {
+        "zh": "阿纳马等地（指针）",
+        "en": "Anama and related localities (orientation)",
+        "native": null
+      },
+      "kind_note": "findspot cluster orientation",
+      "region": "Central Nigeria",
+      "coords": null,
+      "summary": {
+        "zh": "Frankfurt 项目相关出土地集群指针。",
+        "en": "Frankfurt-project-related findspot cluster orientation."
+      },
+      "sources": [
+        "src-nok-jaa-outline-2016",
+        "src-nok-samun-dukiya-orientation"
+      ]
+    },
+    {
+      "id": "site-jos-museum-frame",
+      "names": {
+        "zh": "乔斯博物馆藏品框架（指针）",
+        "en": "Jos Museum holdings frame (orientation)",
+        "native": null
+      },
+      "kind_note": "museum assemblage orientation",
+      "region": "Jos, Nigeria",
+      "coords": null,
+      "summary": {
+        "zh": "博物馆藏品框架；非田野点坐标。",
+        "en": "Museum holdings frame; not a field coordinate."
+      },
+      "sources": [
+        "src-nok-terracotta-style-orientation",
+        "src-nok-jemaa-terracotta-tradition"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-nok-early",
+      "names": {
+        "zh": "诺克早期窗",
+        "en": "Nok early window"
+      },
+      "time": {
+        "label": "ca. 1500–900 BCE working band (JAA chronologies)",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 900,
+        "scheme_note": "Frankfurt/JAA early band; site-level refine later."
+      },
+      "summary": {
+        "zh": "早期工作窗。",
+        "en": "Early working window."
+      },
+      "sources": [
+        "src-nok-breunig-renn-chronology",
+        "src-nok-jaa-chronology-2016"
+      ]
+    },
+    {
+      "id": "period-nok-classic-terracotta",
+      "names": {
+        "zh": "诺克经典陶俑窗",
+        "en": "Nok classic terracotta window"
+      },
+      "time": {
+        "label": "1st millennium BCE terracotta floruit (research tradition)",
+        "approx_from_bce": 900,
+        "approx_to_bce": 1,
+        "scheme_note": "Terracotta-style floruit coarse window."
+      },
+      "summary": {
+        "zh": "陶俑风格繁荣粗窗。",
+        "en": "Terracotta-style floruit coarse window."
+      },
+      "sources": [
+        "src-nok-fagg-orientation",
+        "src-nok-terracotta-style-orientation",
+        "src-nok-jaa-outline-2016"
+      ]
+    },
+    {
+      "id": "period-nok-late",
+      "names": {
+        "zh": "诺克晚期窗",
+        "en": "Nok late window"
+      },
+      "time": {
+        "label": "late 1st millennium BCE to turn of CE (JAA)",
+        "approx_from_bce": 400,
+        "approx_to_bce": null,
+        "scheme_note": "Late band into turn of CE; approx_to_bce null."
+      },
+      "summary": {
+        "zh": "晚期至公元纪元初。",
+        "en": "Late band into turn of CE."
+      },
+      "sources": [
+        "src-nok-breunig-renn-chronology",
+        "src-nok-jaa-chronology-2016"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-nok-iron-smelting-frame",
+      "names": {
+        "zh": "诺克早期冶铁框架组合",
+        "en": "Nok early iron-smelting frame assemblage"
+      },
+      "site_ids": [
+        "site-taruga-nok",
+        "site-nok-type-area"
+      ],
+      "period_ids": [
+        "period-nok-early"
+      ],
+      "sources": [
+        "src-nok-iron-smelting-orientation",
+        "src-nok-taruga-orientation",
+        "src-nok-breunig-renn-chronology"
+      ],
+      "summary": {
+        "zh": "早期冶铁证据指针；无伪造炉址编号。",
+        "en": "Early iron-smelting evidence pointer; no forged furnace numbers."
+      }
+    },
+    {
+      "id": "asm-nok-jemaa-head-frame",
+      "names": {
+        "zh": "杰马陶俑头像框架组合",
+        "en": "Jemaa terracotta head frame assemblage"
+      },
+      "site_ids": [
+        "site-jemaa-nok"
+      ],
+      "period_ids": [
+        "period-nok-classic-terracotta"
+      ],
+      "sources": [
+        "src-nok-fagg-orientation",
+        "src-nok-jemaa-terracotta-tradition"
+      ],
+      "summary": {
+        "zh": "著名陶俑头像传统指针；无伪造馆藏号。",
+        "en": "Famous terracotta head tradition pointer; no forged catalog numbers."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-nok-jaa-chronology-band",
+      "kind": "fact",
+      "statement": {
+        "zh": "Frankfurt/JAA 年代学将诺克文化工作年代置于约 1500 BCE 至公元纪元初（Breunig/Rupp 等）。",
+        "en": "Frankfurt/JAA chronologies place the Nok culture working span ca. 1500 BCE to the turn of the Common Era (Breunig/Rupp et al.)."
+      },
+      "site_ids": [
+        "site-nok-type-area"
+      ],
+      "period_ids": [
+        "period-nok-iron-terracotta"
+      ],
+      "sources": [
+        "src-nok-breunig-renn-chronology",
+        "src-nok-jaa-chronology-2016",
+        "src-nok-jaa-outline-2016"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nok-terracotta-sculpture-tradition",
+      "kind": "fact",
+      "statement": {
+        "zh": "Fagg 识别传统与其后目录将特色陶俑雕塑作为诺克物质文化核心标志（Fagg；博物馆目录传统）。",
+        "en": "Fagg’s identification tradition and later catalogs treat distinctive terracotta sculpture as a core Nok material-culture marker (Fagg; museum catalog tradition)."
+      },
+      "site_ids": [
+        "site-jemaa-nok",
+        "site-nok-type-area"
+      ],
+      "period_ids": [
+        "period-nok-classic-terracotta"
+      ],
+      "sources": [
+        "src-nok-fagg-orientation",
+        "src-nok-jemaa-terracotta-tradition",
+        "src-nok-terracotta-style-orientation"
+      ],
+      "object_ids": [
+        "asm-nok-jemaa-head-frame"
+      ]
+    },
+    {
+      "id": "claim-nok-early-iron-evidence",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究讨论诺克语境中的早期冶铁证据，并与塔鲁加等地联系起来（JAA；冶铁专文）。",
+        "en": "Research discusses early iron-smelting evidence in Nok contexts and links it to localities such as Taruga (JAA; iron-technology papers)."
+      },
+      "site_ids": [
+        "site-taruga-nok"
+      ],
+      "period_ids": [
+        "period-nok-early"
+      ],
+      "sources": [
+        "src-nok-iron-smelting-orientation",
+        "src-nok-taruga-orientation",
+        "src-nok-breunig-renn-chronology"
+      ],
+      "object_ids": [
+        "asm-nok-iron-smelting-frame"
+      ]
+    },
+    {
+      "id": "claim-nok-samun-dukiya-excavated",
+      "kind": "fact",
+      "statement": {
+        "zh": "Frankfurt 项目报告将萨蒙·杜基亚等地点作为发掘的定居/陶俑语境（JAA outline）。",
+        "en": "Frankfurt project reports treat localities such as Samun Dukiya as excavated settlement/terracotta contexts (JAA outline)."
+      },
+      "site_ids": [
+        "site-samun-dukiya"
+      ],
+      "period_ids": [
+        "period-nok-classic-terracotta"
+      ],
+      "sources": [
+        "src-nok-samun-dukiya-orientation",
+        "src-nok-jaa-outline-2016"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nok-type-area-jos-plateau",
+      "kind": "fact",
+      "statement": {
+        "zh": "考古传统以乔斯高原及周边作为诺克文化命名类型区（Fagg；JAA）。",
+        "en": "Archaeological tradition treats the Jos Plateau and surroundings as the Nok name-giving type region (Fagg; JAA)."
+      },
+      "site_ids": [
+        "site-nok-type-area",
+        "site-nok-village-type"
+      ],
+      "period_ids": [
+        "period-nok-iron-terracotta"
+      ],
+      "sources": [
+        "src-nok-fagg-orientation",
+        "src-nok-jaa-outline-2016"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nok-jemaa-head-locality",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究史将杰马与著名陶俑头像发现及测年讨论相联系（Fagg 传统）。",
+        "en": "Research history links Jemaa with the famous terracotta head discovery and dating discussions (Fagg tradition)."
+      },
+      "site_ids": [
+        "site-jemaa-nok"
+      ],
+      "period_ids": [
+        "period-nok-classic-terracotta"
+      ],
+      "sources": [
+        "src-nok-fagg-orientation",
+        "src-nok-jemaa-terracotta-tradition"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nok-west-africa-ironization",
+      "kind": "fact",
+      "statement": {
+        "zh": "更广的西非早期铁器综述将诺克置于区域「铁器化」讨论中（手册取向）。",
+        "en": "Broader West African early-iron syntheses place Nok within regional ironization debates (handbook orientation)."
+      },
+      "site_ids": [
+        "site-nok-type-area"
+      ],
+      "period_ids": [
+        "period-nok-early"
+      ],
+      "sources": [
+        "src-nok-panafrican-iron-context",
+        "src-nok-iron-smelting-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nok-state-complexity-hypothesis",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说：依据陶俑与冶铁推断「国家」或等级社会复杂度的模型仍证据不足，宜保持考古文化表述（JAA 讨论语境）。",
+        "en": "Hypothesis: inferring ‘state’ or ranked social complexity from terracottas and iron remains underdetermined; prefer archaeological-culture wording (JAA discussion context)."
+      },
+      "site_ids": [
+        "site-nok-type-area"
+      ],
+      "period_ids": [
+        "period-nok-classic-terracotta"
+      ],
+      "sources": [
+        "src-nok-jaa-outline-2016",
+        "src-nok-breunig-renn-chronology"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: political-complexity inferences are debated; not established fact."
+    },
+    {
+      "id": "claim-nok-museum-assemblages",
+      "kind": "fact",
+      "statement": {
+        "zh": "尼日利亚博物馆与国际馆藏目录构成诺克陶俑风格研究的主要组合来源之一（目录传统；T 级公开展示需降权）。",
+        "en": "Nigerian museum and international catalogs form a major assemblage source for Nok terracotta style studies (catalog tradition; public displays remain tier T)."
+      },
+      "site_ids": [
+        "site-jos-museum-frame"
+      ],
+      "period_ids": [
+        "period-nok-classic-terracotta"
+      ],
+      "sources": [
+        "src-nok-terracotta-style-orientation",
+        "src-nok-british-museum-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-nok-archaeology-magazine-public",
+      "kind": "fact",
+      "statement": {
+        "zh": "《Archaeology》等公共综述仅作大众导向，不能替代发掘报告（tier T）。",
+        "en": "Public magazine overviews such as Archaeology Magazine are orientation-only and do not replace excavation reports (tier T)."
+      },
+      "site_ids": [
+        "site-nok-type-area"
+      ],
+      "period_ids": [
+        "period-nok-iron-terracotta"
+      ],
+      "sources": [
+        "src-nok-archaeology-magazine-feature",
+        "src-nok-jaa-outline-2016"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-nok-jaa-outline-pdf",
+      "title": {
+        "zh": "JAA：诺克近期研究概要 PDF",
+        "en": "JAA: Nok recent studies outline PDF",
+        "native": null
+      },
+      "external_url": "https://brill.com/view/journals/jaa/14/3/article-p237_1.pdf",
+      "sources": [
+        "src-nok-jaa-outline-2016",
+        "src-nok-jae-outline-recent"
+      ],
+      "attribution": "Journal of African Archaeology / Brill",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-nok-jaa-chronology-pdf",
+      "title": {
+        "zh": "JAA：诺克年代学 PDF",
+        "en": "JAA: Nok chronology PDF",
+        "native": null
+      },
+      "external_url": "https://brill.com/view/journals/jaa/14/3/article-p257_2.pdf",
+      "sources": [
+        "src-nok-jaa-chronology-2016",
+        "src-nok-breunig-renn-chronology"
+      ],
+      "attribution": "Journal of African Archaeology / Brill",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-nok-archaeology-magazine",
+      "title": {
+        "zh": "Archaeology Magazine：诺克专题",
+        "en": "Archaeology Magazine: Nok feature",
+        "native": null
+      },
+      "external_url": "https://archaeology.org/issues/online/features/the-nok-of-nigeria/",
+      "sources": [
+        "src-nok-archaeology-magazine-feature"
+      ],
+      "attribution": "Archaeology Magazine",
+      "media_type": "document-link"
+    }
+  ]
+}

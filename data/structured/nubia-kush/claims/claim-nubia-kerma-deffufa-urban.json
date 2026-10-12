@@ -1,0 +1,36 @@
+{
+  "id": "claim-nubia-kerma-deffufa-urban",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瑞士发掘传统将凯尔迈表述为含大型泥砖德福法神庙体量与相关城市/墓地布局的青铜时代中心（Bonnet/Honegger；Edwards 2004）。",
+    "en": "The Swiss excavation tradition frames Kerma as a Bronze Age centre with large mudbrick deffufa temple masses and related urban/cemetery layouts (Bonnet/Honegger; Edwards 2004)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-kerma"
+  ],
+  "period_ids": [
+    "period-nubia-kerma"
+  ],
+  "object_ids": [
+    "asm-nubia-kerma-deffufa-frame"
+  ],
+  "sources": [
+    "src-nubia-bonnet-honegger-kerma-orientation",
+    "src-nubia-edwards-2004",
+    "src-nubia-bonnet-kerma-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

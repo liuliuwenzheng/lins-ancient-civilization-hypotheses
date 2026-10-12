@@ -1,0 +1,540 @@
+{
+  "civ_id": "civ-lapita-pacific",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "拉皮塔档案（library-seed-rich）：Kirch/Green + 近/远大洋洲关键遗址与齿印陶扩散窗；仍加厚中。",
+    "en": "Lapita archive (library-seed-rich): Kirch/Green + Near/Remote Oceania keystone sites and dentate pottery dispersal windows; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-lapita-kirch-on-the-road",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Kirch, Patrick V. On the Road of the Winds (and related Oceanic settlement syntheses) — Lapita as Oceanic ancestors orientation.",
+      "url": null,
+      "notes": "Oceanic settlement synthesis orientation."
+    },
+    {
+      "id": "src-lapita-sand-western-lapita",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Sand, Christophe. Western Lapita / New Caledonia and Island Melanesia excavation and ceramic studies.",
+      "url": null,
+      "notes": "Western Lapita regional orientation."
+    },
+    {
+      "id": "src-lapita-bedford-vanuatu",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Bedford, Stuart; Spriggs, Matthew; et al. Vanuatu Lapita excavations including Teouma cemetery publications.",
+      "url": null,
+      "notes": "Teouma/Vanuatu excavation tradition."
+    },
+    {
+      "id": "src-lapita-summerhayes-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Summerhayes, Glenn R. Lapita pottery production, exchange, and Bismarck Archipelago origins papers.",
+      "url": null,
+      "notes": "Bismarck origins/production orientation."
+    },
+    {
+      "id": "src-lapita-sheppard-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Sheppard, Peter. Lapita dating and Remote Oceania dispersal modelling papers.",
+      "url": null,
+      "notes": "Chronology/dispersal modelling orientation."
+    },
+    {
+      "id": "src-lapita-green-definition",
+      "type": "article",
+      "tier": "S",
+      "citation": "Green, Roger C. Definitional essays on the Lapita Cultural Complex and dentate-stamped ceramics.",
+      "url": null,
+      "notes": "Definitional orientation complementary to retrospective."
+    },
+    {
+      "id": "src-lapita-anu-terra-australis",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "ANU Terra Australis / Oceanic archaeology edited volumes with Lapita site reports (orientation).",
+      "url": null,
+      "notes": "ANU series orientation."
+    },
+    {
+      "id": "src-lapita-nunn-environment",
+      "type": "article",
+      "tier": "S",
+      "citation": "Nunn, Patrick D., and collaborators — environmental/coastal context papers for Lapita settlement.",
+      "url": null,
+      "notes": "Environmental context orientation."
+    },
+    {
+      "id": "src-lapita-teinturier-or-fiji-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Fiji–Tonga–Samoa early Lapita site publications (Remote Oceania eastern dispersal orientation).",
+      "url": null,
+      "notes": "Eastern Remote Oceania orientation; specific memoirs deepen later."
+    },
+    {
+      "id": "src-lapita-green-anu-pdf",
+      "type": "article",
+      "tier": "S",
+      "citation": "Green, Roger C. Five decades of Lapita archaeology: a personal retrospective (ANU Press OA chapter).",
+      "url": "https://press-files.anu.edu.au/downloads/press/n6054/pdf/ch23.pdf",
+      "notes": "OA retrospective already linked in shell."
+    }
+  ],
+  "fill_coords": {},
+  "sites": [
+    {
+      "id": "site-lapita-new-caledonia-type",
+      "names": {
+        "zh": "拉皮塔（新喀里多尼亚类型地）",
+        "en": "Lapita (New Caledonia type locality)",
+        "native": "Lapita"
+      },
+      "kind_note": "Name-giving locality for Lapita pottery",
+      "region": "New Caledonia",
+      "coords": null,
+      "summary": {
+        "zh": "齿印陶命名地；与复合体并读。",
+        "en": "Name-giving locality for dentate-stamped pottery."
+      },
+      "sources": [
+        "src-lapita-sand-western-lapita",
+        "src-lapita-kirch-peoples-1997",
+        "src-lapita-green-retrospective"
+      ]
+    },
+    {
+      "id": "site-bismarck-early-lapita-frame",
+      "names": {
+        "zh": "俾斯麦群岛早期拉皮塔框架（指针）",
+        "en": "Bismarck Archipelago early Lapita frame (orientation)",
+        "native": null
+      },
+      "kind_note": "regional origins frame",
+      "region": "Papua New Guinea",
+      "coords": null,
+      "summary": {
+        "zh": "近大洋洲起源区框架。",
+        "en": "Near Oceania origins-region frame."
+      },
+      "sources": [
+        "src-lapita-summerhayes-orientation",
+        "src-lapita-kirch-peoples-1997",
+        "src-lapita-dating-appearance-orientation"
+      ]
+    },
+    {
+      "id": "site-nukuleka-orientation",
+      "names": {
+        "zh": "努库莱卡（指针）",
+        "en": "Nukuleka (orientation)",
+        "native": "Nukuleka"
+      },
+      "kind_note": "Early Tongatapu Lapita site often cited in eastern dispersal",
+      "region": "Tonga",
+      "coords": null,
+      "summary": {
+        "zh": "东部分散早期汤加遗址指针。",
+        "en": "Eastern dispersal early Tonga site orientation."
+      },
+      "sources": [
+        "src-lapita-teinturier-or-fiji-orientation",
+        "src-lapita-kirch-peoples-1997",
+        "src-lapita-sheppard-orientation"
+      ]
+    },
+    {
+      "id": "site-bourewa-or-fiji-frame",
+      "names": {
+        "zh": "斐济早期拉皮塔框架（指针）",
+        "en": "Fiji early Lapita frame (orientation)",
+        "native": null
+      },
+      "kind_note": "archipelago frame",
+      "region": "Fiji",
+      "coords": null,
+      "summary": {
+        "zh": "斐济早期拉皮塔遗址群框架。",
+        "en": "Fiji early Lapita site-group frame."
+      },
+      "sources": [
+        "src-lapita-teinturier-or-fiji-orientation",
+        "src-lapita-kirch-peoples-1997"
+      ]
+    },
+    {
+      "id": "site-reef-santa-cruz-orientation",
+      "names": {
+        "zh": "礁岛/圣克鲁斯（指针）",
+        "en": "Reef/Santa Cruz (orientation)",
+        "native": null
+      },
+      "kind_note": "Southeast Solomons Lapita orientation",
+      "region": "Solomon Islands",
+      "coords": null,
+      "summary": {
+        "zh": "东南所罗门拉皮塔指针。",
+        "en": "Southeast Solomons Lapita orientation."
+      },
+      "sources": [
+        "src-lapita-sheppard-orientation",
+        "src-lapita-kirch-peoples-1997"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-lapita-near-oceania",
+      "names": {
+        "zh": "近大洋洲拉皮塔窗",
+        "en": "Near Oceania Lapita window"
+      },
+      "time": {
+        "label": "ca. 3300–3000 BP Bismarck/Island Melanesia appearance (working band)",
+        "approx_from_bce": 1350,
+        "approx_to_bce": 1050,
+        "scheme_note": "BP→BCE coarse conversion; refine with cited models."
+      },
+      "summary": {
+        "zh": "近大洋洲出现窗。",
+        "en": "Near Oceania appearance window."
+      },
+      "sources": [
+        "src-lapita-summerhayes-orientation",
+        "src-lapita-dating-appearance-orientation",
+        "src-lapita-kirch-peoples-1997"
+      ]
+    },
+    {
+      "id": "period-lapita-remote-oceania",
+      "names": {
+        "zh": "远大洋洲扩散窗",
+        "en": "Remote Oceania dispersal window"
+      },
+      "time": {
+        "label": "ca. 3000–2700 BP into Vanuatu/Fiji/Tonga/Samoa (working band)",
+        "approx_from_bce": 1050,
+        "approx_to_bce": 750,
+        "scheme_note": "Dispersal working band."
+      },
+      "summary": {
+        "zh": "远大洋洲扩散窗。",
+        "en": "Remote Oceania dispersal window."
+      },
+      "sources": [
+        "src-lapita-bedford-vanuatu",
+        "src-lapita-sheppard-orientation",
+        "src-lapita-teouma-antiquity"
+      ]
+    },
+    {
+      "id": "period-lapita-post-dentate",
+      "names": {
+        "zh": "后齿印/转型窗",
+        "en": "Post-dentate / transformation window"
+      },
+      "time": {
+        "label": "after ca. 2700 BP ceramic transformation debates",
+        "approx_from_bce": 750,
+        "approx_to_bce": 500,
+        "scheme_note": "Post-Lapita transformation; coarse."
+      },
+      "summary": {
+        "zh": "齿印陶之后转型讨论窗。",
+        "en": "Post-dentate transformation discussion window."
+      },
+      "sources": [
+        "src-lapita-green-definition",
+        "src-lapita-kirch-peoples-1997"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-lapita-teouma-cemetery-frame",
+      "names": {
+        "zh": "特乌马墓地框架组合",
+        "en": "Teouma cemetery frame assemblage"
+      },
+      "site_ids": [
+        "site-teouma"
+      ],
+      "period_ids": [
+        "period-lapita-remote-oceania"
+      ],
+      "sources": [
+        "src-lapita-teouma-antiquity",
+        "src-lapita-bedford-vanuatu"
+      ],
+      "summary": {
+        "zh": "早期拉皮塔墓地组合指针；无伪造个体编号。",
+        "en": "Early Lapita cemetery assemblage pointer; no forged individual numbers."
+      }
+    },
+    {
+      "id": "asm-lapita-dentate-design-frame",
+      "names": {
+        "zh": "拉皮塔齿印纹样框架组合",
+        "en": "Lapita dentate design frame assemblage"
+      },
+      "site_ids": [
+        "site-talepakemalai",
+        "site-teouma",
+        "site-lapita-new-caledonia-type"
+      ],
+      "period_ids": [
+        "period-lapita-dispersal"
+      ],
+      "sources": [
+        "src-lapita-green-definition",
+        "src-lapita-kirch-peoples-1997",
+        "src-lapita-green-retrospective"
+      ],
+      "summary": {
+        "zh": "齿印戳刺陶器纹样传统指针。",
+        "en": "Dentate-stamped design tradition pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-lapita-dentate-definition",
+      "kind": "fact",
+      "statement": {
+        "zh": "Green 等将拉皮塔文化复合体以齿印戳刺陶器等物质文化组合来界定（Green；Kirch）。",
+        "en": "Green and others define the Lapita Cultural Complex via dentate-stamped pottery and related assemblages (Green; Kirch)."
+      },
+      "site_ids": [
+        "site-lapita-new-caledonia-type"
+      ],
+      "period_ids": [
+        "period-lapita-dispersal"
+      ],
+      "sources": [
+        "src-lapita-green-definition",
+        "src-lapita-green-retrospective",
+        "src-lapita-kirch-peoples-1997"
+      ],
+      "object_ids": [
+        "asm-lapita-dentate-pottery-frame"
+      ]
+    },
+    {
+      "id": "claim-lapita-bismarck-origins",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究将早期拉皮塔出现与俾斯麦群岛生产/交换网络相联系（Summerhayes；Kirch）。",
+        "en": "Research links early Lapita appearance to Bismarck Archipelago production/exchange networks (Summerhayes; Kirch)."
+      },
+      "site_ids": [
+        "site-bismarck-early-lapita-frame",
+        "site-talepakemalai"
+      ],
+      "period_ids": [
+        "period-lapita-near-oceania"
+      ],
+      "sources": [
+        "src-lapita-summerhayes-orientation",
+        "src-lapita-kirch-talepakemalai",
+        "src-lapita-kirch-peoples-1997"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-lapita-teouma-cemetery",
+      "kind": "fact",
+      "statement": {
+        "zh": "Bedford/Spriggs 等将特乌马表述为瓦努阿图早期拉皮塔墓地/定居关键遗址（Antiquity；发掘传统）。",
+        "en": "Bedford/Spriggs et al. frame Teouma as a key early Lapita cemetery/settlement in Vanuatu (Antiquity; excavation tradition)."
+      },
+      "site_ids": [
+        "site-teouma"
+      ],
+      "period_ids": [
+        "period-lapita-remote-oceania"
+      ],
+      "sources": [
+        "src-lapita-teouma-antiquity",
+        "src-lapita-bedford-vanuatu"
+      ],
+      "object_ids": [
+        "asm-lapita-teouma-cemetery-frame"
+      ]
+    },
+    {
+      "id": "claim-lapita-talepakemalai-near-oceania",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kirch 将塔勒帕克马莱表述为近大洋洲早期拉皮塔关键遗址（Mussau；Cotsen/UCLA 出版）。",
+        "en": "Kirch frames Talepakemalai as a key early Lapita site in Near Oceania (Mussau; Cotsen/UCLA publication)."
+      },
+      "site_ids": [
+        "site-talepakemalai"
+      ],
+      "period_ids": [
+        "period-lapita-near-oceania"
+      ],
+      "sources": [
+        "src-lapita-kirch-talepakemalai",
+        "src-lapita-kirch-peoples-1997"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-lapita-remote-oceania-dispersal",
+      "kind": "fact",
+      "statement": {
+        "zh": "测年综合讨论拉皮塔向远大洋洲（瓦努阿图、斐济、汤加、萨摩亚）的快速扩散（Sheppard；Kirch）。",
+        "en": "Dating syntheses discuss rapid Lapita dispersal into Remote Oceania (Vanuatu, Fiji, Tonga, Samoa) (Sheppard; Kirch)."
+      },
+      "site_ids": [
+        "site-teouma",
+        "site-nukuleka-orientation"
+      ],
+      "period_ids": [
+        "period-lapita-remote-oceania"
+      ],
+      "sources": [
+        "src-lapita-sheppard-orientation",
+        "src-lapita-kirch-peoples-1997",
+        "src-lapita-dating-appearance-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-lapita-new-caledonia-type-name",
+      "kind": "fact",
+      "statement": {
+        "zh": "新喀里多尼亚「Lapita」地点为齿印陶命名来源地（Sand；Green）。",
+        "en": "The New Caledonia ‘Lapita’ locality is the name-giving source for dentate-stamped pottery (Sand; Green)."
+      },
+      "site_ids": [
+        "site-lapita-new-caledonia-type"
+      ],
+      "period_ids": [
+        "period-lapita-near-oceania"
+      ],
+      "sources": [
+        "src-lapita-sand-western-lapita",
+        "src-lapita-green-retrospective"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-lapita-oceanic-ancestors-frame",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kirch 综合将拉皮塔人群表述为大洋洲世界祖先相关的考古复合体（Kirch 1997）。",
+        "en": "Kirch’s synthesis frames Lapita peoples as archaeologically ancestral to the Oceanic world (Kirch 1997)."
+      },
+      "site_ids": [
+        "site-talepakemalai",
+        "site-teouma"
+      ],
+      "period_ids": [
+        "period-lapita-dispersal"
+      ],
+      "sources": [
+        "src-lapita-kirch-peoples-1997",
+        "src-lapita-kirch-on-the-road"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-lapita-single-migration-hypothesis",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说：将全部远大洋洲定居简化为单一「拉皮塔移民波」的模型过于粗糙，区域变异与多阶段过程需保留（Green/Sheppard 讨论语境）。",
+        "en": "Hypothesis: reducing all Remote Oceanic settlement to a single ‘Lapita migration wave’ is too coarse; regional variation and multi-stage processes must be retained (Green/Sheppard discussion context)."
+      },
+      "site_ids": [
+        "site-teouma"
+      ],
+      "period_ids": [
+        "period-lapita-remote-oceania"
+      ],
+      "sources": [
+        "src-lapita-green-definition",
+        "src-lapita-sheppard-orientation"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: single-wave migration models are debated; not established fact."
+    },
+    {
+      "id": "claim-lapita-environmental-context",
+      "kind": "fact",
+      "statement": {
+        "zh": "环境考古讨论海岸/泻湖资源对拉皮塔选址的约束（Nunn 等取向）。",
+        "en": "Environmental archaeology discusses coastal/lagoon resource constraints on Lapita site choice (Nunn et al. orientation)."
+      },
+      "site_ids": [
+        "site-teouma",
+        "site-talepakemalai"
+      ],
+      "period_ids": [
+        "period-lapita-dispersal"
+      ],
+      "sources": [
+        "src-lapita-nunn-environment",
+        "src-lapita-kirch-peoples-1997"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-lapita-green-retrospective-oa",
+      "kind": "fact",
+      "statement": {
+        "zh": "Green 回顾文章（ANU OA）总结五十年拉皮塔考古议程与定义演变。",
+        "en": "Green’s retrospective (ANU OA) summarizes five decades of Lapita archaeological agendas and definitional change."
+      },
+      "site_ids": [
+        "site-lapita-new-caledonia-type"
+      ],
+      "period_ids": [
+        "period-lapita-dispersal"
+      ],
+      "sources": [
+        "src-lapita-green-retrospective",
+        "src-lapita-green-anu-pdf"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-lapita-green-anu-pdf",
+      "title": {
+        "zh": "ANU：Green 拉皮塔回顾 PDF",
+        "en": "ANU: Green Lapita retrospective PDF",
+        "native": null
+      },
+      "external_url": "https://press-files.anu.edu.au/downloads/press/n6054/pdf/ch23.pdf",
+      "sources": [
+        "src-lapita-green-retrospective",
+        "src-lapita-green-anu-pdf"
+      ],
+      "attribution": "ANU Press",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-lapita-talepakemalai-ioa",
+      "title": {
+        "zh": "UCLA IOA：Talepakemalai",
+        "en": "UCLA IOA: Talepakemalai",
+        "native": null
+      },
+      "external_url": "https://ioa.ucla.edu/talepakemalai",
+      "sources": [
+        "src-lapita-kirch-talepakemalai"
+      ],
+      "attribution": "Cotsen Institute of Archaeology, UCLA",
+      "media_type": "document-link"
+    }
+  ]
+}

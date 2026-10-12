@@ -1,0 +1,46 @@
+{
+  "id": "asm-lapita-dentate-design-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "拉皮塔齿印纹样框架组合",
+    "en": "Lapita dentate design frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-talepakemalai",
+    "site-teouma",
+    "site-lapita-new-caledonia-type"
+  ],
+  "period_ids": [
+    "period-lapita-dispersal"
+  ],
+  "summary": {
+    "zh": "齿印戳刺陶器纹样传统指针。",
+    "en": "Dentate-stamped design tradition pointer."
+  },
+  "sources": [
+    "src-lapita-green-definition",
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-green-retrospective"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

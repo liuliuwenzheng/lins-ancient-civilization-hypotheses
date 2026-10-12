@@ -1,0 +1,33 @@
+{
+  "id": "claim-bmac-togolok-margiana-centre",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合将托戈洛克列为马尔吉亚纳 BMAC 中心之一（Hiebert；Lamberg-Karlovsky）。",
+    "en": "Syntheses list Togolok among Margiana BMAC centres (Hiebert; Lamberg-Karlovsky)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-togolok"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-lamberg-karlovsky-roa-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

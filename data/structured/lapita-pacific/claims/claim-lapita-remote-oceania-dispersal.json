@@ -1,0 +1,35 @@
+{
+  "id": "claim-lapita-remote-oceania-dispersal",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "测年综合讨论拉皮塔向远大洋洲（瓦努阿图、斐济、汤加、萨摩亚）的快速扩散（Sheppard；Kirch）。",
+    "en": "Dating syntheses discuss rapid Lapita dispersal into Remote Oceania (Vanuatu, Fiji, Tonga, Samoa) (Sheppard; Kirch)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-teouma",
+    "site-nukuleka-orientation"
+  ],
+  "period_ids": [
+    "period-lapita-remote-oceania"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-sheppard-orientation",
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-dating-appearance-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claim-nubia-napatan-royal-cemeteries",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘回忆录传统将库鲁、努里等墓地作为纳帕塔王室埋葬序列的关键证据（Dunham MFA 传统；UNESCO 1073）。",
+    "en": "Excavation memoir tradition treats cemeteries such as El-Kurru and Nuri as key evidence for Napatan royal burial sequences (Dunham MFA tradition; UNESCO 1073)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-el-kurru",
+    "site-nuri"
+  ],
+  "period_ids": [
+    "period-nubia-napatan"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-dunham-barkal-orientation",
+    "src-nubia-unesco-gebel-barkal-1073",
+    "src-nubia-welsby-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

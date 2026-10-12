@@ -1,0 +1,33 @@
+{
+  "id": "media-dongson-persee-drums",
+  "entity": "media",
+  "title": {
+    "zh": "Persée：东山铜鼓论文",
+    "en": "Persée: Đông Sơn drums essay",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.persee.fr/doc/arasi_0004-3958_1991_num_46_1_1300",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-dongson-persee-drums-1991",
+    "src-dongson-persee-drums"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Persée / Arts Asiatiques",
+    "upstream_url": "https://www.persee.fr/doc/arasi_0004-3958_1991_num_46_1_1300",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-bmac-ceramic-chronology-orientation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "陶器与年代地层论文为巴克特里亚—马尔吉亚纳序列提供分期入口（Lyonnet 取向）。",
+    "en": "Ceramic and chronostratigraphic essays provide phasing entry points for Bactria–Margiana sequences (Lyonnet orientation)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe",
+    "site-altyn-depe"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-lyonnet-orientation",
+    "src-bmac-hiebert-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

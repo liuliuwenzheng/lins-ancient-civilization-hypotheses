@@ -1,0 +1,34 @@
+{
+  "id": "claim-elam-chogha-mish-susiana-sequence",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "区域考古将恰高·米什纳入苏萨纳史前至原埃兰聚落与陶器序列（Potts 2016；Carter & Stolper 1984）。",
+    "en": "Regional archaeology places Chogha Mish in Susiana prehistoric to Proto-Elamite settlement and ceramic sequences (Potts 2016; Carter & Stolper 1984)."
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-chogha-mish"
+  ],
+  "period_ids": [
+    "period-elam-proto-old"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-potts-2016",
+    "src-elam-carter-stolper-1984",
+    "src-elam-pleiades-chogha-mish-912829"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

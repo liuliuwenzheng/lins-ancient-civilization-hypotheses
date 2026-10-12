@@ -1,0 +1,33 @@
+{
+  "id": "claim-dong-son-china-interaction-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说：东山青铜技术与长江/岭南传统的具体传播路径仍有争议，不宜写成单一来源事实（Higham/Bellwood 讨论语境）。",
+    "en": "Hypothesis: specific transmission paths between Đông Sơn bronze technology and Yangzi/Lingnan traditions remain debated; avoid single-source fact wording (Higham/Bellwood discussion context)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-early-bronze"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-bellwood-orientation"
+  ],
+  "disclaimer": "Hypothesis: metallurgical-origin pathways are debated; not established fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-nok-west-africa-ironization",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "更广的西非早期铁器综述将诺克置于区域「铁器化」讨论中（手册取向）。",
+    "en": "Broader West African early-iron syntheses place Nok within regional ironization debates (handbook orientation)."
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-type-area"
+  ],
+  "period_ids": [
+    "period-nok-early"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-panafrican-iron-context",
+    "src-nok-iron-smelting-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

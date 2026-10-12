@@ -1,0 +1,35 @@
+{
+  "id": "claim-bmac-seal-amulet-assemblage",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合将特色印章与护符组合作为 Oxus/BMAC 物质文化识别标志之一（Hiebert；Lamberg-Karlovsky）。",
+    "en": "Syntheses treat distinctive seals and amulets as identifying markers of Oxus/BMAC material culture (Hiebert; Lamberg-Karlovsky)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [
+    "asm-bmac-seal-amulet-frame"
+  ],
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-lamberg-karlovsky-roa-2012"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claim-dong-son-bronze-drum-distribution",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Calò 研究青铜鼓在早期东南亚的分布，并讨论贸易路线与文化圈（Calò 2009）。",
+    "en": "Calò studies bronze-drum distribution across early Southeast Asia and discusses trade routes and cultural spheres (Calò 2009)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-classic-drums"
+  ],
+  "object_ids": [
+    "asm-dong-son-bronze-drums-frame"
+  ],
+  "sources": [
+    "src-dongson-calo-bronze-drums-2009",
+    "src-dongson-calo-drums-deepen"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

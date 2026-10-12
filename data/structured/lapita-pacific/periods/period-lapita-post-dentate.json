@@ -1,0 +1,34 @@
+{
+  "id": "period-lapita-post-dentate",
+  "entity": "period",
+  "names": {
+    "zh": "后齿印/转型窗",
+    "en": "Post-dentate / transformation window"
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "after ca. 2700 BP ceramic transformation debates",
+    "approx_from_bce": 750,
+    "approx_to_bce": 500,
+    "scheme_note": "Post-Lapita transformation; coarse."
+  },
+  "summary": {
+    "zh": "齿印陶之后转型讨论窗。",
+    "en": "Post-dentate transformation discussion window."
+  },
+  "sources": [
+    "src-lapita-green-definition",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

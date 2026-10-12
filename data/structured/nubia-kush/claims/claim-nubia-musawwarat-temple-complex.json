@@ -1,0 +1,34 @@
+{
+  "id": "claim-nubia-musawwarat-temple-complex",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合与教科文将穆萨瓦拉特·苏弗拉表述为麦罗埃期大型神庙建筑群（UNESCO 1336；Welsby 1996）。",
+    "en": "Syntheses and UNESCO frame Musawwarat es-Sufra as a large Meroitic temple complex (UNESCO 1336; Welsby 1996)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-musawwarat-es-sufra"
+  ],
+  "period_ids": [
+    "period-nubia-meroitic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-welsby-1996",
+    "src-nubia-pleiades-musawwarat-805632"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

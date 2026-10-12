@@ -1,0 +1,35 @@
+{
+  "id": "claim-hittite-temple-district-architecture",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "DAI 发掘传统记录哈图沙神庙区大型建筑布局作为都城仪礼核心证据（Neve 传统；UNESCO 377）。",
+    "en": "DAI excavation tradition documents large-scale temple-district architecture as evidence for the capital’s ritual core (Neve tradition; UNESCO 377)."
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hattusa"
+  ],
+  "period_ids": [
+    "period-hittite-empire"
+  ],
+  "object_ids": [
+    "asm-hattusa-temple-district-frame"
+  ],
+  "sources": [
+    "src-hittite-neve-hattusa-orientation",
+    "src-hittite-unesco-hattusa"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

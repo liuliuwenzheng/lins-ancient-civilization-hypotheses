@@ -1,0 +1,33 @@
+{
+  "id": "site-san-jose-mogote",
+  "entity": "site",
+  "names": {
+    "zh": "圣何塞·莫戈特",
+    "en": "San José Mogote",
+    "native": "San José Mogote"
+  },
+  "kind_note": "Formative village centre preceding Monte Albán",
+  "region": "Valley of Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "蒙特·阿尔班之前的形成期村落中心。",
+    "en": "Formative village centre preceding Monte Albán."
+  },
+  "sources": [
+    "src-zapotec-san-jose-mogote-orientation",
+    "src-zapotec-marcus-flannery-1996",
+    "src-zapotec-flannery-marcus-cloud-people"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

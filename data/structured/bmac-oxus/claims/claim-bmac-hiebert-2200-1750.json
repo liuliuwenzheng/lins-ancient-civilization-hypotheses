@@ -1,0 +1,34 @@
+{
+  "id": "claim-bmac-hiebert-2200-1750",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hiebert 将马尔吉亚纳青铜绿洲文明繁荣置于约 2200–1750 BCE 工作框架（Hiebert 1994）。",
+    "en": "Hiebert places the Margiana Bronze oasis civilization floruit in a ca. 2200–1750 BCE working frame (Hiebert 1994)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe",
+    "site-togolok"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-hiebert-antiquity-1994"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

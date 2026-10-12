@@ -2,7 +2,7 @@
   "id": "civ-jomon-yayoi",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "绳文 / 弥生（日本）",
     "en": "Jōmon / Yayoi (Japan)",
@@ -11,27 +11,57 @@
   "region": "East Asia / Japanese archipelago",
   "time_span": "Jōmon ceramic hunter-gatherer tradition through Yayoi wet-rice agricultural transition (Habu / Barnes frames; UNESCO Jōmon sites 2021)",
   "summary": {
-    "zh": "绳文–弥生档案壳：Habu/Barnes + 三内丸山教科文；library-seed。",
-    "en": "Jōmon–Yayoi archive shell: Habu/Barnes + Sannai-Maruyama UNESCO; library-seed."
+    "zh": "绳文–弥生档案（library-seed-rich）：Habu/Barnes + 三内丸山教科文组分与弥生稻作过渡窗；仍加厚中。",
+    "en": "Jōmon–Yayoi archive (library-seed-rich): Habu/Barnes + Sannai-Maruyama UNESCO components and Yayoi rice-transition windows; still thickening."
   },
   "sources": [
-    "src-jomon-unesco-1632",
-    "src-jomon-habu-sannai-antiquity-2008",
+    "src-jomon-habu-ancient-jomon",
     "src-jomon-habu-berkeley-project",
+    "src-jomon-habu-sannai-antiquity-2008",
+    "src-jomon-kaner-orientation",
+    "src-jomon-odai-yamamoto",
+    "src-jomon-oyu-stone-circles",
+    "src-jomon-sannai-official",
+    "src-jomon-sannai-official-deepen",
+    "src-jomon-unesco-1632",
+    "src-jomon-unesco-1632-maps",
+    "src-yayoi-barnes-archaeology-japan",
     "src-yayoi-barnes-orientation",
-    "src-jomon-sannai-official"
+    "src-yayoi-mizoguchi-orientation",
+    "src-yayoi-wet-rice-orientation",
+    "src-yayoi-yoshinogari-orientation"
   ],
   "site_ids": [
-    "site-sannai-maruyama"
+    "site-itazuke-orientation",
+    "site-komakino-stone-circle",
+    "site-odai-yamamoto",
+    "site-oyu-stone-circles",
+    "site-sannai-maruyama",
+    "site-yoshinogari-orientation"
   ],
   "period_ids": [
-    "period-jomon-yayoi-overview"
+    "period-jomon-early-middle",
+    "period-jomon-late-final",
+    "period-jomon-yayoi-overview",
+    "period-yayoi"
   ],
   "claim_ids": [
-    "claim-jomon-sannai-large-settlement"
+    "claim-jomon-hunter-gatherer-complexity",
+    "claim-jomon-kaner-interpretation",
+    "claim-jomon-odai-early-pottery",
+    "claim-jomon-oyu-stone-circles",
+    "claim-jomon-sannai-large-settlement",
+    "claim-jomon-sannai-large-settlement-habu",
+    "claim-jomon-sannai-unesco-component",
+    "claim-jomon-unesco-serial-property",
+    "claim-jomon-yayoi-transition-hypothesis",
+    "claim-yayoi-wet-rice-introduction",
+    "claim-yayoi-yoshinogari-settlement"
   ],
   "object_ids": [
-    "asm-jomon-sannai-settlement-frame"
+    "asm-jomon-sannai-settlement-frame",
+    "asm-jomon-stone-circles-frame",
+    "asm-yayoi-paddy-field-frame"
   ],
   "related_ids": [
     "civ-china-bronze",
@@ -40,10 +70,11 @@
   "markdown_path": "data/civilizations/civ-jomon-yayoi.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

@@ -1,0 +1,19 @@
+{
+  "id": "src-nubia-pleiades-barkal-508356079",
+  "entity": "source",
+  "type": "atlas",
+  "citation": "Pleiades. Jebel Barkal (place 508356079). https://pleiades.stoa.org/places/508356079",
+  "url": "https://pleiades.stoa.org/places/508356079",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Gazetteer mountain/site point.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

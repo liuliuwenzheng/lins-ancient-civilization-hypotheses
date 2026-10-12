@@ -1,0 +1,32 @@
+{
+  "id": "site-teotihuacan-obsidian-workshops-frame",
+  "entity": "site",
+  "names": {
+    "zh": "黑曜石作坊框架（指针）",
+    "en": "Obsidian workshops frame (orientation)",
+    "native": null
+  },
+  "kind_note": "craft production orientation",
+  "region": "State of Mexico, Mexico",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "黑曜石生产与交换研究框架。",
+    "en": "Obsidian production and exchange research frame."
+  },
+  "sources": [
+    "src-teotihuacan-spence-obsidian-orientation",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

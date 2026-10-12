@@ -1,0 +1,571 @@
+{
+  "civ_id": "civ-jomon-yayoi",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "绳文–弥生档案（library-seed-rich）：Habu/Barnes + 三内丸山教科文组分与弥生稻作过渡窗；仍加厚中。",
+    "en": "Jōmon–Yayoi archive (library-seed-rich): Habu/Barnes + Sannai-Maruyama UNESCO components and Yayoi rice-transition windows; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-jomon-habu-ancient-jomon",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Habu, Junko. Ancient Jomon of Japan (Cambridge) — Jōmon subsistence and settlement synthesis.",
+      "url": null,
+      "notes": "Major Jōmon synthesis."
+    },
+    {
+      "id": "src-yayoi-barnes-archaeology-japan",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Barnes, Gina L. The Archaeology of Japan / related handbooks covering Jōmon-to-Yayoi and early state formation.",
+      "url": null,
+      "notes": "Japan archaeology handbook orientation."
+    },
+    {
+      "id": "src-jomon-unesco-1632-maps",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Jomon Prehistoric Sites in Northern Japan — maps/coordinates. https://whc.unesco.org/en/list/1632/maps/",
+      "url": "https://whc.unesco.org/en/list/1632/maps/",
+      "notes": "WHC published component coordinates."
+    },
+    {
+      "id": "src-jomon-kaner-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Kaner, Simon. Jōmon archaeology essays and museum-oriented syntheses (orientation).",
+      "url": null,
+      "notes": "Jōmon interpretive orientation."
+    },
+    {
+      "id": "src-yayoi-mizoguchi-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Mizoguchi, Koji. The Archaeology of Japan / social archaeology of Yayoi–Kofun transitions.",
+      "url": null,
+      "notes": "Yayoi–Kofun social archaeology orientation."
+    },
+    {
+      "id": "src-yayoi-wet-rice-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "Peer-reviewed papers on wet-rice agriculture introduction and Yayoi paddy-field archaeology.",
+      "url": null,
+      "notes": "Wet-rice introduction orientation."
+    },
+    {
+      "id": "src-jomon-oyu-stone-circles",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO / site portals for Ōyu Stone Circles component of Jōmon serial property (tier T).",
+      "url": "https://whc.unesco.org/en/list/1632/",
+      "notes": "Component orientation within serial property."
+    },
+    {
+      "id": "src-jomon-odai-yamamoto",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO component Odai Yamamoto Site orientation (early pottery discussions; tier T).",
+      "url": "https://whc.unesco.org/en/list/1632/",
+      "notes": "Early pottery component orientation."
+    },
+    {
+      "id": "src-yayoi-yoshinogari-orientation",
+      "type": "web",
+      "tier": "T",
+      "citation": "Yoshinogari historical park / Saga public orientation for Yayoi settlement (tier T).",
+      "url": null,
+      "notes": "Public Yayoi settlement orientation."
+    },
+    {
+      "id": "src-jomon-sannai-official-deepen",
+      "type": "web",
+      "tier": "T",
+      "citation": "Sannai Maruyama Site official / Jomon Prehistoric Sites portal.",
+      "url": "https://jomon-japan.jp/en/learn/jomon-sites/sannai-maruyama",
+      "notes": "Public portal already registered companion."
+    }
+  ],
+  "fill_coords": {
+    "site-sannai-maruyama": {
+      "lat": 40.810278,
+      "lon": 140.698889,
+      "precision_note": "UNESCO WHC list 1632 component 1632-007 published DMS→decimal; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-oyu-stone-circles",
+      "names": {
+        "zh": "大汤环状列石",
+        "en": "Ōyu Stone Circles",
+        "native": "大湯環状列石"
+      },
+      "kind_note": "Jōmon stone-circle ceremonial site; UNESCO component",
+      "region": "Kazuno, Akita, Japan",
+      "coords": {
+        "lat": 40.271389,
+        "lon": 140.804444,
+        "precision_note": "UNESCO WHC list 1632 component 1632-014 published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "教科文绳文遗址群组分。",
+        "en": "UNESCO Jōmon serial property component."
+      },
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-unesco-1632-maps",
+        "src-jomon-oyu-stone-circles"
+      ]
+    },
+    {
+      "id": "site-odai-yamamoto",
+      "names": {
+        "zh": "大平山元",
+        "en": "Odai Yamamoto",
+        "native": "大平山元"
+      },
+      "kind_note": "Early pottery site; UNESCO component",
+      "region": "Sotogahama, Aomori, Japan",
+      "coords": {
+        "lat": 41.065556,
+        "lon": 140.552222,
+        "precision_note": "UNESCO WHC list 1632 component 1632-001 published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "早期陶器讨论相关教科文组分。",
+        "en": "UNESCO component often discussed for early pottery."
+      },
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-unesco-1632-maps",
+        "src-jomon-odai-yamamoto"
+      ]
+    },
+    {
+      "id": "site-komakino-stone-circle",
+      "names": {
+        "zh": "小牧野环状列石",
+        "en": "Komakino Stone Circle",
+        "native": "小牧野"
+      },
+      "kind_note": "Jōmon stone circle; UNESCO component",
+      "region": "Aomori, Japan",
+      "coords": {
+        "lat": 40.7375,
+        "lon": 140.727778,
+        "precision_note": "UNESCO WHC list 1632 component 1632-012 published DMS→decimal; access 2026-10-12"
+      },
+      "summary": {
+        "zh": "教科文绳文遗址群组分。",
+        "en": "UNESCO Jōmon serial property component."
+      },
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-unesco-1632-maps"
+      ]
+    },
+    {
+      "id": "site-yoshinogari-orientation",
+      "names": {
+        "zh": "吉野ケ里（指针）",
+        "en": "Yoshinogari (orientation)",
+        "native": "吉野ヶ里"
+      },
+      "kind_note": "Large Yayoi settlement/park often used as Yayoi type illustration",
+      "region": "Saga, Japan",
+      "coords": null,
+      "summary": {
+        "zh": "大型弥生聚落公共展示指针。",
+        "en": "Large Yayoi settlement public-orientation site."
+      },
+      "sources": [
+        "src-yayoi-yoshinogari-orientation",
+        "src-yayoi-barnes-orientation",
+        "src-yayoi-barnes-archaeology-japan"
+      ]
+    },
+    {
+      "id": "site-itazuke-orientation",
+      "names": {
+        "zh": "板付（指针）",
+        "en": "Itazuke (orientation)",
+        "native": "板付"
+      },
+      "kind_note": "Early Yayoi paddy-field locality in northern Kyushu",
+      "region": "Fukuoka, Japan",
+      "coords": null,
+      "summary": {
+        "zh": "早期弥生水田遗址指针。",
+        "en": "Early Yayoi paddy-field locality orientation."
+      },
+      "sources": [
+        "src-yayoi-wet-rice-orientation",
+        "src-yayoi-barnes-orientation"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-jomon-early-middle",
+      "names": {
+        "zh": "绳文早–中期窗",
+        "en": "Early–Middle Jōmon window"
+      },
+      "time": {
+        "label": "Sannai occupation cited ca. 3900–2300 BCE in site materials (Habu)",
+        "approx_from_bce": 3900,
+        "approx_to_bce": 2300,
+        "scheme_note": "Site materials + Habu case study frame."
+      },
+      "summary": {
+        "zh": "三内等早中期窗。",
+        "en": "Early–Middle window incl. Sannai."
+      },
+      "sources": [
+        "src-jomon-habu-sannai-antiquity-2008",
+        "src-jomon-habu-ancient-jomon",
+        "src-jomon-sannai-official"
+      ]
+    },
+    {
+      "id": "period-jomon-late-final",
+      "names": {
+        "zh": "绳文晚–末期窗",
+        "en": "Late–Final Jōmon window"
+      },
+      "time": {
+        "label": "late Jōmon into Yayoi transition debates",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 900,
+        "scheme_note": "Late/Final into transition."
+      },
+      "summary": {
+        "zh": "晚期至过渡。",
+        "en": "Late/Final into transition."
+      },
+      "sources": [
+        "src-jomon-habu-ancient-jomon",
+        "src-yayoi-barnes-archaeology-japan"
+      ]
+    },
+    {
+      "id": "period-yayoi",
+      "names": {
+        "zh": "弥生窗",
+        "en": "Yayoi window"
+      },
+      "time": {
+        "label": "Yayoi wet-rice agricultural tradition (Barnes/Mizoguchi frames)",
+        "approx_from_bce": 900,
+        "approx_to_bce": 250,
+        "scheme_note": "Yayoi working span; Kofun boundary deferred."
+      },
+      "summary": {
+        "zh": "弥生稻作传统窗。",
+        "en": "Yayoi wet-rice tradition window."
+      },
+      "sources": [
+        "src-yayoi-barnes-orientation",
+        "src-yayoi-barnes-archaeology-japan",
+        "src-yayoi-wet-rice-orientation",
+        "src-yayoi-mizoguchi-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-jomon-stone-circles-frame",
+      "names": {
+        "zh": "绳文环状列石框架组合",
+        "en": "Jōmon stone-circles frame assemblage"
+      },
+      "site_ids": [
+        "site-oyu-stone-circles",
+        "site-komakino-stone-circle"
+      ],
+      "period_ids": [
+        "period-jomon-late-final"
+      ],
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-oyu-stone-circles"
+      ],
+      "summary": {
+        "zh": "教科文组分环状列石指针。",
+        "en": "UNESCO-component stone-circle pointer."
+      }
+    },
+    {
+      "id": "asm-yayoi-paddy-field-frame",
+      "names": {
+        "zh": "弥生水田框架组合",
+        "en": "Yayoi paddy-field frame assemblage"
+      },
+      "site_ids": [
+        "site-itazuke-orientation",
+        "site-yoshinogari-orientation"
+      ],
+      "period_ids": [
+        "period-yayoi"
+      ],
+      "sources": [
+        "src-yayoi-wet-rice-orientation",
+        "src-yayoi-barnes-archaeology-japan"
+      ],
+      "summary": {
+        "zh": "水田遗迹传统指针。",
+        "en": "Paddy-field remains tradition pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-jomon-unesco-serial-property",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将「北海道·北东北绳文遗址群」列为系列遗产，含三内丸山、大汤环状列石等组分（UNESCO 1632）。",
+        "en": "UNESCO lists Jomon Prehistoric Sites in Northern Japan as a serial property including Sannai Maruyama, Ōyu Stone Circles, and other components (UNESCO 1632)."
+      },
+      "site_ids": [
+        "site-sannai-maruyama",
+        "site-oyu-stone-circles",
+        "site-odai-yamamoto"
+      ],
+      "period_ids": [
+        "period-jomon-yayoi-overview"
+      ],
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-unesco-1632-maps"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-jomon-sannai-large-settlement-habu",
+      "kind": "fact",
+      "statement": {
+        "zh": "Habu 案例研究将三内丸山表述为复杂采集—渔猎社会中的大型绳文聚落，并讨论其兴衰（Habu 2008 Antiquity）。",
+        "en": "Habu’s case study frames Sannai Maruyama as a large Jōmon settlement in a complex hunter-gatherer society and discusses growth and decline (Habu 2008 Antiquity)."
+      },
+      "site_ids": [
+        "site-sannai-maruyama"
+      ],
+      "period_ids": [
+        "period-jomon-early-middle"
+      ],
+      "sources": [
+        "src-jomon-habu-sannai-antiquity-2008",
+        "src-jomon-habu-ancient-jomon",
+        "src-jomon-unesco-1632"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-jomon-oyu-stone-circles",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文组分大汤环状列石代表绳文晚期末纪念性环状列石传统（UNESCO 1632）。",
+        "en": "UNESCO component Ōyu Stone Circles represents a Late/Final Jōmon monumental stone-circle tradition (UNESCO 1632)."
+      },
+      "site_ids": [
+        "site-oyu-stone-circles"
+      ],
+      "period_ids": [
+        "period-jomon-late-final"
+      ],
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-oyu-stone-circles"
+      ],
+      "object_ids": [
+        "asm-jomon-stone-circles-frame"
+      ]
+    },
+    {
+      "id": "claim-jomon-odai-early-pottery",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文组分大平山元常被纳入日本列岛早期陶器讨论（UNESCO 1632；研究史）。",
+        "en": "UNESCO component Odai Yamamoto is often included in discussions of early pottery in the Japanese archipelago (UNESCO 1632; research history)."
+      },
+      "site_ids": [
+        "site-odai-yamamoto"
+      ],
+      "period_ids": [
+        "period-jomon-early-middle"
+      ],
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-odai-yamamoto",
+        "src-jomon-habu-ancient-jomon"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-yayoi-wet-rice-introduction",
+      "kind": "fact",
+      "statement": {
+        "zh": "研究将弥生表述为以水田稻作为标志的农业传统转型（Barnes；水田考古专文）。",
+        "en": "Research frames Yayoi as an agricultural tradition transition marked by wet-rice paddies (Barnes; paddy-field archaeology papers)."
+      },
+      "site_ids": [
+        "site-itazuke-orientation"
+      ],
+      "period_ids": [
+        "period-yayoi"
+      ],
+      "sources": [
+        "src-yayoi-wet-rice-orientation",
+        "src-yayoi-barnes-orientation",
+        "src-yayoi-barnes-archaeology-japan"
+      ],
+      "object_ids": [
+        "asm-yayoi-paddy-field-frame"
+      ]
+    },
+    {
+      "id": "claim-yayoi-yoshinogari-settlement",
+      "kind": "fact",
+      "statement": {
+        "zh": "公共与研究导向将吉野ケ里作为大型弥生环壕聚落的展示型遗址（公园/Barnes 取向）。",
+        "en": "Public and research orientation treats Yoshinogari as an illustrative large Yayoi moated settlement (park/Barnes orientation)."
+      },
+      "site_ids": [
+        "site-yoshinogari-orientation"
+      ],
+      "period_ids": [
+        "period-yayoi"
+      ],
+      "sources": [
+        "src-yayoi-yoshinogari-orientation",
+        "src-yayoi-barnes-archaeology-japan"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-jomon-hunter-gatherer-complexity",
+      "kind": "fact",
+      "statement": {
+        "zh": "Habu 等讨论绳文社会在采集—渔猎经济下的定居性与社会复杂度变异（Habu Ancient Jomon）。",
+        "en": "Habu and others discuss variability in sedentism and social complexity under Jōmon hunter-gatherer economies (Habu Ancient Jomon)."
+      },
+      "site_ids": [
+        "site-sannai-maruyama"
+      ],
+      "period_ids": [
+        "period-jomon-early-middle"
+      ],
+      "sources": [
+        "src-jomon-habu-ancient-jomon",
+        "src-jomon-habu-sannai-antiquity-2008"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-jomon-yayoi-transition-hypothesis",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说：绳文→弥生转型的人口替代/文化传播相对权重仍有争议，需与水田与聚落证据分开表述（Barnes/Mizoguchi 讨论语境）。",
+        "en": "Hypothesis: relative weights of population replacement vs cultural transmission in Jōmon→Yayoi transition remain debated; separate from paddy/settlement evidence (Barnes/Mizoguchi discussion context)."
+      },
+      "site_ids": [
+        "site-itazuke-orientation",
+        "site-sannai-maruyama"
+      ],
+      "period_ids": [
+        "period-yayoi"
+      ],
+      "sources": [
+        "src-yayoi-barnes-archaeology-japan",
+        "src-yayoi-mizoguchi-orientation"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: demographic vs cultural-transmission models are debated; not established fact."
+    },
+    {
+      "id": "claim-jomon-kaner-interpretation",
+      "kind": "fact",
+      "statement": {
+        "zh": "Kaner 等博物馆/综述取向讨论绳文物质文化的当代解释框架（Kaner）。",
+        "en": "Kaner and related museum/synthesis orientations discuss contemporary interpretive frames for Jōmon material culture (Kaner)."
+      },
+      "site_ids": [
+        "site-sannai-maruyama"
+      ],
+      "period_ids": [
+        "period-jomon-yayoi-overview"
+      ],
+      "sources": [
+        "src-jomon-kaner-orientation",
+        "src-jomon-habu-ancient-jomon"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-jomon-sannai-unesco-component",
+      "kind": "fact",
+      "statement": {
+        "zh": "三内丸山为教科文系列遗产 1632-007 组分，并有官方遗址门户说明（UNESCO；jomon-japan.jp）。",
+        "en": "Sannai Maruyama is UNESCO serial component 1632-007 with an official site portal (UNESCO; jomon-japan.jp)."
+      },
+      "site_ids": [
+        "site-sannai-maruyama"
+      ],
+      "period_ids": [
+        "period-jomon-early-middle"
+      ],
+      "sources": [
+        "src-jomon-unesco-1632",
+        "src-jomon-sannai-official",
+        "src-jomon-sannai-official-deepen"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-jomon-unesco",
+      "title": {
+        "zh": "教科文：绳文遗址群",
+        "en": "UNESCO: Jōmon Prehistoric Sites",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/1632/",
+      "sources": [
+        "src-jomon-unesco-1632"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-jomon-unesco-maps",
+      "title": {
+        "zh": "教科文：绳文遗址群地图/坐标",
+        "en": "UNESCO: Jōmon sites maps/coordinates",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/1632/maps/",
+      "sources": [
+        "src-jomon-unesco-1632-maps"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-jomon-sannai-portal",
+      "title": {
+        "zh": "三内丸山官方门户",
+        "en": "Sannai Maruyama official portal",
+        "native": null
+      },
+      "external_url": "https://jomon-japan.jp/en/learn/jomon-sites/sannai-maruyama",
+      "sources": [
+        "src-jomon-sannai-official"
+      ],
+      "attribution": "Jomon Prehistoric Sites portal",
+      "media_type": "document-link"
+    }
+  ]
+}

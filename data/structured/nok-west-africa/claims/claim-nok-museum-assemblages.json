@@ -1,0 +1,33 @@
+{
+  "id": "claim-nok-museum-assemblages",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "尼日利亚博物馆与国际馆藏目录构成诺克陶俑风格研究的主要组合来源之一（目录传统；T 级公开展示需降权）。",
+    "en": "Nigerian museum and international catalogs form a major assemblage source for Nok terracotta style studies (catalog tradition; public displays remain tier T)."
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-jos-museum-frame"
+  ],
+  "period_ids": [
+    "period-nok-classic-terracotta"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-terracotta-style-orientation",
+    "src-nok-british-museum-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

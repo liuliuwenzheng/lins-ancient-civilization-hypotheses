@@ -1,0 +1,34 @@
+{
+  "id": "period-nok-early",
+  "entity": "period",
+  "names": {
+    "zh": "诺克早期窗",
+    "en": "Nok early window"
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "ca. 1500–900 BCE working band (JAA chronologies)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 900,
+    "scheme_note": "Frankfurt/JAA early band; site-level refine later."
+  },
+  "summary": {
+    "zh": "早期工作窗。",
+    "en": "Early working window."
+  },
+  "sources": [
+    "src-nok-breunig-renn-chronology",
+    "src-nok-jaa-chronology-2016"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

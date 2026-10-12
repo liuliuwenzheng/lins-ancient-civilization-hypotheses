@@ -1,0 +1,33 @@
+{
+  "id": "site-taruga-nok",
+  "entity": "site",
+  "names": {
+    "zh": "塔鲁加",
+    "en": "Taruga",
+    "native": "Taruga"
+  },
+  "kind_note": "Early iron-smelting locality discussed with Nok",
+  "region": "Central Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "与诺克铁器年代常被讨论的早期冶铁地点。",
+    "en": "Early iron-smelting locality often discussed with Nok iron chronology."
+  },
+  "sources": [
+    "src-nok-taruga-orientation",
+    "src-nok-breunig-renn-chronology",
+    "src-nok-iron-smelting-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

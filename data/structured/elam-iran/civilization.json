@@ -2,7 +2,7 @@
   "id": "civ-elam-iran",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "埃兰（伊朗西南）",
     "en": "Elam (southwestern Iran)",
@@ -11,29 +11,59 @@
   "region": "Southwest Asia / southwestern Iran (Khuzestan–Fars; Susiana and Anshan)",
   "time_span": "ca. 3rd millennium BCE through Neo-Elamite into Achaemenid contexts (Potts 2016 overview)",
   "summary": {
-    "zh": "埃兰档案壳（library-seed）：Potts 综合与苏萨/安善入口；待加厚。",
-    "en": "Elam archive shell (library-seed): Potts synthesis and Susa/Anshan entry; pending density."
+    "zh": "埃兰档案（library-seed-rich）：Potts/Carter–Stolper + 苏萨/安善/占比尔等关键遗址与分层时段；仍非埃及级密度。",
+    "en": "Elam archive (library-seed-rich): Potts/Carter–Stolper + key Susa/Anshan/Zanbil sites and phased periods; not yet Egypt-level density."
   },
   "sources": [
+    "src-elam-alvarez-mon-elamite-world-2018",
+    "src-elam-carter-stolper-1984",
+    "src-elam-gasche-susiana-orientation",
+    "src-elam-negahban-haft-tepe-orientation",
+    "src-elam-pleiades-chogha-mish-912829",
+    "src-elam-pleiades-kabnak-379400932",
+    "src-elam-pleiades-malyan-922729",
+    "src-elam-pleiades-susa-912936",
+    "src-elam-pleiades-zanbil-459393126",
     "src-elam-potts-2016",
     "src-elam-potts-oxford-handbook-iran-2013",
-    "src-elam-unesco-tchogha-zanbil",
-    "src-elam-alvarez-mon-elamite-world-2018",
-    "src-elam-carter-stolper-1984"
+    "src-elam-steve-gasche-susa-orientation",
+    "src-elam-sumner-malyan-orientation",
+    "src-elam-unesco-susa-1455",
+    "src-elam-unesco-tchogha-zanbil"
   ],
   "site_ids": [
-    "site-susa",
     "site-anshan-tall-e-malyan",
+    "site-chogha-bonut",
+    "site-chogha-mish",
+    "site-elam-fars-highland-frame",
+    "site-elam-susiana-survey-frame",
+    "site-haft-tepe-kabnak",
+    "site-susa",
     "site-tchogha-zanbil"
   ],
   "period_ids": [
-    "period-elam-overview"
+    "period-elam-middle",
+    "period-elam-neo",
+    "period-elam-overview",
+    "period-elam-proto-old"
   ],
   "claim_ids": [
-    "claim-elam-susiana-anshan-frame"
+    "claim-elam-anshan-malyan-identified",
+    "claim-elam-chogha-mish-susiana-sequence",
+    "claim-elam-dual-capital-susa-anshan",
+    "claim-elam-haft-tepe-kabnak-centre",
+    "claim-elam-handbook-world-orientation",
+    "claim-elam-neo-elamite-into-achaemenid",
+    "claim-elam-proto-elamite-writing-frame",
+    "claim-elam-susa-acropolis-memoir-tradition",
+    "claim-elam-susa-unesco-stratified-mounds",
+    "claim-elam-susiana-anshan-frame",
+    "claim-elam-zanbil-untash-ziggurat"
   ],
   "object_ids": [
-    "asm-elam-susa-anshan-frame"
+    "asm-elam-haft-tepe-frame",
+    "asm-elam-susa-anshan-frame",
+    "asm-elam-zanbil-ziggurat-frame"
   ],
   "related_ids": [
     "civ-mesopotamia",
@@ -42,10 +72,11 @@
   "markdown_path": "data/civilizations/civ-elam-iran.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

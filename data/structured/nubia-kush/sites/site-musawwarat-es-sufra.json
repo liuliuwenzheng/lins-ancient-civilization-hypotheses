@@ -1,0 +1,37 @@
+{
+  "id": "site-musawwarat-es-sufra",
+  "entity": "site",
+  "names": {
+    "zh": "穆萨瓦拉特·苏弗拉",
+    "en": "Musawwarat es-Sufra",
+    "native": "Musawwarat"
+  },
+  "kind_note": "Meroitic temple complex",
+  "region": "Island of Meroe, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "麦罗埃期大型神庙建筑群。",
+    "en": "Large Meroitic temple complex."
+  },
+  "sources": [
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-pleiades-musawwarat-805632",
+    "src-nubia-welsby-1996"
+  ],
+  "coordinates": {
+    "lat": 16.410817,
+    "lon": 33.328417,
+    "precision_note": "UNESCO WHC list 1336 component Musawwarat published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

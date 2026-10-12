@@ -1,0 +1,34 @@
+{
+  "id": "claim-nubia-handbook-2021-orientation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《牛津古代努比亚手册》提供凯尔迈至麦罗埃考古与史学的近期章节级入口（Emberling & Williams 2021）。",
+    "en": "The Oxford Handbook of Ancient Nubia provides a recent chapter-level entry to Kerma-through-Meroe archaeology and historiography (Emberling & Williams 2021)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-kerma",
+    "site-meroe"
+  ],
+  "period_ids": [
+    "period-nubia-kush-overview"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-emberling-williams-2021",
+    "src-nubia-oxford-handbook-chapters-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

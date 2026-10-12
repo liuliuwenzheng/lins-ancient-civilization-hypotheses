@@ -1,0 +1,35 @@
+{
+  "id": "period-nubia-napatan",
+  "entity": "period",
+  "names": {
+    "zh": "纳帕塔期",
+    "en": "Napatan period"
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Napatan Kush / Twenty-Fifth Dynasty contexts (Welsby/Török frames)",
+    "approx_from_bce": 900,
+    "approx_to_bce": 300,
+    "scheme_note": "Napatan political–cemetery floruit; CE boundary deferred."
+  },
+  "summary": {
+    "zh": "纳帕塔政治—墓地繁荣窗。",
+    "en": "Napatan political–cemetery floruit window."
+  },
+  "sources": [
+    "src-nubia-welsby-1996",
+    "src-nubia-torok-1997",
+    "src-nubia-unesco-gebel-barkal-1073"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-bmac-seal-amulet-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "BMAC 印章—护符框架组合",
+    "en": "BMAC seal–amulet frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe",
+    "site-altyn-depe"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "summary": {
+    "zh": "特色印章/护符物质文化指针。",
+    "en": "Distinctive seal/amulet material-culture pointer."
+  },
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-lamberg-karlovsky-roa-2012"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

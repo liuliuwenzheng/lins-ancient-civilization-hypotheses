@@ -1,0 +1,19 @@
+{
+  "id": "src-zapotec-unesco-415-maps",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Historic Centre of Oaxaca and Archaeological Site of Monte Albán — maps. https://whc.unesco.org/en/list/415/",
+  "url": "https://whc.unesco.org/en/list/415/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC published coordinates.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

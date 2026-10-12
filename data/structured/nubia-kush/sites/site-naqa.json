@@ -1,0 +1,37 @@
+{
+  "id": "site-naqa",
+  "entity": "site",
+  "names": {
+    "zh": "纳卡",
+    "en": "Naqa",
+    "native": "Naqa"
+  },
+  "kind_note": "Meroitic temple/settlement centre",
+  "region": "Island of Meroe, Sudan",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "麦罗埃期神庙与定居中心。",
+    "en": "Meroitic temple and settlement centre."
+  },
+  "sources": [
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-pleiades-naqa-805635",
+    "src-nubia-welsby-1996"
+  ],
+  "coordinates": {
+    "lat": 16.268683,
+    "lon": 33.273667,
+    "precision_note": "UNESCO WHC list 1336 component Naqa published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

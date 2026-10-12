@@ -1,0 +1,34 @@
+{
+  "id": "claim-ugarit-schaeffer-founding-excavation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Schaeffer 领导的拉斯沙姆拉使命自 1929 年起建立乌加里特田野考古传统（CRAI 通报；Yon 综述）。",
+    "en": "Schaeffer’s Mission de Ras Shamra from 1929 established the founding field tradition for Ugarit (CRAI notices; Yon synthesis)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-schaeffer-orientation",
+    "src-ugarit-persee-schaeffer-crai",
+    "src-ugarit-yon-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

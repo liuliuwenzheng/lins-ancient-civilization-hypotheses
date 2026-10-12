@@ -1,0 +1,34 @@
+{
+  "id": "claim-nubia-naqa-temple-settlement",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "综合将纳卡表述为麦罗埃期神庙与定居中心之一（Welsby 1996；UNESCO 1336）。",
+    "en": "Syntheses frame Naqa as a Meroitic temple and settlement centre (Welsby 1996; UNESCO 1336)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-naqa"
+  ],
+  "period_ids": [
+    "period-nubia-meroitic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-welsby-1996",
+    "src-nubia-unesco-island-meroe-2011",
+    "src-nubia-pleiades-naqa-805635"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

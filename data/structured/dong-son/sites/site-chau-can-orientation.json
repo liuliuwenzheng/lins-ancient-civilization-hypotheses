@@ -1,0 +1,32 @@
+{
+  "id": "site-chau-can-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "周干（指针）",
+    "en": "Châu Can (orientation)",
+    "native": "Châu Can"
+  },
+  "kind_note": "Boat-coffin cemetery discussed in Đông Sơn mortuary studies",
+  "region": "Red River Delta, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "船棺墓地指针。",
+    "en": "Boat-coffin cemetery orientation."
+  },
+  "sources": [
+    "src-dongson-vietnam-institute-orientation",
+    "src-dongson-higham-orientation-later"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

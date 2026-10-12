@@ -1,0 +1,19 @@
+{
+  "id": "src-bmac-hiebert-peabody-bulletin",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Hiebert, Fredrik T. 1994. Origins of the Bronze Age Oasis Civilization in Central Asia (ASPR Bulletin 42) — already registered companion deepen.",
+  "url": "https://peabody.harvard.edu/publications/origins-bronze-age-oasis-civilization-central-asia",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "Peabody landing already used; marks deepen track.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

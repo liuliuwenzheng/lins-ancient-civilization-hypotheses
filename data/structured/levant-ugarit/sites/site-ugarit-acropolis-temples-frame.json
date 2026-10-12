@@ -1,0 +1,32 @@
+{
+  "id": "site-ugarit-acropolis-temples-frame",
+  "entity": "site",
+  "names": {
+    "zh": "乌加里特卫城神庙框架（指针）",
+    "en": "Ugarit acropolis temples frame (orientation)",
+    "native": null
+  },
+  "kind_note": "temple district orientation",
+  "region": "Ras Shamra, Syria",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "卫城神庙框架指针。",
+    "en": "Acropolis temple-district frame."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-matoian-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

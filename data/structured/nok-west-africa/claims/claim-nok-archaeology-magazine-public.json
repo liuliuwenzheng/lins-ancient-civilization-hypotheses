@@ -1,0 +1,33 @@
+{
+  "id": "claim-nok-archaeology-magazine-public",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "《Archaeology》等公共综述仅作大众导向，不能替代发掘报告（tier T）。",
+    "en": "Public magazine overviews such as Archaeology Magazine are orientation-only and do not replace excavation reports (tier T)."
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-type-area"
+  ],
+  "period_ids": [
+    "period-nok-iron-terracotta"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-archaeology-magazine-feature",
+    "src-nok-jaa-outline-2016"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

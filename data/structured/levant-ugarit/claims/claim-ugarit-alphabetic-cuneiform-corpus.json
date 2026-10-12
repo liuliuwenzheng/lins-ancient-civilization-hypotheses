@@ -1,0 +1,36 @@
+{
+  "id": "claim-ugarit-alphabetic-cuneiform-corpus",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "语料传统将乌加里特字母楔形泥板作为西北闪语与仪礼文本的核心档案（Pardee；KTU/CAT；Bordreuil & Pardee）。",
+    "en": "Corpus tradition treats Ugaritic alphabetic-cuneiform tablets as a core archive for NW Semitic and ritual texts (Pardee; KTU/CAT; Bordreuil & Pardee)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "object_ids": [
+    "asm-ugarit-alphabetic-cuneiform-frame"
+  ],
+  "sources": [
+    "src-ugarit-pardee-text-orientation",
+    "src-ugarit-dietrich-lorez-orientation",
+    "src-ugarit-bordreuil-pardee-manual"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claim-zapotec-danzantes-early-writing",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究将舞者石碑群与早期萨波特克文字/政治展示联系起来（Urcid 等；Marcus & Flannery）。",
+    "en": "Research links the Danzantes monument group with early Zapotec writing/political display (Urcid et al.; Marcus & Flannery)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-i-ii"
+  ],
+  "object_ids": [
+    "asm-zapotec-danzantes-frame"
+  ],
+  "sources": [
+    "src-zapotec-umoto-danzantes-orientation",
+    "src-zapotec-marcus-flannery-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

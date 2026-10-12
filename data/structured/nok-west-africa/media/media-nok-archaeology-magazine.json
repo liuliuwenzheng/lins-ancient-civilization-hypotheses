@@ -1,0 +1,32 @@
+{
+  "id": "media-nok-archaeology-magazine",
+  "entity": "media",
+  "title": {
+    "zh": "Archaeology Magazine：诺克专题",
+    "en": "Archaeology Magazine: Nok feature",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archaeology.org/issues/online/features/the-nok-of-nigeria/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-nok-archaeology-magazine-feature"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Archaeology Magazine",
+    "upstream_url": "https://archaeology.org/issues/online/features/the-nok-of-nigeria/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

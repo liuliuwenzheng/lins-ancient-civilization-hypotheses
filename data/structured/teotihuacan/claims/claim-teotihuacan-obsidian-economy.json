@@ -1,0 +1,33 @@
+{
+  "id": "claim-teotihuacan-obsidian-economy",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "黑曜石生产与交换研究将特奥蒂瓦坎置于区域黑曜石经济网络中（Spence）。",
+    "en": "Obsidian production and exchange studies place Teotihuacan in a regional obsidian economy (Spence)."
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-spence-obsidian-orientation",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

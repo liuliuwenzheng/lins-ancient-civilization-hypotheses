@@ -1,0 +1,34 @@
+{
+  "id": "period-dong-son-late-transition",
+  "entity": "period",
+  "names": {
+    "zh": "东山晚期—早期历史过渡窗",
+    "en": "Đông Sơn late / early historic transition"
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "time": {
+    "label": "late 1st millennium BCE–early centuries CE (Cổ Loa debates)",
+    "approx_from_bce": 100,
+    "approx_to_bce": null,
+    "scheme_note": "Transition into early historic; approx_to null."
+  },
+  "summary": {
+    "zh": "晚期过渡窗。",
+    "en": "Late transition window."
+  },
+  "sources": [
+    "src-dongson-co-loa-kim-orientation",
+    "src-dongson-han-period-transition"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

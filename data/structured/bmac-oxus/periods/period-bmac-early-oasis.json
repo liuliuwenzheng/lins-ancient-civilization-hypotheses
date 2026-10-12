@@ -1,0 +1,34 @@
+{
+  "id": "period-bmac-early-oasis",
+  "entity": "period",
+  "names": {
+    "zh": "早期绿洲窗",
+    "en": "Early oasis window"
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "late 3rd millennium BCE formation debates (Hiebert/Sarianidi frames)",
+    "approx_from_bce": 2300,
+    "approx_to_bce": 2200,
+    "scheme_note": "Formation absolute bands debated."
+  },
+  "summary": {
+    "zh": "形成期粗窗。",
+    "en": "Formation coarse window."
+  },
+  "sources": [
+    "src-bmac-hiebert-1994",
+    "src-bmac-sarianidi-gonur-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

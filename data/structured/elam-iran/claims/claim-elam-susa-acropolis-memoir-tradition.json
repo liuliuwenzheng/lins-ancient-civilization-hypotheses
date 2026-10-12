@@ -1,0 +1,33 @@
+{
+  "id": "claim-elam-susa-acropolis-memoir-tradition",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "苏萨卫城/王城发掘回忆录传统提供分层建筑与陶器序列的主要发表框架（Steve–Gasche MDAI 传统）。",
+    "en": "Susa Acropolis/Ville Royale memoir traditions supply the main published framework for stratified architecture and ceramics (Steve–Gasche MDAI tradition)."
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-susa"
+  ],
+  "period_ids": [
+    "period-elam-overview"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-steve-gasche-susa-orientation",
+    "src-elam-gasche-susiana-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

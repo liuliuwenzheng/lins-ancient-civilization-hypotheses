@@ -1,0 +1,19 @@
+{
+  "id": "src-ugarit-persee-schaeffer-crai",
+  "entity": "source",
+  "type": "article",
+  "citation": "Schaeffer, Claude F.-A. CRAI notices on Ras Shamra excavations (Persée) — founding field reports.",
+  "url": "https://www.persee.fr/doc/crai_0065-0536_1939_num_83_3_77192",
+  "access_date": "2026-10-12",
+  "reliability_tier": "P",
+  "notes": "P-tier CRAI field notice example already linked in shell orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

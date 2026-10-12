@@ -1,0 +1,32 @@
+{
+  "id": "site-elam-susiana-survey-frame",
+  "entity": "site",
+  "names": {
+    "zh": "苏萨纳区域调查框架（指针）",
+    "en": "Susiana regional survey frame (orientation)",
+    "native": null
+  },
+  "kind_note": "survey-region",
+  "region": "Khuzestan Susiana plain, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "区域调查框架指针；非单点。",
+    "en": "Survey-frame pointer; not a single site point."
+  },
+  "sources": [
+    "src-elam-carter-stolper-1984",
+    "src-elam-potts-2016"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

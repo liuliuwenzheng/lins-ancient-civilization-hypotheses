@@ -1,0 +1,32 @@
+{
+  "id": "media-hittite-pleiades-yazilikaya",
+  "entity": "media",
+  "title": {
+    "zh": "Pleiades：亚兹利卡亚",
+    "en": "Pleiades: Yazılıkaya",
+    "native": null
+  },
+  "media_type": "external-catalog",
+  "external_url": "https://pleiades.stoa.org/places/478681498",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-hittite-pleiades-yazilikaya-478681498"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Pleiades / ISAW",
+    "upstream_url": "https://pleiades.stoa.org/places/478681498",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

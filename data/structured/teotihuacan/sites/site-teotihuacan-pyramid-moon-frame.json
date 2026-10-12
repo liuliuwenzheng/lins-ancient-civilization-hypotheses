@@ -1,0 +1,32 @@
+{
+  "id": "site-teotihuacan-pyramid-moon-frame",
+  "entity": "site",
+  "names": {
+    "zh": "月亮金字塔框架（指针）",
+    "en": "Pyramid of the Moon frame (orientation)",
+    "native": null
+  },
+  "kind_note": "monument orientation within city",
+  "region": "State of Mexico, Mexico",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "月亮金字塔与北广场框架。",
+    "en": "Pyramid of the Moon and north plaza frame."
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-2015",
+    "src-teotihuacan-cabrera-castro-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

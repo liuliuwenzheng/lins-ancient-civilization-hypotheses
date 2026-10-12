@@ -1,0 +1,33 @@
+{
+  "id": "claim-ugarit-archive-topography",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "档案地形研究讨论泥板出土地点与城市功能分区的关系（van Soldt；Yon）。",
+    "en": "Archive-topography studies discuss relations between tablet findspots and urban functional zones (van Soldt; Yon)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-lba-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-van-soldt-archives-orientation",
+    "src-ugarit-yon-2006"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

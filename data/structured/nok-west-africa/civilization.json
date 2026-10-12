@@ -2,7 +2,7 @@
   "id": "civ-nok-west-africa",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "诺克（西非）",
     "en": "Nok (West Africa)",
@@ -11,37 +11,68 @@
   "region": "West Africa / central Nigeria (Jos Plateau and surrounding regions)",
   "time_span": "Iron Age terracotta-and-iron tradition ca. 1500 BCE–turn of CE (recent chronologies; Fagg discovery tradition)",
   "summary": {
-    "zh": "诺克档案壳：西非早期铁器/陶俑传统；library-seed，填非洲空白。",
-    "en": "Nok archive shell: early West African iron/terracotta tradition; library-seed closing Africa gap."
+    "zh": "诺克档案（library-seed-rich）：Frankfurt/JAA 年代学 + 陶俑/铁器传统遗址入口；非洲空白仍薄但可调用。",
+    "en": "Nok archive (library-seed-rich): Frankfurt/JAA chronology + terracotta/iron tradition site entries; Africa gap still thin but callable."
   },
   "sources": [
-    "src-nok-fagg-orientation",
-    "src-nok-breunig-renn-chronology",
-    "src-nok-jae-outline-recent",
     "src-nok-archaeology-magazine-feature",
-    "src-nok-jemaa-terracotta-tradition"
+    "src-nok-breunig-renn-chronology",
+    "src-nok-british-museum-orientation",
+    "src-nok-fagg-1959-orientation",
+    "src-nok-fagg-orientation",
+    "src-nok-iron-smelting-orientation",
+    "src-nok-jaa-chronology-2016",
+    "src-nok-jaa-outline-2016",
+    "src-nok-jae-outline-recent",
+    "src-nok-jemaa-terracotta-tradition",
+    "src-nok-jemkur-orientation",
+    "src-nok-panafrican-iron-context",
+    "src-nok-samun-dukiya-orientation",
+    "src-nok-taruga-orientation",
+    "src-nok-terracotta-style-orientation"
   ],
   "site_ids": [
+    "site-jemaa-nok",
+    "site-jos-museum-frame",
+    "site-nok-anama-orientation",
     "site-nok-type-area",
-    "site-jemaa-nok"
+    "site-nok-village-type",
+    "site-samun-dukiya",
+    "site-taruga-nok"
   ],
   "period_ids": [
-    "period-nok-iron-terracotta"
+    "period-nok-classic-terracotta",
+    "period-nok-early",
+    "period-nok-iron-terracotta",
+    "period-nok-late"
   ],
   "claim_ids": [
-    "claim-nok-terracotta-iron-tradition"
+    "claim-nok-archaeology-magazine-public",
+    "claim-nok-early-iron-evidence",
+    "claim-nok-jaa-chronology-band",
+    "claim-nok-jemaa-head-locality",
+    "claim-nok-museum-assemblages",
+    "claim-nok-samun-dukiya-excavated",
+    "claim-nok-state-complexity-hypothesis",
+    "claim-nok-terracotta-iron-tradition",
+    "claim-nok-terracotta-sculpture-tradition",
+    "claim-nok-type-area-jos-plateau",
+    "claim-nok-west-africa-ironization"
   ],
   "object_ids": [
+    "asm-nok-iron-smelting-frame",
+    "asm-nok-jemaa-head-frame",
     "asm-nok-terracotta-frame"
   ],
   "related_ids": [],
   "markdown_path": "data/civilizations/civ-nok-west-africa.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

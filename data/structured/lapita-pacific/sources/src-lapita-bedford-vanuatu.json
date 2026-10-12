@@ -1,0 +1,19 @@
+{
+  "id": "src-lapita-bedford-vanuatu",
+  "entity": "source",
+  "type": "excavation-report",
+  "citation": "Bedford, Stuart; Spriggs, Matthew; et al. Vanuatu Lapita excavations including Teouma cemetery publications.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "P",
+  "notes": "Teouma/Vanuatu excavation tradition.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

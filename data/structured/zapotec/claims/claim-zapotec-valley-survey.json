@@ -1,0 +1,33 @@
+{
+  "id": "claim-zapotec-valley-survey",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "谷地调查将蒙特·阿尔班置于瓦哈卡谷地聚落等级与腹地网络中（Blanton/Feinman/Kowalewski）。",
+    "en": "Valley survey places Monte Albán within Oaxaca settlement hierarchy and hinterland networks (Blanton/Feinman/Kowalewski)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-blanton-feinman-kowalewski",
+    "src-zapotec-blanton-monte-alban-1978"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

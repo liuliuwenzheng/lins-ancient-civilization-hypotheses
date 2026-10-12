@@ -1,0 +1,33 @@
+{
+  "id": "claim-lapita-single-migration-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说：将全部远大洋洲定居简化为单一「拉皮塔移民波」的模型过于粗糙，区域变异与多阶段过程需保留（Green/Sheppard 讨论语境）。",
+    "en": "Hypothesis: reducing all Remote Oceanic settlement to a single ‘Lapita migration wave’ is too coarse; regional variation and multi-stage processes must be retained (Green/Sheppard discussion context)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-teouma"
+  ],
+  "period_ids": [
+    "period-lapita-remote-oceania"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-green-definition",
+    "src-lapita-sheppard-orientation"
+  ],
+  "disclaimer": "Hypothesis: single-wave migration models are debated; not established fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

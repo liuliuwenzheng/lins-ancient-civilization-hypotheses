@@ -1,0 +1,34 @@
+{
+  "id": "claim-dong-son-type-site-thanh-hoa",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究将清化东山遗址作为东山文化命名类型地（Higham；越南发掘传统）。",
+    "en": "Research treats the Đông Sơn site in Thanh Hóa as the name-giving type-site (Higham; Vietnamese excavation tradition)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-bronze-iron"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-vietnam-excavation-orientation",
+    "src-dongson-vietnam-institute-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

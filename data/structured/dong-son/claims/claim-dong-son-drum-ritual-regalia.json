@@ -1,0 +1,33 @@
+{
+  "id": "claim-dong-son-drum-ritual-regalia",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "艺术史论文讨论铜鼓作为仪礼/权贵标志物的解释（Persée/Arts Asiatiques 传统）。",
+    "en": "Art-historical essays discuss drums as ritual/regalia instruments (Persée/Arts Asiatiques tradition)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-classic-drums"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-persee-drums",
+    "src-dongson-persee-drums-1991"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "claim-yayoi-yoshinogari-settlement",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "公共与研究导向将吉野ケ里作为大型弥生环壕聚落的展示型遗址（公园/Barnes 取向）。",
+    "en": "Public and research orientation treats Yoshinogari as an illustrative large Yayoi moated settlement (park/Barnes orientation)."
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-yoshinogari-orientation"
+  ],
+  "period_ids": [
+    "period-yayoi"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-yoshinogari-orientation",
+    "src-yayoi-barnes-archaeology-japan"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

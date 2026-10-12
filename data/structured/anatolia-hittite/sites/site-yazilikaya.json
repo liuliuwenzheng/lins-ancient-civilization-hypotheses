@@ -1,0 +1,37 @@
+{
+  "id": "site-yazilikaya",
+  "entity": "site",
+  "names": {
+    "zh": "亚兹利卡亚",
+    "en": "Yazılıkaya",
+    "native": "Yazılıkaya"
+  },
+  "kind_note": "Hittite rock sanctuary",
+  "region": "Çorum Province, Türkiye",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "哈图沙相关岩刻圣所；教科文组分。",
+    "en": "Rock sanctuary associated with Hattusa; UNESCO component."
+  },
+  "sources": [
+    "src-hittite-unesco-hattusa",
+    "src-hittite-pleiades-yazilikaya-478681498",
+    "src-hittite-bryce-2005"
+  ],
+  "coordinates": {
+    "lat": 40.024389,
+    "lon": 34.637722,
+    "precision_note": "UNESCO WHC list 377 component 377-002 published DMS→decimal; access 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

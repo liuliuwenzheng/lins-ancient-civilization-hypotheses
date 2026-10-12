@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-new-caledonia-type",
+  "entity": "site",
+  "names": {
+    "zh": "拉皮塔（新喀里多尼亚类型地）",
+    "en": "Lapita (New Caledonia type locality)",
+    "native": "Lapita"
+  },
+  "kind_note": "Name-giving locality for Lapita pottery",
+  "region": "New Caledonia",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "齿印陶命名地；与复合体并读。",
+    "en": "Name-giving locality for dentate-stamped pottery."
+  },
+  "sources": [
+    "src-lapita-sand-western-lapita",
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-green-retrospective"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

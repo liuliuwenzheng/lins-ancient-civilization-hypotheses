@@ -1,0 +1,34 @@
+{
+  "id": "period-elam-neo",
+  "entity": "period",
+  "names": {
+    "zh": "新埃兰窗",
+    "en": "Neo-Elamite window"
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "time": {
+    "label": "early 1st millennium BCE into Achaemenid contexts (Potts)",
+    "approx_from_bce": 1100,
+    "approx_to_bce": 500,
+    "scheme_note": "Neo-Elamite coarse window."
+  },
+  "summary": {
+    "zh": "新埃兰至阿契美尼德早期粗窗。",
+    "en": "Neo-Elamite to early Achaemenid window."
+  },
+  "sources": [
+    "src-elam-potts-2016",
+    "src-elam-alvarez-mon-elamite-world-2018"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "site-ugarit-kingdom-territory-frame",
+  "entity": "site",
+  "names": {
+    "zh": "乌加里特王国领土框架（指针）",
+    "en": "Ugarit kingdom territory frame (orientation)",
+    "native": null
+  },
+  "kind_note": "survey-region",
+  "region": "Northern Levantine coast, Syria",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "王国领土地理框架；非单点。",
+    "en": "Kingdom territorial frame; not a single site point."
+  },
+  "sources": [
+    "src-ugarit-saade-geography-orientation",
+    "src-ugarit-yon-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

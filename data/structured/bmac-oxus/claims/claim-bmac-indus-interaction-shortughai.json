@@ -1,0 +1,33 @@
+{
+  "id": "claim-bmac-indus-interaction-shortughai",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究讨论巴克特里亚—印度河互动，并以肖尔图盖等据点为线索（Francfort；Kohl）。",
+    "en": "Research discusses Bactria–Indus interaction using outposts such as Shortughai as clues (Francfort; Kohl)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-shortughai-orientation"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-francfort-orientation",
+    "src-bmac-kohl-central-asia-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

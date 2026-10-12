@@ -1,0 +1,32 @@
+{
+  "id": "media-elam-unesco-zanbil",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：恰高·占比尔",
+    "en": "UNESCO: Tchogha Zanbil",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/113/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-elam-unesco-tchogha-zanbil"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/113/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

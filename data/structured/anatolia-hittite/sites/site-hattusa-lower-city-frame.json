@@ -1,0 +1,33 @@
+{
+  "id": "site-hattusa-lower-city-frame",
+  "entity": "site",
+  "names": {
+    "zh": "哈图沙下城框架（指针）",
+    "en": "Hattusa lower city frame (orientation)",
+    "native": null
+  },
+  "kind_note": "district orientation within capital",
+  "region": "Çorum Province, Türkiye",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "都城下城街区框架指针；非整站点新坐标。",
+    "en": "Lower-city district frame within the capital; not a separate gazetteer point."
+  },
+  "sources": [
+    "src-hittite-neve-hattusa-orientation",
+    "src-hittite-seeher-hattusa-2006",
+    "src-hittite-unesco-hattusa"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-zapotec-unesco-monte-alban",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将蒙特·阿尔班列为瓦哈卡谷地古代萨波特克考古遗址（与瓦哈卡历史中心一并列入）（UNESCO 415）。",
+    "en": "UNESCO lists Monte Albán as the ancient Zapotec archaeological site of the Valley of Oaxaca (with the historic centre of Oaxaca) (UNESCO 415)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-unesco-monte-alban-415",
+    "src-zapotec-unesco-415-maps",
+    "src-zapotec-blanton-monte-alban-1978"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

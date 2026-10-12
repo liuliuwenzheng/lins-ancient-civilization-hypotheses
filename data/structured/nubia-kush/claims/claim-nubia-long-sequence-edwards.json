@@ -1,0 +1,35 @@
+{
+  "id": "claim-nubia-long-sequence-edwards",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Edwards 综合将中尼罗表述为含凯尔迈、纳帕塔与麦罗埃等阶段的长时段考古序列（Edwards 2004）。",
+    "en": "Edwards’s synthesis frames the Middle Nile as a long archaeological sequence including Kerma, Napatan, and Meroitic phases (Edwards 2004)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-kerma",
+    "site-meroe",
+    "site-jebel-barkal"
+  ],
+  "period_ids": [
+    "period-nubia-kush-overview"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-edwards-2004",
+    "src-nubia-emberling-williams-2021"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

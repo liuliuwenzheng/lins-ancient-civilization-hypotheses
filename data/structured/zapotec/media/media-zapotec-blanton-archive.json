@@ -1,0 +1,32 @@
+{
+  "id": "media-zapotec-blanton-archive",
+  "entity": "media",
+  "title": {
+    "zh": "Archive.org：Blanton 1978",
+    "en": "Archive.org: Blanton 1978",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://archive.org/details/montealbansettle0000blan",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-blanton-monte-alban-1978"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Internet Archive",
+    "upstream_url": "https://archive.org/details/montealbansettle0000blan",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

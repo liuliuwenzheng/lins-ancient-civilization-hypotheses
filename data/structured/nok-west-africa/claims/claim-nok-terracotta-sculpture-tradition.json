@@ -1,0 +1,37 @@
+{
+  "id": "claim-nok-terracotta-sculpture-tradition",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Fagg 识别传统与其后目录将特色陶俑雕塑作为诺克物质文化核心标志（Fagg；博物馆目录传统）。",
+    "en": "Fagg’s identification tradition and later catalogs treat distinctive terracotta sculpture as a core Nok material-culture marker (Fagg; museum catalog tradition)."
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-jemaa-nok",
+    "site-nok-type-area"
+  ],
+  "period_ids": [
+    "period-nok-classic-terracotta"
+  ],
+  "object_ids": [
+    "asm-nok-jemaa-head-frame"
+  ],
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-jemaa-terracotta-tradition",
+    "src-nok-terracotta-style-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

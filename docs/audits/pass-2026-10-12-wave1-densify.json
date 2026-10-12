@@ -1,0 +1,325 @@
+{
+  "decision": "D-2026-10-12-13",
+  "date": "2026-10-12",
+  "packs": [
+    {
+      "pack": "elam-iran",
+      "before": {
+        "sources": 5,
+        "sites": 3,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 8,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "civ_id": "civ-elam-iran",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "nubia-kush",
+      "before": {
+        "sources": 5,
+        "sites": 3,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 9,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "civ_id": "civ-nubia-kush",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 6,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "anatolia-hittite",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "civ_id": "civ-anatolia-hittite",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "levant-ugarit",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "civ_id": "civ-levant-ugarit",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "bmac-oxus",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "civ_id": "civ-bmac-oxus",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "nok-west-africa",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "civ_id": "civ-nok-west-africa",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "teotihuacan",
+      "before": {
+        "sources": 5,
+        "sites": 1,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 6,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "civ_id": "civ-teotihuacan",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "zapotec",
+      "before": {
+        "sources": 5,
+        "sites": 1,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 6,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "civ_id": "civ-zapotec",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    },
+    {
+      "pack": "lapita-pacific",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 2
+      },
+      "civ_id": "civ-lapita-pacific",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 2
+      }
+    },
+    {
+      "pack": "dong-son",
+      "before": {
+        "sources": 5,
+        "sites": 2,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 7,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 1
+      },
+      "civ_id": "civ-dong-son",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 1
+      }
+    },
+    {
+      "pack": "jomon-yayoi",
+      "before": {
+        "sources": 5,
+        "sites": 1,
+        "periods": 1,
+        "objects": 1,
+        "claims": 1,
+        "media": 0
+      },
+      "after": {
+        "sources": 15,
+        "sites": 6,
+        "periods": 4,
+        "objects": 3,
+        "claims": 11,
+        "media": 3
+      },
+      "civ_id": "civ-jomon-yayoi",
+      "status": "library-seed-rich",
+      "delta": {
+        "sources": 10,
+        "sites": 5,
+        "periods": 3,
+        "objects": 2,
+        "claims": 10,
+        "media": 3
+      }
+    }
+  ]
+}

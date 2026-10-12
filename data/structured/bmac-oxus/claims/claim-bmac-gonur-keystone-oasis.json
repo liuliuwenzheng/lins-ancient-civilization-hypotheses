@@ -1,0 +1,34 @@
+{
+  "id": "claim-bmac-gonur-keystone-oasis",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "发掘与综合将戈努尔表述为马尔吉亚纳绿洲关键大型遗址（Sarianidi；Hiebert 1994）。",
+    "en": "Excavation and synthesis frame Gonur as a keystone large Margiana oasis site (Sarianidi; Hiebert 1994)."
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-gonur-depe"
+  ],
+  "period_ids": [
+    "period-bmac-classic-margiana"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-sarianidi-gonur-orientation",
+    "src-bmac-hiebert-1994",
+    "src-bmac-pleiades-gonur-391537222"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

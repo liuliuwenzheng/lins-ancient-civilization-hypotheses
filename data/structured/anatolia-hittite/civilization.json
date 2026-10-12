@@ -2,7 +2,7 @@
   "id": "civ-anatolia-hittite",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "安纳托利亚 / 赫梯",
     "en": "Anatolia / Hittite",
@@ -11,28 +11,58 @@
   "region": "Southwest Asia / central Anatolia (Türkiye); northern Syria contacts",
   "time_span": "ca. 17th–12th centuries BCE Hittite kingdom/empire floruit (Bryce 2005 narrative frame)",
   "summary": {
-    "zh": "赫梯档案壳：Bryce 叙事史 + 哈图沙；library-seed。",
-    "en": "Hittite archive shell: Bryce narrative + Hattusa; library-seed."
+    "zh": "赫梯档案（library-seed-rich）：Bryce/Seeher + 哈图沙/阿拉贾/萨皮努瓦等遗址与王国—帝国窗；仍加厚中。",
+    "en": "Hittite archive (library-seed-rich): Bryce/Seeher + Hattusa/Alaca/Sapinuwa sites and kingdom–empire windows; still thickening."
   },
   "sources": [
+    "src-hittite-beckman-text-orientation",
     "src-hittite-bryce-2005",
-    "src-hittite-unesco-hattusa",
-    "src-hittite-seeher-hattusa-2006",
     "src-hittite-collins-2007",
-    "src-hittite-beckman-text-orientation"
+    "src-hittite-glatz-anatolia-orientation",
+    "src-hittite-kuloglu-or-ortakoy-orientation",
+    "src-hittite-neve-hattusa-orientation",
+    "src-hittite-ozguc-kultepe-orientation",
+    "src-hittite-pleiades-alaca-991964195",
+    "src-hittite-pleiades-hattusa-283602441",
+    "src-hittite-pleiades-kanes-58129442",
+    "src-hittite-pleiades-sapinuwa-964671598",
+    "src-hittite-pleiades-yazilikaya-478681498",
+    "src-hittite-seeher-hattusa-2006",
+    "src-hittite-unesco-hattusa",
+    "src-hittite-van-den-hout-text-orientation"
   ],
   "site_ids": [
+    "site-alacahoyuk",
     "site-hattusa",
-    "site-alacahoyuk"
+    "site-hattusa-lower-city-frame",
+    "site-hattusa-temple-district-frame",
+    "site-kultepe-kanes",
+    "site-sapinuwa-ortakoy",
+    "site-yazilikaya"
   ],
   "period_ids": [
-    "period-hittite-kingdom-empire"
+    "period-anatolia-assyrian-colony",
+    "period-hittite-empire",
+    "period-hittite-kingdom-empire",
+    "period-hittite-old-kingdom"
   ],
   "claim_ids": [
-    "claim-hittite-hattusa-capital"
+    "claim-hittite-alaca-elite-tombs",
+    "claim-hittite-empire-collapse-frame",
+    "claim-hittite-hattusa-capital",
+    "claim-hittite-hattusa-unesco-capital",
+    "claim-hittite-hattusa-urban-chronology",
+    "claim-hittite-kanes-karum-archives",
+    "claim-hittite-landscape-empire-orientation",
+    "claim-hittite-sapinuwa-provincial-archives",
+    "claim-hittite-tablet-archives-reconstruction",
+    "claim-hittite-temple-district-architecture",
+    "claim-hittite-yazilikaya-rock-sanctuary"
   ],
   "object_ids": [
-    "asm-hattusa-archives-frame"
+    "asm-hattusa-archives-frame",
+    "asm-hattusa-temple-district-frame",
+    "asm-yazilikaya-relief-frame"
   ],
   "related_ids": [
     "civ-aegean",
@@ -42,10 +72,11 @@
   "markdown_path": "data/civilizations/civ-anatolia-hittite.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

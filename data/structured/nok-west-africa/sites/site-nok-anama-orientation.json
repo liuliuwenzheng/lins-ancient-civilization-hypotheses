@@ -1,0 +1,32 @@
+{
+  "id": "site-nok-anama-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "阿纳马等地（指针）",
+    "en": "Anama and related localities (orientation)",
+    "native": null
+  },
+  "kind_note": "findspot cluster orientation",
+  "region": "Central Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "Frankfurt 项目相关出土地集群指针。",
+    "en": "Frankfurt-project-related findspot cluster orientation."
+  },
+  "sources": [
+    "src-nok-jaa-outline-2016",
+    "src-nok-samun-dukiya-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

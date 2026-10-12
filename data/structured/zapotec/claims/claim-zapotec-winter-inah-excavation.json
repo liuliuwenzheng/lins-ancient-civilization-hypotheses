@@ -1,0 +1,33 @@
+{
+  "id": "claim-zapotec-winter-inah-excavation",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Winter 等 INAH 发掘/调查传统持续填充蒙特·阿尔班与谷地地层细节（Winter 传统）。",
+    "en": "Winter and related INAH excavation/survey traditions continue to fill stratigraphic detail at Monte Albán and in the valley (Winter tradition)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-florescence"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-winter-orientation",
+    "src-zapotec-blanton-monte-alban-1978"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

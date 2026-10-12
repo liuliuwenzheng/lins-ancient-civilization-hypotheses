@@ -1,0 +1,36 @@
+{
+  "id": "claim-yayoi-wet-rice-introduction",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究将弥生表述为以水田稻作为标志的农业传统转型（Barnes；水田考古专文）。",
+    "en": "Research frames Yayoi as an agricultural tradition transition marked by wet-rice paddies (Barnes; paddy-field archaeology papers)."
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-itazuke-orientation"
+  ],
+  "period_ids": [
+    "period-yayoi"
+  ],
+  "object_ids": [
+    "asm-yayoi-paddy-field-frame"
+  ],
+  "sources": [
+    "src-yayoi-wet-rice-orientation",
+    "src-yayoi-barnes-orientation",
+    "src-yayoi-barnes-archaeology-japan"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

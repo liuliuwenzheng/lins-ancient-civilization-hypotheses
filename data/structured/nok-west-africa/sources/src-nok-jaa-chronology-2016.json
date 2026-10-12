@@ -1,0 +1,19 @@
+{
+  "id": "src-nok-jaa-chronology-2016",
+  "entity": "source",
+  "type": "article",
+  "citation": "Breunig, Peter; Rupp, Nicole; et al. Central Nigerian Nok Culture chronology papers in Journal of African Archaeology (~1500 BCE–turn of CE).",
+  "url": "https://brill.com/view/journals/jaa/14/3/article-p257_2.pdf",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Absolute chronology orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

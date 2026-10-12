@@ -1,0 +1,35 @@
+{
+  "id": "claim-jomon-unesco-serial-property",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文将「北海道·北东北绳文遗址群」列为系列遗产，含三内丸山、大汤环状列石等组分（UNESCO 1632）。",
+    "en": "UNESCO lists Jomon Prehistoric Sites in Northern Japan as a serial property including Sannai Maruyama, Ōyu Stone Circles, and other components (UNESCO 1632)."
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-sannai-maruyama",
+    "site-oyu-stone-circles",
+    "site-odai-yamamoto"
+  ],
+  "period_ids": [
+    "period-jomon-yayoi-overview"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-unesco-1632-maps"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "media-zapotec-inah",
+  "entity": "media",
+  "title": {
+    "zh": "INAH 门户",
+    "en": "INAH portal",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.inah.gob.mx/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-casternada-inah"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "INAH",
+    "upstream_url": "https://www.inah.gob.mx/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

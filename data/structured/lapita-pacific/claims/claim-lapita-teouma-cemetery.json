@@ -1,0 +1,35 @@
+{
+  "id": "claim-lapita-teouma-cemetery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bedford/Spriggs 等将特乌马表述为瓦努阿图早期拉皮塔墓地/定居关键遗址（Antiquity；发掘传统）。",
+    "en": "Bedford/Spriggs et al. frame Teouma as a key early Lapita cemetery/settlement in Vanuatu (Antiquity; excavation tradition)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-teouma"
+  ],
+  "period_ids": [
+    "period-lapita-remote-oceania"
+  ],
+  "object_ids": [
+    "asm-lapita-teouma-cemetery-frame"
+  ],
+  "sources": [
+    "src-lapita-teouma-antiquity",
+    "src-lapita-bedford-vanuatu"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

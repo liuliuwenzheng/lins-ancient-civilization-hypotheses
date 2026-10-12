@@ -1,0 +1,35 @@
+{
+  "id": "claim-ugarit-akkadian-international-letters",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿卡德书信与条约文本将乌加里特定位在晚青铜国际通信网络中（Lackenbacher/Malbran；Singer）。",
+    "en": "Akkadian letters and treaty texts place Ugarit in the LBA international correspondence network (Lackenbacher/Malbran; Singer)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-international-age"
+  ],
+  "object_ids": [
+    "asm-ugarit-akkadian-letters-frame"
+  ],
+  "sources": [
+    "src-ugarit-lackenbacher-malbran-orientation",
+    "src-ugarit-singer-political-orientation"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

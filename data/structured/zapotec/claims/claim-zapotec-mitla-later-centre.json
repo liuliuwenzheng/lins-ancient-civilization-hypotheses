@@ -1,0 +1,33 @@
+{
+  "id": "claim-zapotec-mitla-later-centre",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "公共/研究导向将米特拉作为晚期萨波特克中心之一讨论（INAH/T 级导向）。",
+    "en": "Public/research orientation discusses Mitla as a later Zapotec centre (INAH/tier-T orientation)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-mitla-orientation"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-iii"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-mitla-orientation",
+    "src-zapotec-marcus-flannery-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

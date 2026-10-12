@@ -1,0 +1,33 @@
+{
+  "id": "site-bismarck-early-lapita-frame",
+  "entity": "site",
+  "names": {
+    "zh": "俾斯麦群岛早期拉皮塔框架（指针）",
+    "en": "Bismarck Archipelago early Lapita frame (orientation)",
+    "native": null
+  },
+  "kind_note": "regional origins frame",
+  "region": "Papua New Guinea",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "近大洋洲起源区框架。",
+    "en": "Near Oceania origins-region frame."
+  },
+  "sources": [
+    "src-lapita-summerhayes-orientation",
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-dating-appearance-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

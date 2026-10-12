@@ -1,0 +1,33 @@
+{
+  "id": "claim-zapotec-state-formation-debate",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说/争论：蒙特·阿尔班扩张与「早期国家」模型的机制（征服、殖民、联盟）仍有 Spencer/Redmond 等争论。",
+    "en": "Hypothesis/debate: mechanisms of Monte Albán expansion and ‘early state’ models (conquest, colonization, alliance) remain debated (Spencer/Redmond et al.)."
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-monte-alban"
+  ],
+  "period_ids": [
+    "period-zapotec-monte-alban-i-ii"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-spencer-redmond-orientation",
+    "src-zapotec-marcus-flannery-1996"
+  ],
+  "disclaimer": "Hypothesis/debate: state-formation mechanisms are contested; not a single fact claim.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

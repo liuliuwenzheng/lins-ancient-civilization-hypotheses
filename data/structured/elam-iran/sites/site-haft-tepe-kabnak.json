@@ -1,0 +1,37 @@
+{
+  "id": "site-haft-tepe-kabnak",
+  "entity": "site",
+  "names": {
+    "zh": "哈夫特·特佩（Kabnak）",
+    "en": "Haft Tepe (Kabnak)",
+    "native": "Kabnak"
+  },
+  "kind_note": "Middle Elamite centre",
+  "region": "Khuzestan, Iran",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "中埃兰行政—宗教中心。",
+    "en": "Middle Elamite administrative–religious centre."
+  },
+  "sources": [
+    "src-elam-negahban-haft-tepe-orientation",
+    "src-elam-pleiades-kabnak-379400932",
+    "src-elam-potts-2016"
+  ],
+  "coordinates": {
+    "lat": 32.080537,
+    "lon": 48.328283,
+    "precision_note": "Pleiades place 379400932 (Kabnak) representative point; CSV dump 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

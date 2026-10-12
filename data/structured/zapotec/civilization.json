@@ -2,7 +2,7 @@
   "id": "civ-zapotec",
   "entity": "civilization",
   "kind": "fact",
-  "status": "library-seed",
+  "status": "library-seed-rich",
   "names": {
     "zh": "萨波特克（蒙特·阿尔班）",
     "en": "Zapotec (Monte Albán)",
@@ -11,27 +11,57 @@
   "region": "Mesoamerica / Valley of Oaxaca, Mexico",
   "time_span": "Formative foundation of Monte Albán ~500 BCE through Classic Zapotec capital florescence (Blanton settlement frame)",
   "summary": {
-    "zh": "萨波特克档案壳：Blanton 聚落考古 + 蒙特·阿尔班教科文；library-seed。",
-    "en": "Zapotec archive shell: Blanton settlement archaeology + Monte Albán UNESCO; library-seed."
+    "zh": "萨波特克档案（library-seed-rich）：Blanton/Marcus–Flannery + 蒙特·阿尔班与谷地聚落；仍加厚中。",
+    "en": "Zapotec archive (library-seed-rich): Blanton/Marcus–Flannery + Monte Albán and valley settlement; still thickening."
   },
   "sources": [
-    "src-zapotec-blanton-monte-alban-1978",
-    "src-zapotec-unesco-monte-alban-415",
     "src-zapotec-blanton-et-al-ancient-oaxaca",
+    "src-zapotec-blanton-feinman-kowalewski",
+    "src-zapotec-blanton-monte-alban-1978",
+    "src-zapotec-casternada-inah",
+    "src-zapotec-casterneda-or-inah-orientation",
+    "src-zapotec-flannery-marcus-cloud-people",
+    "src-zapotec-marcus-flannery-1996",
     "src-zapotec-marcus-flannery-orientation",
-    "src-zapotec-casterneda-or-inah-orientation"
+    "src-zapotec-mitla-orientation",
+    "src-zapotec-san-jose-mogote-orientation",
+    "src-zapotec-spencer-redmond-orientation",
+    "src-zapotec-umoto-danzantes-orientation",
+    "src-zapotec-unesco-415-maps",
+    "src-zapotec-unesco-monte-alban-415",
+    "src-zapotec-winter-orientation"
   ],
   "site_ids": [
-    "site-monte-alban"
+    "site-mitla-orientation",
+    "site-monte-alban",
+    "site-monte-alban-danzantes-frame",
+    "site-monte-alban-main-plaza-frame",
+    "site-oaxaca-valley-survey-frame",
+    "site-san-jose-mogote"
   ],
   "period_ids": [
-    "period-zapotec-monte-alban-florescence"
+    "period-zapotec-formative-villages",
+    "period-zapotec-monte-alban-florescence",
+    "period-zapotec-monte-alban-i-ii",
+    "period-zapotec-monte-alban-iii"
   ],
   "claim_ids": [
-    "claim-zapotec-monte-alban-capital"
+    "claim-zapotec-blanton-settlement-mapping",
+    "claim-zapotec-danzantes-early-writing",
+    "claim-zapotec-foundation-circa-500",
+    "claim-zapotec-marcus-flannery-urban-evolution",
+    "claim-zapotec-mitla-later-centre",
+    "claim-zapotec-monte-alban-capital",
+    "claim-zapotec-san-jose-mogote-formative",
+    "claim-zapotec-state-formation-debate",
+    "claim-zapotec-unesco-monte-alban",
+    "claim-zapotec-valley-survey",
+    "claim-zapotec-winter-inah-excavation"
   ],
   "object_ids": [
-    "asm-monte-alban-settlement-frame"
+    "asm-monte-alban-plaza-architecture-frame",
+    "asm-monte-alban-settlement-frame",
+    "asm-zapotec-danzantes-frame"
   ],
   "related_ids": [
     "civ-olmec",
@@ -41,10 +71,11 @@
   "markdown_path": "data/civilizations/civ-zapotec.md",
   "editorial": {
     "derived_from": [
-      "tools/wave1_shells/generate_wave1.py",
-      "docs/coverage-map.md"
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
   }
 }

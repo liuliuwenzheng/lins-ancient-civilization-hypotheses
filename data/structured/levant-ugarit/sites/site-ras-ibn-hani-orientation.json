@@ -1,0 +1,32 @@
+{
+  "id": "site-ras-ibn-hani-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "拉斯·伊本·哈尼（指针）",
+    "en": "Ras Ibn Hani (orientation)",
+    "native": "Ras Ibn Hani"
+  },
+  "kind_note": "Coastal secondary centre often linked to Ugarit",
+  "region": "Near Latakia, Syria",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "沿海次级中心指针；与乌加里特常被一并讨论。",
+    "en": "Coastal secondary centre often discussed with Ugarit; coords deferred."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-saade-geography-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "media-ugarit-persee-schaeffer",
+  "entity": "media",
+  "title": {
+    "zh": "Persée：Schaeffer CRAI 通报",
+    "en": "Persée: Schaeffer CRAI notice",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.persee.fr/doc/crai_0065-0536_1939_num_83_3_77192",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-persee-schaeffer-crai"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Persée / Académie des Inscriptions",
+    "upstream_url": "https://www.persee.fr/doc/crai_0065-0536_1939_num_83_3_77192",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

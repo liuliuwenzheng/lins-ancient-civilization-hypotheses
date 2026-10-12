@@ -1,0 +1,36 @@
+{
+  "id": "period-yayoi",
+  "entity": "period",
+  "names": {
+    "zh": "弥生窗",
+    "en": "Yayoi window"
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "time": {
+    "label": "Yayoi wet-rice agricultural tradition (Barnes/Mizoguchi frames)",
+    "approx_from_bce": 900,
+    "approx_to_bce": 250,
+    "scheme_note": "Yayoi working span; Kofun boundary deferred."
+  },
+  "summary": {
+    "zh": "弥生稻作传统窗。",
+    "en": "Yayoi wet-rice tradition window."
+  },
+  "sources": [
+    "src-yayoi-barnes-orientation",
+    "src-yayoi-barnes-archaeology-japan",
+    "src-yayoi-wet-rice-orientation",
+    "src-yayoi-mizoguchi-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

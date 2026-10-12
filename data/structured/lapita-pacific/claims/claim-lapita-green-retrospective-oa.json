@@ -1,0 +1,33 @@
+{
+  "id": "claim-lapita-green-retrospective-oa",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Green 回顾文章（ANU OA）总结五十年拉皮塔考古议程与定义演变。",
+    "en": "Green’s retrospective (ANU OA) summarizes five decades of Lapita archaeological agendas and definitional change."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-new-caledonia-type"
+  ],
+  "period_ids": [
+    "period-lapita-dispersal"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-green-retrospective",
+    "src-lapita-green-anu-pdf"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

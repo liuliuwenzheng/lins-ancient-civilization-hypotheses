@@ -1,0 +1,33 @@
+{
+  "id": "media-lapita-green-anu-pdf",
+  "entity": "media",
+  "title": {
+    "zh": "ANU：Green 拉皮塔回顾 PDF",
+    "en": "ANU: Green Lapita retrospective PDF",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://press-files.anu.edu.au/downloads/press/n6054/pdf/ch23.pdf",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-lapita-green-retrospective",
+    "src-lapita-green-anu-pdf"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "ANU Press",
+    "upstream_url": "https://press-files.anu.edu.au/downloads/press/n6054/pdf/ch23.pdf",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

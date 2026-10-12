@@ -1,0 +1,34 @@
+{
+  "id": "claim-lapita-environmental-context",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "环境考古讨论海岸/泻湖资源对拉皮塔选址的约束（Nunn 等取向）。",
+    "en": "Environmental archaeology discusses coastal/lagoon resource constraints on Lapita site choice (Nunn et al. orientation)."
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-teouma",
+    "site-talepakemalai"
+  ],
+  "period_ids": [
+    "period-lapita-dispersal"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-nunn-environment",
+    "src-lapita-kirch-peoples-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

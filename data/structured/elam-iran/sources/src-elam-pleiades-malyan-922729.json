@@ -1,0 +1,19 @@
+{
+  "id": "src-elam-pleiades-malyan-922729",
+  "entity": "source",
+  "type": "atlas",
+  "citation": "Pleiades. Tal-i Malyan/[Anzan] (place 922729). https://pleiades.stoa.org/places/922729",
+  "url": "https://pleiades.stoa.org/places/922729",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "Gazetteer point for Anshan.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

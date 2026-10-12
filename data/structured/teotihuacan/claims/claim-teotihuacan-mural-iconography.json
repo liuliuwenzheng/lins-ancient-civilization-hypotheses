@@ -1,0 +1,33 @@
+{
+  "id": "claim-teotihuacan-mural-iconography",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "艺术史综合讨论壁画与雕塑图像程序作为都市意识形态证据（Pasztory 取向）。",
+    "en": "Art-historical syntheses discuss mural and sculptural programs as evidence for urban ideology (Pasztory orientation)."
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-pasztory-art-orientation",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

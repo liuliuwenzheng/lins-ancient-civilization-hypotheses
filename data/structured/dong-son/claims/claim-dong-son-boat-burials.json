@@ -1,0 +1,35 @@
+{
+  "id": "claim-dong-son-boat-burials",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "越南发掘报告讨论越溪等地点的船棺与富集青铜随葬（国家发掘传统；Higham）。",
+    "en": "Vietnamese excavation reports discuss boat-coffins and rich bronze grave goods at localities such as Việt Khê (national tradition; Higham)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-viet-khe-orientation"
+  ],
+  "period_ids": [
+    "period-dong-son-classic-drums"
+  ],
+  "object_ids": [
+    "asm-dong-son-boat-burial-frame"
+  ],
+  "sources": [
+    "src-dongson-vietnam-institute-orientation",
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

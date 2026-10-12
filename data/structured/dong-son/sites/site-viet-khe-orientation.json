@@ -1,0 +1,33 @@
+{
+  "id": "site-viet-khe-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "越溪（指针）",
+    "en": "Việt Khê (orientation)",
+    "native": "Việt Khê"
+  },
+  "kind_note": "Boat-burial / rich bronze cemetery often cited for Đông Sơn",
+  "region": "Hai Phong region, Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "东山富集青铜墓地指针。",
+    "en": "Rich Đông Sơn bronze cemetery orientation."
+  },
+  "sources": [
+    "src-dongson-vietnam-excavation-orientation",
+    "src-dongson-vietnam-institute-orientation",
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

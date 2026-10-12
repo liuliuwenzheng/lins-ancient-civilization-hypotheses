@@ -1,0 +1,43 @@
+{
+  "id": "asm-teotihuacan-pyramids-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特奥蒂瓦坎金字塔仪礼核心框架组合",
+    "en": "Teotihuacan pyramid ceremonial-core frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan"
+  ],
+  "period_ids": [
+    "period-teotihuacan-classic-floruit"
+  ],
+  "summary": {
+    "zh": "太阳/月亮金字塔仪礼核心指针。",
+    "en": "Sun/Moon pyramid ceremonial-core pointer."
+  },
+  "sources": [
+    "src-teotihuacan-unesco-414",
+    "src-teotihuacan-cowgill-2015"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

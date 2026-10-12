@@ -1,0 +1,32 @@
+{
+  "id": "site-mitla-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "米特拉（指针）",
+    "en": "Mitla (orientation)",
+    "native": "Lyobaa"
+  },
+  "kind_note": "Later Zapotec centre",
+  "region": "Valley of Oaxaca, Mexico",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "晚期萨波特克中心指针。",
+    "en": "Later Zapotec centre orientation."
+  },
+  "sources": [
+    "src-zapotec-mitla-orientation",
+    "src-zapotec-marcus-flannery-1996"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

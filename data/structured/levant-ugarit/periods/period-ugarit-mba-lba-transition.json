@@ -1,0 +1,34 @@
+{
+  "id": "period-ugarit-mba-lba-transition",
+  "entity": "period",
+  "names": {
+    "zh": "乌加里特中青铜—晚青铜过渡窗",
+    "en": "Ugarit MBA–LBA transition window"
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "2nd millennium BCE before documented LBA floruit (Yon frame)",
+    "approx_from_bce": 1800,
+    "approx_to_bce": 1400,
+    "scheme_note": "Pre-floruit coarse window."
+  },
+  "summary": {
+    "zh": "繁荣期前粗窗。",
+    "en": "Pre-floruit coarse window."
+  },
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-schaeffer-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

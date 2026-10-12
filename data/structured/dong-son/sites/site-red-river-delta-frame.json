@@ -1,0 +1,32 @@
+{
+  "id": "site-red-river-delta-frame",
+  "entity": "site",
+  "names": {
+    "zh": "红河三角洲框架（指针）",
+    "en": "Red River Delta frame (orientation)",
+    "native": null
+  },
+  "kind_note": "survey-region",
+  "region": "Northern Vietnam",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "东山核心区域框架。",
+    "en": "Đông Sơn core-region frame."
+  },
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-higham-early-mainland"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

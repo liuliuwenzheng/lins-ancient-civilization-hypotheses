@@ -1,0 +1,33 @@
+{
+  "id": "claim-ugarit-sea-peoples-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说：将乌加里特毁弃直接归因于「海上民族」的单一因果模型证据不足，宜作假说而非事实（Yon/Singer 讨论语境）。",
+    "en": "Hypothesis: single-cause ‘Sea Peoples’ models for Ugarit’s destruction are underdetermined and should remain hypotheses, not facts (Yon/Singer discussion context)."
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ras-shamra-ugarit"
+  ],
+  "period_ids": [
+    "period-ugarit-destruction"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-yon-2006",
+    "src-ugarit-singer-political-orientation"
+  ],
+  "disclaimer": "Hypothesis: Sea Peoples causal attribution is debated; not a stratified fact claim.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

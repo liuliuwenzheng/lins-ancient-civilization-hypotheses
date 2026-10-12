@@ -1,0 +1,33 @@
+{
+  "id": "claim-nubia-meroitic-script-archive-medium",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究将麦罗埃文视为重建麦罗埃期行政与仪式实践的主要文字档案媒介之一（Rilly 传统；Török 1997）。",
+    "en": "Research treats Meroitic writing as a principal textual archive medium for reconstructing Meroitic administrative and ritual practice (Rilly tradition; Török 1997)."
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-meroe"
+  ],
+  "period_ids": [
+    "period-nubia-meroitic"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-rilly-meroitic-orientation",
+    "src-nubia-torok-1997"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

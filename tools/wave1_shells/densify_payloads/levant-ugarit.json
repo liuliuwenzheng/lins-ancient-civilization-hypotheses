@@ -1,0 +1,532 @@
+{
+  "civ_id": "civ-levant-ugarit",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "乌加里特档案（library-seed-rich）：Yon/Schaeffer + Ras Shamra/外港与晚青铜档案窗；仍加厚中。",
+    "en": "Ugarit archive (library-seed-rich): Yon/Schaeffer + Ras Shamra/port and LBA archive windows; still thickening."
+  },
+  "sources": [
+    {
+      "id": "src-ugarit-bordreuil-pardee-manual",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Bordreuil, Pierre, and Dennis Pardee. A Manual of Ugaritic (Linguistic Studies in Ancient West Semitic) — alphabetic cuneiform corpus orientation.",
+      "url": "https://www.eisenbrauns.org/books/titles/978-1-57506-153-5.html",
+      "notes": "Corpus/manual orientation; no invented tablet numbers."
+    },
+    {
+      "id": "src-ugarit-courtois-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Courtois, Jacques-Claude, and Mission de Ras Shamra architectural/stratigraphic publications — palace and city layout tradition.",
+      "url": null,
+      "notes": "MRS architectural tradition pointer."
+    },
+    {
+      "id": "src-ugarit-saade-geography-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Saadé, Gabriel. Ougarit: histoire et archéologie / geographic syntheses of the kingdom’s territory (orientation).",
+      "url": null,
+      "notes": "Territorial geography orientation."
+    },
+    {
+      "id": "src-ugarit-van-soldt-archives-orientation",
+      "type": "article",
+      "tier": "S",
+      "citation": "van Soldt, Wilfred H. Studies on Ugaritic archives and scribal education — archive topography orientation.",
+      "url": null,
+      "notes": "Archive topography orientation."
+    },
+    {
+      "id": "src-ugarit-matoian-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Matoïan, Valérie, and recent Mission de Ras Shamra–Ougarit publications — material culture and urban archaeology updates.",
+      "url": null,
+      "notes": "Recent MRS material-culture orientation."
+    },
+    {
+      "id": "src-ugarit-dietrich-lorez-orientation",
+      "type": "corpus",
+      "tier": "S",
+      "citation": "Dietrich, Manfried; Loretz, Oswald; Sanmartín, Joaquín — Cuneiform Alphabetic Texts from Ugarit (CAT/KTU tradition) as text corpus orientation.",
+      "url": null,
+      "notes": "KTU/CAT corpus orientation pointer."
+    },
+    {
+      "id": "src-ugarit-lackenbacher-malbran-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Lackenbacher, Sylvie / Malbran-Labat, Florence — Akkadian letter/treaty publications from Ugarit (international correspondence orientation).",
+      "url": null,
+      "notes": "Akkadian correspondence orientation."
+    },
+    {
+      "id": "src-ugarit-yon-mission-overview",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Yon, Marguerite. Mission de Ras Shamra overview essays and The City of Ugarit synthesis (already registered Yon 2006 companion track).",
+      "url": null,
+      "notes": "Mission overview complementary to Yon 2006."
+    },
+    {
+      "id": "src-ugarit-freu-political-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Freu, Jacques. Political-history treatments of Ugarit in the Hittite and Egyptian international systems (orientation).",
+      "url": null,
+      "notes": "Political-history orientation alongside Singer."
+    },
+    {
+      "id": "src-ugarit-persee-schaeffer-crai",
+      "type": "article",
+      "tier": "P",
+      "citation": "Schaeffer, Claude F.-A. CRAI notices on Ras Shamra excavations (Persée) — founding field reports.",
+      "url": "https://www.persee.fr/doc/crai_0065-0536_1939_num_83_3_77192",
+      "notes": "P-tier CRAI field notice example already linked in shell orientation."
+    }
+  ],
+  "fill_coords": {},
+  "sites": [
+    {
+      "id": "site-ugarit-royal-palace-frame",
+      "names": {
+        "zh": "乌加里特王宫框架（指针）",
+        "en": "Ugarit royal palace frame (orientation)",
+        "native": null
+      },
+      "kind_note": "palace district orientation",
+      "region": "Ras Shamra, Syria",
+      "coords": null,
+      "summary": {
+        "zh": "王宫区框架指针；坐标并入主丘。",
+        "en": "Palace-district frame; coords deferred with main tell."
+      },
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-courtois-orientation"
+      ]
+    },
+    {
+      "id": "site-ugarit-acropolis-temples-frame",
+      "names": {
+        "zh": "乌加里特卫城神庙框架（指针）",
+        "en": "Ugarit acropolis temples frame (orientation)",
+        "native": null
+      },
+      "kind_note": "temple district orientation",
+      "region": "Ras Shamra, Syria",
+      "coords": null,
+      "summary": {
+        "zh": "卫城神庙框架指针。",
+        "en": "Acropolis temple-district frame."
+      },
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-matoian-orientation"
+      ]
+    },
+    {
+      "id": "site-ugarit-south-palace-archives-frame",
+      "names": {
+        "zh": "南宫/档案区框架（指针）",
+        "en": "South palace / archives frame (orientation)",
+        "native": null
+      },
+      "kind_note": "archive district orientation",
+      "region": "Ras Shamra, Syria",
+      "coords": null,
+      "summary": {
+        "zh": "泥板档案出土地带框架。",
+        "en": "Tablet-archive find-zone frame."
+      },
+      "sources": [
+        "src-ugarit-van-soldt-archives-orientation",
+        "src-ugarit-yon-2006",
+        "src-ugarit-pardee-text-orientation"
+      ]
+    },
+    {
+      "id": "site-ras-ibn-hani-orientation",
+      "names": {
+        "zh": "拉斯·伊本·哈尼（指针）",
+        "en": "Ras Ibn Hani (orientation)",
+        "native": "Ras Ibn Hani"
+      },
+      "kind_note": "Coastal secondary centre often linked to Ugarit",
+      "region": "Near Latakia, Syria",
+      "coords": null,
+      "summary": {
+        "zh": "沿海次级中心指针；与乌加里特常被一并讨论。",
+        "en": "Coastal secondary centre often discussed with Ugarit; coords deferred."
+      },
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-saade-geography-orientation"
+      ]
+    },
+    {
+      "id": "site-ugarit-kingdom-territory-frame",
+      "names": {
+        "zh": "乌加里特王国领土框架（指针）",
+        "en": "Ugarit kingdom territory frame (orientation)",
+        "native": null
+      },
+      "kind_note": "survey-region",
+      "region": "Northern Levantine coast, Syria",
+      "coords": null,
+      "summary": {
+        "zh": "王国领土地理框架；非单点。",
+        "en": "Kingdom territorial frame; not a single site point."
+      },
+      "sources": [
+        "src-ugarit-saade-geography-orientation",
+        "src-ugarit-yon-2006"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-ugarit-mba-lba-transition",
+      "names": {
+        "zh": "乌加里特中青铜—晚青铜过渡窗",
+        "en": "Ugarit MBA–LBA transition window"
+      },
+      "time": {
+        "label": "2nd millennium BCE before documented LBA floruit (Yon frame)",
+        "approx_from_bce": 1800,
+        "approx_to_bce": 1400,
+        "scheme_note": "Pre-floruit coarse window."
+      },
+      "summary": {
+        "zh": "繁荣期前粗窗。",
+        "en": "Pre-floruit coarse window."
+      },
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-schaeffer-orientation"
+      ]
+    },
+    {
+      "id": "period-ugarit-international-age",
+      "names": {
+        "zh": "乌加里特国际时代窗",
+        "en": "Ugarit international-age window"
+      },
+      "time": {
+        "label": "ca. 14th–13th c. BCE Amarna/Hittite correspondence floruit",
+        "approx_from_bce": 1400,
+        "approx_to_bce": 1200,
+        "scheme_note": "International-letter floruit."
+      },
+      "summary": {
+        "zh": "国际书信繁荣窗。",
+        "en": "International correspondence floruit."
+      },
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-singer-political-orientation",
+        "src-ugarit-lackenbacher-malbran-orientation"
+      ]
+    },
+    {
+      "id": "period-ugarit-destruction",
+      "names": {
+        "zh": "乌加里特毁弃窗",
+        "en": "Ugarit destruction window"
+      },
+      "time": {
+        "label": "early 12th c. BCE destruction horizon debates (Yon)",
+        "approx_from_bce": 1200,
+        "approx_to_bce": 1180,
+        "scheme_note": "Destruction absolute dating debated."
+      },
+      "summary": {
+        "zh": "毁弃层绝对年代有争议。",
+        "en": "Destruction-horizon absolute dating debated."
+      },
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-schaeffer-orientation"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-ugarit-alphabetic-cuneiform-frame",
+      "names": {
+        "zh": "乌加里特字母楔形文本框架组合",
+        "en": "Ugaritic alphabetic-cuneiform text frame assemblage"
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-pardee-text-orientation",
+        "src-ugarit-dietrich-lorez-orientation",
+        "src-ugarit-bordreuil-pardee-manual"
+      ],
+      "summary": {
+        "zh": "字母楔形语料指针；无伪造博物馆号。",
+        "en": "Alphabetic-cuneiform corpus pointer; no forged museum numbers."
+      }
+    },
+    {
+      "id": "asm-ugarit-akkadian-letters-frame",
+      "names": {
+        "zh": "乌加里特阿卡德书信框架组合",
+        "en": "Ugarit Akkadian letters frame assemblage"
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-international-age"
+      ],
+      "sources": [
+        "src-ugarit-lackenbacher-malbran-orientation",
+        "src-ugarit-yon-2006"
+      ],
+      "summary": {
+        "zh": "国际书信语料指针。",
+        "en": "International-letter corpus pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-ugarit-yon-city-layout",
+      "kind": "fact",
+      "statement": {
+        "zh": "Yon 综合依据长期发掘将拉斯沙姆拉表述为含宫殿、卫城神庙与港口联系的晚青铜都城（Yon 2006）。",
+        "en": "Yon’s synthesis, based on long-term excavation, frames Ras Shamra as an LBA capital with palace, acropolis temples, and port links (Yon 2006)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit",
+        "site-minet-el-beida"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-courtois-orientation",
+        "src-ugarit-schaeffer-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-ugarit-minet-port",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘传统将米内特·贝达与乌加里特外港功能相联系（Yon；Schaeffer 传统）。",
+        "en": "Excavation tradition links Minet el-Beida with Ugarit’s port function (Yon; Schaeffer tradition)."
+      },
+      "site_ids": [
+        "site-minet-el-beida",
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-schaeffer-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-ugarit-alphabetic-cuneiform-corpus",
+      "kind": "fact",
+      "statement": {
+        "zh": "语料传统将乌加里特字母楔形泥板作为西北闪语与仪礼文本的核心档案（Pardee；KTU/CAT；Bordreuil & Pardee）。",
+        "en": "Corpus tradition treats Ugaritic alphabetic-cuneiform tablets as a core archive for NW Semitic and ritual texts (Pardee; KTU/CAT; Bordreuil & Pardee)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-pardee-text-orientation",
+        "src-ugarit-dietrich-lorez-orientation",
+        "src-ugarit-bordreuil-pardee-manual"
+      ],
+      "object_ids": [
+        "asm-ugarit-alphabetic-cuneiform-frame"
+      ]
+    },
+    {
+      "id": "claim-ugarit-akkadian-international-letters",
+      "kind": "fact",
+      "statement": {
+        "zh": "阿卡德书信与条约文本将乌加里特定位在晚青铜国际通信网络中（Lackenbacher/Malbran；Singer）。",
+        "en": "Akkadian letters and treaty texts place Ugarit in the LBA international correspondence network (Lackenbacher/Malbran; Singer)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-international-age"
+      ],
+      "sources": [
+        "src-ugarit-lackenbacher-malbran-orientation",
+        "src-ugarit-singer-political-orientation"
+      ],
+      "object_ids": [
+        "asm-ugarit-akkadian-letters-frame"
+      ]
+    },
+    {
+      "id": "claim-ugarit-archive-topography",
+      "kind": "fact",
+      "statement": {
+        "zh": "档案地形研究讨论泥板出土地点与城市功能分区的关系（van Soldt；Yon）。",
+        "en": "Archive-topography studies discuss relations between tablet findspots and urban functional zones (van Soldt; Yon)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-van-soldt-archives-orientation",
+        "src-ugarit-yon-2006"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-ugarit-schaeffer-founding-excavation",
+      "kind": "fact",
+      "statement": {
+        "zh": "Schaeffer 领导的拉斯沙姆拉使命自 1929 年起建立乌加里特田野考古传统（CRAI 通报；Yon 综述）。",
+        "en": "Schaeffer’s Mission de Ras Shamra from 1929 established the founding field tradition for Ugarit (CRAI notices; Yon synthesis)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-schaeffer-orientation",
+        "src-ugarit-persee-schaeffer-crai",
+        "src-ugarit-yon-2006"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-ugarit-destruction-horizon",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘记录晚青铜末毁弃层；其绝对年代与外因解释仍有争议（Yon 2006）。",
+        "en": "Excavation records a terminal LBA destruction horizon; absolute dating and external-cause explanations remain debated (Yon 2006)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-destruction"
+      ],
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-schaeffer-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-ugarit-sea-peoples-hypothesis",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说：将乌加里特毁弃直接归因于「海上民族」的单一因果模型证据不足，宜作假说而非事实（Yon/Singer 讨论语境）。",
+        "en": "Hypothesis: single-cause ‘Sea Peoples’ models for Ugarit’s destruction are underdetermined and should remain hypotheses, not facts (Yon/Singer discussion context)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-destruction"
+      ],
+      "sources": [
+        "src-ugarit-yon-2006",
+        "src-ugarit-singer-political-orientation"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: Sea Peoples causal attribution is debated; not a stratified fact claim."
+    },
+    {
+      "id": "claim-ugarit-kingdom-territory",
+      "kind": "fact",
+      "statement": {
+        "zh": "地理综合讨论乌加里特王国沿海—内陆领土结构（Saadé；Yon）。",
+        "en": "Geographic syntheses discuss coastal–inland territorial structure of the kingdom of Ugarit (Saadé; Yon)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-saade-geography-orientation",
+        "src-ugarit-yon-2006"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-ugarit-handbook-studies",
+      "kind": "fact",
+      "statement": {
+        "zh": "《乌加里特研究手册》提供语文、考古与历史的多学科入口（Watson & Wyatt 1999）。",
+        "en": "The Handbook of Ugaritic Studies provides a multidisciplinary entry to language, archaeology, and history (Watson & Wyatt 1999)."
+      },
+      "site_ids": [
+        "site-ras-shamra-ugarit"
+      ],
+      "period_ids": [
+        "period-ugarit-lba-floruit"
+      ],
+      "sources": [
+        "src-ugarit-watson-wyatt-1999",
+        "src-ugarit-yon-2006"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-ugarit-persee-schaeffer",
+      "title": {
+        "zh": "Persée：Schaeffer CRAI 通报",
+        "en": "Persée: Schaeffer CRAI notice",
+        "native": null
+      },
+      "external_url": "https://www.persee.fr/doc/crai_0065-0536_1939_num_83_3_77192",
+      "sources": [
+        "src-ugarit-persee-schaeffer-crai"
+      ],
+      "attribution": "Persée / Académie des Inscriptions",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-ugarit-yon-amar-landing",
+      "title": {
+        "zh": "Yon《乌加里特城》数字入口",
+        "en": "Yon City of Ugarit digital landing",
+        "native": null
+      },
+      "external_url": "https://commons.library.stonybrook.edu/amar/163/",
+      "sources": [
+        "src-ugarit-yon-2006"
+      ],
+      "attribution": "AMAR / Stony Brook",
+      "media_type": "document-link"
+    }
+  ]
+}

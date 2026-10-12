@@ -1,0 +1,32 @@
+{
+  "id": "site-hattusa-temple-district-frame",
+  "entity": "site",
+  "names": {
+    "zh": "哈图沙神庙区框架（指针）",
+    "en": "Hattusa temple district frame (orientation)",
+    "native": null
+  },
+  "kind_note": "sanctuary district orientation",
+  "region": "Çorum Province, Türkiye",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "都城神庙区框架指针。",
+    "en": "Temple-district frame within Hattusa."
+  },
+  "sources": [
+    "src-hittite-neve-hattusa-orientation",
+    "src-hittite-seeher-hattusa-2006"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

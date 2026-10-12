@@ -1,0 +1,37 @@
+{
+  "id": "site-kultepe-kanes",
+  "entity": "site",
+  "names": {
+    "zh": "库尔泰佩（卡内什）",
+    "en": "Kültepe (Kaneš)",
+    "native": "Kaneš"
+  },
+  "kind_note": "Old Assyrian kārum / Anatolian centre",
+  "region": "Kayseri region, Türkiye",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "古亚述商站与安纳托利亚中心；赫梯前史关键。",
+    "en": "Old Assyrian trading colony and Anatolian centre; key pre-Hittite archive."
+  },
+  "sources": [
+    "src-hittite-pleiades-kanes-58129442",
+    "src-hittite-ozguc-kultepe-orientation",
+    "src-hittite-bryce-2005"
+  ],
+  "coordinates": {
+    "lat": 38.85006,
+    "lon": 35.637633,
+    "precision_note": "Pleiades place 58129442 (Kaneš) representative point; CSV dump 2026-10-12"
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

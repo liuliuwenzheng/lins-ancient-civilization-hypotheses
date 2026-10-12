@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-apartment-compounds-frame",
+  "entity": "site",
+  "names": {
+    "zh": "公寓复合建筑框架（指针）",
+    "en": "Apartment compounds frame (orientation)",
+    "native": null
+  },
+  "kind_note": "residential urban fabric orientation",
+  "region": "State of Mexico, Mexico",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "TMP 测绘的公寓复合建筑居住织物。",
+    "en": "TMP-mapped apartment-compound residential fabric."
+  },
+  "sources": [
+    "src-teotihuacan-millon-mapping-orientation",
+    "src-teotihuacan-manzanilla-orientation",
+    "src-teotihuacan-tmp-antiquity-data"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

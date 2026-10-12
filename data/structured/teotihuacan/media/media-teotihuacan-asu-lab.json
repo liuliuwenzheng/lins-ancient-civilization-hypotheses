@@ -1,0 +1,32 @@
+{
+  "id": "media-teotihuacan-asu-lab",
+  "entity": "media",
+  "title": {
+    "zh": "ASU：特奥蒂瓦坎研究实验室",
+    "en": "ASU: Teotihuacan Research Laboratory",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://shesc.asu.edu/centers/teotihuacan-research-laboratory/about",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-asu-lab-orientation"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "Arizona State University",
+    "upstream_url": "https://shesc.asu.edu/centers/teotihuacan-research-laboratory/about",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

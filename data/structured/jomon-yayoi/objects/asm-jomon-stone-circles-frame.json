@@ -1,0 +1,44 @@
+{
+  "id": "asm-jomon-stone-circles-frame",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "绳文环状列石框架组合",
+    "en": "Jōmon stone-circles frame assemblage"
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-oyu-stone-circles",
+    "site-komakino-stone-circle"
+  ],
+  "period_ids": [
+    "period-jomon-late-final"
+  ],
+  "summary": {
+    "zh": "教科文组分环状列石指针。",
+    "en": "UNESCO-component stone-circle pointer."
+  },
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-oyu-stone-circles"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

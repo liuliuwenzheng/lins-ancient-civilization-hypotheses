@@ -1,0 +1,573 @@
+{
+  "civ_id": "civ-elam-iran",
+  "status": "library-seed-rich",
+  "summary": {
+    "zh": "埃兰档案（library-seed-rich）：Potts/Carter–Stolper + 苏萨/安善/占比尔等关键遗址与分层时段；仍非埃及级密度。",
+    "en": "Elam archive (library-seed-rich): Potts/Carter–Stolper + key Susa/Anshan/Zanbil sites and phased periods; not yet Egypt-level density."
+  },
+  "sources": [
+    {
+      "id": "src-elam-unesco-susa-1455",
+      "type": "web",
+      "tier": "T",
+      "citation": "UNESCO World Heritage Centre. Susa. Inscribed 2015. https://whc.unesco.org/en/list/1455/",
+      "url": "https://whc.unesco.org/en/list/1455/",
+      "notes": "WHC orientation + published coordinates; tier T."
+    },
+    {
+      "id": "src-elam-pleiades-susa-912936",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Susa/Seleucia ad Eulaeum (place 912936). https://pleiades.stoa.org/places/912936",
+      "url": "https://pleiades.stoa.org/places/912936",
+      "notes": "Gazetteer representative point."
+    },
+    {
+      "id": "src-elam-pleiades-malyan-922729",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Tal-i Malyan/[Anzan] (place 922729). https://pleiades.stoa.org/places/922729",
+      "url": "https://pleiades.stoa.org/places/922729",
+      "notes": "Gazetteer point for Anshan."
+    },
+    {
+      "id": "src-elam-pleiades-zanbil-459393126",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Tchogha Zanbil (place 459393126). https://pleiades.stoa.org/places/459393126",
+      "url": "https://pleiades.stoa.org/places/459393126",
+      "notes": "Gazetteer point for Dur-Untash."
+    },
+    {
+      "id": "src-elam-pleiades-chogha-mish-912829",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Chogha Mish (place 912829). https://pleiades.stoa.org/places/912829",
+      "url": "https://pleiades.stoa.org/places/912829",
+      "notes": "Gazetteer point."
+    },
+    {
+      "id": "src-elam-pleiades-kabnak-379400932",
+      "type": "atlas",
+      "tier": "S",
+      "citation": "Pleiades. Kabnak (place 379400932). https://pleiades.stoa.org/places/379400932",
+      "url": "https://pleiades.stoa.org/places/379400932",
+      "notes": "Gazetteer point linked to Haft Tepe/Kabnak."
+    },
+    {
+      "id": "src-elam-sumner-malyan-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Sumner, William M., and collaborators. Tall-e Malyan (Anshan) excavation publications (University Museum / Penn tradition).",
+      "url": null,
+      "notes": "P-tradition pointer; no invented inventories."
+    },
+    {
+      "id": "src-elam-steve-gasche-susa-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Steve, Marie-Joseph; Gasche, Hermann; et al. Susa Acropolis / Ville Royale excavation memoirs (MDAI tradition).",
+      "url": null,
+      "notes": "French Susa memoir tradition pointer."
+    },
+    {
+      "id": "src-elam-gasche-susiana-orientation",
+      "type": "monograph",
+      "tier": "S",
+      "citation": "Gasche, Hermann, and collaborators — Susiana stratigraphic and ceramic sequence publications (Ghent/MDAI tradition).",
+      "url": null,
+      "notes": "Stratigraphic orientation; no page invention."
+    },
+    {
+      "id": "src-elam-negahban-haft-tepe-orientation",
+      "type": "excavation-report",
+      "tier": "P",
+      "citation": "Negahban, Ezat O. Excavations at Haft Tepe, Iran (University Museum monograph tradition) — Middle Elamite Kabnak.",
+      "url": null,
+      "notes": "Haft Tepe excavation tradition; no forged catalog numbers."
+    }
+  ],
+  "fill_coords": {
+    "site-susa": {
+      "lat": 32.189458,
+      "lon": 48.256372,
+      "precision_note": "UNESCO WHC list 1455 component 1455-001 published DMS→decimal; access 2026-10-12"
+    },
+    "site-anshan-tall-e-malyan": {
+      "lat": 30.003216,
+      "lon": 52.41036,
+      "precision_note": "Pleiades place 922729 (Tal-i Malyan/[Anzan]) representative point; CSV dump 2026-10-12"
+    },
+    "site-tchogha-zanbil": {
+      "lat": 32.00857,
+      "lon": 48.522118,
+      "precision_note": "UNESCO WHC list 113 published DMS→decimal; access 2026-10-12"
+    }
+  },
+  "sites": [
+    {
+      "id": "site-chogha-mish",
+      "names": {
+        "zh": "恰高·米什",
+        "en": "Chogha Mish",
+        "native": "Chogha Mish"
+      },
+      "kind_note": "Susiana prehistoric centre",
+      "region": "Khuzestan, Iran",
+      "coords": {
+        "lat": 32.224001,
+        "lon": 48.555519,
+        "precision_note": "Pleiades place 912829 (Chogha Mish) representative point; CSV dump 2026-10-12"
+      },
+      "summary": {
+        "zh": "苏萨纳史前—原埃兰中心。",
+        "en": "Susiana prehistoric–Proto-Elamite centre."
+      },
+      "sources": [
+        "src-elam-pleiades-chogha-mish-912829",
+        "src-elam-potts-2016"
+      ]
+    },
+    {
+      "id": "site-chogha-bonut",
+      "names": {
+        "zh": "恰高·博努特",
+        "en": "Chogha Bonut",
+        "native": "Chogha Bonut"
+      },
+      "kind_note": "Early Susiana tell",
+      "region": "Khuzestan, Iran",
+      "coords": {
+        "lat": 32.222533,
+        "lon": 48.504652,
+        "precision_note": "Pleiades place 863747026 (Chogha Bonut) representative point; CSV dump 2026-10-12"
+      },
+      "summary": {
+        "zh": "苏萨纳早期土丘。",
+        "en": "Early Susiana tell."
+      },
+      "sources": [
+        "src-elam-potts-2016",
+        "src-elam-carter-stolper-1984"
+      ]
+    },
+    {
+      "id": "site-haft-tepe-kabnak",
+      "names": {
+        "zh": "哈夫特·特佩（Kabnak）",
+        "en": "Haft Tepe (Kabnak)",
+        "native": "Kabnak"
+      },
+      "kind_note": "Middle Elamite centre",
+      "region": "Khuzestan, Iran",
+      "coords": {
+        "lat": 32.080537,
+        "lon": 48.328283,
+        "precision_note": "Pleiades place 379400932 (Kabnak) representative point; CSV dump 2026-10-12"
+      },
+      "summary": {
+        "zh": "中埃兰行政—宗教中心。",
+        "en": "Middle Elamite administrative–religious centre."
+      },
+      "sources": [
+        "src-elam-negahban-haft-tepe-orientation",
+        "src-elam-pleiades-kabnak-379400932",
+        "src-elam-potts-2016"
+      ]
+    },
+    {
+      "id": "site-elam-susiana-survey-frame",
+      "names": {
+        "zh": "苏萨纳区域调查框架（指针）",
+        "en": "Susiana regional survey frame (orientation)",
+        "native": null
+      },
+      "kind_note": "survey-region",
+      "region": "Khuzestan Susiana plain, Iran",
+      "coords": null,
+      "summary": {
+        "zh": "区域调查框架指针；非单点。",
+        "en": "Survey-frame pointer; not a single site point."
+      },
+      "sources": [
+        "src-elam-carter-stolper-1984",
+        "src-elam-potts-2016"
+      ]
+    },
+    {
+      "id": "site-elam-fars-highland-frame",
+      "names": {
+        "zh": "法尔斯高地埃兰框架（指针）",
+        "en": "Fars highland Elam frame (orientation)",
+        "native": null
+      },
+      "kind_note": "highland region orientation",
+      "region": "Fars, Iran",
+      "coords": null,
+      "summary": {
+        "zh": "以安善为中心的高地框架。",
+        "en": "Highland frame centered on Anshan."
+      },
+      "sources": [
+        "src-elam-sumner-malyan-orientation",
+        "src-elam-potts-2016"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "id": "period-elam-proto-old",
+      "names": {
+        "zh": "原埃兰/古埃兰窗",
+        "en": "Proto-/Old Elamite window"
+      },
+      "time": {
+        "label": "late 4th–early 2nd millennium BCE (Potts/Carter–Stolper)",
+        "approx_from_bce": 3200,
+        "approx_to_bce": 1500,
+        "scheme_note": "Coarse synthesis window."
+      },
+      "summary": {
+        "zh": "原埃兰书写与古埃兰粗窗。",
+        "en": "Proto-Elamite/Old Elamite coarse window."
+      },
+      "sources": [
+        "src-elam-potts-2016",
+        "src-elam-carter-stolper-1984"
+      ]
+    },
+    {
+      "id": "period-elam-middle",
+      "names": {
+        "zh": "中埃兰窗",
+        "en": "Middle Elamite window"
+      },
+      "time": {
+        "label": "ca. mid–late 2nd millennium BCE (Untash-Napirisha / Dur-Untash frame)",
+        "approx_from_bce": 1500,
+        "approx_to_bce": 1100,
+        "scheme_note": "Potts Middle Elamite floruit."
+      },
+      "summary": {
+        "zh": "中埃兰王室建筑繁荣窗。",
+        "en": "Middle Elamite royal-building floruit."
+      },
+      "sources": [
+        "src-elam-potts-2016",
+        "src-elam-unesco-tchogha-zanbil"
+      ]
+    },
+    {
+      "id": "period-elam-neo",
+      "names": {
+        "zh": "新埃兰窗",
+        "en": "Neo-Elamite window"
+      },
+      "time": {
+        "label": "early 1st millennium BCE into Achaemenid contexts (Potts)",
+        "approx_from_bce": 1100,
+        "approx_to_bce": 500,
+        "scheme_note": "Neo-Elamite coarse window."
+      },
+      "summary": {
+        "zh": "新埃兰至阿契美尼德早期粗窗。",
+        "en": "Neo-Elamite to early Achaemenid window."
+      },
+      "sources": [
+        "src-elam-potts-2016",
+        "src-elam-alvarez-mon-elamite-world-2018"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "asm-elam-zanbil-ziggurat-frame",
+      "names": {
+        "zh": "恰高·占比尔塔庙框架组合",
+        "en": "Tchogha Zanbil ziggurat frame assemblage"
+      },
+      "site_ids": [
+        "site-tchogha-zanbil"
+      ],
+      "period_ids": [
+        "period-elam-middle"
+      ],
+      "sources": [
+        "src-elam-unesco-tchogha-zanbil",
+        "src-elam-potts-2016"
+      ],
+      "summary": {
+        "zh": "中埃兰塔庙元数据指针。",
+        "en": "Middle Elamite ziggurat metadata pointer."
+      }
+    },
+    {
+      "id": "asm-elam-haft-tepe-frame",
+      "names": {
+        "zh": "哈夫特·特佩中埃兰框架组合",
+        "en": "Haft Tepe Middle Elamite frame assemblage"
+      },
+      "site_ids": [
+        "site-haft-tepe-kabnak"
+      ],
+      "period_ids": [
+        "period-elam-middle"
+      ],
+      "sources": [
+        "src-elam-negahban-haft-tepe-orientation",
+        "src-elam-potts-2016"
+      ],
+      "summary": {
+        "zh": "Kabnak 组合指针。",
+        "en": "Kabnak assemblage pointer."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-elam-susa-unesco-stratified-mounds",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文将苏萨表述为自晚五千年纪 BCE 起连续叠压的城市定居土丘群，含行政、居住与宫殿遗存（UNESCO 1455）。",
+        "en": "UNESCO frames Susa as mounds with continuous superimposed urban settlement from the late 5th millennium BCE, including administrative, residential, and palatial remains (UNESCO 1455)."
+      },
+      "site_ids": [
+        "site-susa"
+      ],
+      "period_ids": [
+        "period-elam-overview"
+      ],
+      "sources": [
+        "src-elam-unesco-susa-1455",
+        "src-elam-potts-2016"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-elam-zanbil-untash-ziggurat",
+      "kind": "fact",
+      "statement": {
+        "zh": "教科文与综合将恰高·占比尔（Dur-Untash）表述为中埃兰塔庙与相关圣区（UNESCO 113；Potts 2016）。",
+        "en": "UNESCO and syntheses frame Tchogha Zanbil (Dur-Untash) as a Middle Elamite ziggurat and sacred precinct (UNESCO 113; Potts 2016)."
+      },
+      "site_ids": [
+        "site-tchogha-zanbil"
+      ],
+      "period_ids": [
+        "period-elam-middle"
+      ],
+      "sources": [
+        "src-elam-unesco-tchogha-zanbil",
+        "src-elam-potts-2016"
+      ],
+      "object_ids": [
+        "asm-elam-zanbil-ziggurat-frame"
+      ]
+    },
+    {
+      "id": "claim-elam-anshan-malyan-identified",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘传统将 Tall-e Malyan 认定为文献中的安善高地中心（Sumner 传统；Potts 2016）。",
+        "en": "Excavation tradition identifies Tall-e Malyan as highland Anshan known from texts (Sumner tradition; Potts 2016)."
+      },
+      "site_ids": [
+        "site-anshan-tall-e-malyan"
+      ],
+      "period_ids": [
+        "period-elam-overview"
+      ],
+      "sources": [
+        "src-elam-sumner-malyan-orientation",
+        "src-elam-potts-2016",
+        "src-elam-carter-stolper-1984"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-elam-haft-tepe-kabnak-centre",
+      "kind": "fact",
+      "statement": {
+        "zh": "发掘与综合将哈夫特·特佩与中埃兰 Kabnak 行政—宗教中心相联系（Negahban；Potts 2016）。",
+        "en": "Excavation and synthesis link Haft Tepe with Middle Elamite Kabnak (Negahban; Potts 2016)."
+      },
+      "site_ids": [
+        "site-haft-tepe-kabnak"
+      ],
+      "period_ids": [
+        "period-elam-middle"
+      ],
+      "sources": [
+        "src-elam-negahban-haft-tepe-orientation",
+        "src-elam-potts-2016"
+      ],
+      "object_ids": [
+        "asm-elam-haft-tepe-frame"
+      ]
+    },
+    {
+      "id": "claim-elam-chogha-mish-susiana-sequence",
+      "kind": "fact",
+      "statement": {
+        "zh": "区域考古将恰高·米什纳入苏萨纳史前至原埃兰聚落与陶器序列（Potts 2016；Carter & Stolper 1984）。",
+        "en": "Regional archaeology places Chogha Mish in Susiana prehistoric to Proto-Elamite settlement and ceramic sequences (Potts 2016; Carter & Stolper 1984)."
+      },
+      "site_ids": [
+        "site-chogha-mish"
+      ],
+      "period_ids": [
+        "period-elam-proto-old"
+      ],
+      "sources": [
+        "src-elam-potts-2016",
+        "src-elam-carter-stolper-1984",
+        "src-elam-pleiades-chogha-mish-912829"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-elam-susa-acropolis-memoir-tradition",
+      "kind": "fact",
+      "statement": {
+        "zh": "苏萨卫城/王城发掘回忆录传统提供分层建筑与陶器序列的主要发表框架（Steve–Gasche MDAI 传统）。",
+        "en": "Susa Acropolis/Ville Royale memoir traditions supply the main published framework for stratified architecture and ceramics (Steve–Gasche MDAI tradition)."
+      },
+      "site_ids": [
+        "site-susa"
+      ],
+      "period_ids": [
+        "period-elam-overview"
+      ],
+      "sources": [
+        "src-elam-steve-gasche-susa-orientation",
+        "src-elam-gasche-susiana-orientation"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-elam-dual-capital-susa-anshan",
+      "kind": "fact",
+      "statement": {
+        "zh": "政治史综述常以「苏萨与安善之王」一类头衔概括低地—高地双中心结构（Carter & Stolper 1984；Potts 2016）。",
+        "en": "Political-history syntheses often summarize a lowland–highland dual-centre structure via titles such as ‘king of Susa and Anshan’ (Carter & Stolper 1984; Potts 2016)."
+      },
+      "site_ids": [
+        "site-susa",
+        "site-anshan-tall-e-malyan"
+      ],
+      "period_ids": [
+        "period-elam-middle",
+        "period-elam-neo"
+      ],
+      "sources": [
+        "src-elam-carter-stolper-1984",
+        "src-elam-potts-2016"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-elam-handbook-world-orientation",
+      "kind": "fact",
+      "statement": {
+        "zh": "《埃兰世界》等手册将埃兰置于伊朗西南与美索不达米亚互动的区域框架中（Álvarez-Mon et al. 2018）。",
+        "en": "Handbooks such as The Elamite World place Elam in a SW Iranian–Mesopotamian interaction frame (Álvarez-Mon et al. 2018)."
+      },
+      "site_ids": [
+        "site-susa"
+      ],
+      "period_ids": [
+        "period-elam-overview"
+      ],
+      "sources": [
+        "src-elam-alvarez-mon-elamite-world-2018",
+        "src-elam-potts-oxford-handbook-iran-2013"
+      ],
+      "object_ids": []
+    },
+    {
+      "id": "claim-elam-proto-elamite-writing-frame",
+      "kind": "hypothesis",
+      "statement": {
+        "zh": "假说性框架：原埃兰泥板常被讨论为早期行政书写系统之一，但其语言归属与行政范围仍有争议（Potts 综述语境）。",
+        "en": "Hypothesis frame: Proto-Elamite tablets are often discussed as an early administrative writing system, but language affiliation and scope remain debated (Potts synthesis context)."
+      },
+      "site_ids": [
+        "site-susa",
+        "site-anshan-tall-e-malyan"
+      ],
+      "period_ids": [
+        "period-elam-proto-old"
+      ],
+      "sources": [
+        "src-elam-potts-2016",
+        "src-elam-carter-stolper-1984"
+      ],
+      "object_ids": [],
+      "disclaimer": "Hypothesis: absolute dating, administrative scope, and linguistic affiliation of Proto-Elamite remain debated; not established fact."
+    },
+    {
+      "id": "claim-elam-neo-elamite-into-achaemenid",
+      "kind": "fact",
+      "statement": {
+        "zh": "综述将新埃兰阶段置于阿契美尼德兴起之前的伊朗西南连续政治—文化序列中（Potts 2016）。",
+        "en": "Syntheses place Neo-Elamite in a continuous SW Iranian sequence preceding Achaemenid ascendancy (Potts 2016)."
+      },
+      "site_ids": [
+        "site-susa",
+        "site-anshan-tall-e-malyan"
+      ],
+      "period_ids": [
+        "period-elam-neo"
+      ],
+      "sources": [
+        "src-elam-potts-2016",
+        "src-elam-alvarez-mon-elamite-world-2018"
+      ],
+      "object_ids": []
+    }
+  ],
+  "media": [
+    {
+      "id": "media-elam-unesco-zanbil",
+      "title": {
+        "zh": "教科文：恰高·占比尔",
+        "en": "UNESCO: Tchogha Zanbil",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/113/",
+      "sources": [
+        "src-elam-unesco-tchogha-zanbil"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-elam-unesco-susa",
+      "title": {
+        "zh": "教科文：苏萨",
+        "en": "UNESCO: Susa",
+        "native": null
+      },
+      "external_url": "https://whc.unesco.org/en/list/1455/",
+      "sources": [
+        "src-elam-unesco-susa-1455"
+      ],
+      "attribution": "UNESCO World Heritage Centre",
+      "media_type": "document-link"
+    },
+    {
+      "id": "media-elam-pleiades-susa",
+      "title": {
+        "zh": "Pleiades：苏萨",
+        "en": "Pleiades: Susa",
+        "native": null
+      },
+      "external_url": "https://pleiades.stoa.org/places/912936",
+      "sources": [
+        "src-elam-pleiades-susa-912936"
+      ],
+      "attribution": "Pleiades / ISAW",
+      "media_type": "external-catalog"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-teotihuacan-tmp-data-paper",
+  "entity": "source",
+  "type": "article",
+  "citation": "Documenting, disseminating and archiving data from the Teotihuacan Mapping Project. Antiquity data-paper tradition.",
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/documenting-disseminating-and-archiving-data-from-the-teotihuacan-mapping-project/D86889A09A0496705424AE095F690FB1",
+  "access_date": "2026-10-12",
+  "reliability_tier": "S",
+  "notes": "TMP data archiving.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-jomon-yayoi-transition-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说：绳文→弥生转型的人口替代/文化传播相对权重仍有争议，需与水田与聚落证据分开表述（Barnes/Mizoguchi 讨论语境）。",
+    "en": "Hypothesis: relative weights of population replacement vs cultural transmission in Jōmon→Yayoi transition remain debated; separate from paddy/settlement evidence (Barnes/Mizoguchi discussion context)."
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-itazuke-orientation",
+    "site-sannai-maruyama"
+  ],
+  "period_ids": [
+    "period-yayoi"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-barnes-archaeology-japan",
+    "src-yayoi-mizoguchi-orientation"
+  ],
+  "disclaimer": "Hypothesis: demographic vs cultural-transmission models are debated; not established fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

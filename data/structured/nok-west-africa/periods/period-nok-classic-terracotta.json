@@ -1,0 +1,35 @@
+{
+  "id": "period-nok-classic-terracotta",
+  "entity": "period",
+  "names": {
+    "zh": "诺克经典陶俑窗",
+    "en": "Nok classic terracotta window"
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "1st millennium BCE terracotta floruit (research tradition)",
+    "approx_from_bce": 900,
+    "approx_to_bce": 1,
+    "scheme_note": "Terracotta-style floruit coarse window."
+  },
+  "summary": {
+    "zh": "陶俑风格繁荣粗窗。",
+    "en": "Terracotta-style floruit coarse window."
+  },
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-terracotta-style-orientation",
+    "src-nok-jaa-outline-2016"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

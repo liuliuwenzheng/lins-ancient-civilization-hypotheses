@@ -1,0 +1,34 @@
+{
+  "id": "period-dong-son-early-bronze",
+  "entity": "period",
+  "names": {
+    "zh": "东山早期青铜窗",
+    "en": "Đông Sơn early bronze window"
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "time": {
+    "label": "early–mid 1st millennium BCE working floruit (Higham)",
+    "approx_from_bce": 1000,
+    "approx_to_bce": 500,
+    "scheme_note": "Early bronze working band."
+  },
+  "summary": {
+    "zh": "早期青铜工作窗。",
+    "en": "Early bronze working window."
+  },
+  "sources": [
+    "src-dongson-higham-bronze-age-sea-1996",
+    "src-dongson-higham-early-mainland"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

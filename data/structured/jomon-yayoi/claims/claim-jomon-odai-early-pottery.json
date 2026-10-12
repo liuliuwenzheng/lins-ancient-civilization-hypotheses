@@ -1,0 +1,34 @@
+{
+  "id": "claim-jomon-odai-early-pottery",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文组分大平山元常被纳入日本列岛早期陶器讨论（UNESCO 1632；研究史）。",
+    "en": "UNESCO component Odai Yamamoto is often included in discussions of early pottery in the Japanese archipelago (UNESCO 1632; research history)."
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-odai-yamamoto"
+  ],
+  "period_ids": [
+    "period-jomon-early-middle"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-unesco-1632",
+    "src-jomon-odai-yamamoto",
+    "src-jomon-habu-ancient-jomon"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

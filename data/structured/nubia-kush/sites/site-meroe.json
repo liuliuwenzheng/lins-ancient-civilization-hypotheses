@@ -19,13 +19,17 @@
     "src-nubia-unesco-island-meroe-2011",
     "src-nubia-welsby-1996"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 16.935183,
+    "lon": 33.7142,
+    "precision_note": "UNESCO WHC list 1336 component Meroe 1 town published DMS→decimal; access 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave1_shells/generate_wave1.py",
       "docs/coverage-map.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-13."
   }
 }

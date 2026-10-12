@@ -1,0 +1,33 @@
+{
+  "id": "claim-nok-state-complexity-hypothesis",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "假说：依据陶俑与冶铁推断「国家」或等级社会复杂度的模型仍证据不足，宜保持考古文化表述（JAA 讨论语境）。",
+    "en": "Hypothesis: inferring ‘state’ or ranked social complexity from terracottas and iron remains underdetermined; prefer archaeological-culture wording (JAA discussion context)."
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-type-area"
+  ],
+  "period_ids": [
+    "period-nok-classic-terracotta"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-jaa-outline-2016",
+    "src-nok-breunig-renn-chronology"
+  ],
+  "disclaimer": "Hypothesis: political-complexity inferences are debated; not established fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

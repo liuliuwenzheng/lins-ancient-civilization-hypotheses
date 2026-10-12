@@ -1,0 +1,34 @@
+{
+  "id": "period-zapotec-formative-villages",
+  "entity": "period",
+  "names": {
+    "zh": "形成期村落窗",
+    "en": "Formative villages window"
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "time": {
+    "label": "Oaxaca Formative villages into Monte Albán foundation (~500 BCE) (Marcus & Flannery)",
+    "approx_from_bce": 1500,
+    "approx_to_bce": 500,
+    "scheme_note": "Formative into foundation."
+  },
+  "summary": {
+    "zh": "形成期至建城。",
+    "en": "Formative into foundation."
+  },
+  "sources": [
+    "src-zapotec-marcus-flannery-1996",
+    "src-zapotec-san-jose-mogote-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

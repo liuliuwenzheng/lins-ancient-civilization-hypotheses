@@ -1,0 +1,34 @@
+{
+  "id": "claim-dong-son-co-loa-fortification",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kim 等将古螺表述为红河三角洲大型城防中心，常与晚期东山/早期历史过渡一并讨论。",
+    "en": "Kim et al. frame Cổ Loa as a large fortified Red River centre often discussed with late Đông Sơn / early historic transition."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-co-loa-orientation"
+  ],
+  "period_ids": [
+    "period-dong-son-late-transition"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-co-loa-kim-orientation",
+    "src-dongson-higham-orientation-later",
+    "src-dongson-higham-bronze-age-sea-1996"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

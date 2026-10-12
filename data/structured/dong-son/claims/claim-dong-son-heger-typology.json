@@ -1,0 +1,35 @@
+{
+  "id": "claim-dong-son-heger-typology",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "类型学研究使用 Heger 型分类讨论东山铜鼓形态变异（越南类型学传统；Calò）。",
+    "en": "Typological studies use Heger-type classifications to discuss Đông Sơn drum morphological variation (Vietnamese typology tradition; Calò)."
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dong-son-thanh-hoa"
+  ],
+  "period_ids": [
+    "period-dong-son-classic-drums"
+  ],
+  "object_ids": [
+    "asm-dong-son-heger-drums-frame"
+  ],
+  "sources": [
+    "src-dongson-nguyen-drum-typology",
+    "src-dongson-calo-bronze-drums-2009"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

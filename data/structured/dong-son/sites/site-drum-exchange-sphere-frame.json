@@ -1,0 +1,32 @@
+{
+  "id": "site-drum-exchange-sphere-frame",
+  "entity": "site",
+  "names": {
+    "zh": "青铜鼓交换圈框架（指针）",
+    "en": "Bronze-drum exchange-sphere frame (orientation)",
+    "native": null
+  },
+  "kind_note": "exchange-sphere orientation",
+  "region": "Mainland and Island Southeast Asia",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "Calò 鼓分布交换圈框架；非单点。",
+    "en": "Calò drum-distribution exchange-sphere frame; not a site point."
+  },
+  "sources": [
+    "src-dongson-calo-bronze-drums-2009",
+    "src-dongson-calo-drums-deepen"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-teotihuacan-white-price-orientation",
+  "entity": "source",
+  "type": "article",
+  "citation": "White, Christine / Price, T. Douglas and collaborators — isotopic/mobility studies of Teotihuacan populations (orientation).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Bioarchaeology orientation.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

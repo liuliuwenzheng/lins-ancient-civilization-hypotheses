@@ -19,13 +19,17 @@
     "src-elam-potts-2016",
     "src-elam-carter-stolper-1984"
   ],
-  "coordinates": null,
+  "coordinates": {
+    "lat": 30.003216,
+    "lon": 52.41036,
+    "precision_note": "Pleiades place 922729 (Tal-i Malyan/[Anzan]) representative point; CSV dump 2026-10-12"
+  },
   "editorial": {
     "derived_from": [
       "tools/wave1_shells/generate_wave1.py",
       "docs/coverage-map.md"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds."
+    "notes": "Wave-1 library-seed shell (D-2026-10-12-12). Abstract/TOC-level claims only; no invented pages, coords, or finds. | Coords filled D-2026-10-12-13."
   }
 }

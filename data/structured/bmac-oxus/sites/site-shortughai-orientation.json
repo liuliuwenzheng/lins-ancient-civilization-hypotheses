@@ -1,0 +1,32 @@
+{
+  "id": "site-shortughai-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "肖尔图盖（指针）",
+    "en": "Shortughai (orientation)",
+    "native": "Shortughai"
+  },
+  "kind_note": "Indus-related outpost in Bactria often discussed with Oxus exchange",
+  "region": "Northern Afghanistan",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "与奥克苏斯交换常被讨论的印度河相关据点；坐标待稳。",
+    "en": "Indus-related outpost often discussed with Oxus exchange; coords deferred."
+  },
+  "sources": [
+    "src-bmac-francfort-orientation",
+    "src-bmac-kohl-central-asia-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

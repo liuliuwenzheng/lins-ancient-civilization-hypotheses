@@ -1,0 +1,33 @@
+{
+  "id": "site-nukuleka-orientation",
+  "entity": "site",
+  "names": {
+    "zh": "努库莱卡（指针）",
+    "en": "Nukuleka (orientation)",
+    "native": "Nukuleka"
+  },
+  "kind_note": "Early Tongatapu Lapita site often cited in eastern dispersal",
+  "region": "Tonga",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "东部分散早期汤加遗址指针。",
+    "en": "Eastern dispersal early Tonga site orientation."
+  },
+  "sources": [
+    "src-lapita-teinturier-or-fiji-orientation",
+    "src-lapita-kirch-peoples-1997",
+    "src-lapita-sheppard-orientation"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

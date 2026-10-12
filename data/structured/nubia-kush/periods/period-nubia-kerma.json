@@ -1,0 +1,34 @@
+{
+  "id": "period-nubia-kerma",
+  "entity": "period",
+  "names": {
+    "zh": "凯尔迈期",
+    "en": "Kerma period"
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Bronze Age Kerma kingdom floruit (Edwards/Bonnet frames)",
+    "approx_from_bce": 2500,
+    "approx_to_bce": 1500,
+    "scheme_note": "Coarse Kerma window; absolute debates open."
+  },
+  "summary": {
+    "zh": "凯尔迈青铜时代王国粗窗。",
+    "en": "Kerma Bronze Age kingdom coarse window."
+  },
+  "sources": [
+    "src-nubia-edwards-2004",
+    "src-nubia-bonnet-honegger-kerma-orientation"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

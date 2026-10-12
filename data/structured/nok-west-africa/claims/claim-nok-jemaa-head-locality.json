@@ -1,0 +1,33 @@
+{
+  "id": "claim-nok-jemaa-head-locality",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "研究史将杰马与著名陶俑头像发现及测年讨论相联系（Fagg 传统）。",
+    "en": "Research history links Jemaa with the famous terracotta head discovery and dating discussions (Fagg tradition)."
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-jemaa-nok"
+  ],
+  "period_ids": [
+    "period-nok-classic-terracotta"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-fagg-orientation",
+    "src-nok-jemaa-terracotta-tradition"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "src-zapotec-mitla-orientation",
+  "entity": "source",
+  "type": "web",
+  "citation": "Mitla (Lyobaa) later Zapotec centre public/INAH orientation (tier T; Classic–Postclassic continue).",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "T",
+  "notes": "Later centre orientation; not to inflate Classic density.",
+  "editorial": {
+    "derived_from": [
+      "tools/wave1_shells/densify_wave1.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-13"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Wave-1 densify to library-seed-rich (D-2026-10-12-13). No invented pages/coords/finds/media art. Honest thin > fake dense."
+  }
+}
