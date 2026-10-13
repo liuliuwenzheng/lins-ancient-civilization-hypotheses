@@ -1,0 +1,43 @@
+{
+  "id": "asm-nok-agriculture-seed-h",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "农业组合",
+    "en": "Agriculture assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-samun-seed-h"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "珍珠粟等农业组合。",
+    "en": "Pearl-millet agriculture assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-agriculture-seed-h",
+    "src-nok-breunig-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

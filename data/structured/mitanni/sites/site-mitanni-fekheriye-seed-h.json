@@ -1,0 +1,33 @@
+{
+  "id": "site-mitanni-fekheriye-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "费赫里耶丘加深",
+    "en": "Tell Fekheriye deepen",
+    "native": null
+  },
+  "kind_note": "Washukanni candidate",
+  "region": "Upper Khabur",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "瓦舒卡尼候选址加深。",
+    "en": "Washukanni candidate deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-fekheriye-seed-h",
+    "src-mitanni-washukanni-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

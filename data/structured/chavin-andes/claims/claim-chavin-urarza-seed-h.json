@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-urarza-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期陶瓷窗对应旧庙核心的初始建设阶段。",
+    "en": "The early ceramic window corresponds to initial construction of the Old Temple core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-chavin-urarza-seed-h"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-burger-seed-h",
+    "src-chavin-old-temple-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

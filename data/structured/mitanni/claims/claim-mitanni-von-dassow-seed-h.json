@@ -1,0 +1,30 @@
+{
+  "id": "claim-mitanni-von-dassow-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "von Dassow 对阿拉拉赫国家与社会的研究是叙利亚米坦尼语境的关键著作。",
+    "en": "von Dassow’s Alalakh state-and-society study is a key work for Syrian Mitanni contexts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-von-dassow-seed-h",
+    "src-mitanni-alalakh-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

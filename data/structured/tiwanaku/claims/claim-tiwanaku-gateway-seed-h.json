@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-gateway-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "太阳门是蒂瓦纳科最具标志性的独石门，带有中央神像浮雕。",
+    "en": "The Gateway of the Sun is Tiwanaku’s iconic monolithic gate with a central deity relief.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-gateway-sun-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-gateway-seed-h",
+    "src-tiwanaku-stelae-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

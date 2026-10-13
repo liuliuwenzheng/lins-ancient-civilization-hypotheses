@@ -1,0 +1,30 @@
+{
+  "id": "claim-lapita-summerhayes-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Summerhayes 对陶器与交换的研究细化拉皮塔互动范围。",
+    "en": "Summerhayes’s pottery and exchange work refines Lapita interaction ranges.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-summerhayes-seed-h",
+    "src-lapita-dentate-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

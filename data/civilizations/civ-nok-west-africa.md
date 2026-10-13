@@ -8,34 +8,34 @@ region: "West Africa / central Nigeria (Jos Plateau and surrounding regions)"
 time_span: "Iron Age terracotta-and-iron tradition ca. 1500 BCE–turn of CE (recent chronologies; Fagg discovery tradition)"
 status: library-seed-rich
 summary: |
-  Nok densified (seed Batch D): terracottas, iron smelting and Jos Plateau site cluster; status stays library-seed-rich.
-sources: ["src-nok-anama-deepen", "src-nok-archaeology-mag-deepen", "src-nok-archaeology-magazine-feature", "src-nok-breunig-deepen", "src-nok-breunig-renn-chronology", "src-nok-british-museum-deepen", "src-nok-british-museum-orientation", "src-nok-early-farming", "src-nok-fagg-1959-orientation", "src-nok-fagg-deepen", "src-nok-fagg-orientation", "src-nok-iron-deepen", "src-nok-iron-smelting-orientation", "src-nok-jaa-chronology-2016", "src-nok-jaa-deepen", "src-nok-jaa-outline-2016", "src-nok-jae-outline-recent", "src-nok-jemaa-terracotta-tradition", "src-nok-jemkur-deepen", "src-nok-jemkur-orientation", "src-nok-katsina-ala-orientation", "src-nok-late-transition", "src-nok-looting-ethics", "src-nok-panafrican-iron-context", "src-nok-panafrican-iron-deepen", "src-nok-pankshin-orientation", "src-nok-samun-dukiya-orientation", "src-nok-taruga-orientation", "src-nok-terracotta-style-deepen", "src-nok-terracotta-style-orientation"]
+  Nok Seed H: terracottas, iron-smelting and Jos Plateau sites densified toward ~48-source band; status stays library-seed-rich.
+sources: ["src-nok-agriculture-seed-h", "src-nok-anama-deepen", "src-nok-anama-seed-h", "src-nok-archaeology-mag-deepen", "src-nok-archaeology-magazine-feature", "src-nok-breunig-deepen", "src-nok-breunig-renn-chronology", "src-nok-breunig-seed-h", "src-nok-british-museum-deepen", "src-nok-british-museum-orientation", "src-nok-early-farming", "src-nok-excavation-ethics-seed-h", "src-nok-fagg-1959-orientation", "src-nok-fagg-deepen", "src-nok-fagg-orientation", "src-nok-fagg-seed-h", "src-nok-figurine-context-seed-h", "src-nok-iron-deepen", "src-nok-iron-seed-h", "src-nok-iron-smelting-orientation", "src-nok-jaa-chronology-2016", "src-nok-jaa-deepen", "src-nok-jaa-outline-2016", "src-nok-jae-outline-recent", "src-nok-jemaa-seed-h", "src-nok-jemaa-terracotta-tradition", "src-nok-jemkur-deepen", "src-nok-jemkur-orientation", "src-nok-jemkur-seed-h", "src-nok-jos-museum-seed-h", "src-nok-katsina-ala-orientation", "src-nok-katsina-ala-seed-h", "src-nok-late-transition", "src-nok-looting-ethics", "src-nok-panafrican-iron-context", "src-nok-panafrican-iron-deepen", "src-nok-pankshin-orientation", "src-nok-pankshin-seed-h", "src-nok-radiocarbon-seed-h", "src-nok-roncesvalles-seed-h", "src-nok-samun-dukiya-orientation", "src-nok-samun-seed-h", "src-nok-taruga-orientation", "src-nok-taruga-seed-h", "src-nok-terracotta-style-deepen", "src-nok-terracotta-style-orientation", "src-nok-terracotta-style-seed-h", "src-nok-unesco-seed-h"]
 related_ids: []
-notes: "Seed densify Batch D D-2026-10-12-25. Toward denser library-seed-rich; not fact-library."
+notes: "Seed densify Batch H D-2026-10-13-02. Toward denser library-seed-rich; not fact-library."
 ---
 
 # Nok (West Africa) / 诺克（西非）
 
-> **Status:** `library-seed-rich` (seed densify Batch D, D-2026-10-12-25). Hot-band density target; not Egypt-level `fact-library`.
+> **Status:** `library-seed-rich` (seed densify Batch H, D-2026-10-13-02). Hot-band density target; not Egypt-level `fact-library`.
 > **Depth:** [`docs/entry-depth.md`](../../docs/entry-depth.md). Hypotheses stay `kind=hypothesis`.
 > **Coverage map:** [`docs/coverage-map.md`](../../docs/coverage-map.md).
 
 ## Summary
 
-**EN:** Nok densified (seed Batch D): terracottas, iron smelting and Jos Plateau site cluster; status stays library-seed-rich.
+**EN:** Nok Seed H: terracottas, iron-smelting and Jos Plateau sites densified toward ~48-source band; status stays library-seed-rich.
 
-**ZH:** 诺克档案加厚（种子 Batch D）：陶俑、冶铁与乔斯高原遗址群；仍标 library-seed-rich。
+**ZH:** 诺克档案 Seed H：陶俑、炼铁与乔斯高原遗址加厚至约 48 来源带；状态仍为 library-seed-rich。
 
 ## Counts (structured)
 
 | Entity | Count |
 |--------|------:|
-| sources | 30 |
-| sites | 15 |
-| periods | 8 |
-| objects | 7 |
-| claims | 26 |
-| media | 6 |
+| sources | 48 |
+| sites | 23 |
+| periods | 10 |
+| objects | 19 |
+| claims | 43 |
+| media | 9 |
 
 ## Chronology / periodization
 
@@ -43,7 +43,9 @@ notes: "Seed densify Batch D D-2026-10-12-25. Toward denser library-seed-rich; n
 |----------------|---------------|-------|
 | Nok classic terracotta window | 1st millennium BCE terracotta floruit (research tradition) | Terracotta-style floruit coarse window. |
 | Early farming discussion window | Early farming/settlement economy debates | Early farming/settlement economy debates. |
+| Early iron Seed H | Early West African iron horizon | Early West African iron horizon. |
 | Nok early window | ca. 1500–900 BCE working band (JAA chronologies) | Early working window. |
+| Nok floruit Seed H | Nok terracotta / iron floruit | Terracotta and iron floruit. |
 | Iron emergence window | Early iron smelting radiocarbon debates | Early iron-smelting radiocarbon debates. |
 | Nok iron–terracotta tradition span | ca. 1500 BCE–turn of CE (recent JAA chronologies; working band) | Shell chronological window; site-level dates deferred. |
 | Late transition deepen window | Late Nok / post-Nok transition debates | Late Nok transition debates. |
@@ -56,77 +58,120 @@ notes: "Seed densify Batch D D-2026-10-12-25. Toward denser library-seed-rich; n
 - **Jos Museum holdings frame (orientation)** (`site-jos-museum-frame`): Museum holdings frame; not a field coordinate. [coords null]
 - **Anama deepen** (`site-nok-anama-deepen`): Settlement archaeology deepen. [coords null]
 - **Anama and related localities (orientation)** (`site-nok-anama-orientation`): Frankfurt-project-related findspot cluster orientation. [coords null]
+- **Anama deepen** (`site-nok-anama-seed-h`): Settlement locality deepen. [coords null]
+- **Furnace cluster orientation** (`site-nok-furnace-cluster-seed-h`): Smelting landscape orientation. [coords null]
 - **Taruga furnace sector (orientation)** (`site-nok-furnace-taruga-orientation`): Iron-smelting furnace sector orientation. [coords null]
 - **Jemaa findspot (orientation)** (`site-nok-jemaa-findspot-orientation`): Classic terracotta find-context orientation. [coords null]
+- **Jemaa findspot deepen** (`site-nok-jemaa-seed-h`): Classic terracotta locality deepen. [coords null]
 - **Jos Museum frame deepen** (`site-nok-jos-museum-deepen`): Collection/ethics orientation deepen. [coords null]
 - **Katsina Ala (orientation)** (`site-nok-katsina-ala-orientation`): Related terracotta tradition orientation. [coords null]
+- **Katsina Ala deepen** (`site-nok-katsina-ala-seed-h`): Nok-related locality deepen. [coords null]
 - **Pankshin (orientation)** (`site-nok-pankshin-orientation`): Nok finds-area orientation. [coords null]
+- **Pankshin deepen** (`site-nok-pankshin-seed-h`): Plateau locality deepen. [coords null]
 - **Samun Dukiya deepen** (`site-nok-samun-deepen`): Settlement/smelting deepen. [coords null]
+- **Samun Dukiya deepen** (`site-nok-samun-seed-h`): Settlement/terracotta context deepen. [coords null]
+- **Taruga furnace deepen** (`site-nok-taruga-seed-h`): Early iron-smelting furnace deepen. [coords null]
 - **Nok type area (Jos Plateau region)** (`site-nok-type-area`): Name-giving region and surrounding terracotta find zone. [coords null]
 - **Nok village-type deepen** (`site-nok-village-deepen`): Village settlement-type deepen. [coords null]
+- **Nok village-type deepen** (`site-nok-village-seed-h`): Type locality deepen. [coords null]
 - **Nok village (type locality)** (`site-nok-village-type`): Name-giving village locality; read with type area. [coords null]
 - **Samun Dukiya** (`site-samun-dukiya`): Excavated Nok settlement/terracotta context. [coords null]
 - **Taruga** (`site-taruga-nok`): Early iron-smelting locality often discussed with Nok iron chronology. [coords null]
 
 ## Registered sources
 
+- `src-nok-agriculture-seed-h` — article (tier S)
 - `src-nok-anama-deepen` — article (tier S)
+- `src-nok-anama-seed-h` — article (tier S)
 - `src-nok-archaeology-mag-deepen` — web (tier T)
 - `src-nok-archaeology-magazine-feature` — web (tier T)
 - `src-nok-breunig-deepen` — article (tier S)
 - `src-nok-breunig-renn-chronology` — article (tier S)
+- `src-nok-breunig-seed-h` — article (tier S)
 - `src-nok-british-museum-deepen` — web (tier T)
 - `src-nok-british-museum-orientation` — web (tier T)
 - `src-nok-early-farming` — article (tier S)
+- `src-nok-excavation-ethics-seed-h` — article (tier S)
 - `src-nok-fagg-1959-orientation` — article (tier S)
 - `src-nok-fagg-deepen` — article (tier S)
 - `src-nok-fagg-orientation` — article (tier S)
+- `src-nok-fagg-seed-h` — monograph (tier S)
+- `src-nok-figurine-context-seed-h` — article (tier S)
 - `src-nok-iron-deepen` — article (tier S)
+- `src-nok-iron-seed-h` — article (tier S)
 - `src-nok-iron-smelting-orientation` — article (tier S)
 - `src-nok-jaa-chronology-2016` — article (tier S)
 - `src-nok-jaa-deepen` — article (tier S)
 - `src-nok-jaa-outline-2016` — article (tier S)
 - `src-nok-jae-outline-recent` — article (tier S)
+- `src-nok-jemaa-seed-h` — article (tier S)
 - `src-nok-jemaa-terracotta-tradition` — article (tier S)
 - `src-nok-jemkur-deepen` — monograph (tier S)
 - `src-nok-jemkur-orientation` — monograph (tier S)
+- `src-nok-jemkur-seed-h` — monograph (tier S)
+- `src-nok-jos-museum-seed-h` — web (tier T)
 - `src-nok-katsina-ala-orientation` — article (tier S)
+- `src-nok-katsina-ala-seed-h` — article (tier S)
 - `src-nok-late-transition` — article (tier S)
 - `src-nok-looting-ethics` — article (tier S)
 - `src-nok-panafrican-iron-context` — monograph (tier S)
 - `src-nok-panafrican-iron-deepen` — article (tier S)
 - `src-nok-pankshin-orientation` — article (tier S)
+- `src-nok-pankshin-seed-h` — article (tier S)
+- `src-nok-radiocarbon-seed-h` — article (tier S)
+- `src-nok-roncesvalles-seed-h` — article (tier S)
 - `src-nok-samun-dukiya-orientation` — excavation-report (tier P)
+- `src-nok-samun-seed-h` — article (tier S)
 - `src-nok-taruga-orientation` — excavation-report (tier P)
+- `src-nok-taruga-seed-h` — article (tier S)
 - `src-nok-terracotta-style-deepen` — article (tier S)
 - `src-nok-terracotta-style-orientation` — article (tier S)
+- `src-nok-terracotta-style-seed-h` — article (tier S)
+- `src-nok-unesco-seed-h` — web (tier T)
 
 ## Claims (EN)
 
+- (fact) Archaeobotanical remains show pearl millet and related crops supporting Nok farming economies.
+- (fact) Anama supplies settlement-scale Nok occupation evidence.
 - (fact) Settlements such as Anama extend Nok landscape archaeological coverage.
 - (fact) Public magazine overviews such as Archaeology Magazine are orientation-only and do not replace excavation reports (tier T).
 - (fact) British Museum and related pages supply terracotta collection orientation (tier T; provenance ethics apply).
+- (fact) Breunig and the Nok project reconstruct settlement and chronology through systematic excavation.
 - (fact) Breunig and collaborators’ chronologies refine terracotta–iron contemporaneity discussions.
+- (hypothesis) Terracotta deposition contexts (ritual caches vs residential discard) require case-by-case distinction.
 - (fact) Research discusses early iron-smelting evidence in Nok contexts and links it to localities such as Taruga (JAA; iron-technology papers).
+- (fact) Large-scale looting has severely damaged Nok terracotta find contexts.
 - (fact) Looting and collection-ethics literature stresses traceable provenance for terracotta circulation.
+- (fact) Fagg’s documentation of Nok terracottas is the starting point of modern study of the tradition.
+- (fact) The Nok floruit window corresponds to terracotta production alongside early iron-working.
 - (fact) Terracotta floruit deepen window corresponds to classic figurative-style popularity debates.
+- (fact) Furnace clusters indicate specialized smelting landscapes on the plateau.
 - (fact) Furnace sites such as Taruga and radiocarbon discussions support early iron in Nok landscapes.
+- (hypothesis) Timing and independent vs introduced pathways of West African iron remain debated.
 - (fact) Frankfurt/JAA chronologies place the Nok culture working span ca. 1500 BCE to the turn of the Common Era (Breunig/Rupp et al.).
 - (fact) JAA papers supply peer-reviewed orientation on Nok chronology and site distribution.
 - (fact) Research history links Jemaa with the famous terracotta head discovery and dating discussions (Fagg tradition).
 - (fact) The Jemaa head tradition remains a reference point for classic Nok terracotta type discussions.
+- (fact) Jemaa is among the early famous terracotta find localities.
+- (fact) Jemkur’s Nok culture synthesis is an important entry in the Nigerian research tradition.
+- (fact) Katsina Ala and related localities extend the Nok-related distribution.
 - (fact) Traditions such as Katsina Ala supply regional comparison frames for Nok terracottas.
 - (hypothesis) Late Nok transition and relations to successor cultures remain debated; retained as hypothesis.
 - (fact) Nigerian museum and international catalogs form a major assemblage source for Nok terracotta style studies (catalog tradition; public displays remain tier T).
 - (fact) West African early-iron backgrounds place Nok smelting in wider regional comparison.
+- (fact) Pankshin and related plateau localities supplement distribution beyond the type area.
 - (fact) Pankshin-area findspots supplement distribution on the Jos Plateau periphery.
+- (fact) Radiocarbon sequences place the main Nok activity broadly in the first millennium BCE.
 - (fact) Frankfurt project reports treat localities such as Samun Dukiya as excavated settlement/terracotta contexts (JAA outline).
+- (fact) Samun Dukiya supplies co-occurrence contexts of terracottas with occupation deposits.
 - (fact) Samun Dukiya deepens co-occurrence discussions of settlement and smelting.
 - (fact) Settlement archaeology emphasizes farming economy and village types (early-farming window).
 - (hypothesis) Hypothesis: inferring ‘state’ or ranked social complexity from terracottas and iron remains underdetermined; prefer archaeological-culture wording (JAA discussion context).
+- (fact) Taruga supplies key stratified evidence for early West African iron-smelting furnaces.
 - (fact) Terracotta style research frames Nok as an early West African complex figurative tradition.
 - (fact) Research frames Nok as a central Nigerian archaeological culture marked by distinctive terracottas and early iron (Fagg identification tradition; recent JAA chronologies).
 - (fact) Fagg’s identification tradition and later catalogs treat distinctive terracotta sculpture as a core Nok material-culture marker (Fagg; museum catalog tradition).
+- (fact) Nok terracottas are noted for perforated pupils, elaborate coiffures and torso proportions.
 - (fact) Archaeological tradition treats the Jos Plateau and surroundings as the Nok name-giving type region (Fagg; JAA).
 - (fact) Nok is placed within regional West African early-ironization debates (handbook orientation; no single absolute chronology frozen).
 

@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-kuntur-wasi-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "昆图尔瓦西是与查文相关的形成期高地礼仪中心。",
+    "en": "Kuntur Wasi is a Formative highland ceremonial center related to Chavín.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-kuntur-wasi-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-kuntur-wasi-seed-h",
+    "src-chavin-burger-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

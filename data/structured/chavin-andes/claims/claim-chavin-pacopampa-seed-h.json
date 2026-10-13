@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-pacopampa-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帕科潘帕提供北高地形成期神庙与精英墓葬证据。",
+    "en": "Pacopampa supplies northern highland Formative temple and elite burial evidence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-pacopampa-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-pacopampa-seed-h",
+    "src-chavin-burger-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

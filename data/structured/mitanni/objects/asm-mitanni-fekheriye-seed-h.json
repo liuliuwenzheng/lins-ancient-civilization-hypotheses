@@ -1,0 +1,43 @@
+{
+  "id": "asm-mitanni-fekheriye-seed-h",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "费赫里耶组合",
+    "en": "Tell Fekheriye assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-fekheriye-seed-h"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "候选都城组合。",
+    "en": "Candidate-capital assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-fekheriye-seed-h",
+    "src-mitanni-washukanni-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

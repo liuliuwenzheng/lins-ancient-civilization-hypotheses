@@ -1,0 +1,36 @@
+{
+  "id": "period-lapita-remote-seed-h",
+  "entity": "period",
+  "names": {
+    "zh": "远大洋洲殖民窗SeedH",
+    "en": "Remote Oceania colonization Seed H",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "Lapita push into Remote Oceania",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Lapita push into Remote Oceania"
+  },
+  "summary": {
+    "zh": "进入远大洋洲。",
+    "en": "Push into Remote Oceania.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-colonization-seed-h",
+    "src-lapita-kirch-seed-h"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

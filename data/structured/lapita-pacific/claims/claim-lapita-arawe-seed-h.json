@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-arawe-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿拉维群岛遗址补足新不列颠沿海拉皮塔分布。",
+    "en": "Arawe Islands sites supplement coastal New Britain Lapita distribution.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-arawe-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-arawe-seed-h",
+    "src-lapita-summerhayes-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

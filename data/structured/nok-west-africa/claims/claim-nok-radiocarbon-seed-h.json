@@ -1,0 +1,30 @@
+{
+  "id": "claim-nok-radiocarbon-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "碳十四序列将诺克主体活动大致置于公元前一千纪。",
+    "en": "Radiocarbon sequences place the main Nok activity broadly in the first millennium BCE.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-radiocarbon-seed-h",
+    "src-nok-breunig-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-tiwanaku-iv-v-seed-h",
+  "entity": "period",
+  "names": {
+    "zh": "蒂瓦纳科IV–V窗SeedH",
+    "en": "Tiwanaku IV–V Seed H",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "State floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "State floruit"
+  },
+  "summary": {
+    "zh": "国家繁荣。",
+    "en": "State floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-janusek-seed-h",
+    "src-tiwanaku-kolata-seed-h"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

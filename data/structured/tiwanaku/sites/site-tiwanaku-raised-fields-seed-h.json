@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-raised-fields-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "抬田景观加深",
+    "en": "Raised-field landscape deepen",
+    "native": null
+  },
+  "kind_note": "Suka kollus agriculture",
+  "region": "Titicaca basin",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "抬田农业景观加深。",
+    "en": "Raised-field agriculture landscape deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-raised-fields-seed-h",
+    "src-tiwanaku-kolata-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

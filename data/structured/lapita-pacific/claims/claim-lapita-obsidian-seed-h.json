@@ -1,0 +1,30 @@
+{
+  "id": "claim-lapita-obsidian-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "黑曜石溯源显示俾斯麦原料进入拉皮塔交流网。",
+    "en": "Obsidian sourcing shows Bismarck raw materials entering Lapita exchange networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-obsidian-seed-h",
+    "src-lapita-summerhayes-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

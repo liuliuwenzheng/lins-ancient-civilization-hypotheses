@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-lanzon-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "兰松是旧庙廊道中的巨型竖石神像。",
+    "en": "The Lanzón is a monumental vertical stone deity image in the Old Temple galleries.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-lanzon-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-lanzon-seed-h",
+    "src-chavin-unesco-330-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

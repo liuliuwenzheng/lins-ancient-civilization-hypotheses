@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-new-temple-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "新庙加深",
+    "en": "New Temple deepen",
+    "native": null
+  },
+  "kind_note": "Later temple expansion",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "晚期神庙扩建加深。",
+    "en": "Later temple expansion deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-new-temple-seed-h",
+    "src-chavin-kembel-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

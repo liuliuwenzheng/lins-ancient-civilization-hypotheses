@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-gateway-sun-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "太阳门语境加深",
+    "en": "Gateway of the Sun deepen",
+    "native": null
+  },
+  "kind_note": "Monolithic gateway",
+  "region": "Tiwanaku",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "独石门语境加深。",
+    "en": "Monolithic gateway deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-gateway-seed-h",
+    "src-tiwanaku-unesco-567-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

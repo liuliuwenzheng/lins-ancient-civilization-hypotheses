@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-black-white-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "黑白门廊加深",
+    "en": "Black and White Portal deepen",
+    "native": null
+  },
+  "kind_note": "Portal with contrasting stone",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "对比石材门廊加深。",
+    "en": "Contrasting-stone portal deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-black-white-seed-h",
+    "src-chavin-kembel-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-watom-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "瓦通加深",
+    "en": "Watom deepen",
+    "native": null
+  },
+  "kind_note": "Bismarck Lapita",
+  "region": "New Britain",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "俾斯麦拉皮塔加深。",
+    "en": "Bismarck Lapita deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-watom-seed-h",
+    "src-lapita-summerhayes-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

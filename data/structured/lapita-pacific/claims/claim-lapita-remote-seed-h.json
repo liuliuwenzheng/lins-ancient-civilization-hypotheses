@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-remote-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉皮塔扩张将人类首次带入远大洋洲岛屿。",
+    "en": "Lapita expansion first carried humans into Remote Oceania islands.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-lapita-remote-seed-h"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-colonization-seed-h",
+    "src-lapita-kirch-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

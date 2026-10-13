@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-pankshin-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "潘克欣等高原地点补足类型区以外的分布。",
+    "en": "Pankshin and related plateau localities supplement distribution beyond the type area.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-pankshin-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-pankshin-seed-h",
+    "src-nok-breunig-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

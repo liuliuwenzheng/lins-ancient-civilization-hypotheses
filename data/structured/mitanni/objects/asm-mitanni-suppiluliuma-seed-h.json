@@ -1,0 +1,43 @@
+{
+  "id": "asm-mitanni-suppiluliuma-seed-h",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "赫梯战役框架",
+    "en": "Hittite campaign frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-washukanni-seed-h"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "苏皮鲁利乌马战役框架。",
+    "en": "Suppiluliuma campaign frame.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-suppiluliuma-seed-h",
+    "src-mitanni-bryce-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

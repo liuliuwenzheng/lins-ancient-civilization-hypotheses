@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-furnace-cluster-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "炼炉集群表明高原存在专门化冶炼景观。",
+    "en": "Furnace clusters indicate specialized smelting landscapes on the plateau.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-furnace-cluster-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-taruga-seed-h",
+    "src-nok-iron-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

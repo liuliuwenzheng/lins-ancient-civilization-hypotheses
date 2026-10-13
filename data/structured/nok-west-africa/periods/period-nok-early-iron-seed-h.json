@@ -1,0 +1,36 @@
+{
+  "id": "period-nok-early-iron-seed-h",
+  "entity": "period",
+  "names": {
+    "zh": "早期炼铁窗SeedH",
+    "en": "Early iron Seed H",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "Early West African iron horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early West African iron horizon"
+  },
+  "summary": {
+    "zh": "西非早期炼铁地平。",
+    "en": "Early West African iron horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-taruga-seed-h",
+    "src-nok-iron-seed-h"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

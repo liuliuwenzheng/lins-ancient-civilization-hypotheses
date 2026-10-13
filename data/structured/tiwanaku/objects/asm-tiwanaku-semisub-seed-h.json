@@ -1,0 +1,43 @@
+{
+  "id": "asm-tiwanaku-semisub-seed-h",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "半地下神庙组合",
+    "en": "Semi-subterranean temple assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-semisub-seed-h"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "榫头人头庭院组合。",
+    "en": "Tenon-head court assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-semisub-seed-h",
+    "src-tiwanaku-kolata-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-teouma-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "特欧马墓地提供拉皮塔人群生物考古与随葬陶器的关键样本。",
+    "en": "Teouma cemetery supplies a key bioarchaeological and pottery sample for Lapita populations.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-teouma-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-teouma-seed-h",
+    "src-lapita-bedford-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

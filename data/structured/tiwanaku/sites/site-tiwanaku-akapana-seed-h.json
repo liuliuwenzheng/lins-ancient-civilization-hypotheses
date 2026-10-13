@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-akapana-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "阿卡帕纳加深",
+    "en": "Akapana deepen",
+    "native": null
+  },
+  "kind_note": "Stepped pyramid platform",
+  "region": "Tiwanaku",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "阶梯金字塔平台加深。",
+    "en": "Stepped pyramid platform deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-vranich-seed-h",
+    "src-tiwanaku-unesco-567-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

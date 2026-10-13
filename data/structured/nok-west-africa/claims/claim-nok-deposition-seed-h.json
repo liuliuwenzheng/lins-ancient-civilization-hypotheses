@@ -1,0 +1,30 @@
+{
+  "id": "claim-nok-deposition-seed-h",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "陶俑埋藏语境（仪式窖藏 vs 居住废弃）仍需个案区分。",
+    "en": "Terracotta deposition contexts (ritual caches vs residential discard) require case-by-case distinction.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-figurine-context-seed-h",
+    "src-nok-breunig-seed-h"
+  ],
+  "disclaimer": "Deposition interpretations vary by context.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

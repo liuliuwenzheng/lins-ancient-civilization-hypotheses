@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-floruit-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "诺克繁荣窗对应陶俑生产与早期炼铁并存。",
+    "en": "The Nok floruit window corresponds to terracotta production alongside early iron-working.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nok-floruit-seed-h"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-breunig-seed-h",
+    "src-nok-radiocarbon-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

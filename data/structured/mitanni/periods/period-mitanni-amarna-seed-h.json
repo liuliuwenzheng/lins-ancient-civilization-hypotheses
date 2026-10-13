@@ -1,0 +1,36 @@
+{
+  "id": "period-mitanni-amarna-seed-h",
+  "entity": "period",
+  "names": {
+    "zh": "阿马尔奈外交窗SeedH",
+    "en": "Amarna diplomacy Seed H",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "Mitanni–Egypt correspondence floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Mitanni–Egypt correspondence floruit"
+  },
+  "summary": {
+    "zh": "米坦尼—埃及通信繁荣。",
+    "en": "Mitanni–Egypt correspondence floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-mittani-letter-seed-h",
+    "src-mitanni-wilhelm-seed-h"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

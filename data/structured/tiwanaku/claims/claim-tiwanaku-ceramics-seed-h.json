@@ -1,0 +1,30 @@
+{
+  "id": "claim-tiwanaku-ceramics-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "蒂瓦纳科彩陶风格是识别都城与飞地的重要标记。",
+    "en": "Tiwanaku polychrome ceramic style is a key marker for identifying capital and enclave contexts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-ceramics-seed-h",
+    "src-tiwanaku-janusek-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

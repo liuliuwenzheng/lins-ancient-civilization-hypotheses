@@ -1,0 +1,30 @@
+{
+  "id": "claim-mitanni-bryce-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bryce 对赫梯史的叙述是理解米坦尼—赫梯关系的标准入口。",
+    "en": "Bryce’s Hittite narrative is a standard entry to Mitanni–Hittite relations.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-bryce-seed-h",
+    "src-mitanni-suppiluliuma-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

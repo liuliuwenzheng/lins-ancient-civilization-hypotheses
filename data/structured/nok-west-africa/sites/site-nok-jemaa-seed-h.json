@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-jemaa-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "杰马发现点加深",
+    "en": "Jemaa findspot deepen",
+    "native": null
+  },
+  "kind_note": "Classic terracotta locality",
+  "region": "Jos Plateau",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "经典陶俑发现点加深。",
+    "en": "Classic terracotta locality deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-jemaa-seed-h",
+    "src-nok-fagg-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

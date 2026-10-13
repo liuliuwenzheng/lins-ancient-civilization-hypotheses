@@ -1,0 +1,32 @@
+{
+  "id": "media-tiwanaku-unesco-gallery-seed-h",
+  "entity": "media",
+  "title": {
+    "zh": "教科文567图库 SeedH",
+    "en": "UNESCO 567 gallery Seed H",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/567/gallery/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-unesco-567-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/567/gallery/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

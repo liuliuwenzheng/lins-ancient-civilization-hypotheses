@@ -1,0 +1,43 @@
+{
+  "id": "asm-tiwanaku-diaspora-seed-h",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "离散地框架",
+    "en": "Diaspora frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-omo-seed-h"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "离散地/飞地框架。",
+    "en": "Diaspora/enclave frame.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-goldstein-seed-h",
+    "src-tiwanaku-omo-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

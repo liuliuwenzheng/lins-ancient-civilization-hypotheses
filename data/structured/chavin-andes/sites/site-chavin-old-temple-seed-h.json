@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-old-temple-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "旧庙加深",
+    "en": "Old Temple deepen",
+    "native": null
+  },
+  "kind_note": "Early temple core",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "早期神庙核心加深。",
+    "en": "Early temple core deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-old-temple-seed-h",
+    "src-chavin-rick-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

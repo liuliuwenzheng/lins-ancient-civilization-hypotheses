@@ -1,0 +1,43 @@
+{
+  "id": "asm-chavin-unesco-seed-h",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "教科文查文组合",
+    "en": "UNESCO Chavín assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-old-temple-seed-h"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "教科文遗产组合。",
+    "en": "UNESCO heritage assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-unesco-330-seed-h",
+    "src-chavin-burger-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

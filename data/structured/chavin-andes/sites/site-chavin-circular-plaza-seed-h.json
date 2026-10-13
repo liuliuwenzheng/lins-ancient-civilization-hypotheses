@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-circular-plaza-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "圆形广场加深",
+    "en": "Circular Plaza deepen",
+    "native": null
+  },
+  "kind_note": "Sunken circular plaza",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "下沉圆形广场加深。",
+    "en": "Sunken circular plaza deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-circular-plaza-seed-h",
+    "src-chavin-rick-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

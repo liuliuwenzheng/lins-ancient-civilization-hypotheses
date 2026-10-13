@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-collapse-open-seed-h",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "蒂瓦纳科衰落是否主因干旱仍有争论。",
+    "en": "Whether drought was the primary cause of Tiwanaku’s decline remains debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-tiwanaku-collapse-seed-h"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-collapse-seed-h",
+    "src-tiwanaku-kolata-seed-h"
+  ],
+  "disclaimer": "Collapse causation debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

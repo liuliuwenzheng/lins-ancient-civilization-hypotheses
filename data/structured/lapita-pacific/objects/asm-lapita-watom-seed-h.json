@@ -1,0 +1,43 @@
+{
+  "id": "asm-lapita-watom-seed-h",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "瓦通组合",
+    "en": "Watom assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-watom-seed-h"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "俾斯麦组合。",
+    "en": "Bismarck assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-watom-seed-h",
+    "src-lapita-summerhayes-seed-h"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

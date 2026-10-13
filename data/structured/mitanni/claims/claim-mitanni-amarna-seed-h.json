@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-amarna-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿马尔奈书信保存米坦尼与埃及的联姻外交。",
+    "en": "Amarna letters preserve Mitanni–Egypt marriage diplomacy.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mitanni-amarna-seed-h"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-mittani-letter-seed-h",
+    "src-mitanni-wilhelm-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-sand-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Sand 对新喀里多尼亚拉皮塔的研究巩固类型地点序列。",
+    "en": "Sand’s New Caledonia work consolidates the type-locality sequence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-kone-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-sand-seed-h",
+    "src-lapita-kone-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

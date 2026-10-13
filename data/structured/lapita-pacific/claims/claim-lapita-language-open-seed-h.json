@@ -1,0 +1,30 @@
+{
+  "id": "claim-lapita-language-open-seed-h",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "拉皮塔与南岛语扩散的对应程度仍是开放讨论。",
+    "en": "Degree of correspondence between Lapita and Austronesian dispersal remains open.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-language-seed-h",
+    "src-lapita-kirch-seed-h"
+  ],
+  "disclaimer": "Lapita–Austronesian correlations debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

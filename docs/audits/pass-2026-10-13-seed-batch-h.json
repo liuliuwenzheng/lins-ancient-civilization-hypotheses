@@ -1,0 +1,125 @@
+{
+  "decision": "D-2026-10-13-02",
+  "date": "2026-10-13",
+  "packs": [
+    {
+      "pack": "nok-west-africa",
+      "before": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "after": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "civ_id": "civ-nok-west-africa",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "lapita-pacific",
+      "before": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 5
+      },
+      "after": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "civ_id": "civ-lapita-pacific",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "chavin-andes",
+      "before": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 6
+      },
+      "after": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "civ_id": "civ-chavin-andes",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "tiwanaku",
+      "before": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 25,
+        "media": 5
+      },
+      "after": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 42,
+        "media": 8
+      },
+      "civ_id": "civ-tiwanaku",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "mitanni",
+      "before": {
+        "sources": 30,
+        "sites": 15,
+        "periods": 8,
+        "objects": 7,
+        "claims": 26,
+        "media": 4
+      },
+      "after": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 7
+      },
+      "civ_id": "civ-mitanni",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 90,
+    "sites": 40,
+    "periods": 10,
+    "objects": 60,
+    "claims": 85,
+    "media": 15
+  },
+  "status_note": "All five packs remain library-seed-rich (not promoted to fact-library)."
+}

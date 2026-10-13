@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-talepakemalai-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "塔勒帕克马莱加深",
+    "en": "Talepakemalai deepen",
+    "native": null
+  },
+  "kind_note": "Early Lapita stilt village",
+  "region": "Mussau",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "早期干栏聚落加深。",
+    "en": "Early stilt-village deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-talepakemalai-seed-h",
+    "src-lapita-kirch-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

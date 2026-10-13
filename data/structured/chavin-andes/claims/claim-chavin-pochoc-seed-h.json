@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-pochoc-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "波乔克等形成期遗址扩展查文相关网络的沿海/谷地节点。",
+    "en": "Pochoc and related Formative sites extend coastal/valley nodes of the Chavín-related network.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-pochoc-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-pochoc-seed-h",
+    "src-chavin-burger-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

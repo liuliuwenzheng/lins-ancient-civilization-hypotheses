@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-taruga-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "塔鲁加炼炉加深",
+    "en": "Taruga furnace deepen",
+    "native": null
+  },
+  "kind_note": "Iron-smelting furnaces",
+  "region": "Jos Plateau",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "早期炼铁炉址加深。",
+    "en": "Early iron-smelting furnace deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-taruga-seed-h",
+    "src-nok-iron-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

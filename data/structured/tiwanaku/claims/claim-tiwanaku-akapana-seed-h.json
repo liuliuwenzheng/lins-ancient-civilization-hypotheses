@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-akapana-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿卡帕纳是都城核心的阶梯金字塔式礼仪平台。",
+    "en": "Akapana is a stepped pyramid-like ceremonial platform at the capital core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-akapana-seed-h"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-vranich-seed-h",
+    "src-tiwanaku-unesco-567-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

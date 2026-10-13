@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-janabarriu-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈纳巴里乌地平常与查文互动圈扩张相联系。",
+    "en": "The Janabarriu horizon is often linked to expansion of the Chavín interaction sphere.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-chavin-janabarriu-seed-h"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-janabarriu-seed-h",
+    "src-chavin-interaction-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

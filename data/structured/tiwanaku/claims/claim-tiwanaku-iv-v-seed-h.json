@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-iv-v-seed-h",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "IV–V 期对应都城纪念碑建设与区域扩张繁荣。",
+    "en": "Periods IV–V correspond to capital monument building and regional expansion floruit.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-tiwanaku-iv-v-seed-h"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-janusek-seed-h",
+    "src-tiwanaku-kolata-seed-h"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

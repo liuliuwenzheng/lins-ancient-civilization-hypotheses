@@ -1,0 +1,36 @@
+{
+  "id": "period-tiwanaku-collapse-seed-h",
+  "entity": "period",
+  "names": {
+    "zh": "衰落窗SeedH",
+    "en": "Collapse Seed H",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "Terminal transformation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Terminal transformation"
+  },
+  "summary": {
+    "zh": "终端转变。",
+    "en": "Terminal transformation.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-collapse-seed-h",
+    "src-tiwanaku-kolata-seed-h"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

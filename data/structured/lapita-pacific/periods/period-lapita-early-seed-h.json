@@ -1,0 +1,36 @@
+{
+  "id": "period-lapita-early-seed-h",
+  "entity": "period",
+  "names": {
+    "zh": "早期拉皮塔窗SeedH",
+    "en": "Early Lapita Seed H",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "Early Lapita Bismarck floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Lapita Bismarck floruit"
+  },
+  "summary": {
+    "zh": "俾斯麦早期拉皮塔繁荣。",
+    "en": "Early Bismarck Lapita floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-kirch-seed-h",
+    "src-lapita-summerhayes-seed-h"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

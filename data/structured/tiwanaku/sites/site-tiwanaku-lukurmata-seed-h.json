@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-lukurmata-seed-h",
+  "entity": "site",
+  "names": {
+    "zh": "卢库尔马塔加深",
+    "en": "Lukurmata deepen",
+    "native": null
+  },
+  "kind_note": "Lakeside secondary center",
+  "region": "Katari basin",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "湖滨次级中心加深。",
+    "en": "Lakeside secondary center deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-lukurmata-seed-h",
+    "src-tiwanaku-janusek-seed-h"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

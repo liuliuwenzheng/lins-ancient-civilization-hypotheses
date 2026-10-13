@@ -1,0 +1,36 @@
+{
+  "id": "period-chavin-urarza-seed-h",
+  "entity": "period",
+  "names": {
+    "zh": "乌拉尔扎/早期窗SeedH",
+    "en": "Urabarriu early Seed H",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "time": {
+    "label": "Early Chavín ceramic horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Chavín ceramic horizon"
+  },
+  "summary": {
+    "zh": "早期查文陶瓷地平。",
+    "en": "Early Chavín ceramic horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-burger-seed-h",
+    "src-chavin-old-temple-seed-h"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_h.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-02"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch H toward ~48 sources (D-2026-10-13-02). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
