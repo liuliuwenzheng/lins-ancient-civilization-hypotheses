@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-conical-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "圆锥塔",
+    "en": "Conical Tower Seed N",
+    "native": null
+  },
+  "kind_note": "Tower",
+  "region": "Great Enclosure",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "圆锥塔。",
+    "en": "Conical Tower.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-conical-seed-n",
+    "src-zimbabwe-enclosure-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

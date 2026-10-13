@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-ethics-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "伦理优先原则禁止本库存放摩艾影像。",
+    "en": "Ethics-first policy forbids hosting moai imagery in this archive.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-ethics-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-ethics-seed-n",
+    "src-rapanui-stewardship-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

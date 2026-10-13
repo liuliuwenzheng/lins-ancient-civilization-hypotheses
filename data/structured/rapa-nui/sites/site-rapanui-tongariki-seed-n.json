@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-tongariki-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "通加里基",
+    "en": "Ahu Tongariki Seed N",
+    "native": null
+  },
+  "kind_note": "Coastal ahu",
+  "region": "South coast",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "沿海平台。",
+    "en": "Tongariki.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-tongariki-seed-n",
+    "src-rapanui-van-tilburg-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

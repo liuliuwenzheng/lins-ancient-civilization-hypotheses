@@ -1,0 +1,30 @@
+{
+  "id": "claim-waf-levtzion-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Levtzion 综合是加纳—马里研究经典入口。",
+    "en": "Levtzion’s synthesis is a classic entry to Ghana–Mali studies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-levtzion-seed-n",
+    "src-waf-ghana-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

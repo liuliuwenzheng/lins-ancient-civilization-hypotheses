@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-nau-nau-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "阿胡瑙瑙",
+    "en": "Ahu Nau Nau Seed N",
+    "native": null
+  },
+  "kind_note": "Coastal ahu",
+  "region": "Anakena",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "沿海平台。",
+    "en": "Nau Nau.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-nau-nau-seed-n",
+    "src-rapanui-anakena-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

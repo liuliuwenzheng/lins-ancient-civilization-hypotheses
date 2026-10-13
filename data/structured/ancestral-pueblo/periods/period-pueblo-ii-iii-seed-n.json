@@ -1,0 +1,36 @@
+{
+  "id": "period-pueblo-ii-iii-seed-n",
+  "entity": "period",
+  "names": {
+    "zh": "普韦布洛二—三期SeedN",
+    "en": "Pueblo II–III Seed N",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "time": {
+    "label": "Chaco / Mesa Verde floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Chaco / Mesa Verde floruit"
+  },
+  "summary": {
+    "zh": "查科/梅萨维德繁荣。",
+    "en": "Chaco/MV floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-lekson-seed-n",
+    "src-pueblo-cliff-seed-n"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-vorburg-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "霍伊内堡前堡显示早期城市外缘定居。",
+    "en": "Heuneburg Vorburg shows early urban outer settlement.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-vorburg-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-heuneburg-seed-n",
+    "src-hallstatt-urban-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

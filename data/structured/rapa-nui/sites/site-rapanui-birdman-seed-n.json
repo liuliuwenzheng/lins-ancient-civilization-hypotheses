@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-birdman-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "鸟人崇拜",
+    "en": "Birdman cult Seed N",
+    "native": null
+  },
+  "kind_note": "Ritual",
+  "region": "Orongo",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "鸟人。",
+    "en": "Birdman.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-birdman-seed-n",
+    "src-rapanui-orongo-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

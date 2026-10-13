@@ -1,0 +1,36 @@
+{
+  "id": "period-zimbabwe-post-classic-seed-n",
+  "entity": "period",
+  "names": {
+    "zh": "后古典石建窗SeedN",
+    "en": "Post-classic stone Seed N",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "time": {
+    "label": "Khami and later",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Khami and later"
+  },
+  "summary": {
+    "zh": "后古典。",
+    "en": "Post-classic.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-khami-seed-n",
+    "src-zimbabwe-beach-seed-n"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-pueblo-depop-cause-seed-n",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "干旱、冲突与社会因素等迁离模型并存。",
+    "en": "Drought, conflict and social models of depopulation coexist.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-depop-seed-n"
+  ],
+  "period_ids": [
+    "period-pueblo-iv-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-depop-seed-n",
+    "src-pueblo-seba-seed-n"
+  ],
+  "disclaimer": "Multiple depopulation models remain open.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

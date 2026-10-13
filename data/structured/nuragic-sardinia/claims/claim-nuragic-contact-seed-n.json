@@ -1,0 +1,34 @@
+{
+  "id": "claim-nuragic-contact-seed-n",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "腓尼基/布匿接触如何改变努拉吉社会仍有争论。",
+    "en": "How Phoenician/Punic contact transformed Nuragic society remains debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-phoenician-seed-n"
+  ],
+  "period_ids": [
+    "period-nuragic-iron-contact-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-phoenician-seed-n",
+    "src-nuragic-iron-seed-n"
+  ],
+  "disclaimer": "Contact models differ on timing and degree of transformation.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

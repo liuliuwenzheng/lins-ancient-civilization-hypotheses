@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-pwiti-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pwiti 等推进高原考古综合。",
+    "en": "Pwiti and related work advance plateau archaeological synthesis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-pwiti-seed-n",
+    "src-zimbabwe-huffman-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

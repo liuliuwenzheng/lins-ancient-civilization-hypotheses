@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-casa-rinconada-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "林科纳达",
+    "en": "Casa Rinconada Seed N",
+    "native": null
+  },
+  "kind_note": "Great kiva",
+  "region": "Chaco",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "大基瓦。",
+    "en": "Great kiva.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-casa-rinconada-seed-n",
+    "src-pueblo-kiva-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

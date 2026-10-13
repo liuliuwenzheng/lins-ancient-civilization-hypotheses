@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-naletale-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "纳莱塔莱",
+    "en": "Naletale Seed N",
+    "native": null
+  },
+  "kind_note": "Decorated walls",
+  "region": "Midlands",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "装饰墙。",
+    "en": "Naletale.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-naletale-seed-n",
+    "src-zimbabwe-pwiti-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

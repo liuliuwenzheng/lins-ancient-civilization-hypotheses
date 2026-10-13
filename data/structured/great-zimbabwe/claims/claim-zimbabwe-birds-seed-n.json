@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-birds-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "皂石鸟与山丘发现相关。",
+    "en": "Soapstone birds relate to Hill Complex finds.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-birds-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-birds-seed-n",
+    "src-zimbabwe-caton-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

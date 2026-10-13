@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-askia-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "阿斯基亚陵",
+    "en": "Askia Tomb Seed N",
+    "native": null
+  },
+  "kind_note": "Monument",
+  "region": "Gao",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "陵墓。",
+    "en": "Askia Tomb.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-askia-seed-n",
+    "src-waf-gao-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

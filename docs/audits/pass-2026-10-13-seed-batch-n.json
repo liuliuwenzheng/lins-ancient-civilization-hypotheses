@@ -1,0 +1,147 @@
+{
+  "decision": "D-2026-10-13-08",
+  "date": "2026-10-13",
+  "packs": [
+    {
+      "pack": "ancestral-pueblo",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-ancestral-pueblo",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "great-zimbabwe",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-great-zimbabwe",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "west-africa-medieval",
+      "before": {
+        "sources": 48,
+        "sites": 24,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 44,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-west-africa-medieval",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "hallstatt-celtic",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-hallstatt-celtic",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "nuragic-sardinia",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-nuragic-sardinia",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "rapa-nui",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-rapa-nui",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 138,
+    "sites": 120,
+    "periods": 18,
+    "objects": 192,
+    "claims": 156,
+    "media": 18
+  },
+  "status_note": "All six packs remain library-seed-rich (not promoted to fact-library)."
+}

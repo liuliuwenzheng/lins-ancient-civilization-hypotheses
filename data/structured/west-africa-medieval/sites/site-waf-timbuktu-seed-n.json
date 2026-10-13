@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-timbuktu-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "廷巴克图",
+    "en": "Timbuktu Seed N",
+    "native": null
+  },
+  "kind_note": "Caravan city",
+  "region": "Niger bend",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "廷巴克图。",
+    "en": "Timbuktu.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-timbuktu-seed-n",
+    "src-waf-unesco-119-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

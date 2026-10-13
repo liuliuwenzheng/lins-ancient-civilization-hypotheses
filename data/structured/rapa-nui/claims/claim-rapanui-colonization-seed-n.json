@@ -1,0 +1,34 @@
+{
+  "id": "claim-rapanui-colonization-seed-n",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "岛屿殖民年代仍有测年与模型分歧。",
+    "en": "Island colonization chronology still shows dating and model disagreements.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-colonization-seed-n"
+  ],
+  "period_ids": [
+    "period-rapanui-colonization-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-colonization-seed-n",
+    "src-rapanui-hunt-lipo-seed-n"
+  ],
+  "disclaimer": "Chronology remains debated; ranges should not be invented here.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

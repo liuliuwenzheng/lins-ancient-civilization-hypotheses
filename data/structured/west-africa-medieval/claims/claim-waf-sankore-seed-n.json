@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-sankore-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "桑科雷是廷巴克图学术区标志。",
+    "en": "Sankore is emblematic of Timbuktu’s scholarship quarter.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-sankore-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-sankore-seed-n",
+    "src-waf-timbuktu-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

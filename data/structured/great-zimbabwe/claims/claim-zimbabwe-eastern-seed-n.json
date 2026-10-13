@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-eastern-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "东围场属于山丘建筑群分区。",
+    "en": "The Eastern Enclosure is a Hill Complex sector.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-eastern-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-eastern-seed-n",
+    "src-zimbabwe-birds-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

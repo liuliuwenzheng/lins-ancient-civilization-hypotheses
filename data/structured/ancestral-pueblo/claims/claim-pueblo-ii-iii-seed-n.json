@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-ii-iii-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "普韦布洛二—三期涵盖查科与梅萨维德繁荣。",
+    "en": "Pueblo II–III covers Chaco and Mesa Verde florescence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-pueblo-ii-iii-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-lekson-seed-n",
+    "src-pueblo-cliff-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

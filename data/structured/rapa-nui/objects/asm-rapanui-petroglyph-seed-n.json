@@ -1,0 +1,43 @@
+{
+  "id": "asm-rapanui-petroglyph-seed-n",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "岩刻文本描述组合",
+    "en": "Petroglyph textual Seed N assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-petroglyph-seed-n"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "仅文本。",
+    "en": "Text only.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-petroglyph-seed-n",
+    "src-rapanui-orongo-seed-n"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

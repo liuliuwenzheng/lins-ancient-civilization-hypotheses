@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-unesco-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录364将大津巴布韦国家古迹列为世界遗产。",
+    "en": "UNESCO list 364 designates Great Zimbabwe National Monument as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-unesco-core-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-unesco-364-seed-n",
+    "src-zimbabwe-garlake-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

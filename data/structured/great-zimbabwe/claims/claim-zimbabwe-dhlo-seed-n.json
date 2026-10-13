@@ -1,0 +1,34 @@
+{
+  "id": "claim-zimbabwe-dhlo-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "达南贡贝代表晚期石建中心。",
+    "en": "Danangombe represents a later stone-building centre.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-danangombe-seed-n"
+  ],
+  "period_ids": [
+    "period-zimbabwe-post-classic-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-dhlo-seed-n",
+    "src-zimbabwe-beach-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-village-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "村落小屋",
+    "en": "Village huts Seed N",
+    "native": null
+  },
+  "kind_note": "Domestic",
+  "region": "Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "村落。",
+    "en": "Villages.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-village-seed-n",
+    "src-nuragic-landscape-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

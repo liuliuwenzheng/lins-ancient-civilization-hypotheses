@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-perimeter-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "外围干石",
+    "en": "Outer perimeter Seed N",
+    "native": null
+  },
+  "kind_note": "Architecture",
+  "region": "Masvingo",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "外围。",
+    "en": "Perimeter.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-dry-stone-seed-n",
+    "src-zimbabwe-enclosure-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-monumental-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "纪念性阿胡/摩艾阶段是岛屿考古核心议题。",
+    "en": "The monumental ahu/moai phase is a core island archaeology topic.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-rapanui-ahu-moai-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-ahu-construction-seed-n",
+    "src-rapanui-van-tilburg-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

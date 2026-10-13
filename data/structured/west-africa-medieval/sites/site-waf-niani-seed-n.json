@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-niani-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "尼阿尼争论",
+    "en": "Niani debate Seed N",
+    "native": null
+  },
+  "kind_note": "Capital candidate",
+  "region": "Guinea/Mali",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "都城争论。",
+    "en": "Niani debate.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-niani-seed-n",
+    "src-waf-mali-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

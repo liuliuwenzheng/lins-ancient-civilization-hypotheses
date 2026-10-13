@@ -1,0 +1,36 @@
+{
+  "id": "period-nuragic-late-bronze-seed-n",
+  "entity": "period",
+  "names": {
+    "zh": "晚青铜窗SeedN",
+    "en": "Late Bronze Seed N",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "time": {
+    "label": "Complex towers / wells",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Complex towers / wells"
+  },
+  "summary": {
+    "zh": "晚青铜。",
+    "en": "Late Bronze.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-su-nuraxi-seed-n",
+    "src-nuragic-water-seed-n"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

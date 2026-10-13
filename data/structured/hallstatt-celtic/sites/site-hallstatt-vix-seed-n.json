@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-vix-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "维克斯",
+    "en": "Vix Seed N",
+    "native": null
+  },
+  "kind_note": "Princely grave",
+  "region": "Cote-dOr",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "维克斯。",
+    "en": "Vix.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-vix-seed-n",
+    "src-hallstatt-imports-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-sankore-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "桑科雷",
+    "en": "Sankore Seed N",
+    "native": null
+  },
+  "kind_note": "Scholarship",
+  "region": "Timbuktu",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "学术。",
+    "en": "Sankore.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-sankore-seed-n",
+    "src-waf-timbuktu-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

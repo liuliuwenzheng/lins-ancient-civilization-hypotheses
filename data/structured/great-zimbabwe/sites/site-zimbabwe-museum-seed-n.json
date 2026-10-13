@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-museum-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "现场博物馆",
+    "en": "Site museum Seed N",
+    "native": null
+  },
+  "kind_note": "Interpretation",
+  "region": "Masvingo",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "博物馆。",
+    "en": "Museum.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-unesco-364-seed-n",
+    "src-zimbabwe-heritage-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

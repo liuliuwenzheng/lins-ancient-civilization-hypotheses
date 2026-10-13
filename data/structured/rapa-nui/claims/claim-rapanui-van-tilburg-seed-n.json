@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-van-tilburg-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Van Tilburg 等是纪念性建筑研究常用入口。",
+    "en": "Van Tilburg and related work are standard entries to monumental architecture studies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-rapanui-ahu-moai-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-van-tilburg-seed-n",
+    "src-rapanui-tongariki-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

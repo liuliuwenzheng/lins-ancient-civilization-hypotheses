@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-unesco-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录833将巴鲁米尼苏努拉希列为世界遗产。",
+    "en": "UNESCO list 833 designates Su Nuraxi di Barumini as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-unesco-core-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-unesco-833-seed-n",
+    "src-nuragic-su-nuraxi-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

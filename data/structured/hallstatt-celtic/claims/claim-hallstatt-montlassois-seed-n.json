@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-montlassois-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "蒙拉斯瓦山堡与维克斯精英景观相关。",
+    "en": "Mont Lassois relates to the Vix elite landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-montlassois-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-montlassois-seed-n",
+    "src-hallstatt-vix-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

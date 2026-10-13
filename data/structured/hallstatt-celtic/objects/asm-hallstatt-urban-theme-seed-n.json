@@ -1,0 +1,43 @@
+{
+  "id": "asm-hallstatt-urban-theme-seed-n",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "早期城市争论组合",
+    "en": "Urbanism-debate assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-urban-seed-n"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "城市。",
+    "en": "Urbanism.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-urban-seed-n",
+    "src-hallstatt-heuneburg-seed-n"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

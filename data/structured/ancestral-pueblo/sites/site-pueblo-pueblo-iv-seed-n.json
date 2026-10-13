@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-pueblo-iv-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "普韦布洛四期取向",
+    "en": "Pueblo IV orientation Seed N",
+    "native": null
+  },
+  "kind_note": "Aggregation",
+  "region": "Rio Grande/west",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "普韦布洛IV。",
+    "en": "Pueblo IV.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-depop-seed-n",
+    "src-pueblo-seba-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

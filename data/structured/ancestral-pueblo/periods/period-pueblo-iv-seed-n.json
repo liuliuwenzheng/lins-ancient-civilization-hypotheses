@@ -1,0 +1,36 @@
+{
+  "id": "period-pueblo-iv-seed-n",
+  "entity": "period",
+  "names": {
+    "zh": "普韦布洛四期SeedN",
+    "en": "Pueblo IV Seed N",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "time": {
+    "label": "Aggregation / reorganization",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Aggregation / reorganization"
+  },
+  "summary": {
+    "zh": "聚合重组。",
+    "en": "Aggregation.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-depop-seed-n",
+    "src-pueblo-crown-seed-n"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

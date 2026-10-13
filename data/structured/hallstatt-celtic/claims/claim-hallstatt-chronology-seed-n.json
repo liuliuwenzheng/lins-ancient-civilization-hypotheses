@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-chronology-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "编年框架组织Ha C/D与早期拉坦。",
+    "en": "Chronology frameworks organize Ha C/D and early La Tene.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-chronology-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-chronology-seed-n",
+    "src-hallstatt-collis-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

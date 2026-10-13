@@ -1,0 +1,43 @@
+{
+  "id": "asm-waf-mudbrick-theme-seed-n",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "土坯城市组合",
+    "en": "Mudbrick-urban assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-mudbrick-seed-n"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "土坯。",
+    "en": "Mudbrick.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-mudbrick-seed-n",
+    "src-waf-djenne-seed-n"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

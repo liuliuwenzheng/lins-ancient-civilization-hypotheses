@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-ethics-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "伦理优先",
+    "en": "Ethics-first node Seed N",
+    "native": null
+  },
+  "kind_note": "Ethics",
+  "region": "Archive policy",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "伦理优先。",
+    "en": "Ethics-first.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-ethics-seed-n",
+    "src-rapanui-stewardship-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-nps-mv-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "梅萨维德公园取向",
+    "en": "Mesa Verde NP orientation Seed N",
+    "native": null
+  },
+  "kind_note": "NPS",
+  "region": "Mesa Verde",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "公园。",
+    "en": "NP.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-nps-mv-seed-n",
+    "src-pueblo-unesco-27-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

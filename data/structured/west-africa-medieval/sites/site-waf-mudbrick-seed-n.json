@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-mudbrick-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "土坯城市",
+    "en": "Mudbrick urban Seed N",
+    "native": null
+  },
+  "kind_note": "Architecture",
+  "region": "Sahel",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "土坯。",
+    "en": "Mudbrick.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-mudbrick-seed-n",
+    "src-waf-djenne-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

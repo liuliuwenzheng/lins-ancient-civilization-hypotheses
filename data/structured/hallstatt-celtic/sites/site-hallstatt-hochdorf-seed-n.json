@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-hochdorf-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "霍赫多夫",
+    "en": "Hochdorf Seed N",
+    "native": null
+  },
+  "kind_note": "Princely grave",
+  "region": "Wuerttemberg",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "王侯墓。",
+    "en": "Hochdorf.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-hochdorf-seed-n",
+    "src-hallstatt-biel-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-mudbrick-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "土坯城市织物是萨赫勒建筑遗产特征。",
+    "en": "Mudbrick urban fabric characterizes Sahelian architectural heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-mudbrick-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-mudbrick-seed-n",
+    "src-waf-djenne-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

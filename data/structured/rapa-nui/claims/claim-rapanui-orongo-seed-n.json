@@ -1,0 +1,34 @@
+{
+  "id": "claim-rapanui-orongo-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥龙戈是鸟人仪式村落。",
+    "en": "Orongo is a birdman ceremonial village.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-orongo-seed-n"
+  ],
+  "period_ids": [
+    "period-rapanui-birdman-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-orongo-seed-n",
+    "src-rapanui-birdman-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

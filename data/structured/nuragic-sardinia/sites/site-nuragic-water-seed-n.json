@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-water-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "圣井类型",
+    "en": "Sacred-well type Seed N",
+    "native": null
+  },
+  "kind_note": "Water cult",
+  "region": "Sardinia",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "圣井。",
+    "en": "Wells.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-water-seed-n",
+    "src-nuragic-su-tempiesu-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-nuragic-su-nuraxi-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "苏努拉希是复合努拉吉塔代表案例。",
+    "en": "Su Nuraxi is a representative complex nuraghe.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-su-nuraxi-seed-n"
+  ],
+  "period_ids": [
+    "period-nuragic-late-bronze-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-su-nuraxi-seed-n",
+    "src-nuragic-lilliu-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

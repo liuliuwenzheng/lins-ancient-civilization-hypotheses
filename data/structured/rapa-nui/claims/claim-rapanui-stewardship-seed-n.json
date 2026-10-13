@@ -1,0 +1,34 @@
+{
+  "id": "claim-rapanui-stewardship-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉帕努伊社区参与遗产管护。",
+    "en": "Rapa Nui community participation shapes heritage stewardship.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-community-seed-n"
+  ],
+  "period_ids": [
+    "period-rapanui-birdman-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-stewardship-seed-n",
+    "src-rapanui-ethics-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-santa-vittoria-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "圣维多利亚是重要圣所。",
+    "en": "Santa Vittoria is a major sanctuary.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-santa-vittoria-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-santa-vittoria-seed-n",
+    "src-nuragic-water-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

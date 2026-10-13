@@ -1,0 +1,34 @@
+{
+  "id": "claim-hallstatt-contact-seed-n",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "地中海接触的社会意义仍有多种解释模型。",
+    "en": "Social meanings of Mediterranean contact remain multi-model.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-imports-seed-n"
+  ],
+  "period_ids": [
+    "period-hallstatt-d-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-dietler-seed-n",
+    "src-hallstatt-imports-seed-n"
+  ],
+  "disclaimer": "Contact vs. emulation models differ.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-builders-seed-n",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "外来建造说已被考古共识否定，但仍需在遗产叙述中明确。",
+    "en": "Non-African builder myths are rejected by archaeological consensus but must stay explicit in heritage narration.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-heritage-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-heritage-seed-n",
+    "src-zimbabwe-caton-seed-n"
+  ],
+  "disclaimer": "Framed as rejected colonial myth; African builders are the scholarly consensus.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

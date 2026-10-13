@@ -1,0 +1,34 @@
+{
+  "id": "claim-rapanui-transport-seed-n",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "纪念物搬运方式（直立行走、滑橇等）仍属假说。",
+    "en": "How monuments were moved (upright walking, sledges, etc.) remains hypothetical.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-transport-seed-n"
+  ],
+  "period_ids": [
+    "period-rapanui-ahu-moai-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-transport-seed-n",
+    "src-rapanui-hunt-lipo-seed-n"
+  ],
+  "disclaimer": "Transport models are hypotheses; none treated as settled fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

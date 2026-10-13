@@ -1,0 +1,43 @@
+{
+  "id": "asm-hallstatt-imports-theme-seed-n",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "进口组合",
+    "en": "Imports assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-imports-seed-n"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "进口。",
+    "en": "Imports.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-imports-seed-n",
+    "src-hallstatt-dietler-seed-n"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

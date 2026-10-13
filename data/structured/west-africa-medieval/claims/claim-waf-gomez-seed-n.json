@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-gomez-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Gomez 等重建马里帝国政治与伊斯兰化。",
+    "en": "Gomez and related work reconstruct Mali politics and Islamization.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-waf-mali-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-gomez-seed-n",
+    "src-waf-mali-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

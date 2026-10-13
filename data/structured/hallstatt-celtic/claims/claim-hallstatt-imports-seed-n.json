@@ -1,0 +1,34 @@
+{
+  "id": "claim-hallstatt-imports-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈尔施塔特D期常见地中海进口品。",
+    "en": "Mediterranean imports are common in Hallstatt D.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-imports-seed-n"
+  ],
+  "period_ids": [
+    "period-hallstatt-d-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-imports-seed-n",
+    "src-hallstatt-dietler-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

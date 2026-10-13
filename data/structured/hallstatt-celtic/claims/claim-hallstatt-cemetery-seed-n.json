@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-cemetery-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈尔施塔特墓地锚定中欧铁器时代类型学。",
+    "en": "The Hallstatt cemetery anchors Central European Iron Age typology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-cemetery-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-cemetery-seed-n",
+    "src-hallstatt-collis-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

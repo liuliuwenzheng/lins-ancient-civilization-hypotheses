@@ -1,0 +1,32 @@
+{
+  "id": "claim-rapanui-hunt-lipo-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Hunt/Lipo 等模型挑战单一崩溃叙事。",
+    "en": "Hunt/Lipo and related models challenge single-collapse narratives.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-ecology-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-hunt-lipo-seed-n",
+    "src-rapanui-ecology-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

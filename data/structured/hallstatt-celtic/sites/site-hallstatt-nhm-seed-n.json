@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-nhm-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "维也纳自然史博物馆",
+    "en": "NHM Vienna Seed N",
+    "native": null
+  },
+  "kind_note": "Museum",
+  "region": "Vienna",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "博物馆。",
+    "en": "NHM.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-nhm-seed-n",
+    "src-hallstatt-salt-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

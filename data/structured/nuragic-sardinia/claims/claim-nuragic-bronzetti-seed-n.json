@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-bronzetti-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "青铜小像描绘武士、仪式人物与动物。",
+    "en": "Bronzetti depict warriors, ritual figures and animals.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-bronzetti-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-bronzetti-seed-n",
+    "src-nuragic-bernardini-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

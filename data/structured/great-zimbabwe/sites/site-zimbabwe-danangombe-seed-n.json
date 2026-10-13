@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-danangombe-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "达南贡贝",
+    "en": "Danangombe Seed N",
+    "native": null
+  },
+  "kind_note": "Later capital",
+  "region": "Midlands",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "晚期。",
+    "en": "Danangombe.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-dhlo-seed-n",
+    "src-zimbabwe-beach-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-vinapu-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "维纳普",
+    "en": "Vinapu Seed N",
+    "native": null
+  },
+  "kind_note": "Fitted-stone ahu",
+  "region": "South",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "精细砌石。",
+    "en": "Vinapu.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-vinapu-seed-n",
+    "src-rapanui-van-tilburg-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

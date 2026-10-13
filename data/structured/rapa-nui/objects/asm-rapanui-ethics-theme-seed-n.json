@@ -1,0 +1,43 @@
+{
+  "id": "asm-rapanui-ethics-theme-seed-n",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "伦理优先组合",
+    "en": "Ethics-first assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-ethics-seed-n"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "伦理。",
+    "en": "Ethics.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-ethics-seed-n",
+    "src-rapanui-stewardship-seed-n"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

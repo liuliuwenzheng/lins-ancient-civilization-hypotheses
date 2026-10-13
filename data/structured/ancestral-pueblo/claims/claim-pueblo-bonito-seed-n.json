@@ -1,0 +1,34 @@
+{
+  "id": "claim-pueblo-bonito-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "普韦布洛博尼托是查科核心大屋。",
+    "en": "Pueblo Bonito is a core Chaco great house.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-bonito-seed-n"
+  ],
+  "period_ids": [
+    "period-pueblo-ii-iii-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-bonito-seed-n",
+    "src-pueblo-lekson-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-unesco-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录806将哈尔施塔特—达赫施泰因列为世界遗产。",
+    "en": "UNESCO list 806 designates Hallstatt–Dachstein as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-unesco-core-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-unesco-806-seed-n",
+    "src-hallstatt-salt-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

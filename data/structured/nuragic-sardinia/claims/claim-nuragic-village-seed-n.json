@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-village-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "圆形小屋村落常环绕努拉吉塔。",
+    "en": "Circular-hut villages often cluster around nuraghi.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-village-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-village-seed-n",
+    "src-nuragic-landscape-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

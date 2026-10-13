@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-genna-maria-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "真纳玛丽亚",
+    "en": "Genna Maria Seed N",
+    "native": null
+  },
+  "kind_note": "Complex",
+  "region": "Villanovaforru",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "复合塔。",
+    "en": "Genna Maria.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-su-nuraxi-seed-n",
+    "src-nuragic-campus-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

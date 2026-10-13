@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-magdalenenberg-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "马格达莱内贝格",
+    "en": "Magdalenenberg Seed N",
+    "native": null
+  },
+  "kind_note": "Tumulus",
+  "region": "Villingen",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "坟墩。",
+    "en": "Magdalenenberg.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-magdalenenberg-seed-n",
+    "src-hallstatt-wagen-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

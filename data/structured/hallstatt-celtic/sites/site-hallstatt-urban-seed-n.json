@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-urban-seed-n",
+  "entity": "site",
+  "names": {
+    "zh": "早期城市争论",
+    "en": "Early urbanism debate Seed N",
+    "native": null
+  },
+  "kind_note": "Debate",
+  "region": "Heuneburg",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "城市争论。",
+    "en": "Urbanism.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-urban-seed-n",
+    "src-hallstatt-heuneburg-seed-n"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

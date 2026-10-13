@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-indian-ocean-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "印度洋贸易网络连接高原与海岸。",
+    "en": "Indian Ocean trade networks linked the plateau to the coast.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-indian-ocean-seed-n"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-gold-seed-n",
+    "src-zimbabwe-beach-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

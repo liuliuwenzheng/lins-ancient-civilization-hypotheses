@@ -1,0 +1,34 @@
+{
+  "id": "claim-waf-mali-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "马里帝国扩张塑造萨赫勒政治地理。",
+    "en": "Mali empire expansion shaped Sahelian political geography.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-mali-seed-n"
+  ],
+  "period_ids": [
+    "period-waf-mali-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-waf-mali-seed-n",
+    "src-waf-gomez-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

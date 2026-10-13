@@ -1,0 +1,36 @@
+{
+  "id": "period-rapanui-ahu-moai-seed-n",
+  "entity": "period",
+  "names": {
+    "zh": "阿胡/摩艾窗SeedN",
+    "en": "Ahu / moai Seed N",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "time": {
+    "label": "Monumental phase",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Monumental phase"
+  },
+  "summary": {
+    "zh": "纪念性阶段。",
+    "en": "Monumental.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-ahu-construction-seed-n",
+    "src-rapanui-van-tilburg-seed-n"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

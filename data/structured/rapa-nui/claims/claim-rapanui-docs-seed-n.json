@@ -1,0 +1,30 @@
+{
+  "id": "claim-rapanui-docs-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文文件页提供拉帕努伊名录文本。",
+    "en": "UNESCO documents page provides Rapa Nui listing texts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-unesco-715-docs-seed-n",
+    "src-rapanui-unesco-715-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

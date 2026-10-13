@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-late-bronze-seed-n",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚青铜以复合塔与圣井繁荣为标志。",
+    "en": "Late Bronze is marked by complex towers and sacred-well florescence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nuragic-late-bronze-seed-n"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-su-nuraxi-seed-n",
+    "src-nuragic-water-seed-n"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_n.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-08"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch N toward ~71 sources (D-2026-10-13-08). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
