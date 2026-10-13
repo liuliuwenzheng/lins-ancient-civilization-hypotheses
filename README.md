@@ -37,7 +37,7 @@ Coverage here is still narrow. Advantage only holds if density, gates, and hones
 
 Then open:
 
-- **Browse UI:** [http://127.0.0.1:8080/ui](http://127.0.0.1:8080/ui) — museum-grade restraint; bilingual; fact/hypothesis badges
+- **Browse UI:** [http://127.0.0.1:8080/ui](http://127.0.0.1:8080/ui) — **Chinese by default**; museum-grade restraint; EN switch; fact/hypothesis badges
 - **API root:** [http://127.0.0.1:8080/api/v1/](http://127.0.0.1:8080/api/v1/) — principle-first service card
 - **OpenAPI:** [http://127.0.0.1:8080/api/v1/docs](http://127.0.0.1:8080/api/v1/docs)
 
@@ -94,17 +94,14 @@ lins-ancient-civilization-hypotheses/
 
 Templates are marked clearly; they are **not** filled with invented case studies.
 
-**Library status (2026-10-12):** **40** structured packs under `data/structured/` — **9 dense** (`fact-library`) + **11 Wave-1** (`library-seed-rich`) + **9 Wave-2** (`library-seed-rich`) + **11 Wave-3 shells** (`library-seed`). Coverage map: [`docs/coverage-map.md`](docs/coverage-map.md) · [中文](docs/coverage-map.zh.md). Depth: [`docs/entry-depth.md`](docs/entry-depth.md). Decisions: [`docs/decisions.md`](docs/decisions.md) (D-2026-10-12-15 / D-2026-10-12-16).
+**Library status (2026-10-13):** **40** structured packs under `data/structured/` — **9 dense** (`fact-library`, ~68–76 sources) + **31 expanding** (`library-seed-rich`, ~71-source band). Roughly **2800+** registered sources, **1600+** sites, **2600+** claims (structured counts / `export_check`). Coverage map: [`docs/coverage-map.md`](docs/coverage-map.md) · [中文](docs/coverage-map.zh.md). Depth: [`docs/entry-depth.md`](docs/entry-depth.md). Decisions: [`docs/decisions.md`](docs/decisions.md) (incl. D-2026-10-13-08).
 
 **Dense (9):** mesopotamia · egypt · andes · indus · china-bronze · sanxingdui · aegean · olmec · early-maya
 
-**Wave-1 (11, densified):** elam-iran · nubia-kush · anatolia-hittite · levant-ugarit · bmac-oxus · nok-west-africa · teotihuacan · zapotec · lapita-pacific · dong-son · jomon-yayoi
+**Expanding (31, ~71 sources):** the hot ten plus the other twenty-one Wave-1/2/3 packs share the same density band; **none promoted to `fact-library` yet** — promotion waits on sourced coordinates and thinning orientation stubs, not vanity labels.
 
-**Wave-2 (9, densified):** chavin-andes · tiwanaku · wari · classic-maya · aksum · ban-chiang · early-korea · mitanni · phoenician
+**Browse UI:** `/ui` **defaults to Chinese** (one-click EN). Museum-grade restraint; fact/hypothesis badges; no forged artifact imagery.
 
-**Wave-3 shells (11):** cahokia · ancestral-pueblo · great-zimbabwe · west-africa-medieval · hallstatt-celtic · nuragic-sardinia · rapa-nui · inca · moche · aztec · angkor
-
-API/UI auto-discover all packs; Wave-3 shells are intentionally thin — integrity over fake density.
 
 - **Design taste** — makers’ principles + UI/API/README checklist: [`docs/design-taste.md`](docs/design-taste.md) · [中文](docs/design-taste.zh.md)
 - **Entry depth** — required sections, source minimums, status ladder: [`docs/entry-depth.md`](docs/entry-depth.md) · [中文](docs/entry-depth.zh.md)

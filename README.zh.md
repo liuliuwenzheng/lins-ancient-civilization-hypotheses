@@ -37,7 +37,7 @@
 
 然后打开：
 
-- **浏览 UI：** [http://127.0.0.1:8080/ui](http://127.0.0.1:8080/ui) — 博物馆级克制；双语；事实/假说徽章
+- **浏览 UI：** [http://127.0.0.1:8080/ui](http://127.0.0.1:8080/ui) — **默认中文**；博物馆级克制；可切 EN；事实/假说徽章
 - **接口根：** [http://127.0.0.1:8080/api/v1/](http://127.0.0.1:8080/api/v1/) — 原则优先的服务卡片
 - **OpenAPI：** [http://127.0.0.1:8080/api/v1/docs](http://127.0.0.1:8080/api/v1/docs)
 
@@ -94,17 +94,13 @@ lins-ancient-civilization-hypotheses/
 
 模板已明确标为模板；**不会**预填虚构案例。
 
-**资料库状态（2026-10-12）：** `data/structured/` 下 **40** 个结构化包 — **9 个密包**（`fact-library`）+ **11 个第一波**（`library-seed-rich`）+ **9 个第二波**（`library-seed-rich`）+ **11 个第三波壳**（`library-seed`）。覆盖图：[`docs/coverage-map.zh.md`](docs/coverage-map.zh.md) · [English](docs/coverage-map.md)。深度：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md)。决策：[`docs/decisions.zh.md`](docs/decisions.zh.md)（D-2026-10-12-15 / D-2026-10-12-16）。
+**资料库状态（2026-10-13）：** `data/structured/` 下 **40** 个结构化包 — **9 个密档**（`fact-library`，约 68–76 源）+ **31 个加厚中**（`library-seed-rich`，约 71 源级）。合计约 **2800+** 来源登记、**1600+** 遗址、**2600+** 主张（以 `export_check` / 结构化计数为准）。覆盖图：[`docs/coverage-map.zh.md`](docs/coverage-map.zh.md) · [English](docs/coverage-map.md)。深度：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md)。决策：[`docs/decisions.zh.md`](docs/decisions.zh.md)（含 D-2026-10-13-08 等）。
 
-**密包（9）：** mesopotamia · egypt · andes · indus · china-bronze · sanxingdui · aegean · olmec · early-maya
+**密档（9）：** mesopotamia · egypt · andes · indus · china-bronze · sanxingdui · aegean · olmec · early-maya
 
-**第一波（11，已加厚）：** elam-iran · nubia-kush · anatolia-hittite · levant-ugarit · bmac-oxus · nok-west-africa · teotihuacan · zapotec · lapita-pacific · dong-son · jomon-yayoi
+**加厚中（31，约 71 源）：** 热门十包（teotihuacan · classic-maya · inca · angkor · aksum · aztec · phoenician · anatolia-hittite · nubia-kush · elam-iran）与其余二十一包（含 Wave-1/2/3 种子）均已加厚到同密度带；**尚未升 `fact-library`**——升档卡在有出处坐标与壳状遗址清理，不凑标签。
 
-**第二波（9，已加厚）：** chavin-andes · tiwanaku · wari · classic-maya · aksum · ban-chiang · early-korea · mitanni · phoenician
-
-**第三波壳（11）：** cahokia · ancestral-pueblo · great-zimbabwe · west-africa-medieval · hallstatt-celtic · nuragic-sardinia · rapa-nui · inca · moche · aztec · angkor
-
-API/UI 自动发现全部包；第三波壳故意偏薄 — 诚信优于虚荣密度。
+**浏览 UI：** `/ui` **默认中文**（可一键切 EN）。博物馆级克制；事实/假说徽章；不上伪造文物图。
 
 - **设计品味** — 创作者原则 + UI/API/README 清单：[`docs/design-taste.zh.md`](docs/design-taste.zh.md) · [English](docs/design-taste.md)
 - **条目深度** — 必填栏目、来源下限、状态阶梯：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md) · [English](docs/entry-depth.md)

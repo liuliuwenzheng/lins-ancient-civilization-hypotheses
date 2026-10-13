@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hans">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -189,8 +189,8 @@
       </div>
       <div class="controls">
         <div class="seg" role="group" aria-label="Language">
-          <button type="button" id="lang-en" aria-pressed="true">EN</button>
-          <button type="button" id="lang-zh" aria-pressed="false">中文</button>
+          <button type="button" id="lang-en" aria-pressed="false">EN</button>
+          <button type="button" id="lang-zh" aria-pressed="true">中文</button>
         </div>
         <a class="btn" href="/api/v1/" data-i="api">API root</a>
         <a class="btn primary" href="/api/v1/docs" data-i="docs">OpenAPI</a>
@@ -282,7 +282,7 @@
     };
 
     const state = {
-      lang: localStorage.getItem("lach-ui-lang") || ((navigator.language || "").startsWith("zh") ? "zh" : "en"),
+      lang: localStorage.getItem("lach-ui-lang") || "zh",
       civs: [],
       selected: null,
       tab: "claims",
@@ -290,19 +290,19 @@
       q: "",
       cache: {},
     };
-    if (!["en", "zh"].includes(state.lang)) state.lang = "en";
+    if (!["en", "zh"].includes(state.lang)) state.lang = "zh";
 
     const $ = (sel) => document.querySelector(sel);
     const t = (key) => (I18N[state.lang][key] || I18N.en[key] || key);
     const txt = (obj) => {
       if (!obj) return "";
       if (typeof obj === "string") return obj;
-      return obj[state.lang] || obj.en || obj.zh || "";
+      return obj[state.lang] || obj.zh || obj.en || "";
     };
     const nameOf = (rec) => {
       const n = rec?.names;
       if (!n) return rec?.id || "";
-      return n[state.lang] || n.en || n.zh || rec.id;
+      return n[state.lang] || n.zh || n.en || rec.id;
     };
     const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({
       "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
