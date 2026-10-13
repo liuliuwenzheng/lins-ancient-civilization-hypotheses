@@ -43,6 +43,24 @@ SERVICE_INFO = {
 }
 
 
+
+def _period_sort_key(rec: dict[str, Any]) -> tuple:
+    """Chronological order for periods: older (higher BCE) first; nulls last.
+
+    Spans are cited author schemes (`time.label` / scheme_note), not a unique calendar.
+    """
+    t = rec.get("time") or {}
+    from_bce = t.get("approx_from_bce")
+    to_bce = t.get("approx_to_bce")
+    return (
+        from_bce is None,
+        -(from_bce if from_bce is not None else 0),
+        to_bce is None,
+        -(to_bce if to_bce is not None else 0),
+        rec.get("id") or "",
+    )
+
+
 def create_app() -> FastAPI:
     app = FastAPI(
         title=SERVICE_INFO["name"],
@@ -197,7 +215,12 @@ def create_app() -> FastAPI:
     ) -> dict[str, Any]:
         store = get_store()
         items: list[dict[str, Any]] = []
-        for rec in sorted(store.by_entity[collection].values(), key=lambda r: r.get("id") or ""):
+        records = list(store.by_entity[collection].values())
+        if collection == "periods":
+            records.sort(key=_period_sort_key)
+        else:
+            records.sort(key=lambda r: r.get("id") or "")
+        for rec in records:
             if not _match_civ(rec, civilization):
                 continue
             if not _match_region(rec, region):
@@ -243,7 +266,11 @@ def create_app() -> FastAPI:
 
     @app.get("/api/v1/periods")
     def list_periods(
-        civilization: Optional[str] = None,
+        civilization: Optional[str] = Query(
+            None,
+            description="Filter by civilization id. Results sorted chronologically "
+            "(approx_from_bce desc; nulls last). Spans are cited schemes, not a unique calendar.",
+        ),
         limit: int = Query(50, ge=1, le=200),
         offset: int = Query(0, ge=0),
     ) -> dict[str, Any]:
@@ -270,27 +297,31 @@ def create_app() -> FastAPI:
 
     @app.get("/api/v1/media")
     def list_media(
-        civilization: Optional[str] = None,
+        civilization: Optional[str] = Query(
+            None,
+            description="Filter by civilization: same pack and/or linked object_ids",
+        ),
         limit: int = Query(50, ge=1, le=200),
         offset: int = Query(0, ge=0),
     ) -> dict[str, Any]:
-        # media may lack civilization_ids; filter via linked objects when civilization set
+        # media may lack civilization_ids; filter via pack and linked objects
         store = get_store()
-        object_ids: set[str] | None = None
+        pack_name: str | None = None
+        object_ids: set[str] = set()
         if civilization:
             civ = store.civilizations.get(civilization)
             if not civ:
                 raise HTTPException(status_code=404, detail=f"civilization not found: {civilization}")
+            pack_name = civ.get("_pack")
             object_ids = set(civ.get("object_ids") or [])
         items = []
         for rec in sorted(store.by_entity["media"].values(), key=lambda r: r.get("id") or ""):
-            if object_ids is not None:
+            if pack_name is not None:
                 linked = set(rec.get("object_ids") or [])
-                if not linked.intersection(object_ids):
-                    # also allow same pack
-                    if rec.get("_pack") != civ.get("_pack"):
-                        continue
-            items.append(store.public(rec))
+                same_pack = rec.get("_pack") == pack_name
+                if not same_pack and not linked.intersection(object_ids):
+                    continue
+            items.append(store.enrich_media(rec))
         return _paginate(items, limit, offset)
 
     return app

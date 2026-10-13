@@ -2,7 +2,7 @@
 
 [English](entry-detail-ui.md) | 中文
 
-> 在 `/ui` **解锁已有档案深度**。优先露出已登记的 Markdown 分栏报告，而不是新写空话。相关：[`entry-depth.zh.md`](entry-depth.zh.md) · [`design-taste.zh.md`](design-taste.zh.md) · [`council.zh.md`](council.zh.md) · 决策 **D-2026-10-13-09**。
+> 在 `/ui` **解锁已有档案深度**。优先露出已登记的 Markdown 分栏报告，而不是新写空话。相关：[`entry-depth.zh.md`](entry-depth.zh.md) · [`design-taste.zh.md`](design-taste.zh.md) · [`council.zh.md`](council.zh.md) · 决策 **D-2026-10-13-09**、**D-2026-10-13-10**。
 
 ---
 
@@ -56,9 +56,9 @@
 ## 次级页签
 
 1. **遗址** — 名称、摘要、区域；坐标**仅当** JSON 已核验存在；可展开来源；同包内引用该遗址的主张。
-2. **分期** — 名称、年代、摘要（空则省略）。
+2. **分期** — 按年代排序（`approx_from_bce` 降序，空值靠后）；展示 `time.label`（及可选起讫 BCE）与淡化的 `scheme_note`；摘要（空则省略）。跨度是引证方案，不是唯一历法。
 3. **主张** — 不再作默认首页；保留 kind 徽章、来源展开、事实/假说筛选。
-4. **器物 / 媒体** — v1 可暂略空集合，避免装饰性页签。
+4. **媒体** — 仅已登记外链：标题、`media_type`、权利状态/署名、外链按钮、展开来源。`outbound-link-only` 标为外链资料/目录/图库页——**不当**可嵌图片，不伪造缩略图。无记录时诚实空态。
 
 ## API 形状（v1）
 
@@ -77,14 +77,31 @@ GET /api/v1/civilizations/{id}/report
 - 主张 kind 筛选仅在「主张」页签生效。
 - 品味：一强调色、字体、诚实空态——见 [`design-taste.zh.md`](design-taste.zh.md)。
 
+## 配图闸门
+
+仅当下列**全部**满足时登记媒体：
+
+| 闸门 | 要求 |
+|------|------|
+| URL | 稳定公开地址（WHC 页、博物馆目录、数字化落地页、已引证开放 PDF） |
+| 权利 | 外链清晰，或未来热链/嵌入所需的开放许可 |
+| 出处 | 标题/说明 + 至少一条 `src-*` |
+| 诚实 | 无 AI/伪造文物图；无装饰性图库；`local_path` 保持 null |
+| 优先 | 遗址图、发掘报告数字化本、博物馆开放目录、教科文组织图库 |
+
+**不要**把受版权二进制下载进仓库。在核验到可视化 URL 之前，包内可仅保留文档外链媒体。
+
 ## 非目标（v1）
 
 - 在 API 里生成新百科散文
 - 自动补译缺失的中/英半边
-- 装饰性「博物馆」配图
+- 装饰性「博物馆」配图或伪造缩略图
 - 把假说升格写进报告分栏
+- 在无权利清理时嵌入第三方图片
 
 ## 校验
 
 - `export_check` 仍通过（报告解析只读呈现）。
 - Curl 埃及、两河 `/report` → 栏目非空；Markdown 含研究史则响应含该栏。
+- Curl `/periods?civilization=civ-ancient-egypt` → 旧石器/巴达里早于纳盖达早于古王国（按 `approx_from_bce`）。
+- Curl `/media?civilization=…` → 有登记媒体的包非空；UI 媒体页签只出示外链卡片、无假缩略图。

@@ -1098,3 +1098,15 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Implement:** Best-effort `body_zh`/`body_en` split; always keep `body_md`; site cards expand sources / linked claims / existing coordinates; `export_check` unchanged.
 
+### D-2026-10-13-10 — Period chronological sort + honest Media tab
+
+**Decision:** `/api/v1/periods` lists chronologically: primary `time.approx_from_bce` **descending** (older / higher BCE first), then `approx_to_bce` descending, then `id`; **nulls last**. Spans are **cited schemes** (`time.label` / `scheme_note`), not a unique calendar. UI `renderPeriods` shows `time.label` (+ optional from–to) and muted `scheme_note`; client-side sort matches as a safety net. Add **媒体 / Media** secondary tab (default remains 档案报告): fetch `/api/v1/media?civilization=…`, expand sources, cards with title / media_type / rights / outbound link — **never** invent thumbnails. `rights.status === outbound-link-only` labeled as 外链资料 / outbound only (document, catalog, or gallery page), not an embeddable photo.
+
+**配图闸门 (image pairing):** Register media only when (a) stable public URL, (b) rights clear for outbound (or open license for any future hotlink/embed), (c) caption + `src-*`, (d) no AI / fake artifacts, (e) prefer site maps, excavation report digitizations, museum open catalogs, UNESCO WHC pages already or newly verified. No copyrighted binaries in-repo; no decorative stock.
+
+**Pilot:** Egypt + Mesopotamia each gained one verified UNESCO WHC outbound `external-catalog` media (+ tier-T source): Memphis WHC 86; Ahwar of Southern Iraq WHC 1481. Existing document-link / catalog media remain the bulk.
+
+**Design:** [`docs/entry-detail-ui.md`](entry-detail-ui.md) · [中文](entry-detail-ui.zh.md)
+
+**Implement:** API `_period_sort_key`; `enrich_media`; UI Media tab; `export_check` unchanged beyond new records.
+

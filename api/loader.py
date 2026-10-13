@@ -110,6 +110,14 @@ class ArchiveStore:
         out["sources"] = self.expand_sources(ids)
         return out
 
+    def enrich_media(self, media: dict[str, Any]) -> dict[str, Any]:
+        """Return media with sources expanded; rights stay as registered."""
+        out = {k: v for k, v in media.items() if not k.startswith("_")}
+        ids = list(media.get("sources") or [])
+        out["source_ids"] = ids
+        out["sources"] = self.expand_sources(ids)
+        return out
+
     def public(self, record: dict[str, Any]) -> dict[str, Any]:
         return {k: v for k, v in record.items() if not k.startswith("_")}
 

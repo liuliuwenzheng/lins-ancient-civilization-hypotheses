@@ -1,0 +1,19 @@
+{
+  "id": "src-egypt-unesco-memphis-86",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur (list 86).",
+  "url": "https://whc.unesco.org/en/list/86/",
+  "access_date": "2026-10-13",
+  "reliability_tier": "T",
+  "notes": "WHC 86 official property page (gallery/description outbound). Tier T. Verified 2026-10-13. No binary ingest.",
+  "editorial": {
+    "derived_from": [
+      "https://whc.unesco.org/en/list/86/",
+      "docs/entry-detail-ui.md",
+      "docs/decisions.md#d-2026-10-13-10"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Pilot outbound visual pairing (D-2026-10-13-10). URL verified live."
+  }
+}

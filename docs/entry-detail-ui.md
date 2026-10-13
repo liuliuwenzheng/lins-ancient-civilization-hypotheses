@@ -2,7 +2,7 @@
 
 [中文](entry-detail-ui.zh.md) | English
 
-> Unlock **existing** archive depth in `/ui`. Prefer surfacing registered markdown report columns over generating new prose. Related: [`entry-depth.md`](entry-depth.md) · [`design-taste.md`](design-taste.md) · [`council.md`](council.md) · decision **D-2026-10-13-09**.
+> Unlock **existing** archive depth in `/ui`. Prefer surfacing registered markdown report columns over generating new prose. Related: [`entry-depth.md`](entry-depth.md) · [`design-taste.md`](design-taste.md) · [`council.md`](council.md) · decisions **D-2026-10-13-09**, **D-2026-10-13-10**.
 
 ---
 
@@ -56,9 +56,9 @@ Copy for the lineage strip (UI): short notice that the strip is **registered sou
 ## Secondary tabs
 
 1. **Sites** — name, summary, region, coordinates **only if** present and verified in JSON, expandable sources, linked claims (same civ bundle) that cite the site.
-2. **Periods** — name, time_span, summary (omit empty).
+2. **Periods** — chronological order (`approx_from_bce` desc, nulls last); show `time.label` (+ optional from–to BCE) and muted `scheme_note` when present; summary (omit empty). Spans are cited schemes, not a unique calendar.
 3. **Claims** — demoted from default; keep kind badges, source expansion, fact/hypothesis filter.
-4. **Objects / Media** — optional later if useful; v1 may omit if empty to avoid chrome.
+4. **Media** — registered outbound refs only: title, `media_type`, `rights.status` / attribution, outbound link button, expanded sources. If `outbound-link-only`, label as outbound document/catalog/gallery — **do not** pretend embeddable photos or invent thumbnails. Honest empty state when none.
 
 ## API shape (v1)
 
@@ -99,14 +99,31 @@ Response sketch:
 - Claim-kind filter applies when Claims tab is active (does not hide the report).
 - Taste: one accent, typography, honest empty states — see [`design-taste.md`](design-taste.md).
 
+## Image pairing gate（配图闸门）
+
+Register a media record only when **all** hold:
+
+| Gate | Requirement |
+|------|-------------|
+| URL | Stable public URL (WHC page, museum catalog, digitization landing, open PDF already cited) |
+| Rights | Clear for **outbound** link, or open license if ever hotlinking/embedding later |
+| Provenance | Caption / title + at least one `src-*` |
+| Honesty | No AI / forged artifact images; no decorative stock; `local_path` stays null |
+| Preference | Site maps, excavation-report digitizations, museum open collections, UNESCO galleries |
+
+Do **not** download copyrighted binaries into the repo. Thin packs may keep document-link media only until a verified visual URL exists.
+
 ## Non-goals (v1)
 
 - Generating new encyclopedia prose in the API
 - Auto-translating missing zh/en halves
-- Decorative “museum” imagery
+- Decorative “museum” imagery or invented thumbnails
 - Promoting hypotheses into report columns
+- Embedding third-party images without cleared rights
 
 ## Verification
 
 - `export_check` still passes (report parse is read-only presentation).
 - Curl Egypt + Mesopotamia `/report` → nonempty sections including Research history when present in markdown.
+- Curl `/periods?civilization=civ-ancient-egypt` → palaeolithic/badarian before naqada before old-kingdom (by `approx_from_bce`).
+- Curl `/media?civilization=…` → nonempty for packs with registered media; UI Media tab shows outbound cards without fake thumbnails.

@@ -1,0 +1,30 @@
+{
+  "id": "media-unesco-memphis-whc-86",
+  "entity": "media",
+  "title": {
+    "zh": "联合国教科文组织世界遗产：孟菲斯及其墓地（名录 86）",
+    "en": "UNESCO WHC: Memphis and its Necropolis (list 86)"
+  },
+  "media_type": "external-catalog",
+  "external_url": "https://whc.unesco.org/en/list/86/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-egypt-unesco-memphis-86"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/86/",
+    "notes": "Outbound WHC property page only (may include gallery embeds on UNESCO site). No forged artifact images; no unverified uploads into this repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-egypt-unesco-memphis-86.md",
+      "data/structured/egypt/"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "D-2026-10-13-10 media pairing pilot; URL verified."
+  }
+}

@@ -319,6 +319,9 @@ paths:
     get:
       tags: [archive]
       summary: Archive periods list
+      description: >
+        Sorted chronologically by time.approx_from_bce descending (older/higher BCE first),
+        then approx_to_bce descending, then id; nulls last. Spans are cited schemes, not a unique calendar.
       parameters:
         - $ref: "#/components/parameters/limit"
         - $ref: "#/components/parameters/after"

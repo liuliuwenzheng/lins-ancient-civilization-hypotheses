@@ -1,0 +1,30 @@
+{
+  "id": "media-unesco-ahwar-whc-1481",
+  "entity": "media",
+  "title": {
+    "zh": "联合国教科文组织世界遗产：伊拉克南部阿赫瓦尔 / 两河城市遗迹景观（名录 1481）",
+    "en": "UNESCO WHC: Ahwar of Southern Iraq / Mesopotamian Cities (list 1481)"
+  },
+  "media_type": "external-catalog",
+  "external_url": "https://whc.unesco.org/en/list/1481/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-mesopotamia-unesco-ahwar-1481"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/1481/",
+    "notes": "Outbound WHC property page only. Covers Uruk, Ur, Eridu among components. No forged artifact images; no unverified uploads into this repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "sources/src-mesopotamia-unesco-ahwar-1481.md",
+      "data/structured/mesopotamia/"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "D-2026-10-13-10 media pairing pilot; URL verified."
+  }
+}

@@ -228,6 +228,11 @@
     .site-claims { margin-top: 10px; font-family: var(--sans); font-size: 13px; }
     .site-claims summary { cursor: pointer; color: var(--accent); }
     .muted-inline { color: var(--muted); }
+
+    .scheme-note { font-family: var(--sans); font-size: 12px; color: var(--muted); margin: 0 0 8px; }
+    .media-meta { font-family: var(--sans); font-size: 13px; color: var(--muted); margin: 6px 0; }
+    .media-actions { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .badge.outbound { color: var(--muted); background: color-mix(in srgb, var(--line) 55%, transparent); text-transform: none; letter-spacing: 0.02em; }
   </style>
 </head>
 <body>
@@ -296,6 +301,13 @@
         sites: "Sites",
         periods: "Periods",
         claims: "Claims",
+        media: "Media",
+        openLink: "Open outbound link",
+        outboundOnly: "Outbound reference — not an embeddable photo",
+        mediaEmpty: "No registered media for this civilization yet.",
+        rights: "Rights",
+        mediaType: "Type",
+        attribution: "Attribution",
         region: "Region",
         time: "Time span",
         sources: "Sources",
@@ -330,6 +342,13 @@
         sites: "遗址",
         periods: "分期",
         claims: "主张",
+        media: "媒体",
+        openLink: "打开外链",
+        outboundOnly: "外链资料 — 非可嵌图片",
+        mediaEmpty: "该文明尚无已登记媒体。",
+        rights: "权利状态",
+        mediaType: "类型",
+        attribution: "署名",
         region: "区域",
         time: "年代跨度",
         sources: "来源",
@@ -506,7 +525,7 @@
     }
 
     async function ensureBundle(civId) {
-      if (state.cache[civId]?.sites) {
+      if (state.cache[civId]?.sites && Array.isArray(state.cache[civId].media)) {
         // refresh report if missing
         if (!state.cache[civId].report) {
           try {
@@ -517,12 +536,13 @@
         }
         return state.cache[civId];
       }
-      const [sites, periods, claims, report, sources] = await Promise.all([
+      const [sites, periods, claims, report, sources, media] = await Promise.all([
         api(`/api/v1/sites?civilization=${encodeURIComponent(civId)}&limit=200`),
         api(`/api/v1/periods?civilization=${encodeURIComponent(civId)}&limit=200`),
         api(`/api/v1/claims?civilization=${encodeURIComponent(civId)}&limit=200`),
         api(`/api/v1/civilizations/${encodeURIComponent(civId)}/report`).catch(() => ({ available: false, sections: [] })),
         api(`/api/v1/sources?civilization=${encodeURIComponent(civId)}&limit=200`).catch(() => ({ items: [] })),
+        api(`/api/v1/media?civilization=${encodeURIComponent(civId)}&limit=200`).catch(() => ({ items: [] })),
       ]);
       const bundle = {
         sites: sites.items || [],
@@ -530,6 +550,7 @@
         claims: claims.items || [],
         report: report || { available: false, sections: [] },
         sources: sources.items || [],
+        media: media.items || [],
       };
       state.cache[civId] = bundle;
       return bundle;
@@ -646,18 +667,116 @@
       }).join("");
     }
 
+    function sortPeriodsChrono(list) {
+      return [...list].sort((a, b) => {
+        const ta = a.time || {};
+        const tb = b.time || {};
+        const af = ta.approx_from_bce;
+        const bf = tb.approx_from_bce;
+        const aNull = af == null;
+        const bNull = bf == null;
+        if (aNull !== bNull) return aNull ? 1 : -1;
+        if (!aNull && af !== bf) return bf - af;
+        const at = ta.approx_to_bce;
+        const bt = tb.approx_to_bce;
+        const atN = at == null;
+        const btN = bt == null;
+        if (atN !== btN) return atN ? 1 : -1;
+        if (!atN && at !== bt) return bt - at;
+        return String(a.id || "").localeCompare(String(b.id || ""));
+      });
+    }
+
+    function periodTimeBits(p) {
+      const tm = p.time || {};
+      const label = tm.label || "";
+      let fromTo = "";
+      if (tm.approx_from_bce != null || tm.approx_to_bce != null) {
+        const a = tm.approx_from_bce != null ? String(tm.approx_from_bce) : "?";
+        const b = tm.approx_to_bce != null ? String(tm.approx_to_bce) : "?";
+        fromTo = `${a}–${b} BCE`;
+      }
+      return { label, fromTo, scheme: tm.scheme_note || "" };
+    }
+
     function renderPeriods(periods) {
-      let list = periods;
+      let list = sortPeriodsChrono(periods || []);
       if (state.q.trim()) {
-        list = list.filter((p) => matchQ([p.id, nameOf(p), txt(p.summary), p.time_span || ""].join(" ")));
+        list = list.filter((p) => {
+          const bits = periodTimeBits(p);
+          return matchQ([p.id, nameOf(p), txt(p.summary), bits.label, bits.fromTo, bits.scheme].join(" "));
+        });
       }
       if (!list.length) return `<div class="empty">${esc(t("emptyTab"))}</div>`;
-      return list.map((p) => `
-        <article class="card">
+      return list.map((p) => {
+        const bits = periodTimeBits(p);
+        const subParts = [p.id];
+        if (bits.label) subParts.push(bits.label);
+        else if (bits.fromTo) subParts.push(bits.fromTo);
+        const scheme = bits.scheme
+          ? `<p class="scheme-note">${esc(bits.scheme)}</p>`
+          : "";
+        const fromToLine = (bits.label && bits.fromTo)
+          ? `<p class="scheme-note">${esc(bits.fromTo)}</p>`
+          : "";
+        return `<article class="card">
           <h3>${esc(nameOf(p))}</h3>
-          <div class="sub id-mono">${esc(p.id)}${p.time_span ? " · " + esc(p.time_span) : ""}</div>
+          <div class="sub id-mono">${esc(subParts.join(" · "))}</div>
+          ${fromToLine}
+          ${scheme}
           <p>${esc(txt(p.summary) || "")}</p>
-        </article>`).join("");
+        </article>`;
+      }).join("");
+    }
+
+    function mediaTypeLabel(mt) {
+      const map = {
+        "document-link": state.lang === "zh" ? "文档外链" : "Document link",
+        "external-catalog": state.lang === "zh" ? "外部目录" : "External catalog",
+        "outbound-image-ref": state.lang === "zh" ? "图像外链" : "Outbound image ref",
+        other: state.lang === "zh" ? "其他" : "Other",
+      };
+      return map[mt] || mt || "—";
+    }
+
+    function renderMedia(mediaList) {
+      let list = mediaList || [];
+      if (state.q.trim()) {
+        list = list.filter((m) => matchQ([
+          m.id, txt(m.title), m.media_type,
+          (m.rights && m.rights.status) || "",
+          (m.rights && m.rights.attribution) || "",
+          m.external_url || "",
+        ].join(" ")));
+      }
+      if (!list.length) return `<div class="empty">${esc(t("mediaEmpty"))}</div>`;
+      return list.map((m) => {
+        const rights = m.rights || {};
+        const status = rights.status || "unknown";
+        const outbound = status === "outbound-link-only";
+        const badge = outbound
+          ? `<span class="badge outbound">${esc(state.lang === "zh" ? "外链资料" : "Outbound only")}</span>`
+          : `<span class="badge fact">${esc(status)}</span>`;
+        const note = outbound
+          ? `<p class="media-meta">${esc(t("outboundOnly"))}</p>`
+          : "";
+        const attr = rights.attribution
+          ? `<p class="media-meta"><strong>${esc(t("attribution"))}:</strong> ${esc(rights.attribution)}</p>`
+          : "";
+        const link = m.external_url
+          ? `<div class="media-actions"><a class="btn primary" href="${esc(m.external_url)}" target="_blank" rel="noopener noreferrer">${esc(t("openLink"))}</a></div>`
+          : "";
+        return `<article class="card">
+          <div>${badge}<span class="id-mono">${esc(m.id)}</span></div>
+          <h3 style="margin-top:8px;">${esc(txt(m.title) || m.id)}</h3>
+          <p class="media-meta"><strong>${esc(t("mediaType"))}:</strong> ${esc(mediaTypeLabel(m.media_type))}
+            · <strong>${esc(t("rights"))}:</strong> ${esc(status)}</p>
+          ${note}
+          ${attr}
+          ${link}
+          ${renderSources(m)}
+        </article>`;
+      }).join("");
     }
 
     async function renderDetail() {
@@ -680,11 +799,13 @@
           ["sites", t("sites"), bundle.sites.length],
           ["periods", t("periods"), bundle.periods.length],
           ["claims", t("claims"), bundle.claims.length],
+          ["media", t("media"), (bundle.media || []).length],
         ];
         let body = "";
         if (state.tab === "sites") body = renderSites(bundle.sites, bundle.claims);
         else if (state.tab === "periods") body = renderPeriods(bundle.periods);
         else if (state.tab === "claims") body = renderClaims(bundle.claims);
+        else if (state.tab === "media") body = renderMedia(bundle.media || []);
         else body = renderReport(bundle);
 
         el.innerHTML = `

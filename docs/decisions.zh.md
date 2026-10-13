@@ -1154,3 +1154,15 @@
 
 **实现要点：** 解析器尽力拆 `body_zh`/`body_en`，始终保留 `body_md`；遗址卡可展开来源/关联主张/已有坐标；`export_check` 闸门不变。
 
+### D-2026-10-13-10 — 分期按年代排序 + 诚实「媒体」页签
+
+**决定：** `/api/v1/periods` 按年代排序：主键 `time.approx_from_bce` **降序**（更早 / BCE 数值更大者在前），其次 `approx_to_bce` 降序，再 `id`；**空值靠后**。年代跨度是**引证方案**（`time.label` / `scheme_note`），不是唯一历法。UI 分期展示 `time.label`（及可选起讫）与淡化的 `scheme_note`；客户端同序作安全网。新增次级页签 **媒体**（默认仍为档案报告）：拉取 `/api/v1/media?civilization=…`，展开来源；卡片含标题 / 类型 / 权利 / 外链按钮——**绝不**伪造缩略图。`outbound-link-only` 标为「外链资料」，不当作可嵌图片。
+
+**配图闸门：** 仅当 (a) 稳定公开 URL，(b) 外链权利清晰（或未来热链/嵌入的开放许可），(c) 说明 + `src-*`，(d) 无 AI/伪造文物图，(e) 优先遗址图、发掘报告数字化本、博物馆开放目录、已核验的教科文组织 WHC 页。不把受版权二进制收入仓；不做装饰性图库。
+
+**试点：** 埃及、两河各增 1 条已核验 UNESCO WHC 外链目录媒体（+ T 档来源）：孟菲斯名录 86；伊拉克南部阿赫瓦尔名录 1481。原有文档/目录外链仍为主体。
+
+**设计：** [`docs/entry-detail-ui.zh.md`](entry-detail-ui.zh.md) · [English](entry-detail-ui.md)
+
+**实现：** API `_period_sort_key`；`enrich_media`；UI 媒体页签；`export_check` 闸门不变（仅新增记录）。
+

@@ -1,0 +1,19 @@
+{
+  "id": "src-mesopotamia-unesco-ahwar-1481",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO World Heritage Centre. The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities (list 1481).",
+  "url": "https://whc.unesco.org/en/list/1481/",
+  "access_date": "2026-10-13",
+  "reliability_tier": "T",
+  "notes": "WHC 1481 (Uruk, Ur, Eridu + marshes). Tier T. Verified 2026-10-13. No binary ingest.",
+  "editorial": {
+    "derived_from": [
+      "https://whc.unesco.org/en/list/1481/",
+      "docs/entry-detail-ui.md",
+      "docs/decisions.md#d-2026-10-13-10"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Pilot outbound visual pairing (D-2026-10-13-10). URL verified live."
+  }
+}
