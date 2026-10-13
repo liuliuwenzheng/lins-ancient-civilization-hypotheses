@@ -1,0 +1,43 @@
+{
+  "id": "asm-moche-metallurgy-seed-m",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "冶金组合",
+    "en": "Metallurgy Seed M assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-metallurgy-seed-m"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "冶金。",
+    "en": "Metallurgy.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-metallurgy-seed-m",
+    "src-moche-sipan-seed-m"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

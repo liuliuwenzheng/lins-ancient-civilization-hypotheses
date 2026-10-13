@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-burial-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "班清墓地",
+    "en": "Ban Chiang burials Seed M",
+    "native": null
+  },
+  "kind_note": "Cemetery",
+  "region": "Ban Chiang",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "墓地。",
+    "en": "Burials.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-burial-seed-m",
+    "src-banchiang-gorman-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

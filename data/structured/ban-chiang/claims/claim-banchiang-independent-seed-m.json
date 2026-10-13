@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-independent-seed-m",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "东南亚青铜是否独立发明仍属假说性讨论。",
+    "en": "Whether SE Asian bronze was independently invented remains hypothetical.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-banchiang-bronze-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-metallurgy-seed-m",
+    "src-banchiang-white-seed-m"
+  ],
+  "disclaimer": "Independent-invention vs. diffusion models remain open.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

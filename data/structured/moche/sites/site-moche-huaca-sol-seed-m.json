@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-huaca-sol-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "太阳金字塔",
+    "en": "Huaca del Sol Seed M",
+    "native": null
+  },
+  "kind_note": "Pyramid",
+  "region": "Moche Valley",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "太阳金字塔。",
+    "en": "Huaca del Sol.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-huaca-sol-seed-m",
+    "src-moche-quilter-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

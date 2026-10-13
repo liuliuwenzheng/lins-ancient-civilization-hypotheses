@@ -1,0 +1,33 @@
+{
+  "id": "site-korea-iron-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "早期铁器",
+    "en": "Early iron Seed M",
+    "native": null
+  },
+  "kind_note": "Iron",
+  "region": "Peninsula",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "铁器。",
+    "en": "Iron.",
+    "native": null
+  },
+  "sources": [
+    "src-korea-iron-seed-m",
+    "src-korea-chronology-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-banchiang-bronze-seed-m",
+  "entity": "period",
+  "names": {
+    "zh": "青铜时代窗SeedM",
+    "en": "Bronze Age Seed M",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "time": {
+    "label": "Bronze Age Ban Chiang",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Bronze Age Ban Chiang"
+  },
+  "summary": {
+    "zh": "青铜时代。",
+    "en": "Bronze Age.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-bronze-age-seed-m",
+    "src-banchiang-bronze-seed-m"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

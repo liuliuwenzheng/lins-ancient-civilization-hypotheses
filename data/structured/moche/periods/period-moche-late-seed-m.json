@@ -1,0 +1,36 @@
+{
+  "id": "period-moche-late-seed-m",
+  "entity": "period",
+  "names": {
+    "zh": "晚期/衰亡窗SeedM",
+    "en": "Late / collapse Seed M",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "Moche V / aftermath",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Moche V / aftermath"
+  },
+  "summary": {
+    "zh": "晚期衰亡。",
+    "en": "Late/collapse.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-galindo-seed-m",
+    "src-moche-collapse-seed-m"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-korea-lelang-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "乐浪郡是汉帝国在半岛北部的统治机构。",
+    "en": "Lelang was a Han imperial commandery in the northern peninsula.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-lelang-seed-m"
+  ],
+  "period_ids": [
+    "period-korea-protohistoric-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-korea-lelang-seed-m",
+    "src-korea-barnes-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-phases-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "莫切I–V期框架组织陶器与建筑序列。",
+    "en": "Moche I–V frameworks organize ceramic and architectural sequences.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-phases-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-phases-seed-m",
+    "src-moche-ceramics-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

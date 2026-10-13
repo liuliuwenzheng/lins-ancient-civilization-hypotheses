@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-politics-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "莫切政治组织是多中心还是统一政体仍有讨论。",
+    "en": "Whether Moche politics were multi-centric or unified remains discussed.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-politics-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-politics-seed-m",
+    "src-moche-quilter-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

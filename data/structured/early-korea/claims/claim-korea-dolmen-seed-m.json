@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-dolmen-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "朝鲜半岛支石墓密度居世界前列。",
+    "en": "The Korean Peninsula has one of the world’s densest dolmen distributions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-dolmen-gochang-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-dolmen-seed-m",
+    "src-korea-unesco-976-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

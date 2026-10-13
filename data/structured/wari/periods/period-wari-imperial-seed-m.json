@@ -1,0 +1,36 @@
+{
+  "id": "period-wari-imperial-seed-m",
+  "entity": "period",
+  "names": {
+    "zh": "帝国扩张窗SeedM",
+    "en": "Imperial expansion Seed M",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "time": {
+    "label": "Middle Horizon expansion",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Middle Horizon expansion"
+  },
+  "summary": {
+    "zh": "帝国扩张。",
+    "en": "Imperial expansion.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-schreiber-seed-m",
+    "src-wari-pikillacta-seed-m"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-moche-floruit-seed-m",
+  "entity": "period",
+  "names": {
+    "zh": "繁荣窗SeedM",
+    "en": "Floruit Seed M",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "Moche III–IV",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Moche III–IV"
+  },
+  "summary": {
+    "zh": "繁荣期。",
+    "en": "Floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-huaca-luna-seed-m",
+    "src-moche-sipan-seed-m"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

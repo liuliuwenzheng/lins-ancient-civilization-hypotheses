@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-writing-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "汉字系统逐渐被半岛政权采纳。",
+    "en": "Chinese script systems were gradually adopted by peninsular polities.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-writing-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-writing-seed-m",
+    "src-korea-lelang-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

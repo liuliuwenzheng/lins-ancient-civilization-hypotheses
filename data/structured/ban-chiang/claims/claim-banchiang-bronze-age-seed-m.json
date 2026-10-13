@@ -1,0 +1,34 @@
+{
+  "id": "claim-banchiang-bronze-age-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "青铜时代阶段以金属与彩陶共出为特征。",
+    "en": "The Bronze Age phase features metals alongside painted pottery.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-bronze-age-seed-m"
+  ],
+  "period_ids": [
+    "period-banchiang-bronze-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-bronze-age-seed-m",
+    "src-banchiang-bronze-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-korea-gyeongju-wh-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "庆州遗产区",
+    "en": "Gyeongju WH areas Seed M",
+    "native": null
+  },
+  "kind_note": "UNESCO",
+  "region": "Gyeongju",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "庆州遗产。",
+    "en": "Gyeongju WH.",
+    "native": null
+  },
+  "sources": [
+    "src-korea-unesco-977-seed-m",
+    "src-korea-silla-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

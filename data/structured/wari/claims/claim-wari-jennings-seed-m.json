@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-jennings-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Jennings 等讨论瓦里墙外的互动与地方能动性。",
+    "en": "Jennings and related work discuss interaction and local agency beyond Wari walls.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-jennings-seed-m",
+    "src-wari-cerro-baul-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

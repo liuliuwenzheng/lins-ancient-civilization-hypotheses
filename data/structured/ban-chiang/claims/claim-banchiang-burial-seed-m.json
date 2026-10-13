@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-burial-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "分层墓葬序列是班清编年的关键依据。",
+    "en": "Stratified burial sequences are central to Ban Chiang chronology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-burial-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-burial-seed-m",
+    "src-banchiang-gorman-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

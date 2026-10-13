@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-bioarch-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "生物考古",
+    "en": "Bioarchaeology Seed M",
+    "native": null
+  },
+  "kind_note": "Human remains",
+  "region": "Ban Chiang",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "生物考古。",
+    "en": "Bioarch.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-bioarch-seed-m",
+    "src-banchiang-burial-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-collapse-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "衰亡取向",
+    "en": "Collapse orientation Seed M",
+    "native": null
+  },
+  "kind_note": "Collapse",
+  "region": "Ayacucho",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "衰亡。",
+    "en": "Collapse.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-collapse-seed-m",
+    "src-wari-chronology-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

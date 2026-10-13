@@ -1,0 +1,33 @@
+{
+  "id": "site-korea-songgukri-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "松菊里",
+    "en": "Songguk-ri Seed M",
+    "native": null
+  },
+  "kind_note": "Mumun settlement",
+  "region": "Buyeo region",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "松菊里。",
+    "en": "Songguk-ri.",
+    "native": null
+  },
+  "sources": [
+    "src-korea-songgukri-seed-m",
+    "src-korea-mumun-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

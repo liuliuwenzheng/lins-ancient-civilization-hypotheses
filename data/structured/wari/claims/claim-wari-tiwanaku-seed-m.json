@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-tiwanaku-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦里与蒂瓦纳科存在中地平线互动讨论。",
+    "en": "Wari–Tiwanaku interaction is discussed for the Middle Horizon.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-tiwanaku-contact-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-tiwanaku-seed-m",
+    "src-wari-isbell-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

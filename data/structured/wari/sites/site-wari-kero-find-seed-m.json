@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-kero-find-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "克罗杯出土",
+    "en": "Kero find orientation Seed M",
+    "native": null
+  },
+  "kind_note": "Vessels",
+  "region": "Wari sphere",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "克罗杯。",
+    "en": "Keros.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-kero-seed-m",
+    "src-wari-cook-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

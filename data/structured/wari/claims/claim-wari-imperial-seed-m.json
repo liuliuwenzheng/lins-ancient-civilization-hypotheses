@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-imperial-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "中地平线扩张以行政中心与道路为标志。",
+    "en": "Middle Horizon expansion is marked by admin centres and roads.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-wari-imperial-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-schreiber-seed-m",
+    "src-wari-pikillacta-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-korea-mumun-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "无文时代以无文陶器与定居村落为特征。",
+    "en": "The Mumun period is marked by Mumun pottery and settled villages.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-mumun-village-seed-m"
+  ],
+  "period_ids": [
+    "period-korea-mumun-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-korea-mumun-seed-m",
+    "src-korea-nelson-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

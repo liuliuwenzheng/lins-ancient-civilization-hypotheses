@@ -1,0 +1,36 @@
+{
+  "id": "period-banchiang-neolithic-seed-m",
+  "entity": "period",
+  "names": {
+    "zh": "新石器窗SeedM",
+    "en": "Neolithic Seed M",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "time": {
+    "label": "Neolithic Ban Chiang",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Neolithic Ban Chiang"
+  },
+  "summary": {
+    "zh": "新石器。",
+    "en": "Neolithic.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-neolithic-seed-m",
+    "src-banchiang-higham-seed-m"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-cahokia-countryside-seed-m",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乡村腹地组合",
+    "en": "Countryside Seed M assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-countryside-seed-m"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "腹地。",
+    "en": "Countryside.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-emerson-seed-m",
+    "src-cahokia-maize-seed-m"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

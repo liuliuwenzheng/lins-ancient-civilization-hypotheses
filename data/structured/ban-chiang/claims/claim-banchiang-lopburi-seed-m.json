@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-lopburi-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "华富里等地区冶金帮助理解区域金属网络。",
+    "en": "Lopburi-region metallurgy helps frame regional metal networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-lopburi-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-lopburi-seed-m",
+    "src-banchiang-metallurgy-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

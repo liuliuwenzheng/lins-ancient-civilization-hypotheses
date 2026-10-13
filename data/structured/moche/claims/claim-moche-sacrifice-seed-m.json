@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-sacrifice-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "月亮金字塔3A广场出土祭祀遗存。",
+    "en": "Plaza 3A at Huaca de la Luna yields sacrifice remains.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-plaza3a-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-sacrifice-seed-m",
+    "src-moche-huaca-luna-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

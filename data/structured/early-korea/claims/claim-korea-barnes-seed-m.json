@@ -1,0 +1,30 @@
+{
+  "id": "claim-korea-barnes-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Barnes 等讨论东亚早期国家形成比较。",
+    "en": "Barnes and related work discuss comparative East Asian state formation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-barnes-seed-m",
+    "src-korea-goguryeo-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

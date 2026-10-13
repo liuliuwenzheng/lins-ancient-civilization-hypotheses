@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-rice-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "稻作取向",
+    "en": "Rice agriculture Seed M",
+    "native": null
+  },
+  "kind_note": "Agriculture",
+  "region": "NE Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "稻作。",
+    "en": "Rice.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-rice-seed-m",
+    "src-banchiang-higham-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-unesco-976-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录976将高敞—和顺—江华支石墓遗址列为世界遗产。",
+    "en": "UNESCO list 976 designates Gochang–Hwasun–Ganghwa dolmen sites as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-dolmen-gochang-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-unesco-976-seed-m",
+    "src-korea-dolmen-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

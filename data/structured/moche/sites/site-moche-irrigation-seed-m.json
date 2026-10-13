@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-irrigation-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "灌溉渠系",
+    "en": "Irrigation canals Seed M",
+    "native": null
+  },
+  "kind_note": "Agriculture",
+  "region": "North coast",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "灌溉。",
+    "en": "Irrigation.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-irrigation-seed-m",
+    "src-moche-quilter-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

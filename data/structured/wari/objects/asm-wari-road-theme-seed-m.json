@@ -1,0 +1,43 @@
+{
+  "id": "asm-wari-road-theme-seed-m",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "道路网组合",
+    "en": "Road-network assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-road-seed-m"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "道路。",
+    "en": "Roads.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-road-seed-m",
+    "src-wari-schreiber-seed-m"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

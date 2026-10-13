@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-schreiber-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Schreiber 等讨论瓦里帝国主义与行省控制。",
+    "en": "Schreiber and related work discuss Wari imperialism and provincial control.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-wari-imperial-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-schreiber-seed-m",
+    "src-wari-jincamocco-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

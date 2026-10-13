@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-cook-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Cook 等推进瓦里艺术与仪式研究。",
+    "en": "Cook and related work advance Wari art and ritual studies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-cook-seed-m",
+    "src-wari-conchopata-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

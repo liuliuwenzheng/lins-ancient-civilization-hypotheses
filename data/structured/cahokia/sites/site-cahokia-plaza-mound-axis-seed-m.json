@@ -1,0 +1,33 @@
+{
+  "id": "site-cahokia-plaza-mound-axis-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "广场—墩轴线",
+    "en": "Plaza–mound axis Seed M",
+    "native": null
+  },
+  "kind_note": "Urban plan",
+  "region": "Cahokia",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "轴线。",
+    "en": "Axis.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-grand-plaza-seed-m",
+    "src-cahokia-monks-mound-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

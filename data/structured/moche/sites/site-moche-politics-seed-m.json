@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-politics-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "政治组织",
+    "en": "Political organization Seed M",
+    "native": null
+  },
+  "kind_note": "Politics",
+  "region": "North coast",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "政治。",
+    "en": "Politics.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-politics-seed-m",
+    "src-moche-quilter-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

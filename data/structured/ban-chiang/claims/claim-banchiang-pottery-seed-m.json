@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-pottery-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "班清彩陶是遗址最广为人知的物质标志。",
+    "en": "Ban Chiang painted pottery is the site’s best-known material hallmark.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-pottery-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-pottery-seed-m",
+    "src-banchiang-white-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

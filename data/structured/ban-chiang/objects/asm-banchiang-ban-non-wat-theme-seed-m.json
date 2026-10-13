@@ -1,0 +1,43 @@
+{
+  "id": "asm-banchiang-ban-non-wat-theme-seed-m",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "班农瓦组合",
+    "en": "Ban Non Wat assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-ban-non-wat-seed-m"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "班农瓦。",
+    "en": "Ban Non Wat.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-ban-non-wat-seed-m",
+    "src-banchiang-higham-seed-m"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

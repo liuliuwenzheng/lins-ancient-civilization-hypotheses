@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-jincamocco-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "辛卡莫科是行省行政定居点。",
+    "en": "Jincamocco is a provincial administrative settlement.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-jincamocco-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-jincamocco-seed-m",
+    "src-wari-schreiber-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

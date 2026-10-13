@@ -1,0 +1,34 @@
+{
+  "id": "claim-cahokia-lohmann-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "洛曼期是卡霍基亚快速扩张窗口。",
+    "en": "The Lohmann phase is a rapid Cahokia expansion window.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-lohmann-seed-m"
+  ],
+  "period_ids": [
+    "period-cahokia-lohmann-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-lohmann-seed-m",
+    "src-cahokia-pauketat-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-wari-d-temple-theme-seed-m",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "D形神庙组合",
+    "en": "D-temple assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-d-temple-seed-m"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "D形神庙。",
+    "en": "D-temples.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-d-shaped-seed-m",
+    "src-wari-isbell-seed-m"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

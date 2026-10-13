@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-galindo-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "加林多",
+    "en": "Galindo Seed M",
+    "native": null
+  },
+  "kind_note": "Late centre",
+  "region": "Moche Valley",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "加林多。",
+    "en": "Galindo.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-galindo-seed-m",
+    "src-moche-collapse-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

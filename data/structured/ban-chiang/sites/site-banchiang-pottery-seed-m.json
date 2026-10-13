@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-pottery-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "彩陶出土",
+    "en": "Painted pottery find Seed M",
+    "native": null
+  },
+  "kind_note": "Pottery",
+  "region": "Ban Chiang",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "彩陶。",
+    "en": "Pottery.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-pottery-seed-m",
+    "src-banchiang-white-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

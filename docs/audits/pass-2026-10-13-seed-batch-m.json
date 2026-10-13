@@ -1,0 +1,125 @@
+{
+  "decision": "D-2026-10-13-07",
+  "date": "2026-10-13",
+  "packs": [
+    {
+      "pack": "wari",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 7
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 10
+      },
+      "civ_id": "civ-wari",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "ban-chiang",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-ban-chiang",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "early-korea",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-early-korea",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "moche",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 7
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 10
+      },
+      "civ_id": "civ-moche",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "cahokia",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-cahokia",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 115,
+    "sites": 100,
+    "periods": 15,
+    "objects": 160,
+    "claims": 130,
+    "media": 15
+  },
+  "status_note": "All five packs remain library-seed-rich (not promoted to fact-library)."
+}

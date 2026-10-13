@@ -1,0 +1,34 @@
+{
+  "id": "claim-banchiang-neolithic-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "新石器阶段早于青铜广泛使用。",
+    "en": "The Neolithic phase precedes widespread bronze use.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-neolithic-seed-m"
+  ],
+  "period_ids": [
+    "period-banchiang-neolithic-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-neolithic-seed-m",
+    "src-banchiang-higham-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

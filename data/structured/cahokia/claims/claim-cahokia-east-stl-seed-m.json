@@ -1,0 +1,32 @@
+{
+  "id": "claim-cahokia-east-stl-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "东圣路易斯区是卡霍基亚城市系统的一部分。",
+    "en": "The East St. Louis precinct was part of Cahokia’s urban system.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-east-st-louis-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-east-st-louis-seed-m",
+    "src-cahokia-emerson-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

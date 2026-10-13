@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-castillo-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Castillo 等推进圣何塞德莫罗编年与葬俗。",
+    "en": "Castillo and related work advance San José de Moro chronology and mortuary practice.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-san-jose-moro-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-castillo-seed-m",
+    "src-moche-san-jose-moro-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-banchiang-iron-age-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "铁器时代阶段延续并改造早期村落传统。",
+    "en": "The Iron Age phase continues and transforms earlier village traditions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-iron-age-seed-m"
+  ],
+  "period_ids": [
+    "period-banchiang-iron-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-iron-age-seed-m",
+    "src-banchiang-iron-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

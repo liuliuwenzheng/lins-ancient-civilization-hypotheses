@@ -1,0 +1,32 @@
+{
+  "id": "claim-cahokia-city-seed-m",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "卡霍基亚是否称为“城市”仍有定义争论。",
+    "en": "Whether Cahokia should be called a “city” remains definitionally debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-cahokia-stirling-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-pauketat-seed-m",
+    "src-cahokia-milner-seed-m"
+  ],
+  "disclaimer": "Urban definitions for Mississippian centres remain contested.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

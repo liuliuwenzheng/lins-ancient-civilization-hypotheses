@@ -1,0 +1,30 @@
+{
+  "id": "claim-banchiang-white-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "White 等推进班清测年与金属研究。",
+    "en": "White and related work advance Ban Chiang dating and metals research.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-white-seed-m",
+    "src-banchiang-dating-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "claim-cahokia-plaza-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大广场是卡霍基亚礼仪与集会核心空间。",
+    "en": "The Grand Plaza is Cahokia’s ritual and gathering core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-grand-plaza-seed-m"
+  ],
+  "period_ids": [
+    "period-cahokia-stirling-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-grand-plaza-seed-m",
+    "src-cahokia-fowler-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

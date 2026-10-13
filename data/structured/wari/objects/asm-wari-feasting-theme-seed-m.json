@@ -1,0 +1,43 @@
+{
+  "id": "asm-wari-feasting-theme-seed-m",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "宴饮组合",
+    "en": "Feasting assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-feasting-seed-m"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "宴饮。",
+    "en": "Feasting.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-conchopata-seed-m",
+    "src-wari-cook-seed-m"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

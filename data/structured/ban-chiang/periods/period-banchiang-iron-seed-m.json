@@ -1,0 +1,36 @@
+{
+  "id": "period-banchiang-iron-seed-m",
+  "entity": "period",
+  "names": {
+    "zh": "铁器时代窗SeedM",
+    "en": "Iron Age Seed M",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "time": {
+    "label": "Iron Age Ban Chiang",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Iron Age Ban Chiang"
+  },
+  "summary": {
+    "zh": "铁器时代。",
+    "en": "Iron Age.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-iron-age-seed-m",
+    "src-banchiang-iron-seed-m"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

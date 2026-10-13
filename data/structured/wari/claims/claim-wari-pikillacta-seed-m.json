@@ -1,0 +1,34 @@
+{
+  "id": "claim-wari-pikillacta-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "皮基利亚克塔是库斯科地区大型行政中心。",
+    "en": "Pikillacta is a major administrative centre in the Cuzco region.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-pikillacta-seed-m"
+  ],
+  "period_ids": [
+    "period-wari-imperial-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-pikillacta-seed-m",
+    "src-wari-mcewan-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

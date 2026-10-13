@@ -1,0 +1,36 @@
+{
+  "id": "period-moche-early-seed-m",
+  "entity": "period",
+  "names": {
+    "zh": "早期莫切窗SeedM",
+    "en": "Early Moche Seed M",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "Moche I–II",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Moche I–II"
+  },
+  "summary": {
+    "zh": "早期莫切。",
+    "en": "Early Moche.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-phases-seed-m",
+    "src-moche-chronology-seed-m"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

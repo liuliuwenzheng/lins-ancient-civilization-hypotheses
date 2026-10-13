@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-trade-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "黄海交换连接半岛与中国大陆沿海。",
+    "en": "Yellow Sea exchange linked the peninsula to the Chinese coast.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-trade-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-trade-seed-m",
+    "src-korea-barnes-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

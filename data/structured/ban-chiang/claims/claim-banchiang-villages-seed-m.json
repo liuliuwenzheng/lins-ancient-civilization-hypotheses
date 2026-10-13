@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-villages-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "村落形态研究重建东北泰定居格局。",
+    "en": "Village-pattern studies reconstruct NE Thai settlement.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-village-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-villages-seed-m",
+    "src-banchiang-higham-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

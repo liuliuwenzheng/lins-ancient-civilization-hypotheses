@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-empire-seed-m",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "瓦里是否构成“帝国”仍属定义性争论。",
+    "en": "Whether Wari constituted an “empire” remains a definitional debate.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-wari-imperial-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-schreiber-seed-m",
+    "src-wari-jennings-seed-m"
+  ],
+  "disclaimer": "Empire vs. hegemony models differ; not asserted as settled empire.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-unesco-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录366将昌昌考古区列为世界遗产，用作北海岸区域取向。",
+    "en": "UNESCO list 366 designates Chan Chan Archaeological Zone as World Heritage, used here as north-coast regional orientation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-chan-chan-orient-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-unesco-366-seed-m",
+    "src-moche-quilter-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-collapse-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "衰亡争论",
+    "en": "Collapse debate Seed M",
+    "native": null
+  },
+  "kind_note": "Collapse",
+  "region": "North coast",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "衰亡。",
+    "en": "Collapse.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-collapse-seed-m",
+    "src-moche-galindo-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-pikillacta-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "皮基利亚克塔",
+    "en": "Pikillacta Seed M",
+    "native": null
+  },
+  "kind_note": "Admin centre",
+  "region": "Cuzco region",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "行政中心。",
+    "en": "Admin centre.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-pikillacta-seed-m",
+    "src-wari-mcewan-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

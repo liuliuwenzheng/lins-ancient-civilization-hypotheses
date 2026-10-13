@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-slim-dagger-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "细形铜剑是韩国青铜时代标志器物。",
+    "en": "Slim bronze daggers are a hallmark Korean Bronze Age artifact.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-slim-dagger-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-slim-dagger-seed-m",
+    "src-korea-bronze-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

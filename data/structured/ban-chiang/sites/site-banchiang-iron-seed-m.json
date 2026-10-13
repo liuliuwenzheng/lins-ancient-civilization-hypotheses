@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-iron-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "铁器语境",
+    "en": "Iron context Seed M",
+    "native": null
+  },
+  "kind_note": "Iron",
+  "region": "Ban Chiang",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "铁器。",
+    "en": "Iron.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-iron-seed-m",
+    "src-banchiang-iron-age-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

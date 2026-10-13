@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-three-kingdoms-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "三国早期政治体在半岛竞争与互动。",
+    "en": "Early Three Kingdoms polities competed and interacted on the peninsula.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-korea-three-kingdoms-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-korea-silla-seed-m",
+    "src-korea-baekje-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

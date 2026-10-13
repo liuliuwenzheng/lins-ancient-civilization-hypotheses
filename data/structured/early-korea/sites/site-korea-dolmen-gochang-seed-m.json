@@ -1,0 +1,33 @@
+{
+  "id": "site-korea-dolmen-gochang-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "高敞支石墓",
+    "en": "Gochang dolmens Seed M",
+    "native": null
+  },
+  "kind_note": "Dolmens",
+  "region": "Gochang",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "支石墓。",
+    "en": "Dolmens.",
+    "native": null
+  },
+  "sources": [
+    "src-korea-unesco-976-seed-m",
+    "src-korea-dolmen-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

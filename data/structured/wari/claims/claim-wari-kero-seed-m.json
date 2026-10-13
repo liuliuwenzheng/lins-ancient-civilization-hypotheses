@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-kero-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "克罗杯用于宴饮与礼仪饮酒。",
+    "en": "Keros were used in feasting and ritual drinking.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-kero-find-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-kero-seed-m",
+    "src-wari-cook-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-floruit-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "III–IV期常被视为莫切物质文化繁荣高峰。",
+    "en": "Phases III–IV are often seen as Moche material florescence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-floruit-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-huaca-luna-seed-m",
+    "src-moche-sipan-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

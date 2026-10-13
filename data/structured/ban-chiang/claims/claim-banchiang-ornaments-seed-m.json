@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-ornaments-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "贝饰与石饰常见于墓葬随葬。",
+    "en": "Shell and stone ornaments commonly accompany burials.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-ornaments-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-ornaments-seed-m",
+    "src-banchiang-burial-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

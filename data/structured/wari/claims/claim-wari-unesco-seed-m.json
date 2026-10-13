@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-unesco-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录273将库斯科列为世界遗产，用作安第斯高原区域取向。",
+    "en": "UNESCO list 273 designates City of Cuzco as World Heritage, used here as highland Andes regional orientation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-cuzco-orient-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-unesco-273-seed-m",
+    "src-wari-pikillacta-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

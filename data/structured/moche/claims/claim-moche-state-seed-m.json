@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-state-seed-m",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "莫切是否构成统一“国家”仍属假说讨论。",
+    "en": "Whether Moche constituted a unified “state” remains hypothetical.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-floruit-seed-m"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-politics-seed-m",
+    "src-moche-quilter-seed-m"
+  ],
+  "disclaimer": "Southern vs. northern Moche and state vs. peer-polity models differ.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

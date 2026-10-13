@@ -1,0 +1,33 @@
+{
+  "id": "site-cahokia-maize-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "玉米农业",
+    "en": "Maize agriculture Seed M",
+    "native": null
+  },
+  "kind_note": "Agriculture",
+  "region": "American Bottom",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "玉米。",
+    "en": "Maize.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-maize-seed-m",
+    "src-cahokia-emerson-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

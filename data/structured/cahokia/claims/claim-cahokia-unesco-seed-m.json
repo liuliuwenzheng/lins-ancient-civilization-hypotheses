@@ -1,0 +1,32 @@
+{
+  "id": "claim-cahokia-unesco-seed-m",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录198将卡霍基亚土墩州立历史遗址列为世界遗产。",
+    "en": "UNESCO list 198 designates Cahokia Mounds State Historic Site as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-unesco-core-seed-m"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-unesco-198-seed-m",
+    "src-cahokia-pauketat-seed-m"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

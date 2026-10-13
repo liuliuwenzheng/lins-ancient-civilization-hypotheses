@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-plaza3a-seed-m",
+  "entity": "site",
+  "names": {
+    "zh": "3A广场",
+    "en": "Plaza 3A Seed M",
+    "native": null
+  },
+  "kind_note": "Sacrifice plaza",
+  "region": "Huaca de la Luna",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "祭祀广场。",
+    "en": "Sacrifice plaza.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-sacrifice-seed-m",
+    "src-moche-huaca-luna-seed-m"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_m.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-07"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch M toward ~71 sources (D-2026-10-13-07). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
