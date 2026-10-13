@@ -1,0 +1,33 @@
+{
+  "id": "claim-korea-hwasun-ganghwa-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "和顺与江华支石墓群与高敞共同构成教科文支石墓遗产。",
+    "en": "Hwasun and Ganghwa dolmen clusters with Gochang form the UNESCO dolmen property.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-hwasun-seed-i",
+    "site-korea-ganghwa-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-dolmen-seed-i",
+    "src-korea-unesco-977-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

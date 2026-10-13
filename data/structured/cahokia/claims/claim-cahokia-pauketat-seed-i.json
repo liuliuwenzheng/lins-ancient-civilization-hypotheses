@@ -1,0 +1,32 @@
+{
+  "id": "claim-cahokia-pauketat-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Pauketat 强调卡霍基亚作为密西西比政治—宗教中心的迅速崛起。",
+    "en": "Pauketat stresses Cahokia’s rapid rise as a Mississippian political–religious center.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-cahokia-lohmann-stirling-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-pauketat-seed-i",
+    "src-cahokia-politics-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

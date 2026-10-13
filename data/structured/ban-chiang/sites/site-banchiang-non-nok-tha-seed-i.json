@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-non-nok-tha-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "农诺塔加深",
+    "en": "Non Nok Tha deepen",
+    "native": null
+  },
+  "kind_note": "Related metal-age site",
+  "region": "Khon Kaen region",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "相关金属时代遗址加深。",
+    "en": "Related metal-age site deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-non-nok-tha-seed-i",
+    "src-banchiang-higham-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

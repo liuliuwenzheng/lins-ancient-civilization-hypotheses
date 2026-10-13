@@ -1,0 +1,19 @@
+{
+  "id": "src-wari-unesco-seed-i",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO WHC — City of Cuzco (regional Wari→Inca orientation) Seed I.",
+  "url": "https://whc.unesco.org/en/list/273/",
+  "access_date": "2026-10-13",
+  "reliability_tier": "T",
+  "notes": "Cuzco WHC; regional orientation tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

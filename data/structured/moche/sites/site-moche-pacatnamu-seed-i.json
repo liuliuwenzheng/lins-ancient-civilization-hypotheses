@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-pacatnamu-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "帕卡特纳穆加深",
+    "en": "Pacatnamú deepen",
+    "native": null
+  },
+  "kind_note": "Ceremonial / cemetery center",
+  "region": "Jequetepeque",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "礼仪/墓地中心加深。",
+    "en": "Ceremonial/cemetery center deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-pacatnamu-seed-i",
+    "src-moche-quilter-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

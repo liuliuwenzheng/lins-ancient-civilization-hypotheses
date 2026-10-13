@@ -1,0 +1,36 @@
+{
+  "id": "period-moche-late-seed-i",
+  "entity": "period",
+  "names": {
+    "zh": "晚莫切窗SeedI",
+    "en": "Late Moche Seed I",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "Moche V / transformation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Moche V / transformation"
+  },
+  "summary": {
+    "zh": "莫切V/转变。",
+    "en": "Moche V / transformation.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-galindo-seed-i",
+    "src-moche-collapse-seed-i"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-mumun-settlement-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "无文聚落景观显示环壕与定居农耕社区。",
+    "en": "Mumun settlement landscapes show ditched and sedentary farming communities.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-mumun-settlement-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-mumun-seed-i",
+    "src-korea-nelson-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

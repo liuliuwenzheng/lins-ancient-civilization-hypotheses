@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-pataraya-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帕塔拉亚显示瓦里对沿海纳斯卡水系的前哨控制。",
+    "en": "Pataraya shows Wari outpost control in the coastal Nasca drainages.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-pataraya-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-pataraya-seed-i",
+    "src-wari-schreiber-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

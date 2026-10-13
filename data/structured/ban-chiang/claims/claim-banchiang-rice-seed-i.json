@@ -1,0 +1,30 @@
+{
+  "id": "claim-banchiang-rice-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "东北泰稻作支撑班清及相关村落经济。",
+    "en": "NE Thai rice agriculture underpinned Ban Chiang and related village economies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-rice-seed-i",
+    "src-banchiang-higham-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

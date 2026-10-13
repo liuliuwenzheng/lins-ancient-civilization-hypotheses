@@ -1000,3 +1000,17 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-13-03 — Seed densify Batch I toward ~48 sources
+
+**Decision:** Densify seed packs `wari`, `ban-chiang`, `early-korea`, `moche`, `cahokia` from ~30-source band toward hot Round-2 band (~48 sources); **keep `library-seed-rich`**. Claim IDs use `-seed-i` suffix. Remaining 6 thin seeds deferred to Batch J.
+
+**Approx. per-pack delta:** +18 sources · +8 sites · +2 periods · +12 objects · +17 claims · +3 media.
+
+**Landed band:** ~48 sources / 23 sites / 10 periods / 19 objects / 43 claims / 7–9 media.
+
+**Coord fills:** none this pass.
+
+**Reports:** [`docs/audits/pass-2026-10-13-seed-batch-i.md`](audits/pass-2026-10-13-seed-batch-i.md) · [中文](audits/pass-2026-10-13-seed-batch-i.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

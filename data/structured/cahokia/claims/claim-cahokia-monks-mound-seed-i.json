@@ -1,0 +1,32 @@
+{
+  "id": "claim-cahokia-monks-mound-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "僧侣墩是北美史前最大的土墩建筑。",
+    "en": "Monks Mound is the largest prehistoric earthen mound in North America.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-monks-mound-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-monks-mound-seed-i",
+    "src-cahokia-unesco-198-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

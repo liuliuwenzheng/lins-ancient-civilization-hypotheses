@@ -1,0 +1,30 @@
+{
+  "id": "claim-korea-nelson-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Nelson《Archaeology of Korea》是半岛考古的标准英文综论入口。",
+    "en": "Nelson’s Archaeology of Korea is a standard English synthetic entry to peninsula archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-nelson-seed-i",
+    "src-korea-barnes-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-related-villages-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "相关村落加深",
+    "en": "Related villages deepen",
+    "native": null
+  },
+  "kind_note": "Village site cluster",
+  "region": "NE Thailand",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "村落集群加深。",
+    "en": "Village cluster deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-village-seed-i",
+    "src-banchiang-white-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

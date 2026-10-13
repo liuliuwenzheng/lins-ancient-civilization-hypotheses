@@ -1,0 +1,33 @@
+{
+  "id": "site-cahokia-monks-mound-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "僧侣墩加深",
+    "en": "Monks Mound deepen",
+    "native": null
+  },
+  "kind_note": "Largest earthen mound",
+  "region": "Cahokia",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "最大土墩加深。",
+    "en": "Largest earthen mound deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-monks-mound-seed-i",
+    "src-cahokia-unesco-198-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

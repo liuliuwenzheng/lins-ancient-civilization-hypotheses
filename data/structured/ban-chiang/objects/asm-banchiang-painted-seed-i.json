@@ -1,0 +1,43 @@
+{
+  "id": "asm-banchiang-painted-seed-i",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "班清彩陶组合",
+    "en": "Ban Chiang painted pottery assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-core-seed-i"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "彩陶组合。",
+    "en": "Painted pottery assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-pottery-seed-i",
+    "src-banchiang-red-ware-seed-i"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

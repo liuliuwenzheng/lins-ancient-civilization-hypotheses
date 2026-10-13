@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-state-open-seed-i",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "瓦里应否称为“帝国/国家”仍有理论争论。",
+    "en": "Whether Wari should be labeled an “empire/state” remains theoretically debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-jennings-seed-i",
+    "src-wari-schreiber-seed-i"
+  ],
+  "disclaimer": "Wari state/empire terminology debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-cahokia-st-louis-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "圣路易斯墩群加深",
+    "en": "St. Louis mound group deepen",
+    "native": null
+  },
+  "kind_note": "Destroyed mound group",
+  "region": "St. Louis",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "已毁墩群加深。",
+    "en": "Destroyed mound group deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-st-louis-seed-i",
+    "src-cahokia-pauketat-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

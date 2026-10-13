@@ -11,8 +11,8 @@
   "region": "East Asia / Korean peninsula",
   "time_span": "Mumun pottery period ca. 1500–300 BCE into early historic state formation (Barnes / Nelson frames)",
   "summary": {
-    "zh": "早期朝鲜半岛档案加厚（种子 Batch E）：无纹土器、支石墓、百济/庆州教科文与早期国家形成；仍标 library-seed-rich。",
-    "en": "Early Korea densified (seed Batch E): Mumun, dolmens, Baekje/Gyeongju UNESCO and early state formation; status stays library-seed-rich.",
+    "zh": "早期朝鲜半岛档案 Seed I：支石墓、无文与百济/新罗历史地区加厚至约 48 来源带；状态仍为 library-seed-rich。",
+    "en": "Early Korea Seed I: dolmens, Mumun and Baekje/Silla historic areas densified toward ~48-source band; status stays library-seed-rich.",
     "native": null
   },
   "sources": [
@@ -45,7 +45,25 @@
     "src-early-korea-unesco-baekje-docs-e",
     "src-early-korea-unesco-gongju-baekje",
     "src-early-korea-unesco-gyeongju",
-    "src-early-korea-unesco-gyeongju-deepen-e"
+    "src-early-korea-unesco-gyeongju-deepen-e",
+    "src-korea-barnes-seed-i",
+    "src-korea-bronze-seed-i",
+    "src-korea-buyeo-seed-i",
+    "src-korea-chaekyeong-seed-i",
+    "src-korea-dolmen-seed-i",
+    "src-korea-gochang-seed-i",
+    "src-korea-gongju-seed-i",
+    "src-korea-gyeongju-seed-i",
+    "src-korea-iron-seed-i",
+    "src-korea-mumun-seed-i",
+    "src-korea-nelson-seed-i",
+    "src-korea-rice-seed-i",
+    "src-korea-songguk-ri-seed-i",
+    "src-korea-three-kingdoms-seed-i",
+    "src-korea-tomb-seed-i",
+    "src-korea-unesco-977-seed-i",
+    "src-korea-unesco-baekje-seed-i",
+    "src-korea-unesco-silla-seed-i"
   ],
   "site_ids": [
     "site-baekje-historic-orientation",
@@ -61,6 +79,14 @@
     "site-gochang-dolmen-orientation",
     "site-gongju-baekje",
     "site-gyeongju-silla",
+    "site-korea-buyeo-seed-i",
+    "site-korea-ganghwa-seed-i",
+    "site-korea-gochang-seed-i",
+    "site-korea-gongju-seed-i",
+    "site-korea-gyeongju-seed-i",
+    "site-korea-hwasun-seed-i",
+    "site-korea-mumun-settlement-seed-i",
+    "site-korea-songguk-ri-seed-i",
     "site-mumun-settlement-orientation",
     "site-mumun-songguk-ri-orientation"
   ],
@@ -70,6 +96,8 @@
     "period-early-korea-proto-tk-deepen-e",
     "period-early-korea-state-formation-e",
     "period-early-korea-three-kingdoms-deepen-e",
+    "period-korea-mumun-seed-i",
+    "period-korea-three-kingdoms-seed-i",
     "period-mumun",
     "period-proto-three-kingdoms",
     "period-three-kingdoms-early"
@@ -100,7 +128,24 @@
     "claim-early-korea-state-open-seed-e",
     "claim-early-korea-three-kingdoms-capitals",
     "claim-early-korea-unesco-baekje-seed-e",
-    "claim-early-korea-unesco-gyeongju-seed-e"
+    "claim-early-korea-unesco-gyeongju-seed-e",
+    "claim-korea-barnes-state-seed-i",
+    "claim-korea-bronze-seed-i",
+    "claim-korea-contact-open-seed-i",
+    "claim-korea-dolmen-seed-i",
+    "claim-korea-gongju-buyeo-seed-i",
+    "claim-korea-gyeongju-tombs-seed-i",
+    "claim-korea-hwasun-ganghwa-seed-i",
+    "claim-korea-iron-seed-i",
+    "claim-korea-mumun-seed-i",
+    "claim-korea-mumun-settlement-seed-i",
+    "claim-korea-nelson-seed-i",
+    "claim-korea-rice-seed-i",
+    "claim-korea-songguk-ri-seed-i",
+    "claim-korea-three-kingdoms-seed-i",
+    "claim-korea-unesco-baekje-seed-i",
+    "claim-korea-unesco-dolmen-seed-i",
+    "claim-korea-unesco-silla-seed-i"
   ],
   "object_ids": [
     "asm-early-korea-baekje-palace-tomb-e",
@@ -109,7 +154,19 @@
     "asm-early-korea-mumun-megalith-frame",
     "asm-early-korea-mumun-pottery-e",
     "asm-early-korea-palace-tomb-frame",
-    "asm-early-korea-silla-tomb-e"
+    "asm-early-korea-silla-tomb-e",
+    "asm-korea-bronze-seed-i",
+    "asm-korea-buyeo-seed-i",
+    "asm-korea-dolmen-corpus-seed-i",
+    "asm-korea-gochang-seed-i",
+    "asm-korea-gongju-seed-i",
+    "asm-korea-gyeongju-seed-i",
+    "asm-korea-iron-seed-i",
+    "asm-korea-rice-seed-i",
+    "asm-korea-songguk-ri-seed-i",
+    "asm-korea-state-formation-seed-i",
+    "asm-korea-tombs-seed-i",
+    "asm-korea-unesco-trio-seed-i"
   ],
   "related_ids": [
     "civ-jomon-yayoi",
@@ -118,11 +175,11 @@
   "markdown_path": "data/civilizations/civ-early-korea.md",
   "editorial": {
     "derived_from": [
-      "tools/hot_densify/densify_seed_batch_e.py",
+      "tools/hot_densify/densify_seed_batch_i.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-26"
+      "docs/decisions.md#d-2026-10-13-03"
     ],
-    "derived_on": "2026-10-12",
-    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
   }
 }

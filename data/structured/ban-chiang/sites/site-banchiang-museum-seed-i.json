@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-museum-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "班清博物馆语境加深",
+    "en": "Ban Chiang museum deepen",
+    "native": null
+  },
+  "kind_note": "Site museum context",
+  "region": "Ban Chiang",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "遗址博物馆语境加深。",
+    "en": "Site museum context deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-museum-seed-i",
+    "src-banchiang-unesco-575-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

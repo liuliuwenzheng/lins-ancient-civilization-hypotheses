@@ -1,0 +1,36 @@
+{
+  "id": "period-banchiang-late-painted-seed-i",
+  "entity": "period",
+  "names": {
+    "zh": "晚期彩陶窗SeedI",
+    "en": "Late painted ware Seed I",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "time": {
+    "label": "Late red-on-buff floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late red-on-buff floruit"
+  },
+  "summary": {
+    "zh": "晚期红彩陶繁荣。",
+    "en": "Late red-on-buff floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-red-ware-seed-i",
+    "src-banchiang-pottery-seed-i"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

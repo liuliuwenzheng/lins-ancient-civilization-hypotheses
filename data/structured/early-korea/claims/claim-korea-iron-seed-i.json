@@ -1,0 +1,30 @@
+{
+  "id": "claim-korea-iron-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "早期铁器与农具、兵器生产推动社会复杂化。",
+    "en": "Early iron with agricultural tools and weapons production advanced social complexity.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-iron-seed-i",
+    "src-korea-barnes-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-urban-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "太阳/月亮金字塔之间存在城市居住与作坊区。",
+    "en": "Urban residential and workshop sectors exist between the Sol and Luna huacas.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-urban-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-ureta-seed-i",
+    "src-moche-quilter-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

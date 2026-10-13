@@ -1056,3 +1056,17 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-13-03 — 种子包 Batch I 朝约 48 来源加厚
+
+**决定：** 对种子包 `wari`、`ban-chiang`、`early-korea`、`moche`、`cahokia` 从约 30 来源带朝热门 Round-2 带（约 48 来源）加厚；**保持 `library-seed-rich`**。主张 ID 使用 `-seed-i` 后缀。其余 6 个薄种子包留待 Batch J。
+
+**每包大约增量：** +18 来源 · +8 遗址 · +2 时段 · +12 对象 · +17 主张 · +3 媒体。
+
+**落地带：** 约 48 来源 / 23 遗址 / 10 时段 / 19 对象 / 43 主张 / 7–9 媒体。
+
+**坐标补填：** 本轮无新填。
+
+**报告：** [`docs/audits/pass-2026-10-13-seed-batch-i.md`](audits/pass-2026-10-13-seed-batch-i.md) · [中文](audits/pass-2026-10-13-seed-batch-i.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

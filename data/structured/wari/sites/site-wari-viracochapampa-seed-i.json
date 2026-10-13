@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-viracochapampa-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "维拉科查潘帕加深",
+    "en": "Viracochapampa deepen",
+    "native": null
+  },
+  "kind_note": "Northern provincial center",
+  "region": "Huamachuco",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "北部省级中心加深。",
+    "en": "Northern provincial center deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-topic-seed-i",
+    "src-wari-schreiber-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

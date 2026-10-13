@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-bronze-open-seed-i",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "班清青铜出现年代曾被大幅提前，现多依修正年代讨论。",
+    "en": "Ban Chiang bronze dates were once pushed very early; discussion now follows revised chronologies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-banchiang-bronze-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-bronze-seed-i",
+    "src-banchiang-dating-seed-i"
+  ],
+  "disclaimer": "Early Ban Chiang bronze dating historically controversial; use revised frameworks.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-san-jose-moro-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "圣何塞德莫罗以女祭司墓葬和精品陶瓷著称。",
+    "en": "San José de Moro is noted for priestess burials and fine ceramics.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-san-jose-moro-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-castillo-seed-i",
+    "src-moche-ceramics-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

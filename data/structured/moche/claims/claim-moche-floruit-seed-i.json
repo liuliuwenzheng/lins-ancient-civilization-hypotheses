@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-floruit-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "莫切III–IV 期对应北海岸礼仪中心与细线陶繁荣。",
+    "en": "Moche III–IV corresponds to north-coast ceremonial-center and fineline ceramic floruit.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-moche-floruit-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-phases-seed-i",
+    "src-moche-quilter-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

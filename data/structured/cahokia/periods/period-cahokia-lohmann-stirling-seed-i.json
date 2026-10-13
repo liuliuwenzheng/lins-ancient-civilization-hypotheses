@@ -1,0 +1,36 @@
+{
+  "id": "period-cahokia-lohmann-stirling-seed-i",
+  "entity": "period",
+  "names": {
+    "zh": "洛曼—斯特灵窗SeedI",
+    "en": "Lohmann–Stirling Seed I",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "time": {
+    "label": "Cahokia floruit phases",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Cahokia floruit phases"
+  },
+  "summary": {
+    "zh": "卡霍基亚繁荣期。",
+    "en": "Cahokia floruit phases.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-pauketat-seed-i",
+    "src-cahokia-fowler-seed-i"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

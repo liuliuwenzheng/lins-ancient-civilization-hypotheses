@@ -1,0 +1,30 @@
+{
+  "id": "claim-cahokia-emerson-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Emerson 将都城与腹地聚落纳入同一密西西比体系。",
+    "en": "Emerson places the capital and hinterland settlements in one Mississippian system.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-emerson-seed-i",
+    "src-cahokia-pauketat-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

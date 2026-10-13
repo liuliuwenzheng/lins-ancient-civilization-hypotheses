@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-lopburi-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "华富里一带冶金传统与中部平原金属生产相关。",
+    "en": "The Lopburi metal-working tradition relates to central-plain metal production.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-lopburi-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-lopburi-seed-i",
+    "src-banchiang-bronze-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

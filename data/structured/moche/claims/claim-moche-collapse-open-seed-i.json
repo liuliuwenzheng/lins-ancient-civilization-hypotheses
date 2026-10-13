@@ -1,0 +1,30 @@
+{
+  "id": "claim-moche-collapse-open-seed-i",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "晚莫切转变是否主因干旱与社会冲突仍有争论。",
+    "en": "Whether drought and social conflict primarily drove Late Moche transformation remains debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-collapse-seed-i",
+    "src-moche-galindo-seed-i"
+  ],
+  "disclaimer": "Late Moche transformation causes debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-el-brujo-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "埃尔布鲁霍加深",
+    "en": "El Brujo deepen",
+    "native": null
+  },
+  "kind_note": "Cao Viejo ceremonial complex",
+  "region": "Chicama",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "卡奥维耶霍礼仪复合体加深。",
+    "en": "Cao Viejo ceremonial complex deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-el-brujo-seed-i",
+    "src-moche-quilter-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

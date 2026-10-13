@@ -11,8 +11,8 @@
   "region": "Mainland Southeast Asia / Khorat Plateau, northeast Thailand (Mekong watershed)",
   "time_span": "Prehistoric settlement and cemetery continuum often framed mid–late 2nd to 1st millennium BCE (UNESCO / White–Higham research tradition; absolute debates open)",
   "summary": {
-    "zh": "班清档案加厚（种子 Batch E）：东北泰史前、彩陶、冶金与教科文575；仍标 library-seed-rich。",
-    "en": "Ban Chiang densified (seed Batch E): NE Thai prehistory, painted pottery, metallurgy and UNESCO 575; status stays library-seed-rich.",
+    "zh": "班清档案 Seed I：彩陶、青铜与相关东北泰遗址加厚至约 48 来源带；状态仍为 library-seed-rich。",
+    "en": "Ban Chiang Seed I: painted pottery, bronze and related NE Thai sites densified toward ~48-source band; status stays library-seed-rich.",
     "native": null
   },
   "sources": [
@@ -45,7 +45,25 @@
     "src-ban-chiang-white-deepen-e",
     "src-ban-chiang-white-hamilton-deepen-e",
     "src-ban-chiang-white-hamilton-orientation",
-    "src-ban-chiang-white-penn-orientation"
+    "src-ban-chiang-white-penn-orientation",
+    "src-banchiang-ban-non-wat-seed-i",
+    "src-banchiang-bioarch-seed-i",
+    "src-banchiang-bronze-seed-i",
+    "src-banchiang-burial-seed-i",
+    "src-banchiang-dating-seed-i",
+    "src-banchiang-glass-seed-i",
+    "src-banchiang-higham-seed-i",
+    "src-banchiang-iron-seed-i",
+    "src-banchiang-lopburi-seed-i",
+    "src-banchiang-museum-seed-i",
+    "src-banchiang-non-nok-tha-seed-i",
+    "src-banchiang-penn-seed-i",
+    "src-banchiang-pottery-seed-i",
+    "src-banchiang-red-ware-seed-i",
+    "src-banchiang-rice-seed-i",
+    "src-banchiang-unesco-575-seed-i",
+    "src-banchiang-village-seed-i",
+    "src-banchiang-white-seed-i"
   ],
   "site_ids": [
     "site-ban-chiang-burial-sector-e",
@@ -59,6 +77,14 @@
     "site-ban-non-wat",
     "site-ban-non-wat-deepen-e",
     "site-ban-non-wat-orientation",
+    "site-banchiang-ban-non-wat-seed-i",
+    "site-banchiang-burial-seed-i",
+    "site-banchiang-core-seed-i",
+    "site-banchiang-lopburi-seed-i",
+    "site-banchiang-museum-seed-i",
+    "site-banchiang-non-nok-tha-seed-i",
+    "site-banchiang-penn-context-seed-i",
+    "site-banchiang-related-villages-seed-i",
     "site-lopburi-metal-deepen-e",
     "site-lopburi-metal-orientation",
     "site-non-nok-tha",
@@ -72,7 +98,9 @@
     "period-ban-chiang-iron-deepen-e",
     "period-ban-chiang-neolithic",
     "period-ban-chiang-neolithic-deepen-e",
-    "period-ban-chiang-prehistoric"
+    "period-ban-chiang-prehistoric",
+    "period-banchiang-bronze-seed-i",
+    "period-banchiang-late-painted-seed-i"
   ],
   "claim_ids": [
     "claim-ban-chiang-ban-non-wat",
@@ -100,7 +128,24 @@
     "claim-ban-chiang-unesco",
     "claim-ban-chiang-unesco-listing-seed-e",
     "claim-ban-chiang-white-burial-seed-e",
-    "claim-ban-chiang-white-penn"
+    "claim-ban-chiang-white-penn",
+    "claim-banchiang-ban-non-wat-seed-i",
+    "claim-banchiang-bioarch-seed-i",
+    "claim-banchiang-bronze-open-seed-i",
+    "claim-banchiang-burial-seed-i",
+    "claim-banchiang-dating-seed-i",
+    "claim-banchiang-higham-seed-i",
+    "claim-banchiang-iron-seed-i",
+    "claim-banchiang-lopburi-seed-i",
+    "claim-banchiang-museum-seed-i",
+    "claim-banchiang-non-nok-tha-seed-i",
+    "claim-banchiang-ornaments-seed-i",
+    "claim-banchiang-penn-seed-i",
+    "claim-banchiang-pottery-seed-i",
+    "claim-banchiang-rice-seed-i",
+    "claim-banchiang-unesco-seed-i",
+    "claim-banchiang-villages-seed-i",
+    "claim-banchiang-white-seed-i"
   ],
   "object_ids": [
     "asm-ban-chiang-burial-goods-e",
@@ -109,7 +154,19 @@
     "asm-ban-chiang-painted-pottery-e",
     "asm-ban-chiang-painted-pottery-frame",
     "asm-ban-chiang-penn-collection-e",
-    "asm-ban-chiang-pottery-metal-frame"
+    "asm-ban-chiang-pottery-metal-frame",
+    "asm-banchiang-ban-non-wat-seed-i",
+    "asm-banchiang-bioarch-seed-i",
+    "asm-banchiang-bronze-seed-i",
+    "asm-banchiang-burial-seed-i",
+    "asm-banchiang-dating-seed-i",
+    "asm-banchiang-iron-seed-i",
+    "asm-banchiang-lopburi-seed-i",
+    "asm-banchiang-non-nok-tha-seed-i",
+    "asm-banchiang-ornaments-seed-i",
+    "asm-banchiang-painted-seed-i",
+    "asm-banchiang-rice-seed-i",
+    "asm-banchiang-unesco-seed-i"
   ],
   "related_ids": [
     "civ-dong-son",
@@ -118,11 +175,11 @@
   "markdown_path": "data/civilizations/civ-ban-chiang.md",
   "editorial": {
     "derived_from": [
-      "tools/hot_densify/densify_seed_batch_e.py",
+      "tools/hot_densify/densify_seed_batch_i.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-26"
+      "docs/decisions.md#d-2026-10-13-03"
     ],
-    "derived_on": "2026-10-12",
-    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-26). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
   }
 }

@@ -1,0 +1,36 @@
+{
+  "id": "period-wari-middle-horizon-seed-i",
+  "entity": "period",
+  "names": {
+    "zh": "中地平繁荣窗SeedI",
+    "en": "Middle Horizon floruit Seed I",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "time": {
+    "label": "Wari Middle Horizon expansion",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Wari Middle Horizon expansion"
+  },
+  "summary": {
+    "zh": "中地平扩张繁荣。",
+    "en": "Middle Horizon expansion floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-schreiber-seed-i",
+    "src-wari-isbell-seed-i"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

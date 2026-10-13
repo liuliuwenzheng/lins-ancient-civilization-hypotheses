@@ -1,0 +1,33 @@
+{
+  "id": "claim-korea-gongju-buyeo-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "公州与扶余先后作为百济都城。",
+    "en": "Gongju and Buyeo successively served as Baekje capitals.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-gongju-seed-i",
+    "site-korea-buyeo-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-gongju-seed-i",
+    "src-korea-buyeo-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

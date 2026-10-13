@@ -1,0 +1,33 @@
+{
+  "id": "site-korea-gochang-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "高敞支石墓加深",
+    "en": "Gochang dolmen deepen",
+    "native": null
+  },
+  "kind_note": "Dolmen cluster",
+  "region": "Jeolla",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "支石墓群加深。",
+    "en": "Dolmen cluster deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-korea-gochang-seed-i",
+    "src-korea-unesco-977-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

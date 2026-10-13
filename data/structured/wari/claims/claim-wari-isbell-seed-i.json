@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-isbell-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Isbell 对瓦里都市主义的研究强调矩形围合建筑单元。",
+    "en": "Isbell’s Huari urbanism work stresses rectangular patio-group architecture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-isbell-seed-i",
+    "src-wari-schreiber-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

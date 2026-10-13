@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-galindo-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "加林多加深",
+    "en": "Galindo deepen",
+    "native": null
+  },
+  "kind_note": "Late Moche center",
+  "region": "Moche valley",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "晚莫切中心加深。",
+    "en": "Late Moche center deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-galindo-seed-i",
+    "src-moche-phases-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

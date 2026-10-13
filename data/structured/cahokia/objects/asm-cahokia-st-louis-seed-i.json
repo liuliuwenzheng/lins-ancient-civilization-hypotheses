@@ -1,0 +1,43 @@
+{
+  "id": "asm-cahokia-st-louis-seed-i",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "圣路易斯墩群框架",
+    "en": "St. Louis mound group frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [
+    "site-cahokia-st-louis-seed-i"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "已毁墩群框架。",
+    "en": "Destroyed mound-group frame.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-st-louis-seed-i",
+    "src-cahokia-pauketat-seed-i"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

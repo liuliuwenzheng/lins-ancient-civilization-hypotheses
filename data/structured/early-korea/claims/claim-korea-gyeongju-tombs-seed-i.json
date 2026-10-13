@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-gyeongju-tombs-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "庆州大型积石冢反映新罗王室葬仪。",
+    "en": "Large stone-mounded tombs at Gyeongju reflect Silla royal mortuary practice.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [
+    "site-korea-gyeongju-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-tomb-seed-i",
+    "src-korea-gyeongju-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

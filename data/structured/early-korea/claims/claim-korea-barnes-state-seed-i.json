@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-barnes-state-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Barnes 强调三国时期的国家形成轨迹。",
+    "en": "Barnes stresses state-formation trajectories in the Three Kingdoms period.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-korea-three-kingdoms-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-korea-barnes-seed-i",
+    "src-korea-three-kingdoms-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

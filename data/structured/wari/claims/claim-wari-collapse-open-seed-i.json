@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-collapse-open-seed-i",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "瓦里衰落机制（干旱、政治分裂、暴力）仍有争论。",
+    "en": "Mechanisms of Wari decline (drought, political fragmentation, violence) remain debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-wari-late-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-wari-collapse-seed-i",
+    "src-wari-jennings-seed-i"
+  ],
+  "disclaimer": "Wari collapse causes debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-conchopata-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "孔乔帕塔以大规模陶瓷祭献和打破仪式著称。",
+    "en": "Conchopata is noted for large-scale ceramic offerings and breakage rituals.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-conchopata-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-conchopata-seed-i",
+    "src-wari-cook-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

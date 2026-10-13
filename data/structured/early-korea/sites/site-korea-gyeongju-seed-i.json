@@ -1,0 +1,33 @@
+{
+  "id": "site-korea-gyeongju-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "庆州新罗加深",
+    "en": "Gyeongju Silla deepen",
+    "native": null
+  },
+  "kind_note": "Silla capital historic area",
+  "region": "Gyeongju",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "新罗都城历史地区加深。",
+    "en": "Silla capital historic area deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-korea-gyeongju-seed-i",
+    "src-korea-unesco-silla-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

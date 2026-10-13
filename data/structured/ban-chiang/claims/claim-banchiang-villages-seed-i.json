@@ -1,0 +1,32 @@
+{
+  "id": "claim-banchiang-villages-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "相关村落遗址显示班清传统的区域分布。",
+    "en": "Related village sites show the regional distribution of the Ban Chiang tradition.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-related-villages-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-village-seed-i",
+    "src-banchiang-white-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

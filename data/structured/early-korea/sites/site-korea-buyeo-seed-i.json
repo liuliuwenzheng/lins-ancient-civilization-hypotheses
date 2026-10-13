@@ -1,0 +1,33 @@
+{
+  "id": "site-korea-buyeo-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "扶余百济加深",
+    "en": "Buyeo Baekje deepen",
+    "native": null
+  },
+  "kind_note": "Baekje capital area",
+  "region": "Buyeo",
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "summary": {
+    "zh": "百济都城地区加深。",
+    "en": "Baekje capital area deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-korea-buyeo-seed-i",
+    "src-korea-unesco-baekje-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

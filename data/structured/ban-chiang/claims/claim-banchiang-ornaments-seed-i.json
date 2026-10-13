@@ -1,0 +1,30 @@
+{
+  "id": "claim-banchiang-ornaments-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "玻璃与饰物反映区域交换网络。",
+    "en": "Glass and ornaments reflect regional exchange networks.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-glass-seed-i",
+    "src-banchiang-white-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

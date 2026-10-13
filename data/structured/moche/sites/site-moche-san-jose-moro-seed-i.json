@@ -1,0 +1,33 @@
+{
+  "id": "site-moche-san-jose-moro-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "圣何塞德莫罗加深",
+    "en": "San José de Moro deepen",
+    "native": null
+  },
+  "kind_note": "Priestess tombs / ceramics",
+  "region": "Jequetepeque",
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "summary": {
+    "zh": "女祭司墓/陶瓷加深。",
+    "en": "Priestess tombs/ceramics deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-castillo-seed-i",
+    "src-moche-ceramics-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

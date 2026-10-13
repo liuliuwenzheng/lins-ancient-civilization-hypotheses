@@ -1,0 +1,32 @@
+{
+  "id": "claim-korea-mumun-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "无文时代以无纹陶器与定居农耕扩张为特征。",
+    "en": "The Mumun period is characterized by plain pottery and expanding sedentary farming.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-korea-mumun-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-korea-mumun-seed-i",
+    "src-korea-nelson-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

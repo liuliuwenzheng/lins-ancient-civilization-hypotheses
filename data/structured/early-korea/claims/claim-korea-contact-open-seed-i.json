@@ -1,0 +1,30 @@
+{
+  "id": "claim-korea-contact-open-seed-i",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "与汉四郡/中国王朝接触对国家形成的作用程度仍有讨论。",
+    "en": "Degree to which contact with Han commanderies/Chinese dynasties shaped state formation remains discussed.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-chaekyeong-seed-i",
+    "src-korea-barnes-seed-i"
+  ],
+  "disclaimer": "Role of Chinese contact in state formation debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

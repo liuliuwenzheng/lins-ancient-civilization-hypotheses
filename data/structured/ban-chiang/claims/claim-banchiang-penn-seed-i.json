@@ -1,0 +1,30 @@
+{
+  "id": "claim-banchiang-penn-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "宾夕法尼亚大学项目开启班清的现代系统发掘。",
+    "en": "The University of Pennsylvania project opened modern systematic excavation at Ban Chiang.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-penn-seed-i",
+    "src-banchiang-white-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

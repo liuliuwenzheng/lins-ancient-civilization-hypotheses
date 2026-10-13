@@ -1,0 +1,33 @@
+{
+  "id": "site-cahokia-woodhenge-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "木垣加深",
+    "en": "Woodhenge deepen",
+    "native": null
+  },
+  "kind_note": "Timber circle calendar",
+  "region": "Cahokia",
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "summary": {
+    "zh": "木圈历法建筑加深。",
+    "en": "Timber circle calendar deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-cahokia-woodhenge-seed-i",
+    "src-cahokia-pauketat-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

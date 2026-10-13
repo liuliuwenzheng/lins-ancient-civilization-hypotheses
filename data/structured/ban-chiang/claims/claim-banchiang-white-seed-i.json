@@ -1,0 +1,30 @@
+{
+  "id": "claim-banchiang-white-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "White 的年代与冶金研究是班清现代讨论的核心入口。",
+    "en": "White’s chronology and metallurgy work is a core entry to modern Ban Chiang discussion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-white-seed-i",
+    "src-banchiang-penn-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

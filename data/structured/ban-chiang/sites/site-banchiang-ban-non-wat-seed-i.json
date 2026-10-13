@@ -1,0 +1,33 @@
+{
+  "id": "site-banchiang-ban-non-wat-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "班农瓦特加深",
+    "en": "Ban Non Wat deepen",
+    "native": null
+  },
+  "kind_note": "Large cemetery / settlement",
+  "region": "Nakhon Ratchasima",
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "summary": {
+    "zh": "大型墓地/聚落加深。",
+    "en": "Large cemetery/settlement deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-banchiang-ban-non-wat-seed-i",
+    "src-banchiang-higham-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

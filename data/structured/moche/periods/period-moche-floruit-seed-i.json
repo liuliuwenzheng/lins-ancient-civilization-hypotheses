@@ -1,0 +1,36 @@
+{
+  "id": "period-moche-floruit-seed-i",
+  "entity": "period",
+  "names": {
+    "zh": "莫切繁荣窗SeedI",
+    "en": "Moche floruit Seed I",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "time": {
+    "label": "Moche III–IV floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Moche III–IV floruit"
+  },
+  "summary": {
+    "zh": "莫切III–IV繁荣。",
+    "en": "Moche III–IV floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-moche-phases-seed-i",
+    "src-moche-quilter-seed-i"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

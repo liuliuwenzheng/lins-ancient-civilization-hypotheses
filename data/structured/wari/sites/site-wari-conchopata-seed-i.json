@@ -1,0 +1,33 @@
+{
+  "id": "site-wari-conchopata-seed-i",
+  "entity": "site",
+  "names": {
+    "zh": "孔乔帕塔加深",
+    "en": "Conchopata deepen",
+    "native": null
+  },
+  "kind_note": "Offering / ceramic center",
+  "region": "Ayacucho",
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "summary": {
+    "zh": "祭献/陶瓷中心加深。",
+    "en": "Offering/ceramic center deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-wari-conchopata-seed-i",
+    "src-wari-cook-seed-i"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

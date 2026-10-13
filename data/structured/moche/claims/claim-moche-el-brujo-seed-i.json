@@ -1,0 +1,32 @@
+{
+  "id": "claim-moche-el-brujo-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "埃尔布鲁霍/卡奥维耶霍是奇卡马河谷重要礼仪复合体。",
+    "en": "El Brujo / Cao Viejo is a major ceremonial complex of the Chicama valley.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-el-brujo-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-moche-el-brujo-seed-i",
+    "src-moche-quilter-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

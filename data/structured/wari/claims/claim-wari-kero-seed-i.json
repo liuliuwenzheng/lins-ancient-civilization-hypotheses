@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-kero-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "面颈罐与开罗杯是瓦里礼仪宴饮陶瓷的重要类型。",
+    "en": "Face-neck jars and keros are important Wari ceremonial feasting ceramic types.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-kero-seed-i",
+    "src-wari-conchopata-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

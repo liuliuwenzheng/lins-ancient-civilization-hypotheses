@@ -1,0 +1,30 @@
+{
+  "id": "claim-korea-bronze-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "琵琶形铜剑与多纽镜是韩国青铜礼器的特征类型。",
+    "en": "Lute-shaped bronze daggers and multi-knobbed mirrors are characteristic Korean bronze ritual types.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-early-korea"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-korea-bronze-seed-i",
+    "src-korea-nelson-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

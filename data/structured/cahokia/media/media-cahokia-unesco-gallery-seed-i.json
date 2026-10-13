@@ -1,0 +1,32 @@
+{
+  "id": "media-cahokia-unesco-gallery-seed-i",
+  "entity": "media",
+  "title": {
+    "zh": "教科文198图库 SeedI",
+    "en": "UNESCO 198 gallery Seed I",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/198/gallery/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-unesco-198-seed-i"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/198/gallery/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

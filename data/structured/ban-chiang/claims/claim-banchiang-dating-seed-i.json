@@ -1,0 +1,30 @@
+{
+  "id": "claim-banchiang-dating-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "班清碳十四与陶器交叉断代经历多轮修正。",
+    "en": "Ban Chiang radiocarbon and ceramic cross-dating have undergone multiple revisions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-dating-seed-i",
+    "src-banchiang-white-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

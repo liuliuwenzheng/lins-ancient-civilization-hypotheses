@@ -1,0 +1,32 @@
+{
+  "id": "claim-cahokia-decline-open-seed-i",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "卡霍基亚衰落原因（环境、政治、移民）仍有争论。",
+    "en": "Causes of Cahokia’s decline (environment, politics, migration) remain debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-cahokia"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-cahokia-moorehead-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-cahokia-collapse-seed-i",
+    "src-cahokia-pauketat-seed-i"
+  ],
+  "disclaimer": "Cahokia decline causes debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

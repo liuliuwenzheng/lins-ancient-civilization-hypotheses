@@ -1,0 +1,30 @@
+{
+  "id": "claim-wari-road-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦里路网连接都城与南北省级节点。",
+    "en": "Wari roads linked the capital to northern and southern provincial nodes.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-road-seed-i",
+    "src-wari-schreiber-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

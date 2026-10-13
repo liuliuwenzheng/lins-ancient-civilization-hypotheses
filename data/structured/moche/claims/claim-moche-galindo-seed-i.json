@@ -1,0 +1,34 @@
+{
+  "id": "claim-moche-galindo-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "加林多反映晚莫切聚落重组。",
+    "en": "Galindo reflects Late Moche settlement reorganization.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-moche"
+  ],
+  "site_ids": [
+    "site-moche-galindo-seed-i"
+  ],
+  "period_ids": [
+    "period-moche-late-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-moche-galindo-seed-i",
+    "src-moche-phases-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

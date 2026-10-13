@@ -1,0 +1,34 @@
+{
+  "id": "claim-banchiang-pottery-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "班清以红彩陶与长时段陶器序列著称。",
+    "en": "Ban Chiang is famed for red-painted pottery and a long ceramic sequence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ban-chiang"
+  ],
+  "site_ids": [
+    "site-banchiang-core-seed-i"
+  ],
+  "period_ids": [
+    "period-banchiang-late-painted-seed-i"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-banchiang-pottery-seed-i",
+    "src-banchiang-red-ware-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

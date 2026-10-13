@@ -1,0 +1,32 @@
+{
+  "id": "claim-wari-pikillacta-seed-i",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "皮基利亚克塔是库斯科地区高度规划的瓦里省级建筑复合体。",
+    "en": "Pikillacta is a highly planned Wari provincial architectural compound in the Cuzco region.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-wari"
+  ],
+  "site_ids": [
+    "site-wari-pikillacta-seed-i"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-wari-pikillacta-seed-i",
+    "src-wari-mcewan-seed-i"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

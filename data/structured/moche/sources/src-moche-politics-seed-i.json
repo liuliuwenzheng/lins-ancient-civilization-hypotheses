@@ -1,0 +1,19 @@
+{
+  "id": "src-moche-politics-seed-i",
+  "entity": "source",
+  "type": "article",
+  "citation": "Southern vs northern Moche polities Seed I.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Polities Seed I.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_i.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-03"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch I toward ~48 sources (D-2026-10-13-03). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
