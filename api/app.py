@@ -10,7 +10,8 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
 from api import __version__
-from api.loader import get_store
+from api.loader import get_store, ROOT as REPO_ROOT
+from api.report import report_for_civilization
 
 SERVICE_INFO = {
     "name": "Lin's Ancient Civilization Hypotheses — Archive API",
@@ -88,6 +89,7 @@ def create_app() -> FastAPI:
                 "GET /api/v1/healthz",
                 "GET /api/v1/civilizations",
                 "GET /api/v1/civilizations/{id}",
+                "GET /api/v1/civilizations/{id}/report",
                 "GET /api/v1/sources",
                 "GET /api/v1/sites",
                 "GET /api/v1/periods",
@@ -171,7 +173,19 @@ def create_app() -> FastAPI:
         civ = store.civilizations.get(civ_id)
         if not civ:
             raise HTTPException(status_code=404, detail=f"civilization not found: {civ_id}")
-        return store.public(civ)
+        out = store.public(civ)
+        md = out.get("markdown_path")
+        out["report_available"] = bool(md)
+        return out
+
+    @app.get("/api/v1/civilizations/{civ_id}/report")
+    def get_civilization_report(civ_id: str) -> dict[str, Any]:
+        """Parsed markdown report columns (entry-depth). Never invents missing sections."""
+        store = get_store()
+        civ = store.civilizations.get(civ_id)
+        if not civ:
+            raise HTTPException(status_code=404, detail=f"civilization not found: {civ_id}")
+        return report_for_civilization(REPO_ROOT, civ)
 
     def _list_collection(
         collection: str,
@@ -192,6 +206,8 @@ def create_app() -> FastAPI:
                 continue
             if collection == "claims":
                 items.append(store.enrich_claim(rec))
+            elif collection == "sites":
+                items.append(store.enrich_site(rec))
             else:
                 items.append(store.public(rec))
         return _paginate(items, limit, offset)

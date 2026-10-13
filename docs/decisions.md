@@ -1088,3 +1088,13 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-13-09 — Entry detail UI: report columns as primary surface
+
+**Decision:** Opening a civilization in `/ui` defaults to the **archive report** (parse `##` sections from `markdown_path`); claim list becomes a secondary tab. Add read-only `GET /api/v1/civilizations/{id}/report`. Methods / discovery lineage = **Research history** verbatim + registered sources (especially tier P) labeled “registered source lineage” — **do not invent** excavation narratives. Omit empty sections. Chinese UI default.
+
+**Design:** [`docs/entry-detail-ui.md`](entry-detail-ui.md) · [中文](entry-detail-ui.zh.md)
+
+**Deliberation:** [`deliberations/delib-2026-10-13-entry-detail-ui.md`](../deliberations/delib-2026-10-13-entry-detail-ui.md)
+
+**Implement:** Best-effort `body_zh`/`body_en` split; always keep `body_md`; site cards expand sources / linked claims / existing coordinates; `export_check` unchanged.
+

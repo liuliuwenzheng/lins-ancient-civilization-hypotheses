@@ -1144,3 +1144,13 @@
 
 **校验：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-13-09 — 条目详情 UI：分栏报告作主视图
+
+**决定：** `/ui` 打开文明时默认展示 **档案报告**（从 `markdown_path` 解析 `##` 分栏）；主张列表降为次级页签。新增只读 `GET /api/v1/civilizations/{id}/report`。考察办法/发现脉络 = **研究史**原文 + 已登记来源（尤其 P 档）标为「已登记来源脉络」——**不编造**发掘叙事。空栏省略。中文 UI 默认。
+
+**设计：** [`docs/entry-detail-ui.zh.md`](entry-detail-ui.zh.md) · [English](entry-detail-ui.md)
+
+**审议：** [`deliberations/delib-2026-10-13-entry-detail-ui.md`](../deliberations/delib-2026-10-13-entry-detail-ui.md)
+
+**实现要点：** 解析器尽力拆 `body_zh`/`body_en`，始终保留 `body_md`；遗址卡可展开来源/关联主张/已有坐标；`export_check` 闸门不变。
+

@@ -94,6 +94,14 @@ class ArchiveStore:
                 out.append({"id": sid, "reliability_tier": None, "citation": None, "url": None})
         return out
 
+    def enrich_site(self, site: dict[str, Any]) -> dict[str, Any]:
+        """Return site with sources expanded when present."""
+        out = {k: v for k, v in site.items() if not k.startswith("_")}
+        ids = list(site.get("sources") or [])
+        out["source_ids"] = ids
+        out["sources"] = self.expand_sources(ids)
+        return out
+
     def enrich_claim(self, claim: dict[str, Any]) -> dict[str, Any]:
         """Return claim with sources expanded to SourceRef objects (ids preserved)."""
         out = {k: v for k, v in claim.items() if not k.startswith("_")}

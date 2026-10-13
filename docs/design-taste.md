@@ -52,10 +52,11 @@ Wikipedia wins coverage. We win **inspectable archive craft**: fact ≠ hypothes
 - [ ] Museum-grade restraint: excellent type, whitespace, **one** accent
 - [ ] Bilingual CN/EN toggle (persist preference if practical)
 - [ ] Dark / light via `prefers-color-scheme` (optional manual override OK)
-- [ ] Flow: civilizations → sites / periods / claims
+- [ ] Flow: civilization → **archive report (columns)** / sites / periods / claims (report is default)
 - [ ] Claim **kind badge** visually obvious (`fact` vs `hypothesis`)
 - [ ] Sources expandable under each claim
 - [ ] Light search / filter; mobile-friendly
+- [ ] Research history + registered source lineage visible (no invented fieldwork prose)
 - [ ] **Zero** stock or forged artifact photos — structure and type carry beauty
 - [ ] Self-contained under `api/static/`; served by the same process as the API
 

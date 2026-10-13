@@ -104,6 +104,7 @@ lins-ancient-civilization-hypotheses/
 
 - **设计品味** — 创作者原则 + UI/API/README 清单：[`docs/design-taste.zh.md`](docs/design-taste.zh.md) · [English](docs/design-taste.md)
 - **条目深度** — 必填栏目、来源下限、状态阶梯：[`docs/entry-depth.zh.md`](docs/entry-depth.zh.md) · [English](docs/entry-depth.md)
+- **条目详情 UI** — 分栏报告为主视图：[`docs/entry-detail-ui.zh.md`](docs/entry-detail-ui.zh.md) · [English](docs/entry-detail-ui.md)
 - **决策记录** — 有日期的范围选择：[`docs/decisions.zh.md`](docs/decisions.zh.md) · [English](docs/decisions.md)
 - **架构** — 分层、实体、不变量、存储路径：[`docs/architecture.zh.md`](docs/architecture.zh.md) · [English](docs/architecture.md)
 - **审议圆桌** — 多透镜审核；面向未来窗口：[`docs/council.zh.md`](docs/council.zh.md) · [English](docs/council.md) · [`deliberations/`](deliberations/)

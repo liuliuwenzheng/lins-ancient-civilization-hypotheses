@@ -177,6 +177,57 @@
     }
     .loading { font-family: var(--sans); color: var(--muted); padding: 24px; }
     .id-mono { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+
+    .report-nav {
+      display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 18px;
+      font-family: var(--sans); font-size: 12px;
+    }
+    .report-nav a {
+      color: var(--muted); text-decoration: none; padding: 4px 10px;
+      border: 1px solid var(--line); border-radius: 999px;
+    }
+    .report-nav a:hover { color: var(--accent); border-color: var(--accent); }
+    .report-section {
+      margin: 0 0 28px; padding-bottom: 22px; border-bottom: 1px solid var(--line);
+      max-width: 46rem;
+    }
+    .report-section:last-child { border-bottom: 0; }
+    .report-section h3 {
+      margin: 0 0 12px; font-size: 1.2rem; letter-spacing: -0.01em;
+    }
+    .report-body p { margin: 0 0 0.85em; }
+    .report-body p:last-child { margin-bottom: 0; }
+    .report-body ul { margin: 0 0 0.85em; padding-left: 1.25rem; }
+    .report-body li { margin: 0 0 0.35em; }
+    .report-body .md-table {
+      overflow-x: auto; margin: 0 0 0.85em; font-family: var(--sans); font-size: 13px;
+      border: 1px solid var(--line); border-radius: 8px;
+    }
+    .report-body table { border-collapse: collapse; width: 100%; }
+    .report-body th, .report-body td {
+      border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top;
+    }
+    .report-body th { background: var(--accent-soft); font-weight: 600; }
+    .report-body .src-id {
+      font-family: var(--mono); font-size: 0.85em; color: var(--accent);
+      white-space: nowrap;
+    }
+    .lineage {
+      margin: 0 0 22px; padding: 14px 16px; border: 1px dashed var(--line);
+      border-radius: 12px; background: color-mix(in srgb, var(--bg) 60%, var(--bg-elev));
+      font-family: var(--sans); font-size: 13px; max-width: 46rem;
+    }
+    .lineage h4 {
+      margin: 0 0 8px; font-size: 12px; letter-spacing: 0.1em;
+      text-transform: uppercase; color: var(--muted); font-weight: 600;
+    }
+    .lineage .note { color: var(--muted); margin: 0 0 10px; }
+    .lineage ol { margin: 0; padding-left: 1.2rem; }
+    .lineage li { margin: 0 0 6px; }
+    .coords { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+    .site-claims { margin-top: 10px; font-family: var(--sans); font-size: 13px; }
+    .site-claims summary { cursor: pointer; color: var(--accent); }
+    .muted-inline { color: var(--muted); }
   </style>
 </head>
 <body>
@@ -214,7 +265,7 @@
         <ul class="civ-list" id="civ-list"><li class="loading" data-i="loading">Loading…</li></ul>
       </aside>
       <main class="panel detail" id="detail">
-        <div class="empty" data-i="pick">Select a civilization to open sites, periods, and claims.</div>
+        <div class="empty" data-i="pick">Select a civilization to open the archive report.</div>
       </main>
     </div>
 
@@ -239,8 +290,9 @@
         hyps: "Hypotheses",
         civs: "Civilizations",
         loading: "Loading…",
-        pick: "Select a civilization to open sites, periods, and claims.",
+        pick: "Select a civilization to open the archive report.",
         footer: "Fact ≠ hypothesis. Citation fail-closed. Changes via git/PR.",
+        report: "Report",
         sites: "Sites",
         periods: "Periods",
         claims: "Claims",
@@ -252,6 +304,13 @@
         hypNote: "Hypothesis — not an established conclusion",
         status: "Status",
         loadErr: "Could not reach the archive API. Is the server running?",
+        noReport: "No markdown report on file for this civilization.",
+        lineage: "Registered source lineage",
+        lineageNote: "Registered sources only (especially excavation reports, tier P). Not a substitute for reading the reports — no invented fieldwork narrative.",
+        linkedClaims: "Linked claims",
+        coords: "Coordinates",
+        precision: "Precision",
+        toc: "Sections",
       },
       zh: {
         eyebrow: "只读档案",
@@ -265,8 +324,9 @@
         hyps: "假说",
         civs: "文明",
         loading: "加载中…",
-        pick: "选择一个文明，查看遗址、分期与主张。",
+        pick: "选择一个文明，查看档案报告。",
         footer: "事实 ≠ 假说。出处失败即关闭。写入走 git/PR。",
+        report: "档案报告",
         sites: "遗址",
         periods: "分期",
         claims: "主张",
@@ -278,6 +338,13 @@
         hypNote: "假说 — 并非既定结论",
         status: "状态",
         loadErr: "无法连接档案接口。请确认服务已启动。",
+        noReport: "该文明尚无已挂载的 Markdown 报告。",
+        lineage: "已登记来源脉络",
+        lineageNote: "仅列出已登记来源（尤其发掘报告，档次 P）。不能代替阅读原报告——不编造田野叙事。",
+        linkedClaims: "关联主张",
+        coords: "坐标",
+        precision: "精度说明",
+        toc: "分栏",
       },
     };
 
@@ -285,7 +352,7 @@
       lang: localStorage.getItem("lach-ui-lang") || "zh",
       civs: [],
       selected: null,
-      tab: "claims",
+      tab: "report",
       kind: "",
       q: "",
       cache: {},
@@ -357,24 +424,119 @@
       });
     }
 
+    function linkifySrc(escapedText) {
+      return escapedText.replace(
+        /\[`?(src-[a-z0-9-]+)`?\]/gi,
+        '<span class="src-id">[$1]</span>'
+      ).replace(
+        /`(src-[a-z0-9-]+)`/gi,
+        '<span class="src-id">$1</span>'
+      );
+    }
+
+    function renderMdLite(md) {
+      if (!md) return "";
+      const lines = String(md).replace(/\r\n/g, "\n").split("\n");
+      const blocks = [];
+      let i = 0;
+      while (i < lines.length) {
+        if (!lines[i].trim()) { i++; continue; }
+        if (lines[i].trim().startsWith("|")) {
+          const tableLines = [];
+          while (i < lines.length && lines[i].trim().startsWith("|")) {
+            tableLines.push(lines[i]);
+            i++;
+          }
+          blocks.push({ type: "table", lines: tableLines });
+          continue;
+        }
+        if (/^\s*[-*]\s+/.test(lines[i])) {
+          const items = [];
+          while (i < lines.length && /^\s*[-*]\s+/.test(lines[i])) {
+            items.push(lines[i].replace(/^\s*[-*]\s+/, ""));
+            i++;
+          }
+          blocks.push({ type: "ul", items });
+          continue;
+        }
+        const paras = [lines[i]];
+        i++;
+        while (i < lines.length && lines[i].trim() && !lines[i].trim().startsWith("|") && !/^\s*[-*]\s+/.test(lines[i]) && !/^##\s/.test(lines[i])) {
+          paras.push(lines[i]);
+          i++;
+        }
+        blocks.push({ type: "p", text: paras.join("\n") });
+      }
+      return blocks.map((b) => {
+        if (b.type === "p") {
+          return `<p>${linkifySrc(esc(b.text))}</p>`;
+        }
+        if (b.type === "ul") {
+          return `<ul>${b.items.map((it) => `<li>${linkifySrc(esc(it))}</li>`).join("")}</ul>`;
+        }
+        // table
+        const rows = b.lines
+          .filter((ln) => !/^\s*\|?\s*:?-{3,}/.test(ln.replace(/\|/g, "").trim() ? ln : ln))
+          .filter((ln) => !/^\|?\s*-{3,}/.test(ln.replace(/\s/g, "")) && !/^\|(\s*:?-+:?\s*\|)+$/.test(ln.trim()));
+        // filter separator rows
+        const bodyRows = b.lines.filter((ln) => !/^\|?\s*[-:| ]+\|?\s*$/.test(ln.trim()));
+        if (!bodyRows.length) return `<pre class="md-table">${esc(b.lines.join("\n"))}</pre>`;
+        let thead = "";
+        let tbody = "";
+        bodyRows.forEach((ln, idx) => {
+          const cells = ln.trim().replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim());
+          const tag = idx === 0 ? "th" : "td";
+          const row = `<tr>${cells.map((c) => `<${tag}>${linkifySrc(esc(c))}</${tag}>`).join("")}</tr>`;
+          if (idx === 0) thead = `<thead>${row}</thead>`;
+          else tbody += row;
+        });
+        return `<div class="md-table"><table>${thead}<tbody>${tbody}</tbody></table></div>`;
+      }).join("");
+    }
+
+    function sectionTitle(sec) {
+      if (state.lang === "zh") return sec.title_zh || sec.title || sec.title_en || sec.id;
+      return sec.title_en || sec.title || sec.title_zh || sec.id;
+    }
+
+    function sectionBody(sec) {
+      if (state.lang === "zh" && sec.body_zh) return sec.body_zh;
+      if (state.lang === "en" && sec.body_en) return sec.body_en;
+      return sec.body_md || "";
+    }
+
     async function ensureBundle(civId) {
-      if (state.cache[civId]) return state.cache[civId];
-      const [sites, periods, claims] = await Promise.all([
+      if (state.cache[civId]?.sites) {
+        // refresh report if missing
+        if (!state.cache[civId].report) {
+          try {
+            state.cache[civId].report = await api(`/api/v1/civilizations/${encodeURIComponent(civId)}/report`);
+          } catch (e) {
+            state.cache[civId].report = { available: false, sections: [] };
+          }
+        }
+        return state.cache[civId];
+      }
+      const [sites, periods, claims, report, sources] = await Promise.all([
         api(`/api/v1/sites?civilization=${encodeURIComponent(civId)}&limit=200`),
         api(`/api/v1/periods?civilization=${encodeURIComponent(civId)}&limit=200`),
         api(`/api/v1/claims?civilization=${encodeURIComponent(civId)}&limit=200`),
+        api(`/api/v1/civilizations/${encodeURIComponent(civId)}/report`).catch(() => ({ available: false, sections: [] })),
+        api(`/api/v1/sources?civilization=${encodeURIComponent(civId)}&limit=200`).catch(() => ({ items: [] })),
       ]);
       const bundle = {
         sites: sites.items || [],
         periods: periods.items || [],
         claims: claims.items || [],
+        report: report || { available: false, sections: [] },
+        sources: sources.items || [],
       };
       state.cache[civId] = bundle;
       return bundle;
     }
 
-    function renderSources(claim) {
-      const srcs = claim.sources || [];
+    function renderSources(rec) {
+      const srcs = rec.sources || [];
       if (!srcs.length) {
         return `<details class="sources"><summary>${esc(t("sources"))}</summary><p>${esc(t("noSources"))}</p></details>`;
       }
@@ -388,6 +550,47 @@
         return `<li>${tier}<span class="id-mono">${esc(s.id || "")}</span> — ${esc(cite)}${link}</li>`;
       }).join("");
       return `<details class="sources"><summary>${esc(t("sources"))} (${srcs.length})</summary><ol>${lis}</ol></details>`;
+    }
+
+    function renderLineage(bundle) {
+      const srcs = (bundle.sources || []).filter((s) => (s.reliability_tier || "").toUpperCase() === "P");
+      // Prefer P; if none, show nothing rather than invent
+      if (!srcs.length) return "";
+      const lis = srcs.slice(0, 24).map((s) => {
+        const cite = s.citation || s.id || "";
+        const link = s.url ? ` <a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">link</a>` : "";
+        return `<li><span class="tier">P</span><span class="id-mono">${esc(s.id)}</span> — ${esc(cite)}${link}</li>`;
+      }).join("");
+      const more = srcs.length > 24 ? `<p class="muted-inline">+${srcs.length - 24}</p>` : "";
+      return `<aside class="lineage">
+        <h4>${esc(t("lineage"))}</h4>
+        <p class="note">${esc(t("lineageNote"))}</p>
+        <ol>${lis}</ol>${more}
+      </aside>`;
+    }
+
+    function renderReport(bundle) {
+      const report = bundle.report || {};
+      if (!report.available || !(report.sections || []).length) {
+        return `<div class="empty">${esc(t("noReport"))}</div>`;
+      }
+      let sections = report.sections;
+      if (state.q.trim()) {
+        sections = sections.filter((s) => matchQ([
+          s.id, s.title, s.title_zh, s.title_en, s.body_md, s.body_zh, s.body_en,
+        ].join(" ")));
+      }
+      if (!sections.length) return `<div class="empty">${esc(t("emptyTab"))}</div>`;
+      const toc = `<nav class="report-nav" aria-label="${esc(t("toc"))}">${
+        sections.map((s) => `<a href="#sec-${esc(s.id)}">${esc(sectionTitle(s))}</a>`).join("")
+      }</nav>`;
+      const lineage = renderLineage(bundle);
+      const body = sections.map((s) => `
+        <section class="report-section" id="sec-${esc(s.id)}">
+          <h3>${esc(sectionTitle(s))}</h3>
+          <div class="report-body">${renderMdLite(sectionBody(s))}</div>
+        </section>`).join("");
+      return toc + lineage + body;
     }
 
     function renderClaims(claims) {
@@ -412,18 +615,35 @@
       }).join("");
     }
 
-    function renderSites(sites) {
+    function renderSites(sites, claims) {
       let list = sites;
       if (state.q.trim()) {
         list = list.filter((s) => matchQ([s.id, nameOf(s), s.region, txt(s.summary), s.kind_note || ""].join(" ")));
       }
       if (!list.length) return `<div class="empty">${esc(t("emptyTab"))}</div>`;
-      return list.map((s) => `
-        <article class="card">
+      return list.map((s) => {
+        const coords = s.coordinates && (s.coordinates.lat != null) && (s.coordinates.lon != null)
+          ? `<p class="coords">${esc(t("coords"))}: ${esc(s.coordinates.lat)}, ${esc(s.coordinates.lon)}${
+              s.coordinates.precision_note ? ` · ${esc(t("precision"))}: ${esc(s.coordinates.precision_note)}` : ""
+            }</p>`
+          : "";
+        const linked = (claims || []).filter((c) => (c.site_ids || []).includes(s.id));
+        const linkedBlock = linked.length
+          ? `<details class="site-claims"><summary>${esc(t("linkedClaims"))} (${linked.length})</summary>
+              <ul>${linked.map((c) => {
+                const kind = c.kind === "hypothesis" ? "hypothesis" : "fact";
+                return `<li><span class="badge ${kind}">${esc(kind)}</span> <span class="id-mono">${esc(c.id)}</span> — ${esc(txt(c.statement))}</li>`;
+              }).join("")}</ul></details>`
+          : "";
+        return `<article class="card">
           <h3>${esc(nameOf(s))}</h3>
           <div class="sub id-mono">${esc(s.id)}${s.region ? " · " + esc(s.region) : ""}</div>
           <p>${esc(txt(s.summary) || s.kind_note || "")}</p>
-        </article>`).join("");
+          ${coords}
+          ${renderSources(s)}
+          ${linkedBlock}
+        </article>`;
+      }).join("");
     }
 
     function renderPeriods(periods) {
@@ -454,15 +674,18 @@
       el.innerHTML = `<div class="loading">${esc(t("loading"))}</div>`;
       try {
         const bundle = await ensureBundle(civ.id);
+        const reportN = (bundle.report && bundle.report.sections) ? bundle.report.sections.length : 0;
         const tabs = [
-          ["claims", t("claims"), bundle.claims.length],
+          ["report", t("report"), reportN],
           ["sites", t("sites"), bundle.sites.length],
           ["periods", t("periods"), bundle.periods.length],
+          ["claims", t("claims"), bundle.claims.length],
         ];
         let body = "";
-        if (state.tab === "sites") body = renderSites(bundle.sites);
+        if (state.tab === "sites") body = renderSites(bundle.sites, bundle.claims);
         else if (state.tab === "periods") body = renderPeriods(bundle.periods);
-        else body = renderClaims(bundle.claims);
+        else if (state.tab === "claims") body = renderClaims(bundle.claims);
+        else body = renderReport(bundle);
 
         el.innerHTML = `
           <div class="detail-inner">
@@ -494,6 +717,7 @@
 
     async function selectCiv(id) {
       state.selected = id;
+      state.tab = "report";
       renderCivList();
       await renderDetail();
     }

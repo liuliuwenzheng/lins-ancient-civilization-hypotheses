@@ -105,6 +105,7 @@ Templates are marked clearly; they are **not** filled with invented case studies
 
 - **Design taste** — makers’ principles + UI/API/README checklist: [`docs/design-taste.md`](docs/design-taste.md) · [中文](docs/design-taste.zh.md)
 - **Entry depth** — required sections, source minimums, status ladder: [`docs/entry-depth.md`](docs/entry-depth.md) · [中文](docs/entry-depth.zh.md)
+- **Entry detail UI** — report columns as primary surface: [`docs/entry-detail-ui.md`](docs/entry-detail-ui.md) · [中文](docs/entry-detail-ui.zh.md)
 - **Decisions** — dated scope choices: [`docs/decisions.md`](docs/decisions.md) · [中文](docs/decisions.zh.md)
 - **Architecture** — layers, entities, invariants, storage path: [`docs/architecture.md`](docs/architecture.md) · [中文](docs/architecture.zh.md)
 - **Deliberation Council** — multi-lens audit; FUTURE_WINDOW: [`docs/council.md`](docs/council.md) · [中文](docs/council.zh.md) · [`deliberations/`](deliberations/)

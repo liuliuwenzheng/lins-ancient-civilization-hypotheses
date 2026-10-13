@@ -170,7 +170,8 @@ Empty result for a **valid** combo → **200** with `items: []`, not 404.
 | GET | `/meta/source-tiers` | P/S/T/U |
 | GET | `/meta/stats` | Counts by kind / region / tier / status |
 | GET | `/civilizations` | Fact-library list (filters + cursor) |
-| GET | `/civilizations/{id}` | One civilization |
+| GET | `/civilizations/{id}` | One civilization (`markdown_path` / `report_available`) |
+| GET | `/civilizations/{id}/report` | Parsed markdown report columns (`sections[]`; no invented empties) |
 | GET | `/sources` | Source registry list |
 | GET | `/sources/{id}` | One source |
 | GET | `/hypotheses` | Hypothesis board list |
@@ -206,6 +207,13 @@ Empty result for a **valid** combo → **200** with `items: []`, not 404.
 Additional filters: none beyond shared, plus maybe `related_to={civ-id}`.
 
 Response items: `kind: "fact"`. **Must** include non-empty `sources` after citation gate; ungated drafts stay git-only.
+
+
+### 4.2.1 `/civilizations/{id}/report` (entry report columns)
+
+Read-only. Parses `##` sections from the civilization `markdown_path` for the `/ui` default Report tab. See [`entry-detail-ui.md`](entry-detail-ui.md).
+
+Response fields: `civilization_id`, `markdown_path`, `available`, `sections[]` (`id`, `title_en`, `title_zh`, `body_md`, plus best-effort `body_zh` / `body_en`). Missing file or no sections → `available: false` and `sections: []` — **no invented body**.
 
 ### 4.3 `/hypotheses`
 

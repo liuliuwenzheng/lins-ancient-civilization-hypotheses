@@ -170,7 +170,8 @@ https://{host}/api/v1
 | GET | `/meta/source-tiers` | P/S/T/U |
 | GET | `/meta/stats` | 按 kind / region / tier / status 计数 |
 | GET | `/civilizations` | 事实库列表（筛选 + 游标） |
-| GET | `/civilizations/{id}` | 单条文明 |
+| GET | `/civilizations/{id}` | 单条文明（含 `markdown_path` / `report_available`） |
+| GET | `/civilizations/{id}/report` | 解析 Markdown 分栏报告（`sections[]`；不虚构空栏） |
 | GET | `/sources` | 来源登记列表 |
 | GET | `/sources/{id}` | 单条来源 |
 | GET | `/hypotheses` | 假说板列表 |
@@ -206,6 +207,13 @@ https://{host}/api/v1
 附加筛选：可有 `related_to={civ-id}`。
 
 响应项：`kind: "fact"`。通过出处闸门后 **必须** 带非空 `sources`；未过闸的草稿只留在 git。
+
+
+### 4.2.1 `/civilizations/{id}/report`（条目分栏报告）
+
+只读。从文明记录的 `markdown_path` 解析 `##` 栏目，供 `/ui` 默认「档案报告」页签使用。详见 [`entry-detail-ui.zh.md`](entry-detail-ui.zh.md)。
+
+响应字段：`civilization_id`、`markdown_path`、`available`、`sections[]`（`id`、`title_en`、`title_zh`、`body_md`，以及尽力拆分的 `body_zh` / `body_en`）。文件缺失或无栏目 → `available: false` 且 `sections: []`，**不发明正文**。
 
 ### 4.3 `/hypotheses`
 
