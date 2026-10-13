@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-trade-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "乌加里特贸易连接塞浦路斯、爱琴与近东内陆。",
+    "en": "Ugarit’s trade linked Cyprus, the Aegean and the Near Eastern interior.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-minet-beida-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-trade-seed-g",
+    "src-ugarit-yon-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

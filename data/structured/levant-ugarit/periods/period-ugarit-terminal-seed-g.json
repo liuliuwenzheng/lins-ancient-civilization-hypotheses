@@ -1,0 +1,36 @@
+{
+  "id": "period-ugarit-terminal-seed-g",
+  "entity": "period",
+  "names": {
+    "zh": "终端毁灭窗SeedG",
+    "en": "Terminal destruction Seed G",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "c. 1200 BCE destruction horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "c. 1200 BCE destruction horizon"
+  },
+  "summary": {
+    "zh": "约前1200毁灭地平。",
+    "en": "c. 1200 BCE destruction horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-destruction-seed-g",
+    "src-ugarit-yon-seed-g"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

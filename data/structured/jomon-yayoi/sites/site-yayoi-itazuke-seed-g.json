@@ -1,0 +1,33 @@
+{
+  "id": "site-yayoi-itazuke-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "板付水田加深",
+    "en": "Itazuke paddy deepen",
+    "native": null
+  },
+  "kind_note": "Early wet-rice paddies",
+  "region": "Fukuoka",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "早期水田加深。",
+    "en": "Early wet-rice paddies deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-yayoi-itazuke-seed-g",
+    "src-yayoi-rice-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

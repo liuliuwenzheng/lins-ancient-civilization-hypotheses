@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-baal-cycle-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "巴力循环泥板将神话叙事与城邦祭仪语境联系起来。",
+    "en": "Baal Cycle tablets link mythic narrative to city cult contexts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-house-high-priest-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-baal-cycle-seed-g",
+    "src-ugarit-pardee-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

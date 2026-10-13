@@ -1,0 +1,33 @@
+{
+  "id": "site-jomon-sannai-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "三内丸山加深",
+    "en": "Sannai-Maruyama deepen",
+    "native": null
+  },
+  "kind_note": "Large Jomon settlement",
+  "region": "Aomori",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "大型绳文聚落加深。",
+    "en": "Large Jomon settlement deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-sannai-seed-g",
+    "src-jomon-unesco-1632-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

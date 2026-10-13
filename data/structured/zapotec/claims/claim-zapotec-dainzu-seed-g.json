@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-dainzu-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "丹苏以球戏相关浮雕著称。",
+    "en": "Dainzú is noted for ballgame-related reliefs.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-dainzu-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-dainzu-seed-g",
+    "src-zapotec-joyce-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

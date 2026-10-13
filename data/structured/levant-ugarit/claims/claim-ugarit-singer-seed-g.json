@@ -1,0 +1,30 @@
+{
+  "id": "claim-ugarit-singer-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Singer 对乌加里特政治史的综论梳理王朝与大国外交。",
+    "en": "Singer’s political-history synthesis traces dynasty and great-power diplomacy.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-singer-seed-g",
+    "src-ugarit-yon-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

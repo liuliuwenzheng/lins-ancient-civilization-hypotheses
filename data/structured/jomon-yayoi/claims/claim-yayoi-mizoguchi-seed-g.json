@@ -1,0 +1,30 @@
+{
+  "id": "claim-yayoi-mizoguchi-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mizoguchi 对弥生的综论强调稻作、冲突与社会分层。",
+    "en": "Mizoguchi’s Yayoi synthesis stresses rice, conflict and social stratification.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-mizoguchi-seed-g",
+    "src-yayoi-rice-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

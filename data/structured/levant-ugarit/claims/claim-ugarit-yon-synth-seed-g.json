@@ -1,0 +1,30 @@
+{
+  "id": "claim-ugarit-yon-synth-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Yon《City of Ugarit》是乌加里特城市考古的标准综论入口。",
+    "en": "Yon’s City of Ugarit is a standard synthetic entry to Ugarit urban archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-yon-seed-g",
+    "src-ugarit-watson-wyatt-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

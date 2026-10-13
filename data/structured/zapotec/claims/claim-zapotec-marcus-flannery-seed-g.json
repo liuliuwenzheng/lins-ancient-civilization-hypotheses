@@ -1,0 +1,30 @@
+{
+  "id": "claim-zapotec-marcus-flannery-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Marcus/Flannery 综论是萨波特克政治与社会复杂化的标准入口。",
+    "en": "Marcus/Flannery’s synthesis is a standard entry to Zapotec political and social complexity.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-marcus-flannery-seed-g",
+    "src-zapotec-joyce-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

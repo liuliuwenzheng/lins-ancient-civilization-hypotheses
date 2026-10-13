@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-sarianidi-gonur-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Sarianidi 对戈努尔的发掘确立马尔吉亚纳 BMAC 核心聚落序列。",
+    "en": "Sarianidi’s Gonur excavations established the core Margiana BMAC settlement sequence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-gonur-north-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-sarianidi-seed-g",
+    "src-bmac-hiebert-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

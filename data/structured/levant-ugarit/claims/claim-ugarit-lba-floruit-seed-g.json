@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-lba-floruit-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚青铜繁荣窗对应王宫建设、档案积累与港口贸易高峰。",
+    "en": "The LBA floruit window corresponds to palace building, archive accumulation and harbour-trade peak.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ugarit-lba-seed-g"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-yon-seed-g",
+    "src-ugarit-singer-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-yayoi-yoshinogari-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "吉野里加深",
+    "en": "Yoshinogari deepen",
+    "native": null
+  },
+  "kind_note": "Yayoi moated settlement",
+  "region": "Saga",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "环壕聚落加深。",
+    "en": "Moated Yayoi settlement deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-yayoi-yoshinogari-seed-g",
+    "src-yayoi-mizoguchi-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

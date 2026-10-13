@@ -1,0 +1,43 @@
+{
+  "id": "asm-jomon-pottery-seed-g",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "绳纹陶器类型框架",
+    "en": "Jomon pottery typology frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-sannai-seed-g"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "陶器类型框架。",
+    "en": "Pottery typology frame.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-pottery-seed-g",
+    "src-jomon-habu-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-yayoi-middle-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "弥生中期窗对应水田扩张与青铜器流通。",
+    "en": "The Middle Yayoi window corresponds to paddy expansion and bronze circulation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-yayoi-middle-seed-g"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-mizoguchi-seed-g",
+    "src-yayoi-bronze-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

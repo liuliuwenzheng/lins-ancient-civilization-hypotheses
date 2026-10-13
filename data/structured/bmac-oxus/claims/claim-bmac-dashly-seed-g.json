@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-dashly-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "达什利代表巴克特里亚侧绿洲中心类型。",
+    "en": "Dashly represents a Bactria-side oasis center type.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-dashly-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-dashly-seed-g",
+    "src-bmac-francfort-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

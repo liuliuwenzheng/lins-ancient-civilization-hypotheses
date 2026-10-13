@@ -1,0 +1,43 @@
+{
+  "id": "asm-yayoi-itazuke-seed-g",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "板付水田组合",
+    "en": "Itazuke paddy assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-yayoi-itazuke-seed-g"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "水田组合。",
+    "en": "Paddy-field assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-yayoi-itazuke-seed-g",
+    "src-yayoi-rice-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

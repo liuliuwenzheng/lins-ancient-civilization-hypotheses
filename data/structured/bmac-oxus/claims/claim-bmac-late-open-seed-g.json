@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-late-open-seed-g",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "晚期 BMAC 转变机制（气候、游牧、贸易重组）仍有争论。",
+    "en": "Mechanisms of late BMAC transformation (climate, mobility, trade reorganization) remain debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-bmac-late-seed-g"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-francfort-seed-g",
+    "src-bmac-lamberg-karlovsky-seed-g"
+  ],
+  "disclaimer": "Late BMAC transformation causes debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

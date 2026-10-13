@@ -1,0 +1,19 @@
+{
+  "id": "src-ugarit-minet-beida-seed-g",
+  "entity": "source",
+  "type": "article",
+  "citation": "Minet el-Beida harbour literature Seed G.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Harbour Seed G.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

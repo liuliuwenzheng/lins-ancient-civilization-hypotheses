@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-floruit-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "中青铜繁荣窗对应戈努尔级中心与绿洲灌溉网络扩张。",
+    "en": "The Middle Bronze floruit window corresponds to Gonur-scale centers and oasis irrigation expansion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-bmac-floruit-seed-g"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-hiebert-seed-g",
+    "src-bmac-francfort-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

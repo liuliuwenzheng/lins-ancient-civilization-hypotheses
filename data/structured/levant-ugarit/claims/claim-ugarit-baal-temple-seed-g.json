@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-baal-temple-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卫城巴力神庙是乌加里特主要祭仪建筑之一。",
+    "en": "The acropolis Temple of Baal is one of Ugarit’s principal cult buildings.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-temple-baal-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-temple-baal-seed-g",
+    "src-ugarit-yon-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

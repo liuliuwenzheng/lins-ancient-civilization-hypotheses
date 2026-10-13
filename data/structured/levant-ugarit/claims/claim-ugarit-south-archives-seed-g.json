@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-south-archives-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "南部档案翼是王宫行政文书集中出土区之一。",
+    "en": "The south archive wing is one of the palace’s concentrated administrative-text find areas.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-south-archives-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-van-soldt-seed-g",
+    "src-ugarit-royal-palace-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

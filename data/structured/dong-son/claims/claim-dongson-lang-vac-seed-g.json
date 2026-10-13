@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-lang-vac-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "郎万是大型东山墓地，反映区域葬俗变异。",
+    "en": "Lang Vạc is a large Dong Son cemetery reflecting regional mortuary variation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-lang-vac-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-lang-vac-seed-g",
+    "src-dongson-kim-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

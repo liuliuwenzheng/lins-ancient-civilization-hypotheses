@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-mitla-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "米特拉宫殿加深",
+    "en": "Mitla palace deepen",
+    "native": null
+  },
+  "kind_note": "Palace courts with grecas",
+  "region": "Tlacolula arm",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "几何饰带宫殿庭院加深。",
+    "en": "Palace courts with grecas deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-mitla-seed-g",
+    "src-zapotec-joyce-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

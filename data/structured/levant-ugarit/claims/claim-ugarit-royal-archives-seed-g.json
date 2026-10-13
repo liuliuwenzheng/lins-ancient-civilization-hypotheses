@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-royal-archives-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "王宫档案保存外交、行政与法律泥板，是晚青铜叙利亚国家运作的关键证据。",
+    "en": "Royal palace archives preserve diplomatic, administrative and legal tablets—key evidence for LBA Syrian state practice.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-royal-palace-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-royal-palace-seed-g",
+    "src-ugarit-van-soldt-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

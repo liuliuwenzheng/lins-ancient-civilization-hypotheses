@@ -1,0 +1,30 @@
+{
+  "id": "claim-dongson-motifs-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "铜鼓鼓面羽人、房屋与船纹是东山图像的核心母题。",
+    "en": "Feathered figures, houses and boats on drum tympana are core Dong Son image motifs.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-imprints-seed-g",
+    "src-dongson-drums-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

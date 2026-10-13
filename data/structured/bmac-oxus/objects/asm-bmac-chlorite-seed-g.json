@@ -1,0 +1,43 @@
+{
+  "id": "asm-bmac-chlorite-seed-g",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "绿泥石容器组合",
+    "en": "Chlorite vessel assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-gonur-necropolis-seed-g"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "软石容器组合。",
+    "en": "Soft-stone vessel assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-chlorite-seed-g",
+    "src-bmac-lamberg-karlovsky-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

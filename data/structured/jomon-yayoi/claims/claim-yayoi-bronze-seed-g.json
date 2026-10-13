@@ -1,0 +1,30 @@
+{
+  "id": "claim-yayoi-bronze-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "弥生青铜铎与兵器是礼仪与权力表达的重要媒介。",
+    "en": "Yayoi bronze bells and weapons are key media of ritual and power expression.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-bronze-seed-g",
+    "src-yayoi-mizoguchi-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

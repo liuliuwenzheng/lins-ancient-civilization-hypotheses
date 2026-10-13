@@ -1,0 +1,43 @@
+{
+  "id": "asm-ugarit-ibn-hani-seed-g",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "伊本哈尼组合",
+    "en": "Ras Ibn Hani assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-ras-ibn-hani-seed-g"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "王室港郊组合。",
+    "en": "Royal port-suburb assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-ras-ibn-hani-seed-g",
+    "src-ugarit-yon-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

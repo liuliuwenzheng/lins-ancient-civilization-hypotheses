@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-high-priest-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大祭司宅出土大量宗教与文学泥板。",
+    "en": "The House of the High Priest yielded numerous religious and literary tablets.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-house-high-priest-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-tablet-houses-seed-g",
+    "src-ugarit-pardee-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

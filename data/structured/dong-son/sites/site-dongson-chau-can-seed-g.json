@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-chau-can-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "周根加深",
+    "en": "Châu Can deepen",
+    "native": null
+  },
+  "kind_note": "Burial site",
+  "region": "Red River Delta",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "墓葬遗址加深。",
+    "en": "Burial site deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-chau-can-seed-g",
+    "src-dongson-boat-burial-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

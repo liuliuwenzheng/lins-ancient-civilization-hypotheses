@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-mitla-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "米特拉以其几何石镶嵌（grecas）宫殿庭院著称。",
+    "en": "Mitla is famed for palace courts with geometric stone mosaic grecas.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-mitla-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-mitla-seed-g",
+    "src-zapotec-joyce-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

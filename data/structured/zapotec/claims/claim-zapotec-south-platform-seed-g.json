@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-south-platform-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "南平台是蒙特阿尔班主轴线重要礼仪建筑群。",
+    "en": "The South Platform is a major ceremonial complex on Monte Albán’s main axis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-monte-alban-plaza-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-south-platform-seed-g",
+    "src-zapotec-blanton-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

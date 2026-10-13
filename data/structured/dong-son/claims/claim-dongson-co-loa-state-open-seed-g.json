@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-co-loa-state-open-seed-g",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "古螺是否代表早期国家中心仍是开放解释。",
+    "en": "Whether Cổ Loa represents an early state center remains an open interpretation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-co-loa-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-co-loa-seed-g",
+    "src-dongson-kim-seed-g"
+  ],
+  "disclaimer": "Early state status of Co Loa debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

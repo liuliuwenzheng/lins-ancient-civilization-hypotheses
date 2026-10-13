@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-gonur-north-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "戈努尔北城加深",
+    "en": "Gonur North deepen",
+    "native": null
+  },
+  "kind_note": "Palace / temple complex",
+  "region": "Margiana",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "北城宫殿/神庙复合体加深。",
+    "en": "North palace/temple complex deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-sarianidi-seed-g",
+    "src-bmac-hiebert-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

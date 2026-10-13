@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-destruction-open-seed-g",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "约前1200的毁灭是否归因于海上民族仍是开放争论。",
+    "en": "Whether the c. 1200 BCE destruction is attributable to Sea Peoples remains debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-ugarit-terminal-seed-g"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-destruction-seed-g",
+    "src-ugarit-yon-seed-g"
+  ],
+  "disclaimer": "Terminal destruction agency debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

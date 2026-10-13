@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-monte-alban-plaza-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "蒙特阿尔班主广场加深",
+    "en": "Monte Albán Main Plaza deepen",
+    "native": null
+  },
+  "kind_note": "Civic-ceremonial plaza",
+  "region": "Oaxaca",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "礼仪主广场加深。",
+    "en": "Civic-ceremonial main plaza deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-blanton-seed-g",
+    "src-zapotec-unesco-415-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

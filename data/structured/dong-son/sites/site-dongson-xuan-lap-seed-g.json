@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-xuan-lap-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "春立加深",
+    "en": "Xuân Lập deepen",
+    "native": null
+  },
+  "kind_note": "Dong Son settlement / burial",
+  "region": "Red River Delta",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "东山聚落/墓葬加深。",
+    "en": "Dong Son settlement/burial deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-higham-seed-g",
+    "src-dongson-kim-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

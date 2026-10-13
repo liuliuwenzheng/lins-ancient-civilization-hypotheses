@@ -1,0 +1,43 @@
+{
+  "id": "asm-jomon-komakino-seed-g",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "小牧野组合",
+    "en": "Komakino assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-komakino-seed-g"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "列石组合。",
+    "en": "Stone-circle assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-komakino-seed-g",
+    "src-jomon-unesco-1632-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

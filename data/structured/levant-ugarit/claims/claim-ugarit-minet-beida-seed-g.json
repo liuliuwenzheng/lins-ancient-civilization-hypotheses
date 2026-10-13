@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-minet-beida-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "米内特拜达是乌加里特的海港，支撑地中海贸易。",
+    "en": "Minet el-Beida was Ugarit’s harbour, supporting Mediterranean trade.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-minet-beida-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-minet-beida-seed-g",
+    "src-ugarit-trade-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

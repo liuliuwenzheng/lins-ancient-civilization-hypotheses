@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-danzantes-seed-g",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "舞者石碑常被解释为战俘或献祭图像程序。",
+    "en": "Danzantes monuments are often interpreted as captive or sacrificial image programs.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-danzantes-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-danzantes-seed-g",
+    "src-zapotec-caso-seed-g"
+  ],
+  "disclaimer": "Danzantes identity interpretation debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

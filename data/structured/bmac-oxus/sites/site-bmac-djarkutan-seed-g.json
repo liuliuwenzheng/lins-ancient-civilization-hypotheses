@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-djarkutan-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "贾尔库坦加深",
+    "en": "Djarkutan deepen",
+    "native": null
+  },
+  "kind_note": "Southern Uzbekistan center",
+  "region": "Surkhandarya",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "南部中心加深。",
+    "en": "Southern center deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-djarkutan-seed-g",
+    "src-bmac-lamberg-karlovsky-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

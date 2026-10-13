@@ -1,0 +1,32 @@
+{
+  "id": "claim-jomon-oyu-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大汤环状列石是东北绳文礼仪景观的标志。",
+    "en": "The Ōyu stone circles are landmarks of the northeastern Jomon ritual landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-oyu-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-oyu-seed-g",
+    "src-jomon-unesco-1632-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

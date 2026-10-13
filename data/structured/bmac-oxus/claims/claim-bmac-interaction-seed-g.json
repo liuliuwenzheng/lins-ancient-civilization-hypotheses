@@ -1,0 +1,30 @@
+{
+  "id": "claim-bmac-interaction-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Lamberg-Karlovsky 强调 BMAC 与伊朗、印度河的互动网络。",
+    "en": "Lamberg-Karlovsky stresses BMAC interaction networks with Iran and the Indus.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-lamberg-karlovsky-seed-g",
+    "src-bmac-francfort-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

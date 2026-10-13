@@ -1,0 +1,32 @@
+{
+  "id": "media-ugarit-unesco-seed-g",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：乌加里特相关R SeedG",
+    "en": "UNESCO: Ugarit-related Seed G",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/tentativelists/1292/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-unesco-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/tentativelists/1292/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

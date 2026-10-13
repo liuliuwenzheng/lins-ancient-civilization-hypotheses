@@ -1028,3 +1028,17 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-13-01 — 种子包 Batch G 朝约 48 来源加厚
+
+**决定：** 对种子包 `levant-ugarit`、`bmac-oxus`、`zapotec`、`jomon-yayoi`、`dong-son` 从约 30 来源 Seed C–F 带朝热门 Round-2 带（约 48 来源）加厚；**保持 `library-seed-rich`**。主张 ID 使用 `-seed-g` 后缀。其余 16 个薄种子包留待 Batch H/I/J。
+
+**每包大约增量：** +18 来源 · +8 遗址 · +2 时段 · +12 对象 · +17 主张 · +3 媒体。
+
+**落地带：** 约 48–49 来源 / 22–23 遗址 / 10 时段 / 19 对象 / 43 主张 / 7–9 媒体。
+
+**坐标补填：** 本轮无新填。
+
+**报告：** [`docs/audits/pass-2026-10-13-seed-batch-g.md`](audits/pass-2026-10-13-seed-batch-g.md) · [中文](audits/pass-2026-10-13-seed-batch-g.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

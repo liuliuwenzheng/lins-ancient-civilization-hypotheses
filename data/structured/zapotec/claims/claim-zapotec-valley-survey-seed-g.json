@@ -1,0 +1,30 @@
+{
+  "id": "claim-zapotec-valley-survey-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦哈卡谷地聚落调查将都城置于区域等级而非孤立纪念碑。",
+    "en": "Valley settlement survey places the capital in a regional hierarchy rather than as an isolated monument.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-valley-survey-seed-g",
+    "src-zapotec-blanton-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

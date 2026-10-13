@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-shortughai-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "肖图盖显示 BMAC 世界与印度河传统的北方接触。",
+    "en": "Shortughai shows northern contact between the BMAC world and Indus traditions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-shortughai-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-shortughai-seed-g",
+    "src-bmac-lamberg-karlovsky-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

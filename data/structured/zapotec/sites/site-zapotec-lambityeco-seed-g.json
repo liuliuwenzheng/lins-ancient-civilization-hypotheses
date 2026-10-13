@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-lambityeco-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "兰比蒂耶科加深",
+    "en": "Lambityeco deepen",
+    "native": null
+  },
+  "kind_note": "Late Classic salt / elite center",
+  "region": "Tlacolula",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "晚古典盐业/精英中心加深。",
+    "en": "Late Classic salt/elite center deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-lambityeco-seed-g",
+    "src-zapotec-joyce-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

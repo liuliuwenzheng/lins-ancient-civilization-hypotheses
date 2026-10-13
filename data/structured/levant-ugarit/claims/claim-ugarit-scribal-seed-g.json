@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-scribal-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "书吏区与私宅泥板显示文字训练超出王宫核心。",
+    "en": "Scribal quarter and private tablet houses show literacy training beyond the palace core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-scribal-quarter-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-tablet-houses-seed-g",
+    "src-ugarit-van-soldt-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-zaachila-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "萨奇拉加深",
+    "en": "Zaachila deepen",
+    "native": null
+  },
+  "kind_note": "Postclassic capital",
+  "region": "Oaxaca valley",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "后古典都城加深。",
+    "en": "Postclassic capital deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-zaachila-seed-g",
+    "src-zapotec-joyce-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

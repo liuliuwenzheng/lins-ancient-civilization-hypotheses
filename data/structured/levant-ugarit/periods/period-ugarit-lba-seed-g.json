@@ -1,0 +1,36 @@
+{
+  "id": "period-ugarit-lba-seed-g",
+  "entity": "period",
+  "names": {
+    "zh": "晚青铜繁荣窗SeedG",
+    "en": "LBA floruit Seed G",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "Late Bronze Age Ugarit floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late Bronze Age Ugarit floruit"
+  },
+  "summary": {
+    "zh": "晚青铜乌加里特繁荣。",
+    "en": "LBA Ugarit floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-yon-seed-g",
+    "src-ugarit-singer-seed-g"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

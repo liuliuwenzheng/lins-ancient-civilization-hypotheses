@@ -1,0 +1,43 @@
+{
+  "id": "asm-jomon-sannai-seed-g",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三内丸山组合",
+    "en": "Sannai-Maruyama assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-sannai-seed-g"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "大型聚落组合。",
+    "en": "Large settlement assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-sannai-seed-g",
+    "src-jomon-unesco-1632-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-building-j-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "J 号建筑加深",
+    "en": "Building J deepen",
+    "native": null
+  },
+  "kind_note": "Arrowhead building",
+  "region": "Monte Albán",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "箭头形建筑加深。",
+    "en": "Arrowhead building deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-building-j-seed-g",
+    "src-zapotec-marcus-flannery-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

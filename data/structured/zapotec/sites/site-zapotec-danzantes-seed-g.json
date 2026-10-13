@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-danzantes-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "舞者石碑区加深",
+    "en": "Danzantes sector deepen",
+    "native": null
+  },
+  "kind_note": "Carved monument gallery",
+  "region": "Monte Albán",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "雕刻纪念碑长廊加深。",
+    "en": "Carved monument gallery deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-danzantes-seed-g",
+    "src-zapotec-caso-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-zapotec-postclassic-seed-g",
+  "entity": "period",
+  "names": {
+    "zh": "后古典窗SeedG",
+    "en": "Postclassic Seed G",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "time": {
+    "label": "Postclassic Mitla / Zaachila horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Postclassic Mitla / Zaachila horizon"
+  },
+  "summary": {
+    "zh": "后古典米特拉/萨奇拉地平。",
+    "en": "Postclassic Mitla/Zaachila horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-joyce-seed-g",
+    "src-zapotec-mitla-seed-g"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

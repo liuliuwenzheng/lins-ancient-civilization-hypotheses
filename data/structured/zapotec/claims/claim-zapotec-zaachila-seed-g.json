@@ -1,0 +1,34 @@
+{
+  "id": "claim-zapotec-zaachila-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "萨奇拉是后古典瓦哈卡谷地重要政治中心。",
+    "en": "Zaachila was a major Postclassic political center in the Valley of Oaxaca.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-zaachila-seed-g"
+  ],
+  "period_ids": [
+    "period-zapotec-postclassic-seed-g"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-zaachila-seed-g",
+    "src-zapotec-joyce-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

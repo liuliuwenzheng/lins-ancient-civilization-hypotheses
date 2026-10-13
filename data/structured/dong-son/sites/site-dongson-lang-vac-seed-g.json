@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-lang-vac-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "郎万墓地加深",
+    "en": "Lang Vạc cemetery deepen",
+    "native": null
+  },
+  "kind_note": "Large cemetery",
+  "region": "Nghe An",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "大型墓地加深。",
+    "en": "Large cemetery deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-lang-vac-seed-g",
+    "src-dongson-kim-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

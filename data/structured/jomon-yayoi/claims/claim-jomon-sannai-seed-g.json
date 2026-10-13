@@ -1,0 +1,32 @@
+{
+  "id": "claim-jomon-sannai-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "三内丸山是绳文时代规模最大的聚落之一，含大型掘立柱建筑。",
+    "en": "Sannai-Maruyama is among the largest Jomon settlements, with large post-built structures.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-sannai-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-sannai-seed-g",
+    "src-jomon-unesco-1632-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

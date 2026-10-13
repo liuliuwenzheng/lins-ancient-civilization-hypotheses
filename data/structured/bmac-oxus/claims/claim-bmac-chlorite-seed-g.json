@@ -1,0 +1,30 @@
+{
+  "id": "claim-bmac-chlorite-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "绿泥石容器反映与伊朗高原软石传统的远距交流。",
+    "en": "Chlorite vessels reflect long-distance exchange with Iranian plateau soft-stone traditions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-chlorite-seed-g",
+    "src-bmac-lamberg-karlovsky-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

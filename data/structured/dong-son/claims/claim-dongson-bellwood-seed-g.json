@@ -1,0 +1,30 @@
+{
+  "id": "claim-dongson-bellwood-seed-g",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "Bellwood 的区域框架将东山与南亚语/澳斯特罗尼西亚互动讨论相连。",
+    "en": "Bellwood’s regional frame links Dong Son to Austroasiatic/Austronesian interaction debates.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-bellwood-seed-g",
+    "src-dongson-higham-seed-g"
+  ],
+  "disclaimer": "Language–archaeology correlations remain debated.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-viet-khe-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "越溪船棺随葬大量青铜器，是精英葬仪的关键案例。",
+    "en": "The Việt Khê boat burial, with abundant bronzes, is a key elite mortuary case.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-viet-khe-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-viet-khe-seed-g",
+    "src-dongson-boat-burial-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

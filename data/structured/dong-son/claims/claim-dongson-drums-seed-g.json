@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-drums-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "赫格尔I式铜鼓是东山文化最具辨识度的青铜礼器。",
+    "en": "Heger Type I bronze drums are the most distinctive Dong Son ceremonial bronzes.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-thanh-hoa-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-drums-seed-g",
+    "src-dongson-imprints-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

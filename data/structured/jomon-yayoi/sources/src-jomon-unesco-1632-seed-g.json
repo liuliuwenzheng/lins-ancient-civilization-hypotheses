@@ -1,0 +1,19 @@
+{
+  "id": "src-jomon-unesco-1632-seed-g",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO WHC — Jomon Prehistoric Sites in Northern Japan Seed G.",
+  "url": "https://whc.unesco.org/en/list/1632/",
+  "access_date": "2026-10-13",
+  "reliability_tier": "T",
+  "notes": "WHC 1632; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

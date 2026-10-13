@@ -1,0 +1,36 @@
+{
+  "id": "period-bmac-floruit-seed-g",
+  "entity": "period",
+  "names": {
+    "zh": "BMAC繁荣窗SeedG",
+    "en": "BMAC floruit Seed G",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "Middle Bronze Oxus floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Middle Bronze Oxus floruit"
+  },
+  "summary": {
+    "zh": "中青铜 Oxus 繁荣。",
+    "en": "Middle Bronze Oxus floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-hiebert-seed-g",
+    "src-bmac-francfort-seed-g"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

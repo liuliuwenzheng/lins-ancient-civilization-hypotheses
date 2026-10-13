@@ -1,0 +1,33 @@
+{
+  "id": "site-ugarit-temple-dagan-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "达甘神庙加深",
+    "en": "Temple of Dagan deepen",
+    "native": null
+  },
+  "kind_note": "Acropolis temple",
+  "region": "Ras Shamra",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "卫城达甘神庙加深。",
+    "en": "Acropolis Dagan temple deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-yon-seed-g",
+    "src-ugarit-pardee-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

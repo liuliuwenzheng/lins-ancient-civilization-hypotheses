@@ -1,0 +1,33 @@
+{
+  "id": "site-jomon-odai-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "大平山元加深",
+    "en": "Odai Yamamoto deepen",
+    "native": null
+  },
+  "kind_note": "Early pottery site",
+  "region": "Aomori",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "早期陶器遗址加深。",
+    "en": "Early pottery site deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-odai-seed-g",
+    "src-jomon-habu-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

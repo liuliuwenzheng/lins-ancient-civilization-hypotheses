@@ -1,0 +1,30 @@
+{
+  "id": "claim-bmac-murghab-survey-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "穆尔加布三角洲调查将戈努尔置于密集绿洲聚落等级中。",
+    "en": "Murghab delta survey places Gonur within a dense oasis settlement hierarchy.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-salvatori-seed-g",
+    "src-bmac-hiebert-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

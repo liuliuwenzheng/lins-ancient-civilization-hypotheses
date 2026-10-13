@@ -1,0 +1,32 @@
+{
+  "id": "media-zapotec-inah-seed-g",
+  "entity": "media",
+  "title": {
+    "zh": "INAH 门户取向 SeedG",
+    "en": "INAH portal orientation Seed G",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://www.inah.gob.mx/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-inah-seed-g"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "INAH",
+    "upstream_url": "https://www.inah.gob.mx/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

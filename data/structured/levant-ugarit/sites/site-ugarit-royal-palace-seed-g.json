@@ -1,0 +1,33 @@
+{
+  "id": "site-ugarit-royal-palace-seed-g",
+  "entity": "site",
+  "names": {
+    "zh": "王宫加深",
+    "en": "Royal palace deepen",
+    "native": null
+  },
+  "kind_note": "Palace with archives",
+  "region": "Ras Shamra",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "王宫与档案库加深。",
+    "en": "Palace and archives deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-royal-palace-seed-g",
+    "src-ugarit-yon-seed-g"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

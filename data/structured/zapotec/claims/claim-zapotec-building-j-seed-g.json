@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-building-j-seed-g",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "J 号建筑铭刻与征服地名记录相关，并有天文取向讨论。",
+    "en": "Building J inscriptions relate to conquest place-names, with debated astronomical orientation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-building-j-seed-g"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-building-j-seed-g",
+    "src-zapotec-marcus-flannery-seed-g"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_g.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-01"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch G toward ~48 sources (D-2026-10-13-01). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
