@@ -8,45 +8,50 @@ region: "South America / Andean highlands and coast (Cusco heartland; empire spa
 time_span: "Late Horizon empire floruit broadly 15th–early 16th centuries CE (D'Altroy / McEwan frames)"
 status: library-seed-rich
 summary: |
-  Inca densified (hot Round-3 Batch A): Cusco, Machu Picchu, ceque system and Qhapaq Ñan; status stays library-seed-rich.
-sources: ["src-inca-agricultural-terraces", "src-inca-ashlar-r3a", "src-inca-ashlar-technology", "src-inca-bauer-ceque-deepen", "src-inca-bauer-cusco", "src-inca-bauer-orientation", "src-inca-bauer-r3a", "src-inca-civil-war-orientation", "src-inca-civil-war-r3a", "src-inca-covey-early", "src-inca-covey-orientation", "src-inca-covey-vilcabamba", "src-inca-daltroy-2014", "src-inca-daltroy-deepen", "src-inca-daltroy-provinces", "src-inca-daltroy-r3a", "src-inca-gasparini-architecture", "src-inca-gasparini-margolies", "src-inca-hestler-orientation", "src-inca-huanuco-pampa-r3a", "src-inca-hyslop-1990", "src-inca-hyslop-inkan-road", "src-inca-hyslop-r3a", "src-inca-hyslop-roads-deepen", "src-inca-isla-del-sol-r3a", "src-inca-julien-historical", "src-inca-julien-orientation", "src-inca-khipu-r3a", "src-inca-mcewan-2006", "src-inca-metalwork-orientation", "src-inca-moray-r3a", "src-inca-morris-huanuco", "src-inca-morris-storage", "src-inca-morris-thompson-orientation", "src-inca-niles-callachaca", "src-inca-niles-orientation", "src-inca-niles-royal", "src-inca-ollantaytambo-r3a", "src-inca-pachacamac-oracle", "src-inca-pachacamac-orientation", "src-inca-pachacamac-r3a", "src-inca-protzen-1993", "src-inca-protzen-ollantaytambo", "src-inca-protzen-orientation", "src-inca-qhapac-nan-unesco", "src-inca-quipu-orientation", "src-inca-rowe-orientation", "src-inca-sacsayhuaman-r3a", "src-inca-tambo-system", "src-inca-terraces-r3a", "src-inca-tipon-r3a", "src-inca-topic-huamachuco", "src-inca-unesco-cusco-273", "src-inca-unesco-cusco-docs", "src-inca-unesco-cusco-r2", "src-inca-unesco-cusco-r3a", "src-inca-unesco-machu-picchu-274", "src-inca-unesco-mp-deepen", "src-inca-unesco-mp-docs", "src-inca-unesco-mp-r2", "src-inca-unesco-mp-r3a", "src-inca-unesco-qhapac-nan-docs", "src-inca-unesco-qhapac-nan-r2", "src-inca-unesco-qhapac-nan-r3a", "src-inca-vilcabamba-r3a", "src-inca-zuidema-orientation"]
+  Inca Round-4 A: Cusco valley, provincial admin centers and Qhapaq Ñan sites/objects densified; coords mostly still null; status pending promotion eval.
+sources: ["src-inca-agricultural-terraces", "src-inca-ashlar-r3a", "src-inca-ashlar-technology", "src-inca-bauer-ceque-deepen", "src-inca-bauer-cusco", "src-inca-bauer-orientation", "src-inca-bauer-r3a", "src-inca-civil-war-orientation", "src-inca-civil-war-r3a", "src-inca-covey-early", "src-inca-covey-orientation", "src-inca-covey-vilcabamba", "src-inca-daltroy-2014", "src-inca-daltroy-deepen", "src-inca-daltroy-provinces", "src-inca-daltroy-r3a", "src-inca-daltroy-r4a", "src-inca-gasparini-architecture", "src-inca-gasparini-margolies", "src-inca-hestler-orientation", "src-inca-huanuco-pampa-r3a", "src-inca-hyslop-1990", "src-inca-hyslop-inkan-road", "src-inca-hyslop-r3a", "src-inca-hyslop-r4a", "src-inca-hyslop-roads-deepen", "src-inca-isla-del-sol-r3a", "src-inca-julien-historical", "src-inca-julien-orientation", "src-inca-khipu-r3a", "src-inca-mcewan-2006", "src-inca-metalwork-orientation", "src-inca-moray-r3a", "src-inca-morris-huanuco", "src-inca-morris-storage", "src-inca-morris-thompson-orientation", "src-inca-niles-callachaca", "src-inca-niles-orientation", "src-inca-niles-royal", "src-inca-ollantaytambo-r3a", "src-inca-pachacamac-oracle", "src-inca-pachacamac-orientation", "src-inca-pachacamac-r3a", "src-inca-protzen-1993", "src-inca-protzen-ollantaytambo", "src-inca-protzen-orientation", "src-inca-protzen-r4a", "src-inca-qhapac-nan-unesco", "src-inca-quipu-orientation", "src-inca-rowe-orientation", "src-inca-sacsayhuaman-r3a", "src-inca-tambo-system", "src-inca-terraces-r3a", "src-inca-tipon-r3a", "src-inca-topic-huamachuco", "src-inca-unesco-cusco-273", "src-inca-unesco-cusco-docs", "src-inca-unesco-cusco-r2", "src-inca-unesco-cusco-r3a", "src-inca-unesco-machu-picchu-274", "src-inca-unesco-mp-deepen", "src-inca-unesco-mp-docs", "src-inca-unesco-mp-r2", "src-inca-unesco-mp-r3a", "src-inca-unesco-mp-r4a", "src-inca-unesco-qhapac-nan-docs", "src-inca-unesco-qhapac-nan-r2", "src-inca-unesco-qhapac-nan-r3a", "src-inca-unesco-qhapaq-r4a", "src-inca-vilcabamba-r3a", "src-inca-zuidema-orientation"]
 related_ids: ["civ-andes", "civ-wari", "civ-tiwanaku", "civ-moche"]
-notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; status remains library-seed-rich (not promoted)."
+notes: "Hot densify Round-4 Batch A D-2026-10-12-30. Sites/objects focus + promotion eval. Kept `library-seed-rich` (D-2026-10-12-30): Numeric OK but quality/honesty fail: coords mostly null (4/42 filled, 10%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites"
 ---
 
 # Inca (Tawantinsuyu) / 印加
 
-> **Status:** `library-seed-rich` (hot densify Round-3 Batch A, D-2026-10-12-28). Approaching Egypt-band depth; not promoted to `fact-library`.
+> **Status:** `library-seed-rich` (hot densify Round-4 Batch A, D-2026-10-12-30). Kept `library-seed-rich` (D-2026-10-12-30): Numeric OK but quality/honesty fail: coords mostly null (4/42 filled, 10%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites
 > **Depth:** [`docs/entry-depth.md`](../../docs/entry-depth.md). Hypotheses stay `kind=hypothesis`.
 > **Coverage map:** [`docs/coverage-map.md`](../../docs/coverage-map.md).
 
 ## Summary
 
-**EN:** Inca densified (hot Round-3 Batch A): Cusco, Machu Picchu, ceque system and Qhapaq Ñan; status stays library-seed-rich.
+**EN:** Inca Round-4 A: Cusco valley, provincial admin centers and Qhapaq Ñan sites/objects densified; coords mostly still null; status pending promotion eval.
 
-**ZH:** 印加档案加厚（热门 Round-3 Batch A）：库斯科、马丘比丘、切克体系与卡帕克南；仍标 library-seed-rich。
+**ZH:** 印加档案 Round-4 A：库斯科谷地、省份行政中心与盖丘亚路网站点/对象加厚；坐标仍大多留空；状态待升格评估。
 
 ## Counts (structured)
 
-| Entity | Count |
-|--------|------:|
-| sources | 66 |
-| sites | 32 |
-| periods | 12 |
-| objects | 33 |
-| claims | 61 |
-| media | 11 |
+| sources | sites | periods | objects | claims | media |
+|--------:|------:|--------:|--------:|-------:|------:|
+| 71 | 42 | 13 | 51 | 69 | 12 |
 
-## Chronology / periodization
+## Promotion eval (D-2026-10-12-30)
 
-| Period / phase | Approx. range | Notes |
-|----------------|---------------|-------|
+- Numeric gates: PASS
+- Quality/honesty: FAIL
+- Coords: 4/42 filled
+- Orientation stubs: 21
+- Decision: **DO NOT PROMOTE → library-seed-rich**
+- Reason: Numeric OK but quality/honesty fail: coords mostly null (4/42 filled, 10%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites
+
+## Periods
+
+| Name | Time label | Summary |
+|------|------------|---------|
 | Civil war and Spanish-contact discussion window | Huáscar–Atahualpa conflict / early contact decades | Civil-war and early-contact discussion window. |
 | Civil war deepen R3 | Huáscar–Atahualpa conflict | Huáscar–Atahualpa conflict. |
 | Inca–early colonial transition window | after 1532 CE working band | Post-conquest transition window. |
 | Early Inca expansion window | ca. 1400–1470 CE working band (Rowe-related labels) | Early expansion working window. |
 | Imperial apex deepen R3 | Imperial Tawantinsuyu apex | Imperial Tawantinsuyu apex. |
 | Imperial Inca apex window | ca. 1470–1532 CE working band | Imperial apex working window. |
+| Imperial deepen R4A | Tawantinsuyu imperial expansion | Imperial expansion window. |
 | Killke / early Inca window | Killke and early Inca Cusco Valley formation (Covey frame) | Early state-formation window. |
 | Inca Late Horizon floruit | broadly 15th–early 16th centuries CE (D'Altroy working frame) | Shell Late Horizon window. |
 | Middle Horizon interaction background window | Wari/Tiwanaku background to Later Horizon Inca expansion (orientation) | Middle Horizon background to Late Horizon expansion. |
@@ -54,15 +59,18 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 | Pachacuti expansion discussion window | Traditional Pachacuti-era expansion narratives vs archaeology | Expansion narrative vs archaeology window. |
 | Road-empire administrative window | Imperial road/logistics florescence | Road–logistics administrative window. |
 
-## Key sites
+## Sites (sample / full list)
 
 - **Cusco (Cuzco)** (`site-cusco-inca`): Inca imperial capital; UNESCO listed. [coords filled]
 - **Callachaca (orientation)** (`site-inca-callachaca-orientation`): Near-Cusco estate orientation. [coords null]
+- **Chinchero** (`site-inca-chinchero-r4a`): Royal estate near Cusco. [coords null]
 - **Choquequirao (orientation)** (`site-inca-choquequirao-orientation`): Remote Inca comparative site orientation. [coords null]
+- **Choquequirao deepen** (`site-inca-choquequirao-r4a`): Remote estate/ceremonial deepen. [coords null]
 - **Coricancha (orientation)** (`site-inca-coricancha-orientation`): Cusco Temple of the Sun orientation. [coords null]
 - **Coricancha deepen** (`site-inca-coricancha-r3a`): Golden enclosure/temple deepen. [coords null]
 - **Huánuco Pampa (orientation)** (`site-inca-huanuco-pampa-orientation`): Inca administrative centre orientation. [coords null]
 - **Huánuco Pampa deepen** (`site-inca-huanuco-pampa-r3a`): Administrative centre/qollqa deepen. [coords null]
+- **Ingapirca** (`site-inca-ingapirca-r4a`): Northern province ceremonial center. [coords null]
 - **Inkawasi (orientation)** (`site-inca-inkawasi-orientation`): Valley administrative centre orientation. [coords null]
 - **Isla del Sol (orientation)** (`site-inca-isla-del-sol-orientation`): Titicaca sacred-island orientation. [coords null]
 - **Isla del Sol deepen** (`site-inca-isla-del-sol-r3a`): Titicaca origin shrine deepen. [coords null]
@@ -73,92 +81,30 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - **Pachacamac (orientation)** (`site-inca-pachacamac-orientation`): Coastal oracle centre orientation. [coords null]
 - **Pachacamac deepen** (`site-inca-pachacamac-r3a`): Coastal oracle centre deepen. [coords null]
 - **Pisac (orientation)** (`site-inca-pisac-orientation`): Sacred Valley Inca complex orientation. [coords null]
+- **Pisac deepen** (`site-inca-pisac-r4a`): Royal estate and terrace deepen. [coords null]
+- **Puka Pukara** (`site-inca-puka-pukara-r4a`): Military / way-station site. [coords null]
+- **Q'enqo** (`site-inca-qenqo-r4a`): Carved-rock huaca sanctuary. [coords null]
 - **Qollqa storage landscape orientation** (`site-inca-qollqa-orientation`): State storehouse landscape orientation. [coords null]
 - **Quito northern admin orientation** (`site-inca-quito-orientation`): Northern administrative node orientation. [coords null]
 - **Quito northern node (orientation deepen)** (`site-inca-quito-panel-r2`): Northern administrative node deepen. [coords null]
+- **Raqchi** (`site-inca-raqchi-r4a`): Wiracocha temple and storehouses. [coords null]
 - **Rumicolca (orientation)** (`site-inca-rumicolca-orientation`): Southern gate/fortification orientation. [coords null]
 - **Sacsayhuamán (orientation)** (`site-inca-sacsayhuaman-orientation`): Cyclopean ceremonial–defensive complex orientation above Cusco. [coords filled]
 - **Sacsayhuamán deepen** (`site-inca-sacsayhuaman-r3a`): Megalithic fortress walls deepen. [coords null]
 - **Tambo Colorado (orientation)** (`site-inca-tambo-colorado-orientation`): Coastal tambo administrative orientation. [coords null]
+- **Tambo Colorado deepen** (`site-inca-tambo-colorado-r4a`): Coastal tambo deepen. [coords null]
 - **Tambomachay (orientation)** (`site-inca-tambomachay-orientation`): Cusco hinterland water/ritual architecture orientation. [coords null]
 - **Tipón (orientation)** (`site-inca-tipon-orientation`): Hydraulic terrace estate orientation. [coords null]
 - **Tipón deepen** (`site-inca-tipon-r3a`): Hydraulic terrace complex deepen. [coords null]
 - **Vilcabamba (orientation)** (`site-inca-vilcabamba-orientation`): Neo-Inca refuge landscape orientation. [coords null]
 - **Vilcabamba deepen** (`site-inca-vilcabamba-r3a`): Neo-Inca redoubt deepen. [coords null]
 - **Vilcashuamán (orientation)** (`site-inca-vilcashuaman-orientation`): Inca provincial ceremonial–administrative centre orientation. [coords null]
+- **Vitcos** (`site-inca-vitcos-r4a`): Neo-Inca refuge center. [coords null]
+- **Wiñay Wayna** (`site-inca-winay-wayna-r4a`): Inca Trail terrace/tambo. [coords null]
 - **Yucay royal estate (orientation)** (`site-inca-yucay-orientation`): Royal estate landscape orientation. [coords null]
 - **Machu Picchu** (`site-machu-picchu`): Royal estate / ceremonial complex; UNESCO listed. [coords filled]
 
-## Registered sources
-
-- `src-inca-agricultural-terraces` — article (tier S)
-- `src-inca-ashlar-r3a` — article (tier S)
-- `src-inca-ashlar-technology` — article (tier S)
-- `src-inca-bauer-ceque-deepen` — monograph (tier S)
-- `src-inca-bauer-cusco` — monograph (tier S)
-- `src-inca-bauer-orientation` — monograph (tier S)
-- `src-inca-bauer-r3a` — monograph (tier S)
-- `src-inca-civil-war-orientation` — article (tier S)
-- `src-inca-civil-war-r3a` — article (tier S)
-- `src-inca-covey-early` — monograph (tier S)
-- `src-inca-covey-orientation` — monograph (tier S)
-- `src-inca-covey-vilcabamba` — article (tier S)
-- `src-inca-daltroy-2014` — monograph (tier S)
-- `src-inca-daltroy-deepen` — monograph (tier S)
-- `src-inca-daltroy-provinces` — monograph (tier S)
-- `src-inca-daltroy-r3a` — monograph (tier S)
-- `src-inca-gasparini-architecture` — monograph (tier S)
-- `src-inca-gasparini-margolies` — monograph (tier S)
-- `src-inca-hestler-orientation` — article (tier S)
-- `src-inca-huanuco-pampa-r3a` — article (tier S)
-- `src-inca-hyslop-1990` — monograph (tier S)
-- `src-inca-hyslop-inkan-road` — monograph (tier S)
-- `src-inca-hyslop-r3a` — monograph (tier S)
-- `src-inca-hyslop-roads-deepen` — monograph (tier S)
-- `src-inca-isla-del-sol-r3a` — article (tier S)
-- `src-inca-julien-historical` — monograph (tier S)
-- `src-inca-julien-orientation` — article (tier S)
-- `src-inca-khipu-r3a` — article (tier S)
-- `src-inca-mcewan-2006` — monograph (tier S)
-- `src-inca-metalwork-orientation` — article (tier S)
-- `src-inca-moray-r3a` — article (tier S)
-- `src-inca-morris-huanuco` — monograph (tier P)
-- `src-inca-morris-storage` — article (tier S)
-- `src-inca-morris-thompson-orientation` — monograph (tier S)
-- `src-inca-niles-callachaca` — monograph (tier S)
-- `src-inca-niles-orientation` — monograph (tier S)
-- `src-inca-niles-royal` — monograph (tier S)
-- `src-inca-ollantaytambo-r3a` — article (tier S)
-- `src-inca-pachacamac-oracle` — article (tier S)
-- `src-inca-pachacamac-orientation` — article (tier S)
-- `src-inca-pachacamac-r3a` — article (tier S)
-- `src-inca-protzen-1993` — monograph (tier S)
-- `src-inca-protzen-ollantaytambo` — monograph (tier S)
-- `src-inca-protzen-orientation` — monograph (tier S)
-- `src-inca-qhapac-nan-unesco` — web (tier T)
-- `src-inca-quipu-orientation` — article (tier S)
-- `src-inca-rowe-orientation` — article (tier S)
-- `src-inca-sacsayhuaman-r3a` — article (tier S)
-- `src-inca-tambo-system` — article (tier S)
-- `src-inca-terraces-r3a` — article (tier S)
-- `src-inca-tipon-r3a` — article (tier S)
-- `src-inca-topic-huamachuco` — article (tier S)
-- `src-inca-unesco-cusco-273` — web (tier T)
-- `src-inca-unesco-cusco-docs` — web (tier T)
-- `src-inca-unesco-cusco-r2` — web (tier T)
-- `src-inca-unesco-cusco-r3a` — web (tier T)
-- `src-inca-unesco-machu-picchu-274` — web (tier T)
-- `src-inca-unesco-mp-deepen` — web (tier T)
-- `src-inca-unesco-mp-docs` — web (tier T)
-- `src-inca-unesco-mp-r2` — web (tier T)
-- `src-inca-unesco-mp-r3a` — web (tier T)
-- `src-inca-unesco-qhapac-nan-docs` — web (tier T)
-- `src-inca-unesco-qhapac-nan-r2` — web (tier T)
-- `src-inca-unesco-qhapac-nan-r3a` — web (tier T)
-- `src-inca-vilcabamba-r3a` — article (tier S)
-- `src-inca-zuidema-orientation` — monograph (tier S)
-
-## Claims (EN)
+## Claims
 
 - (fact) Ashlar studies show trial-fitting and precise working—not ‘inexplicable technology’ (Protzen tradition).
 - (fact) Fine ashlar at Cusco and Machu Picchu is framed by UNESCO and architectural studies as hallmark Inca engineering (UNESCO 273/274; Protzen).
@@ -180,6 +126,8 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - (fact) Hyslop’s road-system work is a foundational reference for Qhapaq Ñan archaeology.
 - (fact) The Inka road system is framed in Hyslop 1990 archaeological synthesis (orientation; no invented milestones).
 - (fact) The imperial apex window corresponds to rapid expansion and provincial administrative institutionalisation.
+- (fact) The imperial expansion window is marked by rapid rollout of roads, storehouses and provincial centers.
+- (fact) Ingapirca is a major ashlar ceremonial center on the empire’s northern frontier.
 - (fact) Isla del Sol is discussed as an Inca shrine node in the Titicaca sacred-lake ritual network.
 - (fact) Isla del Sol origin narratives link the Inca royalty to sacred Lake Titicaca.
 - (fact) Khipu research discusses knotted-cord media for administrative recording and census/resource accounts.
@@ -197,12 +145,16 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - (fact) Pachacamac is discussed as continuing as a coastal oracle and administrative node in the Inca period.
 - (fact) Pachacamac was a coastal oracle centre that pre-existed Inca incorporation.
 - (fact) Pachacamac was incorporated into imperial ritual–administrative networks in the Inca period.
+- (fact) Pisac combines royal estate, terraces and acropolis as a classic Sacred Valley Inca landscape.
+- (fact) Protzen’s work on Inca masonry and Ollantaytambo is a standard architectural-technology entry.
 - (fact) Protzen’s Ollantaytambo study is a key field synthesis of Inca construction technology (Protzen 1993).
 - (fact) Protzen 1993 monograph analyzes Inca architecture and construction at Ollantaytambo (OUP).
 - (fact) Provincial administration research emphasizes institutional packages of storage, tambos, and labor resettlement (D’Altroy and others).
 - (fact) UNESCO Qhapaq Ñan documents page aggregates transnational road-heritage management materials.
 - (fact) UNESCO Qhapaq Ñan links administrative centres, tambos and storehouses as imperial infrastructure.
+- (fact) UNESCO Qhapaq Ñan frames tambos, roads and provincial centers in one heritage system.
 - (fact) Qollqa storehouse landscapes are a material core of imperial logistics (storage-research orientation).
+- (fact) Raqchi is a provincial religious–storage node with a large Wiracocha temple and rows of qollqa.
 - (fact) Road archaeology deepens observations of Qhapaq Ñan segments, grade engineering, and tambo spacing (Hyslop).
 - (fact) Rowe's culture-history framework supplies classic labels for Inca chronology (classic essay tradition); absolute dates remain revisable.
 - (fact) Royal-estate research discusses productive and ceremonial landscapes at Yucay and peers (Niles).
@@ -210,6 +162,7 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - (fact) Sacsayhuamán is discussed as a cyclopean ceremonial–defensive complex above Cusco (UNESCO Cusco; Bauer orientation).
 - (fact) Qollqa storage and centres such as Huánuco Pampa illustrate state storage scale (Morris).
 - (fact) Tambo Colorado exemplifies Inca administrative architecture in a coastal valley (road-archaeology orientation).
+- (fact) Tambo Colorado exhibits coastal provincial admin architecture and mural tradition.
 - (fact) Terraces and sites such as Moray are discussed as agricultural intensification and microclimate-management facilities.
 - (fact) Andean terraces are the material basis of Inca agricultural intensification and landscape transformation.
 - (fact) Tipón hydraulic terraces show precise Inca control of water and agricultural landscape.
@@ -221,7 +174,78 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - (fact) UNESCO lists the Historic Sanctuary of Machu Picchu as World Heritage (UNESCO 274).
 - (fact) Vilcabamba research discusses mountain resistance centres of the neo-Inca state (Covey orientation).
 - (fact) Vilcabamba is the redoubt landscape of neo-Inca resistance after Spanish conquest.
+- (fact) Vitcos is one of the key refuge centers of the Vilcabamba neo-Inca period.
 
-## Integrity
+## Sources
 
-No invented archaeology, page numbers, coordinates, or media art in this densify pass.
+- `src-inca-agricultural-terraces` — article (tier S)
+- `src-inca-ashlar-r3a` — article (tier S)
+- `src-inca-ashlar-technology` — article (tier S)
+- `src-inca-bauer-ceque-deepen` — monograph (tier S)
+- `src-inca-bauer-cusco` — monograph (tier S)
+- `src-inca-bauer-orientation` — monograph (tier S)
+- `src-inca-bauer-r3a` — monograph (tier S)
+- `src-inca-civil-war-orientation` — article (tier S)
+- `src-inca-civil-war-r3a` — article (tier S)
+- `src-inca-covey-early` — monograph (tier S)
+- `src-inca-covey-orientation` — monograph (tier S)
+- `src-inca-covey-vilcabamba` — article (tier S)
+- `src-inca-daltroy-2014` — monograph (tier S)
+- `src-inca-daltroy-deepen` — monograph (tier S)
+- `src-inca-daltroy-provinces` — monograph (tier S)
+- `src-inca-daltroy-r3a` — monograph (tier S)
+- `src-inca-daltroy-r4a` — monograph (tier S)
+- `src-inca-gasparini-architecture` — monograph (tier S)
+- `src-inca-gasparini-margolies` — monograph (tier S)
+- `src-inca-hestler-orientation` — article (tier S)
+- `src-inca-huanuco-pampa-r3a` — article (tier S)
+- `src-inca-hyslop-1990` — monograph (tier S)
+- `src-inca-hyslop-inkan-road` — monograph (tier S)
+- `src-inca-hyslop-r3a` — monograph (tier S)
+- `src-inca-hyslop-r4a` — monograph (tier S)
+- `src-inca-hyslop-roads-deepen` — monograph (tier S)
+- `src-inca-isla-del-sol-r3a` — article (tier S)
+- `src-inca-julien-historical` — monograph (tier S)
+- `src-inca-julien-orientation` — article (tier S)
+- `src-inca-khipu-r3a` — article (tier S)
+- `src-inca-mcewan-2006` — monograph (tier S)
+- `src-inca-metalwork-orientation` — article (tier S)
+- `src-inca-moray-r3a` — article (tier S)
+- `src-inca-morris-huanuco` — monograph (tier P)
+- `src-inca-morris-storage` — article (tier S)
+- `src-inca-morris-thompson-orientation` — monograph (tier S)
+- `src-inca-niles-callachaca` — monograph (tier S)
+- `src-inca-niles-orientation` — monograph (tier S)
+- `src-inca-niles-royal` — monograph (tier S)
+- `src-inca-ollantaytambo-r3a` — article (tier S)
+- `src-inca-pachacamac-oracle` — article (tier S)
+- `src-inca-pachacamac-orientation` — article (tier S)
+- `src-inca-pachacamac-r3a` — article (tier S)
+- `src-inca-protzen-1993` — monograph (tier S)
+- `src-inca-protzen-ollantaytambo` — monograph (tier S)
+- `src-inca-protzen-orientation` — monograph (tier S)
+- `src-inca-protzen-r4a` — monograph (tier S)
+- `src-inca-qhapac-nan-unesco` — web (tier T)
+- `src-inca-quipu-orientation` — article (tier S)
+- `src-inca-rowe-orientation` — article (tier S)
+- `src-inca-sacsayhuaman-r3a` — article (tier S)
+- `src-inca-tambo-system` — article (tier S)
+- `src-inca-terraces-r3a` — article (tier S)
+- `src-inca-tipon-r3a` — article (tier S)
+- `src-inca-topic-huamachuco` — article (tier S)
+- `src-inca-unesco-cusco-273` — web (tier T)
+- `src-inca-unesco-cusco-docs` — web (tier T)
+- `src-inca-unesco-cusco-r2` — web (tier T)
+- `src-inca-unesco-cusco-r3a` — web (tier T)
+- `src-inca-unesco-machu-picchu-274` — web (tier T)
+- `src-inca-unesco-mp-deepen` — web (tier T)
+- `src-inca-unesco-mp-docs` — web (tier T)
+- `src-inca-unesco-mp-r2` — web (tier T)
+- `src-inca-unesco-mp-r3a` — web (tier T)
+- `src-inca-unesco-mp-r4a` — web (tier T)
+- `src-inca-unesco-qhapac-nan-docs` — web (tier T)
+- `src-inca-unesco-qhapac-nan-r2` — web (tier T)
+- `src-inca-unesco-qhapac-nan-r3a` — web (tier T)
+- `src-inca-unesco-qhapaq-r4a` — web (tier T)
+- `src-inca-vilcabamba-r3a` — article (tier S)
+- `src-inca-zuidema-orientation` — monograph (tier S)

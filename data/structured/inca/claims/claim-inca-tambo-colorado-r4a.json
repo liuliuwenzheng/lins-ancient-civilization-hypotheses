@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-tambo-colorado-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "科罗拉多驿站展示沿海省级行政建筑与壁画传统。",
+    "en": "Tambo Colorado exhibits coastal provincial admin architecture and mural tradition.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-tambo-colorado-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-hyslop-r4a",
+    "src-inca-daltroy-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

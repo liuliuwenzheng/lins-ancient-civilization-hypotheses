@@ -1,0 +1,33 @@
+{
+  "id": "claim-maya-belize-centers-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉马奈与舒南图尼奇代表伯利兹低地长时段与河谷政体。",
+    "en": "Lamanai and Xunantunich represent long-occupation and valley polities in the Belize lowlands.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-maya-lamanai-r4a",
+    "site-maya-xunantunich-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-sharer-traxler-r4a",
+    "src-maya-martin-grube-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

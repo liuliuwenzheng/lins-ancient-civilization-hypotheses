@@ -1,0 +1,30 @@
+{
+  "id": "claim-teotihuacan-sugiyama-fsp-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Sugiyama 对羽蛇金字塔/城寨的发掘确立大规模祭献与建筑程序。",
+    "en": "Sugiyama’s Feathered Serpent / Ciudadela work establishes large-scale offerings and building programs.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-sugiyama-r4a",
+    "src-teotihuacan-unesco-414-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

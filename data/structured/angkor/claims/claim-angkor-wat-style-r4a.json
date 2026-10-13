@@ -1,0 +1,35 @@
+{
+  "id": "claim-angkor-wat-style-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "托马农与雀塞茶胶体现吴哥窟风格小型圣所配置。",
+    "en": "Thommanon and Chau Say Tevoda exemplify Angkor Wat-style small sanctuary pairing.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-thommanon-r4a",
+    "site-angkor-chau-say-tevoda-r4a"
+  ],
+  "period_ids": [
+    "period-angkor-angkor-wat-style-r4a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-unesco-668-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-gobedra-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "戈贝德拉采石场加深",
+    "en": "Gobedra quarry deepen",
+    "native": null
+  },
+  "kind_note": "Stelae quarry",
+  "region": "Aksum hinterland",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "石碑采石场加深。",
+    "en": "Stelae quarry deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-philipson-r4a",
+    "src-aksum-unesco-15-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

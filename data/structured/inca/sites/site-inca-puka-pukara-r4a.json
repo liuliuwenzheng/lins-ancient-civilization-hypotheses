@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-puka-pukara-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "普卡普卡拉",
+    "en": "Puka Pukara",
+    "native": null
+  },
+  "kind_note": "Military / way-station",
+  "region": "Cusco",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "军事/驿站遗址。",
+    "en": "Military / way-station site.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-hyslop-r4a",
+    "src-inca-daltroy-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

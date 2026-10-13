@@ -11,8 +11,8 @@
   "region": "Mesoamerica / Maya lowlands (southern Mexico, Guatemala, Belize, western Honduras)",
   "time_span": "Classic period floruit broadly 250–900 CE (Martin–Grube / Coe–Houston frames)",
   "summary": {
-    "zh": "经典玛雅档案加厚（热门 Round-3 Batch A）：蒂卡尔/卡拉克穆尔、碑铭王朝与教科文遗址；仍标 library-seed-rich。",
-    "en": "Classic Maya densified (hot Round-3 Batch A): Tikal/Calakmul, dynastic epigraphy and UNESCO sites; status stays library-seed-rich.",
+    "zh": "经典玛雅档案 Round-4 A：低地政体遗址与纪念碑对象加厚；坐标仍大多留空；状态待升格评估。",
+    "en": "Classic Maya Round-4 A: lowland polity sites and monument objects densified; coords mostly still null; status pending promotion eval.",
     "native": null
   },
   "sources": [
@@ -81,7 +81,12 @@
     "src-classic-maya-unesco-uxmal-791",
     "src-classic-maya-water-management",
     "src-classic-maya-yaxchilan-r3a",
-    "src-classic-maya-yaxha-orientation"
+    "src-classic-maya-yaxha-orientation",
+    "src-maya-aguateca-r4a",
+    "src-maya-bonampak-r4a",
+    "src-maya-martin-grube-r4a",
+    "src-maya-sharer-traxler-r4a",
+    "src-maya-unesco-tikal-r4a"
   ],
   "site_ids": [
     "site-almacen-caracol-causeway",
@@ -103,6 +108,16 @@
     "site-copan-classic",
     "site-copan-hieroglyphic-stair-orientation",
     "site-dos-pilas-orientation",
+    "site-maya-aguateca-r4a",
+    "site-maya-altar-sacrificios-r4a",
+    "site-maya-bonampak-r4a",
+    "site-maya-coba-r4a",
+    "site-maya-el-peru-waka-r4a",
+    "site-maya-holmul-r4a",
+    "site-maya-la-corona-r4a",
+    "site-maya-lamanai-r4a",
+    "site-maya-rio-azul-r4a",
+    "site-maya-xunantunich-r4a",
     "site-nakum-orientation",
     "site-naranjo-peten-orientation",
     "site-palenque-classic",
@@ -130,7 +145,8 @@
     "period-classic-maya-teotihuacan-entrada",
     "period-classic-maya-terminal",
     "period-classic-maya-terminal-deepen",
-    "period-classic-maya-terminal-r3a"
+    "period-classic-maya-terminal-r3a",
+    "period-maya-late-classic-r4a"
   ],
   "claim_ids": [
     "claim-classic-maya-ballcourt-r2",
@@ -193,7 +209,15 @@
     "claim-classic-maya-water-r2",
     "claim-classic-maya-writing-courts-r2",
     "claim-classic-maya-yaxchilan-lintels-r3a",
-    "claim-classic-maya-yaxha-r2"
+    "claim-classic-maya-yaxha-r2",
+    "claim-maya-aguateca-r4a",
+    "claim-maya-belize-centers-r4a",
+    "claim-maya-bonampak-r4a",
+    "claim-maya-coba-sacbe-r4a",
+    "claim-maya-el-peru-waka-r4a",
+    "claim-maya-la-corona-r4a",
+    "claim-maya-late-classic-r4a",
+    "claim-maya-martin-grube-r4a"
   ],
   "object_ids": [
     "asm-classic-maya-ballcourt-r3a",
@@ -228,7 +252,25 @@
     "asm-classic-maya-tikal-temple-r3a",
     "asm-classic-maya-tonina-rivalry-r3a",
     "asm-classic-maya-uaxactun-ceramics",
-    "asm-classic-maya-yaxchilan-lintels-r3a"
+    "asm-classic-maya-yaxchilan-lintels-r3a",
+    "asm-maya-aguateca-abandonment-r4a",
+    "asm-maya-altar-r4a",
+    "asm-maya-belize-valley-r4a",
+    "asm-maya-bonampak-murals-r4a",
+    "asm-maya-coba-sacbe-r4a",
+    "asm-maya-el-peru-waka-r4a",
+    "asm-maya-holmul-r4a",
+    "asm-maya-la-corona-r4a",
+    "asm-maya-lamanai-r4a",
+    "asm-maya-late-classic-monuments-r4a",
+    "asm-maya-martin-grube-corpus-r4a",
+    "asm-maya-northern-lowland-r4a",
+    "asm-maya-petexbatun-r4a",
+    "asm-maya-rio-azul-tombs-r4a",
+    "asm-maya-secondary-centers-r4a",
+    "asm-maya-tomb-painting-r4a",
+    "asm-maya-unesco-tikal-r4a",
+    "asm-maya-xunantunich-r4a"
   ],
   "related_ids": [
     "civ-early-maya",
@@ -239,11 +281,11 @@
   "markdown_path": "data/civilizations/civ-classic-maya.md",
   "editorial": {
     "derived_from": [
-      "tools/hot_densify/densify_hot_round3_a.py",
+      "tools/hot_densify/densify_hot_round4_a.py",
       "docs/coverage-map.md",
-      "docs/decisions.md#d-2026-10-12-28"
+      "docs/decisions.md#d-2026-10-12-30"
     ],
     "derived_on": "2026-10-12",
-    "notes": "Hot-pack densify Round-2 toward denser archive (D-2026-10-12-28). No invented pages/coords/finds/media art. Status stays library-seed-rich (still below Egypt-level fact-library)."
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
   }
 }

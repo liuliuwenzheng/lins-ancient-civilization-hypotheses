@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-sun-residential-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "太阳金字塔居住附属",
+    "en": "Sun Pyramid residential annex",
+    "native": null
+  },
+  "kind_note": "Residential / ritual annex",
+  "region": "Teotihuacan core",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "太阳金字塔周边居住/仪式附属。",
+    "en": "Residential/ritual annex around the Sun Pyramid.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-sugiyama-r4a",
+    "src-teotihuacan-cowgill-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

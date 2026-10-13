@@ -1,9 +1,7 @@
-# Structured pack — Angkor (Khmer)
+# Angkor (Khmer) — structured pack
 
-[中文](README.zh.md) | English
+Status: `library-seed-rich` · Round-4 Batch A `D-2026-10-12-30` · Kept `library-seed-rich` (D-2026-10-12-30): Numeric OK but quality/honesty fail: coords mostly null (4/43 filled, 9%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (22/43, 51%); depth still seed-like vs Egypt report-level sites
 
-**Status:** `library-seed-rich` (hot densify Round-3 Batch A, D-2026-10-12-28). Toward fact-library; not yet Egypt-level density.
+Counts: sources=71 sites=43 periods=13 objects=51 claims=69 media=12
 
-Counts: sources 66 · sites 33 · periods 12 · objects 33 · claims 61 · media 11
-
-Markdown: `data/civilizations/civ-angkor.md`. Run `tools/export_check.py`.
+Civ markdown: `data/civilizations/civ-angkor.md`

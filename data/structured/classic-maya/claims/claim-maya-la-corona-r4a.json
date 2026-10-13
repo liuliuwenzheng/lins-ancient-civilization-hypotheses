@@ -1,0 +1,32 @@
+{
+  "id": "claim-maya-la-corona-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉科罗纳铭文记录与卡拉克穆尔的王朝同盟关系。",
+    "en": "La Corona inscriptions record dynastic alliance ties with Calakmul.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-maya-la-corona-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-martin-grube-r4a",
+    "src-maya-sharer-traxler-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

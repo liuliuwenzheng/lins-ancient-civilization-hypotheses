@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-plaza-columnas-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "柱廊广场",
+    "en": "Plaza de las Columnas",
+    "native": null
+  },
+  "kind_note": "Elite plaza / mural sector",
+  "region": "Teotihuacan core",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "精英广场与壁画发掘区。",
+    "en": "Elite plaza and mural excavation sector.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-plaza-columnas-r4a",
+    "src-teotihuacan-cowgill-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-inca-imperial-r4a",
+  "entity": "period",
+  "names": {
+    "zh": "帝国期加深窗R4A",
+    "en": "Imperial deepen R4A",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "time": {
+    "label": "Tawantinsuyu imperial expansion",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Tawantinsuyu imperial expansion"
+  },
+  "summary": {
+    "zh": "帝国扩张窗。",
+    "en": "Imperial expansion window.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-daltroy-r4a",
+    "src-inca-hyslop-r4a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

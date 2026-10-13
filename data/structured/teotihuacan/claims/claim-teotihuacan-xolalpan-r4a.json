@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-xolalpan-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "索拉尔潘陶瓷窗对应古典城市扩张与公寓复合体繁荣。",
+    "en": "The Xolalpan ceramic window corresponds to classic urban expansion and apartment-compound floruit.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-teotihuacan-xolalpan-r4a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-cowgill-r4a",
+    "src-teotihuacan-manzanilla-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

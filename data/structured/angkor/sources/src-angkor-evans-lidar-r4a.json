@@ -1,0 +1,19 @@
+{
+  "id": "src-angkor-evans-lidar-r4a",
+  "entity": "source",
+  "type": "article",
+  "citation": "Evans et al. — Angkor lidar / urban landscape Round-4 A.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Lidar urban landscape R4A.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

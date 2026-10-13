@@ -1,0 +1,33 @@
+{
+  "id": "claim-aksum-highland-settlements-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥纳与森贝尔等高原聚落扩展了阿克苏姆核心以外的定居图景。",
+    "en": "Ona, Sembel and related highland settlements extend the settlement picture beyond the Aksum core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-ona-r4a",
+    "site-aksum-sembel-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-philipson-r4a",
+    "src-aksum-fattovich-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

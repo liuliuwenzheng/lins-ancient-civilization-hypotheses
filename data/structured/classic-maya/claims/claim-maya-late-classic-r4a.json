@@ -1,0 +1,32 @@
+{
+  "id": "claim-maya-late-classic-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚古典窗是低地王朝铭文与纪念碑建设的高峰期。",
+    "en": "The Late Classic window is the peak of lowland dynastic inscription and monument building.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-maya-late-classic-r4a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-maya-martin-grube-r4a",
+    "src-maya-sharer-traxler-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

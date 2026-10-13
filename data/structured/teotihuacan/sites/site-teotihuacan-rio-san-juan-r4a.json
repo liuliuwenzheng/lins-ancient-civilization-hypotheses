@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-rio-san-juan-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "圣胡安河渠道区",
+    "en": "Río San Juan canal sector",
+    "native": null
+  },
+  "kind_note": "Hydraulic / urban water",
+  "region": "Teotihuacan valley",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "城市水道与景观改造区。",
+    "en": "Urban canal and landscape-modification sector.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-r4a",
+    "src-teotihuacan-unesco-414-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

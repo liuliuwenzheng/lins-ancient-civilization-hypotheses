@@ -1,9 +1,7 @@
-# Structured pack — Aksum (Axum)
+# Aksum (Axum) — structured pack
 
-[中文](README.zh.md) | English
+Status: `library-seed-rich` · Round-4 Batch A `D-2026-10-12-30` · Kept `library-seed-rich` (D-2026-10-12-30): Numeric OK but quality/honesty fail: coords mostly null (3/42 filled, 7%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites
 
-**Status:** `library-seed-rich` (hot densify Round-3 Batch A, D-2026-10-12-28). Toward fact-library; not yet Egypt-level density.
+Counts: sources=71 sites=42 periods=13 objects=51 claims=68 media=11
 
-Counts: sources 66 · sites 32 · periods 12 · objects 33 · claims 60 · media 10
-
-Markdown: `data/civilizations/civ-aksum.md`. Run `tools/export_check.py`.
+Civ markdown: `data/civilizations/civ-aksum.md`

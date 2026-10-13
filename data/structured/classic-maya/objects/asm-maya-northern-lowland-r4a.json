@@ -1,0 +1,43 @@
+{
+  "id": "asm-maya-northern-lowland-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "北低地路网组合",
+    "en": "Northern lowland network assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-maya-coba-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "北低地路网组合。",
+    "en": "Northern lowland network assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-maya-sharer-traxler-r4a",
+    "src-maya-martin-grube-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-phimeanakas-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "披梅那卡位于王宫区内，是与王权仪式相关的庙山。",
+    "en": "Phimeanakas stands inside the royal palace zone as a temple-mountain tied to kingship ritual.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-phimeanakas-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-unesco-668-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-ingapirca-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "印加皮尔卡是帝国北疆重要的石工礼仪中心。",
+    "en": "Ingapirca is a major ashlar ceremonial center on the empire’s northern frontier.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-ingapirca-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-inca-daltroy-r4a",
+    "src-inca-hyslop-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

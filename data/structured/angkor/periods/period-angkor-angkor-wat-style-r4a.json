@@ -1,0 +1,36 @@
+{
+  "id": "period-angkor-angkor-wat-style-r4a",
+  "entity": "period",
+  "names": {
+    "zh": "吴哥窟风格窗R4A",
+    "en": "Angkor Wat style R4A",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "time": {
+    "label": "Suryavarman II / Angkor Wat style",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Suryavarman II / Angkor Wat style"
+  },
+  "summary": {
+    "zh": "苏利耶跋摩二世风格窗。",
+    "en": "Suryavarman II style window.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-coedes-r4a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

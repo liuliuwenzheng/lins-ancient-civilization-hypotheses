@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-banteay-srei-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "班迭斯雷",
+    "en": "Banteay Srei",
+    "native": null
+  },
+  "kind_note": "Pink sandstone temple",
+  "region": "Angkor region",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "粉砂岩精雕神庙。",
+    "en": "Pink sandstone finely carved temple.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-banteay-srei-r4a",
+    "src-angkor-jacques-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

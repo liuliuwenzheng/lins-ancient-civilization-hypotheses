@@ -1,0 +1,43 @@
+{
+  "id": "asm-angkor-baksei-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "巴克赛占戈组合",
+    "en": "Baksei Chamkrong assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-baksei-chamkrong-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "早期庙山组合。",
+    "en": "Early temple-mountain assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-coedes-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

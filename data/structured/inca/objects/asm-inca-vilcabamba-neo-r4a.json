@@ -1,0 +1,43 @@
+{
+  "id": "asm-inca-vilcabamba-neo-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "维尔卡班巴新印加框架",
+    "en": "Vilcabamba neo-Inca frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-vitcos-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "新印加避难讨论框架。",
+    "en": "Neo-Inca refuge discussion frame.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-daltroy-r4a",
+    "src-inca-hyslop-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

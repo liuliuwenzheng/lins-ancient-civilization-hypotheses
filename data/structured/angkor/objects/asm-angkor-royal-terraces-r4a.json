@@ -1,0 +1,44 @@
+{
+  "id": "asm-angkor-royal-terraces-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "王城台地框架",
+    "en": "Royal terraces frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-elephant-terrace-r4a",
+    "site-angkor-phimeanakas-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "吴哥城王室台地框架。",
+    "en": "Angkor Thom royal terrace frame.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-unesco-668-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

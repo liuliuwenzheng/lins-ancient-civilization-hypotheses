@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-teopancazco-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "特奥潘卡斯加深",
+    "en": "Teopancazco deepen",
+    "native": null
+  },
+  "kind_note": "Neighborhood center",
+  "region": "Teotihuacan core",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "邻里中心与多族群证据加深。",
+    "en": "Neighborhood center / multiethnic evidence deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-manzanilla-r4a",
+    "src-teotihuacan-cowgill-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

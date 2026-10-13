@@ -1,0 +1,32 @@
+{
+  "id": "claim-aksum-hawelti-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "哈韦尔蒂-梅拉佐提供前阿克苏姆精英还愿与南阿拉伯风格联系的证据。",
+    "en": "Hawelti-Melazo supplies pre-Aksumite elite votive evidence with South Arabian-style links.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "site_ids": [
+    "site-aksum-hawelti-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aksum-fattovich-r4a",
+    "src-aksum-philipson-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

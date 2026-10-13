@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-anza-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "安扎",
+    "en": "Anza",
+    "native": null
+  },
+  "kind_note": "Inscription / elite context",
+  "region": "Tigray",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "铭文/精英语境。",
+    "en": "Inscription/elite context.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-philipson-r4a",
+    "src-aksum-munro-hay-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

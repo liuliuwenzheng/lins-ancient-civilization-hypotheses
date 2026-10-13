@@ -8,39 +8,43 @@ region: "Mesoamerica / Basin of Mexico (central Mexico)"
 time_span: "Classic-period metropolis floruit broadly 1st–6th/7th c. CE (Cowgill / Mapping Project frames)"
 status: library-seed-rich
 summary: |
-  Teotihuacan densified (hot Round-3 Batch A): neighborhoods, FSP offerings, Avenue of the Dead and UNESCO 414; status stays library-seed-rich.
-sources: ["src-teotihuacan-asu-lab-orientation", "src-teotihuacan-asu-mapping-deepen", "src-teotihuacan-asu-r3a", "src-teotihuacan-atatelco-r3a", "src-teotihuacan-cabrera-castro-orientation", "src-teotihuacan-carballo-obsidian-deepen", "src-teotihuacan-carbon-cowgill-synthesis", "src-teotihuacan-carbon-dating-orientation", "src-teotihuacan-clayton-orientation", "src-teotihuacan-cowgill-2015", "src-teotihuacan-cowgill-r3a", "src-teotihuacan-cowgill-urbanism-deepen", "src-teotihuacan-epiclassic-coyotlatelco", "src-teotihuacan-epiclassic-r3a", "src-teotihuacan-foreigners-barrio", "src-teotihuacan-frobenius-style-compare", "src-teotihuacan-gomez-chavez-orientation", "src-teotihuacan-heaton-obsidian", "src-teotihuacan-inah-museo-deepen", "src-teotihuacan-inah-r3a", "src-teotihuacan-inah-site-orientation", "src-teotihuacan-inah-zona", "src-teotihuacan-isotope-r3a", "src-teotihuacan-la-ventilla-orientation", "src-teotihuacan-lapidary-orientation", "src-teotihuacan-manzanilla-2012", "src-teotihuacan-manzanilla-orientation", "src-teotihuacan-manzanilla-r3a", "src-teotihuacan-miccaotli-orientation", "src-teotihuacan-millon-mapping-orientation", "src-teotihuacan-murals-de-la-fuente", "src-teotihuacan-nidus-orientation", "src-teotihuacan-oaxaca-barrio-r3a", "src-teotihuacan-obsidian-r3a", "src-teotihuacan-pasztory-art-orientation", "src-teotihuacan-plaza-one-orientation", "src-teotihuacan-rattray-ceramics", "src-teotihuacan-robb-orientation", "src-teotihuacan-sempowski-spence", "src-teotihuacan-spence-obsidian-orientation", "src-teotihuacan-storey-bioarch", "src-teotihuacan-storm-god-orientation", "src-teotihuacan-storm-god-r3a", "src-teotihuacan-street-dead-axis", "src-teotihuacan-street-dead-r3a", "src-teotihuacan-sugiyama-2005", "src-teotihuacan-sugiyama-feathered-serpent", "src-teotihuacan-sugiyama-moon-pyramid", "src-teotihuacan-sugiyama-r3a", "src-teotihuacan-taube-iconography", "src-teotihuacan-teopancazco-orientation", "src-teotihuacan-tepantitla-r3a", "src-teotihuacan-thin-orange-r3a", "src-teotihuacan-tmp-antiquity-data", "src-teotihuacan-tmp-data-paper", "src-teotihuacan-tunnel-fsp-r3a", "src-teotihuacan-unesco-414", "src-teotihuacan-unesco-414-deepen-r2", "src-teotihuacan-unesco-414-maps", "src-teotihuacan-unesco-414-r3a", "src-teotihuacan-unesco-docs-deepen", "src-teotihuacan-white-price-deepen", "src-teotihuacan-white-price-orientation", "src-teotihuacan-xalla-orientation", "src-teotihuacan-xalla-r3a", "src-teotihuacan-zacuala-r3a"]
+  Teotihuacan Round-4 A: apartment compounds, palaces and valley hinterland site/object densify; coords mostly still null; status pending promotion eval.
+sources: ["src-teotihuacan-asu-lab-orientation", "src-teotihuacan-asu-mapping-deepen", "src-teotihuacan-asu-r3a", "src-teotihuacan-atatelco-r3a", "src-teotihuacan-cabrera-castro-orientation", "src-teotihuacan-carballo-obsidian-deepen", "src-teotihuacan-carbon-cowgill-synthesis", "src-teotihuacan-carbon-dating-orientation", "src-teotihuacan-clayton-orientation", "src-teotihuacan-cowgill-2015", "src-teotihuacan-cowgill-r3a", "src-teotihuacan-cowgill-r4a", "src-teotihuacan-cowgill-urbanism-deepen", "src-teotihuacan-epiclassic-coyotlatelco", "src-teotihuacan-epiclassic-r3a", "src-teotihuacan-foreigners-barrio", "src-teotihuacan-frobenius-style-compare", "src-teotihuacan-gomez-chavez-orientation", "src-teotihuacan-heaton-obsidian", "src-teotihuacan-inah-museo-deepen", "src-teotihuacan-inah-r3a", "src-teotihuacan-inah-site-orientation", "src-teotihuacan-inah-zona", "src-teotihuacan-isotope-r3a", "src-teotihuacan-la-ventilla-orientation", "src-teotihuacan-lapidary-orientation", "src-teotihuacan-manzanilla-2012", "src-teotihuacan-manzanilla-orientation", "src-teotihuacan-manzanilla-r3a", "src-teotihuacan-manzanilla-r4a", "src-teotihuacan-miccaotli-orientation", "src-teotihuacan-millon-mapping-orientation", "src-teotihuacan-murals-de-la-fuente", "src-teotihuacan-nidus-orientation", "src-teotihuacan-oaxaca-barrio-r3a", "src-teotihuacan-obsidian-r3a", "src-teotihuacan-pasztory-art-orientation", "src-teotihuacan-plaza-columnas-r4a", "src-teotihuacan-plaza-one-orientation", "src-teotihuacan-rattray-ceramics", "src-teotihuacan-robb-orientation", "src-teotihuacan-sempowski-spence", "src-teotihuacan-spence-obsidian-orientation", "src-teotihuacan-storey-bioarch", "src-teotihuacan-storm-god-orientation", "src-teotihuacan-storm-god-r3a", "src-teotihuacan-street-dead-axis", "src-teotihuacan-street-dead-r3a", "src-teotihuacan-sugiyama-2005", "src-teotihuacan-sugiyama-feathered-serpent", "src-teotihuacan-sugiyama-moon-pyramid", "src-teotihuacan-sugiyama-r3a", "src-teotihuacan-sugiyama-r4a", "src-teotihuacan-taube-iconography", "src-teotihuacan-teopancazco-orientation", "src-teotihuacan-tepantitla-r3a", "src-teotihuacan-thin-orange-r3a", "src-teotihuacan-tmp-antiquity-data", "src-teotihuacan-tmp-data-paper", "src-teotihuacan-tunnel-fsp-r3a", "src-teotihuacan-unesco-414", "src-teotihuacan-unesco-414-deepen-r2", "src-teotihuacan-unesco-414-maps", "src-teotihuacan-unesco-414-r3a", "src-teotihuacan-unesco-414-r4a", "src-teotihuacan-unesco-docs-deepen", "src-teotihuacan-white-price-deepen", "src-teotihuacan-white-price-orientation", "src-teotihuacan-xalla-orientation", "src-teotihuacan-xalla-r3a", "src-teotihuacan-zacuala-r3a"]
 related_ids: ["civ-olmec", "civ-early-maya", "civ-zapotec"]
-notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; status remains library-seed-rich (not promoted)."
+notes: "Hot densify Round-4 Batch A D-2026-10-12-30. Sites/objects focus + promotion eval. Kept `library-seed-rich` (D-2026-10-12-30): Numeric OK but quality/honesty fail: coords mostly null (1/41 filled, 2%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (20/41, 49%); depth still seed-like vs Egypt report-level sites"
 ---
 
 # Teotihuacan / 特奥蒂瓦坎
 
-> **Status:** `library-seed-rich` (hot densify Round-3 Batch A, D-2026-10-12-28). Approaching Egypt-band depth; not promoted to `fact-library`.
+> **Status:** `library-seed-rich` (hot densify Round-4 Batch A, D-2026-10-12-30). Kept `library-seed-rich` (D-2026-10-12-30): Numeric OK but quality/honesty fail: coords mostly null (1/41 filled, 2%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (20/41, 49%); depth still seed-like vs Egypt report-level sites
 > **Depth:** [`docs/entry-depth.md`](../../docs/entry-depth.md). Hypotheses stay `kind=hypothesis`.
 > **Coverage map:** [`docs/coverage-map.md`](../../docs/coverage-map.md).
 
 ## Summary
 
-**EN:** Teotihuacan densified (hot Round-3 Batch A): neighborhoods, FSP offerings, Avenue of the Dead and UNESCO 414; status stays library-seed-rich.
+**EN:** Teotihuacan Round-4 A: apartment compounds, palaces and valley hinterland site/object densify; coords mostly still null; status pending promotion eval.
 
-**ZH:** 特奥蒂瓦坎档案加厚（热门 Round-3 Batch A）：邻里、羽蛇祭献、死者之路与教科文414；仍标 library-seed-rich。
+**ZH:** 特奥蒂瓦坎档案 Round-4 A：公寓复合体、宫殿与谷地腹地遗址/对象加厚；坐标仍大多留空；状态待升格评估。
 
 ## Counts (structured)
 
-| Entity | Count |
-|--------|------:|
-| sources | 66 |
-| sites | 31 |
-| periods | 12 |
-| objects | 33 |
-| claims | 61 |
-| media | 11 |
+| sources | sites | periods | objects | claims | media |
+|--------:|------:|--------:|--------:|-------:|------:|
+| 71 | 41 | 13 | 51 | 69 | 12 |
 
-## Chronology / periodization
+## Promotion eval (D-2026-10-12-30)
 
-| Period / phase | Approx. range | Notes |
-|----------------|---------------|-------|
+- Numeric gates: PASS
+- Quality/honesty: FAIL
+- Coords: 1/41 filled
+- Orientation stubs: 20
+- Decision: **DO NOT PROMOTE → library-seed-rich**
+- Reason: Numeric OK but quality/honesty fail: coords mostly null (1/41 filled, 2%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (20/41, 49%); depth still seed-like vs Egypt report-level sites
+
+## Periods
+
+| Name | Time label | Summary |
+|------|------------|---------|
 | Teotihuacan Classic floruit | broadly 1st–6th/7th c. CE (Cowgill urban frame) | Shell Classic floruit window. |
 | Epiclassic Coyotlatelco discussion window | Epiclassic Basin transition debates (Coyotlatelco) | Basin Epiclassic transition discussion window. |
 | Epiclassic transition deepen R3 | Epiclassic / Coyotlatelco debates | Epiclassic/Coyotlatelco debates. |
@@ -53,14 +57,18 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 | Xolalpan phase (deepen) | Xolalpan ceramic phase (TMP frame) | Middle Classic ceramic window. |
 | Late Classic–decline window | Xolalpan–Metepec working labels into 6th/7th c. CE debates (Cowgill) | Late to decline discussion window. |
 | Xolalpan deepen R3 | Xolalpan ceramic/urban floruit | Xolalpan ceramic/urban floruit. |
+| Xolalpan deepen R4A | Xolalpan ceramic / urban floruit | Classic urban floruit ceramic window. |
 
-## Key sites
+## Sites (sample / full list)
 
 - **Apartment compounds frame (orientation)** (`site-teotihuacan-apartment-compounds-frame`): TMP-mapped apartment-compound residential fabric. [coords null]
 - **Atetelco (orientation)** (`site-teotihuacan-atatelco-orientation`): Compound/mural research orientation. [coords null]
 - **Atetelco deepen** (`site-teotihuacan-atatelco-r3a`): Mural-compound deepen. [coords null]
 - **Ciudadela / Feathered Serpent Pyramid** (`site-teotihuacan-ciudadela-fsp`): Feathered Serpent Pyramid and sacrificial deposit contexts. [coords null]
+- **Edificios Superpuestos** (`site-teotihuacan-edificios-superpuestos-r4a`): Stratified civic architectural sequence. [coords null]
 - **La Ventilla (orientation)** (`site-teotihuacan-la-ventilla-orientation`): Craft/residential district orientation. [coords null]
+- **La Ventilla deepen** (`site-teotihuacan-la-ventilla-r4a`): Multi-compound barrio deepen. [coords null]
+- **Maquixco Bajo** (`site-teotihuacan-maquixco-r4a`): Valley hinterland settlement. [coords null]
 - **Merchants’ barrio (orientation)** (`site-teotihuacan-merchant-barrio-orientation`): Gulf-related residential barrio orientation. [coords null]
 - **Moon Pyramid plaza (orientation)** (`site-teotihuacan-moon-plaza-orientation`): Northern ceremonial plaza orientation. [coords null]
 - **Oaxaca barrio (orientation)** (`site-teotihuacan-oaxaca-barrio-orientation`): Foreigner-barrio research orientation. [coords null]
@@ -68,14 +76,21 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - **Obsidian workshops deepen** (`site-teotihuacan-obsidian-r3a`): Craft-production zones deepen. [coords null]
 - **Obsidian workshops frame (orientation)** (`site-teotihuacan-obsidian-workshops-frame`): Obsidian production and exchange research frame. [coords null]
 - **Oztoyahualco (orientation)** (`site-teotihuacan-oztoyahualco-orientation`): NW compound archaeology orientation. [coords null]
+- **Patio of the Jaguars** (`site-teotihuacan-patio-jaguars-r4a`): Palace mural patio. [coords null]
+- **Plaza de las Columnas** (`site-teotihuacan-plaza-columnas-r4a`): Elite plaza and mural excavation sector. [coords null]
 - **Plaza One (orientation)** (`site-teotihuacan-plaza-one-orientation`): Early civic plaza orientation. [coords null]
 - **Pyramid of the Moon frame (orientation)** (`site-teotihuacan-pyramid-moon-frame`): Pyramid of the Moon and north plaza frame. [coords null]
 - **Moon Pyramid deepen** (`site-teotihuacan-pyramid-moon-r3a`): Moon Pyramid and plaza deepen. [coords null]
 - **Pyramid of the Sun frame (orientation)** (`site-teotihuacan-pyramid-sun-frame`): Ceremonial-core Pyramid of the Sun frame. [coords null]
+- **Palace of Quetzalpapalotl** (`site-teotihuacan-quetzalpapalotl-r4a`): Palace-patio complex by the Moon Pyramid. [coords null]
+- **Río San Juan canal sector** (`site-teotihuacan-rio-san-juan-r4a`): Urban canal and landscape-modification sector. [coords null]
 - **Avenue of the Dead deepen** (`site-teotihuacan-street-dead-r3a`): Urban-axis corridor deepen. [coords null]
+- **Sun Pyramid residential annex** (`site-teotihuacan-sun-residential-r4a`): Residential/ritual annex around the Sun Pyramid. [coords null]
 - **Teopancazco (orientation)** (`site-teotihuacan-teopancazco-orientation`): Multiethnic compound research orientation. [coords null]
+- **Teopancazco deepen** (`site-teotihuacan-teopancazco-r4a`): Neighborhood center / multiethnic evidence deepen. [coords null]
 - **Tepantitla deepen** (`site-teotihuacan-tepantitla-r3a`): Mural apartment-compound deepen. [coords null]
 - **Tetitla (mural orientation)** (`site-teotihuacan-tetitla-orientation`): Mural apartment orientation. [coords null]
+- **Tetitla deepen** (`site-teotihuacan-tetitla-r4a`): Apartment-compound mural deepen. [coords null]
 - **Tlajinga (orientation)** (`site-teotihuacan-tlajinga-orientation`): Southern craft/residential district orientation. [coords null]
 - **Tlalitola craft zone (orientation)** (`site-teotihuacan-tlalitola-orientation`): Peripheral craft-zone orientation. [coords null]
 - **FSP tunnel (orientation)** (`site-teotihuacan-tunnel-fsp-orientation`): INAH tunnel excavation tradition orientation. [coords null]
@@ -88,76 +103,7 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - **Zacuala deepen** (`site-teotihuacan-zacuala-r3a`): Apartment-compound deepen. [coords null]
 - **Teotihuacan** (`site-teotihuacan`): Classic metropolis; mapping project covers city grid. [coords filled]
 
-## Registered sources
-
-- `src-teotihuacan-asu-lab-orientation` — web (tier T)
-- `src-teotihuacan-asu-mapping-deepen` — web (tier T)
-- `src-teotihuacan-asu-r3a` — web (tier T)
-- `src-teotihuacan-atatelco-r3a` — article (tier S)
-- `src-teotihuacan-cabrera-castro-orientation` — excavation-report (tier P)
-- `src-teotihuacan-carballo-obsidian-deepen` — monograph (tier S)
-- `src-teotihuacan-carbon-cowgill-synthesis` — monograph (tier S)
-- `src-teotihuacan-carbon-dating-orientation` — article (tier S)
-- `src-teotihuacan-clayton-orientation` — article (tier S)
-- `src-teotihuacan-cowgill-2015` — monograph (tier S)
-- `src-teotihuacan-cowgill-r3a` — monograph (tier S)
-- `src-teotihuacan-cowgill-urbanism-deepen` — monograph (tier S)
-- `src-teotihuacan-epiclassic-coyotlatelco` — article (tier S)
-- `src-teotihuacan-epiclassic-r3a` — article (tier S)
-- `src-teotihuacan-foreigners-barrio` — article (tier S)
-- `src-teotihuacan-frobenius-style-compare` — article (tier S)
-- `src-teotihuacan-gomez-chavez-orientation` — article (tier S)
-- `src-teotihuacan-heaton-obsidian` — article (tier S)
-- `src-teotihuacan-inah-museo-deepen` — web (tier T)
-- `src-teotihuacan-inah-r3a` — web (tier T)
-- `src-teotihuacan-inah-site-orientation` — web (tier T)
-- `src-teotihuacan-inah-zona` — web (tier T)
-- `src-teotihuacan-isotope-r3a` — article (tier S)
-- `src-teotihuacan-la-ventilla-orientation` — article (tier S)
-- `src-teotihuacan-lapidary-orientation` — article (tier S)
-- `src-teotihuacan-manzanilla-2012` — monograph (tier S)
-- `src-teotihuacan-manzanilla-orientation` — monograph (tier S)
-- `src-teotihuacan-manzanilla-r3a` — monograph (tier S)
-- `src-teotihuacan-miccaotli-orientation` — article (tier S)
-- `src-teotihuacan-millon-mapping-orientation` — monograph (tier P)
-- `src-teotihuacan-murals-de-la-fuente` — monograph (tier S)
-- `src-teotihuacan-nidus-orientation` — article (tier S)
-- `src-teotihuacan-oaxaca-barrio-r3a` — article (tier S)
-- `src-teotihuacan-obsidian-r3a` — article (tier S)
-- `src-teotihuacan-pasztory-art-orientation` — monograph (tier S)
-- `src-teotihuacan-plaza-one-orientation` — article (tier S)
-- `src-teotihuacan-rattray-ceramics` — monograph (tier S)
-- `src-teotihuacan-robb-orientation` — monograph (tier S)
-- `src-teotihuacan-sempowski-spence` — monograph (tier S)
-- `src-teotihuacan-spence-obsidian-orientation` — article (tier S)
-- `src-teotihuacan-storey-bioarch` — article (tier S)
-- `src-teotihuacan-storm-god-orientation` — article (tier S)
-- `src-teotihuacan-storm-god-r3a` — article (tier S)
-- `src-teotihuacan-street-dead-axis` — article (tier S)
-- `src-teotihuacan-street-dead-r3a` — article (tier S)
-- `src-teotihuacan-sugiyama-2005` — monograph (tier S)
-- `src-teotihuacan-sugiyama-feathered-serpent` — excavation-report (tier P)
-- `src-teotihuacan-sugiyama-moon-pyramid` — article (tier S)
-- `src-teotihuacan-sugiyama-r3a` — article (tier S)
-- `src-teotihuacan-taube-iconography` — article (tier S)
-- `src-teotihuacan-teopancazco-orientation` — article (tier S)
-- `src-teotihuacan-tepantitla-r3a` — article (tier S)
-- `src-teotihuacan-thin-orange-r3a` — article (tier S)
-- `src-teotihuacan-tmp-antiquity-data` — article (tier S)
-- `src-teotihuacan-tmp-data-paper` — article (tier S)
-- `src-teotihuacan-tunnel-fsp-r3a` — article (tier S)
-- `src-teotihuacan-unesco-414-deepen-r2` — web (tier T)
-- `src-teotihuacan-unesco-414-maps` — web (tier T)
-- `src-teotihuacan-unesco-414-r3a` — web (tier T)
-- `src-teotihuacan-unesco-414` — web (tier T)
-- `src-teotihuacan-unesco-docs-deepen` — web (tier T)
-- `src-teotihuacan-white-price-deepen` — article (tier S)
-- `src-teotihuacan-white-price-orientation` — article (tier S)
-- `src-teotihuacan-xalla-orientation` — article (tier S)
-- `src-teotihuacan-xalla-r3a` — article (tier S)
-- `src-teotihuacan-zacuala-r3a` — article (tier S)
-
-## Claims (EN)
+## Claims
 
 - (fact) Research treats apartment compounds as the primary residential units and discusses multiethnic composition (Manzanilla; Cowgill).
 - (fact) Apartment-compound archaeology frames Teotihuacan’s urban fabric as large multi-room residential units (Manzanilla; Cowgill 2015).
@@ -189,8 +135,10 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - (fact) Isotopes and bioarchaeology show a substantial immigrant share in the capital’s population.
 - (fact) La Ventilla excavations supply district-scale mural, glyph, and workshop evidence (Cabrera / INAH).
 - (fact) Lapidary and greenstone workshop studies complement specialized production beyond obsidian.
+- (fact) Manzanilla’s neighborhood work (e.g. Teopancazco) stresses multiethnic co-residence and specialized production.
 - (fact) Manzanilla’s neighborhood archaeology shows apartment compounds as basic units of social reproduction.
 - (fact) TMP mapping indicates metropolitan density and grid regularity in the Classic city (Millon; TMP data papers).
+- (fact) Maquixco Bajo and related valley sites link the urban core to hinterland settlement.
 - (fact) Miccaotli ceramic phase supplies a ceramic frame for Early Classic urban expansion (Rattray / TMP).
 - (fact) Moon Pyramid excavation tradition links multi-stage dedications to ritual architectural programs (Sugiyama / Cabrera orientation).
 - (fact) Mural cataloguing tradition supplies a corpus basis for iconographic program research (de la Fuente and others).
@@ -203,14 +151,19 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - (fact) Obsidian production and exchange studies place Teotihuacan in a regional obsidian economy (Spence).
 - (fact) Obsidian research identifies workshops and long-distance procurement networks (Spence / related analyses).
 - (fact) Mapping and synthesis frame Teotihuacan as a planned Classic metropolis in the Basin of Mexico, with ceremonial core and dense housing systematically surveyed (Millon TMP; Cowgill 2015; UNESCO 414).
+- (fact) The Plaza de las Columnas Project documents elite ritual and mural activity in the core.
 - (fact) Plaza One and related early public spaces discuss early stages of urban planning (Millon TMP orientation).
+- (fact) The Palace of Quetzalpapalotl is a carved-portico palace-patio complex beside the Moon Plaza.
+- (fact) Río San Juan canal modification is part of planned urban hydrology.
 - (fact) Storm God iconographic programs are repeatedly discussed as ideological elements in murals and sculpture (Taube and others).
 - (fact) Storm God imagery recurs on monuments and apartment murals as part of a shared ritual vocabulary.
 - (fact) Mapping frames the Street of the Dead as a planned axis through the ceremonial core (Millon TMP; Cowgill).
+- (fact) Sugiyama’s Feathered Serpent / Ciudadela work establishes large-scale offerings and building programs.
 - (fact) Sugiyama frames Feathered Serpent Pyramid sacrificial deposits as key evidence for materializing state ideology (Sugiyama 2005).
 - (fact) Sugiyama and pyramid-offering projects reconstruct foundational violence in monumental building.
 - (fact) Teopancazco project frames the compound as a multiethnic craft and ritual node (Manzanilla).
 - (fact) Tepantitla murals are a key closed context for Teotihuacan apartment ritual imagery.
+- (fact) Tetitla is noted for rich mural programs inside an apartment compound.
 - (fact) Thin Orange ceramics are a ceramic marker of Teotihuacan regional exchange networks.
 - (fact) Millon’s Mapping Project systematically surveyed the city grid and surface collections, providing key evidence for urban scale (TMP; Antiquity data paper).
 - (fact) UNESCO documents page aggregates World Heritage protection/management materials (414 documents).
@@ -220,7 +173,78 @@ notes: "Hot densify Round-3 Batch A D-2026-10-12-28. Toward denser archive; stat
 - (hypothesis) Xalla is often discussed as a candidate palace/governance centre.
 - (fact) Xalla research discusses elite architectural complexes near the Sun Pyramid (Manzanilla and others).
 - (fact) The Xolalpan phase is often described as a floruit window for urban life and Thin Orange circulation.
+- (fact) The Xolalpan ceramic window corresponds to classic urban expansion and apartment-compound floruit.
 
-## Integrity
+## Sources
 
-No invented archaeology, page numbers, coordinates, or media art in this densify pass.
+- `src-teotihuacan-asu-lab-orientation` — web (tier T)
+- `src-teotihuacan-asu-mapping-deepen` — web (tier T)
+- `src-teotihuacan-asu-r3a` — web (tier T)
+- `src-teotihuacan-atatelco-r3a` — article (tier S)
+- `src-teotihuacan-cabrera-castro-orientation` — excavation-report (tier P)
+- `src-teotihuacan-carballo-obsidian-deepen` — monograph (tier S)
+- `src-teotihuacan-carbon-cowgill-synthesis` — monograph (tier S)
+- `src-teotihuacan-carbon-dating-orientation` — article (tier S)
+- `src-teotihuacan-clayton-orientation` — article (tier S)
+- `src-teotihuacan-cowgill-2015` — monograph (tier S)
+- `src-teotihuacan-cowgill-r3a` — monograph (tier S)
+- `src-teotihuacan-cowgill-r4a` — monograph (tier S)
+- `src-teotihuacan-cowgill-urbanism-deepen` — monograph (tier S)
+- `src-teotihuacan-epiclassic-coyotlatelco` — article (tier S)
+- `src-teotihuacan-epiclassic-r3a` — article (tier S)
+- `src-teotihuacan-foreigners-barrio` — article (tier S)
+- `src-teotihuacan-frobenius-style-compare` — article (tier S)
+- `src-teotihuacan-gomez-chavez-orientation` — article (tier S)
+- `src-teotihuacan-heaton-obsidian` — article (tier S)
+- `src-teotihuacan-inah-museo-deepen` — web (tier T)
+- `src-teotihuacan-inah-r3a` — web (tier T)
+- `src-teotihuacan-inah-site-orientation` — web (tier T)
+- `src-teotihuacan-inah-zona` — web (tier T)
+- `src-teotihuacan-isotope-r3a` — article (tier S)
+- `src-teotihuacan-la-ventilla-orientation` — article (tier S)
+- `src-teotihuacan-lapidary-orientation` — article (tier S)
+- `src-teotihuacan-manzanilla-2012` — monograph (tier S)
+- `src-teotihuacan-manzanilla-orientation` — monograph (tier S)
+- `src-teotihuacan-manzanilla-r3a` — monograph (tier S)
+- `src-teotihuacan-manzanilla-r4a` — article (tier S)
+- `src-teotihuacan-miccaotli-orientation` — article (tier S)
+- `src-teotihuacan-millon-mapping-orientation` — monograph (tier P)
+- `src-teotihuacan-murals-de-la-fuente` — monograph (tier S)
+- `src-teotihuacan-nidus-orientation` — article (tier S)
+- `src-teotihuacan-oaxaca-barrio-r3a` — article (tier S)
+- `src-teotihuacan-obsidian-r3a` — article (tier S)
+- `src-teotihuacan-pasztory-art-orientation` — monograph (tier S)
+- `src-teotihuacan-plaza-columnas-r4a` — article (tier S)
+- `src-teotihuacan-plaza-one-orientation` — article (tier S)
+- `src-teotihuacan-rattray-ceramics` — monograph (tier S)
+- `src-teotihuacan-robb-orientation` — monograph (tier S)
+- `src-teotihuacan-sempowski-spence` — monograph (tier S)
+- `src-teotihuacan-spence-obsidian-orientation` — article (tier S)
+- `src-teotihuacan-storey-bioarch` — article (tier S)
+- `src-teotihuacan-storm-god-orientation` — article (tier S)
+- `src-teotihuacan-storm-god-r3a` — article (tier S)
+- `src-teotihuacan-street-dead-axis` — article (tier S)
+- `src-teotihuacan-street-dead-r3a` — article (tier S)
+- `src-teotihuacan-sugiyama-2005` — monograph (tier S)
+- `src-teotihuacan-sugiyama-feathered-serpent` — excavation-report (tier P)
+- `src-teotihuacan-sugiyama-moon-pyramid` — article (tier S)
+- `src-teotihuacan-sugiyama-r3a` — article (tier S)
+- `src-teotihuacan-sugiyama-r4a` — monograph (tier S)
+- `src-teotihuacan-taube-iconography` — article (tier S)
+- `src-teotihuacan-teopancazco-orientation` — article (tier S)
+- `src-teotihuacan-tepantitla-r3a` — article (tier S)
+- `src-teotihuacan-thin-orange-r3a` — article (tier S)
+- `src-teotihuacan-tmp-antiquity-data` — article (tier S)
+- `src-teotihuacan-tmp-data-paper` — article (tier S)
+- `src-teotihuacan-tunnel-fsp-r3a` — article (tier S)
+- `src-teotihuacan-unesco-414-deepen-r2` — web (tier T)
+- `src-teotihuacan-unesco-414-maps` — web (tier T)
+- `src-teotihuacan-unesco-414-r3a` — web (tier T)
+- `src-teotihuacan-unesco-414-r4a` — web (tier T)
+- `src-teotihuacan-unesco-414` — web (tier T)
+- `src-teotihuacan-unesco-docs-deepen` — web (tier T)
+- `src-teotihuacan-white-price-deepen` — article (tier S)
+- `src-teotihuacan-white-price-orientation` — article (tier S)
+- `src-teotihuacan-xalla-orientation` — article (tier S)
+- `src-teotihuacan-xalla-r3a` — article (tier S)
+- `src-teotihuacan-zacuala-r3a` — article (tier S)

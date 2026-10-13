@@ -1,0 +1,331 @@
+{
+  "decision": "D-2026-10-12-30",
+  "date": "2026-10-12",
+  "numeric_gates": {
+    "sources": 65,
+    "sites": 38,
+    "objects": 45,
+    "claims": 58
+  },
+  "packs": [
+    {
+      "pack": "teotihuacan",
+      "before": {
+        "sources": 66,
+        "sites": 31,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "after": {
+        "sources": 71,
+        "sites": 41,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-teotihuacan",
+      "status": "library-seed-rich",
+      "coords_filled": [],
+      "evaluation": {
+        "promote": false,
+        "status": "library-seed-rich",
+        "numeric_ok": true,
+        "quality_ok": false,
+        "numeric_detail": {
+          "sources": {
+            "have": 71,
+            "need": 65,
+            "ok": true
+          },
+          "sites": {
+            "have": 41,
+            "need": 38,
+            "ok": true
+          },
+          "objects": {
+            "have": 51,
+            "need": 45,
+            "ok": true
+          },
+          "claims": {
+            "have": 69,
+            "need": 58,
+            "ok": true
+          }
+        },
+        "coords_filled": 1,
+        "coords_null": 40,
+        "coord_fill_ratio": 0.024,
+        "orientation_stubs": 20,
+        "stub_ratio": 0.488,
+        "quality_fail_reasons": [
+          "coords mostly null (1/41 filled, 2%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites)",
+          "orientation stubs still high (20/41, 49%); depth still seed-like vs Egypt report-level sites"
+        ],
+        "reason": "Numeric OK but quality/honesty fail: coords mostly null (1/41 filled, 2%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (20/41, 49%); depth still seed-like vs Egypt report-level sites"
+      }
+    },
+    {
+      "pack": "classic-maya",
+      "before": {
+        "sources": 66,
+        "sites": 33,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-classic-maya",
+      "status": "library-seed-rich",
+      "coords_filled": [],
+      "evaluation": {
+        "promote": false,
+        "status": "library-seed-rich",
+        "numeric_ok": true,
+        "quality_ok": false,
+        "numeric_detail": {
+          "sources": {
+            "have": 71,
+            "need": 65,
+            "ok": true
+          },
+          "sites": {
+            "have": 43,
+            "need": 38,
+            "ok": true
+          },
+          "objects": {
+            "have": 51,
+            "need": 45,
+            "ok": true
+          },
+          "claims": {
+            "have": 69,
+            "need": 58,
+            "ok": true
+          }
+        },
+        "coords_filled": 6,
+        "coords_null": 37,
+        "coord_fill_ratio": 0.14,
+        "orientation_stubs": 19,
+        "stub_ratio": 0.442,
+        "quality_fail_reasons": [
+          "coords mostly null (6/43 filled, 14%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites)",
+          "orientation stubs still high (19/43, 44%); depth still seed-like vs Egypt report-level sites"
+        ],
+        "reason": "Numeric OK but quality/honesty fail: coords mostly null (6/43 filled, 14%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (19/43, 44%); depth still seed-like vs Egypt report-level sites"
+      }
+    },
+    {
+      "pack": "inca",
+      "before": {
+        "sources": 66,
+        "sites": 32,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "after": {
+        "sources": 71,
+        "sites": 42,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-inca",
+      "status": "library-seed-rich",
+      "coords_filled": [],
+      "evaluation": {
+        "promote": false,
+        "status": "library-seed-rich",
+        "numeric_ok": true,
+        "quality_ok": false,
+        "numeric_detail": {
+          "sources": {
+            "have": 71,
+            "need": 65,
+            "ok": true
+          },
+          "sites": {
+            "have": 42,
+            "need": 38,
+            "ok": true
+          },
+          "objects": {
+            "have": 51,
+            "need": 45,
+            "ok": true
+          },
+          "claims": {
+            "have": 69,
+            "need": 58,
+            "ok": true
+          }
+        },
+        "coords_filled": 4,
+        "coords_null": 38,
+        "coord_fill_ratio": 0.095,
+        "orientation_stubs": 21,
+        "stub_ratio": 0.5,
+        "quality_fail_reasons": [
+          "coords mostly null (4/42 filled, 10%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites)",
+          "orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites"
+        ],
+        "reason": "Numeric OK but quality/honesty fail: coords mostly null (4/42 filled, 10%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites"
+      }
+    },
+    {
+      "pack": "angkor",
+      "before": {
+        "sources": 66,
+        "sites": 33,
+        "periods": 12,
+        "objects": 33,
+        "claims": 61,
+        "media": 11
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-angkor",
+      "status": "library-seed-rich",
+      "coords_filled": [],
+      "evaluation": {
+        "promote": false,
+        "status": "library-seed-rich",
+        "numeric_ok": true,
+        "quality_ok": false,
+        "numeric_detail": {
+          "sources": {
+            "have": 71,
+            "need": 65,
+            "ok": true
+          },
+          "sites": {
+            "have": 43,
+            "need": 38,
+            "ok": true
+          },
+          "objects": {
+            "have": 51,
+            "need": 45,
+            "ok": true
+          },
+          "claims": {
+            "have": 69,
+            "need": 58,
+            "ok": true
+          }
+        },
+        "coords_filled": 4,
+        "coords_null": 39,
+        "coord_fill_ratio": 0.093,
+        "orientation_stubs": 22,
+        "stub_ratio": 0.512,
+        "quality_fail_reasons": [
+          "coords mostly null (4/43 filled, 9%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites)",
+          "orientation stubs still high (22/43, 51%); depth still seed-like vs Egypt report-level sites"
+        ],
+        "reason": "Numeric OK but quality/honesty fail: coords mostly null (4/43 filled, 9%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (22/43, 51%); depth still seed-like vs Egypt report-level sites"
+      }
+    },
+    {
+      "pack": "aksum",
+      "before": {
+        "sources": 66,
+        "sites": 32,
+        "periods": 12,
+        "objects": 33,
+        "claims": 60,
+        "media": 10
+      },
+      "after": {
+        "sources": 71,
+        "sites": 42,
+        "periods": 13,
+        "objects": 51,
+        "claims": 68,
+        "media": 11
+      },
+      "civ_id": "civ-aksum",
+      "status": "library-seed-rich",
+      "coords_filled": [],
+      "evaluation": {
+        "promote": false,
+        "status": "library-seed-rich",
+        "numeric_ok": true,
+        "quality_ok": false,
+        "numeric_detail": {
+          "sources": {
+            "have": 71,
+            "need": 65,
+            "ok": true
+          },
+          "sites": {
+            "have": 42,
+            "need": 38,
+            "ok": true
+          },
+          "objects": {
+            "have": 51,
+            "need": 45,
+            "ok": true
+          },
+          "claims": {
+            "have": 68,
+            "need": 58,
+            "ok": true
+          }
+        },
+        "coords_filled": 3,
+        "coords_null": 39,
+        "coord_fill_ratio": 0.071,
+        "orientation_stubs": 21,
+        "stub_ratio": 0.5,
+        "quality_fail_reasons": [
+          "coords mostly null (3/42 filled, 7%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites)",
+          "orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites"
+        ],
+        "reason": "Numeric OK but quality/honesty fail: coords mostly null (3/42 filled, 7%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites"
+      }
+    }
+  ],
+  "delta_totals": {
+    "sources": 25,
+    "sites": 50,
+    "periods": 5,
+    "objects": 90,
+    "claims": 40,
+    "media": 5
+  },
+  "promotion_summary": {
+    "promoted": [],
+    "kept_seed_rich": [
+      "teotihuacan",
+      "classic-maya",
+      "inca",
+      "angkor",
+      "aksum"
+    ]
+  },
+  "status_note": "Promote only packs that pass BOTH numeric and quality/honesty gates. This pass: see promotion_summary."
+}

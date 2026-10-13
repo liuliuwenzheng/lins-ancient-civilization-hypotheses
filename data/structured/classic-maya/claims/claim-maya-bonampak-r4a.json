@@ -1,0 +1,32 @@
+{
+  "id": "claim-maya-bonampak-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "博南帕克宫殿壁画是经典玛雅宫廷仪式与战争叙事的关键图像来源。",
+    "en": "Bonampak palace murals are a key pictorial source for Classic Maya court ritual and warfare narrative.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-maya-bonampak-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-maya-bonampak-r4a",
+    "src-maya-sharer-traxler-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

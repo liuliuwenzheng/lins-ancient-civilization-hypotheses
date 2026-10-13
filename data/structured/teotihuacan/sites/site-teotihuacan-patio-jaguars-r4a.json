@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-patio-jaguars-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "美洲豹庭院",
+    "en": "Patio of the Jaguars",
+    "native": null
+  },
+  "kind_note": "Palace mural patio",
+  "region": "Teotihuacan core",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "宫殿壁画庭院。",
+    "en": "Palace mural patio.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-r4a",
+    "src-teotihuacan-unesco-414-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

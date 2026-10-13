@@ -1,0 +1,44 @@
+{
+  "id": "asm-maya-tomb-painting-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "墓葬绘画组合",
+    "en": "Tomb painting assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-maya-rio-azul-r4a",
+    "site-maya-bonampak-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "墓葬/宫殿绘画组合。",
+    "en": "Tomb/palace painting assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-maya-sharer-traxler-r4a",
+    "src-maya-bonampak-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

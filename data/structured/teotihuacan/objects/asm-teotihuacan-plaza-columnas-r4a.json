@@ -1,0 +1,43 @@
+{
+  "id": "asm-teotihuacan-plaza-columnas-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "柱廊广场组合",
+    "en": "Plaza de las Columnas assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-plaza-columnas-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "精英广场发掘组合。",
+    "en": "Elite plaza excavation assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-plaza-columnas-r4a",
+    "src-teotihuacan-cowgill-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

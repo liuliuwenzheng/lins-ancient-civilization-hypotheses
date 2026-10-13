@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-ingapirca-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "印加皮尔卡",
+    "en": "Ingapirca",
+    "native": null
+  },
+  "kind_note": "Northern province ceremonial",
+  "region": "Ecuador",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "北部行省礼仪中心。",
+    "en": "Northern province ceremonial center.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-daltroy-r4a",
+    "src-inca-hyslop-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

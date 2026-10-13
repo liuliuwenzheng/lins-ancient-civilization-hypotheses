@@ -107,11 +107,13 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 ## Product stance
 
-**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); all 10 hot packs at Round-3 (~66 sources / ~32 sites / ~33 objects / ~61 claims); Seed Batches C–F (21 packs) at ~30.** Honesty of status beats vanity of count. Next: coord/media fill; open remaining Missing where archives allow.
+**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); 5 hot packs (Batch A) at Round-4 (~71 sources / 41–43 sites / 51 objects / 68–69 claims) but **not promoted** (coords/stubs honesty fail); other 5 hot packs still Round-3 (~66); Seed C–F (21 packs) at ~30.** Honesty of status beats vanity of count. Next: Hot Round-4 Batch B; cited coord fills; open remaining Missing where archives allow.
 
 > **2026-10-12 update (Hot Round-3 A):** Hot densify Round-3 Batch A (D-2026-10-12-28) raised teotihuacan / classic-maya / inca / angkor / aksum to ~66 sources / 31–33 sites / 33 objects / 60–61 claims; status remains `library-seed-rich` (not promoted). No new coords.
 
 > **2026-10-12 update (Hot Round-3 B):** Hot densify Round-3 Batch B (D-2026-10-12-29) raised aztec / phoenician / anatolia-hittite / nubia-kush / elam-iran to ~66 sources / 32–34 sites / 33 objects / 61 claims; status remains `library-seed-rich` (not promoted). **All 10 hot packs now Round-3 band.** No new coords this pass.
+
+> **2026-10-12 update (Hot Round-4 A):** Hot densify Round-4 Batch A (D-2026-10-12-30) raised teotihuacan / classic-maya / inca / angkor / aksum to ~71 sources / 41–43 sites / 51 objects / 68–69 claims (sites/objects focus). **Numeric gates passed; quality/honesty failed (coords 2–14% filled, orientation stubs remain) → none promoted; all stay `library-seed-rich`.** No new coords this pass. Batch B next.
 
 > **2026-10-12 update (Seed F):** Seed densify Batch F (D-2026-10-12-27) raised ancestral-pueblo / great-zimbabwe / west-africa-medieval / hallstatt-celtic / nuragic-sardinia / rapa-nui to ~30 sources / 15 sites / 26 claims; status remains `library-seed-rich`. **All 21 former ~15-source packs now ~30.** Rapa Nui: outbound UNESCO media only; no hosted moai imagery. No new coords this pass.
 

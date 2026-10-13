@@ -1,0 +1,34 @@
+{
+  "id": "claim-angkor-roluos-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "巴孔、波罗诃诰与洛雷构成诃里哈拉洛耶（罗洛士）早期都城神庙组。",
+    "en": "Bakong, Preah Ko and Lolei form the early Hariharalaya (Roluos) capital temple group.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-bakong-r4a",
+    "site-angkor-preah-ko-r4a",
+    "site-angkor-lolei-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-coedes-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

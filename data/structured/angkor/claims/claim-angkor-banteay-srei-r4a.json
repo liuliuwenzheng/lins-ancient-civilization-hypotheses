@@ -1,0 +1,32 @@
+{
+  "id": "claim-angkor-banteay-srei-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "班迭斯雷以粉砂岩微型精雕著称，常被单列为高棉雕刻高峰。",
+    "en": "Banteay Srei is famed for miniature pink-sandstone carving, often singled out as a Khmer sculpture peak.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-banteay-srei-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-banteay-srei-r4a",
+    "src-angkor-jacques-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

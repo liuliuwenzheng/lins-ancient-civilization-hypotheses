@@ -1,0 +1,30 @@
+{
+  "id": "claim-angkor-evans-lidar-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Evans 等激光雷达研究揭示吴哥都市低密度居住与水利网格远超寺庙核心。",
+    "en": "Evans et al. lidar work shows Angkor’s low-density occupation and hydraulic grid far beyond the temple core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-angkor-evans-lidar-r4a",
+    "src-angkor-unesco-668-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

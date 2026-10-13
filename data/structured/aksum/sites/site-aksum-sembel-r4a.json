@@ -1,0 +1,33 @@
+{
+  "id": "site-aksum-sembel-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "森贝尔",
+    "en": "Sembel",
+    "native": null
+  },
+  "kind_note": "Asmara highland settlement",
+  "region": "Eritrea",
+  "civilization_ids": [
+    "civ-aksum"
+  ],
+  "summary": {
+    "zh": "阿斯马拉高原聚落。",
+    "en": "Asmara highland settlement.",
+    "native": null
+  },
+  "sources": [
+    "src-aksum-fattovich-r4a",
+    "src-aksum-philipson-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

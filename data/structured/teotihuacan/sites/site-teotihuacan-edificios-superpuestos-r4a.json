@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-edificios-superpuestos-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "叠压建筑群",
+    "en": "Edificios Superpuestos",
+    "native": null
+  },
+  "kind_note": "Stratified civic architecture",
+  "region": "Teotihuacan core",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "叠压公共建筑层序。",
+    "en": "Stratified civic architectural sequence.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-sugiyama-r4a",
+    "src-teotihuacan-cowgill-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

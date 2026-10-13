@@ -1,0 +1,33 @@
+{
+  "id": "site-angkor-bakong-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "巴孔",
+    "en": "Bakong",
+    "native": null
+  },
+  "kind_note": "Roluos temple-mountain",
+  "region": "Hariharalaya",
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "summary": {
+    "zh": "罗洛士庙山。",
+    "en": "Roluos temple-mountain.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-coedes-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

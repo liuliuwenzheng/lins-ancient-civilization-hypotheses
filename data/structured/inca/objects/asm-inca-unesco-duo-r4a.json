@@ -1,0 +1,43 @@
+{
+  "id": "asm-inca-unesco-duo-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "教科文马丘比丘/路网组合",
+    "en": "UNESCO MP / Qhapaq Ñan assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-winay-wayna-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "教科文双遗产组合。",
+    "en": "UNESCO dual-heritage assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-unesco-mp-r4a",
+    "src-inca-unesco-qhapaq-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

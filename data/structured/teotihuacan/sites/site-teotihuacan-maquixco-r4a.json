@@ -1,0 +1,33 @@
+{
+  "id": "site-teotihuacan-maquixco-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "马基斯科巴霍",
+    "en": "Maquixco Bajo",
+    "native": null
+  },
+  "kind_note": "Valley hinterland settlement",
+  "region": "Teotihuacan valley",
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "summary": {
+    "zh": "谷地腹地聚落。",
+    "en": "Valley hinterland settlement.",
+    "native": null
+  },
+  "sources": [
+    "src-teotihuacan-cowgill-r4a",
+    "src-teotihuacan-sugiyama-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

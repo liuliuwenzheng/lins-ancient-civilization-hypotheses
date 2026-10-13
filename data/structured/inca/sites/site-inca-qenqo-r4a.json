@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-qenqo-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "肯戈",
+    "en": "Q'enqo",
+    "native": null
+  },
+  "kind_note": "Carved rock huaca",
+  "region": "Cusco",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "雕岩瓦卡圣地。",
+    "en": "Carved-rock huaca sanctuary.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-daltroy-r4a",
+    "src-inca-protzen-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

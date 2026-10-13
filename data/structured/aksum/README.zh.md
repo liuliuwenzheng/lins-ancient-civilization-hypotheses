@@ -1,7 +1,7 @@
-# 结构化包 — 阿克苏姆
+# 阿克苏姆 — 结构化包
 
-[English](README.md) | 中文
+状态：`library-seed-rich` · Round-4 Batch A `D-2026-10-12-30` · Kept `library-seed-rich` (D-2026-10-12-30): Numeric OK but quality/honesty fail: coords mostly null (3/42 filled, 7%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites); orientation stubs still high (21/42, 50%); depth still seed-like vs Egypt report-level sites
 
-**状态：** `library-seed-rich`（热门加厚 Round-3 Batch A，D-2026-10-12-28）。朝向 fact-library，尚未达埃及级密度。
+计数：来源=71 遗址=42 时段=13 对象=51 主张=68 媒体=11
 
-计数：来源 66 · 遗址 32 · 时段 12 · 对象 33 · 主张 60 · 媒体 10
+文明文档：`data/civilizations/civ-aksum.md`

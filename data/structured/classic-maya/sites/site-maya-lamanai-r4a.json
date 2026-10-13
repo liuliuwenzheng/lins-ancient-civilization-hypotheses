@@ -1,0 +1,33 @@
+{
+  "id": "site-maya-lamanai-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "拉马奈",
+    "en": "Lamanai",
+    "native": null
+  },
+  "kind_note": "Long-occupied Belize center",
+  "region": "Belize",
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "summary": {
+    "zh": "伯利兹长时段居住中心。",
+    "en": "Long-occupied Belize center.",
+    "native": null
+  },
+  "sources": [
+    "src-maya-sharer-traxler-r4a",
+    "src-maya-martin-grube-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

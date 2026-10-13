@@ -1,0 +1,43 @@
+{
+  "id": "asm-inca-qollqa-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "仓库景观组合",
+    "en": "Qollqa storage landscape assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [
+    "site-inca-raqchi-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "省级仓库景观组合。",
+    "en": "Provincial storehouse landscape assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-hyslop-r4a",
+    "src-inca-daltroy-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-maya-unesco-tikal-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "教科文蒂卡尔景观组合",
+    "en": "UNESCO Tikal landscape assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "site_ids": [
+    "site-maya-holmul-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "教科文蒂卡尔相关景观指针。",
+    "en": "UNESCO Tikal-related landscape orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-maya-unesco-tikal-r4a",
+    "src-maya-sharer-traxler-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

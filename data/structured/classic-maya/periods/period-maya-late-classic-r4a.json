@@ -1,0 +1,36 @@
+{
+  "id": "period-maya-late-classic-r4a",
+  "entity": "period",
+  "names": {
+    "zh": "晚古典加深窗R4A",
+    "en": "Late Classic deepen R4A",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-classic-maya"
+  ],
+  "time": {
+    "label": "Late Classic dynastic floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late Classic dynastic floruit"
+  },
+  "summary": {
+    "zh": "晚古典王朝繁荣。",
+    "en": "Late Classic dynastic floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-maya-martin-grube-r4a",
+    "src-maya-sharer-traxler-r4a"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

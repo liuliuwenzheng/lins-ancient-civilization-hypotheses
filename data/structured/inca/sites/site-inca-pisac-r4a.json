@@ -1,0 +1,33 @@
+{
+  "id": "site-inca-pisac-r4a",
+  "entity": "site",
+  "names": {
+    "zh": "皮萨克加深",
+    "en": "Pisac deepen",
+    "native": null
+  },
+  "kind_note": "Royal estate / terraces",
+  "region": "Sacred Valley",
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "summary": {
+    "zh": "皇家庄园与梯田加深。",
+    "en": "Royal estate and terrace deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-inca-daltroy-r4a",
+    "src-inca-protzen-r4a"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

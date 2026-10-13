@@ -1,0 +1,32 @@
+{
+  "id": "claim-inca-imperial-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帝国扩张窗以路网、仓库与行省中心的快速铺开为标志。",
+    "en": "The imperial expansion window is marked by rapid rollout of roads, storehouses and provincial centers.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-inca"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-inca-imperial-r4a"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-inca-daltroy-r4a",
+    "src-inca-hyslop-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

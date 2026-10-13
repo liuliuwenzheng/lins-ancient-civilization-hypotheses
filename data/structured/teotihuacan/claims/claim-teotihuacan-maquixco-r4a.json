@@ -1,0 +1,32 @@
+{
+  "id": "claim-teotihuacan-maquixco-r4a",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "马基斯科巴霍等谷地遗址将都市核心与腹地聚落联系起来。",
+    "en": "Maquixco Bajo and related valley sites link the urban core to hinterland settlement.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-teotihuacan"
+  ],
+  "site_ids": [
+    "site-teotihuacan-maquixco-r4a"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-teotihuacan-cowgill-r4a",
+    "src-teotihuacan-sugiyama-r4a"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

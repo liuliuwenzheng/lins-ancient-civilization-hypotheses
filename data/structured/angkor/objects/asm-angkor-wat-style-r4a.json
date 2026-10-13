@@ -1,0 +1,44 @@
+{
+  "id": "asm-angkor-wat-style-r4a",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "吴哥窟风格建筑组合",
+    "en": "Angkor Wat-style architecture assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-angkor"
+  ],
+  "site_ids": [
+    "site-angkor-thommanon-r4a",
+    "site-angkor-chau-say-tevoda-r4a"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "吴哥窟风格小建筑组合。",
+    "en": "Angkor Wat-style small architecture assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-angkor-jacques-r4a",
+    "src-angkor-coedes-r4a"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_a.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-30"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch A sites/objects + promotion eval (D-2026-10-12-30). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}
