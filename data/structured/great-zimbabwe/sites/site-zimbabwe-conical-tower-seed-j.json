@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-conical-tower-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "圆锥塔加深",
+    "en": "Conical Tower deepen",
+    "native": null
+  },
+  "kind_note": "Great Enclosure tower",
+  "region": "Masvingo",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "大围场圆锥塔。",
+    "en": "Great Enclosure conical tower.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-enclosure-seed-j",
+    "src-zimbabwe-unesco-364-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

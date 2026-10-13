@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-rano-raraku-quarry-j",
+  "entity": "site",
+  "names": {
+    "zh": "拉诺拉拉库采石区",
+    "en": "Rano Raraku quarry sector Seed J",
+    "native": null
+  },
+  "kind_note": "Quarry landscape",
+  "region": "East",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "采石地景区段。",
+    "en": "Quarry landscape sector.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-rano-raraku-seed-j",
+    "src-rapanui-unesco-715-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

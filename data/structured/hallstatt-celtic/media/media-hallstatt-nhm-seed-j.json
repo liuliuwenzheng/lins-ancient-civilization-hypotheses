@@ -1,0 +1,33 @@
+{
+  "id": "media-hallstatt-nhm-seed-j",
+  "entity": "media",
+  "title": {
+    "zh": "维也纳自然史博物馆哈尔施塔特收藏取向",
+    "en": "NHM Vienna Hallstatt collections orientation",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/806/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-nhm-seed-j",
+    "src-hallstatt-unesco-806-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre / NHM orientation",
+    "upstream_url": "https://whc.unesco.org/en/list/806/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

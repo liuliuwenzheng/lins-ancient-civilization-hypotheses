@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-heritage-seed-j",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "殖民时期对外来建造的误归仍是遗产政治讨论焦点。",
+    "en": "Colonial misattribution to non-African builders remains a focus of heritage politics.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-heritage-seed-j",
+    "src-zimbabwe-caton-thompson-seed-j"
+  ],
+  "disclaimer": "Heritage-politics framing; archaeological consensus supports African builders.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

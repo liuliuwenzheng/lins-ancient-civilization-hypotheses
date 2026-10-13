@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-aztec-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿兹特克遗址与查科外围网络相关。",
+    "en": "Aztec Ruins relates to the Chacoan outlier network.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-aztec-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-aztec-seed-j",
+    "src-pueblo-lekson-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

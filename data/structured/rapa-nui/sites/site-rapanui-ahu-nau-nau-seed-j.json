@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-ahu-nau-nau-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "阿胡瑙瑙取向",
+    "en": "Ahu Nau Nau orientation Seed J",
+    "native": null
+  },
+  "kind_note": "Coastal ahu",
+  "region": "Anakena",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "阿纳克纳沿海平台取向。",
+    "en": "Anakena coastal platform orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-anakena-seed-j",
+    "src-rapanui-unesco-715-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

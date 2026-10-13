@@ -1,0 +1,43 @@
+{
+  "id": "asm-nuragic-su-tempiesu-seed-j",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "苏滕皮埃苏圣井J",
+    "en": "Su Tempiesu well J",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-su-tempiesu-deepen-f"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "圣井组合。",
+    "en": "Sacred-well assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-su-tempiesu-seed-j",
+    "src-nuragic-water-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

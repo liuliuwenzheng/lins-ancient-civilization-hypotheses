@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-hochdorf-museum-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "霍赫多夫博物馆",
+    "en": "Hochdorf museum orientation",
+    "native": null
+  },
+  "kind_note": "Princely grave interpretation",
+  "region": "Eberdingen",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "王侯墓阐释。",
+    "en": "Princely-grave interpretation.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-hochdorf-seed-j",
+    "src-hallstatt-biel-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

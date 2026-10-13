@@ -1,0 +1,43 @@
+{
+  "id": "asm-zimbabwe-khami-seed-j",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "卡米组合J",
+    "en": "Khami assemblage J",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-khami-deepen-f"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "后续都城组合。",
+    "en": "Succession capital assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-khami-seed-j",
+    "src-zimbabwe-beach-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-losa-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "努拉吉洛斯是撒丁中部复合塔案例。",
+    "en": "Nuraghe Losa is a central Sardinian complex-tower case.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-los-seed-j"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-su-nuraxi-seed-j",
+    "src-nuragic-lilliu-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

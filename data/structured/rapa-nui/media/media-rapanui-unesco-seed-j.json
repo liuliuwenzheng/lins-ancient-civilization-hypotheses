@@ -1,0 +1,32 @@
+{
+  "id": "media-rapanui-unesco-seed-j",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：拉帕努伊国家公园 SeedJ（外链）",
+    "en": "UNESCO: Rapa Nui National Park Seed J (outbound)",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/715/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-unesco-715-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre; outbound only; no hosted moai",
+    "upstream_url": "https://whc.unesco.org/en/list/715/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-rapanui-transport-seed-j",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "搬运假说组合",
+    "en": "Transport-hypothesis assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-rano-raraku-quarry-j"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "搬运假说，非定论。",
+    "en": "Transport hypotheses, not settled fact.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-transport-seed-j",
+    "src-rapanui-hunt-lipo-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

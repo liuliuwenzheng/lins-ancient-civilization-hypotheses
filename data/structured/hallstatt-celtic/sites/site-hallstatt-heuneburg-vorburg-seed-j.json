@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-heuneburg-vorburg-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "霍伊内堡前堡",
+    "en": "Heuneburg Vorburg Seed J",
+    "native": null
+  },
+  "kind_note": "Outer settlement",
+  "region": "Danube",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "早期城市外缘。",
+    "en": "Early urban outer settlement.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-heuneburg-seed-j",
+    "src-hallstatt-collis-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

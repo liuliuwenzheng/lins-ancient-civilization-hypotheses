@@ -1,0 +1,32 @@
+{
+  "id": "claim-hallstatt-wagon-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "马车葬是西哈尔施塔特精英礼仪的重要形式。",
+    "en": "Wagon burials are a major West Hallstatt elite ritual form.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "site_ids": [
+    "site-hallstatt-magdalenenberg-seed-j"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hallstatt-wagon-seed-j",
+    "src-hallstatt-biel-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

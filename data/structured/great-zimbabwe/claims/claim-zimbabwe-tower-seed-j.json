@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-tower-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "圆锥塔是大围场最具辨识度的干石构件之一。",
+    "en": "The conical tower is among the Great Enclosure’s most recognizable dry-stone elements.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-conical-tower-seed-j"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-enclosure-seed-j",
+    "src-zimbabwe-unesco-364-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

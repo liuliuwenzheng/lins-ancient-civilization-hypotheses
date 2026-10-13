@@ -1,0 +1,33 @@
+{
+  "id": "site-waf-great-mosque-djenne-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "杰内大清真寺",
+    "en": "Great Mosque of Djenné Seed J",
+    "native": null
+  },
+  "kind_note": "Mudbrick congregational mosque",
+  "region": "Djenné",
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "summary": {
+    "zh": "土坯大清真寺。",
+    "en": "Mudbrick congregational mosque.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-djenne-seed-j",
+    "src-waf-unesco-116-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

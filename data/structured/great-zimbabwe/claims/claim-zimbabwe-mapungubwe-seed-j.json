@@ -1,0 +1,32 @@
+{
+  "id": "claim-zimbabwe-mapungubwe-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "马蓬古布韦常被讨论为津巴布韦传统的前驱视野。",
+    "en": "Mapungubwe is often discussed as a precursor horizon to Zimbabwe tradition.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-zimbabwe-early-iron-seed-j"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-mapungubwe-seed-j",
+    "src-zimbabwe-huffman-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

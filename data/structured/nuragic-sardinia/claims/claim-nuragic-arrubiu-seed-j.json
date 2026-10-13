@@ -1,0 +1,32 @@
+{
+  "id": "claim-nuragic-arrubiu-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "努拉吉阿鲁比乌以多塔平面著称。",
+    "en": "Nuraghe Arrubiu is noted for its multi-tower plan.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "site_ids": [
+    "site-nuragic-arrubiu-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nuragic-arrubiu-seed-j",
+    "src-nuragic-blake-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

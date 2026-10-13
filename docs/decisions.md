@@ -1014,3 +1014,19 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-13-04 — Seed densify Batch J toward ~48 sources (milestone)
+
+**Decision:** Densify the last six ~30-source seed packs `ancestral-pueblo`, `great-zimbabwe`, `west-africa-medieval`, `hallstatt-celtic`, `nuragic-sardinia`, `rapa-nui` toward hot Round-2 band (~48 sources); **keep `library-seed-rich`**. Claim IDs use `-seed-j` suffix. **Milestone:** all 21 former ~30-source non-hot seeds are now ~48.
+
+**Rapa Nui ethics:** outbound UNESCO media only; no hosted moai imagery; transport/collapse/colonization claims kept as `hypothesis` with disclaimers.
+
+**Approx. per-pack delta:** +18 sources · +8 sites · +2 periods · +12 objects · +17 claims · +3 media.
+
+**Landed band:** ~48 sources / 23–24 sites / 10 periods / 19 objects / 43 claims / 8–9 media.
+
+**Coord fills:** none this pass.
+
+**Reports:** [`docs/audits/pass-2026-10-13-seed-batch-j.md`](audits/pass-2026-10-13-seed-batch-j.md) · [中文](audits/pass-2026-10-13-seed-batch-j.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

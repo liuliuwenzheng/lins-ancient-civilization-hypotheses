@@ -1,0 +1,32 @@
+{
+  "id": "claim-waf-aoudaghost-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "奥达戈斯特/特格达乌斯特是跨撒哈拉商队城镇。",
+    "en": "Aoudaghost/Tegdaoust functioned as a trans-Saharan caravan town.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-tegdaoust-seed-j"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-aoudaghost-seed-j",
+    "src-waf-trans-saharan-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

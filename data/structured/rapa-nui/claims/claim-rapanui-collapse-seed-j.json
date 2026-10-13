@@ -1,0 +1,31 @@
+{
+  "id": "claim-rapanui-collapse-seed-j",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "“生态崩溃”叙事与更审慎的土地利用模型并存，不宜写成定论。",
+    "en": "An “ecological collapse” narrative coexists with more cautious land-use models and should not be written as settled fact.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-rapanui-ecology-seed-j",
+    "src-rapanui-flenley-bahn-seed-j",
+    "src-rapanui-hunt-lipo-seed-j"
+  ],
+  "disclaimer": "Competing ecological histories; collapse is not a single established fact.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

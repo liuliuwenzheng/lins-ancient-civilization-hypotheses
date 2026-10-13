@@ -1,0 +1,33 @@
+{
+  "id": "site-nuragic-santa-sabina-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "圣萨比娜取向",
+    "en": "Santa Sabina orientation Seed J",
+    "native": null
+  },
+  "kind_note": "Nuraghe and well pair",
+  "region": "Silanus",
+  "civilization_ids": [
+    "civ-nuragic-sardinia"
+  ],
+  "summary": {
+    "zh": "塔与井配对。",
+    "en": "Tower and well pair.",
+    "native": null
+  },
+  "sources": [
+    "src-nuragic-water-seed-j",
+    "src-nuragic-blake-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

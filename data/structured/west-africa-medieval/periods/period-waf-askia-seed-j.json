@@ -1,0 +1,36 @@
+{
+  "id": "period-waf-askia-seed-j",
+  "entity": "period",
+  "names": {
+    "zh": "阿斯基亚改革窗SeedJ",
+    "en": "Askia reform window Seed J",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "time": {
+    "label": "Songhai Askia era",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Songhai Askia era"
+  },
+  "summary": {
+    "zh": "桑海阿斯基亚时代。",
+    "en": "Songhai Askia-era window.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-songhai-seed-j",
+    "src-waf-gomez-seed-j"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

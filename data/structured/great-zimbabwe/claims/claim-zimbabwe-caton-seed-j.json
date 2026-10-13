@@ -1,0 +1,30 @@
+{
+  "id": "claim-zimbabwe-caton-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Caton-Thompson 发掘推动了对本土建造的科学论证。",
+    "en": "Caton-Thompson’s excavations advanced scientific arguments for indigenous construction.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zimbabwe-caton-thompson-seed-j",
+    "src-zimbabwe-heritage-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

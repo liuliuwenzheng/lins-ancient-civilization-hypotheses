@@ -1,0 +1,43 @@
+{
+  "id": "asm-zimbabwe-naletale-seed-j",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "纳莱塔莱装饰墙",
+    "en": "Naletale decorated walls",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "site_ids": [
+    "site-zimbabwe-naletale-orientation-f"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "装饰独立墙。",
+    "en": "Decorated freestanding walls.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-naletale-seed-j",
+    "src-zimbabwe-pwiti-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

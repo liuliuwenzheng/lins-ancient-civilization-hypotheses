@@ -1,0 +1,33 @@
+{
+  "id": "site-pueblo-spruce-tree-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "云杉树屋加深",
+    "en": "Spruce Tree House deepen",
+    "native": null
+  },
+  "kind_note": "Cliff dwelling",
+  "region": "Mesa Verde",
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "summary": {
+    "zh": "梅萨维德崖居。",
+    "en": "Mesa Verde cliff dwelling.",
+    "native": null
+  },
+  "sources": [
+    "src-pueblo-nps-mv-seed-j",
+    "src-pueblo-unesco-27-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

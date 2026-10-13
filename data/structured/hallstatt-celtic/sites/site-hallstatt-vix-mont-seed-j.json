@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-vix-mont-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "维克斯—拉斯瓦",
+    "en": "Vix–Mont Lassois Seed J",
+    "native": null
+  },
+  "kind_note": "Hillfort + burial pair",
+  "region": "Côte-d’Or",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "山堡与墓葬对。",
+    "en": "Hillfort and burial pair.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-vix-seed-j",
+    "src-hallstatt-montlassois-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

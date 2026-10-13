@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-community-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "社区遗产管护",
+    "en": "Community stewardship node Seed J",
+    "native": null
+  },
+  "kind_note": "Heritage governance",
+  "region": "Island-wide",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "拉帕努伊社区管护节点。",
+    "en": "Rapa Nui community stewardship node.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-stewardship-seed-j",
+    "src-rapanui-ethics-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

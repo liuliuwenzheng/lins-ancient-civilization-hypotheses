@@ -1,0 +1,36 @@
+{
+  "id": "period-hallstatt-lt-a-seed-j",
+  "entity": "period",
+  "names": {
+    "zh": "拉坦A过渡SeedJ",
+    "en": "La Tène A transition Seed J",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "time": {
+    "label": "Early LT transition",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early LT transition"
+  },
+  "summary": {
+    "zh": "早期拉坦过渡。",
+    "en": "Early La Tène transition.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-latene-seed-j",
+    "src-hallstatt-dietler-seed-j"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

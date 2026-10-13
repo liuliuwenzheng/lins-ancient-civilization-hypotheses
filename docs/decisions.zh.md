@@ -1070,3 +1070,19 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-13-04 — 种子包 Batch J 朝约 48 来源加厚（里程碑）
+
+**决定：** 对最后六个约 30 来源种子包 `ancestral-pueblo`、`great-zimbabwe`、`west-africa-medieval`、`hallstatt-celtic`、`nuragic-sardinia`、`rapa-nui` 朝热门 Round-2 带（约 48 来源）加厚；**保持 `library-seed-rich`**。主张 ID 使用 `-seed-j` 后缀。**里程碑：全部 21 个原约 30 来源非热门种子现均约 48。**
+
+**拉帕努伊伦理：** 仅教科文外链媒体；不托管摩艾影像；搬运/崩溃/殖民年代主张保持 `hypothesis` 并附免责声明。
+
+**每包大约增量：** +18 来源 · +8 遗址 · +2 时段 · +12 对象 · +17 主张 · +3 媒体。
+
+**落地带：** 约 48 来源 / 23–24 遗址 / 10 时段 / 19 对象 / 43 主张 / 8–9 媒体。
+
+**坐标补填：** 本轮无新填。
+
+**报告：** [`docs/audits/pass-2026-10-13-seed-batch-j.md`](audits/pass-2026-10-13-seed-batch-j.md) · [中文](audits/pass-2026-10-13-seed-batch-j.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

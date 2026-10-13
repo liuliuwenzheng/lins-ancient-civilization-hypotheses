@@ -1,0 +1,36 @@
+{
+  "id": "period-waf-trans-saharan-floruit-seed-j",
+  "entity": "period",
+  "names": {
+    "zh": "跨撒哈拉繁荣SeedJ",
+    "en": "Trans-Saharan floruit Seed J",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "time": {
+    "label": "Caravan trade floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Caravan trade floruit"
+  },
+  "summary": {
+    "zh": "商队贸易繁荣窗。",
+    "en": "Caravan-trade floruit window.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-trans-saharan-seed-j",
+    "src-waf-levtzion-seed-j"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

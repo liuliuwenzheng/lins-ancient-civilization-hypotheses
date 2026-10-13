@@ -1,0 +1,43 @@
+{
+  "id": "asm-rapanui-stewardship-seed-j",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "社区管护组合",
+    "en": "Community stewardship assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "site_ids": [
+    "site-rapanui-community-seed-j"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "社区遗产管护。",
+    "en": "Community heritage stewardship.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-stewardship-seed-j",
+    "src-rapanui-ethics-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

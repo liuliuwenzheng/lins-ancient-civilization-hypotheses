@@ -1,0 +1,32 @@
+{
+  "id": "claim-pueblo-salmon-seed-j",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "萨蒙遗址是查科体系北缘外围大屋。",
+    "en": "Salmon Ruins is a northern Chacoan outlier great house.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-ancestral-pueblo"
+  ],
+  "site_ids": [
+    "site-pueblo-salmon-deepen-f"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-pueblo-salmon-seed-j",
+    "src-pueblo-lekson-seed-j"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

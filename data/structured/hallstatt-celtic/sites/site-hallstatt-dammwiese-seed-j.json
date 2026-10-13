@@ -1,0 +1,33 @@
+{
+  "id": "site-hallstatt-dammwiese-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "达姆维泽墓地",
+    "en": "Dammwiese cemetery Seed J",
+    "native": null
+  },
+  "kind_note": "Hallstatt cemetery sector",
+  "region": "Hallstatt",
+  "civilization_ids": [
+    "civ-hallstatt-celtic"
+  ],
+  "summary": {
+    "zh": "哈尔施塔特墓地区段。",
+    "en": "Hallstatt cemetery sector.",
+    "native": null
+  },
+  "sources": [
+    "src-hallstatt-cemetery-seed-j",
+    "src-hallstatt-unesco-806-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

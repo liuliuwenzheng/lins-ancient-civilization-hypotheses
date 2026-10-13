@@ -1,0 +1,43 @@
+{
+  "id": "asm-waf-tegdaoust-seed-j",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "特格达乌斯特组合",
+    "en": "Tegdaoust assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [
+    "site-waf-tegdaoust-seed-j"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "商队城镇组合。",
+    "en": "Caravan-town assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-waf-aoudaghost-seed-j",
+    "src-waf-trans-saharan-seed-j"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

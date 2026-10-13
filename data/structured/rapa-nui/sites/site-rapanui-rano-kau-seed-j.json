@@ -1,0 +1,33 @@
+{
+  "id": "site-rapanui-rano-kau-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "拉诺考火山口",
+    "en": "Rano Kau orientation Seed J",
+    "native": null
+  },
+  "kind_note": "Crater landscape",
+  "region": "Southwest",
+  "civilization_ids": [
+    "civ-rapa-nui"
+  ],
+  "summary": {
+    "zh": "奥龙戈所在火山口。",
+    "en": "Crater landscape of Orongo.",
+    "native": null
+  },
+  "sources": [
+    "src-rapanui-orongo-seed-j",
+    "src-rapanui-unesco-715-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

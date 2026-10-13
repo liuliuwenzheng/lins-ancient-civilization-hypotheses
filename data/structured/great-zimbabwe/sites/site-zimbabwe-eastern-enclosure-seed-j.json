@@ -1,0 +1,33 @@
+{
+  "id": "site-zimbabwe-eastern-enclosure-seed-j",
+  "entity": "site",
+  "names": {
+    "zh": "东围场加深",
+    "en": "Eastern Enclosure deepen",
+    "native": null
+  },
+  "kind_note": "Hill Complex sector",
+  "region": "Masvingo",
+  "civilization_ids": [
+    "civ-great-zimbabwe"
+  ],
+  "summary": {
+    "zh": "山丘东围场。",
+    "en": "Hill Complex eastern enclosure.",
+    "native": null
+  },
+  "sources": [
+    "src-zimbabwe-hill-seed-j",
+    "src-zimbabwe-birds-seed-j"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

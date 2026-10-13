@@ -1,0 +1,30 @@
+{
+  "id": "claim-waf-niani-seed-j",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "马里都城尼阿尼的精确地望仍有学术争论。",
+    "en": "The precise location of Mali’s capital Niani remains debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-west-africa-medieval"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-waf-niani-seed-j",
+    "src-waf-gomez-seed-j"
+  ],
+  "disclaimer": "Capital identification remains contested among textual and archaeological proposals.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_j.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-04"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch J toward ~48 sources (D-2026-10-13-04). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
