@@ -1,0 +1,34 @@
+{
+  "id": "claim-tiwanaku-pilgrimage-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "蒂瓦纳科兼具政治与礼仪朝圣功能讨论。",
+    "en": "Tiwanaku is discussed as both political and pilgrimage centre.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-pilgrimage-seed-l"
+  ],
+  "period_ids": [
+    "period-tiwanaku-classic-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-pilgrimage-seed-l",
+    "src-tiwanaku-janusek-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

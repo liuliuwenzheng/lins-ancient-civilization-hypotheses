@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-pilgrimage-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "朝圣礼仪取向",
+    "en": "Pilgrimage ritual orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Ritual",
+  "region": "Tiwanaku",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "朝圣。",
+    "en": "Pilgrimage.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-pilgrimage-seed-l",
+    "src-tiwanaku-janusek-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

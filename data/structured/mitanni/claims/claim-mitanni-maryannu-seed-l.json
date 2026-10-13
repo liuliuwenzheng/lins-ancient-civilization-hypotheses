@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-maryannu-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "马里亚努战车精英与米坦尼军事制度相关讨论相连。",
+    "en": "Maryannu chariotry elites are discussed in relation to Mitanni military institutions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-maryannu-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-maryannu-seed-l",
+    "src-mitanni-wilhelm-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-chavin-tenon-theme-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "榫头石雕组合",
+    "en": "Tenon-head assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-tenon-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "榫头。",
+    "en": "Tenon heads.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-tenon-heads-seed-l",
+    "src-chavin-iconography-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

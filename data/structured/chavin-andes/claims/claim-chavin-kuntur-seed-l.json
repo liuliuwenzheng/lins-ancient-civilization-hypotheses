@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-kuntur-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "昆图尔瓦西是与查文互动的高原中心。",
+    "en": "Kuntur Wasi is a highland centre interacting with Chavín.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-kuntur-wasi-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-kuntur-wasi-seed-l",
+    "src-chavin-burger-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-tiwanaku-classic-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "古典蒂瓦纳科窗SeedL",
+    "en": "Classic Tiwanaku Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "Classic florescence",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Classic florescence"
+  },
+  "summary": {
+    "zh": "古典繁荣。",
+    "en": "Classic florescence.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-akalasa-seed-l",
+    "src-tiwanaku-kalasasaya-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

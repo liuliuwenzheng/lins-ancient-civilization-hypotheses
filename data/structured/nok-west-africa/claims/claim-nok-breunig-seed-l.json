@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-breunig-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Breunig 等法兰克福项目推进诺克聚落与测年。",
+    "en": "Breunig and the Frankfurt project advance Nok settlement and dating.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nok-early-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-breunig-seed-l",
+    "src-nok-chronology-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

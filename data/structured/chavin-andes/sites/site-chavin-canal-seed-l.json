@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-canal-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "声学水道",
+    "en": "Acoustic canals Seed L",
+    "native": null
+  },
+  "kind_note": "Hydraulics",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "水道。",
+    "en": "Canals.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-galleries-seed-l",
+    "src-chavin-pututus-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

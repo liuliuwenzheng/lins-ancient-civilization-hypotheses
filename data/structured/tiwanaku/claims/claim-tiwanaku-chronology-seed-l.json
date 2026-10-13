@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-chronology-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "编年框架约束古典繁荣与衰亡窗口。",
+    "en": "Chronology frameworks constrain classic floruit and collapse windows.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-tiwanaku-classic-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-chronology-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

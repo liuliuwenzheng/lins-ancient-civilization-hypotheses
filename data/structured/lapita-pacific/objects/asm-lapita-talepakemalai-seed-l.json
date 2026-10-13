@@ -1,0 +1,43 @@
+{
+  "id": "asm-lapita-talepakemalai-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "塔勒帕凯马莱组合",
+    "en": "Talepakemalai Seed L assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-talepakemalai-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "早期拉皮塔。",
+    "en": "Early Lapita.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-talepakemalai-seed-l",
+    "src-lapita-kirch-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

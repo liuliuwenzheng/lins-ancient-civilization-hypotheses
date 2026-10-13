@@ -1,0 +1,19 @@
+{
+  "id": "src-nok-stone-tools-seed-l",
+  "entity": "source",
+  "type": "article",
+  "citation": "Nok stone tool assemblages Seed L.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Lithics.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

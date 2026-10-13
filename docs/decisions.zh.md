@@ -1100,3 +1100,17 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-13-06 — 种子包 Batch L 朝约 71 来源加厚
+
+**决定：** 对种子包 `nok-west-africa`、`lapita-pacific`、`chavin-andes`、`tiwanaku`、`mitanni` 从约 48 来源带朝热门 Round-4 带（约 71 来源）加厚；**保持 `library-seed-rich`**。主张 ID 使用 `-seed-l` 后缀。其余 11 个非热门种子包留待 Batch M/N。
+
+**每包大约增量：** +23 来源 · +20 遗址 · +3 时段 · +32 对象 · +26 主张 · +3 媒体。
+
+**落地带：** 约 71 来源 / 43 遗址 / 13 时段 / 51 对象 / 68–69 主张 / 10–12 媒体。
+
+**坐标补填：** 本轮无新填。
+
+**报告：** [`docs/audits/pass-2026-10-13-seed-batch-l.md`](audits/pass-2026-10-13-seed-batch-l.md) · [中文](audits/pass-2026-10-13-seed-batch-l.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

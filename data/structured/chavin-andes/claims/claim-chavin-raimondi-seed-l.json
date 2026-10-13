@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-raimondi-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "赖蒙迪石碑是查文图像的重要载体。",
+    "en": "The Raimondi Stela is a major carrier of Chavín imagery.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-raimondi-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-raimondi-seed-l",
+    "src-chavin-tello-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

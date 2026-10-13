@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-pacopampa-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "帕科潘帕",
+    "en": "Pacopampa Seed L",
+    "native": null
+  },
+  "kind_note": "Formative centre",
+  "region": "Cajamarca",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "帕科潘帕。",
+    "en": "Pacopampa.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-pacopampa-seed-l",
+    "src-chavin-chronology-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

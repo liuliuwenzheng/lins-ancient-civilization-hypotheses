@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-unesco-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录567将蒂瓦纳科列为世界遗产。",
+    "en": "UNESCO list 567 designates Tiwanaku as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-unesco-core-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-unesco-567-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

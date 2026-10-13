@@ -1,0 +1,32 @@
+{
+  "id": "media-mitanni-unesco-seed-l",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：阿勒颇古城 SeedL",
+    "en": "UNESCO: Ancient City of Aleppo Seed L",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/21/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-unesco-21-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/21/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

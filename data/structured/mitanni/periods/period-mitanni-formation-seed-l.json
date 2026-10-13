@@ -1,0 +1,36 @@
+{
+  "id": "period-mitanni-formation-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "形成窗SeedL",
+    "en": "Formation Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "Early Mitanni",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Mitanni"
+  },
+  "summary": {
+    "zh": "形成期。",
+    "en": "Formation.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-wilhelm-seed-l",
+    "src-mitanni-chronology-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

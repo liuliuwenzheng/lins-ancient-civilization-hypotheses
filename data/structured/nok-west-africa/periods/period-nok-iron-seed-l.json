@@ -1,0 +1,36 @@
+{
+  "id": "period-nok-iron-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "早期铁器窗SeedL",
+    "en": "Early iron Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "Early iron",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early iron"
+  },
+  "summary": {
+    "zh": "早期铁器。",
+    "en": "Early iron.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-iron-seed-l",
+    "src-nok-taruga-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

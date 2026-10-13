@@ -1,0 +1,33 @@
+{
+  "id": "site-mitanni-maryannu-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "马里亚努战车取向",
+    "en": "Maryannu chariotry orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Military elite",
+  "region": "Mitanni sphere",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "战车。",
+    "en": "Chariotry.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-maryannu-seed-l",
+    "src-mitanni-wilhelm-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

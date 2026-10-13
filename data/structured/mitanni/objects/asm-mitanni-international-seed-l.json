@@ -1,0 +1,43 @@
+{
+  "id": "asm-mitanni-international-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "国际时代取向组合",
+    "en": "International-age orientation Seed L assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-international-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "国际时代。",
+    "en": "International age.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-liverani-seed-l",
+    "src-mitanni-amarna-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

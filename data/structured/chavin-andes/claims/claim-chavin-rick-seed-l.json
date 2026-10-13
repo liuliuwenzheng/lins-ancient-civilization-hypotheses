@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-rick-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Rick 等项目推进廊道、声学与仪式研究。",
+    "en": "Rick and related projects advance gallery, acoustic and ritual research.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-galleries-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-rick-seed-l",
+    "src-chavin-galleries-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

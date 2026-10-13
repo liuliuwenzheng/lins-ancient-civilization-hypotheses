@@ -1,0 +1,30 @@
+{
+  "id": "claim-mitanni-van-de-mieroop-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "近东通史框架帮助定位米坦尼国际角色。",
+    "en": "Ancient Near East survey frameworks help situate Mitanni’s international role.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-van-de-mieroop-seed-l",
+    "src-mitanni-liverani-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

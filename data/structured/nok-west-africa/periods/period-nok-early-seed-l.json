@@ -1,0 +1,36 @@
+{
+  "id": "period-nok-early-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "早期诺克窗SeedL",
+    "en": "Early Nok Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "Early Nok",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Nok"
+  },
+  "summary": {
+    "zh": "早期诺克。",
+    "en": "Early Nok.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-chronology-seed-l",
+    "src-nok-breunig-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-kizzuwatna-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "基祖瓦特纳是米坦尼—赫梯之间的重要缓冲。",
+    "en": "Kizzuwatna was an important buffer between Mitanni and Hatti.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-kizzuwatna-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-kizzuwatna-seed-l",
+    "src-mitanni-hittite-wars-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

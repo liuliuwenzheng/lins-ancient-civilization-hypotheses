@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-platform-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "平台建筑取向",
+    "en": "Platform architecture orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Architecture",
+  "region": "Tiwanaku",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "平台。",
+    "en": "Platforms.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-vranich-seed-l",
+    "src-tiwanaku-puteuni-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

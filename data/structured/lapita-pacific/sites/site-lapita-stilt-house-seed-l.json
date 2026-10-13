@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-stilt-house-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "干栏屋取向",
+    "en": "Stilt-house orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Architecture",
+  "region": "Lapita sites",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "干栏。",
+    "en": "Stilt houses.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-house-seed-l",
+    "src-lapita-talepakemalai-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

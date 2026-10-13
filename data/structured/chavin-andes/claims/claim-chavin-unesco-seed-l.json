@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-unesco-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录330将查文考古遗址列为世界遗产。",
+    "en": "UNESCO list 330 designates Chavín Archaeological Site as World Heritage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-unesco-core-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-unesco-330-seed-l",
+    "src-chavin-burger-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

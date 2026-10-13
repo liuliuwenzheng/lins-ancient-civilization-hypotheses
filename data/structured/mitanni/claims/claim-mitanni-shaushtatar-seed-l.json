@@ -1,0 +1,34 @@
+{
+  "id": "claim-mitanni-shaushtatar-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "绍什塔塔时期常被讨论为米坦尼扩张高峰。",
+    "en": "Shaushtatar’s reign is often discussed as a Mitanni expansion peak.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-shaushtatar-seed-l"
+  ],
+  "period_ids": [
+    "period-mitanni-formation-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-shaushtatar-seed-l",
+    "src-mitanni-wilhelm-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

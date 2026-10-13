@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-raimondi-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "赖蒙迪石碑语境",
+    "en": "Raimondi Stela context Seed L",
+    "native": null
+  },
+  "kind_note": "Stela",
+  "region": "Chavín / museum",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "赖蒙迪。",
+    "en": "Raimondi.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-raimondi-seed-l",
+    "src-chavin-tello-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

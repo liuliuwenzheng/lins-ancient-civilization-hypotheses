@@ -1,0 +1,34 @@
+{
+  "id": "claim-chavin-old-temple-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "旧庙是查文早期礼仪建筑核心。",
+    "en": "The Old Temple is the early Chavín ritual architectural core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-old-temple-seed-l"
+  ],
+  "period_ids": [
+    "period-chavin-urabarriu-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-old-temple-seed-l",
+    "src-chavin-burger-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

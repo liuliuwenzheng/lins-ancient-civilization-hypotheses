@@ -1,0 +1,30 @@
+{
+  "id": "claim-mitanni-wilhelm-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Wilhelm 综合是胡里安/米坦尼研究常用入口。",
+    "en": "Wilhelm’s synthesis is a standard entry to Hurrian/Mitanni studies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-wilhelm-seed-l",
+    "src-mitanni-hurrian-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

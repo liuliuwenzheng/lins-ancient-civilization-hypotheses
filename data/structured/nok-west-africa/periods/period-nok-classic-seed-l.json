@@ -1,0 +1,36 @@
+{
+  "id": "period-nok-classic-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "古典陶俑窗SeedL",
+    "en": "Classic terracotta Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "time": {
+    "label": "Classic terracottas",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Classic terracottas"
+  },
+  "summary": {
+    "zh": "古典陶俑。",
+    "en": "Classic terracottas.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-terracotta-seed-l",
+    "src-nok-fagg-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1044,3 +1044,17 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-13-06 — Seed densify Batch L toward ~71 sources
+
+**Decision:** Densify seed packs `nok-west-africa`, `lapita-pacific`, `chavin-andes`, `tiwanaku`, `mitanni` from ~48-source band toward hot Round-4 band (~71 sources); **keep `library-seed-rich`**. Claim IDs use `-seed-l` suffix. Remaining 11 non-hot seeds deferred to Batches M/N.
+
+**Approx. per-pack delta:** +23 sources · +20 sites · +3 periods · +32 objects · +26 claims · +3 media.
+
+**Landed band:** ~71 sources / 43 sites / 13 periods / 51 objects / 68–69 claims / 10–12 media.
+
+**Coord fills:** none this pass.
+
+**Reports:** [`docs/audits/pass-2026-10-13-seed-batch-l.md`](audits/pass-2026-10-13-seed-batch-l.md) · [中文](audits/pass-2026-10-13-seed-batch-l.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

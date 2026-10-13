@@ -1,0 +1,36 @@
+{
+  "id": "period-mitanni-amarna-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "阿马尔奈强盛窗SeedL",
+    "en": "Amarna floruit Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "Amarna-age Mitanni",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Amarna-age Mitanni"
+  },
+  "summary": {
+    "zh": "阿马尔奈强盛。",
+    "en": "Amarna floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-amarna-seed-l",
+    "src-mitanni-tushratta-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

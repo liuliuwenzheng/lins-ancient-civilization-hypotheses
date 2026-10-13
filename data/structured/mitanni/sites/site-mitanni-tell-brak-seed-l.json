@@ -1,0 +1,33 @@
+{
+  "id": "site-mitanni-tell-brak-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "布拉克土丘",
+    "en": "Tell Brak Seed L",
+    "native": null
+  },
+  "kind_note": "Urban centre",
+  "region": "Khabur",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "布拉克。",
+    "en": "Tell Brak.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-tell-brak-seed-l",
+    "src-mitanni-buccellati-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-lapita-early-bismarck-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "早期俾斯麦窗SeedL",
+    "en": "Early Bismarck Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "time": {
+    "label": "Early Lapita homeland",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early Lapita homeland"
+  },
+  "summary": {
+    "zh": "早期家园。",
+    "en": "Early homeland.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-arafura-seed-l",
+    "src-lapita-talepakemalai-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

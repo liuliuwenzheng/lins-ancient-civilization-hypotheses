@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-iconography-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "权杖神母题贯穿蒂瓦纳科纪念艺术。",
+    "en": "Staff God motifs run through Tiwanaku monumental art.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-staff-god-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-iconography-seed-l",
+    "src-tiwanaku-gate-sun-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-mitanni-amarna-context-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "阿马尔奈书信语境",
+    "en": "Amarna letter context Seed L",
+    "native": null
+  },
+  "kind_note": "Diplomacy",
+  "region": "Egypt–Near East",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "外交。",
+    "en": "Diplomacy.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-amarna-seed-l",
+    "src-mitanni-tushratta-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

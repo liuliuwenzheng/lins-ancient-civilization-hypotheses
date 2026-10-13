@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-state-seed-l",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "诺克是否构成集中化“政体”仍属假说讨论。",
+    "en": "Whether Nok constituted a centralized “polity” remains hypothetical.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nok-classic-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nok-breunig-seed-l",
+    "src-nok-rupp-seed-l"
+  ],
+  "disclaimer": "Political centralization for Nok is not established; models differ.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

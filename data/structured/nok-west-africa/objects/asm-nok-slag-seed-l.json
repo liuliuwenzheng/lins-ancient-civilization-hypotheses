@@ -1,0 +1,43 @@
+{
+  "id": "asm-nok-slag-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "铁渣组合",
+    "en": "Slag assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-iron-slag-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "铁渣。",
+    "en": "Slag.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-iron-seed-l",
+    "src-nok-taruga-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

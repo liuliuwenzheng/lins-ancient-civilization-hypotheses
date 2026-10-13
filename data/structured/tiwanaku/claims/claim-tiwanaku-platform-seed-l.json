@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-platform-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "平台建筑是蒂瓦纳科礼仪核心的组成部分。",
+    "en": "Platform architecture is part of Tiwanaku’s ritual core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-platform-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-vranich-seed-l",
+    "src-tiwanaku-puteuni-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

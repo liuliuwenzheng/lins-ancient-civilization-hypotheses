@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-art-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "米坦尼印章艺术有可识别的风格特征。",
+    "en": "Mitanni glyptic art has recognizable stylistic features.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-glyptic-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-art-seed-l",
+    "src-mitanni-nuzi-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

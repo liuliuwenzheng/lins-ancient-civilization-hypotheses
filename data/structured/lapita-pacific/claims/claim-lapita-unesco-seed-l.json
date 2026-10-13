@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-unesco-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "教科文名录1280将罗伊马塔酋长领地列为世界遗产，用作瓦努阿图区域取向。",
+    "en": "UNESCO list 1280 designates Chief Roi Mata’s Domain as World Heritage, used here as Vanuatu regional orientation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-roi-mata-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-unesco-1280-seed-l",
+    "src-lapita-bedford-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "claim-chavin-tello-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Tello 发掘奠定查文田野考古基础。",
+    "en": "Tello’s excavations founded Chavín field archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-tello-seed-l",
+    "src-chavin-raimondi-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

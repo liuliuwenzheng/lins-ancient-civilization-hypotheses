@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-fiji-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "斐济拉皮塔连接美拉尼西亚与波利尼西亚前沿。",
+    "en": "Fiji Lapita links Melanesian and Polynesian frontiers.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-fiji-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-bourewa-seed-l",
+    "src-lapita-kirch-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

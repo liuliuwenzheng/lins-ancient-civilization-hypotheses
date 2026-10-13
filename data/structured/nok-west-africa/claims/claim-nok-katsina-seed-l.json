@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-katsina-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卡齐纳阿拉出土诺克风格陶俑。",
+    "en": "Katsina Ala yields Nok-style terracottas.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-katsina-ala-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-katsina-ala-seed-l",
+    "src-nok-terracotta-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

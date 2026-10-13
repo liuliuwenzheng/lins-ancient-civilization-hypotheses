@@ -1,0 +1,30 @@
+{
+  "id": "claim-tiwanaku-kolata-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Kolata 综合是的的喀喀盆地蒂瓦纳科研究常用入口。",
+    "en": "Kolata’s synthesis is a standard entry to Titicaca-basin Tiwanaku research.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-kolata-seed-l",
+    "src-tiwanaku-raised-fields-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

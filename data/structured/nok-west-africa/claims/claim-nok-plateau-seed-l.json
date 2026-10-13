@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-plateau-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "乔斯高原地景是诺克考古的地理背景。",
+    "en": "The Jos Plateau landscape is the geographic setting of Nok archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-plateau-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-jos-plateau-seed-l",
+    "src-nok-jemkur-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-farmstead-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "农庄取向",
+    "en": "Farmstead orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Farming",
+  "region": "Nok region",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "农庄。",
+    "en": "Farmsteads.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-farming-seed-l",
+    "src-nok-settlement-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

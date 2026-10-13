@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-campanayuq-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "坎帕纳尤克",
+    "en": "Campanayuq Rumi Seed L",
+    "native": null
+  },
+  "kind_note": "Related centre",
+  "region": "Ayacucho",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "相关中心。",
+    "en": "Related centre.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-campanayuq-seed-l",
+    "src-chavin-burger-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-terracotta-find-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "陶俑出土取向",
+    "en": "Terracotta find orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Sculpture",
+  "region": "Jos Plateau",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "陶俑点。",
+    "en": "Terracotta finds.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-terracotta-seed-l",
+    "src-nok-sculptural-style-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

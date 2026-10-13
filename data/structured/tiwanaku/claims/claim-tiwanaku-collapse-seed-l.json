@@ -1,0 +1,34 @@
+{
+  "id": "claim-tiwanaku-collapse-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "蒂瓦纳科衰亡的气候与社会机制仍有多种模型。",
+    "en": "Climate and social mechanisms of Tiwanaku’s collapse remain multi-model.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-collapse-seed-l"
+  ],
+  "period_ids": [
+    "period-tiwanaku-collapse-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-collapse-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-lapita-shell-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "贝饰组合",
+    "en": "Shell-ornament assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-shell-ornament-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "贝饰。",
+    "en": "Shell.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-shell-seed-l",
+    "src-lapita-pottery-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

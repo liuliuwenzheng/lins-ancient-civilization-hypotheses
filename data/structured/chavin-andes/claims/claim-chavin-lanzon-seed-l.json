@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-lanzon-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "兰松石刻位于旧庙内部廊道核心。",
+    "en": "The Lanzón monolith stands in the Old Temple gallery core.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-lanzon-gallery-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-lanzon-seed-l",
+    "src-chavin-galleries-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-tiwanaku-unesco-core-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "教科文核心组合",
+    "en": "UNESCO core Seed L assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-unesco-core-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "遗产核心。",
+    "en": "WH core.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-unesco-567-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

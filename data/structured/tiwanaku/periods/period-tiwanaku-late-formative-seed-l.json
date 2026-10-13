@@ -1,0 +1,36 @@
+{
+  "id": "period-tiwanaku-late-formative-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "晚形成期窗SeedL",
+    "en": "Late Formative Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "time": {
+    "label": "Late Formative",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late Formative"
+  },
+  "summary": {
+    "zh": "晚形成期。",
+    "en": "Late Formative.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-chronology-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

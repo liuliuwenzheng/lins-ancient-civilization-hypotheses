@@ -1,0 +1,34 @@
+{
+  "id": "claim-tiwanaku-raised-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "抬升田农业支撑高原人口。",
+    "en": "Raised-field agriculture supported altiplano populations.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-raised-fields-seed-l"
+  ],
+  "period_ids": [
+    "period-tiwanaku-classic-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-raised-fields-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

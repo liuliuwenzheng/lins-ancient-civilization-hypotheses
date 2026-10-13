@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-efate-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "埃法特地景包含特乌马等拉皮塔地点。",
+    "en": "The Efate landscape includes Lapita locales such as Teouma.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-efate-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-efate-seed-l",
+    "src-lapita-teouma-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

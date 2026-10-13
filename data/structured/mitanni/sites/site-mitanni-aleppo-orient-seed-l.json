@@ -1,0 +1,33 @@
+{
+  "id": "site-mitanni-aleppo-orient-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "阿勒颇取向",
+    "en": "Aleppo orientation Seed L",
+    "native": null
+  },
+  "kind_note": "UNESCO N Syria",
+  "region": "Aleppo",
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "summary": {
+    "zh": "阿勒颇取向。",
+    "en": "Aleppo orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-unesco-21-seed-l",
+    "src-mitanni-liverani-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

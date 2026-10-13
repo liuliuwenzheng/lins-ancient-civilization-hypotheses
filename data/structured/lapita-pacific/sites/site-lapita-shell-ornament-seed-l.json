@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-shell-ornament-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "贝饰取向",
+    "en": "Shell-ornament orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Ornaments",
+  "region": "Lapita sites",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "贝饰。",
+    "en": "Shell ornaments.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-shell-seed-l",
+    "src-lapita-pottery-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

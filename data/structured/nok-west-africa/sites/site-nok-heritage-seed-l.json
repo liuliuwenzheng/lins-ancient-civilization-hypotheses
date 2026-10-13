@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-heritage-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "遗产管护取向",
+    "en": "Heritage stewardship orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Heritage",
+  "region": "Nigeria",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "遗产。",
+    "en": "Heritage.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-looting-seed-l",
+    "src-nok-unesco-938-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

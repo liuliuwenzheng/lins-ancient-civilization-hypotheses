@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-adna-seed-l",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "拉皮塔人群来源的古DNA解释仍有模型分歧。",
+    "en": "aDNA interpretations of Lapita population origins remain model-divergent.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-adna-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-dna-seed-l",
+    "src-lapita-bedford-seed-l"
+  ],
+  "disclaimer": "Population-genetic models differ; not treated as a single settled origin story.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

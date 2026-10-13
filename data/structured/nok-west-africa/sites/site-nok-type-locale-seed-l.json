@@ -1,0 +1,33 @@
+{
+  "id": "site-nok-type-locale-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "诺克类型地",
+    "en": "Nok type locale Seed L",
+    "native": null
+  },
+  "kind_note": "Type area",
+  "region": "Nok village area",
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "summary": {
+    "zh": "类型地。",
+    "en": "Type locale.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-fagg-seed-l",
+    "src-nok-terracotta-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

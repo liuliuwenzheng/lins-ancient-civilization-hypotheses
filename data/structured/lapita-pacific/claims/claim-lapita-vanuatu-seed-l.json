@@ -1,0 +1,34 @@
+{
+  "id": "claim-lapita-vanuatu-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦努阿图是拉皮塔进入远大洋洲的重要跳板。",
+    "en": "Vanuatu is a major stepping-stone into Remote Oceania for Lapita.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-vanuatu-seed-l"
+  ],
+  "period_ids": [
+    "period-lapita-remote-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-bedford-seed-l",
+    "src-lapita-remote-oceania-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

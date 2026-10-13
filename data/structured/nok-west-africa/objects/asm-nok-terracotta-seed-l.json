@@ -1,0 +1,43 @@
+{
+  "id": "asm-nok-terracotta-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "陶俑组合",
+    "en": "Terracotta assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-terracotta-find-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "陶俑。",
+    "en": "Terracottas.",
+    "native": null
+  },
+  "sources": [
+    "src-nok-terracotta-seed-l",
+    "src-nok-fagg-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

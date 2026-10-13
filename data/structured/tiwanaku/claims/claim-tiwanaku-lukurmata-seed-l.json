@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-lukurmata-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卢库尔马塔是的的喀喀盆地次级中心。",
+    "en": "Lukurmata is a secondary centre in the Titicaca basin.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-lukurmata-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-lukurmata-seed-l",
+    "src-tiwanaku-janusek-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-omo-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "奥莫/莫克瓜",
+    "en": "Omo Moquegua Seed L",
+    "native": null
+  },
+  "kind_note": "Colony",
+  "region": "Moquegua",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "殖民地。",
+    "en": "Colony.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-ojje-seed-l",
+    "src-tiwanaku-browman-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

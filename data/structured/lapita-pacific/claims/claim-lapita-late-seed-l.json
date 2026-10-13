@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-late-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚期拉皮塔地方化先于诸岛后拉皮塔传统。",
+    "en": "Late Lapita localization precedes post-Lapita island traditions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-lapita-late-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-sand-seed-l",
+    "src-lapita-bedford-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

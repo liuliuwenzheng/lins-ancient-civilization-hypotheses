@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-empire-seed-l",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "蒂瓦纳科是否构成“帝国”仍属定义性争论。",
+    "en": "Whether Tiwanaku constituted an “empire” remains a definitional debate.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-tiwanaku-classic-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-browman-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "disclaimer": "Empire vs. hegemony vs. pilgrimage-centre models differ.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

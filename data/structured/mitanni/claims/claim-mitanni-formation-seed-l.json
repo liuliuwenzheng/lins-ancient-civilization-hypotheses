@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-formation-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "米坦尼国家形成于公元前二千年中叶前后。",
+    "en": "Mitanni state formation is placed around the mid–second millennium BCE.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-mitanni-formation-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-wilhelm-seed-l",
+    "src-mitanni-chronology-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

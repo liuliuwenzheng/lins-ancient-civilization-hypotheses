@@ -1,0 +1,36 @@
+{
+  "id": "period-mitanni-collapse-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "崩溃窗SeedL",
+    "en": "Collapse Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "time": {
+    "label": "Collapse under Hittite/Assyrian pressure",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Collapse under Hittite/Assyrian pressure"
+  },
+  "summary": {
+    "zh": "崩溃。",
+    "en": "Collapse.",
+    "native": null
+  },
+  "sources": [
+    "src-mitanni-collapse-seed-l",
+    "src-mitanni-assyria-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

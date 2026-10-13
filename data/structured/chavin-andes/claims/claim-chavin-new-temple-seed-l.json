@@ -1,0 +1,34 @@
+{
+  "id": "claim-chavin-new-temple-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "新庙扩建标志着查文礼仪空间扩展。",
+    "en": "New Temple expansion marks growth of Chavín ritual space.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-new-temple-seed-l"
+  ],
+  "period_ids": [
+    "period-chavin-late-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-new-temple-seed-l",
+    "src-chavin-rick-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-pumapunku-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "普马朋库以精密石工著称。",
+    "en": "Pumapunku is noted for precision stonework.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-pumapunku-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-puteuni-seed-l",
+    "src-tiwanaku-vranich-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

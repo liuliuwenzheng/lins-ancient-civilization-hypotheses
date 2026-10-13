@@ -1,0 +1,33 @@
+{
+  "id": "site-tiwanaku-akapana-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "阿卡帕纳",
+    "en": "Akapana Seed L",
+    "native": null
+  },
+  "kind_note": "Pyramid",
+  "region": "Tiwanaku",
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "summary": {
+    "zh": "阿卡帕纳。",
+    "en": "Akapana.",
+    "native": null
+  },
+  "sources": [
+    "src-tiwanaku-akalasa-seed-l",
+    "src-tiwanaku-unesco-567-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

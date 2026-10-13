@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-tello-obelisk-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "特略方尖碑语境",
+    "en": "Tello Obelisk context Seed L",
+    "native": null
+  },
+  "kind_note": "Obelisk",
+  "region": "Chavín / museum",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "特略方尖碑。",
+    "en": "Tello Obelisk.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-tello-obelisk-seed-l",
+    "src-chavin-tello-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

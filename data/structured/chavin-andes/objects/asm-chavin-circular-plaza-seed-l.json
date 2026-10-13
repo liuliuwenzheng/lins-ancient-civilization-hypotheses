@@ -1,0 +1,43 @@
+{
+  "id": "asm-chavin-circular-plaza-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "圆形广场组合",
+    "en": "Circular Plaza Seed L assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [
+    "site-chavin-circular-plaza-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "圆形广场。",
+    "en": "Circular Plaza.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-circular-plaza-seed-l",
+    "src-chavin-rick-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

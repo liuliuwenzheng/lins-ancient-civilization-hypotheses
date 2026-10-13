@@ -1,0 +1,32 @@
+{
+  "id": "claim-mitanni-washukanni-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "瓦舒卡尼都城精确地望仍未定论。",
+    "en": "The precise location of Washukanni remains unsettled.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-mitanni"
+  ],
+  "site_ids": [
+    "site-mitanni-washukanni-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-mitanni-washukanni-seed-l",
+    "src-mitanni-tell-fekheriye-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

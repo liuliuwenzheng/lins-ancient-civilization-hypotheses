@@ -1,0 +1,36 @@
+{
+  "id": "period-chavin-janabarriu-seed-l",
+  "entity": "period",
+  "names": {
+    "zh": "哈纳巴里乌窗SeedL",
+    "en": "Janabarriu Seed L",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "time": {
+    "label": "Classic Chavín",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Classic Chavín"
+  },
+  "summary": {
+    "zh": "古典查文。",
+    "en": "Classic Chavín.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-chronology-seed-l",
+    "src-chavin-old-temple-seed-l"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

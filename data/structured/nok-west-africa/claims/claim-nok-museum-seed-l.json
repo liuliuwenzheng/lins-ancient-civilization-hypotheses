@@ -1,0 +1,32 @@
+{
+  "id": "claim-nok-museum-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉各斯/乔斯等博物馆收藏提供诺克陶俑取向入口。",
+    "en": "Lagos/Jos museum collections provide Nok terracotta orientation entries.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nok-west-africa"
+  ],
+  "site_ids": [
+    "site-nok-museum-jos-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nok-museum-seed-l",
+    "src-nok-fagg-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

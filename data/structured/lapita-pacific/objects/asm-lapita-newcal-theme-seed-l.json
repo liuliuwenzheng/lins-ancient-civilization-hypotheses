@@ -1,0 +1,43 @@
+{
+  "id": "asm-lapita-newcal-theme-seed-l",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "新喀组合",
+    "en": "New Caledonia assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-kanumbo-seed-l"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "新喀。",
+    "en": "New Caledonia.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-sand-seed-l",
+    "src-lapita-kanumbo-seed-l"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

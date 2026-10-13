@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-adna-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "古DNA争论取向",
+    "en": "aDNA debate orientation Seed L",
+    "native": null
+  },
+  "kind_note": "Population",
+  "region": "Regional",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "古DNA。",
+    "en": "aDNA debate.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-dna-seed-l",
+    "src-lapita-bedford-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

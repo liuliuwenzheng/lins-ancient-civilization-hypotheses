@@ -1,0 +1,33 @@
+{
+  "id": "site-chavin-tenon-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "榫头石雕",
+    "en": "Tenon-head façade Seed L",
+    "native": null
+  },
+  "kind_note": "Sculpture",
+  "region": "Chavín de Huántar",
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "summary": {
+    "zh": "榫头。",
+    "en": "Tenon heads.",
+    "native": null
+  },
+  "sources": [
+    "src-chavin-tenon-heads-seed-l",
+    "src-chavin-iconography-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

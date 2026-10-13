@@ -1,0 +1,34 @@
+{
+  "id": "claim-tiwanaku-akapana-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿卡帕纳是蒂瓦纳科核心阶梯金字塔。",
+    "en": "Akapana is Tiwanaku’s core stepped pyramid.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-akapana-seed-l"
+  ],
+  "period_ids": [
+    "period-tiwanaku-classic-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-akalasa-seed-l",
+    "src-tiwanaku-kolata-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

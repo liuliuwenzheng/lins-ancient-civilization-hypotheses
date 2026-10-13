@@ -1,0 +1,33 @@
+{
+  "id": "site-lapita-roi-mata-seed-l",
+  "entity": "site",
+  "names": {
+    "zh": "罗伊马塔取向",
+    "en": "Roi Mata orientation Seed L",
+    "native": null
+  },
+  "kind_note": "UNESCO Vanuatu",
+  "region": "Vanuatu",
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "summary": {
+    "zh": "罗伊马塔取向。",
+    "en": "Roi Mata orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-lapita-unesco-1280-seed-l",
+    "src-lapita-bedford-seed-l"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

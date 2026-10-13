@@ -1,0 +1,32 @@
+{
+  "id": "claim-lapita-teouma-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "特乌马墓地提供拉皮塔人群与葬俗证据。",
+    "en": "Teouma cemetery supplies Lapita population and mortuary evidence.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-lapita-pacific"
+  ],
+  "site_ids": [
+    "site-lapita-teouma-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-lapita-teouma-seed-l",
+    "src-lapita-bedford-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

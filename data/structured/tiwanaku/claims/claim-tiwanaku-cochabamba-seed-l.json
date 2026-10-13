@@ -1,0 +1,32 @@
+{
+  "id": "claim-tiwanaku-cochabamba-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "科恰班巴谷地联系扩展蒂瓦纳科东部网络。",
+    "en": "Cochabamba valley links extend Tiwanaku’s eastern network.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-tiwanaku"
+  ],
+  "site_ids": [
+    "site-tiwanaku-cochabamba-seed-l"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-tiwanaku-cochabamba-seed-l",
+    "src-tiwanaku-browman-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

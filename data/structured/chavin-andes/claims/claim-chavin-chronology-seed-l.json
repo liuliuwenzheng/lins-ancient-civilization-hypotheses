@@ -1,0 +1,32 @@
+{
+  "id": "claim-chavin-chronology-seed-l",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "查文分期（如乌拉巴里乌/哈纳巴里乌）约束建筑序列。",
+    "en": "Chavín phases (e.g. Urabarriu/Janabarriu) constrain building sequences.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-chavin-andes"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-chavin-janabarriu-seed-l"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-chavin-chronology-seed-l",
+    "src-chavin-burger-seed-l"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_l.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-06"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch L toward ~71 sources (D-2026-10-13-06). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
