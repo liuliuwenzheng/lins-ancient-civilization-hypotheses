@@ -1,0 +1,34 @@
+{
+  "id": "claim-ugarit-destruction-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "拉斯沙姆拉末期毁坏层位与东地中海青铜晚期危机相关讨论相连。",
+    "en": "Ras Shamra’s terminal destruction horizon is discussed in relation to the East Mediterranean LBA crisis.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-destruction-horizon-seed-k"
+  ],
+  "period_ids": [
+    "period-ugarit-crisis-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-destruction-seed-k",
+    "src-ugarit-yon-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

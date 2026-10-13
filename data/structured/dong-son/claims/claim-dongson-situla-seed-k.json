@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-situla-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "提桶（thap）与铜鼓同属东山青铜容器传统。",
+    "en": "Situlae (thap) belong with drums in the Dong Son bronze vessel tradition.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-situla-find-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-situla-seed-k",
+    "src-dongson-drums-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

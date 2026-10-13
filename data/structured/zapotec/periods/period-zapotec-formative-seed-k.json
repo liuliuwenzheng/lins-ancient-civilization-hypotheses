@@ -1,0 +1,36 @@
+{
+  "id": "period-zapotec-formative-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "形成期窗SeedK",
+    "en": "Formative window Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "time": {
+    "label": "Formative villages / Mogote",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Formative villages / Mogote"
+  },
+  "summary": {
+    "zh": "形成期。",
+    "en": "Formative window.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-mogote-seed-k",
+    "src-zapotec-marcus-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

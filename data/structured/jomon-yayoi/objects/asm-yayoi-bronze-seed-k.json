@@ -1,0 +1,43 @@
+{
+  "id": "asm-yayoi-bronze-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "弥生青铜组合",
+    "en": "Yayoi bronze assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-yayoi-bronze-cache-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "青铜。",
+    "en": "Bronzes.",
+    "native": null
+  },
+  "sources": [
+    "src-yayoi-bronze-seed-k",
+    "src-yayoi-mizoguchi-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-seals-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "分格印章是BMAC物质文化的标志类型之一。",
+    "en": "Compartmented seals are a hallmark BMAC material type.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-seal-workshop-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-seals-seed-k",
+    "src-bmac-gonur-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-dongson-lang-vac-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "郎瓦克墓地组合",
+    "en": "Lang Vac cemetery Seed K assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-lang-vac-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "墓地。",
+    "en": "Cemetery.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-lang-vac-seed-k",
+    "src-dongson-higham-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

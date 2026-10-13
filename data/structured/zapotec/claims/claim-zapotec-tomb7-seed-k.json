@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-tomb7-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "7号墓出土大量后古典珍宝（卡索发掘语境）。",
+    "en": "Tomb 7 yielded a major Postclassic treasure (Caso excavation context).",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-tomb-7-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-tomb-7-seed-k",
+    "src-zapotec-caso-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

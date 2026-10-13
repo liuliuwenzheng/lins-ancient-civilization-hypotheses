@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-togolok-1-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "托戈洛克1",
+    "en": "Togolok 1 Seed K",
+    "native": null
+  },
+  "kind_note": "Temple complex",
+  "region": "Margiana",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "托戈洛克。",
+    "en": "Togolok.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-togolok-seed-k",
+    "src-bmac-sarianidi-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-bmac-taip-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "泰普组合",
+    "en": "Taip Depe Seed K assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-taip-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "泰普。",
+    "en": "Taip.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-taip-seed-k",
+    "src-bmac-hiebert-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

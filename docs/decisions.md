@@ -1030,3 +1030,17 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-13-05 — Seed densify Batch K toward ~71 sources
+
+**Decision:** Densify seed packs `levant-ugarit`, `bmac-oxus`, `zapotec`, `jomon-yayoi`, `dong-son` from ~48-source Seed G–J band toward hot Round-4 band (~71 sources); **keep `library-seed-rich`** (do not promote). Claim IDs use `-seed-k` suffix. Remaining 16 non-hot seeds deferred to Batches L/M/N.
+
+**Approx. per-pack delta:** +23 sources · +20 sites · +3 periods · +32 objects · +26 claims · +3 media.
+
+**Landed band:** ~71–72 sources / 42–43 sites / 13 periods / 51 objects / 69 claims / 10–12 media.
+
+**Coord fills:** none this pass.
+
+**Reports:** [`docs/audits/pass-2026-10-13-seed-batch-k.md`](audits/pass-2026-10-13-seed-batch-k.md) · [中文](audits/pass-2026-10-13-seed-batch-k.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

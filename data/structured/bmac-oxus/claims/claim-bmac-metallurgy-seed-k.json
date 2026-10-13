@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-metallurgy-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "阿姆河流域冶金支持绿洲中心的技术基础。",
+    "en": "Oxus metallurgy underpins oasis-centre technology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-metal-workshop-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-metallurgy-seed-k",
+    "src-bmac-gonur-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

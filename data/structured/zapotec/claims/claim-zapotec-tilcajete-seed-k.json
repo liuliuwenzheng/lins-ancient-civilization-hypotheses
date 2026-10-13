@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-tilcajete-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "蒂尔卡赫特等被讨论为早期竞争中心。",
+    "en": "Centres such as Cerro Tilcajete are discussed as early rivals.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-cerro-tilcajete-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-spencer-seed-k",
+    "src-zapotec-conquest-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

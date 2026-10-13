@@ -1,0 +1,30 @@
+{
+  "id": "claim-ugarit-schaeffer-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Schaeffer 发掘系列奠定拉斯沙姆拉田野基础。",
+    "en": "Schaeffer’s excavation series founded the Ras Shamra field record.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-schaeffer-seed-k",
+    "src-ugarit-yon-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

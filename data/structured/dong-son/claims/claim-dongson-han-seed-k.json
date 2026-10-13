@@ -1,0 +1,34 @@
+{
+  "id": "claim-dongson-han-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "汉接触影响北部越南东山晚期物质文化。",
+    "en": "Han contact affected late Dong Son material culture in northern Vietnam.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-han-contact-seed-k"
+  ],
+  "period_ids": [
+    "period-dongson-han-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-han-seed-k",
+    "src-dongson-kim-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

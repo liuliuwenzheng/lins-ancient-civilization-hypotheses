@@ -1,0 +1,33 @@
+{
+  "id": "site-jomon-pit-dwellings-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "竖穴住居取向",
+    "en": "Pit-dwelling orientation Seed K",
+    "native": null
+  },
+  "kind_note": "Domestic",
+  "region": "Northern Honshu",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "竖穴住居。",
+    "en": "Pit dwellings.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-sannai-seed-k",
+    "src-jomon-sedentism-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

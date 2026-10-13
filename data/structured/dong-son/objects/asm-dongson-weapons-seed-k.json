@@ -1,0 +1,43 @@
+{
+  "id": "asm-dongson-weapons-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "青铜兵器组合",
+    "en": "Bronze-weapon assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-weapon-find-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "兵器。",
+    "en": "Weapons.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-weapons-seed-k",
+    "src-dongson-metallurgy-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

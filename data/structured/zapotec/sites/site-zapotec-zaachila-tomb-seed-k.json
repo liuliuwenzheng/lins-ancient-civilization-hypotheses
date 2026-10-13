@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-zaachila-tomb-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "萨奇拉墓",
+    "en": "Zaachila tombs Seed K",
+    "native": null
+  },
+  "kind_note": "Elite tombs",
+  "region": "Zaachila",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "萨奇拉。",
+    "en": "Zaachila.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-zaachila-seed-k",
+    "src-zapotec-joyce-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

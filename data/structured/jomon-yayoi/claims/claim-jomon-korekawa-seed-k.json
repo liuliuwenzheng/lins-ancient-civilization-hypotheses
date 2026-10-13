@@ -1,0 +1,32 @@
+{
+  "id": "claim-jomon-korekawa-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "是川遗址与漆器工艺相关。",
+    "en": "Korekawa relates to lacquer craft traditions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-korekawa-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-korekawa-seed-k",
+    "src-jomon-lacquer-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

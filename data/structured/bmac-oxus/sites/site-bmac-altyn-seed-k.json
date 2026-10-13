@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-altyn-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "阿尔滕德佩",
+    "en": "Altyn Depe Seed K",
+    "native": null
+  },
+  "kind_note": "Urban centre",
+  "region": "Kopet Dag piedmont",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "阿尔滕。",
+    "en": "Altyn Depe.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-altyn-seed-k",
+    "src-bmac-lamberg-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

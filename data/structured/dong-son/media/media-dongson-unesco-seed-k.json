@@ -1,0 +1,32 @@
+{
+  "id": "media-dongson-unesco-seed-k",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：升龙皇城 SeedK",
+    "en": "UNESCO: Thang Long Seed K",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/1328/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-dongson-unesco-1328-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/1328/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

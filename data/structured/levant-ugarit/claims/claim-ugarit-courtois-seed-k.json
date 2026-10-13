@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-courtois-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "地形研究帮助重建拉斯沙姆拉城市布局。",
+    "en": "Topographic studies help reconstruct Ras Shamra’s urban layout.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-city-gate-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-courtois-seed-k",
+    "src-ugarit-yon-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

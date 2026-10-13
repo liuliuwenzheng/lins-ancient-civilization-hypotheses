@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-taip-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "泰普德佩属于马尔吉亚纳绿洲遗址群。",
+    "en": "Taip Depe belongs to the Margiana oasis site cluster.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-taip-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-taip-seed-k",
+    "src-bmac-hiebert-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

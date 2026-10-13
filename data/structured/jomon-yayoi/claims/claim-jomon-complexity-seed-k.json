@@ -1,0 +1,32 @@
+{
+  "id": "claim-jomon-complexity-seed-k",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "绳文“复杂性”是否等同农业社会标准仍属假说讨论。",
+    "en": "Whether Jomon “complexity” matches agricultural-society criteria remains hypothetical.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-jomon-middle-sedentism-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-sedentism-seed-k",
+    "src-jomon-habu-seed-k"
+  ],
+  "disclaimer": "Complexity definitions vary; not equated here to state-level society.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

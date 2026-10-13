@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-lambityeco-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "兰比蒂科与盐业及宫室建筑相关。",
+    "en": "Lambityeco relates to salt production and palace architecture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-lambityeco-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-lambityeco-seed-k",
+    "src-zapotec-blanton-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-bmac-shortughai-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "肖图盖组合",
+    "en": "Shortughai Seed K assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-shortughai-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "肖图盖。",
+    "en": "Shortughai.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-shortughai-seed-k",
+    "src-bmac-indus-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

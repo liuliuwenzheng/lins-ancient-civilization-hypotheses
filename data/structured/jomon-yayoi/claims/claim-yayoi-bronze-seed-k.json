@@ -1,0 +1,32 @@
+{
+  "id": "claim-yayoi-bronze-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "弥生青铜器（铜铎、武器）见于九州及以东。",
+    "en": "Yayoi bronzes (bells, weapons) appear in Kyushu and beyond.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-yayoi-bronze-cache-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-bronze-seed-k",
+    "src-yayoi-mizoguchi-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

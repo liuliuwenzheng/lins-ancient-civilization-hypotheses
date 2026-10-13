@@ -1,0 +1,36 @@
+{
+  "id": "period-ugarit-amarna-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "阿马尔奈外交窗SeedK",
+    "en": "Amarna diplomacy Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "Amarna-age diplomacy",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Amarna-age diplomacy"
+  },
+  "summary": {
+    "zh": "阿马尔奈外交窗。",
+    "en": "Amarna-age diplomacy window.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-amarna-seed-k",
+    "src-ugarit-singer-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

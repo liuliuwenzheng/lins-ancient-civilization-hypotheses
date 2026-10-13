@@ -1,0 +1,30 @@
+{
+  "id": "claim-zapotec-marcus-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Marcus/Flannery 综合是萨波特克文明常用入口。",
+    "en": "Marcus/Flannery remains a standard entry to Zapotec civilization.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-marcus-seed-k",
+    "src-zapotec-mogote-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

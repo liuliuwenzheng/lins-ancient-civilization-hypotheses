@@ -1,0 +1,33 @@
+{
+  "id": "site-ugarit-library-orientation-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "文书库取向",
+    "en": "Library / archive orientation Seed K",
+    "native": null
+  },
+  "kind_note": "Archives",
+  "region": "Ras Shamra",
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "summary": {
+    "zh": "文书库。",
+    "en": "Archive orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-archives-seed-k",
+    "src-ugarit-huehnergard-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

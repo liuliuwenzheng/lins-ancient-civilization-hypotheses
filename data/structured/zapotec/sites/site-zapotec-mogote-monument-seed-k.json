@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-mogote-monument-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "莫戈特纪念碑",
+    "en": "Mogote Monument 3 Seed K",
+    "native": null
+  },
+  "kind_note": "Formative monument",
+  "region": "San José Mogote",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "莫戈特。",
+    "en": "Mogote.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-mogote-seed-k",
+    "src-zapotec-marcus-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asm-jomon-sannai-plaza-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "三内丸山广场组合",
+    "en": "Sannai-Maruyama plaza Seed K assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-sannai-plaza-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "三内丸山。",
+    "en": "Sannai-Maruyama.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-sannai-seed-k",
+    "src-jomon-unesco-1632-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

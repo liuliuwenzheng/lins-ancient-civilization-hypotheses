@@ -1,0 +1,32 @@
+{
+  "id": "claim-bmac-survey-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "穆尔加布调查重建三角洲遗址密度。",
+    "en": "Murghab surveys reconstruct delta site density.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "site_ids": [
+    "site-bmac-murghab-canal-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-bmac-salonon-seed-k",
+    "src-bmac-hiebert-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

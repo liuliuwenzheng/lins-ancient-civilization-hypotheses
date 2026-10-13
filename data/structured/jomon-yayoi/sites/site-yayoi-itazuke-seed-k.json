@@ -1,0 +1,33 @@
+{
+  "id": "site-yayoi-itazuke-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "板付",
+    "en": "Itazuke Seed K",
+    "native": null
+  },
+  "kind_note": "Early paddies",
+  "region": "Fukuoka",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "早期水田。",
+    "en": "Early paddies.",
+    "native": null
+  },
+  "sources": [
+    "src-yayoi-itazuke-seed-k",
+    "src-yayoi-rice-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

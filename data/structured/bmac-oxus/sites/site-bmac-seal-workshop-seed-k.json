@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-seal-workshop-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "印章作坊取向",
+    "en": "Seal workshop orientation Seed K",
+    "native": null
+  },
+  "kind_note": "Craft",
+  "region": "Margiana",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "印章作坊。",
+    "en": "Seal workshop.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-seals-seed-k",
+    "src-bmac-gonur-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

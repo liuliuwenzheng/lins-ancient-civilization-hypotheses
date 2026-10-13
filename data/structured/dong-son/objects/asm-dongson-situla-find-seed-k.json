@@ -1,0 +1,43 @@
+{
+  "id": "asm-dongson-situla-find-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "提桶出土取向组合",
+    "en": "Situla find orientation Seed K assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-situla-find-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "提桶。",
+    "en": "Situlae.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-situla-seed-k",
+    "src-dongson-drums-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

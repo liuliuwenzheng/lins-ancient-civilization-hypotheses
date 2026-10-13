@@ -1,0 +1,43 @@
+{
+  "id": "asm-ugarit-grammar-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "乌加里特语语法组合",
+    "en": "Ugaritic grammar assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-alphabetic-findspot-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "语言。",
+    "en": "Language assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-van-soldt-seed-k",
+    "src-ugarit-alphabet-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-archives-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "南宫与泥板宅保存大量行政文书。",
+    "en": "South palace and tablet houses preserve extensive administrative texts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-south-palace-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-archives-seed-k",
+    "src-ugarit-singer-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "decision": "D-2026-10-13-05",
+  "date": "2026-10-13",
+  "packs": [
+    {
+      "pack": "levant-ugarit",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-levant-ugarit",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "bmac-oxus",
+      "before": {
+        "sources": 48,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 8
+      },
+      "after": {
+        "sources": 71,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 11
+      },
+      "civ_id": "civ-bmac-oxus",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "zapotec",
+      "before": {
+        "sources": 48,
+        "sites": 22,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 71,
+        "sites": 42,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-zapotec",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "jomon-yayoi",
+      "before": {
+        "sources": 48,
+        "sites": 22,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 9
+      },
+      "after": {
+        "sources": 71,
+        "sites": 42,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 12
+      },
+      "civ_id": "civ-jomon-yayoi",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    },
+    {
+      "pack": "dong-son",
+      "before": {
+        "sources": 49,
+        "sites": 23,
+        "periods": 10,
+        "objects": 19,
+        "claims": 43,
+        "media": 7
+      },
+      "after": {
+        "sources": 72,
+        "sites": 43,
+        "periods": 13,
+        "objects": 51,
+        "claims": 69,
+        "media": 10
+      },
+      "civ_id": "civ-dong-son",
+      "status": "library-seed-rich",
+      "coords_filled": []
+    }
+  ],
+  "delta_totals": {
+    "sources": 115,
+    "sites": 100,
+    "periods": 15,
+    "objects": 160,
+    "claims": 130,
+    "media": 15
+  },
+  "status_note": "All five packs remain library-seed-rich (not promoted to fact-library)."
+}

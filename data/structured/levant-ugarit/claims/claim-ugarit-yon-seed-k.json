@@ -1,0 +1,30 @@
+{
+  "id": "claim-ugarit-yon-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Yon 综合是乌加里特城市考古的关键入口。",
+    "en": "Yon remains a key synthesis for Ugarit urban archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-yon-seed-k",
+    "src-ugarit-schaeffer-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

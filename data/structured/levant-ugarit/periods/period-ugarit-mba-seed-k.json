@@ -1,0 +1,36 @@
+{
+  "id": "period-ugarit-mba-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "中青铜窗SeedK",
+    "en": "MBA window Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "time": {
+    "label": "Middle Bronze Ugarit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Middle Bronze Ugarit"
+  },
+  "summary": {
+    "zh": "中青铜窗口。",
+    "en": "Middle Bronze chronological window.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-yon-seed-k",
+    "src-ugarit-schaeffer-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

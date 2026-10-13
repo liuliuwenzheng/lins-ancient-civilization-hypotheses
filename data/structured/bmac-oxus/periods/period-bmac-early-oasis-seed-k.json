@@ -1,0 +1,36 @@
+{
+  "id": "period-bmac-early-oasis-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "早期绿洲窗SeedK",
+    "en": "Early oasis Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "Early oasis formation",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Early oasis formation"
+  },
+  "summary": {
+    "zh": "早期绿洲。",
+    "en": "Early oasis formation.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-hiebert-seed-k",
+    "src-bmac-namazga-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

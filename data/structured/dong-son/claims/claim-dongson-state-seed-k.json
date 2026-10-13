@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-state-seed-k",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "古螺是否代表早期“国家”仍属定义性争论。",
+    "en": "Whether Co Loa represents an early “state” remains a definitional debate.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-co-loa-rampart-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-co-loa-seed-k",
+    "src-dongson-kim-seed-k"
+  ],
+  "disclaimer": "Political complexity models for Co Loa differ; not asserted as settled statehood.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

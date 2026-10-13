@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-thang-long-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "升龙皇城取向",
+    "en": "Thang Long orientation Seed K",
+    "native": null
+  },
+  "kind_note": "UNESCO Hanoi",
+  "region": "Hanoi",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "升龙取向。",
+    "en": "Thang Long orientation.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-unesco-1328-seed-k",
+    "src-dongson-kim-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

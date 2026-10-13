@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-gonur-royal-necropolis-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "戈努尔王陵区",
+    "en": "Gonur royal necropolis Seed K",
+    "native": null
+  },
+  "kind_note": "Elite burials",
+  "region": "Margiana",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "精英墓葬。",
+    "en": "Elite burials.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-burial-seed-k",
+    "src-bmac-sarianidi-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

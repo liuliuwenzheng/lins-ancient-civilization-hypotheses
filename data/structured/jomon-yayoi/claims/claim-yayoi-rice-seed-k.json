@@ -1,0 +1,34 @@
+{
+  "id": "claim-yayoi-rice-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "水稻农业引入是弥生经济转变的关键标志。",
+    "en": "Wet-rice introduction is a key marker of Yayoi economic change.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-yayoi-itazuke-seed-k"
+  ],
+  "period_ids": [
+    "period-yayoi-rice-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-rice-seed-k",
+    "src-yayoi-itazuke-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

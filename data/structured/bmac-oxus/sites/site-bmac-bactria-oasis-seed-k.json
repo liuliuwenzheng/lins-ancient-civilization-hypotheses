@@ -1,0 +1,33 @@
+{
+  "id": "site-bmac-bactria-oasis-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "巴克特里亚绿洲取向",
+    "en": "Bactria oasis orientation Seed K",
+    "native": null
+  },
+  "kind_note": "Oasis settlement",
+  "region": "Bactria",
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "summary": {
+    "zh": "巴克特里亚绿洲。",
+    "en": "Bactria oasis.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-dashly-seed-k",
+    "src-bmac-francfort-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

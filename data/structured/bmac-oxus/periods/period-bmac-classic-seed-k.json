@@ -1,0 +1,36 @@
+{
+  "id": "period-bmac-classic-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "古典戈努尔窗SeedK",
+    "en": "Classic Gonur Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "Classic Margiana floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Classic Margiana floruit"
+  },
+  "summary": {
+    "zh": "古典繁荣。",
+    "en": "Classic Margiana floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-sarianidi-seed-k",
+    "src-bmac-gonur-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

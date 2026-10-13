@@ -1,0 +1,32 @@
+{
+  "id": "claim-ugarit-scribal-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "书吏训练见于泥板宅与文书库语境。",
+    "en": "Scribal training appears in tablet-house and archive contexts.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-house-rapanu-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-ugarit-scribal-seed-k",
+    "src-ugarit-van-soldt-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

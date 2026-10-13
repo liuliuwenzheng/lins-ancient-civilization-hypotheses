@@ -1,0 +1,34 @@
+{
+  "id": "claim-jomon-odai-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "大平山元以早期陶器著称。",
+    "en": "Odai Yamamoto is noted for early pottery.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-odai-seed-k"
+  ],
+  "period_ids": [
+    "period-jomon-incipient-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-odai-seed-k",
+    "src-jomon-imamura-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

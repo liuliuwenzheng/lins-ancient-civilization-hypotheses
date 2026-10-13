@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-ballcourt-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "蒙特阿尔班球场属于中美洲球赛建筑传统。",
+    "en": "The Monte Albán ballcourt belongs to the Mesoamerican ballgame tradition.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-ballcourt-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-ballcourt-seed-k",
+    "src-zapotec-monte-alban-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

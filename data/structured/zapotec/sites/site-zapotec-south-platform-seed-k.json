@@ -1,0 +1,33 @@
+{
+  "id": "site-zapotec-south-platform-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "南平台",
+    "en": "South Platform Seed K",
+    "native": null
+  },
+  "kind_note": "Platform monuments",
+  "region": "Monte Albán",
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "summary": {
+    "zh": "南平台。",
+    "en": "South Platform.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-south-platform-seed-k",
+    "src-zapotec-blanton-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

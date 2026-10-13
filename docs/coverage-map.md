@@ -107,7 +107,7 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 
 ## Product stance
 
-**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); all 10 hot packs at Round-4 (~71 / 41–44 / 51 / 68–69) but **none promoted**; **all 21 non-hot Seed packs now ~48 (Batches G–J complete).** Honesty of status beats vanity of count. Next: cited UNESCO/P coord fills on hot packs before any promotion review; open remaining Missing where archives allow.
+**40 packs callable: 9 dense (`fact-library`) + 31 expanding (`library-seed-rich`); all 10 hot packs at Round-4 (~71 / 41–44 / 51 / 68–69) but **none promoted**; Seed Batch K (5 packs) now ~71; remaining 16 non-hot seeds still ~48.** Honesty of status beats vanity of count. Next: Seed Batches L/M/N (~71); cited UNESCO/P coord fills on hot packs before any promotion review.
 
 > **2026-10-12 update (Hot Round-3 A):** Hot densify Round-3 Batch A (D-2026-10-12-28) raised teotihuacan / classic-maya / inca / angkor / aksum to ~66 sources / 31–33 sites / 33 objects / 60–61 claims; status remains `library-seed-rich` (not promoted). No new coords.
 
@@ -116,6 +116,8 @@ Status upgraded to **`library-seed-rich`**. Typical density after densify: **~15
 > **2026-10-12 update (Hot Round-4 A):** Hot densify Round-4 Batch A (D-2026-10-12-30) raised teotihuacan / classic-maya / inca / angkor / aksum to ~71 sources / 41–43 sites / 51 objects / 68–69 claims (sites/objects focus). **Numeric gates passed; quality/honesty failed (coords 2–14% filled, orientation stubs remain) → none promoted; all stay `library-seed-rich`.** No new coords this pass.
 
 > **2026-10-12 update (Hot Round-4 B):** Hot densify Round-4 Batch B (D-2026-10-12-31) raised aztec / phoenician / anatolia-hittite / nubia-kush / elam-iran to ~71 sources / 42–44 sites / 51 objects / 69 claims. **Numeric OK; quality/honesty fail (coords 7–18%) → none promoted.** **All 10 hot packs now Round-4 band numerically; still 0 hot fact-library promotions.** No new coords this pass.
+
+> **2026-10-13 update (Seed K):** Seed densify Batch K (D-2026-10-13-05) raised levant-ugarit / bmac-oxus / zapotec / jomon-yayoi / dong-son to ~71–72 sources / 42–43 sites / 51 objects / 69 claims; status remains `library-seed-rich` (not promoted). **5 of 21 non-hot seeds now ~71.** Remaining 16 for Batches L/M/N. No new coords this pass.
 
 > **2026-10-13 update (Seed J milestone):** Seed densify Batch J (D-2026-10-13-04) raised ancestral-pueblo / great-zimbabwe / west-africa-medieval / hallstatt-celtic / nuragic-sardinia / rapa-nui to ~48 sources / 23–24 sites / 19 objects / 43 claims; status remains `library-seed-rich`. **All 21 former ~30-source seeds now ~48.** Rapa Nui: outbound UNESCO media only; no hosted moai. No new coords this pass.
 

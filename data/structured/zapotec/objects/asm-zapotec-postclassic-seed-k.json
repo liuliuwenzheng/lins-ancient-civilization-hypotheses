@@ -1,0 +1,43 @@
+{
+  "id": "asm-zapotec-postclassic-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "后古典谷地取向组合",
+    "en": "Postclassic valley orientation Seed K assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-postclassic-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "后古典。",
+    "en": "Postclassic.",
+    "native": null
+  },
+  "sources": [
+    "src-zapotec-postclassic-seed-k",
+    "src-zapotec-joyce-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

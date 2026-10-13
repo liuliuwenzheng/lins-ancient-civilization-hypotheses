@@ -1,0 +1,32 @@
+{
+  "id": "claim-yayoi-mizoguchi-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Mizoguchi 等推进弥生社会考古综合。",
+    "en": "Mizoguchi and related work advance Yayoi social archaeology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-yayoi-rice-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-yayoi-mizoguchi-seed-k",
+    "src-yayoi-yoshinogari-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

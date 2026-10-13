@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-boat-cemetery-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "船棺墓群取向",
+    "en": "Boat-coffin cemetery orientation Seed K",
+    "native": null
+  },
+  "kind_note": "Burials",
+  "region": "Coastal north VN",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "船棺墓。",
+    "en": "Boat coffins.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-boat-burial-seed-k",
+    "src-dongson-viet-khe-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

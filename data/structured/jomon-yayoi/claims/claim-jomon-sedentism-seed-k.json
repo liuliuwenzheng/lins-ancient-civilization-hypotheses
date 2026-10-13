@@ -1,0 +1,34 @@
+{
+  "id": "claim-jomon-sedentism-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "中期绳文定居与资源集约利用相关讨论紧密。",
+    "en": "Middle Jomon sedentism is closely discussed with resource intensification.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-pit-dwellings-seed-k"
+  ],
+  "period_ids": [
+    "period-jomon-middle-sedentism-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-sedentism-seed-k",
+    "src-jomon-sannai-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

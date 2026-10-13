@@ -1,0 +1,33 @@
+{
+  "id": "site-yayoi-bronze-cache-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "青铜窖藏取向",
+    "en": "Bronze cache orientation Seed K",
+    "native": null
+  },
+  "kind_note": "Bronzes",
+  "region": "Northern Kyushu",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "青铜。",
+    "en": "Bronzes.",
+    "native": null
+  },
+  "sources": [
+    "src-yayoi-bronze-seed-k",
+    "src-yayoi-mizoguchi-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

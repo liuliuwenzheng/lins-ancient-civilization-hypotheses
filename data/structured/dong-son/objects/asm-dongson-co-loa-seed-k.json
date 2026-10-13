@@ -1,0 +1,43 @@
+{
+  "id": "asm-dongson-co-loa-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "古螺城组合",
+    "en": "Co Loa assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-co-loa-rampart-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "古螺。",
+    "en": "Co Loa.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-co-loa-seed-k",
+    "src-dongson-kim-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

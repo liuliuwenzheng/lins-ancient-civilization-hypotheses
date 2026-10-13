@@ -1,0 +1,34 @@
+{
+  "id": "claim-dongson-dong-dau-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "铜豆期衔接冯原与戈门/东山讨论。",
+    "en": "Dong Dau bridges Phung Nguyen and Go Mun/Dong Son discussions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-dong-dau-seed-k"
+  ],
+  "period_ids": [
+    "period-dongson-pre-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-dong-dau-seed-k",
+    "src-dongson-higham-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

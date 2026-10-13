@@ -1,0 +1,33 @@
+{
+  "id": "site-jomon-oyu-manza-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "大汤万座",
+    "en": "Oyu Manza circle Seed K",
+    "native": null
+  },
+  "kind_note": "Stone circle",
+  "region": "Kazuno",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "大汤万座。",
+    "en": "Oyu Manza.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-oyu-seed-k",
+    "src-jomon-unesco-1632-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

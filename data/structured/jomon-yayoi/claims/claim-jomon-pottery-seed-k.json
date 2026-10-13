@@ -1,0 +1,30 @@
+{
+  "id": "claim-jomon-pottery-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "绳文陶器类型学支撑 inter-regional 编年。",
+    "en": "Jomon pottery typology underpins inter-regional chronology.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-jomon-pottery-seed-k",
+    "src-jomon-habu-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

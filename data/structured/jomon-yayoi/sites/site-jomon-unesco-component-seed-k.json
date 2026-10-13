@@ -1,0 +1,33 @@
+{
+  "id": "site-jomon-unesco-component-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "教科文组件取向",
+    "en": "UNESCO component orientation Seed K",
+    "native": null
+  },
+  "kind_note": "WH landscape",
+  "region": "Northern Japan",
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "summary": {
+    "zh": "遗产组件。",
+    "en": "WH components.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-unesco-1632-seed-k",
+    "src-jomon-habu-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "period-dongson-pre-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "前东山窗SeedK",
+    "en": "Pre-Dong Son Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "time": {
+    "label": "Phung Nguyen–Dong Dau–Go Mun",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Phung Nguyen–Dong Dau–Go Mun"
+  },
+  "summary": {
+    "zh": "前东山。",
+    "en": "Pre-Dong Son sequence.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-phung-nguyen-seed-k",
+    "src-dongson-go-mun-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

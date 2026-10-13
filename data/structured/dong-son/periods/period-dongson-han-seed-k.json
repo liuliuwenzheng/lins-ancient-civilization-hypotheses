@@ -1,0 +1,36 @@
+{
+  "id": "period-dongson-han-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "汉接触过渡窗SeedK",
+    "en": "Han transition Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "time": {
+    "label": "Han contact transition",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Han contact transition"
+  },
+  "summary": {
+    "zh": "汉过渡。",
+    "en": "Han contact transition.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-han-seed-k",
+    "src-dongson-kim-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

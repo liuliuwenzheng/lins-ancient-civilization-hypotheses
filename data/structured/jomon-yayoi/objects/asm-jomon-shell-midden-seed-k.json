@@ -1,0 +1,43 @@
+{
+  "id": "asm-jomon-shell-midden-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "贝冢组合",
+    "en": "Shell-midden assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "site_ids": [
+    "site-jomon-futatsumori-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "贝冢。",
+    "en": "Shell midden.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-futatsumori-seed-k",
+    "src-jomon-habu-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

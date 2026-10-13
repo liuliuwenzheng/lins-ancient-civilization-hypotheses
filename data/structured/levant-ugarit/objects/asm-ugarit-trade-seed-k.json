@@ -1,0 +1,43 @@
+{
+  "id": "asm-ugarit-trade-seed-k",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "贸易物品组合",
+    "en": "Trade-goods assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-levant-ugarit"
+  ],
+  "site_ids": [
+    "site-ugarit-minet-quay-seed-k"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "贸易物品。",
+    "en": "Trade goods.",
+    "native": null
+  },
+  "sources": [
+    "src-ugarit-trade-seed-k",
+    "src-ugarit-yon-seed-k"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

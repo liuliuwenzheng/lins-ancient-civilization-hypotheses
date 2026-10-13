@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-south-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "南平台纪念碑展示古典期权力景观。",
+    "en": "South Platform monuments display Classic power landscape.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-south-platform-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-south-platform-seed-k",
+    "src-zapotec-blanton-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

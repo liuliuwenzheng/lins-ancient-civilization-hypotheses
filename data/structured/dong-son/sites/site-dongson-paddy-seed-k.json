@@ -1,0 +1,33 @@
+{
+  "id": "site-dongson-paddy-seed-k",
+  "entity": "site",
+  "names": {
+    "zh": "红河水田取向",
+    "en": "Red River paddy orientation Seed K",
+    "native": null
+  },
+  "kind_note": "Agriculture",
+  "region": "Red River delta",
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "summary": {
+    "zh": "水田。",
+    "en": "Paddies.",
+    "native": null
+  },
+  "sources": [
+    "src-dongson-rice-seed-k",
+    "src-dongson-higham-seed-k"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

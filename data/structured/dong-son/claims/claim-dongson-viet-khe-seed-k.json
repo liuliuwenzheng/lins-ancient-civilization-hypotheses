@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-viet-khe-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "越溪船棺是东山葬俗的重要案例。",
+    "en": "Viet Khe boat burial is a major Dong Son mortuary case.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-viet-khe-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-viet-khe-seed-k",
+    "src-dongson-boat-burial-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

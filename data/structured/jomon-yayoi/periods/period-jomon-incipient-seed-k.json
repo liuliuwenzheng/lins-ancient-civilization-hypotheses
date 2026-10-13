@@ -1,0 +1,36 @@
+{
+  "id": "period-jomon-incipient-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "草创期窗SeedK",
+    "en": "Incipient Jomon Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-jomon-yayoi"
+  ],
+  "time": {
+    "label": "Incipient pottery",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Incipient pottery"
+  },
+  "summary": {
+    "zh": "草创期。",
+    "en": "Incipient Jomon.",
+    "native": null
+  },
+  "sources": [
+    "src-jomon-odai-seed-k",
+    "src-jomon-imamura-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

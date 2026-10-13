@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-writing-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "萨波特克文字是中美洲较早的文字传统之一。",
+    "en": "Zapotec script is among the earlier Mesoamerican writing traditions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [
+    "site-zapotec-writing-find-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-writing-seed-k",
+    "src-zapotec-mogote-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

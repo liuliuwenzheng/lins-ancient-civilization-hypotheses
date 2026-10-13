@@ -1,0 +1,36 @@
+{
+  "id": "period-bmac-late-trans-seed-k",
+  "entity": "period",
+  "names": {
+    "zh": "晚期过渡窗SeedK",
+    "en": "Late transition Seed K",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-bmac-oxus"
+  ],
+  "time": {
+    "label": "Late BMAC transition",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late BMAC transition"
+  },
+  "summary": {
+    "zh": "晚期过渡。",
+    "en": "Late BMAC transition.",
+    "native": null
+  },
+  "sources": [
+    "src-bmac-late-seed-k",
+    "src-bmac-lamberg-seed-k"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

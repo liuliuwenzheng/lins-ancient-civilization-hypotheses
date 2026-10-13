@@ -1,0 +1,32 @@
+{
+  "id": "claim-dongson-rice-seed-k",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "红河三角洲水稻农业支撑东山聚落经济。",
+    "en": "Red River wet-rice agriculture supported Dong Son settlement economies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-dong-son"
+  ],
+  "site_ids": [
+    "site-dongson-paddy-seed-k"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-dongson-rice-seed-k",
+    "src-dongson-higham-seed-k"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}

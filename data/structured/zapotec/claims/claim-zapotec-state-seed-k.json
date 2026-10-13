@@ -1,0 +1,32 @@
+{
+  "id": "claim-zapotec-state-seed-k",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "蒙特阿尔班早期“国家”定义与范围仍有理论争论。",
+    "en": "Definitions and scope of an early Monte Albán “state” remain theoretically debated.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-zapotec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-zapotec-classic-seed-k"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-zapotec-spencer-seed-k",
+    "src-zapotec-marcus-seed-k"
+  ],
+  "disclaimer": "State-formation models differ; not a single settled definition.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_seed_batch_k.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-13-05"
+    ],
+    "derived_on": "2026-10-13",
+    "notes": "Seed densify Batch K toward ~71 sources (D-2026-10-13-05). No invented pages/coords/finds/media. Status stays library-seed-rich."
+  }
+}
