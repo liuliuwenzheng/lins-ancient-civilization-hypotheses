@@ -1,7 +1,7 @@
-# 结构化包 — 努比亚 / 库施
+# 努比亚 / 库施 — 结构化包
 
-[English](README.md) | 中文
+状态：`library-seed-rich` · Round-4 Batch B `D-2026-10-12-31` · Kept `library-seed-rich` (D-2026-10-12-31): Numeric OK but quality/honesty fail: coords mostly null (8/44 filled, 18%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites)
 
-**状态：** `library-seed-rich`（热门加厚 Round-3 Batch B，D-2026-10-12-29）。朝向 fact-library，尚未达埃及级密度。
+计数：来源=71 遗址=44 时段=13 对象=51 主张=69 媒体=12
 
-计数：来源 66 · 遗址 34 · 时段 12 · 对象 33 · 主张 61 · 媒体 11
+文明文档：`data/civilizations/civ-nubia-kush.md`

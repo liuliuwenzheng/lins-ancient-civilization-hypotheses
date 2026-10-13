@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-coatlinchan-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "科阿特林昌",
+    "en": "Coatlinchán",
+    "native": null
+  },
+  "kind_note": "Colossal rain-god / altepetl",
+  "region": "Basin of Mexico",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "巨石雨神与地方城邦语境。",
+    "en": "Colossal rain-god and altepetl context.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

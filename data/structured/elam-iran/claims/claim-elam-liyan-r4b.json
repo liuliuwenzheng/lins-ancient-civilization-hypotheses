@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-liyan-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "利扬是波斯湾沿岸与埃兰世界联系的港口/圣所节点。",
+    "en": "Liyan is a Persian Gulf port/sanctuary node linking the coast to the Elamite world.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-liyan-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-liyan-r4b",
+    "src-elam-potts-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

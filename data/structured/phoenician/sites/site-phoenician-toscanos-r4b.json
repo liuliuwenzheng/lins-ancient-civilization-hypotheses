@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-toscanos-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "托斯卡诺斯",
+    "en": "Toscanos",
+    "native": null
+  },
+  "kind_note": "Andalusian Phoenician settlement",
+  "region": "Málaga coast",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "安达卢西亚腓尼基聚落。",
+    "en": "Andalusian Phoenician settlement.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

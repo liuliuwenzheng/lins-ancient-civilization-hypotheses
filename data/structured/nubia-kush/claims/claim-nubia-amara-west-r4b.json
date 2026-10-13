@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-amara-west-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "西阿马拉提供新王国殖民城镇与后续居住的地层证据。",
+    "en": "Amara West supplies stratified evidence of a New Kingdom colonial town and later occupation.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-amara-west-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-edward-r4b",
+    "src-nubia-torok-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

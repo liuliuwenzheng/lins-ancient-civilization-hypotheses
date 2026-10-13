@@ -1,0 +1,43 @@
+{
+  "id": "asm-hittite-inandik-r4b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "伊南迪克浮雕陶组合",
+    "en": "İnandık relief-vase assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-inandik-r4b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "古王国浮雕陶组合。",
+    "en": "Old Hittite relief-vase assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-bryce-r4b",
+    "src-hittite-seeher-r4b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

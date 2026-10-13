@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-sedeinga-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "塞丁加",
+    "en": "Sedeinga",
+    "native": null
+  },
+  "kind_note": "Meroitic pyramid necropolis",
+  "region": "Upper Nubia",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "麦罗埃金字塔墓地。",
+    "en": "Meroitic pyramid necropolis.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-sedeinga-r4b",
+    "src-nubia-torok-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

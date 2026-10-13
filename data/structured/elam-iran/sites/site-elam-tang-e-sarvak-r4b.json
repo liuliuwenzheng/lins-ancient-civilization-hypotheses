@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-tang-e-sarvak-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "坦格萨尔瓦克",
+    "en": "Tang-e Sarvak",
+    "native": null
+  },
+  "kind_note": "Parthian–Elamite tradition rock reliefs",
+  "region": "Khuzestan highlands",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "帕提亚—埃兰传统岩刻。",
+    "en": "Parthian–Elamite tradition rock reliefs.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-tang-e-sarvak-r4b",
+    "src-elam-alvarez-mon-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

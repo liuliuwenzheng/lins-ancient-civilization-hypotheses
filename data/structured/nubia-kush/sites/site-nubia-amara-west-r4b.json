@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-amara-west-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "西阿马拉",
+    "en": "Amara West",
+    "native": null
+  },
+  "kind_note": "New Kingdom / post-New Kingdom town",
+  "region": "Upper Nubia",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "新王国/后新王国城镇。",
+    "en": "New Kingdom / post-New Kingdom town.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-edward-r4b",
+    "src-nubia-torok-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

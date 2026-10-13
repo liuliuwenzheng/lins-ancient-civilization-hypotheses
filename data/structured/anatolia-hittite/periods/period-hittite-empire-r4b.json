@@ -1,0 +1,36 @@
+{
+  "id": "period-hittite-empire-r4b",
+  "entity": "period",
+  "names": {
+    "zh": "帝国期加深窗R4B",
+    "en": "Empire deepen R4B",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "time": {
+    "label": "Hittite Empire floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Hittite Empire floruit"
+  },
+  "summary": {
+    "zh": "赫梯帝国繁荣。",
+    "en": "Hittite Empire floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-bryce-r4b",
+    "src-hittite-seeher-r4b"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

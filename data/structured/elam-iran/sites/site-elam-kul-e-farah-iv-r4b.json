@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-kul-e-farah-iv-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "库尔法拉IV号岩刻",
+    "en": "Kul-e Farah IV relief",
+    "native": null
+  },
+  "kind_note": "Ritual procession relief",
+  "region": "Izeh",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "礼仪游行岩刻。",
+    "en": "Ritual procession relief.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-alvarez-mon-r4b",
+    "src-elam-potts-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

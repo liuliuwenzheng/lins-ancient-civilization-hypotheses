@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-sedeinga-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "塞丁加以大量小型麦罗埃金字塔著称，扩展了精英葬制图景。",
+    "en": "Sedeinga is noted for numerous small Meroitic pyramids, expanding the elite burial picture.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-sedeinga-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-sedeinga-r4b",
+    "src-nubia-torok-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

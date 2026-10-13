@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-bithia-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "比蒂亚",
+    "en": "Bithia",
+    "native": null
+  },
+  "kind_note": "Sardinian coastal Punic site",
+  "region": "Sardinia",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "撒丁沿海布匿遗址。",
+    "en": "Sardinian coastal Punic site.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-cempoala-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "森波阿拉",
+    "en": "Cempoala",
+    "native": null
+  },
+  "kind_note": "Totonac ally center",
+  "region": "Gulf lowlands",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "托托纳克同盟中心。",
+    "en": "Totonac ally center.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-huelva-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "韦尔瓦/奥诺巴与西南伊比利亚金属贸易密切相关。",
+    "en": "Huelva / Onoba is closely tied to southwestern Iberian metal trade.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-huelva-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

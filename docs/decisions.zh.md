@@ -1012,3 +1012,19 @@
 
 **验证：** 本轮后 `export_check` OK（40 包）。
 
+### D-2026-10-12-31 — 热门包 Round-4 Batch B 遗址/对象加厚 + fact-library 评估
+
+**决定：** 对热门包 `aztec`、`phoenician`、`anatolia-hittite`、`nubia-kush`、`elam-iran` 以**遗址/对象为重点**从 Round-3 带加厚；再按与 D-30 相同的数值 + 质量门槛评估升格。主张 ID 使用 `-r4b` 后缀。
+
+**每包大约增量：** +5 来源 · +10 遗址 · +1 时段 · +18 对象 · +8 主张 · +1 媒体。
+
+**落地带：** 约 71 来源 / 42–44 遗址 / 13 时段 / 51 对象 / 69 主张 / 11–12 媒体。
+
+**升格结果：** **无一升格。** 五包均过数值门槛，但质量/诚信未过（坐标仍仅 7–18% 已填）。五包仍为 `library-seed-rich`。**全部 10 个热门包现均 Round-4 数值档；无一 fact-library。**
+
+**坐标补填：** 本轮无新填。
+
+**报告：** [`docs/audits/pass-2026-10-12-hot-round4-b.md`](audits/pass-2026-10-12-hot-round4-b.md) · [中文](audits/pass-2026-10-12-hot-round4-b.zh.md)
+
+**验证：** 本轮后 `export_check` OK（40 包）。
+

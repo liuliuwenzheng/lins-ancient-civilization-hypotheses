@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-tabo-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "塔博加深",
+    "en": "Tabo deepen",
+    "native": null
+  },
+  "kind_note": "Island temple site",
+  "region": "Nile island",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "岛庙遗址加深。",
+    "en": "Island temple site deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-edward-r4b",
+    "src-nubia-torok-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

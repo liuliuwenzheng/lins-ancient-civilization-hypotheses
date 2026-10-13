@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-dangeil-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "丹盖勒加深",
+    "en": "Dangeil deepen",
+    "native": null
+  },
+  "kind_note": "Meroitic Amun temple town",
+  "region": "Butana",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "麦罗埃阿蒙神庙城镇加深。",
+    "en": "Meroitic Amun temple town deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-torok-r4b",
+    "src-nubia-edward-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

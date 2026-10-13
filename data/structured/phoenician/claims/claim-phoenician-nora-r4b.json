@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-nora-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "诺拉是撒丁岛腓尼基殖民网络的关键节点，以早期铭文著称。",
+    "en": "Nora is a key node in Sardinia’s Phoenician colonial network, noted for early inscriptions.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-nora-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

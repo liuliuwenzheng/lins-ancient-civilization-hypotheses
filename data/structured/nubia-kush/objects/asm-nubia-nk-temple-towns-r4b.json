@@ -1,0 +1,44 @@
+{
+  "id": "asm-nubia-nk-temple-towns-r4b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "新王国神庙城镇框架",
+    "en": "New Kingdom temple-town frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-soleb-r4b",
+    "site-nubia-amara-west-r4b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "新王国神庙城镇框架。",
+    "en": "New Kingdom temple-town frame.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-soleb-r4b",
+    "src-nubia-edward-r4b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

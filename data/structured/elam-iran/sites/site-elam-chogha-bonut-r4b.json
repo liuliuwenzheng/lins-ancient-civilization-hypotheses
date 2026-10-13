@@ -1,0 +1,33 @@
+{
+  "id": "site-elam-chogha-bonut-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "恰高·博努特加深",
+    "en": "Chogha Bonut deepen",
+    "native": null
+  },
+  "kind_note": "Early Susiana village",
+  "region": "Susiana",
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "summary": {
+    "zh": "早期苏西亚纳村落加深。",
+    "en": "Early Susiana village deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-potts-r4b",
+    "src-elam-alvarez-mon-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

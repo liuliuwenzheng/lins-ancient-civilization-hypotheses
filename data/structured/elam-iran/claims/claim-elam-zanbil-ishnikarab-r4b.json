@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-zanbil-ishnikarab-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "占比尔圣域内伊什尼卡拉布等附属神庙补足塔庙礼仪网格。",
+    "en": "Subsidiary temples such as Ishnikarab inside the Zanbil temenos complete the ziggurat ritual grid.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-zanbil-ishnikarab-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-unesco-113-r4b",
+    "src-elam-potts-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

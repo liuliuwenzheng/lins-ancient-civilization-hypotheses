@@ -1,0 +1,36 @@
+{
+  "id": "period-nubia-meroitic-r4b",
+  "entity": "period",
+  "names": {
+    "zh": "麦罗埃期加深窗R4B",
+    "en": "Meroitic deepen R4B",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "time": {
+    "label": "Meroitic kingdom floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Meroitic kingdom floruit"
+  },
+  "summary": {
+    "zh": "麦罗埃王国繁荣。",
+    "en": "Meroitic kingdom floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-torok-r4b",
+    "src-nubia-edward-r4b"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

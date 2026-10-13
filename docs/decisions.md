@@ -954,3 +954,21 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Verified:** `export_check` OK (40 packs) after this pass.
 
+### D-2026-10-12-31 — Hot densify Round-4 Batch B sites/objects + fact-library eval
+
+**Decision:** Densify hot packs `aztec`, `phoenician`, `anatolia-hittite`, `nubia-kush`, `elam-iran` with **sites/objects focus** from Round-3 band (~66/32–34/33/61) toward Egypt/Aegean/Mesopotamia-adjacent depth; then evaluate each pack for `fact-library` promotion under honest numeric + quality gates. Claim IDs use `-r4b` suffix.
+
+**Approx. per-pack delta:** +5 sources · +10 sites · +1 period · +18 objects · +8 claims · +1 media.
+
+**Landed band:** ~71 sources / 42–44 sites / 13 periods / 51 objects / 69 claims / 11–12 media.
+
+**Promotion gates:** same as D-30 (numeric sources≥65 / sites≥38 / objects≥45 / claims≥58; quality/honesty: coords not almost-all-null; orientation stubs not dominant).
+
+**Promotion outcome:** **None promoted.** All five passed numeric gates but failed quality/honesty (coords still 7–18% filled; orientation stubs remain). Status stays `library-seed-rich` for all five. **All 10 hot packs now Round-4 band numerically; none fact-library.**
+
+**Coord fills:** none this pass.
+
+**Reports:** [`docs/audits/pass-2026-10-12-hot-round4-b.md`](audits/pass-2026-10-12-hot-round4-b.md) · [中文](audits/pass-2026-10-12-hot-round4-b.zh.md)
+
+**Verified:** `export_check` OK (40 packs) after this pass.
+

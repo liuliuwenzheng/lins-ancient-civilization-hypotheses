@@ -1,0 +1,32 @@
+{
+  "id": "media-elam-unesco-r4b",
+  "entity": "media",
+  "title": {
+    "zh": "教科文：恰高·占比尔R4B",
+    "en": "UNESCO: Chogha Zanbil R4B",
+    "native": null
+  },
+  "media_type": "document-link",
+  "external_url": "https://whc.unesco.org/en/list/113/",
+  "local_path": null,
+  "object_ids": [],
+  "sources": [
+    "src-elam-unesco-113-r4b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": "UNESCO World Heritage Centre",
+    "upstream_url": "https://whc.unesco.org/en/list/113/",
+    "notes": "Outbound landing only. No forged artifact images; local_path null."
+  },
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

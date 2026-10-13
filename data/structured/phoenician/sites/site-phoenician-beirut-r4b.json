@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-beirut-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "贝鲁特加深",
+    "en": "Beirut deepen",
+    "native": null
+  },
+  "kind_note": "Coastal city stratigraphy",
+  "region": "Lebanese coast",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "沿海城市地层加深。",
+    "en": "Coastal city stratigraphy deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-markoe-r4b",
+    "src-phoenician-aubet-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-qasr-ibrim-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "卡斯尔伊布里姆保存下努比亚长时段宗教与行政堆积。",
+    "en": "Qasr Ibrim preserves long-occupation religious and administrative deposits in Lower Nubia.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-qasr-ibrim-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-edward-r4b",
+    "src-nubia-torok-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

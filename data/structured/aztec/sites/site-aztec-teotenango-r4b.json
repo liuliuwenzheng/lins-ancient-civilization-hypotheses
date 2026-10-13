@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-teotenango-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "特奥特南戈",
+    "en": "Teotenango",
+    "native": null
+  },
+  "kind_note": "Matlatzinca fortified center",
+  "region": "Toluca valley",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "马特拉钦卡要塞中心。",
+    "en": "Matlatzinca fortified center.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-calixtlahuaca-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

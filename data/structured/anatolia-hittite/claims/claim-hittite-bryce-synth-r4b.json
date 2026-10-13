@@ -1,0 +1,30 @@
+{
+  "id": "claim-hittite-bryce-synth-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Bryce《Kingdom of the Hittites》是赫梯政治史的标准综论入口。",
+    "en": "Bryce’s Kingdom of the Hittites is a standard synthetic entry to Hittite political history.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-bryce-r4b",
+    "src-hittite-seeher-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

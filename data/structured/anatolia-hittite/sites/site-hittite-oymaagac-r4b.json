@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-oymaagac-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "奥伊马阿加奇",
+    "en": "Oymaağaç",
+    "native": null
+  },
+  "kind_note": "Nerik candidate",
+  "region": "Black Sea hinterland",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "内里克候选址。",
+    "en": "Nerik candidate site.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-bryce-r4b",
+    "src-hittite-seeher-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

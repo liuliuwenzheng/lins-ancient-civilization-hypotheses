@@ -1,0 +1,43 @@
+{
+  "id": "asm-elam-achaemenid-overlap-r4b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "阿契美尼德重叠框架",
+    "en": "Achaemenid overlap frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-susa-apadana-r4b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "阿契美尼德重叠讨论框架。",
+    "en": "Achaemenid overlap discussion frame.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-potts-r4b",
+    "src-elam-alvarez-mon-r4b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-kayalipinar-r4b",
+  "entity": "claim",
+  "kind": "hypothesis",
+  "statement": {
+    "zh": "卡亚勒珀纳尔被广泛讨论为萨穆哈行省都城候选址。",
+    "en": "Kayalıpınar is widely discussed as a candidate for the provincial capital Samuha.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-kayalipinar-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-kayalipinar-r4b",
+    "src-hittite-bryce-r4b"
+  ],
+  "disclaimer": "Samuha identification at Kayalıpınar remains under active discussion.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

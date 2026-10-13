@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-cempoala-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "森波阿拉作为托托纳克中心，在接触期与西班牙—盟邦政治纠葛中被记载。",
+    "en": "Cempoala, a Totonac center, is documented in contact-period Spanish–ally politics.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-cempoala-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

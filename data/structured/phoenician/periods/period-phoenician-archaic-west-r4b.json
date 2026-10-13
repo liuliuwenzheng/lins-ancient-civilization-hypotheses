@@ -1,0 +1,36 @@
+{
+  "id": "period-phoenician-archaic-west-r4b",
+  "entity": "period",
+  "names": {
+    "zh": "古风西向殖民窗R4B",
+    "en": "Archaic western colonial R4B",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "time": {
+    "label": "Archaic western colonial expansion",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Archaic western colonial expansion"
+  },
+  "summary": {
+    "zh": "古风西向殖民扩张。",
+    "en": "Archaic western colonial expansion.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

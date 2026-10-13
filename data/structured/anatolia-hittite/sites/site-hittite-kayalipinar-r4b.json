@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-kayalipinar-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "卡亚勒珀纳尔/萨穆哈",
+    "en": "Kayalıpınar / Samuha",
+    "native": null
+  },
+  "kind_note": "Provincial capital candidate",
+  "region": "Sivas region",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "行省都城候选址。",
+    "en": "Provincial capital candidate.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-kayalipinar-r4b",
+    "src-hittite-bryce-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-wad-ban-naga-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "瓦德班纳加加深",
+    "en": "Wad ban Naqa deepen",
+    "native": null
+  },
+  "kind_note": "Meroitic palace / temple",
+  "region": "Butana",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "麦罗埃宫殿/神庙加深。",
+    "en": "Meroitic palace/temple deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-torok-r4b",
+    "src-nubia-edward-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

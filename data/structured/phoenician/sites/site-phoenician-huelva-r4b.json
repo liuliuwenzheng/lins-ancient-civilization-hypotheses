@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-huelva-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "韦尔瓦/奥诺巴",
+    "en": "Huelva / Onoba",
+    "native": null
+  },
+  "kind_note": "Atlantic metal-trade node",
+  "region": "SW Iberia",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "大西洋金属贸易节点。",
+    "en": "Atlantic metal-trade node.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

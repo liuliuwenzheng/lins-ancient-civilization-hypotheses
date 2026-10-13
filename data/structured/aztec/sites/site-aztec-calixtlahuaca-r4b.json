@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-calixtlahuaca-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "卡利斯特拉瓦卡",
+    "en": "Calixtlahuaca",
+    "native": null
+  },
+  "kind_note": "Matlatzinca / Aztec provincial center",
+  "region": "Toluca valley",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "马特拉钦卡/阿兹特克行省中心。",
+    "en": "Matlatzinca/Aztec provincial center.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-calixtlahuaca-r4b",
+    "src-aztec-smith-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

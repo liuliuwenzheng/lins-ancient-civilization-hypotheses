@@ -1,0 +1,36 @@
+{
+  "id": "period-elam-middle-r4b",
+  "entity": "period",
+  "names": {
+    "zh": "中埃兰加深窗R4B",
+    "en": "Middle Elamite deepen R4B",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "time": {
+    "label": "Middle Elamite Untash horizon",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Middle Elamite Untash horizon"
+  },
+  "summary": {
+    "zh": "中埃兰温塔什地平。",
+    "en": "Middle Elamite Untash horizon.",
+    "native": null
+  },
+  "sources": [
+    "src-elam-potts-r4b",
+    "src-elam-unesco-113-r4b"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "asm-phoenician-atlantic-trade-r4b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "大西洋贸易框架",
+    "en": "Atlantic trade frame",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-lixus-r4b",
+    "site-phoenician-huelva-r4b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "大西洋贸易框架。",
+    "en": "Atlantic trade frame.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-lixus-r4b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

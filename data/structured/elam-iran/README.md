@@ -1,9 +1,7 @@
-# Structured pack — Elam (southwestern Iran)
+# Elam (southwestern Iran) — structured pack
 
-[中文](README.zh.md) | English
+Status: `library-seed-rich` · Round-4 Batch B `D-2026-10-12-31` · Kept `library-seed-rich` (D-2026-10-12-31): Numeric OK but quality/honesty fail: coords mostly null (6/43 filled, 14%); below honesty floor for fact-library (need ~≥20% or cited P/S on key sites)
 
-**Status:** `library-seed-rich` (hot densify Round-3 Batch B, D-2026-10-12-29). Toward fact-library; not yet Egypt-level density.
+Counts: sources=71 sites=43 periods=13 objects=51 claims=69 media=12
 
-Counts: sources 66 · sites 33 · periods 12 · objects 33 · claims 61 · media 11
-
-Markdown: `data/civilizations/civ-elam-iran.md`. Run `tools/export_check.py`.
+Civ markdown: `data/civilizations/civ-elam-iran.md`

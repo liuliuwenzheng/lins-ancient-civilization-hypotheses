@@ -1,0 +1,19 @@
+{
+  "id": "src-nubia-unesco-1073-r4b",
+  "entity": "source",
+  "type": "web",
+  "citation": "UNESCO WHC — Gebel Barkal and Napatan Region Round-4 B.",
+  "url": "https://whc.unesco.org/en/list/1073/",
+  "access_date": "2026-10-12",
+  "reliability_tier": "T",
+  "notes": "WHC 1073; tier T.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

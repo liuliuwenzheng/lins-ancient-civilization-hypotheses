@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-utica-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "乌提卡是北非最重要的早期腓尼基殖民点之一，后与迦太基竞争。",
+    "en": "Utica is among the most important early Phoenician colonies in North Africa and later rivaled Carthage.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-utica-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-utica-r4b",
+    "src-phoenician-aubet-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

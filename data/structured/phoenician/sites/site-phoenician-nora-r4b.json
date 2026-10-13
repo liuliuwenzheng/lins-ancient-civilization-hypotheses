@@ -1,0 +1,33 @@
+{
+  "id": "site-phoenician-nora-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "诺拉",
+    "en": "Nora",
+    "native": null
+  },
+  "kind_note": "Sardinian Phoenician colony",
+  "region": "Sardinia",
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "summary": {
+    "zh": "撒丁腓尼基殖民点。",
+    "en": "Sardinian Phoenician colony.",
+    "native": null
+  },
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

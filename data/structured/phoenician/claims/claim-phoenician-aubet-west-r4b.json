@@ -1,0 +1,30 @@
+{
+  "id": "claim-phoenician-aubet-west-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "Aubet《Phoenicians and the West》是西向殖民研究的标准综论入口。",
+    "en": "Aubet’s Phoenicians and the West is a standard synthetic entry to western colonial studies.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

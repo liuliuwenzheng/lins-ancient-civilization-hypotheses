@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-susa-apadana-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "苏萨阿帕达纳叠压在埃兰都城之上，体现阿契美尼德对埃兰中心的再利用。",
+    "en": "The Susa Apadana overlies the Elamite capital, showing Achaemenid reuse of the Elamite center.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-susa-apadana-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-potts-r4b",
+    "src-elam-alvarez-mon-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

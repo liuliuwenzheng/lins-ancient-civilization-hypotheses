@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-malinalco-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "马利纳尔科鹰房是岩凿而成的武士礼仪建筑。",
+    "en": "The Malinalco Cuauhcalli is a rock-cut warrior ceremonial building.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [
+    "site-aztec-malinalco-cuauhcalli-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

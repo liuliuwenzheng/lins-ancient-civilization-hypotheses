@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-malinalco-cuauhcalli-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "马利纳尔科鹰房加深",
+    "en": "Malinalco Cuauhcalli deepen",
+    "native": null
+  },
+  "kind_note": "Rock-cut warrior temple",
+  "region": "Morelos",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "岩凿武士神庙加深。",
+    "en": "Rock-cut warrior temple deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

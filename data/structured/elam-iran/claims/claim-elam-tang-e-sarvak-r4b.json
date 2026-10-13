@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-tang-e-sarvak-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "坦格萨尔瓦克岩刻延续埃兰高地礼仪图像传统进入帕提亚时期。",
+    "en": "Tang-e Sarvak reliefs continue Elamite highland ritual imagery into the Parthian period.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [
+    "site-elam-tang-e-sarvak-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-elam-tang-e-sarvak-r4b",
+    "src-elam-alvarez-mon-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

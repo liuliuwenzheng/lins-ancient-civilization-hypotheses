@@ -1,0 +1,33 @@
+{
+  "id": "site-aztec-tlaloc-mount-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "特拉洛克山神祠",
+    "en": "Mount Tlaloc shrine",
+    "native": null
+  },
+  "kind_note": "Highland rain-god shrine",
+  "region": "Sierra Nevada",
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "summary": {
+    "zh": "高原雨神神祠。",
+    "en": "Highland rain-god shrine.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

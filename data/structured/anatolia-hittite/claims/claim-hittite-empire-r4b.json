@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-empire-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "帝国繁荣窗以行省都城网络与哈图沙上城建设为标志。",
+    "en": "The Empire floruit window is marked by the provincial-capital network and Hattusa upper-city building.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-hittite-empire-r4b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-bryce-r4b",
+    "src-hittite-seeher-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "claim-hittite-inandik-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "伊南迪克浮雕陶瓶是古王国祭仪图像的关键器物。",
+    "en": "The İnandık relief vase is a key object for Old Kingdom cult imagery.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-inandik-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-hittite-bryce-r4b",
+    "src-hittite-seeher-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

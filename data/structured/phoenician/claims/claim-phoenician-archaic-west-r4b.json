@@ -1,0 +1,32 @@
+{
+  "id": "claim-phoenician-archaic-west-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "古风西向殖民窗对应黎凡特城邦向中西地中海的扩张。",
+    "en": "The Archaic western colonial window corresponds to Levantine city-state expansion into the central–western Mediterranean.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-phoenician-archaic-west-r4b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

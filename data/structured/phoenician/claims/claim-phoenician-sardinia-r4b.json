@@ -1,0 +1,34 @@
+{
+  "id": "claim-phoenician-sardinia-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "诺拉、蒙特西拉伊与比蒂亚构成撒丁布匿定居网络的一部分。",
+    "en": "Nora, Monte Sirai and Bithia form part of Sardinia’s Punic settlement network.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-phoenician"
+  ],
+  "site_ids": [
+    "site-phoenician-nora-r4b",
+    "site-phoenician-monte-sirai-r4b",
+    "site-phoenician-bithia-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-phoenician-aubet-r4b",
+    "src-phoenician-markoe-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

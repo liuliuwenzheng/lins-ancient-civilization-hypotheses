@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-soleb-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "索莱布阿蒙神庙是新王国在上努比亚的重要官方神庙。",
+    "en": "The Soleb Amun temple is a major New Kingdom official temple in Upper Nubia.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [
+    "site-nubia-soleb-r4b"
+  ],
+  "period_ids": [],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-soleb-r4b",
+    "src-nubia-edward-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

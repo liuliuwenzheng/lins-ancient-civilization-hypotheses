@@ -1,0 +1,43 @@
+{
+  "id": "asm-hittite-kings-gate-r4b",
+  "entity": "object",
+  "object_kind": "assemblage",
+  "names": {
+    "zh": "国王门组合",
+    "en": "King's Gate assemblage",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "site_ids": [
+    "site-hittite-kings-gate-r4b"
+  ],
+  "period_ids": [],
+  "summary": {
+    "zh": "上城城门组合。",
+    "en": "Upper-city gate assemblage.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-seeher-r4b",
+    "src-hittite-unesco-377-r4b"
+  ],
+  "rights": {
+    "status": "outbound-link-only",
+    "license": null,
+    "attribution": null,
+    "upstream_url": null,
+    "notes": "Metadata-only assemblage; no forged plates or museum numbers."
+  },
+  "media_ids": [],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

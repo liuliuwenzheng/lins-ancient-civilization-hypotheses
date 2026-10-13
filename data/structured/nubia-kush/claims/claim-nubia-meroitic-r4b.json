@@ -1,0 +1,32 @@
+{
+  "id": "claim-nubia-meroitic-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "麦罗埃繁荣窗以金字塔墓地、阿蒙神庙城镇与边缘行政点扩张为标志。",
+    "en": "The Meroitic floruit window is marked by pyramid necropolises, Amun temple towns and peripheral admin expansion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-nubia-meroitic-r4b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-nubia-torok-r4b",
+    "src-nubia-edward-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

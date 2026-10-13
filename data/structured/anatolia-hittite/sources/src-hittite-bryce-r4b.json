@@ -1,0 +1,19 @@
+{
+  "id": "src-hittite-bryce-r4b",
+  "entity": "source",
+  "type": "monograph",
+  "citation": "Bryce — The Kingdom of the Hittites deepen Round-4 B.",
+  "url": null,
+  "access_date": null,
+  "reliability_tier": "S",
+  "notes": "Political synthesis R4B.",
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

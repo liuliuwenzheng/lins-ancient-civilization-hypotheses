@@ -1,0 +1,32 @@
+{
+  "id": "claim-aztec-late-pc-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "晚后古典窗对应三联同盟扩张与行省神庙网络铺开。",
+    "en": "The Late Postclassic window corresponds to Triple Alliance expansion and provincial temple-network rollout.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-aztec-late-postclassic-r4b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

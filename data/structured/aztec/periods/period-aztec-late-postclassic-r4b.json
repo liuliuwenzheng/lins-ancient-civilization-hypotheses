@@ -1,0 +1,36 @@
+{
+  "id": "period-aztec-late-postclassic-r4b",
+  "entity": "period",
+  "names": {
+    "zh": "晚后古典加深窗R4B",
+    "en": "Late Postclassic deepen R4B",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-aztec"
+  ],
+  "time": {
+    "label": "Late Postclassic Triple Alliance floruit",
+    "approx_from_bce": null,
+    "approx_to_bce": null,
+    "scheme_note": "Late Postclassic Triple Alliance floruit"
+  },
+  "summary": {
+    "zh": "晚后古典三联同盟繁荣。",
+    "en": "Late Postclassic Triple Alliance floruit.",
+    "native": null
+  },
+  "sources": [
+    "src-aztec-smith-r4b",
+    "src-aztec-matos-r4b"
+  ],
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

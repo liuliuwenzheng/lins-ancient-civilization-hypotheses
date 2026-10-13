@@ -1,0 +1,32 @@
+{
+  "id": "claim-elam-middle-r4b",
+  "entity": "claim",
+  "kind": "fact",
+  "statement": {
+    "zh": "中埃兰窗以占比尔圣域建设与低地神庙网络扩张为标志。",
+    "en": "The Middle Elamite window is marked by Zanbil temenos building and lowland temple-network expansion.",
+    "native": null
+  },
+  "civilization_ids": [
+    "civ-elam-iran"
+  ],
+  "site_ids": [],
+  "period_ids": [
+    "period-elam-middle-r4b"
+  ],
+  "object_ids": [],
+  "sources": [
+    "src-elam-potts-r4b",
+    "src-elam-unesco-113-r4b"
+  ],
+  "disclaimer": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

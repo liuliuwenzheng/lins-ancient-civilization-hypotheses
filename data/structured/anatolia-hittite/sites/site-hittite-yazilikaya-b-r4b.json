@@ -1,0 +1,33 @@
+{
+  "id": "site-hittite-yazilikaya-b-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "亚兹勒卡亚B室加深",
+    "en": "Yazılıkaya Chamber B deepen",
+    "native": null
+  },
+  "kind_note": "Rock sanctuary chamber",
+  "region": "Boğazkale",
+  "civilization_ids": [
+    "civ-anatolia-hittite"
+  ],
+  "summary": {
+    "zh": "岩刻圣所B室加深。",
+    "en": "Rock-sanctuary Chamber B deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-hittite-seeher-r4b",
+    "src-hittite-unesco-377-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}

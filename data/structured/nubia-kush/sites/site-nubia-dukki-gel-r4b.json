@@ -1,0 +1,33 @@
+{
+  "id": "site-nubia-dukki-gel-r4b",
+  "entity": "site",
+  "names": {
+    "zh": "杜基盖尔加深",
+    "en": "Dukki Gel deepen",
+    "native": null
+  },
+  "kind_note": "Kerma / Napatan temple town",
+  "region": "Dongola Reach",
+  "civilization_ids": [
+    "civ-nubia-kush"
+  ],
+  "summary": {
+    "zh": "克尔玛/纳帕塔神庙城镇加深。",
+    "en": "Kerma/Napatan temple town deepen.",
+    "native": null
+  },
+  "sources": [
+    "src-nubia-edward-r4b",
+    "src-nubia-torok-r4b"
+  ],
+  "coordinates": null,
+  "editorial": {
+    "derived_from": [
+      "tools/hot_densify/densify_hot_round4_b.py",
+      "docs/coverage-map.md",
+      "docs/decisions.md#d-2026-10-12-31"
+    ],
+    "derived_on": "2026-10-12",
+    "notes": "Hot densify Round-4 Batch B sites/objects + promotion eval (D-2026-10-12-31). No invented pages/coords/finds/media. Promote only if numeric AND quality gates pass."
+  }
+}
