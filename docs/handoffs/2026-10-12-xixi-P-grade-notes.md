@@ -117,7 +117,7 @@ P 级的定义是「发掘报告/简报/官方地名词典」。中国和中美�
 
 ---
 
-## 五、工具（在 `E:\Xixi_Workspace\工具\古文明坐标\`）
+## 五、工具（在本机「古文明坐标」工具目录）
 
 | 文件 | 作用 |
 |---|---|
@@ -127,7 +127,7 @@ P 级的定义是「发掘报告/简报/官方地名词典」。中国和中美�
 | `跑全量.py` | 批量跑——**我没跑完，因为结果不可信** |
 
 ```bash
-PY="C:/Users/Administrator/AppData/Local/hermes/hermes-agent/venv/Scripts/python.exe"
+PY="python"  # 本机 Python；勿把 Hermes/账号绝对路径写进公开仓
 curl -x http://127.0.0.1:7890 https://whc.unesco.org/en/list/xml -o whc_all.xml
 "$PY" UNESCO升级.py && "$PY" 合P级.py
 ```

@@ -181,7 +181,7 @@ SELECT ?s ?sLabel ?coord WHERE {
 ## 5. 协作方式（按老大定的来）
 
 - 不装 Hermes 直连 box；不走假 agent id。
-- 交接都落 `E:\Xixi_Workspace\_收件箱\`（你写不进去就放 Downloads，我来搬——这次我就是从 Downloads 搬的）。
+- 交接都落共享工作区「收件箱」（你写不进去就放 Downloads，我来搬——这次我就是从 Downloads 搬的）。
 - 下次要什么，按这次的格式（站点名 + 要什么字段 + 优先级）写清单，我这边可以**直接跑脚本批量回传**。
 
 ## 6. 补记 · SPARQL 追加命中（2026-10-12 15:57）
