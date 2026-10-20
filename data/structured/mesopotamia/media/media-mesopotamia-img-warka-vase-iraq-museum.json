@@ -15,7 +15,7 @@
   "external_url": "https://commons.wikimedia.org/wiki/File:Warka_Vase,_Iraq_Museum.jpg",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Warka_Vase%2C_Iraq_Museum.jpg",
   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Warka_Vase%2C_Iraq_Museum.jpg/960px-Warka_Vase%2C_Iraq_Museum.jpg",
-  "local_path": null,
+  "local_path": "data/media-files/mesopotamia/media-mesopotamia-img-warka-vase-iraq-museum.jpg",
   "object_ids": [],
   "site_ids": [
     "site-uruk"
@@ -29,7 +29,7 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Osama Shukir Muhammed Amin FRCP(Glasg)",
     "upstream_url": "https://commons.wikimedia.org/wiki/File:Warka_Vase,_Iraq_Museum.jpg",
-    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY-SA 4.0', Artist='Osama Shukir Muhammed Amin FRCP(Glasg)', Credit='Own work'. Hotlinked from Wikimedia; no binary in repo."
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY-SA 4.0', Artist='Osama Shukir Muhammed Amin FRCP(Glasg)', Credit='Own work'. Web-sized copy (≤1600 px, JPEG) committed at local_path per user request 2026-10-20; upstream URLs kept as fallback. ShareAlike: the repo copy (resized only) is redistributed under the same license."
   },
   "editorial": {
     "derived_from": [
@@ -38,6 +38,6 @@
       "docs/decisions.md#d-2026-10-20-01"
     ],
     "derived_on": "2026-10-20",
-    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated. Local copy: resized/re-encoded only, no other edits."
   }
 }

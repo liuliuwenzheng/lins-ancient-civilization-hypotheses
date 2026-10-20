@@ -15,7 +15,7 @@
   "external_url": "https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(2).jpg",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%282%29.jpg",
   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%282%29.jpg/960px-The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%282%29.jpg",
-  "local_path": null,
+  "local_path": "data/media-files/egypt/media-egypt-img-narmer-palette-verso-mortel.jpg",
   "object_ids": [
     "asm-narmer-palette-main-deposit"
   ],
@@ -31,7 +31,7 @@
     "license_url": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Richard Mortel",
     "upstream_url": "https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(2).jpg",
-    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 2.0', Artist='Richard Mortel', Credit='https://www.flickr.com/photos/prof_richard/52087069333/'. Hotlinked from Wikimedia; no binary in repo."
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 2.0', Artist='Richard Mortel', Credit='https://www.flickr.com/photos/prof_richard/52087069333/'. Web-sized copy (≤1600 px, JPEG) committed at local_path per user request 2026-10-20; upstream URLs kept as fallback."
   },
   "editorial": {
     "derived_from": [
@@ -40,6 +40,6 @@
       "docs/decisions.md#d-2026-10-20-01"
     ],
     "derived_on": "2026-10-20",
-    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated. Local copy: resized/re-encoded only, no other edits."
   }
 }

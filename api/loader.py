@@ -116,6 +116,10 @@ class ArchiveStore:
         ids = list(media.get("sources") or [])
         out["source_ids"] = ids
         out["sources"] = self.expand_sources(ids)
+        lp = media.get("local_path") or ""
+        prefix = "data/media-files/"
+        # Served by the API at /media-files/… (static mount); UI prefers it, falls back to upstream.
+        out["local_url"] = "/media-files/" + lp[len(prefix):] if lp.startswith(prefix) else None
         return out
 
     def public(self, record: dict[str, Any]) -> dict[str, Any]:

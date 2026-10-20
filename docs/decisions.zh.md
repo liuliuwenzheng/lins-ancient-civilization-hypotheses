@@ -1169,9 +1169,9 @@
 
 ### D-2026-10-20-01 — 页内配图试点（埃及 + 两河）与权利闸门
 
-**决定：** 允许在 `/ui` 中**热链真实图片**，仅限通过**嵌入闸门**的媒体记录；先在 `egypt`、`mesopotamia` 两包试点。仓内不存图片二进制（`local_path` 仍为 null），图片从官方主机加载（`upload.wikimedia.org` / `thumb.wikimedia.org` / `images.metmuseum.org`）。
+**决定：** 允许在 `/ui` 中展示**真实图片**，仅限通过**嵌入闸门**的媒体记录；先在 `egypt`、`mesopotamia` 两包试点。**同日按用户要求修订：** 每张通过闸门的图片同时以网页尺寸副本（长边 ≤1600 px、JPEG、<500 KB，仅缩放）**公开存入仓库** `data/media-files/<包名>/<media-id>.jpg`（`local_path`），每个目录附 `ATTRIBUTION.md`（标题、作者、许可及链接、来源页、上游图片；CC BY-SA 注明相同方式共享），并有目录 `README.md` 与根 README 说明 MIT 不覆盖这些图片。保留上游 URL（`upload.wikimedia.org` / `thumb.wikimedia.org` / `images.metmuseum.org`）作回退。凡非明确开放许可者一律只外链、不下载。
 
-**嵌入闸门（`tools/export_check.py` 强制）：** 存在 `image_url`/`thumb_url` ⇒ `media_type: embedded-image`、`rights.status: rights-cleared`、`rights.license` 仅限公有领域 / CC0 / CC BY / CC BY-SA（不含 NC/ND/OGL/自定义许可），且 `rights.license_url`、`rights.attribution`、`rights.upstream_url` 非空；`external_url` 为来源页；中英 `caption` 齐全；至少 1 条已登记 `src-*`（`sources/*.md` + 包内 JSON）；至少关联 1 个包内存在的 `object_ids`/`site_ids`。Schema：`media.schema.json` 新增 `caption`、`image_url`、`thumb_url`（主机白名单正则）、`site_ids`、类型 `embedded-image`；`Rights` 新增 `license_url`。保持 `additionalProperties: false`。
+**嵌入闸门（`tools/export_check.py` 强制）：** 存在 `image_url`/`thumb_url` ⇒ `media_type: embedded-image`、`rights.status: rights-cleared`、`rights.license` 仅限公有领域 / CC0 / CC BY / CC BY-SA（不含 NC/ND/OGL/自定义许可），且 `rights.license_url`、`rights.attribution`、`rights.upstream_url` 非空；`external_url` 为来源页；中英 `caption` 齐全；至少 1 条已登记 `src-*`（`sources/*.md` + 包内 JSON）；至少关联 1 个包内存在的 `object_ids`/`site_ids`。**本地文件闸门：** 只有上述记录可设 `local_path`，路径须为 `data/media-files/<包名>/<id>.<jpg|webp>`，文件存在、<600 KB，且列入该目录 `ATTRIBUTION.md`（CC BY-SA 须有相同方式共享声明）。Schema：`media.schema.json` 的 `local_path` 改为 string|null（路径白名单），并新增 `caption`、`image_url`、`thumb_url`（主机白名单正则）、`site_ids`、类型 `embedded-image`；`Rights` 新增 `license_url`。保持 `additionalProperties: false`。
 
 **逐图核验（2026-10-20）：** Commons 走 API `imageinfo` + `extmetadata`（`LicenseShortName`、`LicenseUrl`、`Artist`、`Credit`、`ImageDescription`），署名照抄 `Artist`。大都会走 Collection API `/v1/objects/{id}`，`isPublicDomain=true`（开放获取 CC0）；说明中的名称、年代、材质、出土地、发掘、馆藏号、入藏信息均抄自记录；署名为「The Metropolitan Museum of Art, New York. {creditLine}」。（大都会 `/v1/search` 已于 2026-10-01 下线，检索改用 `/v1.1/search`。）每张缩略图均已目视核对与说明一致；`tools/check_media_images.py` 对 42 个 URL 做 HEAD 检查 → 全部 200 `image/jpeg`。每张图各有一条 T 档 `src-{pack}-img-*` 来源。
 
@@ -1182,7 +1182,7 @@
 
 **否决及原因：** Commons 上「Narmer Palette.jpg」「(obverse)」「smiting side」「serpopard side」与乌尔军旗「War」——标「公有领域」但作者匿名、来源为第三方网站，权利依据无法核实。「Narmer Palette, recto.jpg」标为 Quibell 1898 图版 13，实为 narmer.org 的现代线图，出处含糊。纳尔迈调色板**复制品/石膏模型**（大英博物馆模型照片 Gary Todd / Mike Peel；ROM 等大复制品；1898 年复制品）——已有原件照片，不用。Djehouty 2019 组照（CC BY-SA 4.0）合规但均为局部。阿拜多斯 Osireion——作者为「推定」，署名不清。乌鲁克遗址照（英国皇家空军/国防部）——OGL v1.0，不在允许范围。乌鲁克白庙平面图（鲁汶大学 EuroPhot）——作者与年代不明的公有领域声明。大都会 31.6.8 美杜姆群鹅——现代摹本；美杜姆木乃伊盒——`isPublicDomain=false`。310 px 的美杜姆小图。大英博物馆自有图片——默认非 CC。
 
-**界面：** 媒体页签先列已核验图片（懒加载 `<img>`，`alt` = 说明，`referrerpolicy=no-referrer`），附说明 · 许可（链接到许可文本）· 署名 · 来源页 · 原图；外链资料仍为链接卡片。档案报告顶部一条克制的图带（≤4 张，优先关联文物、每遗址一张），点击跳转媒体页签。遗址卡按 `site_ids` 显示缩略图。图片加载失败：移除 `<img>`，保留说明与链接。
+**接口/界面：** API 把 `data/media-files` 挂载为 `/media-files/`，媒体记录增加 `local_url`；UI 优先加载本地文件，失败回退上游 URL，再失败则隐藏图片。媒体页签先列已核验图片（懒加载 `<img>`，`alt` = 说明，`referrerpolicy=no-referrer`），附说明 · 许可（链接到许可文本）· 署名 · 来源页 · 原图；外链资料仍为链接卡片。档案报告顶部一条克制的图带（≤4 张，优先关联文物、每遗址一张），点击跳转媒体页签。遗址卡按 `site_ids` 显示缩略图。图片加载失败：移除 `<img>`，保留说明与链接。
 
 **设计：** [`docs/entry-detail-ui.zh.md`](entry-detail-ui.zh.md) · [English](entry-detail-ui.md)
 

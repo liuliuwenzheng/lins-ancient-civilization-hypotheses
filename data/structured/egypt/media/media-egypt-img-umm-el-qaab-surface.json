@@ -15,7 +15,7 @@
   "external_url": "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab_1.jpg",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Umm_el-Qa%27ab_1.jpg",
   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Umm_el-Qa%27ab_1.jpg",
-  "local_path": null,
+  "local_path": "data/media-files/egypt/media-egypt-img-umm-el-qaab-surface.jpg",
   "object_ids": [
     "asm-abydos-royal-tomb-assemblage"
   ],
@@ -31,7 +31,7 @@
     "license_url": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "E M",
     "upstream_url": "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab_1.jpg",
-    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 2.0', Artist='E M', Credit='_IGP2283'. Hotlinked from Wikimedia; no binary in repo."
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 2.0', Artist='E M', Credit='_IGP2283'. Web-sized copy (≤1600 px, JPEG) committed at local_path per user request 2026-10-20; upstream URLs kept as fallback."
   },
   "editorial": {
     "derived_from": [
@@ -40,6 +40,6 @@
       "docs/decisions.md#d-2026-10-20-01"
     ],
     "derived_on": "2026-10-20",
-    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated. Local copy: resized/re-encoded only, no other edits."
   }
 }

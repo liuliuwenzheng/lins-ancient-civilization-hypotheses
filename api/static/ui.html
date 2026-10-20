@@ -260,7 +260,7 @@
       <div class="brand">
         <p class="eyebrow" data-i="eyebrow">Read-only archive</p>
         <h1 data-i="title">Lin's Ancient Civilization Hypotheses</h1>
-        <p class="lede" data-i="lede">Browse structured packs. Facts and hypotheses stay labeled. Typography carries the craft — no forged artifact imagery.</p>
+        <p class="lede" data-i="lede">Browse structured packs. Facts and hypotheses stay labeled. Images only when real, sourced, and openly licensed — no forged artifact imagery.</p>
       </div>
       <div class="controls">
         <div class="seg" role="group" aria-label="Language">
@@ -777,14 +777,18 @@
 
     function isEmbeddable(m) {
       const r = m.rights || {};
-      return m.media_type === "embedded-image" && !!(m.thumb_url || m.image_url)
+      return m.media_type === "embedded-image" && !!(m.local_url || m.thumb_url || m.image_url)
         && r.status === "rights-cleared" && !!r.license && !!r.attribution;
     }
 
     function figImg(m, cls) {
       const alt = txt(m.caption) || txt(m.title) || m.id;
-      return `<img src="${esc(m.thumb_url || m.image_url)}" alt="${esc(alt)}" loading="lazy" decoding="async"
-        referrerpolicy="no-referrer" data-fallback="${esc(cls || "")}" />`;
+      // Prefer the repo copy served by the API; fall back to the upstream URL, then hide.
+      const upstream = m.thumb_url || m.image_url || "";
+      const primary = m.local_url || upstream;
+      const alt2 = (m.local_url && upstream && upstream !== primary) ? upstream : "";
+      return `<img src="${esc(primary)}" alt="${esc(alt)}" loading="lazy" decoding="async"
+        referrerpolicy="no-referrer" data-fallback="${esc(cls || "")}" data-alt-src="${esc(alt2)}" />`;
     }
 
     function renderFigure(m) {
@@ -795,8 +799,9 @@
       const page = m.external_url
         ? ` · <a href="${esc(m.external_url)}" target="_blank" rel="noopener noreferrer">${esc(t("sourcePage"))}</a>`
         : "";
-      const full = m.image_url
-        ? ` · <a href="${esc(m.image_url)}" target="_blank" rel="noopener noreferrer">${esc(t("fullImage"))}</a>`
+      const fullHref = m.local_url || m.image_url;
+      const full = fullHref
+        ? ` · <a href="${esc(fullHref)}" target="_blank" rel="noopener noreferrer">${esc(t("fullImage"))}</a>`
         : "";
       return `<figure class="fig-card" id="fig-${esc(m.id)}">
         <a class="fig-img" href="${esc(m.external_url || m.image_url)}" target="_blank" rel="noopener noreferrer">${figImg(m, "fig-img")}</a>
@@ -930,6 +935,13 @@
         el.querySelectorAll("img[data-fallback]").forEach((img) => {
           const kind = img.getAttribute("data-fallback");
           const onErr = () => {
+            const next = img.getAttribute("data-alt-src");
+            if (next) {
+              img.setAttribute("data-alt-src", "");
+              img.addEventListener("error", onErr, { once: true });
+              img.src = next;
+              return;
+            }
             const wrap = img.parentElement;
             img.remove();
             // keep caption + links; collapse strip/thumb cells that are image-only

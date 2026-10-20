@@ -15,7 +15,7 @@
   "external_url": "https://commons.wikimedia.org/wiki/File:Spelterini_Pyramids.jpg",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Spelterini_Pyramids.jpg",
   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Spelterini_Pyramids.jpg/960px-Spelterini_Pyramids.jpg",
-  "local_path": null,
+  "local_path": "data/media-files/egypt/media-egypt-img-giza-spelterini-balloon.jpg",
   "object_ids": [
     "asm-giza-petrie-1883",
     "asm-old-kingdom-pyramids"
@@ -32,7 +32,7 @@
     "license_url": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain",
     "attribution": "Eduard Spelterini",
     "upstream_url": "https://commons.wikimedia.org/wiki/File:Spelterini_Pyramids.jpg",
-    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='Public domain', Artist='Eduard Spelterini', Credit='Scanned from Spelterini, E.: Über den Wolken/Par dessus les nuages, Brunner & Co, Zürich 1928, p. 88.'. Hotlinked from Wikimedia; no binary in repo."
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='Public domain', Artist='Eduard Spelterini', Credit='Scanned from Spelterini, E.: Über den Wolken/Par dessus les nuages, Brunner & Co, Zürich 1928, p. 88.'. Web-sized copy (≤1600 px, JPEG) committed at local_path per user request 2026-10-20; upstream URLs kept as fallback."
   },
   "editorial": {
     "derived_from": [
@@ -41,6 +41,6 @@
       "docs/decisions.md#d-2026-10-20-01"
     ],
     "derived_on": "2026-10-20",
-    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated. Local copy: resized/re-encoded only, no other edits."
   }
 }

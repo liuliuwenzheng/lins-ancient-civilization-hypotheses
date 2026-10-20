@@ -15,7 +15,7 @@
   "external_url": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser_2,_Ancient_Egypt.jpg",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Saqqara%2C_Pyramid_of_Djoser_2%2C_Ancient_Egypt.jpg",
   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Saqqara%2C_Pyramid_of_Djoser_2%2C_Ancient_Egypt.jpg/960px-Saqqara%2C_Pyramid_of_Djoser_2%2C_Ancient_Egypt.jpg",
-  "local_path": null,
+  "local_path": "data/media-files/egypt/media-egypt-img-djoser-step-pyramid.jpg",
   "object_ids": [
     "asm-saqqara-step-pyramid",
     "asm-saqqara-step-pyramid-lauer"
@@ -32,7 +32,7 @@
     "license_url": "https://creativecommons.org/licenses/by/4.0",
     "attribution": "Vyacheslav Argenberg",
     "upstream_url": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser_2,_Ancient_Egypt.jpg",
-    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 4.0', Artist='Vyacheslav Argenberg', Credit='Own work'. Hotlinked from Wikimedia; no binary in repo."
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 4.0', Artist='Vyacheslav Argenberg', Credit='Own work'. Web-sized copy (≤1600 px, JPEG) committed at local_path per user request 2026-10-20; upstream URLs kept as fallback."
   },
   "editorial": {
     "derived_from": [
@@ -41,6 +41,6 @@
       "docs/decisions.md#d-2026-10-20-01"
     ],
     "derived_on": "2026-10-20",
-    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated. Local copy: resized/re-encoded only, no other edits."
   }
 }

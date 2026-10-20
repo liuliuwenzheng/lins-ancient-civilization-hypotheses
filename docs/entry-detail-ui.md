@@ -111,7 +111,7 @@ Register a media record only when **all** hold:
 | Honesty | No AI / forged artifact images; no decorative stock; `local_path` stays null |
 | Preference | Site maps, excavation-report digitizations, museum open collections, UNESCO galleries |
 
-Do **not** download copyrighted binaries into the repo. Thin packs may keep document-link media only until a verified visual URL exists.
+Do **not** download copyrighted binaries into the repo (only openly licensed copies under `data/media-files/`, see below). Thin packs may keep document-link media only until a verified visual URL exists.
 
 ### Embedded images (D-2026-10-20-01)
 
@@ -120,7 +120,8 @@ Hotlinked real images are allowed when the **embed gate** passes (enforced by `e
 | Field | Rule |
 |-------|------|
 | `media_type` | `embedded-image` |
-| `image_url` / `thumb_url` | Official host only: `upload.wikimedia.org`, `thumb.wikimedia.org`, `images.metmuseum.org` (schema pattern). No binaries in repo. |
+| `image_url` / `thumb_url` | Upstream on official host only: `upload.wikimedia.org`, `thumb.wikimedia.org`, `images.metmuseum.org` (schema pattern); kept as fallback. |
+| `local_path` | Web-sized repo copy `data/media-files/<pack>/<id>.jpg` (≤1600 px, <500 KB, resized only), listed in `data/media-files/<pack>/ATTRIBUTION.md`; CC BY-SA ⇒ ShareAlike notice. Not clearly open ⇒ no local copy. |
 | `rights` | `status: rights-cleared`; `license` ∈ Public Domain / CC0 / CC BY / CC BY-SA; `license_url`, `attribution` (exactly as the source gives it), `upstream_url` required |
 | `external_url` | The Commons file page or museum object page |
 | `caption` | zh + en, factual: what it is, institution + accession if the source gives them; casts/replicas/facsimiles must say so (pilot uses none) |
@@ -128,7 +129,7 @@ Hotlinked real images are allowed when the **embed gate** passes (enforced by `e
 
 Verification per image: Commons API `imageinfo`/`extmetadata`; Met Collection API `isPublicDomain=true`; visual check of the thumbnail against the caption; `python3 tools/check_media_images.py <pack>` (HEAD → 200 `image/*`).
 
-UI: Media tab shows verified figures first (lazy load, `alt` = caption, license + attribution + source page), outbound items stay link cards; the report view gets a ≤4-image strip linking to the Media tab; site cards show thumbs for matching `site_ids`; a broken image is removed while caption/links remain.
+UI: images load from the API static mount `/media-files/…` (`local_url`), falling back to the upstream URL. Media tab shows verified figures first (lazy load, `alt` = caption, license + attribution + source page), outbound items stay link cards; the report view gets a ≤4-image strip linking to the Media tab; site cards show thumbs for matching `site_ids`; a broken image is removed while caption/links remain.
 
 Pilot: Egypt 12, Mesopotamia 9 — see [`decisions.md#d-2026-10-20-01`](decisions.md).
 

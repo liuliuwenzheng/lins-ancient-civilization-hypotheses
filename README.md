@@ -139,3 +139,5 @@ Council seat names refer to **AI-generated thinking lenses** from FHLS-perspecti
 Code and documentation: **MIT** — see [`LICENSE`](LICENSE).
 
 Cited third-party texts, images, and data remain under their original rights. Do not paste copyrighted material wholesale; link and cite instead. Do not upload forged or mislabeled artifact imagery.
+
+**Image files:** `data/media-files/` holds web-sized copies of openly licensed images (Public Domain / CC0 / CC BY / CC BY-SA). The MIT license does **not** apply to them; each keeps its own license, with author, license URL, and source page listed in `data/media-files/<pack>/ATTRIBUTION.md`. CC BY-SA files are shared alike. See [`data/media-files/README.md`](data/media-files/README.md).

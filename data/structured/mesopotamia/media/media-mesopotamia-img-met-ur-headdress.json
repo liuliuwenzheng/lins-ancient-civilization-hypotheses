@@ -15,7 +15,7 @@
   "external_url": "https://www.metmuseum.org/art/collection/search/322903",
   "image_url": "https://images.metmuseum.org/CRDImages/an/original/DP226592.jpg",
   "thumb_url": "https://images.metmuseum.org/CRDImages/an/web-large/DP226592.jpg",
-  "local_path": null,
+  "local_path": "data/media-files/mesopotamia/media-mesopotamia-img-met-ur-headdress.jpg",
   "object_ids": [
     "asm-ur-royal-cemetery-ue2"
   ],
@@ -32,7 +32,7 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "attribution": "The Metropolitan Museum of Art, New York. Dodge Fund, 1933",
     "upstream_url": "https://www.metmuseum.org/art/collection/search/322903",
-    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/322903: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/322903: isPublicDomain=true (Open Access, CC0). Web-sized copy (≤1600 px, JPEG) committed at local_path per user request 2026-10-20; upstream URLs kept as fallback."
   },
   "editorial": {
     "derived_from": [
@@ -41,6 +41,6 @@
       "docs/decisions.md#d-2026-10-20-01"
     ],
     "derived_on": "2026-10-20",
-    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated. Local copy: resized/re-encoded only, no other edits."
   }
 }

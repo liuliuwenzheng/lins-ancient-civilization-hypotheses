@@ -106,6 +106,38 @@ def _is_open_license(lic: str) -> bool:
     return bool(re.match(r"^cc by(-sa)? \d", low))
 
 
+MAX_LOCAL_BYTES = 600_000
+
+
+def local_file_gate_errors(path: Path, pack: Path, data: dict, registry: set[str]) -> list[str]:
+    """Repo-stored image copies: open license + embed gate + file present, small, attributed."""
+    rel = path.relative_to(ROOT)
+    lp = data.get("local_path") or ""
+    out: list[str] = []
+    if not (data.get("image_url") or data.get("thumb_url")):
+        out.append(f"{rel}: local file gate FAIL — local_path requires upstream image_url (fallback + provenance)")
+    expected_prefix = f"data/media-files/{pack.name}/{data.get('id')}."
+    if not lp.startswith(expected_prefix):
+        out.append(f"{rel}: local file gate FAIL — local_path must be {expected_prefix}<jpg|webp>")
+    f = ROOT / lp
+    if not f.is_file():
+        out.append(f"{rel}: local file gate FAIL — {lp} missing")
+    else:
+        if f.stat().st_size > MAX_LOCAL_BYTES:
+            out.append(f"{rel}: local file gate FAIL — {lp} is {f.stat().st_size} bytes (> {MAX_LOCAL_BYTES})")
+        attr = f.parent / "ATTRIBUTION.md"
+        text = attr.read_text(encoding="utf-8") if attr.is_file() else ""
+        if f"`{f.name}`" not in text:
+            out.append(f"{rel}: local file gate FAIL — {f.name} not listed in {attr.relative_to(ROOT)}")
+        lic = (data.get("rights") or {}).get("license") or ""
+        if "BY-SA" in lic.upper() and "ShareAlike" not in text:
+            out.append(f"{rel}: local file gate FAIL — CC BY-SA file needs ShareAlike notice in ATTRIBUTION.md")
+    if not (data.get("image_url") or data.get("thumb_url")):
+        # still enforce rights even if no upstream URL
+        out.extend(embed_gate_errors(path, pack, data, registry))
+    return out
+
+
 def embed_gate_errors(path: Path, pack: Path, data: dict, registry: set[str]) -> list[str]:
     """D-2026-10-20-01 image gate: embedded images need cleared open rights + attribution + source."""
     rel = path.relative_to(ROOT)
@@ -193,10 +225,7 @@ def check_pack(pack: Path, store: dict, registry: set[str], errors: list[str]) -
 
             if entity == "media":
                 if data.get("local_path") is not None:
-                    errors.append(
-                        f"{path.relative_to(ROOT)}: local_path must be null "
-                        "(unverified uploads forbidden)"
-                    )
+                    errors.extend(local_file_gate_errors(path, pack, data, registry))
                 rights = data.get("rights") or {}
                 if rights.get("status") == "forbidden-unverified-upload":
                     errors.append(
@@ -263,6 +292,7 @@ def main() -> int:
         print(line)
     print("  citation gate: fact claims require non-empty resolvable sources[]")
     print("  embed gate: image_url requires rights-cleared PD/CC0/CC BY/CC BY-SA + attribution + src-* + linked site/object")
+    print("  local file gate: local_path only for gated images; file <600KB under data/media-files/<pack>/ and listed in ATTRIBUTION.md")
     return 0
 
 

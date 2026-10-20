@@ -84,6 +84,11 @@ def create_app() -> FastAPI:
     if static_dir.is_dir():
         app.mount("/ui/static", StaticFiles(directory=str(static_dir)), name="ui-static")
 
+    # D-2026-10-20-01: openly licensed web-sized image copies (see data/media-files/*/ATTRIBUTION.md)
+    media_files_dir = Path(__file__).resolve().parents[1] / "data" / "media-files"
+    if media_files_dir.is_dir():
+        app.mount("/media-files", StaticFiles(directory=str(media_files_dir)), name="media-files")
+
     @app.get("/")
     @app.get("/api/v1/")
     @app.get("/api/v1")

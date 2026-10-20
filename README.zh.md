@@ -138,3 +138,5 @@ lins-ancient-civilization-hypotheses/
 代码与文档：**MIT** — 见 [`LICENSE`](LICENSE)。
 
 所引第三方文本、图像与数据仍属原权利人。勿整篇粘贴受版权保护材料；请链接并引用。勿上传伪造或错标的文物影像。
+
+**图片文件：** `data/media-files/` 存放开放许可图片（公有领域 / CC0 / CC BY / CC BY-SA）的网页尺寸副本。MIT 许可**不**适用于这些图片；每张图保留自身许可，作者、许可链接与来源页见 `data/media-files/<包名>/ATTRIBUTION.md`。CC BY-SA 图片按相同方式共享。详见 [`data/media-files/README.md`](data/media-files/README.md)。

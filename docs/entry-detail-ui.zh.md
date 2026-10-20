@@ -89,7 +89,7 @@ GET /api/v1/civilizations/{id}/report
 | 诚实 | 无 AI/伪造文物图；无装饰性图库；`local_path` 保持 null |
 | 优先 | 遗址图、发掘报告数字化本、博物馆开放目录、教科文组织图库 |
 
-**不要**把受版权二进制下载进仓库。在核验到可视化 URL 之前，包内可仅保留文档外链媒体。
+**不要**把受版权二进制下载进仓库（仅开放许可副本可存于 `data/media-files/`，见下）。在核验到可视化 URL 之前，包内可仅保留文档外链媒体。
 
 ### 页内嵌图（D-2026-10-20-01）
 
@@ -98,7 +98,8 @@ GET /api/v1/civilizations/{id}/report
 | 字段 | 规则 |
 |------|------|
 | `media_type` | `embedded-image` |
-| `image_url` / `thumb_url` | 仅官方主机：`upload.wikimedia.org`、`thumb.wikimedia.org`、`images.metmuseum.org`（schema 正则）。仓内不存二进制。 |
+| `image_url` / `thumb_url` | 上游地址，仅官方主机：`upload.wikimedia.org`、`thumb.wikimedia.org`、`images.metmuseum.org`（schema 正则）；作回退保留。 |
+| `local_path` | 仓内网页尺寸副本 `data/media-files/<包名>/<id>.jpg`（≤1600 px、<500 KB、仅缩放），须列入该目录 `ATTRIBUTION.md`；CC BY-SA 须注明相同方式共享。非明确开放许可者不存本地副本。 |
 | `rights` | `status: rights-cleared`；`license` 仅限公有领域 / CC0 / CC BY / CC BY-SA；必须有 `license_url`、`attribution`（照抄来源署名）、`upstream_url` |
 | `external_url` | Commons 文件页或博物馆藏品页 |
 | `caption` | 中英双语、只写事实：是什么、来源给出的收藏机构与馆藏号；石膏模型/复制品/摹本必须注明（本次试点未收） |
@@ -106,7 +107,7 @@ GET /api/v1/civilizations/{id}/report
 
 逐图核验：Commons API `imageinfo`/`extmetadata`；大都会 Collection API `isPublicDomain=true`；目视核对缩略图与说明一致；`python3 tools/check_media_images.py <包名>`（HEAD → 200 `image/*`）。
 
-界面：媒体页签先列已核验图片（懒加载、`alt` = 说明、许可 + 署名 + 来源页），外链资料仍为链接卡片；档案报告顶部 ≤4 张图带，点击跳到媒体页签；遗址卡按 `site_ids` 显示缩略图；图片失效时移除 `<img>`，保留说明与链接。
+界面：图片优先从 API 静态挂载 `/media-files/…`（`local_url`）加载，失败回退上游 URL。媒体页签先列已核验图片（懒加载、`alt` = 说明、许可 + 署名 + 来源页），外链资料仍为链接卡片；档案报告顶部 ≤4 张图带，点击跳到媒体页签；遗址卡按 `site_ids` 显示缩略图；图片失效时移除 `<img>`，保留说明与链接。
 
 试点：埃及 12 张、两河 9 张——见 [`decisions.zh.md#d-2026-10-20-01`](decisions.zh.md)。
 
