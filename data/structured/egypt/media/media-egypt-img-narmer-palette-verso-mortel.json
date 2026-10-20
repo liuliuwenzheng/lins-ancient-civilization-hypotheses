@@ -1,0 +1,45 @@
+{
+  "id": "media-egypt-img-narmer-palette-verso-mortel",
+  "entity": "media",
+  "title": {
+    "zh": "纳尔迈调色板（双蛇颈兽面），开罗埃及博物馆",
+    "en": "Narmer Palette (serpopard side), Egyptian Museum, Cairo",
+    "native": null
+  },
+  "caption": {
+    "zh": "纳尔迈调色板原件另一面（两只长颈兽交颈、中央研磨凹槽）实物照片，藏开罗埃及博物馆。照片 Richard Mortel 摄。",
+    "en": "Photograph of the original Narmer Palette, side with two intertwined serpopards around the grinding recess, Egyptian Museum, Cairo. Photo by Richard Mortel.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(2).jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%282%29.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%282%29.jpg/960px-The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%282%29.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-narmer-palette-main-deposit"
+  ],
+  "site_ids": [
+    "site-hierakonpolis"
+  ],
+  "sources": [
+    "src-egypt-img-narmer-palette-verso-mortel"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Richard Mortel",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(2).jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 2.0', Artist='Richard Mortel', Credit='https://www.flickr.com/photos/prof_richard/52087069333/'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(2).jpg",
+      "sources/src-egypt-img-narmer-palette-verso-mortel.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

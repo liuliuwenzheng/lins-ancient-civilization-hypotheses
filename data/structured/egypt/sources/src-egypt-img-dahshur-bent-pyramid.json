@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-img-dahshur-bent-pyramid",
+  "entity": "source",
+  "type": "image-record",
+  "citation": "Wikimedia Commons. File:Bent Pyramid of Snofru.jpg. Author/artist: Darer101. License: CC BY-SA 4.0.",
+  "url": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_of_Snofru.jpg",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "Wikimedia Commons record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_of_Snofru.jpg"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

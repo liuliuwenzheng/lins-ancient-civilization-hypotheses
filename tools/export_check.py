@@ -12,6 +12,7 @@ in sources/*.md and in the same pack's sources/{id}.json.
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -97,6 +98,50 @@ def discover_packs() -> list[Path]:
     return packs
 
 
+def _is_open_license(lic: str) -> bool:
+    """PD / CC0 / CC BY / CC BY-SA only (no NC, no ND, no bespoke licences)."""
+    low = (lic or "").strip().lower()
+    if low.startswith("public domain") or low.startswith("cc0"):
+        return True
+    return bool(re.match(r"^cc by(-sa)? \d", low))
+
+
+def embed_gate_errors(path: Path, pack: Path, data: dict, registry: set[str]) -> list[str]:
+    """D-2026-10-20-01 image gate: embedded images need cleared open rights + attribution + source."""
+    rel = path.relative_to(ROOT)
+    out: list[str] = []
+    rights = data.get("rights") or {}
+    if rights.get("status") != "rights-cleared":
+        out.append(f"{rel}: embed gate FAIL — image_url requires rights.status=rights-cleared")
+    if not _is_open_license(rights.get("license") or ""):
+        out.append(f"{rel}: embed gate FAIL — license {rights.get('license')!r} not PD/CC0/CC BY/CC BY-SA")
+    for key in ("license_url", "attribution", "upstream_url"):
+        if not (rights.get(key) or "").strip():
+            out.append(f"{rel}: embed gate FAIL — rights.{key} required for embedded image")
+    if not (data.get("external_url") or "").strip():
+        out.append(f"{rel}: embed gate FAIL — external_url (source page) required")
+    cap = data.get("caption") or {}
+    if not ((cap.get("zh") or "").strip() and (cap.get("en") or "").strip()):
+        out.append(f"{rel}: embed gate FAIL — caption.zh and caption.en required")
+    srcs = data.get("sources") or []
+    if not srcs:
+        out.append(f"{rel}: embed gate FAIL — sources[] required")
+    for sid in srcs:
+        if sid not in registry:
+            out.append(f"{rel}: embed gate FAIL — unknown source id {sid!r} (no sources/{sid}.md)")
+        if not (pack / "sources" / f"{sid}.json").exists():
+            out.append(f"{rel}: embed gate FAIL — pack sources/{sid}.json missing")
+    if not (data.get("object_ids") or data.get("site_ids")):
+        out.append(f"{rel}: embed gate FAIL — image must link object_ids or site_ids")
+    for sid in data.get("site_ids") or []:
+        if not (pack / "sites" / f"{sid}.json").exists():
+            out.append(f"{rel}: embed gate FAIL — site {sid!r} not in pack")
+    for oid in data.get("object_ids") or []:
+        if not (pack / "objects" / f"{oid}.json").exists():
+            out.append(f"{rel}: embed gate FAIL — object {oid!r} not in pack")
+    return out
+
+
 def check_pack(pack: Path, store: dict, registry: set[str], errors: list[str]) -> dict[str, int]:
     counts = {k: 0 for k in ("sources", "sites", "periods", "objects", "claims", "media")}
     rel_pack = pack.relative_to(ROOT)
@@ -157,6 +202,8 @@ def check_pack(pack: Path, store: dict, registry: set[str], errors: list[str]) -
                     errors.append(
                         f"{path.relative_to(ROOT)}: rights.status forbidden-unverified-upload"
                     )
+                if data.get("image_url") or data.get("thumb_url"):
+                    errors.extend(embed_gate_errors(path, pack, data, registry))
 
     civ_path = pack / "civilization.json"
     if civ_path.exists():
@@ -215,6 +262,7 @@ def main() -> int:
     for line in summaries:
         print(line)
     print("  citation gate: fact claims require non-empty resolvable sources[]")
+    print("  embed gate: image_url requires rights-cleared PD/CC0/CC BY/CC BY-SA + attribution + src-* + linked site/object")
     return 0
 
 

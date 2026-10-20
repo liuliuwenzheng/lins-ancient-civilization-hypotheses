@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-img-ur-ziggurat-2005",
+  "entity": "source",
+  "type": "image-record",
+  "citation": "Wikimedia Commons. File:Ancient ziggurat at Ali Air Base Iraq 2005.jpg. Author/artist: en:User:Hardnfast. License: CC BY 3.0.",
+  "url": "https://commons.wikimedia.org/wiki/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "Wikimedia Commons record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

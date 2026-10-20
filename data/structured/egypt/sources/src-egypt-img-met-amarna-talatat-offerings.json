@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-img-met-amarna-talatat-offerings",
+  "entity": "source",
+  "type": "museum-catalog",
+  "citation": "The Metropolitan Museum of Art. Talatat with Offerings in the Temple. Accession 21.9.8. ca. 1347–1330 BCE. Gift of Edward S. Harkness, 1921. Collection API object 572218.",
+  "url": "https://www.metmuseum.org/art/collection/search/572218",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "The Metropolitan Museum of Art record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/572218"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

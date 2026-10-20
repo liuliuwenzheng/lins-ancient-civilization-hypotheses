@@ -1,0 +1,45 @@
+{
+  "id": "media-egypt-img-met-lisht-senwosret-ritual-scene",
+  "entity": "media",
+  "title": {
+    "zh": "利什特塞努塞尔特一世祭庙浮雕（大都会 14.3.6）",
+    "en": "Ritual scene with Senwosret I, Lisht (Met 14.3.6)",
+    "native": null
+  },
+  "caption": {
+    "zh": "彩绘石灰岩浮雕「塞努塞尔特一世仪式场景」，中王国第十二王朝（约前 1961–1917 年）；出自南利什特塞努塞尔特一世金字塔祭庙，大都会博物馆发掘。大都会艺术博物馆藏，馆藏号 14.3.6。",
+    "en": "Painted limestone relief 'Ritual Scene with Senwosret I', Middle Kingdom, Dynasty 12 (ca. 1961–1917 B.C.); from the Pyramid Temple of Senwosret I, Lisht South, MMA excavations. The Metropolitan Museum of Art, accession 14.3.6.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/548349",
+  "image_url": "https://images.metmuseum.org/CRDImages/eg/original/EG14.3.6.JPG",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/eg/web-large/EG14.3.6.JPG",
+  "local_path": null,
+  "object_ids": [
+    "asm-lisht-senwosret-i"
+  ],
+  "site_ids": [
+    "site-lisht"
+  ],
+  "sources": [
+    "src-egypt-img-met-lisht-senwosret-ritual-scene"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Rogers Fund and Edward S. Harkness Gift, 1914",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/548349",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/548349: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/548349",
+      "sources/src-egypt-img-met-lisht-senwosret-ritual-scene.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

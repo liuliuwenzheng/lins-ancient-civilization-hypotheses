@@ -1,0 +1,43 @@
+{
+  "id": "media-egypt-img-met-giza-reserve-head",
+  "entity": "media",
+  "title": {
+    "zh": "吉萨备用头像（大都会 48.156）",
+    "en": "Reserve head from Giza (Met 48.156)",
+    "native": null
+  },
+  "caption": {
+    "zh": "石灰岩备用头像，古王国第四王朝（胡夫或哈夫拉在位期间，约前 2551–2528 年）；出自吉萨东墓地 G7560 号马斯塔巴 B 竖井，哈佛—波士顿美术馆 1936 年发掘。大都会艺术博物馆藏，馆藏号 48.156。",
+    "en": "Limestone reserve head, Old Kingdom, Dynasty 4 (reign of Khufu or Khafre, ca. 2551–2528 BCE); from Giza, Eastern Cemetery, Mastaba G7560, Pit G7560 B, Harvard-Boston MFA excavations 1936. The Metropolitan Museum of Art, accession 48.156.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/543909",
+  "image_url": "https://images.metmuseum.org/CRDImages/eg/original/48.156(1).JPG",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/eg/web-large/48.156(1).JPG",
+  "local_path": null,
+  "object_ids": [],
+  "site_ids": [
+    "site-giza"
+  ],
+  "sources": [
+    "src-egypt-img-met-giza-reserve-head"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Rogers Fund, 1948",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/543909",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/543909: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/543909",
+      "sources/src-egypt-img-met-giza-reserve-head.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

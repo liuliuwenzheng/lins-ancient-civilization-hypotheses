@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-img-met-lisht-senwosret-ritual-scene",
+  "entity": "source",
+  "type": "museum-catalog",
+  "citation": "The Metropolitan Museum of Art. Ritual Scene with Senwosret I. Accession 14.3.6. ca. 1961–1917 B.C.. Rogers Fund and Edward S. Harkness Gift, 1914. Collection API object 548349.",
+  "url": "https://www.metmuseum.org/art/collection/search/548349",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "The Metropolitan Museum of Art record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/548349"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

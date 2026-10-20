@@ -1,0 +1,45 @@
+{
+  "id": "media-mesopotamia-img-ur-ziggurat-2005",
+  "entity": "media",
+  "title": {
+    "zh": "乌尔塔庙（2005 年现场照片）",
+    "en": "Ziggurat of Ur (site photograph, 2005)",
+    "native": null
+  },
+  "caption": {
+    "zh": "乌尔塔庙现场照片（2005 年；原文件标题称其位于 Ali 空军基地旁）。",
+    "en": "Site photograph of the Ziggurat of Ur (2005; original file title places it at Ali Air Base).",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg/960px-Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-ur-ziggurat-ue5"
+  ],
+  "site_ids": [
+    "site-ur"
+  ],
+  "sources": [
+    "src-mesopotamia-img-ur-ziggurat-2005"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "en:User:Hardnfast",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 3.0', Artist='en:User:Hardnfast', Credit='en-WP: http://en.wikipedia.org/wiki/Image:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+      "sources/src-mesopotamia-img-ur-ziggurat-2005.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

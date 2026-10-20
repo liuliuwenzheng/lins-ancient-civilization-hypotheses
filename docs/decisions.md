@@ -1110,3 +1110,24 @@ Major **P** (Sanxingdui/Jinsha): Pit 1–2 *Wenwu* briefs 1987/1989 (+ existing 
 
 **Implement:** API `_period_sort_key`; `enrich_media`; UI Media tab; `export_check` unchanged beyond new records.
 
+
+### D-2026-10-20-01 — Embedded image pilot (Egypt + Mesopotamia) under a rights gate
+
+**Decision:** Allow **hotlinked, real** images in `/ui` for media records that pass an **embed gate**; pilot on `egypt` and `mesopotamia`. No binaries enter the repo (`local_path` stays null); images load from the official host (`upload.wikimedia.org` / `thumb.wikimedia.org` / `images.metmuseum.org`).
+
+**Embed gate (enforced in `tools/export_check.py`):** `image_url`/`thumb_url` present ⇒ `media_type: embedded-image`, `rights.status: rights-cleared`, `rights.license` ∈ Public Domain / CC0 / CC BY *n* / CC BY-SA *n* (no NC/ND/OGL/bespoke), non-empty `rights.license_url` + `rights.attribution` + `rights.upstream_url`, `external_url` = source page, bilingual `caption`, ≥1 `src-*` registered (`sources/*.md` + pack JSON), and ≥1 linked `object_ids`/`site_ids` that exist in the pack. Schema: `media.schema.json` gains `caption`, `image_url`, `thumb_url` (host-pinned pattern), `site_ids`, enum `embedded-image`; `Rights` gains `license_url`. `additionalProperties: false` kept.
+
+**Per-image verification (2026-10-20):** Commons — API `imageinfo` + `extmetadata` (`LicenseShortName`, `LicenseUrl`, `Artist`, `Credit`, `ImageDescription`); attribution copied from `Artist`. Met — Collection API `/v1/objects/{id}` with `isPublicDomain=true` (Open Access, CC0); caption fields (title, date, medium, findspot, excavation, accession, credit line) copied from the record; attribution = “The Metropolitan Museum of Art, New York. {creditLine}”. (Met `/v1/search` was retired 2026-10-01; discovery used `/v1.1/search`.) Every thumbnail was visually checked against its caption; `tools/check_media_images.py` HEAD-checks all 42 URLs → 200 `image/jpeg`. Each image has its own tier-T `src-{pack}-img-*` record.
+
+**Counts:** Egypt **12** (8 Commons, 4 Met), Mesopotamia **9** (3 Commons, 6 Met). Outbound document/catalog media unchanged (Egypt 8, Mesopotamia 7).
+
+- Egypt: Narmer Palette ×2 (both faces, Egyptian Museum Cairo, Richard Mortel, CC BY 2.0); Umm el-Qa'ab surface (E M, CC BY 2.0); Step Pyramid of Djoser (Vyacheslav Argenberg, CC BY 4.0); Meidum pyramid (Charlie Phillips, CC BY 2.0); Bent Pyramid, Dahshur (Darer101, CC BY-SA 4.0); Giza from a balloon (Eduard Spelterini, public domain); Hatshepsut temple, Deir el-Bahari (Argenberg, CC BY 4.0); Met 36.1.131 Naqada II decorated jar, Hierakonpolis Hk 27; Met 48.156 reserve head, Giza G7560; Met 14.3.6 ritual scene with Senwosret I, Lisht; Met 21.9.8 Amarna talatat (Petrie/Carter 1891–92).
+- Mesopotamia: Warka Vase IM19606 (Osama Shukir Muhammed Amin, CC BY-SA 4.0); Standard of Ur “Peace” (LeastCommonAncestor after geni, CC BY-SA 3.0 — Commons user photo, not a British Museum image); Ziggurat of Ur 2005 (Hardnfast, CC BY 3.0); Met 1988.433.1 proto-cuneiform tablet (“probably from Uruk”, purchased); Met 40.156 worshiper, Tell Asmar; Met 51.25.3 female figure, Khafajah; Met 33.35.3 headdress, Ur; Met 32.143.10 relief, Nimrud; Met 31.13.2 striding lion, Babylon.
+
+**Rejected (and why):** Commons Narmer “Narmer Palette.jpg” / “(obverse)” / “smiting side” / “serpopard side” and Standard of Ur “War” — “public domain” with anonymous author and third-party web credit: rights basis not verifiable. “Narmer Palette, recto.jpg” labelled Quibell 1898 pl. 13 — appears to be a modern line drawing credited to narmer.org: provenance ambiguous. Narmer **casts/replicas** (British Museum cast photos by Gary Todd / Mike Peel; ROM full-size reproduction; 1898 replica) — originals available, so not used. Djehouty 2019 Narmer set (CC BY-SA 4.0) — valid but details only. Osireion at Abydos — author “assumed”, attribution unclear. Uruk site photos (RAF/UK MOD) — OGL v1.0, outside allowed set. Uruk White Temple plan (KU Leuven EuroPhot) — PD claim with unknown author/date. Met 31.6.8 Meidum geese — a modern facsimile; Met Meidum cartonnage — `isPublicDomain=false`. Small (310 px) Meidum file. British Museum's own images — not CC by default.
+
+**UI:** Media tab renders verified images first (lazy `<img>`, `alt` = caption, `referrerpolicy=no-referrer`), with caption · license (linked deed) · attribution · source page · full image; outbound-only items stay link cards. Report view shows a restrained ≤4-image strip (prefer object-linked, one per site) linking into the Media tab. Site cards show thumbs for media whose `site_ids` match. Broken images: `<img>` removed, caption/links kept.
+
+**Design:** [`docs/entry-detail-ui.md`](entry-detail-ui.md) · [中文](entry-detail-ui.zh.md)
+
+**Follow-ups:** extend to other hot packs one by one under the same gate; Cleveland / AIC / Smithsonian open-access sources not needed for this pilot; consider a periodic `check_media_images.py` run (hotlinks can rot).

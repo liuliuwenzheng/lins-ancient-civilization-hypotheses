@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-img-met-khafajah-standing-female",
+  "entity": "source",
+  "type": "museum-catalog",
+  "citation": "The Metropolitan Museum of Art. Standing female figure. Accession 51.25.3. ca. 2700–2600 BCE. Rogers Fund and Gifts of Lucy W. Drexel, Theodore M. Davis, Helen Miller Gould, Albert Gallatin, Egypt Exploration Fund and Egyptian Research Account, by exchange, 1950. Collection API object 324117.",
+  "url": "https://www.metmuseum.org/art/collection/search/324117",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "The Metropolitan Museum of Art record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/324117"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

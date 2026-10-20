@@ -1,0 +1,46 @@
+{
+  "id": "media-mesopotamia-img-met-ur-headdress",
+  "entity": "media",
+  "title": {
+    "zh": "乌尔头饰（大都会 33.35.3）",
+    "en": "Headdress from Ur (Met 33.35.3)",
+    "native": null
+  },
+  "caption": {
+    "zh": "金、青金石、红玉髓头饰，早王朝 IIIa 期（约前 2600–2500 年），出自乌尔（今穆卡亚尔丘）。大都会艺术博物馆藏，馆藏号 33.35.3。",
+    "en": "Headdress, gold, lapis lazuli, carnelian; Early Dynastic IIIa, ca. 2600–2500 BCE; from Ur (modern Tell al-Muqayyar). The Metropolitan Museum of Art, accession 33.35.3.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/322903",
+  "image_url": "https://images.metmuseum.org/CRDImages/an/original/DP226592.jpg",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/an/web-large/DP226592.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-ur-royal-cemetery-ue2"
+  ],
+  "site_ids": [
+    "site-ur-royal-cemetery",
+    "site-ur"
+  ],
+  "sources": [
+    "src-mesopotamia-img-met-ur-headdress"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Dodge Fund, 1933",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/322903",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/322903: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/322903",
+      "sources/src-mesopotamia-img-met-ur-headdress.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

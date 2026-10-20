@@ -1,0 +1,45 @@
+{
+  "id": "media-mesopotamia-img-met-khafajah-standing-female",
+  "entity": "media",
+  "title": {
+    "zh": "哈法杰站立女性像（大都会 51.25.3）",
+    "en": "Standing female figure, Khafajah (Met 51.25.3)",
+    "native": null
+  },
+  "caption": {
+    "zh": "石膏雪花石站立女性像（头部缺失），早王朝 II 期（约前 2700–2600 年），出自哈法杰。大都会艺术博物馆藏，馆藏号 51.25.3。",
+    "en": "Standing female figure (head missing), gypsum alabaster; Early Dynastic II, ca. 2700–2600 BCE; from Khafajah. The Metropolitan Museum of Art, accession 51.25.3.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/324117",
+  "image_url": "https://images.metmuseum.org/CRDImages/an/original/DP-25666-001.jpg",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/an/web-large/DP-25666-001.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-diyala-sculpture-oip44"
+  ],
+  "site_ids": [
+    "site-khafajah"
+  ],
+  "sources": [
+    "src-mesopotamia-img-met-khafajah-standing-female"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Rogers Fund and Gifts of Lucy W. Drexel, Theodore M. Davis, Helen Miller Gould, Albert Gallatin, Egypt Exploration Fund and Egyptian Research Account, by exchange, 1950",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/324117",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/324117: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/324117",
+      "sources/src-mesopotamia-img-met-khafajah-standing-female.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

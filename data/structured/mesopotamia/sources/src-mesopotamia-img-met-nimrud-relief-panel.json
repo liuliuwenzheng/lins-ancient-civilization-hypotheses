@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-img-met-nimrud-relief-panel",
+  "entity": "source",
+  "type": "museum-catalog",
+  "citation": "The Metropolitan Museum of Art. Relief panel. Accession 32.143.10. ca. 883–859 BCE. Gift of John D. Rockefeller Jr., 1932. Collection API object 322617.",
+  "url": "https://www.metmuseum.org/art/collection/search/322617",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "The Metropolitan Museum of Art record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/322617"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-mesopotamia-img-standard-of-ur-peace",
+  "entity": "source",
+  "type": "image-record",
+  "citation": "Wikimedia Commons. File:Standard of Ur - Peace.jpg. Author/artist: LeastCommonAncestor (derived from File:Standard of ur peace 2013.JPG by user:geni). License: CC BY-SA 3.0.",
+  "url": "https://commons.wikimedia.org/wiki/File:Standard_of_Ur_-_Peace.jpg",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "Wikimedia Commons record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Standard_of_Ur_-_Peace.jpg"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

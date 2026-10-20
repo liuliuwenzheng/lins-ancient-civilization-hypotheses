@@ -1,0 +1,45 @@
+{
+  "id": "media-egypt-img-met-amarna-talatat-offerings",
+  "entity": "media",
+  "title": {
+    "zh": "阿玛尔纳大阿顿神庙塔拉塔特石块（大都会 21.9.8）",
+    "en": "Talatat with offerings, Great Temple of the Aten, Amarna (Met 21.9.8)",
+    "native": null
+  },
+  "caption": {
+    "zh": "石灰岩塔拉塔特石块「神庙中的供品」，新王国第十八王朝阿肯那顿时期（约前 1347–1330 年）；出自阿玛尔纳大阿顿神庙南墙外坑，Petrie/Carter 1891–92 年发掘。大都会艺术博物馆藏，馆藏号 21.9.8。",
+    "en": "Limestone talatat 'Talatat with Offerings in the Temple', New Kingdom, Dynasty 18, reign of Akhenaten (ca. 1347–1330 BCE); from Amarna, Great Temple of the Aten, pit outside southern wall, Petrie/Carter excavations 1891–92. The Metropolitan Museum of Art, accession 21.9.8.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/572218",
+  "image_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-21_9_8_EGDP036528.jpg",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-21_9_8_EGDP036528.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-amarna-petrie-1894"
+  ],
+  "site_ids": [
+    "site-amarna"
+  ],
+  "sources": [
+    "src-egypt-img-met-amarna-talatat-offerings"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Gift of Edward S. Harkness, 1921",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/572218",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/572218: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/572218",
+      "sources/src-egypt-img-met-amarna-talatat-offerings.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-img-umm-el-qaab-surface",
+  "entity": "source",
+  "type": "image-record",
+  "citation": "Wikimedia Commons. File:Umm el-Qa'ab 1.jpg. Author/artist: E M. License: CC BY 2.0.",
+  "url": "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab_1.jpg",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "Wikimedia Commons record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab_1.jpg"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

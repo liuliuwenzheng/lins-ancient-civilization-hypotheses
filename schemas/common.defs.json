@@ -50,6 +50,7 @@
           "enum": ["unknown", "outbound-link-only", "rights-cleared", "forbidden-unverified-upload"]
         },
         "license": { "type": ["string", "null"] },
+        "license_url": { "type": ["string", "null"], "description": "Canonical license deed URL (required for embedded images)" },
         "attribution": { "type": ["string", "null"] },
         "upstream_url": { "type": ["string", "null"] },
         "notes": { "type": ["string", "null"] }

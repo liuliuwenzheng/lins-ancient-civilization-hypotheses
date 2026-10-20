@@ -1,0 +1,45 @@
+{
+  "id": "media-mesopotamia-img-met-proto-cuneiform-tablet",
+  "entity": "media",
+  "title": {
+    "zh": "原始楔形文字行政泥板（大都会 1988.433.1）",
+    "en": "Proto-cuneiform administrative tablet (Met 1988.433.1)",
+    "native": null
+  },
+  "caption": {
+    "zh": "原始楔形文字泥板，带滚印印痕：大麦分配行政账目，杰姆代特奈斯尔期（约前 3100–2900 年），馆方注明「可能出自乌鲁克（今瓦尔卡）」（非科学发掘品，1988 年购藏）。大都会艺术博物馆藏，馆藏号 1988.433.1。",
+    "en": "Proto-cuneiform tablet with seal impressions: administrative account of barley distribution, Jemdet Nasr, ca. 3100–2900 BCE; museum states 'probably from Uruk (modern Warka)' (not from a recorded excavation; purchased 1988). The Metropolitan Museum of Art, accession 1988.433.1.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/329081",
+  "image_url": "https://images.metmuseum.org/CRDImages/an/original/DP293243.jpg",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/an/web-large/DP293243.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-proto-cuneiform-admin"
+  ],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "sources": [
+    "src-mesopotamia-img-met-proto-cuneiform-tablet"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Purchase, Raymond and Beverly Sackler Gift, 1988",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/329081",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/329081: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/329081",
+      "sources/src-mesopotamia-img-met-proto-cuneiform-tablet.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

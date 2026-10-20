@@ -1,0 +1,46 @@
+{
+  "id": "media-egypt-img-giza-spelterini-balloon",
+  "entity": "media",
+  "title": {
+    "zh": "吉萨金字塔群（Spelterini 气球航拍，早期历史照片）",
+    "en": "Giza pyramids from a balloon (Spelterini, historical photograph)",
+    "native": null
+  },
+  "caption": {
+    "zh": "Eduard Spelterini 自约 600 米高气球俯拍的吉萨金字塔群历史照片（左起孟卡拉、哈夫拉、胡夫），刊于 Spelterini《Über den Wolken》（苏黎世 1928）第 88 页。",
+    "en": "Historical photograph of the Giza pyramids taken by Eduard Spelterini from a balloon at about 600 m (left to right: Menkaure, Khafre, Khufu); scanned from Spelterini, Über den Wolken (Zürich 1928), p. 88.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Spelterini_Pyramids.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Spelterini_Pyramids.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Spelterini_Pyramids.jpg/960px-Spelterini_Pyramids.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-giza-petrie-1883",
+    "asm-old-kingdom-pyramids"
+  ],
+  "site_ids": [
+    "site-giza"
+  ],
+  "sources": [
+    "src-egypt-img-giza-spelterini-balloon"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Copyright_tags#Public_domain",
+    "attribution": "Eduard Spelterini",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Spelterini_Pyramids.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='Public domain', Artist='Eduard Spelterini', Credit='Scanned from Spelterini, E.: Über den Wolken/Par dessus les nuages, Brunner & Co, Zürich 1928, p. 88.'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Spelterini_Pyramids.jpg",
+      "sources/src-egypt-img-giza-spelterini-balloon.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

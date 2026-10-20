@@ -1,0 +1,43 @@
+{
+  "id": "media-egypt-img-dahshur-bent-pyramid",
+  "entity": "media",
+  "title": {
+    "zh": "达赫舒尔弯曲金字塔",
+    "en": "Bent Pyramid, Dahshur",
+    "native": null
+  },
+  "caption": {
+    "zh": "达赫舒尔斯尼夫鲁弯曲金字塔现场照片（2023 年 3 月摄）。",
+    "en": "Site photograph of the Bent Pyramid of Sneferu at Dahshur (taken March 2023).",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_of_Snofru.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bent_Pyramid_of_Snofru.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bent_Pyramid_of_Snofru.jpg/960px-Bent_Pyramid_of_Snofru.jpg",
+  "local_path": null,
+  "object_ids": [],
+  "site_ids": [
+    "site-dahshur"
+  ],
+  "sources": [
+    "src-egypt-img-dahshur-bent-pyramid"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Darer101",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_of_Snofru.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY-SA 4.0', Artist='Darer101', Credit='Own work'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_of_Snofru.jpg",
+      "sources/src-egypt-img-dahshur-bent-pyramid.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

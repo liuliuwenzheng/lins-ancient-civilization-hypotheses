@@ -1,0 +1,43 @@
+{
+  "id": "media-egypt-img-deir-el-bahari-hatshepsut",
+  "entity": "media",
+  "title": {
+    "zh": "戴尔巴哈里哈特谢普苏特神庙",
+    "en": "Temple of Hatshepsut, Deir el-Bahari",
+    "native": null
+  },
+  "caption": {
+    "zh": "底比斯西岸戴尔巴哈里哈特谢普苏特神庙柱廊立面现场照片；Naville 发掘报告所述遗址。",
+    "en": "Site photograph of the colonnaded terraces of Hatshepsut's temple at Deir el-Bahari, western Thebes; site of Naville's excavation reports.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Temple_of_Hatshepsut,_Deir_el-Bahari,_Luxor,_Egypt.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Temple_of_Hatshepsut%2C_Deir_el-Bahari%2C_Luxor%2C_Egypt.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Temple_of_Hatshepsut%2C_Deir_el-Bahari%2C_Luxor%2C_Egypt.jpg/960px-Temple_of_Hatshepsut%2C_Deir_el-Bahari%2C_Luxor%2C_Egypt.jpg",
+  "local_path": null,
+  "object_ids": [],
+  "site_ids": [
+    "site-deir-el-bahari"
+  ],
+  "sources": [
+    "src-egypt-img-deir-el-bahari-hatshepsut"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Vyacheslav Argenberg",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Temple_of_Hatshepsut,_Deir_el-Bahari,_Luxor,_Egypt.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 4.0', Artist='Vyacheslav Argenberg', Credit='Own work'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Temple_of_Hatshepsut,_Deir_el-Bahari,_Luxor,_Egypt.jpg",
+      "sources/src-egypt-img-deir-el-bahari-hatshepsut.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

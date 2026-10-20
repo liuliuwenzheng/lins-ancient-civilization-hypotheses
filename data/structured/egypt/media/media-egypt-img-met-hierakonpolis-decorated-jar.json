@@ -1,0 +1,43 @@
+{
+  "id": "media-egypt-img-met-hierakonpolis-decorated-jar",
+  "entity": "media",
+  "title": {
+    "zh": "希拉孔波利斯彩绘陶罐（大都会 36.1.131）",
+    "en": "Decorated ware jar from Hierakonpolis (Met 36.1.131)",
+    "native": null
+  },
+  "caption": {
+    "zh": "纳盖达二期彩绘陶罐，约公元前 3500 年；出自希拉孔波利斯 Fort Cemetery (Hk 27) 6 号墓，大都会博物馆 1934–35 年发掘。大都会艺术博物馆藏，馆藏号 36.1.131。",
+    "en": "Decorated ware jar, Predynastic Naqada II, ca. 3500 BCE; from Hierakonpolis, Fort Cemetery (Hk 27), Tomb 6, MMA excavations 1934–35. The Metropolitan Museum of Art, accession 36.1.131.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/547143",
+  "image_url": "https://images.metmuseum.org/CRDImages/eg/original/MMA36.1.131.jpg",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/eg/web-large/MMA36.1.131.jpg",
+  "local_path": null,
+  "object_ids": [],
+  "site_ids": [
+    "site-hierakonpolis"
+  ],
+  "sources": [
+    "src-egypt-img-met-hierakonpolis-decorated-jar"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Rogers Fund, 1936",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/547143",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/547143: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/547143",
+      "sources/src-egypt-img-met-hierakonpolis-decorated-jar.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

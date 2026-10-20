@@ -232,6 +232,25 @@
     .scheme-note { font-family: var(--sans); font-size: 12px; color: var(--muted); margin: 0 0 8px; }
     .media-meta { font-family: var(--sans); font-size: 13px; color: var(--muted); margin: 6px 0; }
     .media-actions { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .fig-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; margin: 0 0 18px; }
+    .fig-card { margin: 0; border: 1px solid var(--line); border-radius: 12px; overflow: hidden; background: var(--bg-elev); display: flex; flex-direction: column; }
+    .fig-img { display: block; aspect-ratio: 4 / 3; background: color-mix(in srgb, var(--line) 35%, transparent); }
+    .fig-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .fig-card figcaption { padding: 10px 12px 12px; font-family: var(--sans); font-size: 13px; line-height: 1.5; }
+    .fig-card .fig-title { font-weight: 600; margin: 0 0 4px; font-family: var(--font); font-size: 14px; }
+    .fig-card .fig-cap { margin: 0 0 6px; }
+    .fig-card .fig-rights { margin: 0; color: var(--muted); font-size: 12px; }
+    .fig-card .fig-rights a { color: var(--muted); }
+    .fig-strip { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin: 0 0 6px; max-width: 46rem; }
+    .fig-strip a { display: block; aspect-ratio: 1 / 1; border-radius: 8px; overflow: hidden; border: 1px solid var(--line); background: color-mix(in srgb, var(--line) 35%, transparent); }
+    .fig-strip img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .fig-strip-note { font-family: var(--sans); font-size: 12px; color: var(--muted); margin: 0 0 18px; max-width: 46rem; }
+    .fig-strip-note button { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; }
+    .site-thumbs { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 4px; }
+    .site-thumbs a { display: block; width: 96px; height: 72px; border-radius: 6px; overflow: hidden; border: 1px solid var(--line); }
+    .site-thumbs img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .media-section-h { font-family: var(--sans); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 4px 0 10px; }
+    @media (max-width: 560px) { .fig-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
     .badge.outbound { color: var(--muted); background: color-mix(in srgb, var(--line) 55%, transparent); text-transform: none; letter-spacing: 0.02em; }
   </style>
 </head>
@@ -286,7 +305,7 @@
       en: {
         eyebrow: "Read-only archive",
         title: "Lin's Ancient Civilization Hypotheses",
-        lede: "Browse structured packs. Facts and hypotheses stay labeled. Typography carries the craft — no forged artifact imagery.",
+        lede: "Browse structured packs. Facts and hypotheses stay labeled. Images only when real, sourced, and openly licensed — no forged artifact imagery.",
         api: "API root",
         docs: "OpenAPI",
         searchPh: "Filter civilizations, sites, claims…",
@@ -323,11 +342,18 @@
         coords: "Coordinates",
         precision: "Precision",
         toc: "Sections",
+        license: "License",
+        sourcePage: "Source page",
+        fullImage: "Full image",
+        figures: "Verified images",
+        outboundRefs: "Outbound references",
+        stripNote: "Real photographs with verified open licenses; captions and attribution in",
+        seeMedia: "Media",
       },
       zh: {
         eyebrow: "只读档案",
         title: "林的古文明猜想",
-        lede: "浏览结构化档案包。事实与假说始终标注。美感靠字体与结构——不上伪造文物图。",
+        lede: "浏览结构化档案包。事实与假说始终标注。只配有出处、权利开放的真实照片——不上伪造文物图。",
         api: "接口根",
         docs: "OpenAPI",
         searchPh: "筛选文明、遗址、主张…",
@@ -364,6 +390,13 @@
         coords: "坐标",
         precision: "精度说明",
         toc: "分栏",
+        license: "许可",
+        sourcePage: "来源页",
+        fullImage: "原图",
+        figures: "已核验图片",
+        outboundRefs: "外链资料",
+        stripNote: "真实照片，许可已逐条核验；说明与署名见",
+        seeMedia: "媒体页签",
       },
     };
 
@@ -606,12 +639,13 @@
         sections.map((s) => `<a href="#sec-${esc(s.id)}">${esc(sectionTitle(s))}</a>`).join("")
       }</nav>`;
       const lineage = renderLineage(bundle);
+      const strip = state.q.trim() ? "" : renderFigureStrip(bundle);
       const body = sections.map((s) => `
         <section class="report-section" id="sec-${esc(s.id)}">
           <h3>${esc(sectionTitle(s))}</h3>
           <div class="report-body">${renderMdLite(sectionBody(s))}</div>
         </section>`).join("");
-      return toc + lineage + body;
+      return strip + toc + lineage + body;
     }
 
     function renderClaims(claims) {
@@ -636,7 +670,7 @@
       }).join("");
     }
 
-    function renderSites(sites, claims) {
+    function renderSites(sites, claims, media) {
       let list = sites;
       if (state.q.trim()) {
         list = list.filter((s) => matchQ([s.id, nameOf(s), s.region, txt(s.summary), s.kind_note || ""].join(" ")));
@@ -660,6 +694,7 @@
           <h3>${esc(nameOf(s))}</h3>
           <div class="sub id-mono">${esc(s.id)}${s.region ? " · " + esc(s.region) : ""}</div>
           <p>${esc(txt(s.summary) || s.kind_note || "")}</p>
+          ${siteThumbs(s, media)}
           ${coords}
           ${renderSources(s)}
           ${linkedBlock}
@@ -734,9 +769,69 @@
         "document-link": state.lang === "zh" ? "文档外链" : "Document link",
         "external-catalog": state.lang === "zh" ? "外部目录" : "External catalog",
         "outbound-image-ref": state.lang === "zh" ? "图像外链" : "Outbound image ref",
+        "embedded-image": state.lang === "zh" ? "已核验图片" : "Verified image",
         other: state.lang === "zh" ? "其他" : "Other",
       };
       return map[mt] || mt || "—";
+    }
+
+    function isEmbeddable(m) {
+      const r = m.rights || {};
+      return m.media_type === "embedded-image" && !!(m.thumb_url || m.image_url)
+        && r.status === "rights-cleared" && !!r.license && !!r.attribution;
+    }
+
+    function figImg(m, cls) {
+      const alt = txt(m.caption) || txt(m.title) || m.id;
+      return `<img src="${esc(m.thumb_url || m.image_url)}" alt="${esc(alt)}" loading="lazy" decoding="async"
+        referrerpolicy="no-referrer" data-fallback="${esc(cls || "")}" />`;
+    }
+
+    function renderFigure(m) {
+      const r = m.rights || {};
+      const lic = r.license_url
+        ? `<a href="${esc(r.license_url)}" target="_blank" rel="noopener noreferrer license">${esc(r.license)}</a>`
+        : esc(r.license);
+      const page = m.external_url
+        ? ` · <a href="${esc(m.external_url)}" target="_blank" rel="noopener noreferrer">${esc(t("sourcePage"))}</a>`
+        : "";
+      const full = m.image_url
+        ? ` · <a href="${esc(m.image_url)}" target="_blank" rel="noopener noreferrer">${esc(t("fullImage"))}</a>`
+        : "";
+      return `<figure class="fig-card" id="fig-${esc(m.id)}">
+        <a class="fig-img" href="${esc(m.external_url || m.image_url)}" target="_blank" rel="noopener noreferrer">${figImg(m, "fig-img")}</a>
+        <figcaption>
+          <p class="fig-title">${esc(txt(m.title) || m.id)}</p>
+          <p class="fig-cap">${esc(txt(m.caption))}</p>
+          <p class="fig-rights">${esc(t("license"))}: ${lic} · ${esc(t("attribution"))}: ${esc(r.attribution)}${page}${full}</p>
+        </figcaption>
+      </figure>`;
+    }
+
+    function renderFigureStrip(bundle) {
+      // Prefer images tied to a registered object/assemblage; one per site for variety; max 4.
+      const all = (bundle.media || []).filter(isEmbeddable);
+      const ranked = [...all.filter((m) => (m.object_ids || []).length), ...all.filter((m) => !(m.object_ids || []).length)];
+      const seen = new Set();
+      const figs = [];
+      for (const m of ranked) {
+        const key = (m.site_ids || [])[0] || m.id;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        figs.push(m);
+        if (figs.length === 4) break;
+      }
+      if (!figs.length) return "";
+      const cells = figs.map((m) => `<a href="#fig-${esc(m.id)}" data-goto-media="${esc(m.id)}" title="${esc(txt(m.title))}">${figImg(m, "strip")}</a>`).join("");
+      return `<div class="fig-strip">${cells}</div>
+        <p class="fig-strip-note">${esc(t("stripNote"))} <button type="button" data-goto-media="">${esc(t("seeMedia"))}</button>.</p>`;
+    }
+
+    function siteThumbs(site, media) {
+      const hits = (media || []).filter((m) => isEmbeddable(m) && (m.site_ids || []).includes(site.id));
+      if (!hits.length) return "";
+      return `<div class="site-thumbs">${hits.slice(0, 4).map((m) =>
+        `<a href="#fig-${esc(m.id)}" data-goto-media="${esc(m.id)}" title="${esc(txt(m.title))}">${figImg(m, "thumb")}</a>`).join("")}</div>`;
     }
 
     function renderMedia(mediaList) {
@@ -746,11 +841,18 @@
           m.id, txt(m.title), m.media_type,
           (m.rights && m.rights.status) || "",
           (m.rights && m.rights.attribution) || "",
-          m.external_url || "",
+          m.external_url || "", txt(m.caption),
         ].join(" ")));
       }
       if (!list.length) return `<div class="empty">${esc(t("mediaEmpty"))}</div>`;
-      return list.map((m) => {
+      const figs = list.filter(isEmbeddable);
+      const links = list.filter((m) => !isEmbeddable(m));
+      const figBlock = figs.length
+        ? `<h4 class="media-section-h">${esc(t("figures"))} (${figs.length})</h4><div class="fig-grid">${figs.map(renderFigure).join("")}</div>`
+        : "";
+      const linkHead = (figs.length && links.length)
+        ? `<h4 class="media-section-h">${esc(t("outboundRefs"))} (${links.length})</h4>` : "";
+      return figBlock + linkHead + links.map((m) => {
         const rights = m.rights || {};
         const status = rights.status || "unknown";
         const outbound = status === "outbound-link-only";
@@ -802,7 +904,7 @@
           ["media", t("media"), (bundle.media || []).length],
         ];
         let body = "";
-        if (state.tab === "sites") body = renderSites(bundle.sites, bundle.claims);
+        if (state.tab === "sites") body = renderSites(bundle.sites, bundle.claims, bundle.media || []);
         else if (state.tab === "periods") body = renderPeriods(bundle.periods);
         else if (state.tab === "claims") body = renderClaims(bundle.claims);
         else if (state.tab === "media") body = renderMedia(bundle.media || []);
@@ -825,6 +927,26 @@
             </div>
             <div>${body}</div>
           </div>`;
+        el.querySelectorAll("img[data-fallback]").forEach((img) => {
+          const kind = img.getAttribute("data-fallback");
+          const onErr = () => {
+            const wrap = img.parentElement;
+            img.remove();
+            // keep caption + links; collapse strip/thumb cells that are image-only
+            if (wrap && (kind === "strip" || kind === "thumb")) wrap.remove();
+            else if (wrap) wrap.style.display = "none";
+          };
+          img.addEventListener("error", onErr, { once: true });
+        });
+        el.querySelectorAll("[data-goto-media]").forEach((a) => {
+          a.addEventListener("click", async (ev) => {
+            ev.preventDefault();
+            const target = a.getAttribute("data-goto-media");
+            state.tab = "media";
+            await renderDetail();
+            if (target) document.getElementById(`fig-${target}`)?.scrollIntoView({ behavior: "smooth", block: "center" });
+          });
+        });
         el.querySelectorAll("[data-tab]").forEach((btn) => {
           btn.addEventListener("click", () => {
             state.tab = btn.getAttribute("data-tab");

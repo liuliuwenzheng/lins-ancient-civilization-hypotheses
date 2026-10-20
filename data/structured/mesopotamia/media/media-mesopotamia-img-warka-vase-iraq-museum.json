@@ -1,0 +1,43 @@
+{
+  "id": "media-mesopotamia-img-warka-vase-iraq-museum",
+  "entity": "media",
+  "title": {
+    "zh": "瓦尔卡瓶（伊拉克博物馆 IM19606）",
+    "en": "Warka Vase (Iraq Museum IM19606)",
+    "native": null
+  },
+  "caption": {
+    "zh": "出自瓦尔卡（古乌鲁克）的瓦尔卡祭瓶原件实物照片，雪花石膏浮雕，伊拉克博物馆（巴格达）藏，编号 IM19606；照片来源将其定为杰姆代特奈斯尔期（约前 3000–2900 年）。",
+    "en": "Photograph of the original Warka Vase from Warka (ancient Uruk), carved alabaster, Iraq Museum, Baghdad, IM19606; the photo source dates it to the Jemdet Nasr period (3000–2900 BCE).",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Warka_Vase,_Iraq_Museum.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Warka_Vase%2C_Iraq_Museum.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Warka_Vase%2C_Iraq_Museum.jpg/960px-Warka_Vase%2C_Iraq_Museum.jpg",
+  "local_path": null,
+  "object_ids": [],
+  "site_ids": [
+    "site-uruk"
+  ],
+  "sources": [
+    "src-mesopotamia-img-warka-vase-iraq-museum"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Warka_Vase,_Iraq_Museum.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY-SA 4.0', Artist='Osama Shukir Muhammed Amin FRCP(Glasg)', Credit='Own work'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Warka_Vase,_Iraq_Museum.jpg",
+      "sources/src-mesopotamia-img-warka-vase-iraq-museum.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

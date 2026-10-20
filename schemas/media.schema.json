@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/liuliuwenzheng/lins-ancient-civilization-hypotheses/main/schemas/media.schema.json",
   "title": "Media",
-  "description": "Rights metadata. External URL allowed. Unverified uploads forbidden. No forged artifact images.",
+  "description": "Rights metadata. External URL allowed. Embedded images only as hotlinked image_url with a verified open license (D-2026-10-20-01). Unverified uploads forbidden. No forged artifact images.",
   "type": "object",
   "required": ["id", "entity", "rights"],
   "additionalProperties": false,
@@ -10,13 +10,27 @@
     "id": { "type": "string", "pattern": "^media-[a-z0-9-]+$" },
     "entity": { "const": "media" },
     "title": { "$ref": "common.defs.json#/$defs/LocalizedString" },
+    "caption": {
+      "$ref": "common.defs.json#/$defs/LocalizedString",
+      "description": "Factual caption: what is depicted; institution/accession only if the source gives it; casts/replicas must say so"
+    },
     "media_type": {
       "type": "string",
-      "enum": ["external-catalog", "outbound-image-ref", "document-link", "other"]
+      "enum": ["external-catalog", "outbound-image-ref", "document-link", "embedded-image", "other"]
     },
     "external_url": {
       "type": ["string", "null"],
-      "description": "Preferred v0: outbound link only"
+      "description": "Source page (Commons file page / museum object page) or outbound link"
+    },
+    "image_url": {
+      "type": ["string", "null"],
+      "pattern": "^https://(upload\\.wikimedia\\.org|thumb\\.wikimedia\\.org|images\\.metmuseum\\.org)/",
+      "description": "Hotlinked full image on the official host; requires rights.status=rights-cleared + open license (export_check embed gate)"
+    },
+    "thumb_url": {
+      "type": ["string", "null"],
+      "pattern": "^https://(upload\\.wikimedia\\.org|thumb\\.wikimedia\\.org|images\\.metmuseum\\.org)/",
+      "description": "Hotlinked thumbnail on the official host"
     },
     "local_path": {
       "type": ["null"],
@@ -25,6 +39,10 @@
     "object_ids": {
       "type": "array",
       "items": { "type": "string", "pattern": "^(obj|asm)-[a-z0-9-]+$" }
+    },
+    "site_ids": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^site-[a-z0-9-]+$" }
     },
     "sources": {
       "type": "array",

@@ -1,0 +1,45 @@
+{
+  "id": "media-egypt-img-umm-el-qaab-surface",
+  "entity": "media",
+  "title": {
+    "zh": "阿拜多斯 Umm el-Qa'ab 地表",
+    "en": "Umm el-Qa'ab, Abydos — ground surface",
+    "native": null
+  },
+  "caption": {
+    "zh": "阿拜多斯 Umm el-Qa'ab（早王朝王陵区，阿拉伯名意为「陶罐之母」）地表遍布陶片的现场照片。",
+    "en": "Site photograph of Umm el-Qa'ab at Abydos (Early Dynastic royal cemetery; Arabic name 'mother of pots'), showing the sherd-strewn surface.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab_1.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Umm_el-Qa%27ab_1.jpg",
+  "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Umm_el-Qa%27ab_1.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-abydos-royal-tomb-assemblage"
+  ],
+  "site_ids": [
+    "site-abydos"
+  ],
+  "sources": [
+    "src-egypt-img-umm-el-qaab-surface"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "E M",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab_1.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 2.0', Artist='E M', Credit='_IGP2283'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab_1.jpg",
+      "sources/src-egypt-img-umm-el-qaab-surface.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

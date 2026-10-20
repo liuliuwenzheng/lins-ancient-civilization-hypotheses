@@ -1,0 +1,46 @@
+{
+  "id": "media-mesopotamia-img-standard-of-ur-peace",
+  "entity": "media",
+  "title": {
+    "zh": "乌尔军旗「和平」面（大英博物馆藏原件）",
+    "en": "Standard of Ur, 'Peace' side (original, British Museum)",
+    "native": null
+  },
+  "caption": {
+    "zh": "乌尔军旗「和平」面细部实物照片（原件藏伦敦大英博物馆；出自 Woolley 发掘的乌尔皇家墓地）。照片为 Commons 用户拍摄并以 CC BY-SA 发布，非大英博物馆官方图片。",
+    "en": "Photograph of the 'Peace' side of the Standard of Ur (original in the British Museum, London; from the Ur Royal Cemetery excavated by Woolley). User photograph released on Commons under CC BY-SA — not a British Museum image.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Standard_of_Ur_-_Peace.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Standard_of_Ur_-_Peace.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Standard_of_Ur_-_Peace.jpg/960px-Standard_of_Ur_-_Peace.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-ur-royal-cemetery-ue2"
+  ],
+  "site_ids": [
+    "site-ur-royal-cemetery",
+    "site-ur"
+  ],
+  "sources": [
+    "src-mesopotamia-img-standard-of-ur-peace"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "LeastCommonAncestor (derived from File:Standard of ur peace 2013.JPG by user:geni)",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Standard_of_Ur_-_Peace.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY-SA 3.0', Artist='LeastCommonAncestor', Credit='Own work'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Standard_of_Ur_-_Peace.jpg",
+      "sources/src-mesopotamia-img-standard-of-ur-peace.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

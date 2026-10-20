@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-img-met-giza-reserve-head",
+  "entity": "source",
+  "type": "museum-catalog",
+  "citation": "The Metropolitan Museum of Art. Reserve head. Accession 48.156. ca. 2551–2528 BCE. Rogers Fund, 1948. Collection API object 543909.",
+  "url": "https://www.metmuseum.org/art/collection/search/543909",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "The Metropolitan Museum of Art record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/543909"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

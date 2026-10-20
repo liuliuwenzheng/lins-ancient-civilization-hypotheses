@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-img-narmer-palette-verso-mortel",
+  "entity": "source",
+  "type": "image-record",
+  "citation": "Wikimedia Commons. File:The Narmer Palette, early First Dynasty, ca. 3000 BCE; Egyptian Museum, Cairo (2).jpg. Author/artist: Richard Mortel. License: CC BY 2.0.",
+  "url": "https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(2).jpg",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "Wikimedia Commons record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(2).jpg"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}

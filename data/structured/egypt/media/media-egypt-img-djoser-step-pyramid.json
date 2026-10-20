@@ -1,0 +1,46 @@
+{
+  "id": "media-egypt-img-djoser-step-pyramid",
+  "entity": "media",
+  "title": {
+    "zh": "萨卡拉左塞尔阶梯金字塔",
+    "en": "Step Pyramid of Djoser, Saqqara",
+    "native": null
+  },
+  "caption": {
+    "zh": "萨卡拉左塞尔阶梯金字塔现场照片（第三王朝）。",
+    "en": "Site photograph of the Step Pyramid of Djoser at Saqqara (Third Dynasty).",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser_2,_Ancient_Egypt.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Saqqara%2C_Pyramid_of_Djoser_2%2C_Ancient_Egypt.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Saqqara%2C_Pyramid_of_Djoser_2%2C_Ancient_Egypt.jpg/960px-Saqqara%2C_Pyramid_of_Djoser_2%2C_Ancient_Egypt.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-saqqara-step-pyramid",
+    "asm-saqqara-step-pyramid-lauer"
+  ],
+  "site_ids": [
+    "site-saqqara"
+  ],
+  "sources": [
+    "src-egypt-img-djoser-step-pyramid"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Vyacheslav Argenberg",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser_2,_Ancient_Egypt.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 4.0', Artist='Vyacheslav Argenberg', Credit='Own work'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser_2,_Ancient_Egypt.jpg",
+      "sources/src-egypt-img-djoser-step-pyramid.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

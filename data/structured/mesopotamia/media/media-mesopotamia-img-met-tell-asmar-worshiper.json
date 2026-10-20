@@ -1,0 +1,45 @@
+{
+  "id": "media-mesopotamia-img-met-tell-asmar-worshiper",
+  "entity": "media",
+  "title": {
+    "zh": "阿斯马尔丘站立男性礼拜者像（大都会 40.156）",
+    "en": "Standing male worshiper, Tell Asmar (Met 40.156)",
+    "native": null
+  },
+  "caption": {
+    "zh": "站立男性礼拜者像，石膏雪花石、贝壳、黑色石灰岩、沥青，早王朝 I–II 期（约前 2900–2600 年），出自埃什努纳（今阿斯马尔丘）。大都会艺术博物馆藏，馆藏号 40.156。",
+    "en": "Standing male worshiper, gypsum alabaster, shell, black limestone, bitumen; Early Dynastic I–II, ca. 2900–2600 BCE; from Eshnunna (modern Tell Asmar). The Metropolitan Museum of Art, accession 40.156.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://www.metmuseum.org/art/collection/search/323735",
+  "image_url": "https://images.metmuseum.org/CRDImages/an/original/DP-39988-001.jpg",
+  "thumb_url": "https://images.metmuseum.org/CRDImages/an/web-large/DP-39988-001.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-diyala-sculpture-oip44"
+  ],
+  "site_ids": [
+    "site-tell-asmar"
+  ],
+  "sources": [
+    "src-mesopotamia-img-met-tell-asmar-worshiper"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC0 1.0 (The Met Open Access)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, New York. Fletcher Fund, 1940",
+    "upstream_url": "https://www.metmuseum.org/art/collection/search/323735",
+    "notes": "Verified 2026-10-20 via Met Collection API /v1/objects/323735: isPublicDomain=true (Open Access, CC0). Hotlinked from images.metmuseum.org; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/323735",
+      "sources/src-mesopotamia-img-met-tell-asmar-worshiper.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "media-egypt-img-meidum-pyramid",
+  "entity": "media",
+  "title": {
+    "zh": "美杜姆金字塔",
+    "en": "Meidum pyramid",
+    "native": null
+  },
+  "caption": {
+    "zh": "美杜姆金字塔（坍塌外层后残存的阶梯状核心）现场照片；Petrie《Medum》报告所述遗址。",
+    "en": "Site photograph of the Meidum pyramid (stepped core remaining after the outer casing collapsed); site of Petrie's Medum report.",
+    "native": null
+  },
+  "media_type": "embedded-image",
+  "external_url": "https://commons.wikimedia.org/wiki/File:Meidum_Pyramid.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Meidum_Pyramid.jpg",
+  "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Meidum_Pyramid.jpg",
+  "local_path": null,
+  "object_ids": [
+    "asm-meidum-pyramid-mastaba"
+  ],
+  "site_ids": [
+    "site-meidum"
+  ],
+  "sources": [
+    "src-egypt-img-meidum-pyramid"
+  ],
+  "rights": {
+    "status": "rights-cleared",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Charlie Phillips from London, UK",
+    "upstream_url": "https://commons.wikimedia.org/wiki/File:Meidum_Pyramid.jpg",
+    "notes": "Verified 2026-10-20 via Commons API imageinfo extmetadata: LicenseShortName='CC BY 2.0', Artist='Charlie Phillips from London, UK', Credit='Collapsed pyramid of Sneferu, Meidum, Egypt'. Hotlinked from Wikimedia; no binary in repo."
+  },
+  "editorial": {
+    "derived_from": [
+      "https://commons.wikimedia.org/wiki/File:Meidum_Pyramid.jpg",
+      "sources/src-egypt-img-meidum-pyramid.md",
+      "docs/decisions.md#d-2026-10-20-01"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "D-2026-10-20-01 image pilot. Caption restates only facts given on the source page; no cast/replica; not AI-generated."
+  }
+}

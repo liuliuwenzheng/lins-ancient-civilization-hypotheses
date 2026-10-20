@@ -91,17 +91,36 @@ GET /api/v1/civilizations/{id}/report
 
 **不要**把受版权二进制下载进仓库。在核验到可视化 URL 之前，包内可仅保留文档外链媒体。
 
+### 页内嵌图（D-2026-10-20-01）
+
+通过**嵌入闸门**（`export_check` 强制）的记录可热链真实图片：
+
+| 字段 | 规则 |
+|------|------|
+| `media_type` | `embedded-image` |
+| `image_url` / `thumb_url` | 仅官方主机：`upload.wikimedia.org`、`thumb.wikimedia.org`、`images.metmuseum.org`（schema 正则）。仓内不存二进制。 |
+| `rights` | `status: rights-cleared`；`license` 仅限公有领域 / CC0 / CC BY / CC BY-SA；必须有 `license_url`、`attribution`（照抄来源署名）、`upstream_url` |
+| `external_url` | Commons 文件页或博物馆藏品页 |
+| `caption` | 中英双语、只写事实：是什么、来源给出的收藏机构与馆藏号；石膏模型/复制品/摹本必须注明（本次试点未收） |
+| 关联 | ≥1 条 `src-*`（每图一条 T 档记录）+ ≥1 个包内存在的 `object_ids`/`site_ids` |
+
+逐图核验：Commons API `imageinfo`/`extmetadata`；大都会 Collection API `isPublicDomain=true`；目视核对缩略图与说明一致；`python3 tools/check_media_images.py <包名>`（HEAD → 200 `image/*`）。
+
+界面：媒体页签先列已核验图片（懒加载、`alt` = 说明、许可 + 署名 + 来源页），外链资料仍为链接卡片；档案报告顶部 ≤4 张图带，点击跳到媒体页签；遗址卡按 `site_ids` 显示缩略图；图片失效时移除 `<img>`，保留说明与链接。
+
+试点：埃及 12 张、两河 9 张——见 [`decisions.zh.md#d-2026-10-20-01`](decisions.zh.md)。
+
 ## 非目标（v1）
 
 - 在 API 里生成新百科散文
 - 自动补译缺失的中/英半边
 - 装饰性「博物馆」配图或伪造缩略图
 - 把假说升格写进报告分栏
-- 在无权利清理时嵌入第三方图片
+- 在无权利清理时嵌入第三方图片（见上方嵌入闸门）
 
 ## 校验
 
 - `export_check` 仍通过（报告解析只读呈现）。
 - Curl 埃及、两河 `/report` → 栏目非空；Markdown 含研究史则响应含该栏。
 - Curl `/periods?civilization=civ-ancient-egypt` → 旧石器/巴达里早于纳盖达早于古王国（按 `approx_from_bce`）。
-- Curl `/media?civilization=…` → 有登记媒体的包非空；UI 媒体页签只出示外链卡片、无假缩略图。
+- Curl `/media?civilization=…` → 有登记媒体的包非空；UI 媒体页签外链卡片无假缩略图；仅通过嵌入闸门的记录显示图片（埃及/两河含 `image_url`；`tools/check_media_images.py` 全部 OK）。

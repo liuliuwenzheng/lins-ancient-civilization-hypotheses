@@ -1,0 +1,17 @@
+{
+  "id": "src-egypt-img-met-hierakonpolis-decorated-jar",
+  "entity": "source",
+  "type": "museum-catalog",
+  "citation": "The Metropolitan Museum of Art. Decorated ware jar. Accession 36.1.131. ca. 3500 BCE. Rogers Fund, 1936. Collection API object 547143.",
+  "url": "https://www.metmuseum.org/art/collection/search/547143",
+  "access_date": "2026-10-20",
+  "reliability_tier": "T",
+  "notes": "The Metropolitan Museum of Art record for an embedded image (D-2026-10-20-01). Tier T: identifies the depicted object/site and its rights; not a primary excavation report.",
+  "editorial": {
+    "derived_from": [
+      "https://www.metmuseum.org/art/collection/search/547143"
+    ],
+    "derived_on": "2026-10-20",
+    "notes": "Rights + metadata read from the official API/page on access date."
+  }
+}
